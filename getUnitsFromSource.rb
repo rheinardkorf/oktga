@@ -1,3 +1,26 @@
+# This script receives an XML source of Training Components
+# extracted from TRAINING.GOV.AU using getTrainingComponents.rb
+#
+# The script will then parse the source for the list of units
+# and use SOAP to access available file releases from the
+# TRAINING.GOV.AU SOAP web services.
+#
+# By default it will save any files in a sub directory (./pdf)
+# The script can easily be modified to pull the unit XML files.
+#
+# I chose to pull the PDFs for alternate workflows.
+#
+# Usage::     ruby getUnitsFromSource.rb [thesource.xml]
+#
+# Note::      You will need login credentials from training.gov.au
+#             Request credentials from:
+#             http://training.gov.au/Home/Enquiry
+#
+# Author::    Rheinard Korf  (mailto:rheinard@thekorfs.com)
+# Copyright:: Copyright (c) 2012 Rheinard Korf
+# License::   Distributed under the MIT License. See 'LICENSE'
+#
+
 require 'savon'
 require 'nokogiri'
 require 'open-uri'

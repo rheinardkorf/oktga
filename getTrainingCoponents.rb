@@ -1,3 +1,22 @@
+# This script uses a report from TRAINING.GOV.AU 
+# to gather a list of available TrainingPackages. 
+# The list is then processed to produce a series
+# of XML files that builds a Training Component Tree.
+# This tree has a hierarchical structure of:
+#
+# trainingpackage > qualifications
+#                      > units
+#                 > skillsets
+#                      > units
+#
+# It does not contain any of the content. Only the
+# the structure.
+#
+# Author::    Rheinard Korf  (mailto:rheinard@thekorfs.com)
+# Copyright:: Copyright (c) 2012 Rheinard Korf
+# License::   Distributed under the MIT License. See 'LICENSE'
+#
+
 # Do requires…
 require 'open-uri'
 require 'nokogiri'

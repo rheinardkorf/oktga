@@ -1,5 +1,6 @@
 oktga
 =====
+> *Pronounced as "okay T G A"*
 
 A series of scripts (mostly Ruby) to extract Training Package data from Training.gov.au and making it more useful.
 

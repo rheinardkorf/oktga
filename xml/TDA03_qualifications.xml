@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<qualifications class="TDA03">
+  <qualification id="TDA10103" title="Certificate I in Transport and Distribution (Aviation Foundation Skills)">
+    <units/>
+  </qualification>
+  <qualification id="TDA20203" title="Certificate II in Transport and Distribution (Aviation Flight Operations)">
+    <units>
+      <unit id="TDAZ503A" title="Manage basic situation awareness in the aviation workplace"/>
+      <unit id="TDTA197B" title="Secure cargo"/>
+      <unit id="TDTB2401A" title="Clean transportation units and facilities for passenger use"/>
+      <unit id="TDTB2897A" title="Maintain and Use Hand Tools"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTD197B" title="Shift materials safely using manual handling methods"/>
+      <unit id="TDTD297B" title="Shift a load using manually-operated equipment"/>
+      <unit id="TDTE397B" title="Participate in basic workplace communication"/>
+      <unit id="TDTE597B" title="Carry out basic workplace calculations"/>
+      <unit id="TDTF197B" title="Follow OHS procedures"/>
+      <unit id="TDTF297B" title="Conduct housekeeping activities"/>
+      <unit id="TDTF997B" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TDTG197B" title="Work effectively with others"/>
+      <unit id="TDTI297C" title="Apply customer service skills"/>
+      <unit id="TDTL197B" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TDTO297B" title="Follow security procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TDA20403" title="Certificate II in Transport and Distribution (Aviation Ground Operations and Service)">
+    <units/>
+  </qualification>
+  <qualification id="TDA30403" title="Certificate III in Transport and Distribution (Aviation Ground Operations and Service)">
+    <units/>
+  </qualification>
+  <qualification id="TDA30203" title="Certificate III in Transport and Distribution (Aviation Flight Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDA40203" title="Certificate IV in Transport and Distribution (Aviation Flight Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDA40403" title="Certificate IV in Transport and Distribution (Aviation Ground Operations and Service)">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ406A" title="Plan a series of training sessions"/>
+      <unit id="BSZ407A" title="Deliver training sessions"/>
+      <unit id="BSZ408A" title="Review training"/>
+    </units>
+  </qualification>
+  <qualification id="TDA40107" title="Certificate IV in Aviation Operations (Commercial Pilot Aeroplane Licence)">
+    <units/>
+  </qualification>
+  <qualification id="TDA40207" title="Certificate IV in Aviation Operations (Commercial Pilot Helicopter Licence)">
+    <units/>
+  </qualification>
+  <qualification id="TDA50303" title="Diploma of Transport and Distribution (Air Traffic Control)">
+    <units/>
+  </qualification>
+</qualifications>

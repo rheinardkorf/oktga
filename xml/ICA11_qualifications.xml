@@ -1,0 +1,1101 @@
+<?xml version="1.0"?>
+<qualifications class="ICA11">
+  <qualification id="ICA10111" title="Certificate I in Information, Digital Media and Technology">
+    <units>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT104A" title="Use digital devices"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT107A" title="Use personal productivity tools"/>
+      <unit id="ICAICT108A" title="Use digital literacy skills to access the internet"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICA20111" title="Certificate II in Information, Digital Media and Technology">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CUFCAM201A" title="Assist with a basic camera shoot"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFPOS201A" title="Perform basic vision and sound editing"/>
+      <unit id="CUFSOU204A" title="Perform basic sound editing"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT202A" title="Work and communicate effectively in an IT environment"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT204A" title="Operate a digital media technology package"/>
+      <unit id="ICAICT205A" title="Design basic organisational documents using computing packages"/>
+      <unit id="ICAICT206A" title="Install software applications"/>
+      <unit id="ICAICT207A" title="Integrate commercial computing packages"/>
+      <unit id="ICAICT208A" title="Operate accounting applications"/>
+      <unit id="ICAICT209A" title="Interact with ICT clients"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICAICT211A" title="Identify and use basic current industry-specific technologies"/>
+      <unit id="ICAICT212A" title="Incorporate Indigenous needs and perspectives into IT environment"/>
+      <unit id="ICASAS201A" title="Maintain inventories for equipment, software and documentation"/>
+      <unit id="ICASAS202A" title="Apply problem-solving techniques to routine IT malfunctions"/>
+      <unit id="ICASAS203A" title="Connect hardware peripherals"/>
+      <unit id="ICASAS204A" title="Record client support requirements"/>
+      <unit id="ICASAS205A" title="Maintain IT system integrity"/>
+      <unit id="ICASAS206A" title="Detect and protect from spam and destructive software"/>
+      <unit id="ICASAS207A" title="Protect and secure information assets"/>
+      <unit id="ICASAS208A" title="Maintain IT equipment and consumables"/>
+      <unit id="ICASAS209A" title="Connect and use a home-based local wireless network"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA30111" title="Certificate III in Information, Digital Media and Technology">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBIPR301A" title="Comply with organisational requirements for protection and use of intellectual property"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFDIG301A" title="Prepare video assets"/>
+      <unit id="CUFDIG302A" title="Author interactive sequences"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="ICAGAM301A" title="Apply simple modelling techniques"/>
+      <unit id="ICAGAM302A" title="Design and apply simple textures to digital art"/>
+      <unit id="ICAGAM303A" title="Review and apply the principles of animation"/>
+      <unit id="ICAICT202A" title="Work and communicate effectively in an IT environment"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT301A" title="Create user documentation"/>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAICT303A" title="Connect internal hardware components"/>
+      <unit id="ICAICT304A" title="Implement system software changes"/>
+      <unit id="ICAICT305A" title="Identify and use current industry-specific technologies"/>
+      <unit id="ICAICT306A" title="Migrate to new technology"/>
+      <unit id="ICAICT307A" title="Customise packaged software applications for clients"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICAICT409A" title="Develop macros and templates for clients using standard products"/>
+      <unit id="ICANWK301A" title="Provide network systems administration"/>
+      <unit id="ICANWK302A" title="Identify and resolve network problems"/>
+      <unit id="ICANWK303A" title="Configure and administer a network operating system"/>
+      <unit id="ICANWK304A" title="Administer network peripherals"/>
+      <unit id="ICANWK305A" title="Install and manage network protocols"/>
+      <unit id="ICAPRG301A" title="Apply introductory programming techniques"/>
+      <unit id="ICASAS301A" title="Run standard diagnostic tests"/>
+      <unit id="ICASAS303A" title="Care for computer hardware"/>
+      <unit id="ICASAS304A" title="Provide basic system administration"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICASAS306A" title="Maintain equipment and software"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="ICAWEB301A" title="Create a simple markup language document"/>
+      <unit id="ICAWEB302A" title="Build simple websites using commercial programs"/>
+      <unit id="ICAWEB303A" title="Produce digital images for the web"/>
+      <unit id="ICPMM346C" title="Incorporate video into multimedia presentations"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40511" title="Certificate IV in Programming">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="ICADBS403A" title="Create basic databases"/>
+      <unit id="ICAICT404A" title="Use online learning tools"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT420A" title="Develop client user interface"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG401A" title="Maintain open-source code programs"/>
+      <unit id="ICAPRG402A" title="Apply query language"/>
+      <unit id="ICAPRG403A" title="Develop data-driven applications"/>
+      <unit id="ICAPRG404A" title="Test applications"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG407A" title="Write script for software applications"/>
+      <unit id="ICAPRG409A" title="Develop mobile applications"/>
+      <unit id="ICAPRG410A" title="Build a user interface"/>
+      <unit id="ICAPRG412A" title="Configure and maintain databases"/>
+      <unit id="ICAPRG413A" title="Use a library or pre-existing components"/>
+      <unit id="ICAPRG414A" title="Apply introductory programming skills in another language"/>
+      <unit id="ICAPRG415A" title="Apply skills in object-oriented design"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG419A" title="Analyse software requirements"/>
+      <unit id="ICAPRG427A" title="Use XML effectively"/>
+      <unit id="ICAPRG428A" title="Use regular expressions in programming languages"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICASAD401A" title="Develop and present feasibility reports"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40111" title="Certificate IV in Information Technology">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="CUFSOU204A" title="Perform basic sound editing"/>
+      <unit id="CUFSOU301A" title="Prepare audio assets"/>
+    </units>
+  </qualification>
+  <qualification id="ICA40311" title="Certificate IV in Web-Based Technologies">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="ICADBS403A" title="Create basic databases"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT407A" title="Maintain website information standards"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT420A" title="Develop client user interface"/>
+      <unit id="ICANWK409A" title="Create scripts for networking"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAWEB401A" title="Design a website to meet technical requirements"/>
+      <unit id="ICAWEB402A" title="Confirm accessibility of websites for people with special needs"/>
+      <unit id="ICAWEB403A" title="Transfer content to a website using commercial packages"/>
+      <unit id="ICAWEB404A" title="Maintain website performance"/>
+      <unit id="ICAWEB405A" title="Monitor traffic and compile website traffic reports"/>
+      <unit id="ICAWEB406A" title="Create website testing procedures"/>
+      <unit id="ICAWEB407A" title="Conduct operational acceptance tests of websites"/>
+      <unit id="ICAWEB408A" title="Ensure basic website security"/>
+      <unit id="ICAWEB409A" title="Develop cascading style sheets"/>
+      <unit id="ICAWEB410A" title="Apply web authoring tool to convert client data for websites"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB412A" title="Produce interactive web animation"/>
+      <unit id="ICAWEB413A" title="Optimise search engines"/>
+      <unit id="ICAWEB414A" title="Design simple web page layouts"/>
+      <unit id="ICAWEB415A" title="Produce server-side script for dynamic web pages"/>
+      <unit id="ICAWEB416A" title="Customise content management system"/>
+      <unit id="ICAWEB417A" title="Integrate social web technologies"/>
+      <unit id="ICAWEB421A" title="Ensure website content meets technical protocols and standards"/>
+      <unit id="ICAWEB424A" title="Evaluate and select a web hosting service"/>
+      <unit id="ICAWEB425A" title="Apply structured query language to extract and manipulate data"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA41011" title="Certificate IV in Computer Systems Technology">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT405A" title="Develop detailed technical design"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT412A" title="Coordinate and maintain IT work teams"/>
+      <unit id="ICAICT415A" title="Provide one-to-one instruction"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT421A" title="Connect, maintain and configure hardware components"/>
+      <unit id="ICANWK401A" title="Install and manage a server"/>
+      <unit id="ICANWK402A" title="Install and configure virtual machines for sustainable ICT"/>
+      <unit id="ICANWK403A" title="Manage network and data integrity"/>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK405A" title="Build a small wireless local area network"/>
+      <unit id="ICANWK407A" title="Install and configure client-server applications and services"/>
+      <unit id="ICANWK408A" title="Configure a desktop environment"/>
+      <unit id="ICANWK507A" title="Install, operate and troubleshoot medium enterprise routers"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG409A" title="Develop mobile applications"/>
+      <unit id="ICAPRG414A" title="Apply introductory programming skills in another language"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+      <unit id="ICASAS420A" title="Provide first-level remote help-desk support"/>
+      <unit id="ICASAS425A" title="Configure and troubleshoot operating system software"/>
+      <unit id="ICASAS426A" title="Locate and troubleshoot IT equipment, system and software faults"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB414A" title="Design simple web page layouts"/>
+      <unit id="ICAWEB415A" title="Produce server-side script for dynamic web pages"/>
+      <unit id="ICAWEB425A" title="Apply structured query language to extract and manipulate data"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40411" title="Certificate IV in Information Technology Networking">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICANWK401A" title="Install and manage a server"/>
+      <unit id="ICANWK402A" title="Install and configure virtual machines for sustainable ICT"/>
+      <unit id="ICANWK403A" title="Manage network and data integrity"/>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK405A" title="Build a small wireless local area network"/>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+      <unit id="ICANWK407A" title="Install and configure client-server applications and services"/>
+      <unit id="ICANWK408A" title="Configure a desktop environment"/>
+      <unit id="ICANWK409A" title="Create scripts for networking"/>
+      <unit id="ICANWK410A" title="Install hardware to a network"/>
+      <unit id="ICANWK411A" title="Deploy software to networked computers"/>
+      <unit id="ICANWK412A" title="Create network documentation"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICASAS426A" title="Locate and troubleshoot IT equipment, system and software faults"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4211A" title="Design, install and configure an internetwork"/>
+      <unit id="ICTTEN5200A" title="Install, configure and test a local area network switch"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40811" title="Certificate IV in Digital Media Technologies">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFCAM301A" title="Shoot material for screen productions"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFPOS401A" title="Edit screen content for fast turnaround"/>
+      <unit id="CUFPOS402A" title="Manage media assets"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="CUFSOU204A" title="Perform basic sound editing"/>
+      <unit id="CUFSOU301A" title="Prepare audio assets"/>
+      <unit id="ICADBS412A" title="Build a database"/>
+      <unit id="ICADMT401A" title="Create visual design components for digital media"/>
+      <unit id="ICADMT402A" title="Produce interactive animation"/>
+      <unit id="ICADMT403A" title="Produce and edit digital images"/>
+      <unit id="ICAGAM401A" title="Produce an interactive game"/>
+      <unit id="ICAGAM403A" title="Create design documents for interactive games"/>
+      <unit id="ICAGAM405A" title="Write story and content for digital games"/>
+      <unit id="ICAGAM413A" title="Design and create 3-D digital models"/>
+      <unit id="ICAICT404A" title="Use online learning tools"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT419A" title="Work effectively in the digital media industry"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG301A" title="Apply introductory programming techniques"/>
+      <unit id="ICAPRG402A" title="Apply query language"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG407A" title="Write script for software applications"/>
+      <unit id="ICAPRG412A" title="Configure and maintain databases"/>
+      <unit id="ICAPRG414A" title="Apply introductory programming skills in another language"/>
+      <unit id="ICAWEB301A" title="Create a simple markup language document"/>
+      <unit id="ICAWEB402A" title="Confirm accessibility of websites for people with special needs"/>
+      <unit id="ICAWEB406A" title="Create website testing procedures"/>
+      <unit id="ICAWEB407A" title="Conduct operational acceptance tests of websites"/>
+      <unit id="ICAWEB409A" title="Develop cascading style sheets"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB412A" title="Produce interactive web animation"/>
+      <unit id="ICAWEB414A" title="Design simple web page layouts"/>
+      <unit id="ICAWEB415A" title="Produce server-side script for dynamic web pages"/>
+      <unit id="ICAWEB421A" title="Ensure website content meets technical protocols and standards"/>
+      <unit id="ICAWEB425A" title="Apply structured query language to extract and manipulate data"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40611" title="Certificate IV in Information Technology Testing">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT411A" title="Select and employ software and hardware testing tools"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICANWK403A" title="Manage network and data integrity"/>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK501A" title="Plan, implement and test enterprise communication solutions"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG404A" title="Test applications"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICASAS301A" title="Run standard diagnostic tests"/>
+      <unit id="ICASAS401A" title="Perform unit test for a class"/>
+      <unit id="ICASAS503A" title="Perform systems tests"/>
+      <unit id="ICASAS504A" title="Develop and conduct client acceptance test"/>
+      <unit id="ICASAS513A" title="Develop detailed test plans"/>
+      <unit id="ICASAS514A" title="Perform integration tests"/>
+      <unit id="ICASAS515A" title="Manage the testing process"/>
+      <unit id="ICASAS516A" title="Perform stress and load tests on integrated platforms"/>
+      <unit id="ICAWEB406A" title="Create website testing procedures"/>
+      <unit id="ICAWEB407A" title="Conduct operational acceptance tests of websites"/>
+      <unit id="ICAWEB423A" title="Ensure dynamic website security"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40711" title="Certificate IV in Systems Analysis and Design">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="ICADBS401A" title="Identify physical database requirements"/>
+      <unit id="ICADBS412A" title="Build a database"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT402A" title="Determine project specifications and secure client agreement"/>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT405A" title="Develop detailed technical design"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT411A" title="Select and employ software and hardware testing tools"/>
+      <unit id="ICAICT412A" title="Coordinate and maintain IT work teams"/>
+      <unit id="ICAICT413A" title="Relate to clients on a business level"/>
+      <unit id="ICAICT416A" title="Contribute to the development of strategic plans"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG404A" title="Test applications"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG414A" title="Apply introductory programming skills in another language"/>
+      <unit id="ICAPRG415A" title="Apply skills in object-oriented design"/>
+      <unit id="ICAPRG419A" title="Analyse software requirements"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICASAD401A" title="Develop and present feasibility reports"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40211" title="Certificate IV in Information Technology Support">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS402B" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICADBS401A" title="Identify physical database requirements"/>
+      <unit id="ICADBS402A" title="Complete database backup and restore"/>
+      <unit id="ICADBS403A" title="Create basic databases"/>
+      <unit id="ICADBS404A" title="Identify and resolve common database performance problems"/>
+      <unit id="ICADBS409A" title="Monitor and administer a database"/>
+      <unit id="ICADBS412A" title="Build a database"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT413A" title="Relate to clients on a business level"/>
+      <unit id="ICAICT415A" title="Provide one-to-one instruction"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT421A" title="Connect, maintain and configure hardware components"/>
+      <unit id="ICAICT422A" title="Participate in IT services"/>
+      <unit id="ICANWK401A" title="Install and manage a server"/>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK405A" title="Build a small wireless local area network"/>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+      <unit id="ICANWK408A" title="Configure a desktop environment"/>
+      <unit id="ICANWK409A" title="Create scripts for networking"/>
+      <unit id="ICANWK410A" title="Install hardware to a network"/>
+      <unit id="ICANWK411A" title="Deploy software to networked computers"/>
+      <unit id="ICAPMG401A" title="Support small scale IT projects"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICASAD401A" title="Develop and present feasibility reports"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+      <unit id="ICASAS410A" title="Identify and resolve client IT problems"/>
+      <unit id="ICASAS411A" title="Assist with policy development for client support procedures"/>
+      <unit id="ICASAS412A" title="Action change requests"/>
+      <unit id="ICASAS413A" title="Manage resolution of system faults on a live system"/>
+      <unit id="ICASAS414A" title="Evaluate system status"/>
+      <unit id="ICASAS416A" title="Implement maintenance procedures"/>
+      <unit id="ICASAS420A" title="Provide first-level remote help-desk support"/>
+      <unit id="ICASAS421A" title="Support users and troubleshoot desktop applications"/>
+      <unit id="ICASAS424A" title="Support different operating systems"/>
+      <unit id="ICASAS425A" title="Configure and troubleshoot operating system software"/>
+      <unit id="ICASAS426A" title="Locate and troubleshoot IT equipment, system and software faults"/>
+      <unit id="ICASAS518A" title="Install and upgrade operating systems"/>
+      <unit id="ICAWEB415A" title="Produce server-side script for dynamic web pages"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA40911" title="Certificate IV in Digital and Interactive Games">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="ICADMT402A" title="Produce interactive animation"/>
+      <unit id="ICADMT403A" title="Produce and edit digital images"/>
+      <unit id="ICAGAM301A" title="Apply simple modelling techniques"/>
+      <unit id="ICAGAM302A" title="Design and apply simple textures to digital art"/>
+      <unit id="ICAGAM303A" title="Review and apply the principles of animation"/>
+      <unit id="ICAGAM401A" title="Produce an interactive game"/>
+      <unit id="ICAGAM402A" title="Identify and apply principles of games design and game playing"/>
+      <unit id="ICAGAM403A" title="Create design documents for interactive games"/>
+      <unit id="ICAGAM404A" title="Apply artificial intelligence in game development"/>
+      <unit id="ICAGAM405A" title="Write story and content for digital games"/>
+      <unit id="ICAGAM406A" title="Create visual design components for interactive games"/>
+      <unit id="ICAGAM407A" title="Write scripts for interactive games"/>
+      <unit id="ICAGAM408A" title="Use 3-D animation interface and toolsets"/>
+      <unit id="ICAGAM409A" title="Create 3-D characters for interactive games"/>
+      <unit id="ICAGAM410A" title="Develop 3-D components for interactive games"/>
+      <unit id="ICAGAM412A" title="Design interactive media"/>
+      <unit id="ICAGAM413A" title="Design and create 3-D digital models"/>
+      <unit id="ICAGAM414A" title="Create audio for digital games"/>
+      <unit id="ICAGAM416A" title="Prepare and complete image rendering processes"/>
+      <unit id="ICAGAM417A" title="Apply digital effects to interactive products"/>
+      <unit id="ICAGAM418A" title="Use simple modelling for animation"/>
+      <unit id="ICAICT406A" title="Build a graphical user interface"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT417A" title="Identify, evaluate and apply current industry-specific technologies to meet industry standards"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT419A" title="Work effectively in the digital media industry"/>
+      <unit id="ICAICT420A" title="Develop client user interface"/>
+      <unit id="ICAPRG301A" title="Apply introductory programming techniques"/>
+      <unit id="ICAPRG405A" title="Automate processes"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG413A" title="Use a library or pre-existing components"/>
+      <unit id="ICAPRG415A" title="Apply skills in object-oriented design"/>
+      <unit id="ICAPRG417A" title="Apply mathematical techniques for software development"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50611" title="Diploma of Website Development">
+    <units>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ICADBS412A" title="Build a database"/>
+      <unit id="ICADBS502A" title="Design a database"/>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICAICT406A" title="Build a graphical user interface"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT503A" title="Validate quality and completeness of system design specifications"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICAICT515A" title="Verify client business requirements"/>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+      <unit id="ICANWK514A" title="Model preferred system solutions"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG413A" title="Use a library or pre-existing components"/>
+      <unit id="ICAPRG415A" title="Apply skills in object-oriented design"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICAPRG501A" title="Apply advanced object-oriented language skills"/>
+      <unit id="ICAPRG503A" title="Debug and monitor applications"/>
+      <unit id="ICAPRG504A" title="Deploy an application to a production environment"/>
+      <unit id="ICAPRG505A" title="Build advanced user interface"/>
+      <unit id="ICAPRG506A" title="Design application architecture"/>
+      <unit id="ICAPRG507A" title="Implement security for applications"/>
+      <unit id="ICAPRG509A" title="Build using rapid application development"/>
+      <unit id="ICAPRG512A" title="Prepare for the build phase of an IT system"/>
+      <unit id="ICAPRG513A" title="Coordinate the build phase of an IT system"/>
+      <unit id="ICAPRG514A" title="Prepare for software development using rapid application development"/>
+      <unit id="ICAPRG515A" title="Review developed software"/>
+      <unit id="ICAPRG523A" title="Apply advanced programming skills in another language"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICAPRG601A" title="Develop advanced mobile multi-touch applications"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+      <unit id="ICASAD506A" title="Produce a feasibility report"/>
+      <unit id="ICASAS503A" title="Perform systems tests"/>
+      <unit id="ICASAS504A" title="Develop and conduct client acceptance test"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICAWEB501A" title="Build a dynamic website"/>
+      <unit id="ICAWEB502A" title="Create dynamic web pages"/>
+      <unit id="ICAWEB503A" title="Create web-based programs"/>
+      <unit id="ICAWEB504A" title="Build a document using eXtensible markup language"/>
+      <unit id="ICAWEB505A" title="Develop complex web page layouts"/>
+      <unit id="ICAWEB506A" title="Develop complex cascading style sheets"/>
+      <unit id="ICAWEB508A" title="Develop website information architecture"/>
+      <unit id="ICAWEB509A" title="Use site server tools for transaction management"/>
+      <unit id="ICAWEB516A" title="Research and apply emerging web technology trends"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50411" title="Diploma of Information Technology Networking">
+    <units>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT501A" title="Research and review hardware technology options for organisations"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICAICT603A" title="Manage the use of appropriate development methodologies"/>
+      <unit id="ICANWK501A" title="Plan, implement and test enterprise communication solutions"/>
+      <unit id="ICANWK502A" title="Implement secure encryption technologies"/>
+      <unit id="ICANWK503A" title="Install and maintain valid authentication processes"/>
+      <unit id="ICANWK504A" title="Design and implement an integrated server solution"/>
+      <unit id="ICANWK505A" title="Design, build and test a network server"/>
+      <unit id="ICANWK506A" title="Configure, verify and troubleshoot WAN links and IP services in a medium enterprise network"/>
+      <unit id="ICANWK507A" title="Install, operate and troubleshoot medium enterprise routers"/>
+      <unit id="ICANWK508A" title="Install, operate and troubleshoot medium enterprise switches"/>
+      <unit id="ICANWK509A" title="Design and implement a security perimeter for ICT networks"/>
+      <unit id="ICANWK510A" title="Develop, implement and evaluate system and application security"/>
+      <unit id="ICANWK511A" title="Manage network security"/>
+      <unit id="ICANWK513A" title="Manage system security"/>
+      <unit id="ICANWK524A" title="Install and configure network access storage devices"/>
+      <unit id="ICANWK525A" title="Configure an enterprise virtual computing environment"/>
+      <unit id="ICANWK526A" title="Install an enterprise virtual computing environment"/>
+      <unit id="ICANWK527A" title="Manage an enterprise virtual computing environment"/>
+      <unit id="ICANWK529A" title="Install and manage complex ICT networks"/>
+      <unit id="ICANWK531A" title="Configure an internet gateway"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICASAD506A" title="Produce a feasibility report"/>
+      <unit id="ICASAS406A" title="Implement and hand over system components"/>
+      <unit id="ICASAS501A" title="Develop, implement and evaluate an incident response plan"/>
+      <unit id="ICASAS502A" title="Establish and maintain client user liaison"/>
+      <unit id="ICASAS503A" title="Perform systems tests"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICASAS512A" title="Review and manage delivery of maintenance services"/>
+      <unit id="ICASAS515A" title="Manage the testing process"/>
+      <unit id="ICTOPN5119A" title="Perform acceptance and commissioning tests on optical network"/>
+      <unit id="ICTOPN5120A" title="Plan for an optical system upgrade and cut over"/>
+      <unit id="ICTOPN5122A" title="Test the performance of specialised optical devices"/>
+      <unit id="ICTOPN5123A" title="Analyse and integrate specialised optical devices in the network"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTTEN4213A" title="Configure and troubleshoot advanced network switching"/>
+      <unit id="ICTTEN5168A" title="Design and implement an enterprise voice over internet protocol and a unified communications network"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+      <unit id="ICTTEN5203A" title="Dimension and design a radio frequency identification system"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+      <unit id="ICTTEN5217A" title="Plan a wireless mesh network"/>
+      <unit id="ICTTEN6172A" title="Design and configure an IP-MPLS network with virtual private network tunnelling"/>
+      <unit id="ICTTEN6206A" title="Produce an ICT network architecture design"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50511" title="Diploma of Database Design and Development">
+    <units>
+      <unit id="ICADBS502A" title="Design a database"/>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT502A" title="Develop detailed component specifications from project specifications"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICANWK514A" title="Model preferred system solutions"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPMG606A" title="Manage IT project quality"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICAPRG501A" title="Apply advanced object-oriented language skills"/>
+      <unit id="ICAPRG503A" title="Debug and monitor applications"/>
+      <unit id="ICAPRG504A" title="Deploy an application to a production environment"/>
+      <unit id="ICAPRG505A" title="Build advanced user interface"/>
+      <unit id="ICAPRG507A" title="Implement security for applications"/>
+      <unit id="ICAPRG509A" title="Build using rapid application development"/>
+      <unit id="ICAPRG511A" title="Monitor and support data conversion to new IT system"/>
+      <unit id="ICAPRG514A" title="Prepare for software development using rapid application development"/>
+      <unit id="ICAPRG515A" title="Review developed software"/>
+      <unit id="ICAPRG523A" title="Apply advanced programming skills in another language"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+      <unit id="ICASAD506A" title="Produce a feasibility report"/>
+      <unit id="ICASAS502A" title="Establish and maintain client user liaison"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICAWEB502A" title="Create dynamic web pages"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50211" title="Diploma of Digital and Interactive Games">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBOHS402B" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUSSOU403A" title="Perform advanced sound editing"/>
+      <unit id="ICAGAM419A" title="Build a database to support a computer game"/>
+      <unit id="ICAGAM501A" title="Create design concepts for digital games and 3-D media"/>
+      <unit id="ICAGAM503A" title="Create a complex 3-D interactive computer game"/>
+      <unit id="ICAGAM504A" title="Manage interactive media production"/>
+      <unit id="ICAGAM506A" title="Create complex code for mobile game devices"/>
+      <unit id="ICAGAM507A" title="Develop intermediate 3-D software for games and interactive media"/>
+      <unit id="ICAGAM508A" title="Develop complex 3-D software for games and interactive media"/>
+      <unit id="ICAGAM509A" title="Design interactive 3-D applications for scientific and mathematical modelling"/>
+      <unit id="ICAGAM510A" title="Prepare games for different platforms and delivery modes"/>
+      <unit id="ICAGAM511A" title="Manage testing of games and interactive media"/>
+      <unit id="ICAGAM512A" title="Create and implement designs for a 3-D games environment"/>
+      <unit id="ICAGAM514A" title="Design and create models for a 3-D and digital effects environment"/>
+      <unit id="ICAGAM515A" title="Design and create advanced particles, fluids and bodies for 3-D digital effects"/>
+      <unit id="ICAGAM516A" title="Animate a 3-D character for digital games"/>
+      <unit id="ICAGAM517A" title="Produce a digital animation sequence"/>
+      <unit id="ICAGAM518A" title="Animate physical attributes of models and elements"/>
+      <unit id="ICAGAM519A" title="Manage technical art and rigging in 3-D animation"/>
+      <unit id="ICAGAM520A" title="Create and combine 3-D digital games and components"/>
+      <unit id="ICAGAM521A" title="Create interactive 3-D environments for digital games"/>
+      <unit id="ICAGAM522A" title="Complete digital editing for the 3-D and digital effects environment"/>
+      <unit id="ICAGAM523A" title="Collaborate in the design of 3-D game levels and environments"/>
+      <unit id="ICAGAM524A" title="Integrate multiple data sources into interactive 3-D environments"/>
+      <unit id="ICAGAM525A" title="Apply digital texturing for the 3-D environment in digital games"/>
+      <unit id="ICAGAM526A" title="Create complex 3-D characters for games"/>
+      <unit id="ICAGAM527A" title="Integrate database with online game"/>
+      <unit id="ICAGAM528A" title="Create games for mobile devices"/>
+      <unit id="ICAGAM529A" title="Analyse business opportunities in the digital games environment"/>
+      <unit id="ICAGAM530A" title="Develop and implement physics in a 3-D digital game"/>
+      <unit id="ICAGAM531A" title="Complete compositing to create elements for the 3-D and digital effects environment"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="ICAICT419A" title="Work effectively in the digital media industry"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICAPRG501A" title="Apply advanced object-oriented language skills"/>
+      <unit id="ICAPRG515A" title="Review developed software"/>
+      <unit id="ICAPRG523A" title="Apply advanced programming skills in another language"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICAWEB508A" title="Develop website information architecture"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50111" title="Diploma of Information Technology">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUFPOS201A" title="Perform basic vision and sound editing"/>
+      <unit id="CUFPOS401A" title="Edit screen content for fast turnaround"/>
+      <unit id="CUSSOU302A" title="Record and mix a basic music demo"/>
+      <unit id="CUSSOU502A" title="Produce sound recordings"/>
+    </units>
+  </qualification>
+  <qualification id="ICA50811" title="Diploma of Systems Analysis and Design">
+    <units>
+      <unit id="ICADBS502A" title="Design a database"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT502A" title="Develop detailed component specifications from project specifications"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT510A" title="Determine appropriate IT strategies and solutions"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT512A" title="Plan process re-engineering strategies for business"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICANWK514A" title="Model preferred system solutions"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG509A" title="Build using rapid application development"/>
+      <unit id="ICAPRG514A" title="Prepare for software development using rapid application development"/>
+      <unit id="ICAPRG515A" title="Review developed software"/>
+      <unit id="ICAPRG518A" title="Monitor the system pilot"/>
+      <unit id="ICAPRG524A" title="Develop high-level object-oriented class specifications"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+      <unit id="ICASAS422A" title="Scope implementation requirements"/>
+      <unit id="ICASAS502A" title="Establish and maintain client user liaison"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICASAS506A" title="Update IT system operational procedures"/>
+      <unit id="ICASAS507A" title="Implement and evaluate systems for regulatory and standards compliance"/>
+      <unit id="ICASAS513A" title="Develop detailed test plans"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTTEN5024A" title="Provide consultancy and technical support in the customer premises equipment sector"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50311" title="Diploma of Information Technology Systems Administration">
+    <units>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT501A" title="Research and review hardware technology options for organisations"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICAICT515A" title="Verify client business requirements"/>
+      <unit id="ICANWK501A" title="Plan, implement and test enterprise communication solutions"/>
+      <unit id="ICANWK502A" title="Implement secure encryption technologies"/>
+      <unit id="ICANWK504A" title="Design and implement an integrated server solution"/>
+      <unit id="ICANWK505A" title="Design, build and test a network server"/>
+      <unit id="ICANWK506A" title="Configure, verify and troubleshoot WAN links and IP services in a medium enterprise network"/>
+      <unit id="ICANWK509A" title="Design and implement a security perimeter for ICT networks"/>
+      <unit id="ICANWK513A" title="Manage system security"/>
+      <unit id="ICANWK525A" title="Configure an enterprise virtual computing environment"/>
+      <unit id="ICANWK526A" title="Install an enterprise virtual computing environment"/>
+      <unit id="ICANWK527A" title="Manage an enterprise virtual computing environment"/>
+      <unit id="ICANWK529A" title="Install and manage complex ICT networks"/>
+      <unit id="ICANWK531A" title="Configure an internet gateway"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICASAD506A" title="Produce a feasibility report"/>
+      <unit id="ICASAS406A" title="Implement and hand over system components"/>
+      <unit id="ICASAS502A" title="Establish and maintain client user liaison"/>
+      <unit id="ICASAS503A" title="Perform systems tests"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICASAS512A" title="Review and manage delivery of maintenance services"/>
+      <unit id="ICASAS513A" title="Develop detailed test plans"/>
+      <unit id="ICASAS515A" title="Manage the testing process"/>
+      <unit id="ICASAS517A" title="Use network tools"/>
+      <unit id="ICASAS518A" title="Install and upgrade operating systems"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+      <unit id="ICTTEN6206A" title="Produce an ICT network architecture design"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50711" title="Diploma of Software Development">
+    <units>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT503A" title="Validate quality and completeness of system design specifications"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICANWK514A" title="Model preferred system solutions"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG501A" title="Apply advanced object-oriented language skills"/>
+      <unit id="ICAPRG502A" title="Manage a project using software management tools"/>
+      <unit id="ICAPRG503A" title="Debug and monitor applications"/>
+      <unit id="ICAPRG504A" title="Deploy an application to a production environment"/>
+      <unit id="ICAPRG505A" title="Build advanced user interface"/>
+      <unit id="ICAPRG506A" title="Design application architecture"/>
+      <unit id="ICAPRG507A" title="Implement security for applications"/>
+      <unit id="ICAPRG508A" title="Create mashups"/>
+      <unit id="ICAPRG509A" title="Build using rapid application development"/>
+      <unit id="ICAPRG510A" title="Maintain custom software"/>
+      <unit id="ICAPRG512A" title="Prepare for the build phase of an IT system"/>
+      <unit id="ICAPRG513A" title="Coordinate the build phase of an IT system"/>
+      <unit id="ICAPRG514A" title="Prepare for software development using rapid application development"/>
+      <unit id="ICAPRG515A" title="Review developed software"/>
+      <unit id="ICAPRG520A" title="Validate an application design against specifications"/>
+      <unit id="ICAPRG523A" title="Apply advanced programming skills in another language"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICAPRG529A" title="Apply testing techniques for software development"/>
+      <unit id="ICAPRG601A" title="Develop advanced mobile multi-touch applications"/>
+      <unit id="ICAPRG603A" title="Create cloud computing services"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+      <unit id="ICASAD506A" title="Produce a feasibility report"/>
+      <unit id="ICASAS502A" title="Establish and maintain client user liaison"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA50911" title="Diploma of Digital Media Technologies">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG504A" title="Design games"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUFPOS201A" title="Perform basic vision and sound editing"/>
+      <unit id="CUFPOS401A" title="Edit screen content for fast turnaround"/>
+      <unit id="CUSSOU302A" title="Record and mix a basic music demo"/>
+      <unit id="CUSSOU502A" title="Produce sound recordings"/>
+      <unit id="CUVPHI504A" title="Investigate and exploit innovative imaging options"/>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICADMT501A" title="Incorporate and edit digital video"/>
+      <unit id="ICAGAM504A" title="Manage interactive media production"/>
+      <unit id="ICAGAM507A" title="Develop intermediate 3-D software for games and interactive media"/>
+      <unit id="ICAGAM511A" title="Manage testing of games and interactive media"/>
+      <unit id="ICAGAM512A" title="Create and implement designs for a 3-D games environment"/>
+      <unit id="ICAGAM514A" title="Design and create models for a 3-D and digital effects environment"/>
+      <unit id="ICAICT406A" title="Build a graphical user interface"/>
+      <unit id="ICAICT418A" title="Contribute to copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT419A" title="Work effectively in the digital media industry"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT514A" title="Identify and manage the implementation of current industry-specific technologies"/>
+      <unit id="ICAICT515A" title="Verify client business requirements"/>
+      <unit id="ICAPMG501A" title="Manage IT projects"/>
+      <unit id="ICAPRG409A" title="Develop mobile applications"/>
+      <unit id="ICAPRG413A" title="Use a library or pre-existing components"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG425A" title="Use structured query language"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICASAS504A" title="Develop and conduct client acceptance test"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICAWEB501A" title="Build a dynamic website"/>
+      <unit id="ICAWEB516A" title="Research and apply emerging web technology trends"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA60511" title="Advanced Diploma of Computer Systems Technology">
+    <units>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICAICT502A" title="Develop detailed component specifications from project specifications"/>
+      <unit id="ICAICT604A" title="Identify and implement business innovation"/>
+      <unit id="ICAICT609A" title="Lead the evaluation and implementation of current industry-specific technologies"/>
+      <unit id="ICANWK502A" title="Implement secure encryption technologies"/>
+      <unit id="ICANWK503A" title="Install and maintain valid authentication processes"/>
+      <unit id="ICANWK504A" title="Design and implement an integrated server solution"/>
+      <unit id="ICANWK505A" title="Design, build and test a network server"/>
+      <unit id="ICANWK506A" title="Configure, verify and troubleshoot WAN links and IP services in a medium enterprise network"/>
+      <unit id="ICANWK507A" title="Install, operate and troubleshoot medium enterprise routers"/>
+      <unit id="ICANWK508A" title="Install, operate and troubleshoot medium enterprise switches"/>
+      <unit id="ICANWK509A" title="Design and implement a security perimeter for ICT networks"/>
+      <unit id="ICANWK524A" title="Install and configure network access storage devices"/>
+      <unit id="ICANWK525A" title="Configure an enterprise virtual computing environment"/>
+      <unit id="ICANWK526A" title="Install an enterprise virtual computing environment"/>
+      <unit id="ICANWK527A" title="Manage an enterprise virtual computing environment"/>
+      <unit id="ICANWK529A" title="Install and manage complex ICT networks"/>
+      <unit id="ICANWK602A" title="Plan, configure and test advanced server based security"/>
+      <unit id="ICANWK603A" title="Plan, configure and test advanced internetwork routing solutions"/>
+      <unit id="ICANWK605A" title="Design and configure secure integrated wireless systems"/>
+      <unit id="ICANWK607A" title="Design and implement wireless network security"/>
+      <unit id="ICANWK610A" title="Design and build integrated VoIP networks"/>
+      <unit id="ICANWK611A" title="Configure call processing network elements for secure VoIP networks"/>
+      <unit id="ICANWK612A" title="Plan and manage troubleshooting advanced integrated IP networks"/>
+      <unit id="ICANWK613A" title="Develop plans to manage structured troubleshooting process of enterprise networks"/>
+      <unit id="ICAPMG608A" title="Manage IT project systems implementation"/>
+      <unit id="ICAPMG609A" title="Plan and direct complex IT projects"/>
+      <unit id="ICAPRG505A" title="Build advanced user interface"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+      <unit id="ICAPRG601A" title="Develop advanced mobile multi-touch applications"/>
+      <unit id="ICAPRG602A" title="Manage the development of technical solutions from business specifications"/>
+      <unit id="ICASAS517A" title="Use network tools"/>
+      <unit id="ICAWEB501A" title="Build a dynamic website"/>
+      <unit id="ICAWEB502A" title="Create dynamic web pages"/>
+      <unit id="ICAWEB503A" title="Create web-based programs"/>
+      <unit id="ICAWEB505A" title="Develop complex web page layouts"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA60111" title="Advanced Diploma of Information Technology">
+    <units>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="ICADBS501A" title="Monitor and improve knowledge management system"/>
+      <unit id="ICADBS601A" title="Build a data warehouse"/>
+      <unit id="ICADBS602A" title="Develop a knowledge management strategy"/>
+      <unit id="ICADBS603A" title="Determine suitability of database functionality and scalability"/>
+      <unit id="ICAICT508A" title="Evaluate vendor products and equipment"/>
+      <unit id="ICAICT601A" title="Develop IT strategic and action plans"/>
+      <unit id="ICAICT602A" title="Develop contracts and manage contracted performance"/>
+      <unit id="ICAICT603A" title="Manage the use of appropriate development methodologies"/>
+      <unit id="ICAICT604A" title="Identify and implement business innovation"/>
+      <unit id="ICAICT605A" title="Implement a knowledge management strategy"/>
+      <unit id="ICAICT606A" title="Develop communities of practice"/>
+      <unit id="ICAICT608A" title="Interact with clients on a business level"/>
+      <unit id="ICAICT609A" title="Lead the evaluation and implementation of current industry-specific technologies"/>
+      <unit id="ICAICT610A" title="Manage copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICANWK601A" title="Design and implement a security system"/>
+      <unit id="ICAPMG606A" title="Manage IT project quality"/>
+      <unit id="ICAPMG609A" title="Plan and direct complex IT projects"/>
+      <unit id="ICAPRG601A" title="Develop advanced mobile multi-touch applications"/>
+      <unit id="ICAPRG602A" title="Manage the development of technical solutions from business specifications"/>
+      <unit id="ICAPRG603A" title="Create cloud computing services"/>
+      <unit id="ICASAD504A" title="Implement quality assurance processes for business solutions"/>
+      <unit id="ICASAD505A" title="Develop technical requirements for business solutions"/>
+      <unit id="ICASAD602A" title="Conduct knowledge audits"/>
+      <unit id="ICASAS601A" title="Implement change-management processes"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA60211" title="Advanced Diploma of Network Security">
+    <units>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="CPPSEC3009A" title="Prepare and present evidence in court"/>
+      <unit id="CPPSEC5003A" title="Assess security risk management options"/>
+      <unit id="CPPSEC5004A" title="Prepare security risk management plan"/>
+      <unit id="CPPSEC5005A" title="Implement security risk management plan"/>
+      <unit id="CPPSEC5006A" title="Determine strategy for the implementation of biometric technology"/>
+      <unit id="CPPSEC5007A" title="Assess biometric system"/>
+      <unit id="ICAICT609A" title="Lead the evaluation and implementation of current industry-specific technologies"/>
+      <unit id="ICANWK502A" title="Implement secure encryption technologies"/>
+      <unit id="ICANWK509A" title="Design and implement a security perimeter for ICT networks"/>
+      <unit id="ICANWK601A" title="Design and implement a security system"/>
+      <unit id="ICANWK602A" title="Plan, configure and test advanced server based security"/>
+      <unit id="ICANWK603A" title="Plan, configure and test advanced internetwork routing solutions"/>
+      <unit id="ICANWK604A" title="Plan and configure advanced internetwork switching solutions"/>
+      <unit id="ICANWK605A" title="Design and configure secure integrated wireless systems"/>
+      <unit id="ICANWK606A" title="Implement voice applications over secure wireless networks"/>
+      <unit id="ICANWK607A" title="Design and implement wireless network security"/>
+      <unit id="ICANWK608A" title="Configure network devices for a secure network infrastructure"/>
+      <unit id="ICANWK609A" title="Configure and manage intrusion prevention system on network sensors"/>
+      <unit id="ICANWK610A" title="Design and build integrated VoIP networks"/>
+      <unit id="ICANWK611A" title="Configure call processing network elements for secure VoIP networks"/>
+      <unit id="ICANWK612A" title="Plan and manage troubleshooting advanced integrated IP networks"/>
+      <unit id="ICANWK613A" title="Develop plans to manage structured troubleshooting process of enterprise networks"/>
+      <unit id="ICTPMG8143A" title="Manage a telecommunications project"/>
+      <unit id="ICTPMG8149A" title="Evaluate and use telecommunications management networks"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="ICTSUS7236A" title="Manage improvements in ICT sustainability"/>
+      <unit id="ICTTEN8195A" title="Evaluate and apply network security"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA60411" title="Advanced Diploma of Information Technology Project Management">
+    <units>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="ICAICT505A" title="Determine acceptable developers for projects"/>
+      <unit id="ICAICT509A" title="Gather data to identify business requirements"/>
+      <unit id="ICAICT603A" title="Manage the use of appropriate development methodologies"/>
+      <unit id="ICAICT608A" title="Interact with clients on a business level"/>
+      <unit id="ICAICT609A" title="Lead the evaluation and implementation of current industry-specific technologies"/>
+      <unit id="ICAICT610A" title="Manage copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICAICT713A" title="Manage IT services"/>
+      <unit id="ICAPMG601A" title="Establish IT project governance"/>
+      <unit id="ICAPMG602A" title="Manage IT project initiation"/>
+      <unit id="ICAPMG603A" title="Manage IT project planning"/>
+      <unit id="ICAPMG604A" title="Manage IT project delivery"/>
+      <unit id="ICAPMG605A" title="Manage IT project closure"/>
+      <unit id="ICAPMG606A" title="Manage IT project quality"/>
+      <unit id="ICAPMG607A" title="Manage and control IT project risks"/>
+      <unit id="ICAPMG608A" title="Manage IT project systems implementation"/>
+      <unit id="ICAPRG602A" title="Manage the development of technical solutions from business specifications"/>
+      <unit id="ICASAS505A" title="Review and update disaster recovery and contingency plans"/>
+      <unit id="ICASAS515A" title="Manage the testing process"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICA60311" title="Advanced Diploma of Information Technology Business Analysis">
+    <units>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="ICAICT601A" title="Develop IT strategic and action plans"/>
+      <unit id="ICAICT604A" title="Identify and implement business innovation"/>
+      <unit id="ICAICT608A" title="Interact with clients on a business level"/>
+      <unit id="ICAICT609A" title="Lead the evaluation and implementation of current industry-specific technologies"/>
+      <unit id="ICAICT610A" title="Manage copyright, ethics and privacy in an IT environment"/>
+      <unit id="ICANWK601A" title="Design and implement a security system"/>
+      <unit id="ICAPMG601A" title="Establish IT project governance"/>
+      <unit id="ICAPMG603A" title="Manage IT project planning"/>
+      <unit id="ICAPMG606A" title="Manage IT project quality"/>
+      <unit id="ICAPMG609A" title="Plan and direct complex IT projects"/>
+      <unit id="ICAPRG602A" title="Manage the development of technical solutions from business specifications"/>
+      <unit id="ICASAD505A" title="Develop technical requirements for business solutions"/>
+      <unit id="ICASAD601A" title="Perform IT-focused enterprise analysis"/>
+      <unit id="ICASAD603A" title="Plan and monitor business analysis activities in an IT environment"/>
+      <unit id="ICASAD604A" title="Manage and communicate IT solutions"/>
+      <unit id="ICASAD605A" title="Elicit IT requirements"/>
+      <unit id="ICASAD606A" title="Analyse stakeholder requirements"/>
+      <unit id="ICASAD607A" title="Manage assessment and validation of IT solutions"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICA70211" title="Vocational Graduate Certificate in Information Technology Sustainability">
+    <units>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="ICAICT706A" title="Direct outsourced ICT services"/>
+      <unit id="ICAICT707A" title="Direct research and business response to new ICT technology"/>
+      <unit id="ICAICT709A" title="Facilitate business analysis"/>
+      <unit id="ICAICT710A" title="Synchronise IT projects"/>
+      <unit id="ICASUS701A" title="Plan and manage virtualisation for IT sustainability"/>
+      <unit id="ICASUS702A" title="Conduct a business case study for integrating sustainability in IT planning and design projects"/>
+      <unit id="ICASUS703A" title="Research strategies using SAP solutions for sustainable economic and environmental outcomes"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="ICTSUS7236A" title="Manage improvements in ICT sustainability"/>
+      <unit id="ICTSUS8237A" title="Lead applied research in ICT sustainability"/>
+      <unit id="ICTSUS8238A" title="Conduct and manage a life cycle assessment for sustainability"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICA70111" title="Vocational Graduate Certificate in Information Technology and Strategic Management">
+    <units>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="ICAICT701A" title="Lead research into identifying new marketplace opportunities"/>
+      <unit id="ICAICT702A" title="Direct ICT services"/>
+      <unit id="ICAICT703A" title="Endorse business plan components for a new initiative"/>
+      <unit id="ICAICT704A" title="Direct ICT in a supply chain"/>
+      <unit id="ICAICT705A" title="Direct ICT procurement"/>
+      <unit id="ICAICT706A" title="Direct outsourced ICT services"/>
+      <unit id="ICAICT707A" title="Direct research and business response to new ICT technology"/>
+      <unit id="ICAICT708A" title="Direct the development of a knowledge management strategy for a business"/>
+      <unit id="ICAICT709A" title="Facilitate business analysis"/>
+      <unit id="ICAICT710A" title="Synchronise IT projects"/>
+      <unit id="ICAICT711A" title="Manage an information architecture project"/>
+      <unit id="ICAICT712A" title="Develop a business intelligence framework"/>
+      <unit id="ICAICT713A" title="Manage IT services"/>
+      <unit id="ICASUS701A" title="Plan and manage virtualisation for IT sustainability"/>
+      <unit id="ICASUS702A" title="Conduct a business case study for integrating sustainability in IT planning and design projects"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="ICTSUS7236A" title="Manage improvements in ICT sustainability"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

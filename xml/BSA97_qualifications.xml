@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<qualifications class="BSA97">
+  <qualification id="BSA10197" title="Certificate I in Business (Office Skills)">
+    <units/>
+  </qualification>
+  <qualification id="BSA20100" title="Certificate II in Business (Office Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA20197" title="Certificate II in Business (Office Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA30100" title="Certificate III in Business (Office Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA30197" title="Certificate III in Business (Office Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA30200" title="Certificate III in Business (Legal Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA40200" title="Certificate IV in Business (Legal Services)">
+    <units/>
+  </qualification>
+  <qualification id="BSA40100" title="Certificate IV in Business (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA40197" title="Certificate IV in Business (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA50197" title="Diploma of Business (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA50100" title="Diploma of Business (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSA50200" title="Diploma of Business (Legal Services)">
+    <units/>
+  </qualification>
+</qualifications>

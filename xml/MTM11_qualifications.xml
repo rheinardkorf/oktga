@@ -1,0 +1,873 @@
+<?xml version="1.0"?>
+<qualifications class="MTM11">
+  <qualification id="MTM10111" title="Certificate I in Meat Processing (Smallgoods)">
+    <units>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMPS201C" title="Clean work area during operations"/>
+      <unit id="MTMS101C" title="Handle materials and products"/>
+      <unit id="MTMS102C" title="Pack smallgoods product"/>
+    </units>
+  </qualification>
+  <qualification id="MTM10211" title="Certificate I in Meat Processing (Meat Retailing)">
+    <units>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMR101C" title="Identify species and meat cuts"/>
+      <unit id="MTMR102C" title="Trim meat for further processing"/>
+      <unit id="MTMR103C" title="Store meat product"/>
+      <unit id="MTMR104C" title="Prepare minced meat and minced meat products"/>
+      <unit id="MTMR106C" title="Provide service to customers"/>
+      <unit id="MTMR107C" title="Process sales transactions"/>
+      <unit id="MTMR108B" title="Undertake minor routine maintenance"/>
+      <unit id="MTMR109B" title="Monitor meat temperature from receival to sale"/>
+      <unit id="MTMR203C" title="Select, weigh and package meat for sale"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MTM20211" title="Certificate II in Meat Processing (Smallgoods)">
+    <units>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2007A" title="Work in a freezer storage area"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP2054C" title="Inspect hindquarter and remove contamination"/>
+      <unit id="MTMP2055C" title="Inspect forequarter and remove contamination"/>
+      <unit id="MTMP2133C" title="Store carcase product"/>
+      <unit id="MTMP2134C" title="Store carton product"/>
+      <unit id="MTMP2197C" title="Clean after operations - boning room"/>
+      <unit id="MTMPS201C" title="Clean work area during operations"/>
+      <unit id="MTMPS203C" title="Operate scales and semi-automatic labelling machinery"/>
+      <unit id="MTMPS205C" title="Clean chillers"/>
+      <unit id="MTMPS206C" title="Operate forklift in a specific workplace"/>
+      <unit id="MTMPS300A" title="Assess product in chillers"/>
+      <unit id="MTMPSR201C" title="Vacuum pack product"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMS101C" title="Handle materials and products"/>
+      <unit id="MTMS102C" title="Pack smallgoods product"/>
+      <unit id="MTMS205C" title="Package product using thermoform process"/>
+      <unit id="MTMS206C" title="Package product using gas flushing process"/>
+      <unit id="MTMS207C" title="Operate bar and coder systems"/>
+      <unit id="MTMS208C" title="Operate metal detection unit"/>
+      <unit id="MTMS210B" title="Select, identify and prepare casings"/>
+      <unit id="MTMS211B" title="Manually shape and form product"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS214B" title="Rotate stored meat"/>
+      <unit id="MTMS215B" title="Rotate meat product"/>
+      <unit id="MTMS216B" title="Inspect carton meat"/>
+      <unit id="MTMS217A" title="Prepare dry ingredients"/>
+      <unit id="MTMS218B" title="Measure and calculate routine workplace data"/>
+      <unit id="MTMS219A" title="Manually link and tie product"/>
+      <unit id="MTMSR201C" title="Prepare and slice meat cuts"/>
+      <unit id="MTMSR202C" title="Trim meat to specifications"/>
+      <unit id="MTMSR203C" title="Package product using automatic packing and labelling equipment"/>
+      <unit id="MTMSR204C" title="Despatch meat product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM20411" title="Certificate II in Meat Processing (Food Services)">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+    </units>
+  </qualification>
+  <qualification id="MTM20311" title="Certificate II in Meat Processing (Meat Retailing)">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMPR201C" title="Prepare and operate a bandsaw"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMR101C" title="Identify species and meat cuts"/>
+      <unit id="MTMR102C" title="Trim meat for further processing"/>
+      <unit id="MTMR103C" title="Store meat product"/>
+      <unit id="MTMR104C" title="Prepare minced meat and minced meat products"/>
+      <unit id="MTMR106C" title="Provide service to customers"/>
+      <unit id="MTMR107C" title="Process sales transactions"/>
+      <unit id="MTMR108B" title="Undertake minor routine maintenance"/>
+      <unit id="MTMR109B" title="Monitor meat temperature from receival to sale"/>
+      <unit id="MTMR201C" title="Break and cut product using a bandsaw"/>
+      <unit id="MTMR202C" title="Provide advice on cooking and storage of meat products"/>
+      <unit id="MTMR203C" title="Select, weigh and package meat for sale"/>
+      <unit id="MTMR204C" title="Package product using manual packing and labelling equipment"/>
+      <unit id="MTMR207B" title="Use basic methods of meat cookery"/>
+      <unit id="MTMR208B" title="Vacuum pack product in a retail operation"/>
+      <unit id="MTMR209B" title="Undertake routine preventative maintenance"/>
+      <unit id="MTMR210B" title="Make and sell sausages"/>
+      <unit id="MTMR211B" title="Produce and sell value-added products"/>
+      <unit id="MTMR212B" title="Receive meat product"/>
+      <unit id="MTMSR201C" title="Prepare and slice meat cuts"/>
+      <unit id="MTMSR202C" title="Trim meat to specifications"/>
+      <unit id="MTMSR203C" title="Package product using automatic packing and labelling equipment"/>
+      <unit id="MTMSR204C" title="Despatch meat product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM20111" title="Certificate II in Meat Processing (Abattoirs)">
+    <units>
+      <unit id="AHCLSK205A" title="Handle livestock using basic techniques"/>
+      <unit id="AHCLSK212A" title="Ride horses to carry out stock work"/>
+      <unit id="AHCLSK324A" title="Care for and train working dogs"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCMOM212A" title="Operate quad bikes"/>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="CPPCLO3020A" title="Clean using pressure washing"/>
+      <unit id="CPPCLO3036A" title="Clean at high levels"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+    </units>
+  </qualification>
+  <qualification id="MTM30211" title="Certificate III in Meat Processing (Food Services)">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+    </units>
+  </qualification>
+  <qualification id="MTM30813" title="Certificate III in Meat Processing (Retail Butcher)">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP3102B" title="Provide coaching"/>
+      <unit id="MTMP3103B" title="Provide mentoring"/>
+      <unit id="MTMPR201C" title="Prepare and operate a bandsaw"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMR101C" title="Identify species and meat cuts"/>
+      <unit id="MTMR102C" title="Trim meat for further processing"/>
+      <unit id="MTMR103C" title="Store meat product"/>
+      <unit id="MTMR104C" title="Prepare minced meat and minced meat products"/>
+      <unit id="MTMR106C" title="Provide service to customers"/>
+      <unit id="MTMR107C" title="Process sales transactions"/>
+      <unit id="MTMR108B" title="Undertake minor routine maintenance"/>
+      <unit id="MTMR109B" title="Monitor meat temperature from receival to sale"/>
+      <unit id="MTMR201C" title="Break and cut product using a bandsaw"/>
+      <unit id="MTMR202C" title="Provide advice on cooking and storage of meat products"/>
+      <unit id="MTMR203C" title="Select, weigh and package meat for sale"/>
+      <unit id="MTMR204C" title="Package product using manual packing and labelling equipment"/>
+      <unit id="MTMR207B" title="Use basic methods of meat cookery"/>
+      <unit id="MTMR208B" title="Vacuum pack product in a retail operation"/>
+      <unit id="MTMR209B" title="Undertake routine preventative maintenance"/>
+      <unit id="MTMR210B" title="Make and sell sausages"/>
+      <unit id="MTMR211B" title="Produce and sell value-added products"/>
+      <unit id="MTMR212B" title="Receive meat product"/>
+      <unit id="MTMR301C" title="Prepare specialised cuts"/>
+      <unit id="MTMR302C" title="Assess carcase_product quality"/>
+      <unit id="MTMR303C" title="Calculate yield of carcase or product"/>
+      <unit id="MTMR304C" title="Manage stock"/>
+      <unit id="MTMR305C" title="Meet customer needs"/>
+      <unit id="MTMR306C" title="Provide advice on nutritional role of meat"/>
+      <unit id="MTMR307C" title="Merchandise products and services"/>
+      <unit id="MTMR309C" title="Prepare, roll, sew and net meat"/>
+      <unit id="MTMR310C" title="Bone and fillet poultry"/>
+      <unit id="MTMR311C" title="Cost and price meat products"/>
+      <unit id="MTMR312C" title="Prepare portion control to specifications"/>
+      <unit id="MTMR313C" title="Bone game meat"/>
+      <unit id="MTMR314B" title="Order stock in a meat enterprise"/>
+      <unit id="MTMR315B" title="Calculate and present statistical data in a meat enterprise"/>
+      <unit id="MTMR316B" title="Utilise the Meat Standards Australia system for beef to meet customer requirements"/>
+      <unit id="MTMR317B" title="Cure, corn and sell product"/>
+      <unit id="MTMR318B" title="Assess and sell poultry product"/>
+      <unit id="MTMR319B" title="Break carcases for retail sale"/>
+      <unit id="MTMR320B" title="Locate, identify and assess meat cuts"/>
+      <unit id="MTMR321A" title="Assess and address customer preferences"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMR323A" title="Prepare and produce value-added products"/>
+      <unit id="MTMS306B" title="Identify and repair equipment faults"/>
+      <unit id="MTMSR201C" title="Prepare and slice meat cuts"/>
+      <unit id="MTMSR202C" title="Trim meat to specifications"/>
+      <unit id="MTMSR203C" title="Package product using automatic packing and labelling equipment"/>
+      <unit id="MTMSR204C" title="Despatch meat product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="MTMSR302C" title="Prepare primal cuts"/>
+      <unit id="MTMSR303A" title="Smoke product"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM30411" title="Certificate III in Meat Processing (Rendering)">
+    <units>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP3081C" title="Operate batch cooker"/>
+      <unit id="MTMP3082C" title="Operate continuous cooker"/>
+      <unit id="MTMP3083C" title="Operate press"/>
+      <unit id="MTMP3084C" title="Operate wet rendering process"/>
+      <unit id="MTMP3085C" title="Monitor boiler operations"/>
+      <unit id="MTMP3086C" title="Operate tallow processing plant"/>
+      <unit id="MTMP3087C" title="Operate blood processing plant"/>
+      <unit id="MTMP3088C" title="Produce rendered products hygienically"/>
+      <unit id="MTMP3089C" title="Render edible products"/>
+      <unit id="MTMP3090B" title="Implement a Quality Assurance program for rendering plant"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MTM31011" title="Certificate III in Meat Processing (Smallgoods - Manufacture)">
+    <units>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2007A" title="Work in a freezer storage area"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP2054C" title="Inspect hindquarter and remove contamination"/>
+      <unit id="MTMP2055C" title="Inspect forequarter and remove contamination"/>
+      <unit id="MTMP2133C" title="Store carcase product"/>
+      <unit id="MTMP2134C" title="Store carton product"/>
+      <unit id="MTMP2197C" title="Clean after operations - boning room"/>
+      <unit id="MTMP3100B" title="Use standard product descriptions - beef"/>
+      <unit id="MTMP3101B" title="Use standard product descriptions - pork"/>
+      <unit id="MTMPS201C" title="Clean work area during operations"/>
+      <unit id="MTMPS203C" title="Operate scales and semi-automatic labelling machinery"/>
+      <unit id="MTMPS205C" title="Clean chillers"/>
+      <unit id="MTMPS206C" title="Operate forklift in a specific workplace"/>
+      <unit id="MTMPS300A" title="Assess product in chillers"/>
+      <unit id="MTMPSR201C" title="Vacuum pack product"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMPSR301C" title="Cure and corn product"/>
+      <unit id="MTMS101C" title="Handle materials and products"/>
+      <unit id="MTMS102C" title="Pack smallgoods product"/>
+      <unit id="MTMS205C" title="Package product using thermoform process"/>
+      <unit id="MTMS206C" title="Package product using gas flushing process"/>
+      <unit id="MTMS207C" title="Operate bar and coder systems"/>
+      <unit id="MTMS208C" title="Operate metal detection unit"/>
+      <unit id="MTMS210B" title="Select, identify and prepare casings"/>
+      <unit id="MTMS211B" title="Manually shape and form product"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS214B" title="Rotate stored meat"/>
+      <unit id="MTMS215B" title="Rotate meat product"/>
+      <unit id="MTMS216B" title="Inspect carton meat"/>
+      <unit id="MTMS217A" title="Prepare dry ingredients"/>
+      <unit id="MTMS218B" title="Measure and calculate routine workplace data"/>
+      <unit id="MTMS219A" title="Manually link and tie product"/>
+      <unit id="MTMS300B" title="Operate mixer, blender unit"/>
+      <unit id="MTMS301B" title="Cook, steam and cool product"/>
+      <unit id="MTMS302B" title="Prepare dried meat"/>
+      <unit id="MTMS303B" title="Fill casings"/>
+      <unit id="MTMS304B" title="Thaw product - water"/>
+      <unit id="MTMS305B" title="Thaw product - air"/>
+      <unit id="MTMS306B" title="Identify and repair equipment faults"/>
+      <unit id="MTMS307A" title="Sort meat"/>
+      <unit id="MTMS308A" title="Batch meat"/>
+      <unit id="MTMS312A" title="Prepare meat-based pates and terrines for commercial sale"/>
+      <unit id="MTMS313A" title="Prepare product formulations"/>
+      <unit id="MTMS314A" title="Ferment and mature product"/>
+      <unit id="MTMS315A" title="Blend meat product"/>
+      <unit id="MTMSR201C" title="Prepare and slice meat cuts"/>
+      <unit id="MTMSR202C" title="Trim meat to specifications"/>
+      <unit id="MTMSR203C" title="Package product using automatic packing and labelling equipment"/>
+      <unit id="MTMSR204C" title="Despatch meat product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="MTMSR302C" title="Prepare primal cuts"/>
+      <unit id="MTMSR303A" title="Smoke product"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM30611" title="Certificate III in Meat Processing (General)">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+    </units>
+  </qualification>
+  <qualification id="MTM30911" title="Certificate III in Meat Processing (Smallgoods - General)">
+    <units>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="FDFOP2007A" title="Work in a freezer storage area"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP3002A" title="Set up a production or packaging line for operation"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP2054C" title="Inspect hindquarter and remove contamination"/>
+      <unit id="MTMP2055C" title="Inspect forequarter and remove contamination"/>
+      <unit id="MTMP2133C" title="Store carcase product"/>
+      <unit id="MTMP2134C" title="Store carton product"/>
+      <unit id="MTMP2197C" title="Clean after operations - boning room"/>
+      <unit id="MTMP3100B" title="Use standard product descriptions - beef"/>
+      <unit id="MTMP3101B" title="Use standard product descriptions - pork"/>
+      <unit id="MTMP3102B" title="Provide coaching"/>
+      <unit id="MTMP3103B" title="Provide mentoring"/>
+      <unit id="MTMPS201C" title="Clean work area during operations"/>
+      <unit id="MTMPS203C" title="Operate scales and semi-automatic labelling machinery"/>
+      <unit id="MTMPS204C" title="Maintain production records"/>
+      <unit id="MTMPS205C" title="Clean chillers"/>
+      <unit id="MTMPS206C" title="Operate forklift in a specific workplace"/>
+      <unit id="MTMPS300A" title="Assess product in chillers"/>
+      <unit id="MTMPSR201C" title="Vacuum pack product"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMPSR301C" title="Cure and corn product"/>
+      <unit id="MTMS101C" title="Handle materials and products"/>
+      <unit id="MTMS102C" title="Pack smallgoods product"/>
+      <unit id="MTMS205C" title="Package product using thermoform process"/>
+      <unit id="MTMS206C" title="Package product using gas flushing process"/>
+      <unit id="MTMS207C" title="Operate bar and coder systems"/>
+      <unit id="MTMS208C" title="Operate metal detection unit"/>
+      <unit id="MTMS210B" title="Select, identify and prepare casings"/>
+      <unit id="MTMS211B" title="Manually shape and form product"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS214B" title="Rotate stored meat"/>
+      <unit id="MTMS215B" title="Rotate meat product"/>
+      <unit id="MTMS216B" title="Inspect carton meat"/>
+      <unit id="MTMS217A" title="Prepare dry ingredients"/>
+      <unit id="MTMS218B" title="Measure and calculate routine workplace data"/>
+      <unit id="MTMS219A" title="Manually link and tie product"/>
+      <unit id="MTMS300B" title="Operate mixer, blender unit"/>
+      <unit id="MTMS301B" title="Cook, steam and cool product"/>
+      <unit id="MTMS302B" title="Prepare dried meat"/>
+      <unit id="MTMS303B" title="Fill casings"/>
+      <unit id="MTMS304B" title="Thaw product - water"/>
+      <unit id="MTMS305B" title="Thaw product - air"/>
+      <unit id="MTMS306B" title="Identify and repair equipment faults"/>
+      <unit id="MTMS307A" title="Sort meat"/>
+      <unit id="MTMS308A" title="Batch meat"/>
+      <unit id="MTMS309B" title="Operate product forming machinery"/>
+      <unit id="MTMS310B" title="Operate link and tie machinery"/>
+      <unit id="MTMS311B" title="Operate complex slicing and packaging machinery"/>
+      <unit id="MTMS312A" title="Prepare meat-based pates and terrines for commercial sale"/>
+      <unit id="MTMS313A" title="Prepare product formulations"/>
+      <unit id="MTMS314A" title="Ferment and mature product"/>
+      <unit id="MTMS315A" title="Blend meat product"/>
+      <unit id="MTMSR201C" title="Prepare and slice meat cuts"/>
+      <unit id="MTMSR202C" title="Trim meat to specifications"/>
+      <unit id="MTMSR203C" title="Package product using automatic packing and labelling equipment"/>
+      <unit id="MTMSR204C" title="Despatch meat product"/>
+      <unit id="MTMSR301C" title="Break carcase into primal cuts"/>
+      <unit id="MTMSR302C" title="Prepare primal cuts"/>
+      <unit id="MTMSR303A" title="Smoke product"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM30111" title="Certificate III in Meat Processing (Boning Room)">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP3052C" title="Bone small stock carcase - leg"/>
+      <unit id="MTMP3054C" title="Slice and trim leg - small stock"/>
+      <unit id="MTMP3055C" title="Bone large stock carcase - forequarter"/>
+      <unit id="MTMP3056C" title="Bone large stock carcase - hindquarter"/>
+      <unit id="MTMP3057C" title="Slice and trim large stock forequarter"/>
+      <unit id="MTMP3058C" title="Slice and trim large stock hindquarter"/>
+      <unit id="MTMP3059C" title="Break carcase using a bandsaw"/>
+      <unit id="MTMP3060C" title="Operate leg boning machine"/>
+      <unit id="MTMP3061C" title="Operate trunk boning machine"/>
+      <unit id="MTMP3062B" title="Bone small stock carcase - shoulder"/>
+      <unit id="MTMP3063B" title="Bone small stock carcase - middle"/>
+      <unit id="MTMP3064B" title="Slice small stock carcase - shoulder"/>
+      <unit id="MTMP3065B" title="Slice small stock carcase - middle"/>
+      <unit id="MTMP3066B" title="Bone carcase using mechanical aids (large stock)"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM30311" title="Certificate III in Meat Processing (Meat Safety)">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP3003A" title="Handle animals humanely while conducting ante-mortem inspection"/>
+      <unit id="MTMP3004A" title="Assess effective stunning and bleeding"/>
+      <unit id="MTMP3042C" title="Prepare head for inspection"/>
+      <unit id="MTMP3046A" title="Prepare and present viscera for inspection"/>
+      <unit id="MTMP3071C" title="Perform ante-mortem inspection and make disposition"/>
+      <unit id="MTMP3072C" title="Perform post-mortem inspection and make disposition"/>
+      <unit id="MTMP3073B" title="Implement food safety program"/>
+      <unit id="MTMP3074B" title="Perform carcase Meat Hygiene Assessment"/>
+      <unit id="MTMP3075B" title="Perform process monitoring for Meat Hygiene Assessment"/>
+      <unit id="MTMP3076B" title="Perform boning room Meat Hygiene Assessment"/>
+      <unit id="MTMP3077B" title="Perform offal Meat Hygiene Assessment"/>
+      <unit id="MTMP403B" title="Oversee plant compliance with the Australian Standards for meat processing"/>
+      <unit id="MTMP408A" title="Inspect transportation container/vehicle"/>
+      <unit id="MTMP411B" title="Inspect wild game meat"/>
+      <unit id="MTMP412A" title="Inspect poultry"/>
+      <unit id="MTMP413A" title="Inspect ratites"/>
+      <unit id="MTMPS415A" title="Conduct an internal audit of a documented program"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM30511" title="Certificate III in Meat Processing (Slaughtering)">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMP3001D" title="Stun animal"/>
+      <unit id="MTMP3002C" title="Stick and bleed animal"/>
+      <unit id="MTMP3004A" title="Assess effective stunning and bleeding"/>
+      <unit id="MTMP3006C" title="Rod weasand"/>
+      <unit id="MTMP3007C" title="Seal weasand"/>
+      <unit id="MTMP3008C" title="Ring bung"/>
+      <unit id="MTMP3009C" title="Seal bung"/>
+      <unit id="MTMP3010A" title="Split carcase"/>
+      <unit id="MTMP3011C" title="Overview legging operation"/>
+      <unit id="MTMP3012C" title="Make first leg opening cuts"/>
+      <unit id="MTMP3013C" title="Make second leg opening cuts"/>
+      <unit id="MTMP3014C" title="Perform legging on small stock"/>
+      <unit id="MTMP3015A" title="Bone neck"/>
+      <unit id="MTMP3016B" title="Perform 'Y' cut"/>
+      <unit id="MTMP3017A" title="Skin head"/>
+      <unit id="MTMP3021C" title="Explain opening cuts"/>
+      <unit id="MTMP3022C" title="Perform flanking cuts"/>
+      <unit id="MTMP3023C" title="Perform brisket cuts"/>
+      <unit id="MTMP3024C" title="Perform rumping cuts"/>
+      <unit id="MTMP3025C" title="Perform rosette cuts"/>
+      <unit id="MTMP3026C" title="Perform midline cuts"/>
+      <unit id="MTMP3031C" title="Scald and de-hair carcase"/>
+      <unit id="MTMP3032C" title="Operate pelt puller"/>
+      <unit id="MTMP3033C" title="Operate hide puller"/>
+      <unit id="MTMP3034C" title="Remove pelt manually"/>
+      <unit id="MTMP3036C" title="Bed dress carcase"/>
+      <unit id="MTMP3037C" title="Eviscerate animal carcase"/>
+      <unit id="MTMP3038C" title="Operate brisket cutter, saw"/>
+      <unit id="MTMP3039D" title="Eviscerate wild game field shot carcase"/>
+      <unit id="MTMP3041C" title="Backdown pig carcase"/>
+      <unit id="MTMP3042C" title="Prepare head for inspection"/>
+      <unit id="MTMP3043B" title="Operate air knife"/>
+      <unit id="MTMP3044B" title="Drop sock and pull shoulder pelt"/>
+      <unit id="MTMP3045B" title="Undertake retain rail"/>
+      <unit id="MTMP3046A" title="Prepare and present viscera for inspection"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM40411" title="Certificate IV in Meat Processing (General)">
+    <units>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="FDFAU4001A" title="Assess compliance with food safety programs"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="FDFAU4004A" title="Identify, evaluate and control food safety hazards"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMP401B" title="Utilise refrigeration index"/>
+      <unit id="MTMP402B" title="Implement a Meat Hygiene Assessment program"/>
+      <unit id="MTMP403B" title="Oversee plant compliance with the Australian Standards for meat processing"/>
+      <unit id="MTMP404B" title="Apply meat science"/>
+      <unit id="MTMP405B" title="Conduct and validate pH_temperature declines to Meat Standards Australia standards"/>
+      <unit id="MTMP406A" title="Develop and implement Quality Assurance program for a rendering plant"/>
+      <unit id="MTMP407B" title="Supervise new recruits"/>
+      <unit id="MTMP409A" title="Maintain abattoir design and construction standards"/>
+      <unit id="MTMP411B" title="Inspect wild game meat"/>
+      <unit id="MTMP412A" title="Inspect poultry"/>
+      <unit id="MTMP413A" title="Inspect ratites"/>
+      <unit id="MTMP414A" title="Oversee humane handling of animals"/>
+      <unit id="MTMPS411C" title="Monitor meat preservation process"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPS415A" title="Conduct an internal audit of a documented program"/>
+      <unit id="MTMPS416A" title="Conduct statistical analysis of process"/>
+      <unit id="MTMPS417A" title="Manage/oversee an external audit of the establishment's quality system"/>
+      <unit id="MTMPS418A" title="Oversee export requirements"/>
+      <unit id="MTMPSR401C" title="Coordinate contracts"/>
+      <unit id="MTMPSR402C" title="Prepare and evaluate resource proposals"/>
+      <unit id="MTMPSR403C" title="Facilitate achievement of enterprise environmental policies and goals"/>
+      <unit id="MTMPSR404C" title="Foster a learning culture in a meat enterprise"/>
+      <unit id="MTMPSR405C" title="Build productive and effective workplace relationships"/>
+      <unit id="MTMPSR406C" title="Manage and maintain a food safety plan"/>
+      <unit id="MTMPSR407A" title="Assess and evaluate meat industry requirements and processes"/>
+      <unit id="MTMPSR408A" title="Specify beef product using AUS-MEAT language"/>
+      <unit id="MTMPSR409A" title="Specify sheep product using AUS-MEAT language"/>
+      <unit id="MTMPSR410A" title="Specify pork product using AUS-MEAT language"/>
+      <unit id="MTMPSR411A" title="Lead communication in the workplace"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMPSR414A" title="Establish sampling program"/>
+      <unit id="MTMPSR415A" title="Develop and implement work instructions and SOPs"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM40111" title="Certificate IV in Meat Processing (Leadership)">
+    <units>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMP407B" title="Supervise new recruits"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPSR401C" title="Coordinate contracts"/>
+      <unit id="MTMPSR402C" title="Prepare and evaluate resource proposals"/>
+      <unit id="MTMPSR403C" title="Facilitate achievement of enterprise environmental policies and goals"/>
+      <unit id="MTMPSR404C" title="Foster a learning culture in a meat enterprise"/>
+      <unit id="MTMPSR405C" title="Build productive and effective workplace relationships"/>
+      <unit id="MTMPSR406C" title="Manage and maintain a food safety plan"/>
+      <unit id="MTMPSR411A" title="Lead communication in the workplace"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR415A" title="Develop and implement work instructions and SOPs"/>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM40211" title="Certificate IV in Meat Processing (Meat Safety)">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="FDFAU4001A" title="Assess compliance with food safety programs"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMP3003A" title="Handle animals humanely while conducting ante-mortem inspection"/>
+      <unit id="MTMP3042C" title="Prepare head for inspection"/>
+      <unit id="MTMP3046A" title="Prepare and present viscera for inspection"/>
+      <unit id="MTMP3071C" title="Perform ante-mortem inspection and make disposition"/>
+      <unit id="MTMP3072C" title="Perform post-mortem inspection and make disposition"/>
+      <unit id="MTMP3073B" title="Implement food safety program"/>
+      <unit id="MTMP3074B" title="Perform carcase Meat Hygiene Assessment"/>
+      <unit id="MTMP3075B" title="Perform process monitoring for Meat Hygiene Assessment"/>
+      <unit id="MTMP3076B" title="Perform boning room Meat Hygiene Assessment"/>
+      <unit id="MTMP3077B" title="Perform offal Meat Hygiene Assessment"/>
+      <unit id="MTMP401B" title="Utilise refrigeration index"/>
+      <unit id="MTMP402B" title="Implement a Meat Hygiene Assessment program"/>
+      <unit id="MTMP403B" title="Oversee plant compliance with the Australian Standards for meat processing"/>
+      <unit id="MTMP408A" title="Inspect transportation container/vehicle"/>
+      <unit id="MTMP409A" title="Maintain abattoir design and construction standards"/>
+      <unit id="MTMP411B" title="Inspect wild game meat"/>
+      <unit id="MTMP412A" title="Inspect poultry"/>
+      <unit id="MTMP413A" title="Inspect ratites"/>
+      <unit id="MTMP414A" title="Oversee humane handling of animals"/>
+      <unit id="MTMPS411C" title="Monitor meat preservation process"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPS415A" title="Conduct an internal audit of a documented program"/>
+      <unit id="MTMPS418A" title="Oversee export requirements"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+      <unit id="MTMPSR405C" title="Build productive and effective workplace relationships"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMPSR414A" title="Establish sampling program"/>
+      <unit id="MTMPSR415A" title="Develop and implement work instructions and SOPs"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM40311" title="Certificate IV in Meat Processing (Quality Assurance)">
+    <units>
+      <unit id="FDFAU4001A" title="Assess compliance with food safety programs"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="FDFAU4004A" title="Identify, evaluate and control food safety hazards"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMP401B" title="Utilise refrigeration index"/>
+      <unit id="MTMP402B" title="Implement a Meat Hygiene Assessment program"/>
+      <unit id="MTMP403B" title="Oversee plant compliance with the Australian Standards for meat processing"/>
+      <unit id="MTMP404B" title="Apply meat science"/>
+      <unit id="MTMP405B" title="Conduct and validate pH_temperature declines to Meat Standards Australia standards"/>
+      <unit id="MTMP406A" title="Develop and implement Quality Assurance program for a rendering plant"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPS415A" title="Conduct an internal audit of a documented program"/>
+      <unit id="MTMPS416A" title="Conduct statistical analysis of process"/>
+      <unit id="MTMPS417A" title="Manage/oversee an external audit of the establishment's quality system"/>
+      <unit id="MTMPSR408A" title="Specify beef product using AUS-MEAT language"/>
+      <unit id="MTMPSR409A" title="Specify sheep product using AUS-MEAT language"/>
+      <unit id="MTMPSR410A" title="Specify pork product using AUS-MEAT language"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMPSR415A" title="Develop and implement work instructions and SOPs"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM50211" title="Diploma of Meat Processing (Meat Retailing)">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPSR5601C" title="Design and manage the food safety system"/>
+      <unit id="MTMPSR5604C" title="Manage new product_process development"/>
+      <unit id="MTMR501A" title="Develop and assess a meat retailing business opportunity"/>
+      <unit id="SIRXCLM402" title="Manage store facilities"/>
+      <unit id="SIRXMGT005A" title="Set strategic plans"/>
+      <unit id="SIRXMGT006A" title="Initiate and implement change"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MTM50111" title="Diploma of Meat Processing">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="MSL916005A" title="Manage complex projects"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS5603C" title="Develop, manage and maintain quality systems"/>
+      <unit id="MTMPS5604C" title="Manage maintenance systems"/>
+      <unit id="MTMPS5605C" title="Manage utilities and energy"/>
+      <unit id="MTMPS5607C" title="Manage and improve meat industry plant operations"/>
+      <unit id="MTMPS5608C" title="Manage environmental impacts of meat processing operations"/>
+      <unit id="MTMPS5609C" title="Manage, maintain and continuously improve OHS plans and systems"/>
+      <unit id="MTMPS5610C" title="Manage transportation of meat, meat products and meat by-products"/>
+      <unit id="MTMPSR5601C" title="Design and manage the food safety system"/>
+      <unit id="MTMPSR5604C" title="Manage new product_process development"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MTM60111" title="Advanced Diploma of Meat Processing">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="MSL916005A" title="Manage complex projects"/>
+      <unit id="MTMPS5603C" title="Develop, manage and maintain quality systems"/>
+      <unit id="MTMPS5604C" title="Manage maintenance systems"/>
+      <unit id="MTMPS5605C" title="Manage utilities and energy"/>
+      <unit id="MTMPS5607C" title="Manage and improve meat industry plant operations"/>
+      <unit id="MTMPS5608C" title="Manage environmental impacts of meat processing operations"/>
+      <unit id="MTMPS5609C" title="Manage, maintain and continuously improve OHS plans and systems"/>
+      <unit id="MTMPS5610C" title="Manage transportation of meat, meat products and meat by-products"/>
+      <unit id="MTMPSR5601C" title="Design and manage the food safety system"/>
+      <unit id="MTMPSR5604C" title="Manage new product_process development"/>
+      <unit id="MTMPSR601A" title="Benchmark to manage/improve enterprise performance"/>
+      <unit id="MTMPSR602A" title="Monitor and manage organisational legal responsibilities"/>
+      <unit id="MTMPSR603A" title="Manage meat processing systems to maintain and improve product quality"/>
+      <unit id="MTMPSR604A" title="Manage effective operation of meat enterprise cold chain and refrigeration systems"/>
+      <unit id="MTMPSR606A" title="Assess and purchase livestock"/>
+      <unit id="MTMPSR607A" title="Analyse and develop enterprise systems for new opportunities"/>
+      <unit id="MTMPSR608A" title="Establish new markets"/>
+      <unit id="MTMR501A" title="Develop and assess a meat retailing business opportunity"/>
+      <unit id="SIRXCLM402" title="Manage store facilities"/>
+      <unit id="SIRXMGT005A" title="Set strategic plans"/>
+      <unit id="SIRXMGT006A" title="Initiate and implement change"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MTM70111" title="Vocational Graduate Certificate in Agribusiness">
+    <units>
+      <unit id="BSBCOM601B" title="Research compliance requirements and issues"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="MSS407001A" title="Prepare for and implement change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MTMBUS701A" title="Manage financial performance"/>
+      <unit id="MTMBUS702A" title="Provide strategic leadership"/>
+      <unit id="MTMBUS703A" title="Communicate and negotiate in a culturally diverse context"/>
+      <unit id="MTMBUS704A" title="Develop and enhance collaborative partnerships and relationships"/>
+      <unit id="MTMBUS705A" title="Develop and manage international business operations"/>
+      <unit id="MTMBUS706A" title="Commercialise research and technology product/idea"/>
+      <unit id="MTMPSR606A" title="Assess and purchase livestock"/>
+      <unit id="NWP704A" title="Lead a project development"/>
+      <unit id="NWP706A" title="Review and evaluate water and wastewater sustainability objectives"/>
+      <unit id="NWP707A" title="Analyse and review water treatment plant technology"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MTM80111" title="Vocational Graduate Diploma of Agribusines">
+    <units>
+      <unit id="BSBCOM601B" title="Research compliance requirements and issues"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBRES801A" title="Initiate and lead applied research"/>
+      <unit id="MSS407001A" title="Prepare for and implement change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MSS408003A" title="Develop models of future state operations practice"/>
+      <unit id="MTMBUS701A" title="Manage financial performance"/>
+      <unit id="MTMBUS702A" title="Provide strategic leadership"/>
+      <unit id="MTMBUS703A" title="Communicate and negotiate in a culturally diverse context"/>
+      <unit id="MTMBUS704A" title="Develop and enhance collaborative partnerships and relationships"/>
+      <unit id="MTMBUS705A" title="Develop and manage international business operations"/>
+      <unit id="MTMBUS706A" title="Commercialise research and technology product/idea"/>
+      <unit id="MTMBUS801A" title="Manage change to organisational electronic technology systems"/>
+      <unit id="MTMBUS802A" title="Undertake research project"/>
+      <unit id="MTMBUS803A" title="Analyse data for business decision making"/>
+      <unit id="MTMPSR606A" title="Assess and purchase livestock"/>
+      <unit id="NWP704A" title="Lead a project development"/>
+      <unit id="NWP706A" title="Review and evaluate water and wastewater sustainability objectives"/>
+      <unit id="NWP707A" title="Analyse and review water treatment plant technology"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

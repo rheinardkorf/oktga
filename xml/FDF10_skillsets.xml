@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<skillsets class="FDF10">
+  <skillset id="FDFSS00001" title="Cellar Door Sales Induction">
+    <units>
+      <unit id="FDFCD2002A" title="Promote wine tourism information"/>
+      <unit id="FDFCD2003A" title="Evaluate wines (standard)"/>
+      <unit id="FDFCD2006A" title="Conduct a standard product tasting"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00002" title="Cellar Hand Induction">
+    <units>
+      <unit id="FDFCEL2019A" title="Carry out transfer operations"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2004A" title="Clean and sanitise equipment"/>
+      <unit id="FDFWIN1001A" title="Identify key operations in wine production"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00003" title="Chemical Handling Certification">
+    <units>
+      <unit id="AHCCHM101A" title="Follow basic chemical safety rules"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00004" title="Confined Space">
+    <units>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="MSAPMOHS217A" title="Gas test atmospheres"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00005" title="Distillation Operations">
+    <units>
+      <unit id="FDFCEL2004A" title="Perform single column lees stripping (continuous still brandy) operations"/>
+      <unit id="FDFCEL2008A" title="Perform dual column distillation (continuous still brandy) operations"/>
+      <unit id="FDFCEL2012A" title="Handle spirits"/>
+      <unit id="FDFCEL2019A" title="Carry out transfer operations"/>
+      <unit id="FDFCEL3005A" title="Perform rectification (continuous still) operations"/>
+      <unit id="FDFOP2004A" title="Clean and sanitise equipment"/>
+      <unit id="FDFOP2013A" title="Apply sampling procedures"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00006" title="Evaporator Station Operator">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP2034A" title="Operate an evaporation process"/>
+      <unit id="FDFSUG210A" title="Operate a juice clarification process"/>
+      <unit id="FDFSUG211A" title="Operate a mud filtration process"/>
+      <unit id="FDFSUG212A" title="Chemically clean equipment"/>
+      <unit id="FDFSUG225A" title="Collect and prepare samples"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00007" title="Food Safety">
+    <units>
+      <unit id="FDFFS1001A" title="Follow work procedures to maintain food safety"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00008" title="Forklift Operations">
+    <units>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00009" title="Fugal Operator">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFSUG214A" title="Operate a low grade fugal station"/>
+      <unit id="FDFSUG215A" title="Operate a high grade fugal station"/>
+      <unit id="FDFSUG225A" title="Collect and prepare samples"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00010" title="Hand Pruning Induction">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFWGG2003A" title="Hand prune vines"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00011" title="Irrigation">
+    <units>
+      <unit id="FDFWGG2004A" title="Undertake irrigation systems maintenance activities"/>
+      <unit id="FDFWGG2011A" title="Install irrigation components"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00012" title="Loco Driver">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFSUG206A" title="Drive a cane locomotive"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00013" title="Manual Handling">
+    <units>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00014" title="Mechanical Harvesting for Seasonal Workers">
+    <units>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFWGG2015A" title="Support mechanical harvesting operations"/>
+      <unit id="FDFWGG2018A" title="Operate vineyard equipment"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00015" title="Platform Operator">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFSUG209A" title="Operate an extraction station"/>
+      <unit id="FDFSUG217A" title="Operate a turbine"/>
+      <unit id="FDFSUG306A" title="Monitor a sugar mill powerhouse"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00016" title="Responsible Service of Alcohol">
+    <units>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00017" title="Risk Management">
+    <units>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFWIN2002A" title="Identify and control risks in own work"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00018" title="Seasonal Nursery Induction">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFWGG2010A" title="Field graft vines"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00019" title="Sugar Boiler">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFSUG212A" title="Chemically clean equipment"/>
+      <unit id="FDFSUG213A" title="Operate a pans station"/>
+      <unit id="FDFSUG216A" title="Operate a crystalliser station process"/>
+      <unit id="FDFSUG225A" title="Collect and prepare samples"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00020" title="Trellis Management">
+    <units>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFWGG2016A" title="Install and maintain vine trellis"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00021" title="Vintage Laboratory Operations">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="MSL912001A" title="Work within a laboratory_field workplace (induction)"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00022" title="Warehouse Induction">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00023" title="Water Tender">
+    <units>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFSUG217A" title="Operate a turbine"/>
+      <unit id="FDFSUG219A" title="Operate a bagasse fuel supply system"/>
+      <unit id="FDFSUG305A" title="Operate a boiler advanced"/>
+    </units>
+  </skillset>
+  <skillset id="FDFSS00024" title="Wine Evaluation">
+    <units>
+      <unit id="FDFCD2003A" title="Evaluate wines (standard)"/>
+      <unit id="FDFCD3001A" title="Evaluate wines (advanced)"/>
+    </units>
+  </skillset>
+</skillsets>

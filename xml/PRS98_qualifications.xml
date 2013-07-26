@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<qualifications class="PRS98">
+  <qualification id="PRS10198" title="Certificate I in Security (Sales Support)">
+    <units/>
+  </qualification>
+  <qualification id="PRS20298" title="Certificate II in Security (Technical Access)">
+    <units/>
+  </qualification>
+  <qualification id="PRS20398" title="Certificate II in Security (Access Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS20498" title="Certificate II in Investigative Services">
+    <units/>
+  </qualification>
+  <qualification id="PRS20198" title="Certificate II in Security (Guarding)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30498" title="Certificate III in Security (Access Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30198" title="Certificate III in Security (Guarding)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30398" title="Certificate III in Security (Technical Access)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30602" title="Certificate III in Security (Firearms)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30298" title="Certificate III in Security (Control Room Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRS30598" title="Certificate III in Investigative Services">
+    <units/>
+  </qualification>
+  <qualification id="PRS40598" title="Certificate IV in Security (Risk Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS40498" title="Certificate IV in Investigative Services">
+    <units/>
+  </qualification>
+  <qualification id="PRS40398" title="Certificate IV in Security (Access Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS40198" title="Certificate IV in Security (Control Room Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRS40298" title="Certificate IV in Security (Technical Access)">
+    <units/>
+  </qualification>
+  <qualification id="PRS50198" title="Diploma of Security (Access Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS50298" title="Diploma of Security (Risk Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRS60198" title="Advanced Diploma of Security (Risk Management)">
+    <units/>
+  </qualification>
+</qualifications>

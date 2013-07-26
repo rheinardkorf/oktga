@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<skillsets class="CPC08">
+  <skillset id="CPCSS00001" title="Lead a building, construction or plumbing and services team">
+    <units>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+    </units>
+  </skillset>
+  <skillset id="CPCSS00002" title="Manage complex building projects">
+    <units>
+      <unit id="CPCCBC5003A" title="Supervise the planning of on-site medium rise building or construction work"/>
+      <unit id="CPCCBC5007B" title="Administer the legal obligations of a building or construction contractor"/>
+      <unit id="CPCCBC5018A" title="Apply structural principles to the construction of medium rise buildings"/>
+    </units>
+  </skillset>
+  <skillset id="CPCSS00003" title="Undertake trade contracting">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4031A" title="Process client requirements"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+    </units>
+  </skillset>
+</skillsets>

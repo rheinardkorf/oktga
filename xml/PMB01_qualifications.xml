@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<qualifications class="PMB01">
+  <qualification id="PMB10101" title="Certificate I in Plastics, Rubber and Cablemaking">
+    <units/>
+  </qualification>
+  <qualification id="PMB20101" title="Certificate II in Plastics">
+    <units/>
+  </qualification>
+  <qualification id="PMB20201" title="Certificate II in Rubber">
+    <units/>
+  </qualification>
+  <qualification id="PMB20401" title="Certificate II in Process Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="PMB20301" title="Certificate II in Cablemaking">
+    <units/>
+  </qualification>
+  <qualification id="PMB30201" title="Certificate III in Rubber">
+    <units/>
+  </qualification>
+  <qualification id="PMB30401" title="Certificate III in Process Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="PMB30101" title="Certificate III in Plastics">
+    <units/>
+  </qualification>
+  <qualification id="PMB30301" title="Certificate III in Cablemaking">
+    <units/>
+  </qualification>
+  <qualification id="PMB40101" title="Certificate IV in Polymer Technology">
+    <units/>
+  </qualification>
+  <qualification id="PMB50101" title="Diploma of Polymer Technology">
+    <units/>
+  </qualification>
+  <qualification id="PMB60101" title="Advanced Diploma of Polymer Technology">
+    <units/>
+  </qualification>
+</qualifications>

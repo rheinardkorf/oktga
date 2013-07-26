@@ -1,0 +1,2065 @@
+<?xml version="1.0"?>
+<qualifications class="DEF12">
+  <qualification id="DEF10112" title="Certificate I in Defence Force Cadets">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCMN101A" title="Prepare for work"/>
+      <unit id="BSBCMN102A" title="Complete daily work activities"/>
+      <unit id="BSBCMN106A" title="Follow workplace safety procedures"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCM006B" title="Operate a 22 gauge rifle"/>
+      <unit id="DEFCM105C" title="Participate in ceremonial activities"/>
+      <unit id="DEFDC001B" title="Integrate into the cadet working environment"/>
+      <unit id="DEFDC002B" title="Function in the Australian aerospace environment"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="ICAU1133B" title="Send and retrieve information using web browsers and email"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="SISOBWG201A" title="Demonstrate bushwalking skills in a controlled environment"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOYSB201A" title="Demonstrate basic skills to sail a small boat in controlled conditions"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF21212" title="Certificate II in Explosive Ordnance Manufacture">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA318" title="Shift loads manually utilising non motorised equipment"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO204C" title="Examine and certify free from explsoive ordnance"/>
+      <unit id="DEFEO301D" title="Package ammunition"/>
+      <unit id="DEFEO302D" title="Unpackage ammunition"/>
+      <unit id="DEFEO303D" title="Monitor explosive ordnance environmental conditions"/>
+      <unit id="DEFEO502D" title="Conduct external explosive ordnance maintenance"/>
+      <unit id="DEFEO503C" title="Conduct explosive ordnance packaging inspection"/>
+      <unit id="DEFEO508D" title="Conduct electrical_electronic circuitry tests"/>
+      <unit id="DEFEO521A" title="Refurbish explosive ordnance packaging"/>
+      <unit id="DEFEO715C" title="Gauge explosive ordnance"/>
+      <unit id="DEFOH012B" title="Identify confined space"/>
+      <unit id="DEFOH013B" title="Enter confined space"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAPCII295A" title="Operate manufacturing equipment"/>
+      <unit id="MSAPCII297A" title="Make an object from cloth using an existing pattern"/>
+      <unit id="MSAPCII298A" title="Make an object from metal"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP240A" title="Undertake minor maintenance"/>
+      <unit id="MSAPMSUP292A" title="Sample and test materials and product"/>
+      <unit id="PMAOPS101C" title="Read dials and indicators"/>
+      <unit id="PMAOPS105C" title="Select and prepare materials"/>
+      <unit id="PMAOPS201B" title="Operate fluid flow equipment"/>
+      <unit id="PMAOPS204B" title="Use utilities and services"/>
+      <unit id="PMAOPS205B" title="Operate heat exchangers"/>
+      <unit id="PMAOPS216B" title="Operate local control system"/>
+      <unit id="PMAOPS222B" title="Operate and monitor pumping systems and equipment"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA1107C" title="Package goods"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+      <unit id="TLID1207C" title="Operate specialised load shifting equipment"/>
+      <unit id="TLIF207C" title="Conduct housekeeping activities"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF20912" title="Certificate II in Communications Operations">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCO106C" title="Transmit and receive messages via visual means"/>
+      <unit id="DEFCO107C" title="Perform flag ceremonial and flag protocol procedures"/>
+      <unit id="DEFCO108A" title="Support the operation of a communications and information system facility"/>
+      <unit id="DEFCO401C" title="Maintain security in a Defence communications and information systems environment"/>
+      <unit id="DEFCO402C" title="Transmit and receive messages utilising Defence messaging systems"/>
+      <unit id="DEFCO403C" title="Transmit and receive data via information exchange systems"/>
+      <unit id="DEFCO405C" title="Conduct operator level maintenance in a Defence environment"/>
+      <unit id="DEFCO406A" title="Transmit and receive messages via voice"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="ICAD2012B" title="Design organisational documents using computing packages"/>
+      <unit id="ICAS2014B" title="Connect hardware peripherals"/>
+      <unit id="ICAU1128B" title="Operate a personal computer"/>
+      <unit id="ICAU2005B" title="Operate computer hardware"/>
+      <unit id="ICAU2006B" title="Operate computing packages"/>
+      <unit id="ICAU2007B" title="Maintain equipment and consumables"/>
+      <unit id="ICAU3004B" title="Apply occupational health and safety procedures"/>
+      <unit id="ICAW2001B" title="Work effectively in an IT environment"/>
+      <unit id="ICAW2002B" title="Communicate in the workplace"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF20812" title="Certificate II in Explosive Ordnance">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO204C" title="Examine and certify free from explsoive ordnance"/>
+      <unit id="DEFEO215A" title="Operate lighterage equipment"/>
+      <unit id="DEFEO216A" title="Operate a small quantity explosive ordnance facility"/>
+      <unit id="DEFEO301D" title="Package ammunition"/>
+      <unit id="DEFEO302D" title="Unpackage ammunition"/>
+      <unit id="DEFEO303D" title="Monitor explosive ordnance environmental conditions"/>
+      <unit id="DEFEO502D" title="Conduct external explosive ordnance maintenance"/>
+      <unit id="DEFEO503C" title="Conduct explosive ordnance packaging inspection"/>
+      <unit id="DEFEO508D" title="Conduct electrical_electronic circuitry tests"/>
+      <unit id="DEFEO521A" title="Refurbish explosive ordnance packaging"/>
+      <unit id="DEFEO522A" title="Conduct broken seal inspection"/>
+      <unit id="DEFEO715C" title="Gauge explosive ordnance"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLIF1002A" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF21112" title="Certificate II in Military Skills">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA416C" title="Employ hand operated pyrotechnics"/>
+      <unit id="DEFCM001B" title="Use personal camouflage and concealment in a threat environment"/>
+      <unit id="DEFCM002C" title="Operate night fighting equipment"/>
+      <unit id="DEFCM101C" title="Operate a service rifle"/>
+      <unit id="DEFCM102C" title="Operate a light support weapon"/>
+      <unit id="DEFCM103C" title="Operate a service hand grenade"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM105C" title="Participate in ceremonial activities"/>
+      <unit id="DEFCM106C" title="Display the attributes of an Australian soldier"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAU1133B" title="Send and retrieve information using web browsers and email"/>
+      <unit id="PSPGOV201B" title="Work in a public sector environment"/>
+      <unit id="PSPGOV204B" title="Access and use resources"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA005A" title="Manage own professional performance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF31012" title="Certificate III in Maritime Operations">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="DEFBM001C" title="Assist in seamanship operations"/>
+      <unit id="DEFBM003C" title="Control persons using non firearms options"/>
+      <unit id="DEFBM004C" title="Defend persons using firearms"/>
+      <unit id="DEFBM005C" title="Maintain weapons and associated equipment"/>
+      <unit id="DEFBM007A" title="Assist in ship navigation"/>
+      <unit id="DEFBM008A" title="Operate a chaff firing system"/>
+      <unit id="DEFBM009A" title="Operate a visual target designator system"/>
+      <unit id="DEFCA001B" title="Observe and monitor hostile areas to detect targets"/>
+      <unit id="DEFCA011" title="Operate defence communications equipment"/>
+      <unit id="DEFCA309B" title="Perform military high-risk search"/>
+      <unit id="DEFCA318" title="Shift loads manually utilising non motorised equipment"/>
+      <unit id="DEFCA406B" title="Operate a service pistol"/>
+      <unit id="DEFCA409B" title="Operate a shotgun"/>
+      <unit id="DEFCA411B" title="Operate a grenade launcher"/>
+      <unit id="DEFCA413B" title="Operate a direct fire support weapon"/>
+      <unit id="DEFCA414B" title="Operate direct fire support weapon systems on operations"/>
+      <unit id="DEFCA419B" title="Operate a service rifle on operations"/>
+      <unit id="DEFCA420B" title="Operate a light support weapon on operations"/>
+      <unit id="DEFCA428" title="Undertake stability actions"/>
+      <unit id="DEFCM002C" title="Operate night fighting equipment"/>
+      <unit id="DEFCM101C" title="Operate a service rifle"/>
+      <unit id="DEFCM102C" title="Operate a light support weapon"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM105C" title="Participate in ceremonial activities"/>
+      <unit id="DEFCO405C" title="Conduct operator level maintenance in a Defence environment"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM08012B" title="Prepare surfaces by abrasive blasting (basic)"/>
+      <unit id="MEM08014B" title="Apply protective coatings (basic)"/>
+      <unit id="MEM08016B" title="Control blast coating by-products, materials and emissions"/>
+      <unit id="MEM11001C" title="Erect/dismantle scaffolding and equipment"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="TDMMC1007C" title="STEER A VESSEL UNDER THE DIRECTION OF THE MASTER OR OFFICER IN CHARGE OF THE WATCH"/>
+      <unit id="TDMME207B" title="COMMUNICATE USING STANDARD MARINE VOCABULARY"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF3507B" title="CONTRIBUTE TO MAINTAINING A SAFE WATCH"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5607A" title="OBSERVE PERSONAL SAFETY AND SOCIAL RESPONSIBILITIES"/>
+      <unit id="TDMMF6207A" title="PREVENT, CONTROL AND FIGHT FIRES ON BOARD AN OCEAN-GOING VESSEL"/>
+      <unit id="TDMMR1907B" title="SAFELY HANDLE AND STOW EXPLOSIVE AND FLAMMABLE MATERIALS"/>
+      <unit id="TDMMR3307B" title="PERFORM RIGGING AND LIFTING OPERATIONS ON BOARD A VESSEL"/>
+      <unit id="TDMMR3407B" title="OPERATE DECK MACHINERY"/>
+      <unit id="TDMMR4307B" title="ASSIST IN MOORING AND ANCHOR HANDLING ACTIVITIES"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF30912" title="Certificate III in Explosive Ordnance Operations">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA005B" title="Operate communications equipment"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO204C" title="Examine and certify free from explsoive ordnance"/>
+      <unit id="DEFEO301D" title="Package ammunition"/>
+      <unit id="DEFEO302D" title="Unpackage ammunition"/>
+      <unit id="DEFEO303D" title="Monitor explosive ordnance environmental conditions"/>
+      <unit id="DEFEO501D" title="Conduct explosive ordnance inspection"/>
+      <unit id="DEFEO502D" title="Conduct external explosive ordnance maintenance"/>
+      <unit id="DEFEO503C" title="Conduct explosive ordnance packaging inspection"/>
+      <unit id="DEFEO508D" title="Conduct electrical_electronic circuitry tests"/>
+      <unit id="DEFEO521A" title="Refurbish explosive ordnance packaging"/>
+      <unit id="DEFEO703C" title="Supervise military explosive ordnance task"/>
+      <unit id="DEFEO714C" title="Conduct underwater explosive demolitions"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUAPOLFC003B" title="Detect, record and collect physical evidence"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA1507C" title="Complete receival/despatch documentation"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1207C" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID1507D" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF207C" title="Conduct housekeeping activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF31112" title="Certificate III in Driving in a Threat Environment">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA011" title="Operate defence communications equipment"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="DEFTP001B" title="Operate a vehicle in an environment of threat"/>
+      <unit id="DEFTP002B" title="Operate a vehicle at night"/>
+      <unit id="DEFTP003B" title="Operate a vehicle over difficult terrain"/>
+      <unit id="DEFTP004B" title="Operate a vehicle using night fighting equipment (NFE)"/>
+      <unit id="DEFTP005B" title="Operate a multi-axle trailer"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="TLIB2008A" title="Carry out inspection of trailers"/>
+      <unit id="TLIB2029B" title="Use and maintain minor mechanical equipment"/>
+      <unit id="TLIB2119A" title="Carry out maintenance of trailers"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF32612" title="Certificate III in Field Petroleum Operations">
+    <units>
+      <unit id="AVI3W608B" title="Refuel aircraft"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFOH012B" title="Identify confined space"/>
+      <unit id="DEFOH013B" title="Enter confined space"/>
+      <unit id="DEFOH014B" title="Test confined space environment"/>
+      <unit id="DEFPE001A" title="Conduct field refuelling operations from a bulk fuel installation"/>
+      <unit id="DEFPE002A" title="Conduct field refuelling operations using drum stock"/>
+      <unit id="DEFPE003A" title="Test fuel hoses"/>
+      <unit id="DEFPE004A" title="Assist in the construction and maintenance of a non-permanent bulk fuel installation"/>
+      <unit id="DEFPE005A" title="Assist in the construction and operation of a non-permanent inland pipeline system"/>
+      <unit id="DEFPE006A" title="Assist in the operation of the tank fabric collapsible marine system"/>
+      <unit id="DEFPE007A" title="Assist in the operation of the towed flexible barge system"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PSPGOV204B" title="Access and use resources"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PUADEFCM007B" title="Marshal aircraft (Defence)"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUAWER008B" title="Confine small workplace emergencies"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="TLIA1307C" title="Receive goods"/>
+      <unit id="TLIA1407C" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2007C" title="Replenish stock"/>
+      <unit id="TLIA2207C" title="Participate in stocktakes"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1030A" title="Undertake general site maintenance"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2407C" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLID3027A" title="Prepare for transport of dangerous goods"/>
+      <unit id="TLID4307B" title="Shift loads using gantry equipment"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="UEGNSG604A" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF33012" title="Certificate III in Defence Public Affairs">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFPA001" title="Promote the organisation's mission and values"/>
+      <unit id="DEFPA002" title="Identify material suitable for media publication"/>
+      <unit id="DEFPR303B" title="Write material suiable for publication within Defence"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV303B" title="Build and maintain internal networks"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM010B" title="Promote the organisation's mission and services"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF33212" title="Certificate III in Military Land Operations">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCMOM203A" title="Operate basic machinery and equipment"/>
+      <unit id="AURT217665A" title="Remove, fit and inspect wheel assemblies"/>
+      <unit id="AURT217985A" title="Fit tyres and rims for specific applications (heavy)"/>
+      <unit id="AURT317968A" title="Identify and fit tyres and rims for specific applications (heavy)"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="CPCCCM2005A" title="Use construction tools and equipment"/>
+      <unit id="CPPSEC3003A" title="Determine response to security risk situation"/>
+      <unit id="CSCSAS205A" title="Contain incidents that jeopardise safety and security"/>
+      <unit id="CSCSAS402B" title="Manage threatening behaviour"/>
+      <unit id="DEFCA001B" title="Observe and monitor hostile areas to detect targets"/>
+      <unit id="DEFCA002B" title="Operate remote sensors to detect targets"/>
+      <unit id="DEFCA003B" title="Operate a radar to locate targets"/>
+      <unit id="DEFCA004B" title="Conduct military searches"/>
+      <unit id="DEFCA011" title="Operate defence communications equipment"/>
+      <unit id="DEFCA012" title="Perform an individual static line parachute descent"/>
+      <unit id="DEFCA013" title="Perform a team free fall parachute descent"/>
+      <unit id="DEFCA014" title="Navigate in remote and unmodified landscapes"/>
+      <unit id="DEFCA016" title="Use individual protective equipment in a CBRN threat environment"/>
+      <unit id="DEFCA104" title="Operate and maintain an armoured vehicle"/>
+      <unit id="DEFCA105" title="Operate and maintain armoured vehicle weapon systems"/>
+      <unit id="DEFCA201B" title="Operate indirect fire weapons"/>
+      <unit id="DEFCA202B" title="Conduct field survey to determine fixation and orientation"/>
+      <unit id="DEFCA203B" title="Produce meteorological data"/>
+      <unit id="DEFCA204B" title="Destroy hostile air targets using line of sight ground based air defence weapon systems"/>
+      <unit id="DEFCA205B" title="Observe targets and direct single asset firepower on a single target"/>
+      <unit id="DEFCA206B" title="Observe targets and coordinate multi asset firepower on multiple targets"/>
+      <unit id="DEFCA320" title="Prepare, operate and maintain small watercraft"/>
+      <unit id="DEFCA404B" title="Undertake reconnaissance tasks"/>
+      <unit id="DEFCA405B" title="Undertake surveillance patrol tasks"/>
+      <unit id="DEFCA406B" title="Operate a service pistol"/>
+      <unit id="DEFCA407B" title="Operate a sustained fire machine gun"/>
+      <unit id="DEFCA408B" title="Operate sustained fire machine guns on operations"/>
+      <unit id="DEFCA409B" title="Operate a shotgun"/>
+      <unit id="DEFCA410B" title="Throw grenades on operations"/>
+      <unit id="DEFCA411B" title="Operate a grenade launcher"/>
+      <unit id="DEFCA412B" title="Operate a mortar"/>
+      <unit id="DEFCA413B" title="Operate a direct fire support weapon"/>
+      <unit id="DEFCA414B" title="Operate direct fire support weapon systems on operations"/>
+      <unit id="DEFCA415B" title="Operate anti-personnel weapon"/>
+      <unit id="DEFCA416C" title="Employ hand operated pyrotechnics"/>
+      <unit id="DEFCA417B" title="Destroy targets using a direct fire guided weapon system"/>
+      <unit id="DEFCA419B" title="Operate a service rifle on operations"/>
+      <unit id="DEFCA420B" title="Operate a light support weapon on operations"/>
+      <unit id="DEFCA428" title="Undertake stability actions"/>
+      <unit id="DEFCA429" title="Undertake defensive actions"/>
+      <unit id="DEFCA430" title="Undertake offensive actions"/>
+      <unit id="DEFCM001B" title="Use personal camouflage and concealment in a threat environment"/>
+      <unit id="DEFCM002C" title="Operate night fighting equipment"/>
+      <unit id="DEFCM103C" title="Operate a service hand grenade"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM201B" title="Apply non-lethal unarmed self-defence techniques"/>
+      <unit id="DEFCO108A" title="Support the operation of a communications and information system facility"/>
+      <unit id="DEFCO401C" title="Maintain security in a Defence communications and information systems environment"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO706D" title="Participate in the conduct of explosive ordnance disposal operations"/>
+      <unit id="DEFEO711C" title="Conduct military demolition operations"/>
+      <unit id="DEFOH005B" title="Apply radio frequency radiation safety procedures"/>
+      <unit id="DEFOH007B" title="Apply ionising radiation safety procedures"/>
+      <unit id="DEFOH009B" title="Work safely with lasers"/>
+      <unit id="DEFSU012" title="Navigate using celestial aids"/>
+      <unit id="DEFTP001B" title="Operate a vehicle in an environment of threat"/>
+      <unit id="DEFTP002B" title="Operate a vehicle at night"/>
+      <unit id="DEFTP003B" title="Operate a vehicle over difficult terrain"/>
+      <unit id="DEFTP005B" title="Operate a multi-axle trailer"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="PUAFIR308B" title="Employ personal protection at a hazardous materials incident"/>
+      <unit id="RIIMPO323A" title="Conduct civil construction dozer operations"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="TDMMC907C" title="MANOEUVRE A DOMESTIC VESSEL WITHIN THE LIMITS OF RESPONSIBILITY OF A COXSWAIN"/>
+      <unit id="TDMMH1207B" title="PLAN AND NAVIGATE A SHORT VOYAGE WITHIN INSHORE LIMITS"/>
+      <unit id="TLIB2003A" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID3015A" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF32812" title="Certificate III in Preventive Health">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBOHS301B" title="Apply knowledge of OHS legislation in the workplace"/>
+      <unit id="BSBOHS302B" title="Participate effectively in OHS communication and consultative processes"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBOHS304B" title="Contribute to OHS hazard control"/>
+      <unit id="BSBOHS305B" title="Contribute to OHS issue resolution"/>
+      <unit id="BSBOHS306B" title="Contribute to implementing emergency prevention activities and response procedures"/>
+      <unit id="BSBOHS307B" title="Participate in OHS investigations"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CPCCVE1001A" title="Undertake a basic construction project"/>
+      <unit id="DEFPH001A" title="Contribute to environmental health operations"/>
+      <unit id="DEFPH002A" title="Assist with quick assessment of disease outbreak"/>
+      <unit id="DEFPH003A" title="Operate environmental measuring devices"/>
+      <unit id="DEFPH004A" title="Undertake a vector borne diseases surveillance program"/>
+      <unit id="DEFPH005A" title="Assist with field hygiene and sanitation"/>
+      <unit id="DEFPH006A" title="Monitor water handling and distribution practices"/>
+      <unit id="DEFPH007A" title="Conduct chlorine dosing of water at the point of supply"/>
+      <unit id="FDFOPTISP2A" title="Implement sampling procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="NWP210B" title="Perform basic water quality tests"/>
+      <unit id="NWP218B" title="Perform and record sampling"/>
+      <unit id="PRMPM02B" title="Assess pest management options"/>
+      <unit id="PRMPM05B" title="Modify environment to manage pests"/>
+      <unit id="PRMPM06B" title="Apply pesticide to manage pests"/>
+      <unit id="PRMPM07B" title="Implement a pest management plan"/>
+      <unit id="PRMPM09B" title="Advise client on pest management options"/>
+      <unit id="PRMPM11B" title="Conduct fumigation"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAOPE004B" title="Conduct briefings_debriefings"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF32412" title="Certificate III in Air Dispatch">
+    <units>
+      <unit id="AVI2D308B" title="Prepare freight for flight"/>
+      <unit id="AVI3A108B" title="Package dangerous goods for air transport"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="DEFAD001A" title="Rig and hook up loads during rotary wing external lift operations"/>
+      <unit id="DEFAD002A" title="Assist in establishing and clearing a cargo drop zone"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM303B" title="Rig and dispatch air-drop loads"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFTP001B" title="Operate a vehicle in an environment of threat"/>
+      <unit id="DEFTP002B" title="Operate a vehicle at night"/>
+      <unit id="DEFTP003B" title="Operate a vehicle over difficult terrain"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAU1133B" title="Send and retrieve information using web browsers and email"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PSPGOV204B" title="Access and use resources"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUAWER008B" title="Confine small workplace emergencies"/>
+      <unit id="TLIA1507C" title="Complete receival/despatch documentation"/>
+      <unit id="TLIB2807B" title="Maintain and use hand tools"/>
+      <unit id="TLID107C" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1607C" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID307D" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID407C" title="Load and unload goods/cargo"/>
+      <unit id="TLID707C" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE407C" title="Prepare workplace documents"/>
+      <unit id="TLIE507C" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE707B" title="Use communication systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF30812" title="Certificate III in Explosive Ordnance Maintenance">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA422B" title="Conduct range practices"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO204C" title="Examine and certify free from explsoive ordnance"/>
+      <unit id="DEFEO207C" title="Inspect explosive ordnance facilities"/>
+      <unit id="DEFEO208C" title="Supervise explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO213A" title="Establish and operate an explosive ordnance field storage site"/>
+      <unit id="DEFEO217A" title="Operate a large quantity explosive ordnance facility"/>
+      <unit id="DEFEO301D" title="Package ammunition"/>
+      <unit id="DEFEO302D" title="Unpackage ammunition"/>
+      <unit id="DEFEO303D" title="Monitor explosive ordnance environmental conditions"/>
+      <unit id="DEFEO401D" title="Load and unload platforms"/>
+      <unit id="DEFEO501D" title="Conduct explosive ordnance inspection"/>
+      <unit id="DEFEO502D" title="Conduct external explosive ordnance maintenance"/>
+      <unit id="DEFEO503C" title="Conduct explosive ordnance packaging inspection"/>
+      <unit id="DEFEO508D" title="Conduct electrical_electronic circuitry tests"/>
+      <unit id="DEFEO509D" title="Perform purging"/>
+      <unit id="DEFEO521A" title="Refurbish explosive ordnance packaging"/>
+      <unit id="DEFEO715C" title="Gauge explosive ordnance"/>
+      <unit id="DEFEO716C" title="Test for explosive substances"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA1507C" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA2207C" title="Participate in stocktakes"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1207C" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID1507D" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIF207C" title="Conduct housekeeping activities"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF32512" title="Certificate III in Explosive Ordnance Proof and Experimental">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA003B" title="Operate a radar to locate targets"/>
+      <unit id="DEFCA208B" title="Maintain radar systems at field operator level"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO204C" title="Examine and certify free from explsoive ordnance"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO301D" title="Package ammunition"/>
+      <unit id="DEFEO302D" title="Unpackage ammunition"/>
+      <unit id="DEFEO303D" title="Monitor explosive ordnance environmental conditions"/>
+      <unit id="DEFEO401D" title="Load and unload platforms"/>
+      <unit id="DEFEO501D" title="Conduct explosive ordnance inspection"/>
+      <unit id="DEFEO502D" title="Conduct external explosive ordnance maintenance"/>
+      <unit id="DEFEO503C" title="Conduct explosive ordnance packaging inspection"/>
+      <unit id="DEFEO505D" title="Breakdown explosive ordnance"/>
+      <unit id="DEFEO506D" title="Fuze and defuze explosive ordnance"/>
+      <unit id="DEFEO507D" title="Assemble and disassemble explosive components"/>
+      <unit id="DEFEO508D" title="Conduct electrical_electronic circuitry tests"/>
+      <unit id="DEFEO800A" title="Prepare proof firing points"/>
+      <unit id="DEFEO801A" title="Undertake proof firings of small arms"/>
+      <unit id="DEFEO802A" title="Undertake proof firings of other calibre weapons"/>
+      <unit id="DEFEO807A" title="Prepare explosive ordnance for proof tests"/>
+      <unit id="DEFEO808B" title="Prepare explosives for metal hardening"/>
+      <unit id="DEFEO815A" title="Operate small watercraft"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="DEFSO001C" title="Operate a radar system"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA1507C" title="Complete receival/despatch documentation"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1207C" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF207C" title="Conduct housekeeping activities"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF32312" title="Certificate III in Explosive Ordnance Manufacture">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFCA318" title="Shift loads manually utilising non motorised equipment"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO207C" title="Inspect explosive ordnance facilities"/>
+      <unit id="DEFEO208C" title="Supervise explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO401D" title="Load and unload platforms"/>
+      <unit id="DEFEO501D" title="Conduct explosive ordnance inspection"/>
+      <unit id="DEFEO506D" title="Fuze and defuze explosive ordnance"/>
+      <unit id="DEFEO507D" title="Assemble and disassemble explosive components"/>
+      <unit id="DEFEO509D" title="Perform purging"/>
+      <unit id="DEFEO701C" title="Dispose of explosive ordnance"/>
+      <unit id="DEFEO702D" title="Destroy unexploded ordnance"/>
+      <unit id="DEFEO716C" title="Test for explosive substances"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFOH014B" title="Test confined space environment"/>
+      <unit id="DEFOH015B" title="Control entry to confined spaces"/>
+      <unit id="DEFOH016B" title="Monitor and reoprt on hazardous substances safety"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSACMT461A" title="Facilitate SCADA systems in a manufacturing team or work area"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="PMAOHS310B" title="Investigate incidents"/>
+      <unit id="PMAOPS300B" title="Operate a production unit"/>
+      <unit id="PMAOPS305B" title="Operate process control systems"/>
+      <unit id="PMAOPS307B" title="Transfer bulk fluids into_out of storage facility"/>
+      <unit id="PUAEMR009B" title="Facilitate emergency risk assessment"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="TLIB3006A" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC3063A" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID3015A" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLIF1002A" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF33112" title="Certificate III in Military Land Engineering">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCMOM203A" title="Operate basic machinery and equipment"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2005A" title="Use construction tools and equipment"/>
+    </units>
+  </qualification>
+  <qualification id="DEF32712" title="Certificate III in Intelligence Operations">
+    <units>
+      <unit id="BCCCM2002C" title="Use small plant and equipment"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+    </units>
+  </qualification>
+  <qualification id="DEF32212" title="Certificate III in Sensor Operations">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="DEFCO401C" title="Maintain security in a Defence communications and information systems environment"/>
+      <unit id="DEFCO405C" title="Conduct operator level maintenance in a Defence environment"/>
+      <unit id="DEFCO406A" title="Transmit and receive messages via voice"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFSO001C" title="Operate a radar system"/>
+      <unit id="DEFSO002C" title="Operate a sonar system"/>
+      <unit id="DEFSO003C" title="Operate a torpedo fire control system"/>
+      <unit id="DEFSO005C" title="Operate decoy systems"/>
+      <unit id="DEFSO006A" title="Optimise and monitor sensor display"/>
+      <unit id="DEFSO007A" title="Provide general support to combat systems operations"/>
+      <unit id="DEFSO008A" title="Support the compilation of the tactical picture"/>
+      <unit id="PSPSEC405A" title="Handle security classified information"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+      <unit id="TDMMH507B" title="USE RADAR AND OTHER BRIDGE EQUIPMENT TO MAINTAIN SAFE NAVIGATION"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF40812" title="Certificate IV in Defence Reporting">
+    <units>
+      <unit id="BSBADM402A" title="Produce complex business documents"/>
+      <unit id="BSBCMN105A" title="Use business equipment"/>
+      <unit id="BSBCMN411A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFPR301B" title="Identify material suitable for publication within Defence"/>
+      <unit id="DEFPR302B" title="Conduct an interview to support written material"/>
+      <unit id="DEFPR303B" title="Write material suiable for publication within Defence"/>
+      <unit id="DEFPR304B" title="Edit provided copy"/>
+      <unit id="DEFPR305B" title="Take photographs suitable for publication within Defence"/>
+      <unit id="DEFPR306B" title="Obtain images suitable for publication within Defence"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF40512" title="Certificate IV in Explosive Ordnance Operations">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFCA004B" title="Conduct military searches"/>
+      <unit id="DEFCA005B" title="Operate communications equipment"/>
+      <unit id="DEFCA309B" title="Perform military high-risk search"/>
+      <unit id="DEFCM314A" title="Operate an in-service remote positioning vehicle"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO703C" title="Supervise military explosive ordnance task"/>
+      <unit id="DEFEO704C" title="Control military explosive ordnance operations"/>
+      <unit id="DEFEO706D" title="Participate in the conduct of explosive ordnance disposal operations"/>
+      <unit id="DEFEO710D" title="Prepare and arm weapon systems"/>
+      <unit id="DEFEO711C" title="Conduct military demolition operations"/>
+      <unit id="DEFEO712C" title="Lay and clear booby traps"/>
+      <unit id="DEFEO713C" title="Lay and clear mines"/>
+      <unit id="DEFEO714C" title="Conduct underwater explosive demolitions"/>
+      <unit id="DEFEO720A" title="Conduct post blast analysis"/>
+      <unit id="DEFEO722A" title="Detect, record and collect evidence"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1507D" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF41412" title="Certificate IV in Defence Diving">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFDV001B" title="Dive using self-contained underwater breathing apparatus in open water to 30 metres"/>
+      <unit id="DEFDV002B" title="Support SCUBA diving operations from the surface"/>
+      <unit id="DEFDV003B" title="Act as a standby diver"/>
+      <unit id="DEFDV004B" title="Dive using surface-supplied breathing apparatus in open water to 30 metres"/>
+      <unit id="DEFDV005B" title="Dive using closed-circuit breathing apparatus (N2O2) in open water to a maximum depth of 40 metres"/>
+      <unit id="DEFDV006B" title="Dive using closed-circuit breathing apparatus (O2) in open water to a maximum depth of 10 metres"/>
+      <unit id="DEFDV007B" title="Dive using closed-circuit breathing apparatus (HeO2) in open water to a maximum depth of 60 metres"/>
+      <unit id="DEFDV008B" title="Employ hand tools in an underwater environment"/>
+      <unit id="DEFDV009B" title="Conduct an underwater search of a ship's hull"/>
+      <unit id="DEFDV010B" title="Employ power tools in an underwater environment"/>
+      <unit id="DEFDV011B" title="Perform non-technical structural inspections underwater"/>
+      <unit id="DEFDV012B" title="Perform underwater beach and waterway surveys"/>
+      <unit id="DEFDV013B" title="Employ air-lift devices underwater"/>
+      <unit id="DEFDV014B" title="Perform concreting in an underwater environment"/>
+      <unit id="DEFDV015B" title="Employ explosive power tools in an underwater environment"/>
+      <unit id="DEFDV016B" title="Perform underwater rigging work"/>
+      <unit id="DEFDV017B" title="Employ thermal cutting and welding tools (non-load bearing) in an underwater environment"/>
+      <unit id="DEFEO714C" title="Conduct underwater explosive demolitions"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="HLTHY401D" title="Prepare multi-place hyperbaric chamber"/>
+      <unit id="HLTHY402D" title="Operate multi-place hyperbaric chamber"/>
+      <unit id="HLTHY403D" title="Conduct post compression routines"/>
+      <unit id="HLTHY404D" title="Implement emergency procedures for hyperbaric chamber"/>
+      <unit id="PSPGOV307B" title="Organise workplace information"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEME003C" title="Administer oxygen in an emergency situation"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="SISOSCB307A" title="Inspect and fill SCUBA cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42712" title="Certificate IV in Military Land Engineering">
+    <units>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="DEFCA015" title="Supervise combat arms operations"/>
+      <unit id="DEFCA209B" title="Select sites for deployment in a threat environment"/>
+      <unit id="DEFCA309B" title="Perform military high-risk search"/>
+      <unit id="DEFCA312B" title="Construct equipment bridging"/>
+      <unit id="DEFCA315B" title="Supervise engineering operations"/>
+      <unit id="DEFCA325" title="Prepare and operate a field water point"/>
+      <unit id="DEFCA326" title="Operate an inland modular raft or ferry"/>
+      <unit id="DEFCA327" title="Coordinate area and route search, and clearance of explosive ordnance"/>
+      <unit id="DEFCA422B" title="Conduct range practices"/>
+      <unit id="DEFCA423B" title="Manage range practices and qualifications"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFCM130" title="Perform the duties of a defending officer at service tribunals"/>
+      <unit id="DEFCM131" title="Perform the duties of a prosecuting officer at service tribunals"/>
+      <unit id="DEFCM132" title="Conduct individual and collective ceremonial drill"/>
+      <unit id="DEFCM306A" title="Administer personnel"/>
+      <unit id="DEFEO703C" title="Supervise military explosive ordnance task"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="LGAWORK304A" title="Construct and maintain drainage systems"/>
+      <unit id="PSPBORD405A" title="Develop operational effectiveness of detector dog teams"/>
+      <unit id="PSPBORD406A" title="Conduct detector dog team training"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAFIR306B" title="Render hazardous materials incidents safe"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TLIB1001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3015A" title="Undertake site inspection"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42912" title="Certificate IV in Defence Public Affairs">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBOHS301B" title="Apply knowledge of OHS legislation in the workplace"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="DEFPA002" title="Identify material suitable for media publication"/>
+      <unit id="DEFPA003" title="Conduct market profiling"/>
+      <unit id="DEFPA004" title="Manage media requirements at major events"/>
+      <unit id="DEFPA005" title="Develop and implement media plans"/>
+      <unit id="DEFPA006" title="Develop and implement public affairs strategic plans"/>
+      <unit id="DEFPA007" title="Develop and implement effective communication strategies"/>
+      <unit id="DEFPA008" title="Manage public affairs projects"/>
+      <unit id="DEFPA009" title="Capture video images"/>
+      <unit id="DEFPR303B" title="Write material suiable for publication within Defence"/>
+      <unit id="DEFPR304B" title="Edit provided copy"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="SITXEVT017B" title="Provide on-site event management services"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF41912" title="Certificate IV in Explosive Ordnance Manufacture">
+    <units>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404A" title="Develop work priorities"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO207C" title="Inspect explosive ordnance facilities"/>
+      <unit id="DEFEO208C" title="Supervise explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO209C" title="Control explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO212C" title="License explosive ordnance facilities and potential explosive sites"/>
+      <unit id="DEFEO505D" title="Breakdown explosive ordnance"/>
+      <unit id="DEFEO507D" title="Assemble and disassemble explosive components"/>
+      <unit id="DEFEO509D" title="Perform purging"/>
+      <unit id="DEFEO511D" title="Maintain grenades"/>
+      <unit id="DEFEO512D" title="Maintain mortar ammunition"/>
+      <unit id="DEFEO513D" title="Maintain actuating devices"/>
+      <unit id="DEFEO514D" title="Maintain pyrotechnics and countermeasures"/>
+      <unit id="DEFEO515D" title="Maintain guided weapons"/>
+      <unit id="DEFEO516D" title="Maintain free flight rockets"/>
+      <unit id="DEFEO517D" title="Maintain gun ammunition"/>
+      <unit id="DEFEO518D" title="Maintain aerial delivered ordnance"/>
+      <unit id="DEFEO519D" title="Maintain mines"/>
+      <unit id="DEFEO520D" title="Maintain demolition stores"/>
+      <unit id="DEFEO601D" title="Assess explosive ordnance firings"/>
+      <unit id="DEFEO602C" title="Plan explosive ordnance trials"/>
+      <unit id="DEFEO603C" title="Conduct explosive ordnance trials"/>
+      <unit id="DEFEO604C" title="Perform explosive tests, measurements and analyses"/>
+      <unit id="DEFEO605D" title="Conduct explosive ordnance firings"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMC411A" title="Lead a competitive manufacturing team"/>
+      <unit id="MSACMS400A" title="Implement a competitive manufacturing system"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMS405A" title="Lead a manufacturing team using a balanced score card approach"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT261A" title="Use SCADA systems in manufacturing"/>
+      <unit id="MSACMT450A" title="Undertake process capability improvements"/>
+      <unit id="MSACMT451A" title="Mistake proof a production process"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSACMT461A" title="Facilitate SCADA systems in a manufacturing team or work area"/>
+      <unit id="MSACMT481A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSACMT482A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="PMAOPS410B" title="Monitor remote production facilities"/>
+      <unit id="PMAOPS411B" title="Manage plant shutdown and restart"/>
+      <unit id="PMASUP440B" title="Commission_recommission plant"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1507D" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42812" title="Certificate IV in Defence Paralegal Services">
+    <units>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCMM402A" title="Implement effective communication strategies"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBLEG305A" title="Use legal terminology in order to carry out tasks"/>
+      <unit id="BSBLEG308A" title="Assist in prioritising and planning activities in a legal practice"/>
+      <unit id="BSBLEG418A" title="Produce complex legal documents"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="DEFPL017" title="Provide support in administrative law matters"/>
+      <unit id="DEFPL019" title="Provide support in legal assistance matters"/>
+      <unit id="DEFPL021" title="Obtain information from a client"/>
+      <unit id="DEFPL023" title="Provide support in service discipline law matters"/>
+      <unit id="DEFPL024" title="Provide support in criminal law matters"/>
+      <unit id="PSPGOV201B" title="Work in a public sector environment"/>
+      <unit id="PSPGOV303B" title="Build and maintain internal networks"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF43012" title="Certificate IV in Psychological Support">
+    <units>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBMED305B" title="Apply the principles of confidentiality, privacy and security within the medical environment"/>
+      <unit id="CHCCOM302D" title="Communicate appropriately with clients and colleagues"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS514B" title="Recognise and respond to individuals at risk"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+      <unit id="CHCORG322B" title="Contribute to implementation of service delivery strategy"/>
+      <unit id="DEFPS001" title="Assist in the conduct of a psycho-social selection activity"/>
+      <unit id="DEFPS002" title="Conduct a mental health screening interview"/>
+      <unit id="DEFPS003" title="Conduct a psychometric testing activity"/>
+      <unit id="HLTCOM407B" title="Provide reception services for a practice"/>
+      <unit id="HLTDEFHC406B" title="Participate in deployed health capability"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42312" title="Certificate IV in Preventive Health">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBOHS401B" title="Contribute to the implementation of a systematic approach to managing OHS"/>
+      <unit id="BSBOHS402B" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBOHS405B" title="Contribute to the implementation of emergency procedures"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404A" title="Develop work priorities"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFPH007A" title="Conduct chlorine dosing of water at the point of supply"/>
+      <unit id="DEFPH008A" title="Coordinate environmental health operations"/>
+      <unit id="DEFPH009A" title="Conduct a quick assessment of disease outbreak"/>
+      <unit id="DEFPH010A" title="Conduct a field hygiene survey"/>
+      <unit id="FDFCORFSY2A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOPTHCP3A" title="Participate in a HACCP team"/>
+      <unit id="NWP240B" title="Inspect and report catchment and surrounding areas"/>
+      <unit id="NWP260A" title="Monitor and report water treatment processes"/>
+      <unit id="NWP261A" title="Operate and maintain water treatment plant and equipment"/>
+      <unit id="NWP262A" title="Monitor and report wastewater treatment processes"/>
+      <unit id="NWP264B" title="Monitor, operate and report wastewater pre-treatment processes"/>
+      <unit id="NWP268B" title="Monitor, operate and report chlorine disinfection systems"/>
+      <unit id="NWP364B" title="Perform laboratory testing"/>
+      <unit id="PRMPM19B" title="Organise and monitor pest management operations"/>
+      <unit id="PRMWM07B" title="Implement waste management plan"/>
+      <unit id="PRMWM30B" title="Determine waste management services"/>
+      <unit id="PRMWM32B" title="Inform and educate clients on waste management issues"/>
+      <unit id="PRMWM36B" title="Develop a waste management plan"/>
+      <unit id="RTD2101A" title="Apply animal trapping techniques"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF40612" title="Certificate IV in Range Control">
+    <units>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="DEFRM101B" title="Provide technical advice on ranges and training areas"/>
+      <unit id="DEFRM102B" title="Interpret policy, legislation and regulations"/>
+      <unit id="DEFRM201B" title="Develop and maintain range standing orders"/>
+      <unit id="DEFRM202B" title="Approve training area and range activities"/>
+      <unit id="DEFRM204B" title="Monitor and control training area and range activities"/>
+      <unit id="DEFRM207B" title="Conduct training area inspections"/>
+      <unit id="DEFRM209B" title="Supervise contractors"/>
+      <unit id="PSPPROC406A" title="Procure goods and services"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF42012" title="Certificate IV in Explosive Ordnance Proof and Experimental">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFCA201B" title="Operate indirect fire weapons"/>
+      <unit id="DEFCA203B" title="Produce meteorological data"/>
+      <unit id="DEFCA210B" title="Supervise indirect fire weapons"/>
+      <unit id="DEFCA412B" title="Operate a mortar"/>
+      <unit id="DEFCA414B" title="Operate direct fire support weapon systems on operations"/>
+      <unit id="DEFCA422B" title="Conduct range practices"/>
+      <unit id="DEFCA423B" title="Manage range practices and qualifications"/>
+      <unit id="DEFCA432" title="Supervise the operation of mortars"/>
+      <unit id="DEFCA433" title="Supervise the operation of direct fire support weapons"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO208C" title="Supervise explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO209C" title="Control explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO601D" title="Assess explosive ordnance firings"/>
+      <unit id="DEFEO602C" title="Plan explosive ordnance trials"/>
+      <unit id="DEFEO803A" title="Conduct static proof tests"/>
+      <unit id="DEFEO804A" title="Conduct dynamic small arms proof tests"/>
+      <unit id="DEFEO805A" title="Conduct dynamic other calibre proof tests"/>
+      <unit id="DEFEO806A" title="Conduct environmental tests"/>
+      <unit id="DEFEO809A" title="Acquire data related to velocity"/>
+      <unit id="DEFEO810A" title="Acquire data related to pressure"/>
+      <unit id="DEFEO811A" title="Acquire data related to time"/>
+      <unit id="DEFEO812A" title="Acquire data related to environment"/>
+      <unit id="DEFEO813A" title="Acquire data related to imagery"/>
+      <unit id="DEFEO814A" title="Provide survey data for proof and experimental firing"/>
+      <unit id="DEFEO815A" title="Operate small watercraft"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFOH012B" title="Identify confined space"/>
+      <unit id="DEFOH013B" title="Enter confined space"/>
+      <unit id="DEFOH014B" title="Test confined space environment"/>
+      <unit id="DEFOH015B" title="Control entry to confined spaces"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="DEFTE003A" title="Conduct testing processes"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42212" title="Certificate IV in Military Leadership">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404A" title="Develop work priorities"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="DEFCA406B" title="Operate a service pistol"/>
+      <unit id="DEFCA411B" title="Operate a grenade launcher"/>
+      <unit id="DEFCA416C" title="Employ hand operated pyrotechnics"/>
+      <unit id="DEFCM001B" title="Use personal camouflage and concealment in a threat environment"/>
+      <unit id="DEFCM002C" title="Operate night fighting equipment"/>
+      <unit id="DEFCM005B" title="Conduct a Defence administrative inquiry"/>
+      <unit id="DEFCM101C" title="Operate a service rifle"/>
+      <unit id="DEFCM102C" title="Operate a light support weapon"/>
+      <unit id="DEFCM103C" title="Operate a service hand grenade"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM106C" title="Display the attributes of an Australian soldier"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFCM130" title="Perform the duties of a defending officer at service tribunals"/>
+      <unit id="DEFCM131" title="Perform the duties of a prosecuting officer at service tribunals"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PSPGOV201B" title="Work in a public sector environment"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUATEA005A" title="Manage own professional performance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42412" title="Certificate IV in Test and Evaluation">
+    <units>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFRM209B" title="Supervise contractors"/>
+      <unit id="DEFTE003A" title="Conduct testing processes"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPM404A" title="Carry out simple project activities"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF42512" title="Certificate IV in Work Health Safety">
+    <units>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBOHS408A" title="Assist with compliance with OHS and other relevant laws"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFCP008" title="Apply knowledge of WHS legislation"/>
+      <unit id="DEFOH003B" title="Identify and monitor radiation hazards"/>
+      <unit id="DEFOH005B" title="Apply radio frequency radiation safety procedures"/>
+      <unit id="DEFOH007B" title="Apply ionising radiation safety procedures"/>
+      <unit id="DEFOH009B" title="Work safely with lasers"/>
+      <unit id="DEFOH010B" title="Apply laser safety procedures"/>
+      <unit id="DEFOH012B" title="Identify confined space"/>
+      <unit id="DEFOH013B" title="Enter confined space"/>
+      <unit id="DEFOH014B" title="Test confined space environment"/>
+      <unit id="DEFOH015B" title="Control entry to confined spaces"/>
+      <unit id="DEFOH016B" title="Monitor and reoprt on hazardous substances safety"/>
+      <unit id="DEFOH018" title="Conduct work health and safety inspections"/>
+      <unit id="PSPGOV405B" title="Provide input to change processes"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPSOHS402A" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="PUAEMR009B" title="Facilitate emergency risk assessment"/>
+      <unit id="PUAEMR012B" title="Determine treatment options"/>
+      <unit id="PUAEMR013B" title="Facilitate treatment strategy development and implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF40412" title="Certificate IV in Explosive Ordnance Maintenance">
+    <units>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFCA422B" title="Conduct range practices"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO202D" title="Establish and maintain the safety and security of explosive warehouses and workshops"/>
+      <unit id="DEFEO203C" title="Dispose of non-explosive dangerous goods"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO207C" title="Inspect explosive ordnance facilities"/>
+      <unit id="DEFEO208C" title="Supervise explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO209C" title="Control explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO212C" title="License explosive ordnance facilities and potential explosive sites"/>
+      <unit id="DEFEO213A" title="Establish and operate an explosive ordnance field storage site"/>
+      <unit id="DEFEO509D" title="Perform purging"/>
+      <unit id="DEFEO511D" title="Maintain grenades"/>
+      <unit id="DEFEO512D" title="Maintain mortar ammunition"/>
+      <unit id="DEFEO513D" title="Maintain actuating devices"/>
+      <unit id="DEFEO514D" title="Maintain pyrotechnics and countermeasures"/>
+      <unit id="DEFEO515D" title="Maintain guided weapons"/>
+      <unit id="DEFEO516D" title="Maintain free flight rockets"/>
+      <unit id="DEFEO517D" title="Maintain gun ammunition"/>
+      <unit id="DEFEO518D" title="Maintain aerial delivered ordnance"/>
+      <unit id="DEFEO519D" title="Maintain mines"/>
+      <unit id="DEFEO520D" title="Maintain demolition stores"/>
+      <unit id="DEFEO601D" title="Assess explosive ordnance firings"/>
+      <unit id="DEFEO602C" title="Plan explosive ordnance trials"/>
+      <unit id="DEFEO603C" title="Conduct explosive ordnance trials"/>
+      <unit id="DEFEO604C" title="Perform explosive tests, measurements and analyses"/>
+      <unit id="DEFEO717C" title="Maintain aircraft egress systems"/>
+      <unit id="DEFEO718C" title="Maintain cartridge operated fire extinguisher systems"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLIA2207C" title="Participate in stocktakes"/>
+      <unit id="TLIA2307C" title="Coordinate stocktakes"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1507D" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID1607D" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42112" title="Certificate IV in Intelligence Operations">
+    <units>
+      <unit id="BSBADV402B" title="Conduct pre campaign testing"/>
+      <unit id="BSBADV605B" title="Evaluate campaign effectiveness"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+      <unit id="CPPSEC4003A" title="Advise on security needs"/>
+      <unit id="CPPSEC4006A" title="Assess risks"/>
+      <unit id="CPPSEC4007A" title="Assess threat"/>
+      <unit id="CPPSEC4012A" title="Identify and assess security of assets"/>
+      <unit id="CPPSEC4013A" title="Undertake case management of investigations"/>
+      <unit id="DEFCM004B" title="Instruct a workplace physical training session in Defence"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFCM116C" title="Provide advice on service discipline law"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFCM130" title="Perform the duties of a defending officer at service tribunals"/>
+      <unit id="DEFCM131" title="Perform the duties of a prosecuting officer at service tribunals"/>
+      <unit id="DEFCM132" title="Conduct individual and collective ceremonial drill"/>
+      <unit id="DEFCM133" title="Supervise a section during defensive operations"/>
+      <unit id="DEFCM134" title="Supervise a section during offensive operations"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFIN007A" title="Supervise intelligence operations"/>
+      <unit id="DEFIN008A" title="Plan and lead a counter-surveillance operation"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PSPGOV307B" title="Organise workplace information"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPROC406A" title="Procure goods and services"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="PSPREG419A" title="Finalise and report on investigations"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+      <unit id="PSPSEC401A" title="Undertake government security risk analysis"/>
+      <unit id="PSPSEC402A" title="Implement security risk treatments"/>
+      <unit id="PSPSEC403A" title="Develop and advise on government security procedures"/>
+      <unit id="PSPSEC404A" title="Conduct personnel security assessments"/>
+      <unit id="PSPSEC406A" title="Provide government security briefings"/>
+      <unit id="PSPSEC502A" title="Develop security risk management plans"/>
+      <unit id="PSPSEC503A" title="Implement and monitor security risk management plans"/>
+      <unit id="PSPSEC504A" title="Coordinate protective security"/>
+      <unit id="PSPSEC506A" title="Communicate security awareness"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="TAAASS301B" title="Contribute to assessment"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TLIU107B" title="Implement and monitor environmental protection policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF42612" title="Certificate IV in Military Land Operations">
+    <units>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="DEFCA015" title="Supervise combat arms operations"/>
+      <unit id="DEFCA106" title="Supervise an armoured vehicle and crew"/>
+      <unit id="DEFCA202B" title="Conduct field survey to determine fixation and orientation"/>
+      <unit id="DEFCA205B" title="Observe targets and direct single asset firepower on a single target"/>
+      <unit id="DEFCA206B" title="Observe targets and coordinate multi asset firepower on multiple targets"/>
+      <unit id="DEFCA209B" title="Select sites for deployment in a threat environment"/>
+      <unit id="DEFCA212" title="Observe targets and engage with joint asset firepower from any agency"/>
+      <unit id="DEFCA213" title="Supervise the destruction of hostile air targets using line of sight ground based AD weapon system"/>
+      <unit id="DEFCA422B" title="Conduct range practices"/>
+      <unit id="DEFCA423B" title="Manage range practices and qualifications"/>
+      <unit id="DEFCA424B" title="Observe and direct machine gun fire"/>
+      <unit id="DEFCA427B" title="Supervise sniper operations"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFCM109B" title="Supervise platoon level defensive operations"/>
+      <unit id="DEFCM110B" title="Supervise platoon level offensive operations"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFCM130" title="Perform the duties of a defending officer at service tribunals"/>
+      <unit id="DEFCM131" title="Perform the duties of a prosecuting officer at service tribunals"/>
+      <unit id="DEFCM132" title="Conduct individual and collective ceremonial drill"/>
+      <unit id="DEFCM133" title="Supervise a section during defensive operations"/>
+      <unit id="DEFCM134" title="Supervise a section during offensive operations"/>
+      <unit id="DEFCM306A" title="Administer personnel"/>
+      <unit id="DEFCO108A" title="Support the operation of a communications and information system facility"/>
+      <unit id="DEFOH003B" title="Identify and monitor radiation hazards"/>
+      <unit id="DEFOH005B" title="Apply radio frequency radiation safety procedures"/>
+      <unit id="DEFOH009B" title="Work safely with lasers"/>
+      <unit id="DEFOH010B" title="Apply laser safety procedures"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUASES010A" title="Plan, activate and maintain a communications network"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52612" title="Diploma of Defence Paralegal Services">
+    <units>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBLEG418A" title="Produce complex legal documents"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="DEFPL014" title="Provide high level support on service discipline matters"/>
+      <unit id="DEFPL015" title="Provide high-level support on criminal law matters"/>
+      <unit id="DEFPL016" title="Provide high-level support on administrative law matters"/>
+      <unit id="DEFPL018" title="Provide high-level support on operations law matters"/>
+      <unit id="DEFPL020" title="Provide high-level support on legal assistance matters"/>
+      <unit id="DEFPL022" title="Run a file"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPGOV415A" title="Provide workplace coaching"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52412" title="Diploma of Evaluations">
+    <units>
+      <unit id="AHCCCF501A" title="Evaluate project submissions"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBPMG401A" title="Apply project scope management techniques"/>
+      <unit id="BSBPMG406A" title="Apply communications management techniques"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="DEFEV501" title="Develop an evaluation program"/>
+      <unit id="DEFEV502" title="Evaluate and report collected information"/>
+      <unit id="DEFEV503" title="Maintain and enhance professional practice"/>
+      <unit id="FNSACC607A" title="Evaluate business performance"/>
+      <unit id="HLTPOP504C" title="Evaluate a population health project"/>
+      <unit id="LGADMIN425A" title="Develop a communication plan"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPMNGT611A" title="Manage evaluations"/>
+      <unit id="TAEDES505A" title="Evaluate a training program"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF51512" title="Diploma of Military Leadership">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="CSCSAS402A" title="Manage threatening behaviour"/>
+      <unit id="DEFCA406B" title="Operate a service pistol"/>
+      <unit id="DEFCA411B" title="Operate a grenade launcher"/>
+      <unit id="DEFCA413B" title="Operate a direct fire support weapon"/>
+      <unit id="DEFCA415B" title="Operate anti-personnel weapon"/>
+      <unit id="DEFCA416C" title="Employ hand operated pyrotechnics"/>
+      <unit id="DEFCA419B" title="Operate a service rifle on operations"/>
+      <unit id="DEFCM001B" title="Use personal camouflage and concealment in a threat environment"/>
+      <unit id="DEFCM002C" title="Operate night fighting equipment"/>
+      <unit id="DEFCM005B" title="Conduct a Defence administrative inquiry"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFCM101C" title="Operate a service rifle"/>
+      <unit id="DEFCM102C" title="Operate a light support weapon"/>
+      <unit id="DEFCM103C" title="Operate a service hand grenade"/>
+      <unit id="DEFCM104C" title="Operate in a threat environment"/>
+      <unit id="DEFCM105C" title="Participate in ceremonial activities"/>
+      <unit id="DEFCM106C" title="Display the attributes of an Australian soldier"/>
+      <unit id="DEFCM118B" title="Act as a range safety officer on a permanent range"/>
+      <unit id="DEFCM119B" title="Conduct basic range practices on a permanent range"/>
+      <unit id="DEFCM130" title="Perform the duties of a defending officer at service tribunals"/>
+      <unit id="DEFCM131" title="Perform the duties of a prosecuting officer at service tribunals"/>
+      <unit id="DEFCM201B" title="Apply non-lethal unarmed self-defence techniques"/>
+      <unit id="DEFEQ002B" title="Supervise equity and diversity in the workplace"/>
+      <unit id="DEFRI001B" title="Treat risk within Defence at an operational level"/>
+      <unit id="DEFRI002B" title="Conduct risk assessment in a Defence environment"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PSPGOV201B" title="Work in a public sector environment"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAADEL401B" title="Plan and organise group-based delivery"/>
+      <unit id="TAADEL402B" title="Facilitate group-based learning"/>
+      <unit id="TAADEL403B" title="Facilitate individual learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52512" title="Diploma of Enterprise Architecture Practice">
+    <units>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="DEFEA001" title="Use an enterprise architecture framework"/>
+      <unit id="DEFEA002" title="Demonstrate compliance with an enterprise architecture framework"/>
+      <unit id="DEFEA003" title="Use enterprise architecture tools"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT403A" title="Apply software development methodologies"/>
+      <unit id="ICAICT502A" title="Develop detailed component specifications from project specifications"/>
+      <unit id="ICAPRG524A" title="Develop high-level object-oriented class specifications"/>
+      <unit id="ICASAD501A" title="Model data objects"/>
+      <unit id="ICASAD502A" title="Model data processes"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF51412" title="Diploma of Explosive Ordnance Proof and Experimental">
+    <units>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO205C" title="Conduct technical explosive ordnance investigations"/>
+      <unit id="DEFEO210C" title="Manage explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO709D" title="Apply explosive ordnance design principles"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ003B" title="Manage equity and diversity"/>
+      <unit id="DEFOH006B" title="Develop radio frequency radiation safety plans"/>
+      <unit id="DEFOH008B" title="Develop ionising radiation safety plans"/>
+      <unit id="DEFOH011B" title="Develop laser safety plans"/>
+      <unit id="DEFRM201B" title="Develop and maintain range standing orders"/>
+      <unit id="DEFRM202B" title="Approve training area and range activities"/>
+      <unit id="DEFRM204B" title="Monitor and control training area and range activities"/>
+      <unit id="DEFRM205B" title="Manage emergency operations"/>
+      <unit id="DEFRM206B" title="Conduct range inspections"/>
+      <unit id="DEFRM208B" title="Manage training area and range contamination"/>
+      <unit id="DEFRM209B" title="Supervise contractors"/>
+      <unit id="DEFRM210B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="DEFTE001A" title="Plan testing and evaluation processes"/>
+      <unit id="DEFTE002A" title="Prepare testing and evaluation processes"/>
+      <unit id="DEFTE003A" title="Conduct testing processes"/>
+      <unit id="DEFTE004A" title="Evaluate testing"/>
+      <unit id="DEFTE005A" title="Produce test and evaluation reports"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52712" title="Diploma of Defence Public Affairs">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="DEFPA004" title="Manage media requirements at major events"/>
+      <unit id="DEFPA005" title="Develop and implement media plans"/>
+      <unit id="DEFPA006" title="Develop and implement public affairs strategic plans"/>
+      <unit id="DEFPA007" title="Develop and implement effective communication strategies"/>
+      <unit id="DEFPA008" title="Manage public affairs projects"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPPA502A" title="Coordinate public affairs events and activities"/>
+      <unit id="PSPPA601A" title="Manage public affairs"/>
+      <unit id="PSPPA602A" title="Provide public affairs advisory service"/>
+      <unit id="PSPPA603A" title="Manage media relationships"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF50712" title="Diploma of Range Management">
+    <units>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO205C" title="Conduct technical explosive ordnance investigations"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO210C" title="Manage explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO212C" title="License explosive ordnance facilities and potential explosive sites"/>
+      <unit id="DEFEO602C" title="Plan explosive ordnance trials"/>
+      <unit id="DEFEO603C" title="Conduct explosive ordnance trials"/>
+      <unit id="DEFEO604C" title="Perform explosive tests, measurements and analyses"/>
+      <unit id="DEFEO605D" title="Conduct explosive ordnance firings"/>
+      <unit id="DEFEO606D" title="Develop unique explosives"/>
+      <unit id="DEFEO607C" title="Determine the properties of explosive ordnance"/>
+      <unit id="DEFEO709D" title="Apply explosive ordnance design principles"/>
+      <unit id="MSACMS601A" title="Analyse and map a value chain"/>
+      <unit id="MSACMS602A" title="Manage a value chain"/>
+      <unit id="MSACMT621A" title="Develop a Just in Time (JIT) system"/>
+      <unit id="MSACMT630A" title="Optimise cost of product"/>
+      <unit id="MSACMT631A" title="Undertake value analysis of product costs in terms of customer requirements"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="PMASUP540B" title="Analyse equipment performance"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR022" title="Establish context for emergency risk assessment"/>
+      <unit id="PUAEMR023" title="Assess emergency risk"/>
+      <unit id="PUAEMR024" title="Develop treatment options for emergency risk"/>
+      <unit id="PUAEMR025" title="Manage risk treatment implementation"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF51612" title="Diploma of Preventive Health">
+    <units>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS506B" title="Monitor and facilitate the management of hazards associated with plant"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS508B" title="Participate in the investigation of incidents"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPPPMT3029A" title="Plan and schedule pest management operations"/>
+      <unit id="DEFPH011A" title="Perform environmental health planning"/>
+      <unit id="DEFPH012A" title="Manage environmental health operations"/>
+      <unit id="DEFPH013A" title="Manage a deployed capability"/>
+      <unit id="DEFPH014A" title="Investigate and control outbreak of disease"/>
+      <unit id="FDFAU4001A" title="Assess compliance with food safety programs"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="FDFAU4004A" title="Identify, evaluate and control food safety hazards"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFTEC4003A" title="Control food contamination and spoilage"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF51312" title="Diploma of Explosive Ordnance Manufacture">
+    <units>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO201C" title="Respond to fire"/>
+      <unit id="DEFEO205C" title="Conduct technical explosive ordnance investigations"/>
+      <unit id="DEFEO206C" title="Apply a knowledge of the service environment"/>
+      <unit id="DEFEO210C" title="Manage explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFEO212C" title="License explosive ordnance facilities and potential explosive sites"/>
+      <unit id="DEFEO602C" title="Plan explosive ordnance trials"/>
+      <unit id="DEFEO603C" title="Conduct explosive ordnance trials"/>
+      <unit id="DEFEO604C" title="Perform explosive tests, measurements and analyses"/>
+      <unit id="DEFEO605D" title="Conduct explosive ordnance firings"/>
+      <unit id="DEFEO606D" title="Develop unique explosives"/>
+      <unit id="DEFEO607C" title="Determine the properties of explosive ordnance"/>
+      <unit id="DEFEO709D" title="Apply explosive ordnance design principles"/>
+      <unit id="MSACMS600A" title="Develop a competitive manufacturing system"/>
+      <unit id="MSACMS601A" title="Analyse and map a value chain"/>
+      <unit id="MSACMS602A" title="Manage a value chain"/>
+      <unit id="MSACMS603A" title="Develop manufacturing related business plans"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT620A" title="Develop quick changeover procedures"/>
+      <unit id="MSACMT621A" title="Develop a Just in Time (JIT) system"/>
+      <unit id="MSACMT630A" title="Optimise cost of product"/>
+      <unit id="MSACMT631A" title="Undertake value analysis of product costs in terms of customer requirements"/>
+      <unit id="MSACMT640A" title="Manage 5S system in a manufacturing environment"/>
+      <unit id="MSACMT650A" title="Determine and improve process capability"/>
+      <unit id="MSACMT660A" title="Develop the application of enterprise systems in manufacturing"/>
+      <unit id="MSACMT661A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSACMT670A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSACMT675A" title="Facilitate the development of a new product"/>
+      <unit id="MSACMT681A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="PMASUP540B" title="Analyse equipment performance"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAEMR005B" title="Design and manage activities which exercise elements of emergency management"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TLID107C" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52212" title="Diploma of Compliance">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG503A" title="Manage project time"/>
+      <unit id="BSBPMG504A" title="Manage project costs"/>
+      <unit id="BSBPMG506A" title="Manage project human resources"/>
+      <unit id="BSBPMG507A" title="Manage project communications"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFCP001A" title="Evaluate and review safety cases"/>
+      <unit id="DEFCP002A" title="Apply knowledge of regulatory systems"/>
+      <unit id="DEFCP004A" title="Apply knowledge of risk assessment"/>
+      <unit id="DEFCP005A" title="Apply knowledge of risk management"/>
+      <unit id="DEFCP006A" title="Apply knowledge of safety case development process"/>
+      <unit id="DEFCP007A" title="Provide specialist safety case advice"/>
+      <unit id="DEFCP008" title="Apply knowledge of WHS legislation"/>
+      <unit id="PSPFIN501A" title="Apply public sector financial policies and processes"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPM601B" title="Direct complex project activities"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF50612" title="Diploma of Explosive Ordnance">
+    <units>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="DEFCA327" title="Coordinate area and route search, and clearance of explosive ordnance"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO205C" title="Conduct technical explosive ordnance investigations"/>
+      <unit id="DEFEO210C" title="Manage explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO214A" title="Plan loading of dangerous goods"/>
+      <unit id="DEFEO505D" title="Breakdown explosive ordnance"/>
+      <unit id="DEFEO507D" title="Assemble and disassemble explosive components"/>
+      <unit id="DEFEO606D" title="Develop unique explosives"/>
+      <unit id="DEFEO607C" title="Determine the properties of explosive ordnance"/>
+      <unit id="DEFEO703C" title="Supervise military explosive ordnance task"/>
+      <unit id="DEFEO705C" title="Manage military explosive ordnance operations"/>
+      <unit id="DEFEO707C" title="Conduct explosive ordnance disposal operations"/>
+      <unit id="DEFEO708C" title="Conduct improvised explosive device disposal operations"/>
+      <unit id="DEFEO709D" title="Apply explosive ordnance design principles"/>
+      <unit id="DEFEO719A" title="Render explosive ordnance inert"/>
+      <unit id="DEFEO720A" title="Conduct post blast analysis"/>
+      <unit id="DEFEO721A" title="Remove explosive ordnance from damaged aircraft"/>
+      <unit id="DEFEO722A" title="Detect, record and collect evidence"/>
+      <unit id="DEFEQ001C" title="Work with equity and diversity"/>
+      <unit id="DEFEQ003B" title="Manage equity and diversity"/>
+      <unit id="DEFOH011B" title="Develop laser safety plans"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="PUAEMR005B" title="Design and manage activities which exercise elements of emergency management"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF52312" title="Diploma of Work Health Safety">
+    <units>
+      <unit id="BSBOHS502B" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBOHS505C" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS508B" title="Participate in the investigation of incidents"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="DEFCM003B" title="Analyse causes and identify countermeasures for injuries in physical activities"/>
+      <unit id="DEFCM008B" title="Provide technical advice"/>
+      <unit id="DEFOH004B" title="Develop noise management plans"/>
+      <unit id="DEFOH006B" title="Develop radio frequency radiation safety plans"/>
+      <unit id="DEFOH008B" title="Develop ionising radiation safety plans"/>
+      <unit id="DEFOH011B" title="Develop laser safety plans"/>
+      <unit id="DEFOH017" title="Conduct a work health and safety audit"/>
+      <unit id="PSPSOHS501A" title="Participate in the coordination and maintenance of a systematic approach to managing OHS"/>
+      <unit id="PUAEMR012B" title="Determine treatment options"/>
+      <unit id="PUAEMR013B" title="Facilitate treatment strategy development and implementation"/>
+      <unit id="PUAEMR022" title="Establish context for emergency risk assessment"/>
+      <unit id="PUAEMR023" title="Assess emergency risk"/>
+      <unit id="PUAEMR024" title="Develop treatment options for emergency risk"/>
+      <unit id="PUAEMR025" title="Manage risk treatment implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF51712" title="Diploma of Test and Evaluation">
+    <units>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="DEFTE001A" title="Plan testing and evaluation processes"/>
+      <unit id="DEFTE002A" title="Prepare testing and evaluation processes"/>
+      <unit id="DEFTE003A" title="Conduct testing processes"/>
+      <unit id="DEFTE004A" title="Evaluate testing"/>
+      <unit id="DEFTE005A" title="Produce test and evaluation reports"/>
+      <unit id="DEFTE006A" title="Analyse test data"/>
+      <unit id="DEFTE007A" title="Apply knowledge of test and evaluation processes"/>
+      <unit id="PSPFIN501A" title="Apply public sector financial policies and processes"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPM601B" title="Direct complex project activities"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR001B" title="Establish context and develop risk evaluation criteria"/>
+      <unit id="PUAEMR002B" title="Identify, analyse and evaluate risk"/>
+      <unit id="PUAEMR003B" title="Determine treatment strategies"/>
+      <unit id="PUAEMR004B" title="Manage treatment strategy implementation"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="DEF60912" title="Defence Public Affairs">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPMNGT609B" title="Formulate business strategies"/>
+      <unit id="PSPMNGT701B" title="Provide strategic direction"/>
+      <unit id="PSPPA502A" title="Coordinate public affairs events and activities"/>
+      <unit id="PSPPA601A" title="Manage public affairs"/>
+      <unit id="PSPPA602A" title="Provide public affairs advisory service"/>
+      <unit id="PSPPA603A" title="Manage media relationships"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF80112" title="Vocational Graduate Certificate in Explosive Ordnance">
+    <units>
+      <unit id="DEFEO001" title="Apply knowledge of explosive ordnance chemistry"/>
+      <unit id="DEFEO002" title="Apply knowledge of explosive ordnance physics"/>
+      <unit id="DEFEO003" title="Apply knowledge of explosive ordnance materials"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO209C" title="Control explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO211D" title="Apply a knowledge of explosive ordnance"/>
+      <unit id="DEFTE006A" title="Analyse test data"/>
+      <unit id="DEFTE007A" title="Apply knowledge of test and evaluation processes"/>
+      <unit id="MSS407003A" title="Analyse process changes"/>
+      <unit id="MSS407012A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DEF80212" title="Vocational Graduate Diploma of Explosive Ordnance">
+    <units>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="DEFEO004" title="Assess the safety and suitability for service of explosive ordnance"/>
+      <unit id="DEFEO005" title="Conduct explosive ordnance capability analysis"/>
+      <unit id="DEFEO006" title="Predict and confirm explosive ordnance effects"/>
+      <unit id="DEFEO007" title="Assess specific explosive ordnance as being safe and suitable for transport"/>
+      <unit id="DEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="DEFEO210C" title="Manage explosive ordnance engineering and logistics processes"/>
+      <unit id="DEFEO709D" title="Apply explosive ordnance design principles"/>
+      <unit id="DEFEO720A" title="Conduct post blast analysis"/>
+      <unit id="DEFEO900A" title="Develop explosive ordnance disposal techniques and render-safe procedures"/>
+      <unit id="DEFTE007A" title="Apply knowledge of test and evaluation processes"/>
+      <unit id="MSS408005A" title="Develop the learning processes of the operations organisation"/>
+      <unit id="MSS408006A" title="Develop and refine systems for continuous improvement in operations"/>
+      <unit id="PSPPOL601A" title="Develop public policy"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<qualifications class="SRF04">
+  <qualification id="SRF30206" title="Certificate III in Fitness">
+    <units/>
+  </qualification>
+  <qualification id="SRF30204" title="Certificate III in Fitness">
+    <units/>
+  </qualification>
+  <qualification id="SRF40206" title="Certificate IV in Fitness">
+    <units/>
+  </qualification>
+  <qualification id="SRF40204" title="Certificate IV in Fitness">
+    <units/>
+  </qualification>
+  <qualification id="SRF50204" title="Diploma of Fitness">
+    <units/>
+  </qualification>
+  <qualification id="SRF50206" title="Diploma of Fitness">
+    <units/>
+  </qualification>
+</qualifications>

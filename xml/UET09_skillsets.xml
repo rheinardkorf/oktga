@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<skillsets class="UET09">
+  <skillset id="UETSS00001" title="Skill Set - Apply Access Procedures to Work On or Near Electrical Network Infrastructure">
+    <units>
+      <unit id="UETTDRRF09A" title="Apply access procedures to work on or near electrical network infrastructure"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00002" title="Skill Set - Apply ESI Safety Rules, Codes of Practice and Procedures for Work On or Near Electrical Apparatus">
+    <units>
+      <unit id="UETTDRRF01A" title="Apply ESI safety rules, codes of practice and procedures for work on or near electrical apparatus"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00003" title="Skill Set - Perform Cable Pit_Trench_Excavation Rescue">
+    <units>
+      <unit id="UETTDRRF07A" title="Perform cable pit/trench/excavation rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00004" title="Skill Set - Perform Cable Pit_Trench_Excavation Rescue and CPR">
+    <units>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+      <unit id="UETTDRRF07A" title="Perform cable pit/trench/excavation rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00005" title="Skill Set - Perform CPR">
+    <units>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00006" title="Skill Set - Perform EWP Controlled Descent Escape">
+    <units>
+      <unit id="UETTDRRF08A" title="Perform EWP controlled descent escape"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00007" title="Skill Set - Perform EWP Rescue">
+    <units>
+      <unit id="UETTDRRF03A" title="Perform EWP rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00008" title="Skill Set - Perform EWP Rescue and CPR">
+    <units>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+      <unit id="UETTDRRF03A" title="Perform EWP rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00009" title="Skill Set - Perform Pole Top Rescue">
+    <units>
+      <unit id="UETTDRRF02A" title="Perform pole top rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00010" title="Skill Set - Perform Pole Top Rescue and CPR">
+    <units>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+      <unit id="UETTDRRF02A" title="Perform pole top rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00011" title="Skill Set - Perform Rescue from a Live LV Panel">
+    <units>
+      <unit id="UETTDRRF06A" title="Perform rescue from a live LV panel"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00012" title="Skill Set - Perform Rescue from a Live LV Panel and CPR">
+    <units>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+      <unit id="UETTDRRF06A" title="Perform rescue from a live LV panel"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00013" title="Skill Set - Perform Rescue from Switchyard Structures at Heights">
+    <units>
+      <unit id="UETTDRRF05A" title="Perform rescue from switchyard structures at heights"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00014" title="Skill Set - Perform Switchyard Rescue at Heights and Provide First Aid">
+    <units>
+      <unit id="UETTDRRF05A" title="Perform rescue from switchyard structures at heights"/>
+      <unit id="UETTDRRF10A" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00015" title="Skill Set - Perform Tower Rescue">
+    <units>
+      <unit id="UETTDRRF04A" title="Perform tower rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00016" title="Skill Set - Perform Tower Rescue and Provide First Aid">
+    <units>
+      <unit id="UETTDRRF04A" title="Perform tower rescue"/>
+      <unit id="UETTDRRF10A" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00017" title="Skill Set - Provide First Aid in an ESI Environment">
+    <units>
+      <unit id="UETTDRRF10A" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+</skillsets>

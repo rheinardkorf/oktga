@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<qualifications class="MSL09">
+  <qualification id="MSL20109" title="Certificate II in Sampling and Measurement">
+    <units>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSL912001A" title="Work within a laboratory_field workplace (induction)"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933002A" title="Contribute to the achievement of quality objectives"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL933004A" title="Perform calibration checks on equipment and assist with its maintenance"/>
+      <unit id="MSL943001A" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL953002A" title="Operate a robotic sample preparation system"/>
+      <unit id="MSL963001A" title="Operate basic handblowing equipment"/>
+      <unit id="MSL963002A" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="MSL972001A" title="Conduct routine site measurements"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973005A" title="Assist with fieldwork"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973008A" title="Perform histological procedures"/>
+      <unit id="MSL973009A" title="Conduct field-based acceptance tests for construction materials"/>
+      <unit id="MSL973010A" title="Conduct laboratory-based acceptance tests for construction materials"/>
+      <unit id="MSL973011A" title="Perform fire pouring techniques"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSL30109" title="Certificate III in Laboratory Skills">
+    <units>
+      <unit id="HLTPAT317C" title="Operate effectively within a pathology testing environment"/>
+      <unit id="HLTPAT419C" title="Perform Pathology Tests"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL912001A" title="Work within a laboratory_field workplace (induction)"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+      <unit id="MSL914001A" title="Prepare practical science classes and demonstrations"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933002A" title="Contribute to the achievement of quality objectives"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL933004A" title="Perform calibration checks on equipment and assist with its maintenance"/>
+      <unit id="MSL934001A" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL934003A" title="Maintain and control stocks"/>
+      <unit id="MSL943001A" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL944001A" title="Maintain laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL953002A" title="Operate a robotic sample preparation system"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL954002A" title="Prepare mineral samples for analysis"/>
+      <unit id="MSL963001A" title="Operate basic handblowing equipment"/>
+      <unit id="MSL963002A" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="MSL972001A" title="Conduct routine site measurements"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973005A" title="Assist with fieldwork"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973008A" title="Perform histological procedures"/>
+      <unit id="MSL973009A" title="Conduct field-based acceptance tests for construction materials"/>
+      <unit id="MSL973010A" title="Conduct laboratory-based acceptance tests for construction materials"/>
+      <unit id="MSL973011A" title="Perform fire pouring techniques"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974002A" title="Conduct geotechnical site investigations"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974004A" title="Perform food tests"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974008A" title="Capture and manage scientific images"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSL974011A" title="Prepare tissue and cell cultures"/>
+      <unit id="MSL974012A" title="Perform tests to determine the properties of construction materials"/>
+      <unit id="MSL974013A" title="Monitor performance of structures"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSL40109" title="Certificate IV in Laboratory Techniques">
+    <units>
+      <unit id="HLTPAT317C" title="Operate effectively within a pathology testing environment"/>
+      <unit id="HLTPAT419C" title="Perform Pathology Tests"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL905001A" title="Perform non-standard calibrations"/>
+      <unit id="MSL905002A" title="Create or modify calibration procedures"/>
+      <unit id="MSL905003A" title="Create or modify automated calibration procedures"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+      <unit id="MSL914001A" title="Prepare practical science classes and demonstrations"/>
+      <unit id="MSL915001A" title="Provide information to customers"/>
+      <unit id="MSL915002A" title="Schedule laboratory work for a small team"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="MSL925002A" title="Analyse measurements and estimate uncertainties"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933002A" title="Contribute to the achievement of quality objectives"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL933004A" title="Perform calibration checks on equipment and assist with its maintenance"/>
+      <unit id="MSL934001A" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL934003A" title="Maintain and control stocks"/>
+      <unit id="MSL935001A" title="Monitor the quality of test results and data"/>
+      <unit id="MSL935002A" title="Assist in the maintenance of reference materials"/>
+      <unit id="MSL935003A" title="Authorise the issue of test results"/>
+      <unit id="MSL935004A" title="Maintain instruments and equipment"/>
+      <unit id="MSL943001A" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL944001A" title="Maintain laboratory_field workplace safety"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL953002A" title="Operate a robotic sample preparation system"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL954002A" title="Prepare mineral samples for analysis"/>
+      <unit id="MSL955001A" title="Supervise a robotic sample preparation system"/>
+      <unit id="MSL963001A" title="Operate basic handblowing equipment"/>
+      <unit id="MSL963002A" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="MSL965001A" title="Design and manufacture glass apparatus and glass systems"/>
+      <unit id="MSL965002A" title="Perform glass coating, grinding and finishing operations"/>
+      <unit id="MSL965003A" title="Construct, modify and maintain high vacuum systems"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973005A" title="Assist with fieldwork"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973008A" title="Perform histological procedures"/>
+      <unit id="MSL973009A" title="Conduct field-based acceptance tests for construction materials"/>
+      <unit id="MSL973010A" title="Conduct laboratory-based acceptance tests for construction materials"/>
+      <unit id="MSL973011A" title="Perform fire pouring techniques"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974002A" title="Conduct geotechnical site investigations"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974004A" title="Perform food tests"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974008A" title="Capture and manage scientific images"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSL974011A" title="Prepare tissue and cell cultures"/>
+      <unit id="MSL974012A" title="Perform tests to determine the properties of construction materials"/>
+      <unit id="MSL974013A" title="Monitor performance of structures"/>
+      <unit id="MSL975001A" title="Perform microbiological tests"/>
+      <unit id="MSL975002A" title="Perform haematological tests"/>
+      <unit id="MSL975003A" title="Perform histological tests"/>
+      <unit id="MSL975004A" title="Perform chemical pathology tests"/>
+      <unit id="MSL975005A" title="Conduct sensory analysis"/>
+      <unit id="MSL975006A" title="Perform immunohaematological tests"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975008A" title="Apply electrophoretic techniques"/>
+      <unit id="MSL975009A" title="Apply routine chromatographic techniques"/>
+      <unit id="MSL975010A" title="Perform fire assay techniques"/>
+      <unit id="MSL975011A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="MSL975012A" title="Provide input to production trials"/>
+      <unit id="MSL975013A" title="Perform tissue and cell culture techniques"/>
+      <unit id="MSL975014A" title="Perform molecular biology tests and procedures"/>
+      <unit id="MSL975015A" title="Prepare animal and plant material for display"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="MSL975017A" title="Perform laboratory-based ecological techniques"/>
+      <unit id="MSL975018A" title="Perform complex tests to measure chemical properties of materials"/>
+      <unit id="MSL975019A" title="Apply complex instrumental techniques"/>
+      <unit id="MSL975020A" title="Apply routine spectrometric techniques"/>
+      <unit id="MSL975021A" title="Apply routine electrometric techniques"/>
+      <unit id="MSL975022A" title="Perform food analyses"/>
+      <unit id="MSL975023A" title="Supervise geotechnical site investigations"/>
+      <unit id="MSL975024A" title="Locate record and collect forensic samples"/>
+      <unit id="MSL975025A" title="Perform complex laboratory testing of forensic samples"/>
+      <unit id="MSL975026A" title="Perform physical examination of forensic samples"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSL50109" title="Diploma of Laboratory Technology">
+    <units>
+      <unit id="HLTPAT317C" title="Operate effectively within a pathology testing environment"/>
+      <unit id="HLTPAT419C" title="Perform Pathology Tests"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL905001A" title="Perform non-standard calibrations"/>
+      <unit id="MSL905002A" title="Create or modify calibration procedures"/>
+      <unit id="MSL905003A" title="Create or modify automated calibration procedures"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+    </units>
+  </qualification>
+  <qualification id="MSL60109" title="Advanced Diploma of Laboratory Operations">
+    <units>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSL905001A" title="Perform non-standard calibrations"/>
+      <unit id="MSL905002A" title="Create or modify calibration procedures"/>
+      <unit id="MSL905003A" title="Create or modify automated calibration procedures"/>
+      <unit id="MSL915001A" title="Provide information to customers"/>
+      <unit id="MSL915002A" title="Schedule laboratory work for a small team"/>
+      <unit id="MSL916001A" title="Develop and maintain laboratory documentation"/>
+      <unit id="MSL916002A" title="Manage and develop teams"/>
+      <unit id="MSL916003A" title="Supervise laboratory operations in work_functional area"/>
+      <unit id="MSL916004A" title="Maintain registration and statutory or legal compliance in work/functional area"/>
+      <unit id="MSL916005A" title="Manage complex projects"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="MSL925002A" title="Analyse measurements and estimate uncertainties"/>
+      <unit id="MSL935001A" title="Monitor the quality of test results and data"/>
+      <unit id="MSL935002A" title="Assist in the maintenance of reference materials"/>
+      <unit id="MSL935003A" title="Authorise the issue of test results"/>
+      <unit id="MSL935004A" title="Maintain instruments and equipment"/>
+      <unit id="MSL936001A" title="Maintain quality system and continuous improvement processes within work/functional area"/>
+      <unit id="MSL936002A" title="Conduct an internal audit of the quality system"/>
+      <unit id="MSL946001A" title="Implement and monitor OHS and environmental management systems"/>
+      <unit id="MSL955001A" title="Supervise a robotic sample preparation system"/>
+      <unit id="MSL965001A" title="Design and manufacture glass apparatus and glass systems"/>
+      <unit id="MSL965002A" title="Perform glass coating, grinding and finishing operations"/>
+      <unit id="MSL965003A" title="Construct, modify and maintain high vacuum systems"/>
+      <unit id="MSL975001A" title="Perform microbiological tests"/>
+      <unit id="MSL975002A" title="Perform haematological tests"/>
+      <unit id="MSL975003A" title="Perform histological tests"/>
+      <unit id="MSL975004A" title="Perform chemical pathology tests"/>
+      <unit id="MSL975005A" title="Conduct sensory analysis"/>
+      <unit id="MSL975006A" title="Perform immunohaematological tests"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975008A" title="Apply electrophoretic techniques"/>
+      <unit id="MSL975009A" title="Apply routine chromatographic techniques"/>
+      <unit id="MSL975010A" title="Perform fire assay techniques"/>
+      <unit id="MSL975011A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="MSL975012A" title="Provide input to production trials"/>
+      <unit id="MSL975013A" title="Perform tissue and cell culture techniques"/>
+      <unit id="MSL975014A" title="Perform molecular biology tests and procedures"/>
+      <unit id="MSL975015A" title="Prepare animal and plant material for display"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="MSL975017A" title="Perform laboratory-based ecological techniques"/>
+      <unit id="MSL975018A" title="Perform complex tests to measure chemical properties of materials"/>
+      <unit id="MSL975019A" title="Apply complex instrumental techniques"/>
+      <unit id="MSL975020A" title="Apply routine spectrometric techniques"/>
+      <unit id="MSL975021A" title="Apply routine electrometric techniques"/>
+      <unit id="MSL975022A" title="Perform food analyses"/>
+      <unit id="MSL975023A" title="Supervise geotechnical site investigations"/>
+      <unit id="MSL975024A" title="Locate record and collect forensic samples"/>
+      <unit id="MSL975025A" title="Perform complex laboratory testing of forensic samples"/>
+      <unit id="MSL975026A" title="Perform physical examination of forensic samples"/>
+      <unit id="MSL976001A" title="Classify building sites"/>
+      <unit id="MSL976002A" title="Prepare plans and quality assurance procedures for environmental field activities"/>
+      <unit id="MSL976003A" title="Evaluate and select appropriate test methods and_or procedures"/>
+      <unit id="MSL977001A" title="Contribute to the development of products and applications"/>
+      <unit id="MSL977002A" title="Troubleshoot equipment and_or production processes"/>
+      <unit id="MSL977003A" title="Contribute to validation of test methods"/>
+      <unit id="MSL977004A" title="Develop or adapt analyses and procedures"/>
+      <unit id="MSL977005A" title="Integrate data acquisition and interfacing systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSL70109" title="Vocational Graduate Certificate in Instrumental Analysis">
+    <units>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL925002A" title="Analyse measurements and estimate uncertainties"/>
+      <unit id="MSL944001A" title="Maintain laboratory_field workplace safety"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL976003A" title="Evaluate and select appropriate test methods and_or procedures"/>
+      <unit id="MSL977003A" title="Contribute to validation of test methods"/>
+      <unit id="MSL977004A" title="Develop or adapt analyses and procedures"/>
+      <unit id="MSL977006A" title="Apply specialised knowledge of gas chromatography techniques to analysis"/>
+      <unit id="MSL977007A" title="Apply specialised knowledge of liquid chromatography techniques to analysis"/>
+      <unit id="MSL977008A" title="Apply specialised knowledge of inductively coupled plasma spectroscopy to analysis"/>
+      <unit id="MSL977009A" title="Apply advanced ultraviolet, visible and near infra red spectroscopic techniques to analysis"/>
+      <unit id="MSL977010A" title="Apply advanced infra red spectroscopic techniques to analysis"/>
+      <unit id="MSL977011A" title="Contribute to the selection, commissioning and maintenance of analytical instruments"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<qualifications class="AUM00">
+  <qualification id="AUM20100" title="Certificate II in Automotive Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="AUM25101" title="Certificate II in Automotive Manufacturing (Bus, Truck &amp; Trailer)">
+    <units/>
+  </qualification>
+  <qualification id="AUM35101" title="Certificate III in Automotive Manufacturing (Bus, Truck &amp; Trailer)">
+    <units/>
+  </qualification>
+  <qualification id="AUM30100" title="Certificate III in Automotive Manufacturing (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="AUM40200" title="Certificate IV in Automotive Manufacturing (Manufacturing Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="AUM40100" title="Certificate IV in Automotive Manufacturing (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="AUM45101" title="Certificate IV in Automotive Manufacturing (Bus, Truck &amp; Trailer)">
+    <units/>
+  </qualification>
+  <qualification id="AUM50100" title="Diploma of Automotive Manufacturing (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="AUM50200" title="Diploma of Automotive Manufacturing (Manufacturing Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="AUM60100" title="Advanced Diploma of Automotive Manufacturing (Design &amp; Development)">
+    <units/>
+  </qualification>
+</qualifications>

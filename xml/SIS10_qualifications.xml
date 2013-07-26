@@ -1,0 +1,1355 @@
+<?xml version="1.0"?>
+<qualifications class="SIS10">
+  <qualification id="SIS10112" title="Certificate I in Sport and Recreation">
+    <units>
+      <unit id="AHCCHM101A" title="Follow basic chemical safety rules"/>
+      <unit id="AHCMOM203A" title="Operate basic machinery and equipment"/>
+      <unit id="AHCTRF101A" title="Support turf work"/>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBIND201A" title="Work effectively in a business environment"/>
+      <unit id="BSBLED101A" title="Plan skills development"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI102A" title="Assist in preparing and conducting sport and recreation sessions"/>
+      <unit id="SISXIND211" title="Develop and update sport, fitness and recreation industry knowledge"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB203" title="Prepare and serve non-alcoholic beverages"/>
+      <unit id="SITXCCS303" title="Provide service to customers"/>
+      <unit id="SITXCOM201" title="Show social and cultural sensitivity"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS20412" title="Certificate II in Sport Career Oriented Participation">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISSAFL201A" title="Perform the intermediate skills of Australian Football"/>
+      <unit id="SISSAFL202A" title="Perform the intermediate tactics of Australian Football"/>
+      <unit id="SISSAFL203A" title="Participate in conditioning for Australian Football"/>
+      <unit id="SISSCKT201A" title="Perform the intermediate skills of cricket"/>
+      <unit id="SISSCKT202A" title="Perform the intermediate tactics and strategies of cricket"/>
+      <unit id="SISSCNO201A" title="Perform the intermediate skills and tactics of canoeing"/>
+      <unit id="SISSCNO305A" title="Perform the advanced skills and tactics of canoeing"/>
+      <unit id="SISSCOP201A" title="Prepare a pre or post event meal"/>
+      <unit id="SISSCOP202A" title="Develop a personal management plan"/>
+      <unit id="SISSCOP203A" title="Develop a travel and accommodation plan"/>
+      <unit id="SISSCOP204A" title="Develop personal media skills"/>
+      <unit id="SISSCOP205A" title="Develop a personal financial plan"/>
+      <unit id="SISSGLF201" title="Perform the A-Grade skills of golf"/>
+      <unit id="SISSGLF202" title="Apply the A-Grade tactics and strategies of golf"/>
+      <unit id="SISSGLF316" title="Interpret and apply the rules of golf"/>
+      <unit id="SISSNTB201A" title="Use intermediate level netball skills"/>
+      <unit id="SISSNTB202A" title="Use intermediate level netball tactics and game strategy in netball play"/>
+      <unit id="SISSNTB203A" title="Participate in conditioning for netball"/>
+      <unit id="SISSRGL201A" title="Use intermediate level Rugby League game skills"/>
+      <unit id="SISSRGL202A" title="Use intermediate level tactics and game strategy in Rugby League play"/>
+      <unit id="SISSRGL203A" title="Participate in conditioning for Rugby League"/>
+      <unit id="SISSRGU201A" title="Perform foundation level Rugby Union skills"/>
+      <unit id="SISSRGU202A" title="Perform foundation level Rugby Union tactics and strategies"/>
+      <unit id="SISSRGU203A" title="Participate in conditioning for Rugby Union"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSPT201A" title="Implement sports injury prevention"/>
+      <unit id="SISSTOU201A" title="Perform the intermediate skills of Touch"/>
+      <unit id="SISSTOU202A" title="Perform the intermediate tactics and strategies of Touch"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXFAC208" title="Maintain sport, fitness and recreation facilities"/>
+      <unit id="SISXIND211" title="Develop and update sport, fitness and recreation industry knowledge"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS20512" title="Certificate II in Sport Coaching">
+    <units>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISSATH201A" title="Teach the fundamental skills of athletics"/>
+      <unit id="SISSBSB201A" title="Teach fundamental basketball skills"/>
+      <unit id="SISSBSB202A" title="Teach fundamental basketball tactics and game strategy"/>
+      <unit id="SISSBSB205" title="Interpret and apply the rules of basketball"/>
+      <unit id="SISSGYN201A" title="Teach fundamental gymnastic skills"/>
+      <unit id="SISSMAR201A" title="Teach the intermediate skills of martial arts"/>
+      <unit id="SISSNTB204A" title="Teach foundation netball skills"/>
+      <unit id="SISSRGL204A" title="Teach the skills of Rugby League for modified games"/>
+      <unit id="SISSRGU204A" title="Officiate junior level Rugby Union"/>
+      <unit id="SISSRGU205A" title="Officiate local or district level Rugby Union"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSPT201A" title="Implement sports injury prevention"/>
+      <unit id="SISSSQU201A" title="Teach the fundamental skills of squash"/>
+      <unit id="SISSSQU202A" title="Teach the basic tactics and strategies of squash"/>
+      <unit id="SISSSUR201A" title="Teach the basic skills of surf life saving"/>
+      <unit id="SISSSUR202A" title="Officiate beginner level surf life saving competitions"/>
+      <unit id="SISSTNS205" title="Interpret and apply the rules and regulations of tennis"/>
+      <unit id="SISSTNS206" title="Develop and update knowledge of tennis development programs"/>
+      <unit id="SISSTPB201A" title="Teach fundamental tenpin bowling skills"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI102A" title="Assist in preparing and conducting sport and recreation sessions"/>
+      <unit id="SISXFAC208" title="Maintain sport, fitness and recreation facilities"/>
+      <unit id="SISXIND211" title="Develop and update sport, fitness and recreation industry knowledge"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS20210" title="Certificate II in Outdoor Recreation">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="SISOABA201A" title="Demonstrate abseiling skills on artificial surfaces"/>
+      <unit id="SISOABN201A" title="Demonstrate abseiling skills on natural surfaces"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOBWG201A" title="Demonstrate bushwalking skills in a controlled environment"/>
+      <unit id="SISOCAY201A" title="Demonstrate horizontal canyoning skills"/>
+      <unit id="SISOCLA201A" title="Demonstrate top rope climbing skills on artificial surfaces"/>
+      <unit id="SISOCLN201A" title="Demonstrate top rope climbing skills on natural surfaces"/>
+      <unit id="SISOCNE201A" title="Demonstrate simple canoeing skills"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOCVE201A" title="Demonstrate caving skills"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISODRV201A" title="Drive AWD/4WD vehicles on unsealed roads"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOFSH201A" title="Catch and handle fish"/>
+      <unit id="SISOFSH202A" title="Select, catch and use bait"/>
+      <unit id="SISOFSH203A" title="Select, rig and use terminal tackle"/>
+      <unit id="SISOFSH204A" title="Select, use and maintain fishing tackle outfits"/>
+      <unit id="SISOFSH205A" title="Construct and work simple fishing lures"/>
+      <unit id="SISOFSH206A" title="Locate and attract fish"/>
+      <unit id="SISOINT201A" title="Conduct interpretation within an outdoor activity"/>
+      <unit id="SISOKYK201A" title="Demonstrate simple kayaking skills"/>
+      <unit id="SISOKYS201A" title="Demonstrate simple sea kayaking skills"/>
+      <unit id="SISOMBK201A" title="Demonstrate basic off-road cycling skills"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR201A" title="Assist in conducting outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOPWC201A" title="Select and maintain a personal water craft"/>
+      <unit id="SISOPWC202A" title="Demonstrate simple personal water craft skills in controlled conditions"/>
+      <unit id="SISOSKB201A" title="Demonstrate snowboarding skills on beginner terrain"/>
+      <unit id="SISOSKI201A" title="Demonstrate alpine skiing skills downhill on beginner terrain"/>
+      <unit id="SISOSKT201A" title="Demonstrate basic cross country skiing skills"/>
+      <unit id="SISOSKT202A" title="Demonstrate ski touring skills in a patrolled environment to a basic standard"/>
+      <unit id="SISOSNK201A" title="Demonstrate snorkelling activities"/>
+      <unit id="SISOSRF201A" title="Demonstrate surf survival and self rescue skills"/>
+      <unit id="SISOSRF202A" title="Demonstrate basic surfing manoeuvres in controlled conditions"/>
+      <unit id="SISOTBR201A" title="Select, set up and maintain an off-highway motorcycle"/>
+      <unit id="SISOTBR202A" title="Demonstrate basic off-highway motorcycling skills"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOYSA201A" title="Demonstrate basic sailboarding skills in controlled conditions"/>
+      <unit id="SISOYSB201A" title="Demonstrate basic skills to sail a small boat in controlled conditions"/>
+      <unit id="SISSCNO201A" title="Perform the intermediate skills and tactics of canoeing"/>
+      <unit id="SISXCAI102A" title="Assist in preparing and conducting sport and recreation sessions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXFAC208" title="Maintain sport, fitness and recreation facilities"/>
+      <unit id="SISXIND101A" title="Work effectively in sport and recreation environments"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SITTGDE302" title="Provide arrival and departure assistance"/>
+      <unit id="SITTGDE304" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE305" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE306" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="TLIB2003A" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIB2008A" title="Carry out inspection of trailers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS20312" title="Certificate II in Sport and Recreation">
+    <units>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCPGD201A" title="Plant trees and shrubs"/>
+      <unit id="AHCPMG201A" title="Treat weeds"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="AHCTRF201A" title="Assist with turf construction"/>
+      <unit id="AHCTRF202A" title="Prepare turf surfaces for play"/>
+      <unit id="AHCTRF203A" title="Renovate grassed areas"/>
+      <unit id="AHCTRF204A" title="Support turf establishment"/>
+      <unit id="BSBIND201A" title="Work effectively in a business environment"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CUEFOH04C" title="Usher patrons"/>
+      <unit id="CUEFOH10B" title="Monitor entry to a venue"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXRSK201" title="Minimise loss"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SISOODR201A" title="Assist in conducting outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI102A" title="Assist in preparing and conducting sport and recreation sessions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXIND211" title="Develop and update sport, fitness and recreation industry knowledge"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+      <unit id="SITHFAB101" title="Clean and tidy bar areas"/>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB206" title="Serve food and beverage"/>
+      <unit id="SITHFAB307" title="Provide table service of food and beverage"/>
+      <unit id="SITHGAM201" title="Provide responsible gambling services"/>
+      <unit id="SITHGAM202" title="Attend gaming machines"/>
+      <unit id="SITXEVT302" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT303" title="Coordinate on-site event registrations"/>
+      <unit id="SITXEVT304" title="Provide event staging support"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS20110" title="Certificate II in Community Activities">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI102A" title="Assist in preparing and conducting sport and recreation sessions"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXCCS202" title="Process entry transactions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXFAC208" title="Maintain sport, fitness and recreation facilities"/>
+      <unit id="SISXIND101A" title="Work effectively in sport and recreation environments"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SITXCCS101" title="Provide information and assistance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIS30812" title="Certificate III in Sports Trainer">
+    <units>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO305" title="Implement selection policies"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSCO307" title="Provide nutrition information to athletes"/>
+      <unit id="SISSSCO308" title="Support athletes to adopt principles of sports psychology"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSPA301A" title="Coordinate regional touring athletes"/>
+      <unit id="SISSSPT201A" title="Implement sports injury prevention"/>
+      <unit id="SISSSPT302A" title="Provide initial management of sports injuries"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SISSSPT304A" title="Tape ankle, thumb and fingers"/>
+      <unit id="SISSSPT305A" title="Support sports injury management"/>
+      <unit id="SISSSPT306A" title="Deal with medical conditions in a sport setting"/>
+      <unit id="SISSSPT307A" title="Conduct advanced taping"/>
+      <unit id="SISSSTC301A" title="Instruct strength and conditioning techniques"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30110" title="Certificate III in Aquatics">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CHCYTH301E" title="Work effectively with young people"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA404C" title="Apply advanced resuscitation techniques"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEME003C" title="Administer oxygen in an emergency situation"/>
+      <unit id="PUAOPE010C" title="Operate an automated external defibrillator in an emergency"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU303A" title="Operate aquatic facility plant and equipment"/>
+      <unit id="SISCAQU304A" title="Maintain pool water quality"/>
+      <unit id="SISCAQU305A" title="Implement aquatic facility plant and equipment maintenance program"/>
+      <unit id="SISCAQU306A" title="Supervise clients at an aquatic facility or environment"/>
+      <unit id="SISCAQU307A" title="Perform advanced water rescues"/>
+      <unit id="SISCAQU308A" title="Instruct water familiarisation, buoyancy and mobility skills"/>
+      <unit id="SISCAQU309A" title="Instruct clients in water safety and survival skills"/>
+      <unit id="SISCAQU310A" title="Instruct swimming strokes"/>
+      <unit id="SISCAQU311A" title="Foster the development of infants and toddlers in an aquatic environment"/>
+      <unit id="SISCAQU312A" title="Assist participants with a disability during aquatic activities"/>
+      <unit id="SISCAQU313A" title="Develop an aquatics career plan"/>
+      <unit id="SISCCRD301A" title="Facilitate community development through recreational activities"/>
+      <unit id="SISCCRD304A" title="Work with key stakeholders"/>
+      <unit id="SISCCRO301A" title="Assist with recreation games not requiring equipment"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXCCS202" title="Process entry transactions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXIND101A" title="Work effectively in sport and recreation environments"/>
+      <unit id="SISXRES301A" title="Provide public education on the use of resources"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30512" title="Certificate III in Sport and Recreation">
+    <units>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCMOM205A" title="Operate vehicles"/>
+      <unit id="AHCMOM302A" title="Perform machinery maintenance"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCMOM305A" title="Operate specialised machinery and equipment"/>
+      <unit id="AHCPMG301A" title="Control weeds"/>
+      <unit id="AHCPMG302A" title="Control plant pests, diseases and disorders"/>
+      <unit id="AHCTRF301A" title="Construct turf playing surfaces"/>
+      <unit id="AHCTRF304A" title="Monitor turf health"/>
+      <unit id="AHCTRF305A" title="Renovate sports turf"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCDIS302A" title="Maintain an environment to empower people with disabilities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="SIRRRPK012A" title="Recommend business and leisure products and services"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SISCCRD304A" title="Work with key stakeholders"/>
+      <unit id="SISCCRO306A" title="Organise participant travel"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SISXCAI303A" title="Plan and conduct sport and recreation sessions"/>
+      <unit id="SISXCAI304A" title="Plan and conduct sport and recreation programs"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC208" title="Maintain sport, fitness and recreation facilities"/>
+      <unit id="SISXFAC303A" title="Implement facility maintenance programs"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SISXRES301A" title="Provide public education on the use of resources"/>
+      <unit id="SISXRES402A" title="Support implementation of environmental management practices"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB301" title="Operate and monitor cellar systems"/>
+      <unit id="SITHFAB307" title="Provide table service of food and beverage"/>
+      <unit id="SITHGAM201" title="Provide responsible gambling services"/>
+      <unit id="SITHGAM301" title="Analyse and report on gaming machine data"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXEVT302" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT303" title="Coordinate on-site event registrations"/>
+      <unit id="SITXEVT304" title="Provide event staging support"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="SITXHRM401" title="Roster staff"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30410" title="Certificate III in Outdoor Recreation">
+    <units>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="AHCLSK320A" title="Coordinate and monitor livestock transport"/>
+      <unit id="AHCNAR301A" title="Maintain natural areas"/>
+      <unit id="AHCWRK311A" title="Conduct site inspections"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCDIS400C" title="Provide care and support"/>
+      <unit id="CHCYTH301E" title="Work effectively with young people"/>
+      <unit id="CHCYTH402C" title="Work effectively with young people in the youth work context"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </qualification>
+  <qualification id="SIS30310" title="Certificate III in Fitness">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CHCIC301E" title="Interact effectively with children"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU308A" title="Instruct water familiarisation, buoyancy and mobility skills"/>
+      <unit id="SISFFIT301A" title="Provide fitness orientation and health screening"/>
+      <unit id="SISFFIT302A" title="Provide quality service in the fitness industry"/>
+      <unit id="SISFFIT303A" title="Develop and apply an awareness of specific populations to exercise delivery"/>
+      <unit id="SISFFIT304A" title="Instruct and monitor fitness programs"/>
+      <unit id="SISFFIT305A" title="Apply anatomy and physiology principles in a fitness context"/>
+      <unit id="SISFFIT306A" title="Provide healthy eating information to clients in accordance with recommended guidelines"/>
+      <unit id="SISFFIT307A" title="Undertake client health assessment"/>
+      <unit id="SISFFIT308A" title="Plan and deliver gym programs"/>
+      <unit id="SISFFIT309A" title="Plan and deliver group exercise sessions"/>
+      <unit id="SISFFIT310A" title="Plan and deliver water based fitness activities"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="SISFFIT312A" title="Plan and deliver an endurance training program"/>
+      <unit id="SISFFIT313A" title="Plan and deliver exercise to apparently healthy children and adolescents"/>
+      <unit id="SISFFIT314A" title="Plan and deliver exercise to older clients with managed conditions"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS202" title="Process entry transactions"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND101A" title="Work effectively in sport and recreation environments"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30612" title="Certificate III in Sport Career Oriented Participation">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="RGRPSH401A" title="Relate anatomical and physiological features to the care and treatment of horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISSAFL201A" title="Perform the intermediate skills of Australian Football"/>
+      <unit id="SISSAFL202A" title="Perform the intermediate tactics of Australian Football"/>
+      <unit id="SISSAFL304A" title="Perform the advanced skills of Australian Football"/>
+      <unit id="SISSAFL305A" title="Perform the advanced tactics of Australian Football"/>
+      <unit id="SISSCKT303A" title="Participate in conditioning for cricket"/>
+      <unit id="SISSCKT304A" title="Perform the advanced skills of cricket"/>
+      <unit id="SISSCKT305A" title="Perform the advanced tactics and strategies of cricket"/>
+      <unit id="SISSCOP202A" title="Develop a personal management plan"/>
+      <unit id="SISSCOP204A" title="Develop personal media skills"/>
+      <unit id="SISSCOP205A" title="Develop a personal financial plan"/>
+      <unit id="SISSCOP306A" title="Prepare a sponsorship proposal"/>
+      <unit id="SISSCOP307A" title="Manage personal finances"/>
+      <unit id="SISSCOP308A" title="Model the responsibilities of an elite athlete"/>
+      <unit id="SISSCOP309A" title="Design an athlete's diet"/>
+      <unit id="SISSGLF307" title="Participate in conditioning for golf"/>
+      <unit id="SISSGLF314" title="Perform the advanced skills of golf"/>
+      <unit id="SISSGLF315" title="Apply the advanced tactics and strategies of golf"/>
+      <unit id="SISSGLF316" title="Interpret and apply the rules of golf"/>
+      <unit id="SISSNTB201A" title="Use intermediate level netball skills"/>
+      <unit id="SISSNTB202A" title="Use intermediate level netball tactics and game strategy in netball play"/>
+      <unit id="SISSNTB305A" title="Use advanced level tactics and game strategy in netball play"/>
+      <unit id="SISSNTB306A" title="Use advanced level netball skills"/>
+      <unit id="SISSRGL201A" title="Use intermediate level Rugby League game skills"/>
+      <unit id="SISSRGL202A" title="Use intermediate level tactics and game strategy in Rugby League play"/>
+      <unit id="SISSRGL305A" title="Use advanced level Rugby League game skills"/>
+      <unit id="SISSRGL308A" title="Use advanced level tactics and game strategy in Rugby League play"/>
+      <unit id="SISSRGU201A" title="Perform foundation level Rugby Union skills"/>
+      <unit id="SISSRGU202A" title="Perform foundation level Rugby Union tactics and strategies"/>
+      <unit id="SISSRGU306A" title="Perform advanced level Rugby Union skills"/>
+      <unit id="SISSRGU307A" title="Perform advanced level Rugby Union tactics and strategies"/>
+      <unit id="SISSSOC301A" title="Perform advanced level soccer skills"/>
+      <unit id="SISSSOC302A" title="Perform advanced level soccer tactics and strategies"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSPT201A" title="Implement sports injury prevention"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30712" title="Certificate III in Sport Coaching">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="CHCIC301E" title="Interact effectively with children"/>
+      <unit id="CHCYTH301E" title="Work effectively with young people"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="RGRPSH401A" title="Relate anatomical and physiological features to the care and treatment of horses"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOSRF202A" title="Demonstrate basic surfing manoeuvres in controlled conditions"/>
+      <unit id="SISOSRF303A" title="Perform intermediate level surfing manoeuvres"/>
+      <unit id="SISOSRF409A" title="Instruct basic to intermediate surfing skills"/>
+      <unit id="SISOYSB201A" title="Demonstrate basic skills to sail a small boat in controlled conditions"/>
+      <unit id="SISOYSB302A" title="Sail a small boat in light to moderate conditions"/>
+      <unit id="SISSBSB303A" title="Teach intermediate level basketball skills"/>
+      <unit id="SISSBSB304A" title="Teach intermediate level basketball tactics and game strategy"/>
+      <unit id="SISSCKT306A" title="Teach the intermediate skills of cricket"/>
+      <unit id="SISSCKT307A" title="Teach the intermediate tactics and strategies of cricket"/>
+      <unit id="SISSCNO302A" title="Teach the intermediate skills and tactics of flatwater canoeing"/>
+      <unit id="SISSCNO303A" title="Teach the intermediate skills and tactics of whitewater canoeing"/>
+      <unit id="SISSCNO304A" title="Teach the intermediate skills and tactics of canoe polo"/>
+      <unit id="SISSCOP202A" title="Develop a personal management plan"/>
+      <unit id="SISSEQS301A" title="Demonstrate basic dressage, show jumping and cross-country riding"/>
+      <unit id="SISSEQS302A" title="Demonstrate basic dressage and show horse skills"/>
+      <unit id="SISSEQS303A" title="Teach the fundamental skills of riding"/>
+      <unit id="SISSGYN302A" title="Teach fundamental gymnastics skills for infants"/>
+      <unit id="SISSMAR201A" title="Teach the intermediate skills of martial arts"/>
+      <unit id="SISSRGL306A" title="Teach intermediate level Rugby League game skills"/>
+      <unit id="SISSRGL307A" title="Teach intermediate level Rugby League tactics and game strategy"/>
+      <unit id="SISSRGL308A" title="Use advanced level tactics and game strategy in Rugby League play"/>
+      <unit id="SISSRGU202A" title="Perform foundation level Rugby Union tactics and strategies"/>
+      <unit id="SISSRGU308A" title="Teach Rugby Union tactics and strategies at a foundation level"/>
+      <unit id="SISSRGU309A" title="Teach Rugby Union skills at a foundation level"/>
+      <unit id="SISSSAI301A" title="Teach the basic tactics and strategies of sailing"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO305" title="Implement selection policies"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSOF304" title="Roster officials"/>
+      <unit id="SISSSPA301A" title="Coordinate regional touring athletes"/>
+      <unit id="SISSSPT302A" title="Provide initial management of sports injuries"/>
+      <unit id="SISSSQU303A" title="Teach the intermediate skills of squash"/>
+      <unit id="SISSSQU304A" title="Teach the intermediate tactics and strategies of squash"/>
+      <unit id="SISSSUR303A" title="Teach the intermediate skills of surf life saving"/>
+      <unit id="SISSSUR304A" title="Officiate intermediate level surf life saving competitions"/>
+      <unit id="SISSSWM301A" title="Teach the competitive strokes of swimming"/>
+      <unit id="SISSSWM302A" title="Plan a program for a competitive swimmer"/>
+      <unit id="SISSSWM303A" title="Teach the advanced skills of competitive swimming"/>
+      <unit id="SISSTNS205" title="Interpret and apply the rules and regulations of tennis"/>
+      <unit id="SISSTNS307" title="Coach red stage tennis players"/>
+      <unit id="SISSTNS308" title="Coach orange stage tennis players"/>
+      <unit id="SISSTNS309" title="Coach green stage tennis players"/>
+      <unit id="SISSTOU303A" title="Teach the intermediate skills of Touch"/>
+      <unit id="SISSTOU304A" title="Teach the intermediate tactics and strategies of Touch"/>
+      <unit id="SISSVOL301A" title="Teach the intermediate skills of volleyball"/>
+      <unit id="SISSVOL302A" title="Teach the intermediate tactics and strategies of volleyball"/>
+      <unit id="SISXCAI303A" title="Plan and conduct sport and recreation sessions"/>
+      <unit id="SISXCAI304A" title="Plan and conduct sport and recreation programs"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30912" title="Certificate III in Sport Officiating">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="SISSRGU204A" title="Officiate junior level Rugby Union"/>
+      <unit id="SISSRGU205A" title="Officiate local or district level Rugby Union"/>
+      <unit id="SISSRGU410A" title="Officiate advanced level Rugby Union"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF304" title="Roster officials"/>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSOF307" title="Coach officials"/>
+      <unit id="SISSSPA403A" title="Administer a team or group"/>
+      <unit id="SISSSPT201A" title="Implement sports injury prevention"/>
+      <unit id="SISSSPT302A" title="Provide initial management of sports injuries"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SISSSPT304A" title="Tape ankle, thumb and fingers"/>
+      <unit id="SISSSPT305A" title="Support sports injury management"/>
+      <unit id="SISSSPT306A" title="Deal with medical conditions in a sport setting"/>
+      <unit id="SISSSUR202A" title="Officiate beginner level surf life saving competitions"/>
+      <unit id="SISSSUR406A" title="Officiate advanced level surf life saving competitions"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS30210" title="Certificate III in Community Activity Programs">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CHCAC318B" title="Work effectively with older people"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCYTH301E" title="Work effectively with young people"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SISCCRD301A" title="Facilitate community development through recreational activities"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISCCRD303A" title="Facilitate inclusion for people with a disability"/>
+      <unit id="SISCCRD304A" title="Work with key stakeholders"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISCCRO303A" title="Plan and conduct  recreation programs for older persons"/>
+      <unit id="SISCCRO304A" title="Plan and conduct disability recreation programs"/>
+      <unit id="SISCCRO305A" title="Develop a budget for a recreation initiative"/>
+      <unit id="SISCCRO306A" title="Organise participant travel"/>
+      <unit id="SISCDAN301A" title="Teach recreational dance"/>
+      <unit id="SISCSDF301A" title="Instruct the basic skills of unarmed self-defence"/>
+      <unit id="SISCSDF302A" title="Instruct the intermediate skills of unarmed self-defence"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI303A" title="Plan and conduct sport and recreation sessions"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXIND101A" title="Work effectively in sport and recreation environments"/>
+      <unit id="SISXRES301A" title="Provide public education on the use of resources"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS40412" title="Certificate IV in Sport and Recreation">
+    <units>
+      <unit id="AHCCCF411A" title="Develop approaches to include cultural and human diversity"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="AHCPCM401A" title="Recommend plants and cultural practices"/>
+      <unit id="AHCTRF401A" title="Develop a sports turf maintenance program"/>
+      <unit id="AHCTRF501A" title="Plan the establishment of sports turf playing surfaces"/>
+      <unit id="AHCWRK402A" title="Provide information on issues and policies"/>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXINV404" title="Manage retail merchandise"/>
+      <unit id="SIRXMER405" title="Manage store presentation and pricing"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXSLS406" title="Manage sales and service delivery"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSDE503" title="Develop volunteer management policies"/>
+      <unit id="SISXCAI305A" title="Conduct individualised long-term training programs"/>
+      <unit id="SISXCCS402A" title="Coordinate client service activities"/>
+      <unit id="SISXCCS404A" title="Address client needs"/>
+      <unit id="SISXFAC409" title="Plan and provide sport, fitness and recreation services"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXRES402A" title="Support implementation of environmental management practices"/>
+      <unit id="SISXRES403A" title="Use resources efficiently"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS402" title="Implement and monitor work health and safety policies"/>
+      <unit id="SITXEVT401" title="Plan in-house events or functions"/>
+      <unit id="SITXHRM401" title="Roster staff"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS40612" title="Certificate IV in Sport Development">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="RGRPSH401A" title="Relate anatomical and physiological features to the care and treatment of horses"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISOEQO303A" title="Conduct horse riding sessions in an arena"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISSCKT306A" title="Teach the intermediate skills of cricket"/>
+      <unit id="SISSCKT307A" title="Teach the intermediate tactics and strategies of cricket"/>
+      <unit id="SISSCNO302A" title="Teach the intermediate skills and tactics of flatwater canoeing"/>
+      <unit id="SISSCNO303A" title="Teach the intermediate skills and tactics of whitewater canoeing"/>
+      <unit id="SISSCNO304A" title="Teach the intermediate skills and tactics of canoe polo"/>
+      <unit id="SISSCOP202A" title="Develop a personal management plan"/>
+      <unit id="SISSCOP204A" title="Develop personal media skills"/>
+      <unit id="SISSCOP306A" title="Prepare a sponsorship proposal"/>
+      <unit id="SISSEQS301A" title="Demonstrate basic dressage, show jumping and cross-country riding"/>
+      <unit id="SISSEQS303A" title="Teach the fundamental skills of riding"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO305" title="Implement selection policies"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSDE502" title="Design and implement strategies to increase participation"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSOF304" title="Roster officials"/>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSOF307" title="Coach officials"/>
+      <unit id="SISXCAI303A" title="Plan and conduct sport and recreation sessions"/>
+      <unit id="SISXCAI304A" title="Plan and conduct sport and recreation programs"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS402A" title="Coordinate client service activities"/>
+      <unit id="SISXCCS404A" title="Address client needs"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXWHS402" title="Implement and monitor work health and safety policies"/>
+      <unit id="SITXADM501" title="Prepare and present proposals"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXEVT401" title="Plan in-house events or functions"/>
+      <unit id="SITXEVT602" title="Develop event concepts"/>
+      <unit id="SITXEVT603" title="Determine event feasibility"/>
+      <unit id="SITXEVT606" title="Develop crowd management plans"/>
+      <unit id="SITXGLC501" title="Research and comply with regulatory requirements"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS40512" title="Certificate IV in Sport Coaching">
+    <units>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISFFIT305A" title="Apply anatomy and physiology principles in a fitness context"/>
+      <unit id="SISOEQO408A" title="Determine nutritional requirements for horses"/>
+      <unit id="SISOEQO409A" title="Train and condition horses"/>
+      <unit id="SISOSRF202A" title="Demonstrate basic surfing manoeuvres in controlled conditions"/>
+      <unit id="SISOSRF303A" title="Perform intermediate level surfing manoeuvres"/>
+      <unit id="SISOSRF305A" title="Guide surfing sessions"/>
+      <unit id="SISOSRF406A" title="Perform advanced level surfing manoeuvres"/>
+      <unit id="SISOSRF407A" title="Perform rescues in moderate to difficult surf conditions"/>
+      <unit id="SISOSRF408A" title="Guide surfing trips"/>
+      <unit id="SISOSRF410A" title="Instruct advanced surfing skills"/>
+      <unit id="SISOYSB403A" title="Sail a small boat in moderate and variable conditions"/>
+      <unit id="SISSAFL406A" title="Teach the intermediate skills of Australian Football"/>
+      <unit id="SISSAFL407A" title="Teach the intermediate tactics of Australian Football"/>
+      <unit id="SISSCKT408A" title="Teach the advanced skills of cricket"/>
+      <unit id="SISSCKT409A" title="Teach the advanced tactics and strategies of cricket"/>
+      <unit id="SISSCNO406A" title="Teach the advanced skills and tactics of flatwater canoeing"/>
+      <unit id="SISSCNO407A" title="Teach the advanced skills and tactics of slalom canoeing"/>
+      <unit id="SISSEQS301A" title="Demonstrate basic dressage, show jumping and cross-country riding"/>
+      <unit id="SISSEQS302A" title="Demonstrate basic dressage and show horse skills"/>
+      <unit id="SISSEQS404A" title="Teach the intermediate skills of riding on the flat"/>
+      <unit id="SISSEQS405A" title="Teach the intermediate skills of riding over fences"/>
+      <unit id="SISSMAR402A" title="Teach the advanced skills of martial arts"/>
+      <unit id="SISSNTB407A" title="Teach intermediate level netball skills"/>
+      <unit id="SISSNTB408A" title="Teach intermediate level netball tactics and game strategy"/>
+      <unit id="SISSRGL409A" title="Teach advanced level Rugby League game skills"/>
+      <unit id="SISSRGL410A" title="Teach advanced level Rugby tactics and game strategy"/>
+      <unit id="SISSRGU410A" title="Officiate advanced level Rugby Union"/>
+      <unit id="SISSSAI402A" title="Teach the advanced tactics and strategies of sailing"/>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSCO307" title="Provide nutrition information to athletes"/>
+      <unit id="SISSSCO308" title="Support athletes to adopt principles of sports psychology"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSPA301A" title="Coordinate regional touring athletes"/>
+      <unit id="SISSSPA402A" title="Coordinate international touring athletes"/>
+      <unit id="SISSSPA403A" title="Administer a team or group"/>
+      <unit id="SISSSPA404A" title="Implement accreditation and registration systems"/>
+      <unit id="SISSSPT302A" title="Provide initial management of sports injuries"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SISSSPT304A" title="Tape ankle, thumb and fingers"/>
+      <unit id="SISSSPT305A" title="Support sports injury management"/>
+      <unit id="SISSSPT306A" title="Deal with medical conditions in a sport setting"/>
+      <unit id="SISSSTC301A" title="Instruct strength and conditioning techniques"/>
+      <unit id="SISSSTC402A" title="Develop strength and conditioning programs"/>
+      <unit id="SISSSUR405A" title="Teach the advanced skills of surf life saving"/>
+      <unit id="SISSSUR406A" title="Officiate advanced level surf life saving competitions"/>
+      <unit id="SISSSWM302A" title="Plan a program for a competitive swimmer"/>
+      <unit id="SISSSWM303A" title="Teach the advanced skills of competitive swimming"/>
+      <unit id="SISSTNS205" title="Interpret and apply the rules and regulations of tennis"/>
+      <unit id="SISSTNS307" title="Coach red stage tennis players"/>
+      <unit id="SISSTNS308" title="Coach orange stage tennis players"/>
+      <unit id="SISSTNS309" title="Coach green stage tennis players"/>
+      <unit id="SISSTNS410" title="Coach stroke production for intermediate tennis players"/>
+      <unit id="SISSTNS411" title="Coach tactics for intermediate tennis players"/>
+      <unit id="SISSVOL403A" title="Teach the advanced skills of volleyball"/>
+      <unit id="SISSVOL404A" title="Teach the advanced tactics and strategies of volleyball"/>
+      <unit id="SISXCAI305A" title="Conduct individualised long-term training programs"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS402A" title="Coordinate client service activities"/>
+      <unit id="SISXCCS404A" title="Address client needs"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXFAC303A" title="Implement facility maintenance programs"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXWHS402" title="Implement and monitor work health and safety policies"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS40210" title="Certificate IV in Fitness">
+    <units>
+      <unit id="BSBFRA402B" title="Establish a franchise"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CHCIC301E" title="Interact effectively with children"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU307A" title="Perform advanced water rescues"/>
+      <unit id="SISCAQU312A" title="Assist participants with a disability during aquatic activities"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="SISFFIT312A" title="Plan and deliver an endurance training program"/>
+      <unit id="SISFFIT313A" title="Plan and deliver exercise to apparently healthy children and adolescents"/>
+      <unit id="SISFFIT314A" title="Plan and deliver exercise to older clients with managed conditions"/>
+      <unit id="SISFFIT415A" title="Work collaboratively with medical and allied health professionals"/>
+      <unit id="SISFFIT416A" title="Apply motivational psychology to provide guidance on exercise behaviour and change to meet health and fitness goals"/>
+      <unit id="SISFFIT417A" title="Undertake long term exercise programming"/>
+      <unit id="SISFFIT418A" title="Undertake appraisals of functional movement"/>
+      <unit id="SISFFIT419A" title="Apply exercise science principles to planning exercise"/>
+      <unit id="SISFFIT420A" title="Plan and deliver exercise programs to support desired body composition outcomes"/>
+      <unit id="SISFFIT421A" title="Plan and deliver personal training"/>
+      <unit id="SISFFIT422A" title="Implement inclusive aquatic activities for specific population groups"/>
+      <unit id="SISSSTC301A" title="Instruct strength and conditioning techniques"/>
+      <unit id="SISSSTC402A" title="Develop strength and conditioning programs"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SITXHRM401" title="Roster staff"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS40310" title="Certificate IV in Outdoor Recreation">
+    <units>
+      <unit id="AHCCCF411A" title="Develop approaches to include cultural and human diversity"/>
+      <unit id="AHCHBR302A" title="Carry out basic hoof care procedures"/>
+      <unit id="AHCHBR304A" title="Educate, ride and care for horses and equipment"/>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="AHCNAR301A" title="Maintain natural areas"/>
+      <unit id="AHCWRK402A" title="Provide information on issues and policies"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCDIS507C" title="Design and adapt surroundings to group requirements"/>
+      <unit id="CHCYTH301E" title="Work effectively with young people"/>
+    </units>
+  </qualification>
+  <qualification id="SIS40110" title="Certificate IV in Community Recreation">
+    <units>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+      <unit id="PUAEME003C" title="Administer oxygen in an emergency situation"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU303A" title="Operate aquatic facility plant and equipment"/>
+      <unit id="SISCAQU304A" title="Maintain pool water quality"/>
+      <unit id="SISCAQU305A" title="Implement aquatic facility plant and equipment maintenance program"/>
+      <unit id="SISCAQU307A" title="Perform advanced water rescues"/>
+      <unit id="SISCAQU308A" title="Instruct water familiarisation, buoyancy and mobility skills"/>
+      <unit id="SISCAQU309A" title="Instruct clients in water safety and survival skills"/>
+      <unit id="SISCAQU310A" title="Instruct swimming strokes"/>
+      <unit id="SISCAQU311A" title="Foster the development of infants and toddlers in an aquatic environment"/>
+      <unit id="SISCAQU312A" title="Assist participants with a disability during aquatic activities"/>
+      <unit id="SISCAQU414A" title="Develop pool water maintenance procedures"/>
+      <unit id="SISCAQU415A" title="Develop aquatic facility maintenance procedures"/>
+      <unit id="SISCAQU416A" title="Coordinate lifeguard service at an aquatic facility"/>
+      <unit id="SISCAQU417A" title="Operate self-contained breathing apparatus in an aquatic facility"/>
+      <unit id="SISCCRD301A" title="Facilitate community development through recreational activities"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISCCRD303A" title="Facilitate inclusion for people with a disability"/>
+      <unit id="SISCCRD304A" title="Work with key stakeholders"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISCCRO304A" title="Plan and conduct disability recreation programs"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="SISSSDE503" title="Develop volunteer management policies"/>
+      <unit id="SISXCAI304A" title="Plan and conduct sport and recreation programs"/>
+      <unit id="SISXCCS402A" title="Coordinate client service activities"/>
+      <unit id="SISXCCS403A" title="Determine needs of client populations"/>
+      <unit id="SISXCCS404A" title="Address client needs"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXFAC404A" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SISXIND403A" title="Analyse participation patterns"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRES402A" title="Support implementation of environmental management practices"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS50210" title="Diploma of Fitness">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="HLTAH413C" title="Deliver and monitor a hydrotherapy program"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="SISFFIT313A" title="Plan and deliver exercise to apparently healthy children and adolescents"/>
+      <unit id="SISFFIT314A" title="Plan and deliver exercise to older clients with managed conditions"/>
+      <unit id="SISFFIT523A" title="Deliver prescribed exercise to clients with cardiorespiratory conditions"/>
+      <unit id="SISFFIT524A" title="Deliver prescribed exercise to clients with metabolic conditions"/>
+      <unit id="SISFFIT525A" title="Advise on injury prevention and management"/>
+      <unit id="SISFFIT526A" title="Deliver prescribed exercise to clients with musculoskeletal conditions"/>
+      <unit id="SISFFIT527A" title="Undertake health promotion activities to decrease risk factors and prevent chronic disease"/>
+      <unit id="SISFFIT528A" title="Apply research findings to exercise management strategies"/>
+      <unit id="SISFFIT529A" title="Deliver prescribed exercise to clients with a disability or neurological impairment"/>
+      <unit id="SISFFIT530A" title="Deliver prescribed exercise to children and young adolescents with specific chronic conditions"/>
+      <unit id="SISFFIT531A" title="Deliver prescribed exercise to older clients with chronic conditions"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISSSTC301A" title="Instruct strength and conditioning techniques"/>
+      <unit id="SISSSTC402A" title="Develop strength and conditioning programs"/>
+      <unit id="SISXCCS404A" title="Address client needs"/>
+      <unit id="SISXFAC404A" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK502A" title="Manage organisational risks"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS50712" title="Diploma of Sport and Recreation Management">
+    <units>
+      <unit id="AHCCCF411A" title="Develop approaches to include cultural and human diversity"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="AHCTRF401A" title="Develop a sports turf maintenance program"/>
+      <unit id="AHCTRF501A" title="Plan the establishment of sports turf playing surfaces"/>
+      <unit id="AHCWRK402A" title="Provide information on issues and policies"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM503B" title="Plan and manage conferences"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBHRM502A" title="Manage human resources management information systems"/>
+      <unit id="BSBHRM503B" title="Manage performance management systems"/>
+      <unit id="BSBHRM505B" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBHRM507A" title="Manage separation or termination"/>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="CHCDIS507C" title="Design and adapt surroundings to group requirements"/>
+      <unit id="CHCDIS511A" title="Coordinate services for people with disabilities"/>
+      <unit id="CHCYTH505E" title="Support youth programs"/>
+      <unit id="CHCYTH608D" title="Manage service response to young people in crisis"/>
+      <unit id="FNSACC502B" title="Prepare legally compliant tax returns for individuals"/>
+      <unit id="FNSACC504A" title="Prepare financial reports for corporate entities"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="ICADBS409A" title="Monitor and administer a database"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXINV404" title="Manage retail merchandise"/>
+      <unit id="SIRXMER405" title="Manage store presentation and pricing"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXSLS406" title="Manage sales and service delivery"/>
+      <unit id="SISCCRD302A" title="Recruit and manage volunteers"/>
+      <unit id="SISCCRD304A" title="Work with key stakeholders"/>
+      <unit id="SISOODR506A" title="Evaluate policy for an outdoor organisation"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISSSDE503" title="Develop volunteer management policies"/>
+      <unit id="SISSSPA505A" title="Coordinate team or group management"/>
+      <unit id="SISSSPA506A" title="Coorindate team or group administration"/>
+      <unit id="SISXCCS402A" title="Coordinate client service activities"/>
+      <unit id="SISXCCS403A" title="Determine needs of client populations"/>
+      <unit id="SISXFAC404A" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SISXFAC409" title="Plan and provide sport, fitness and recreation services"/>
+      <unit id="SISXFAC506A" title="Manage stock supply and purchase"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXIND507A" title="Manage education initiatives"/>
+      <unit id="SISXRES403A" title="Use resources efficiently"/>
+      <unit id="SISXRES506A" title="Undertake open-space planning"/>
+      <unit id="SISXRSK502A" title="Manage organisational risks"/>
+      <unit id="SISXWHS503" title="Establish and maintain work health and safety systems"/>
+      <unit id="SITXEVT401" title="Plan in-house events or functions"/>
+      <unit id="SITXEVT505" title="Manage on-site event operations"/>
+      <unit id="SITXEVT602" title="Develop event concepts"/>
+      <unit id="SITXEVT603" title="Determine event feasibility"/>
+      <unit id="SITXFIN601" title="Manage physical assets"/>
+      <unit id="SITXGLC501" title="Research and comply with regulatory requirements"/>
+      <unit id="SITXHRM401" title="Roster staff"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="SITXMGT501" title="Establish and conduct business relationships"/>
+      <unit id="SITXMPR501" title="Obtain and manage sponsorship"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS50310" title="Diploma of Outdoor Recreation">
+    <units>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCDIS302A" title="Maintain an environment to empower people with disabilities"/>
+      <unit id="CHCDIS507C" title="Design and adapt surroundings to group requirements"/>
+      <unit id="CHCDIS511A" title="Coordinate services for people with disabilities"/>
+      <unit id="CHCYTH407E" title="Respond to critical situations"/>
+      <unit id="CHCYTH501A" title="Develop and implement procedures to enable young people to address their needs"/>
+      <unit id="CHCYTH506B" title="Provide services for young people appropriate to their needs and circumstances"/>
+      <unit id="CHCYTH608D" title="Manage service response to young people in crisis"/>
+    </units>
+  </qualification>
+  <qualification id="SIS50512" title="Diploma of Sport Coaching">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="FNSACC503A" title="Manage budgets and forecasts"/>
+      <unit id="FNSACC504A" title="Prepare financial reports for corporate entities"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="SISFFIT419A" title="Apply exercise science principles to planning exercise"/>
+      <unit id="SISOEQO409A" title="Train and condition horses"/>
+      <unit id="SISOEQO516A" title="Manage the education of horses"/>
+      <unit id="SISSEQS301A" title="Demonstrate basic dressage, show jumping and cross-country riding"/>
+      <unit id="SISSEQS405A" title="Teach the intermediate skills of riding over fences"/>
+      <unit id="SISSGLF314" title="Perform the advanced skills of golf"/>
+      <unit id="SISSGLF315" title="Apply the advanced tactics and strategies of golf"/>
+      <unit id="SISSGLF316" title="Interpret and apply the rules of golf"/>
+      <unit id="SISSGLF510" title="Fit and alter golf equipment"/>
+      <unit id="SISSGLF512" title="Manage the structure and facilitation of golf competitions and tournaments"/>
+      <unit id="SISSGLF517" title="Apply advanced skills, tactics and strategies of golf in high performance competition"/>
+      <unit id="SISSGLF518" title="Teach the advanced skills of golf"/>
+      <unit id="SISSGLF519" title="Teach the advanced tactics and strategies of golf"/>
+      <unit id="SISSGLF520" title="Design and implement strategies to increase junior participation in golf"/>
+      <unit id="SISSGLF521" title="Manage on course golf operations"/>
+      <unit id="SISSMAR503A" title="Teach the high performance skills of martial arts"/>
+      <unit id="SISSRGL511A" title="Teach high performance Rugby League game skills"/>
+      <unit id="SISSRGL512A" title="Teach high performance Rugby League tactics and game strategy"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO305" title="Implement selection policies"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSCO512" title="Assist athletes to prevent and manage injury and illness"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISSSDE502" title="Design and implement strategies to increase participation"/>
+      <unit id="SISSSDE503" title="Develop volunteer management policies"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSTC301A" title="Instruct strength and conditioning techniques"/>
+      <unit id="SISSSTC402A" title="Develop strength and conditioning programs"/>
+      <unit id="SISSSWM303A" title="Teach the advanced skills of competitive swimming"/>
+      <unit id="SISSTNS205" title="Interpret and apply the rules and regulations of tennis"/>
+      <unit id="SISSTNS307" title="Coach red stage tennis players"/>
+      <unit id="SISSTNS308" title="Coach orange stage tennis players"/>
+      <unit id="SISSTNS309" title="Coach green stage tennis players"/>
+      <unit id="SISSTNS410" title="Coach stroke production for intermediate tennis players"/>
+      <unit id="SISSTNS411" title="Coach tactics for intermediate tennis players"/>
+      <unit id="SISSTNS512" title="Coach stroke production for high performance tennis players"/>
+      <unit id="SISSTNS513" title="Coach tactics for high performance"/>
+      <unit id="SISXCAI305A" title="Conduct individualised long-term training programs"/>
+      <unit id="SISXCCS403A" title="Determine needs of client populations"/>
+      <unit id="SISXFAC303A" title="Implement facility maintenance programs"/>
+      <unit id="SISXFAC404A" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SISXFAC506A" title="Manage stock supply and purchase"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXIND409" title="Organise a sport, fitness or recreation event"/>
+      <unit id="SISXIND410" title="Coordinate sport, fitness and recreation work teams or groups"/>
+      <unit id="SISXIND507A" title="Manage education initiatives"/>
+      <unit id="SISXRES403A" title="Use resources efficiently"/>
+      <unit id="SISXRSK502A" title="Manage organisational risks"/>
+      <unit id="SISXWHS503" title="Establish and maintain work health and safety systems"/>
+      <unit id="SITXFIN402" title="Manage finances within a budget"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIS50612" title="Diploma of Sport Development">
+    <units>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUAOHS501A" title="Maintain a high level of fitness for performance"/>
+      <unit id="FNSACC502B" title="Prepare legally compliant tax returns for individuals"/>
+      <unit id="FNSACC503A" title="Manage budgets and forecasts"/>
+      <unit id="FNSACC504A" title="Prepare financial reports for corporate entities"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="SISOEQO408A" title="Determine nutritional requirements for horses"/>
+      <unit id="SISOEQO515A" title="Manage stable maintenance"/>
+      <unit id="SISSAFL406A" title="Teach the intermediate skills of Australian Football"/>
+      <unit id="SISSAFL407A" title="Teach the intermediate tactics of Australian Football"/>
+      <unit id="SISSCNO407A" title="Teach the advanced skills and tactics of slalom canoeing"/>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO305" title="Implement selection policies"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSCO307" title="Provide nutrition information to athletes"/>
+      <unit id="SISSSCO308" title="Support athletes to adopt principles of sports psychology"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSCO411" title="Apply self-management to intermediate level coaching"/>
+      <unit id="SISSSCO512" title="Assist athletes to prevent and manage injury and illness"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISSSDE502" title="Design and implement strategies to increase participation"/>
+      <unit id="SISSSDE503" title="Develop volunteer management policies"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF304" title="Roster officials"/>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSOF307" title="Coach officials"/>
+      <unit id="SISSSPA505A" title="Coordinate team or group management"/>
+      <unit id="SISSSPA506A" title="Coorindate team or group administration"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXCCS403A" title="Determine needs of client populations"/>
+      <unit id="SISXFAC404A" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SISXFAC506A" title="Manage stock supply and purchase"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXIND406A" title="Manage projects"/>
+      <unit id="SISXIND507A" title="Manage education initiatives"/>
+      <unit id="SISXRES403A" title="Use resources efficiently"/>
+      <unit id="SISXRSK502A" title="Manage organisational risks"/>
+      <unit id="SISXWHS402" title="Implement and monitor work health and safety policies"/>
+      <unit id="SITXEVT505" title="Manage on-site event operations"/>
+      <unit id="SITXEVT602" title="Develop event concepts"/>
+      <unit id="SITXEVT603" title="Determine event feasibility"/>
+      <unit id="SITXGLC501" title="Research and comply with regulatory requirements"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="SITXMGT501" title="Establish and conduct business relationships"/>
+      <unit id="SITXMPR501" title="Obtain and manage sponsorship"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

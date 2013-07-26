@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<qualifications class="MAR13">
+  <qualification id="MAR10113" title="Certificate I in Maritime Operations (General Purpose Hand)">
+    <units>
+      <unit id="MARB1001A" title="Assist with routine maintenance of a vessel"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARG1001A" title="Work effectively as part of a crew on a vessel up to 80 metres"/>
+      <unit id="MARN1001A" title="Apply general purpose hand skills aboard a vessel"/>
+      <unit id="MARO1001A" title="Perform basic lookout duties"/>
+    </units>
+  </qualification>
+  <qualification id="MAR10213" title="Certificate I in Maritime Operations (Linesperson)">
+    <units>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="MARC1001A" title="Carry out shore-based mooring and untying operations"/>
+      <unit id="MARE1001A" title="Communicate during shore-based mooring and untying operations"/>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF1004A" title="Follow work health and safety, and emergency procedures during shore-based mooring operations"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+  </qualification>
+  <qualification id="MAR20213" title="Certificate II in Maritime Operations (Marine Engine Driver Grade 3)">
+    <units>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="MARB2002A" title="Service marine internal combustion engines and propulsion and auxiliary systems"/>
+      <unit id="MARC2001A" title="Complete engine room tasks"/>
+      <unit id="MARC2002A" title="Maintain hull out of water"/>
+      <unit id="MARC2003A" title="Operate and maintain extra low and low voltage electrical systems and equipment"/>
+      <unit id="MARC2004A" title="Operate deck machinery"/>
+      <unit id="MARC2007A" title="Operate marine internal combustion engines, and propulsion and auxiliary systems"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR20113" title="Certificate II in Maritime Operations (Coxswain)">
+    <units>
+      <unit id="MARC2005A" title="Operate inboard and outboard motors"/>
+      <unit id="MARC2006A" title="Operate main propulsion unit and auxiliary systems"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARI2001A" title="Comply with regulations to ensure safe operation of a vessel up to 12 metres"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+      <unit id="MARK2001A" title="Handle a vessel up to 12 metres"/>
+      <unit id="MARN2001A" title="Apply seamanship skills aboard a vessel up to 12 metres"/>
+    </units>
+  </qualification>
+  <qualification id="MAR30113" title="Certificate III in Maritime Operations (Integrated Rating)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARB3002A" title="Perform routine engine maintenance on a vessel"/>
+      <unit id="MARB3003A" title="Perform routine maintenance and repairs on a vessel"/>
+      <unit id="MARC3006A" title="Operate deck machinery, cargo handling gear and equiment on a vessel"/>
+      <unit id="MARC3008A" title="Operate engine equipment and associated propulsion plant"/>
+      <unit id="MARF3001A" title="Assist in an emergency response"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3003A" title="Operate emergency equipment and apply emergency procedures"/>
+      <unit id="MARF3004A" title="Operate survival craft and other lifesaving appliances"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+      <unit id="MARK3002A" title="Steer a vessel under direction of the Master"/>
+      <unit id="MARN3002A" title="Use seamanship skills on board a vessel"/>
+      <unit id="MARO3001A" title="Contribute to monitoring and controlling a safe engine watch"/>
+      <unit id="MARO3002A" title="Contribute to monitoring and controlling a safe navigational watch"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR30713" title="Certificate III in Maritime Operations (Marine Cookery)">
+    <units>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR30313" title="Certificate III in Maritime Operations (Marine Engine Driver Steam)">
+    <units>
+      <unit id="MARB3001A" title="Maintain firefighting appliances"/>
+      <unit id="MARB3007A" title="Undertake basic maintenance of electrical systems"/>
+      <unit id="MARC3001A" title="Manage fuel systems"/>
+      <unit id="MARC3002A" title="Operate and maintain a boiler"/>
+      <unit id="MARC3003A" title="Operate and maintain a steam engine up to 750 kW and steam auxiliary equipment"/>
+      <unit id="MARC3004A" title="Operate and maintain engines for auxiliary systems other than steam auxiliary systems"/>
+      <unit id="MARC3007A" title="Operate electrical systems"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR30213" title="Certificate III in Maritime Operations (Marine Engine Driver Grade 2)">
+    <units>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="MARB3006A" title="Maintain marine internal combustion engines, propulsion plant and auxiliary systems"/>
+      <unit id="MARB3007A" title="Undertake basic maintenance of electrical systems"/>
+      <unit id="MARC2001A" title="Complete engine room tasks"/>
+      <unit id="MARC2002A" title="Maintain hull out of water"/>
+      <unit id="MARC2003A" title="Operate and maintain extra low and low voltage electrical systems and equipment"/>
+      <unit id="MARC2004A" title="Operate deck machinery"/>
+      <unit id="MARC2007A" title="Operate marine internal combustion engines, and propulsion and auxiliary systems"/>
+      <unit id="MARC3001A" title="Manage fuel systems"/>
+      <unit id="MARC3005A" title="Operate and monitor marine internal combustion engines, propulsion plant and auxiliary systems"/>
+      <unit id="MARC3007A" title="Operate electrical systems"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR30613" title="Certificate III in Maritime Operations (Marine Surveying)">
+    <units>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARM3001A" title="Apply knowledge of safety management system legal framework in the workplace"/>
+      <unit id="MARM3002A" title="Apply vessel construction theory to marine survey tasks"/>
+      <unit id="MARM3003A" title="Identify factors that affect a commercial vessels's fitness for purpose"/>
+      <unit id="MARM3004A" title="Work in the marine surveying sector"/>
+      <unit id="PSPGOV314A" title="Contribute to conflict management"/>
+      <unit id="PSPREG201A" title="Carry out inspections and monitoring under guidance"/>
+    </units>
+  </qualification>
+  <qualification id="MAR30513" title="Certificate III in Maritime Operations (Master Inland Waters)">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="MARB3004A" title="Perform routine maintenance on a vessel up to 24 metres"/>
+      <unit id="MARB3005A" title="Slip or dock a vessel and maintain hull on a vessel up to 80 metres"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARH3001A" title="Apply weather information when navigating inland waters as Master"/>
+      <unit id="MARH3002A" title="Manage and maintain a navigational watch on board vessels up to 80 metres"/>
+      <unit id="MARI3001A" title="Observe regulations to ensure safe operation of a vessel up to 80 metres"/>
+      <unit id="MARJ3001A" title="Monitor environmental management on a vessel"/>
+      <unit id="MARK3001A" title="Manoeuvre a vessel up to 24 metres within near coastal waters"/>
+      <unit id="MARN3001A" title="Perform seamanship operations on board a vessel up to 24 metres"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR30413" title="Certificate III in Maritime Operations (Master up to 24 metres)">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="MARB3004A" title="Perform routine maintenance on a vessel up to 24 metres"/>
+      <unit id="MARB3005A" title="Slip or dock a vessel and maintain hull on a vessel up to 80 metres"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARH3002A" title="Manage and maintain a navigational watch on board vessels up to 80 metres"/>
+      <unit id="MARH3003A" title="Plan and navigate a passage for a vessel up to 80 metres"/>
+      <unit id="MARH3004A" title="Use wheelhouse equipment for safe navigation"/>
+      <unit id="MARI3001A" title="Observe regulations to ensure safe operation of a vessel up to 80 metres"/>
+      <unit id="MARJ3001A" title="Monitor environmental management on a vessel"/>
+      <unit id="MARK3001A" title="Manoeuvre a vessel up to 24 metres within near coastal waters"/>
+      <unit id="MARN3001A" title="Perform seamanship operations on board a vessel up to 24 metres"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR40313" title="Certificate IV in Maritime Operations (Master up to 35 metres)">
+    <units>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="MARA4001A" title="Manage loading, discharging and stowage of cargo"/>
+      <unit id="MARA4002A" title="Manage vessel stability"/>
+      <unit id="MARB3005A" title="Slip or dock a vessel and maintain hull on a vessel up to 80 metres"/>
+      <unit id="MARB4005A" title="Plan and supervise routine maintenance on a vessel up to 80 metres"/>
+      <unit id="MARC4001A" title="Manage a propulsion unit using appropriate engine systems and support services"/>
+      <unit id="MARC4002A" title="Monitor and manage vessel operations"/>
+      <unit id="MARC4004A" title="Operate deck machinery and steering gear on a vessel up to 80 metres"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARG4001A" title="Manage a small crew"/>
+      <unit id="MARH3002A" title="Manage and maintain a navigational watch on board vessels up to 80 metres"/>
+      <unit id="MARH3003A" title="Plan and navigate a passage for a vessel up to 80 metres"/>
+      <unit id="MARH3004A" title="Use wheelhouse equipment for safe navigation"/>
+      <unit id="MARH4001A" title="Forecast weather and oceanographic conditions"/>
+      <unit id="MARI3001A" title="Observe regulations to ensure safe operation of a vessel up to 80 metres"/>
+      <unit id="MARJ3001A" title="Monitor environmental management on a vessel"/>
+      <unit id="MARK4001A" title="Manoeuvre a vessel up to 80 metres"/>
+      <unit id="MARN4001A" title="Manage seaworthiness of a vessel up to 80 metres"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR40413" title="Certificate IV in Maritime Operations (Marine Surveying)">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARM3002A" title="Apply vessel construction theory to marine survey tasks"/>
+      <unit id="MARM4001A" title="Assess compliance with marine environment protection requirements"/>
+      <unit id="MARM4002A" title="Assist in the survey of commercial vessels"/>
+      <unit id="MARM4003A" title="Assist in the survey of vessel mechanical features"/>
+      <unit id="MARM4004A" title="Evaluate vessel stability"/>
+      <unit id="MARM4005A" title="Implement a systematic approach to the audit of safety management systems"/>
+      <unit id="MARM4006A" title="Survey lifesaving appliances, fire and other safety systems"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR40113" title="Certificate IV in Maritime Operations (Chief Integrated Rating)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARB3002A" title="Perform routine engine maintenance on a vessel"/>
+      <unit id="MARB3003A" title="Perform routine maintenance and repairs on a vessel"/>
+      <unit id="MARB4002A" title="Implement vessel planned maintenance system"/>
+      <unit id="MARB4004A" title="Manage stores for planned maintenance system"/>
+      <unit id="MARC3006A" title="Operate deck machinery, cargo handling gear and equiment on a vessel"/>
+      <unit id="MARC3008A" title="Operate engine equipment and associated propulsion plant"/>
+      <unit id="MARF3001A" title="Assist in an emergency response"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3003A" title="Operate emergency equipment and apply emergency procedures"/>
+      <unit id="MARF3004A" title="Operate survival craft and other lifesaving appliances"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF4001A" title="Manage firefighting and fire prevention activities on board a vessel"/>
+      <unit id="MARG4003A" title="Supervise a crew"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+      <unit id="MARK3002A" title="Steer a vessel under direction of the Master"/>
+      <unit id="MARN3002A" title="Use seamanship skills on board a vessel"/>
+      <unit id="MARO3001A" title="Contribute to monitoring and controlling a safe engine watch"/>
+      <unit id="MARO3002A" title="Contribute to monitoring and controlling a safe navigational watch"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR40213" title="Certificate IV in Maritime Operations (Marine Engine Driver Grade 1)">
+    <units>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="MARA4002A" title="Manage vessel stability"/>
+      <unit id="MARB3007A" title="Undertake basic maintenance of electrical systems"/>
+      <unit id="MARB4001A" title="Carry out basic welding, brazing, cutting and machining operations on a coastal vessel"/>
+      <unit id="MARB4003A" title="Manage refuelling"/>
+      <unit id="MARB4006A" title="Undertake maintenance of 240 to 440 voltage alternating current electrical systems"/>
+      <unit id="MARB4007A" title="Undertake maintenance of machinery, machinery systems and structural components"/>
+      <unit id="MARC2001A" title="Complete engine room tasks"/>
+      <unit id="MARC2002A" title="Maintain hull out of water"/>
+      <unit id="MARC2003A" title="Operate and maintain extra low and low voltage electrical systems and equipment"/>
+      <unit id="MARC2004A" title="Operate deck machinery"/>
+      <unit id="MARC2007A" title="Operate marine internal combustion engines, and propulsion and auxiliary systems"/>
+      <unit id="MARC3001A" title="Manage fuel systems"/>
+      <unit id="MARC3005A" title="Operate and monitor marine internal combustion engines, propulsion plant and auxiliary systems"/>
+      <unit id="MARC3007A" title="Operate electrical systems"/>
+      <unit id="MARC4003A" title="Operate auxiliary machinery systems up to 1500 kW"/>
+      <unit id="MARC4005A" title="Operate marine internal combustion engines and associated systems up to 1500 kW"/>
+      <unit id="MARC4006A" title="Operate propulsion transmission systems up to 1500 kW"/>
+      <unit id="MARC4007A" title="Operate 240 to 440 voltage alternating current electrical systems"/>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARG4002A" title="Manage an engine room and small engineering team"/>
+      <unit id="MARJ2001A" title="Follow environmental work practices"/>
+      <unit id="MARJ3001A" title="Monitor environmental management on a vessel"/>
+      <unit id="MARL4001A" title="Carry out engineering calculations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR50313" title="Diploma of Maritime Operations (Watchkeeper Deck)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARA5001A" title="Maintain vessel stability"/>
+      <unit id="MARA5002A" title="Monitor loading, unloading and stowage of cargo"/>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3004A" title="Operate survival craft and other lifesaving appliances"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF4001A" title="Manage firefighting and fire prevention activities on board a vessel"/>
+      <unit id="MARF5001A" title="Control safe access to and on vessel"/>
+      <unit id="MARF5002A" title="Provide medical first aid on board a vessel"/>
+      <unit id="MARF5003A" title="Respond to emergencies"/>
+      <unit id="MARG5001A" title="Provide leadership to crew"/>
+      <unit id="MARH5002A" title="Plan and conduct a passage"/>
+      <unit id="MARH5003A" title="Use an electronic chart display and information system to navigate safely"/>
+      <unit id="MARH5004A" title="Use bridge equipment to determine vessel position"/>
+      <unit id="MARJ5001A" title="Ensure compliance with environmental management legislation"/>
+      <unit id="MARJ5002A" title="Inspect and report defects and damage to vessel"/>
+      <unit id="MARK5001A" title="Perform basic vessel manoeuvres"/>
+      <unit id="MARN5001A" title="Maintain seaworthiness of a vessel"/>
+      <unit id="MARO5001A" title="Maintain a safe navigational watch"/>
+      <unit id="MARO5002A" title="Transmit and receive information by the Global Maritime Distress and Safety System"/>
+      <unit id="MARO5003A" title="Transmit and receive information by visual signalling"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR50113" title="Diploma of Maritime Operations (Marine Engineering Class 3)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARB5001A" title="Maintain and repair marine electrical and electronic equipment"/>
+      <unit id="MARB5002A" title="Maintain and repair shipboard machinery and equipment"/>
+      <unit id="MARC5001A" title="Employ tools, equipment and materials in a shipboard context"/>
+      <unit id="MARE5001A" title="Communicate effectively when performing engineering duties"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARJ5001A" title="Ensure compliance with environmental management legislation"/>
+      <unit id="MARL5001A" title="Apply basic principles of marine electrotechnology"/>
+      <unit id="MARL5002A" title="Apply basic principles of marine engineering thermodynamics"/>
+      <unit id="MARL5003A" title="Apply basic principles of marine mechanics"/>
+      <unit id="MARL5004A" title="Apply basic principles of naval architecture"/>
+      <unit id="MARL5005A" title="Demonstrate basic knowledge of marine auxiliary boilers"/>
+      <unit id="MARL5006A" title="Demonstrate basic knowledge of marine auxiliary machinery and equipment"/>
+      <unit id="MARL5007A" title="Demonstrate basic knowledge of marine control systems and automation"/>
+      <unit id="MARL5008A" title="Demonstrate basic knowledge of marine diesel engines and systems"/>
+      <unit id="MARL5009A" title="Demonstrate basic knowledge of marine electrical systems"/>
+      <unit id="MARL5010A" title="Demonstrate basic knowledge of marine steam turbines and main boilers"/>
+      <unit id="MARL5011A" title="Demonstrate basic knowledge of ships and ship routines"/>
+      <unit id="MARL5012A" title="Perform basic marine engineering calculations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR50213" title="Diploma of Maritime Operations (Engineer Watchkeeper)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARE5001A" title="Communicate effectively when performing engineering duties"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARJ5001A" title="Ensure compliance with environmental management legislation"/>
+      <unit id="MARL5001A" title="Apply basic principles of marine electrotechnology"/>
+      <unit id="MARL5002A" title="Apply basic principles of marine engineering thermodynamics"/>
+      <unit id="MARL5003A" title="Apply basic principles of marine mechanics"/>
+      <unit id="MARL5004A" title="Apply basic principles of naval architecture"/>
+      <unit id="MARL5005A" title="Demonstrate basic knowledge of marine auxiliary boilers"/>
+      <unit id="MARL5006A" title="Demonstrate basic knowledge of marine auxiliary machinery and equipment"/>
+      <unit id="MARL5007A" title="Demonstrate basic knowledge of marine control systems and automation"/>
+      <unit id="MARL5008A" title="Demonstrate basic knowledge of marine diesel engines and systems"/>
+      <unit id="MARL5009A" title="Demonstrate basic knowledge of marine electrical systems"/>
+      <unit id="MARL5010A" title="Demonstrate basic knowledge of marine steam turbines and main boilers"/>
+      <unit id="MARL5011A" title="Demonstrate basic knowledge of ships and ship routines"/>
+      <unit id="MARL5012A" title="Perform basic marine engineering calculations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR50513" title="Diploma of Maritime Operations (Marine Surveying)">
+    <units>
+      <unit id="MARM5001A" title="Calculate, assess and report on vessel trim and stability"/>
+      <unit id="MARM5002A" title="Conduct a range of surveys on domestic commercial vessels"/>
+      <unit id="MARM5003A" title="Conduct an audit of safety management systems"/>
+      <unit id="MARM5004A" title="Develop marine survey reports"/>
+      <unit id="MARM5005A" title="Participate in investigating marine incidents"/>
+      <unit id="MARM5006A" title="Survey hull and superstructure of a commercial vessel"/>
+      <unit id="MARM5007A" title="Survey vessel operational systems"/>
+      <unit id="MARM5008A" title="Undertake a periodic statutory survey"/>
+      <unit id="MARM5009A" title="Establish a marine surveyor practice"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+    </units>
+  </qualification>
+  <qualification id="MAR50413" title="Diploma of Maritime Operations (Master up to 500 GT or Master 80 metres)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARA5001A" title="Maintain vessel stability"/>
+      <unit id="MARA5002A" title="Monitor loading, unloading and stowage of cargo"/>
+      <unit id="MARD5001A" title="Manage business and administration on vessels limited by tonnage or near coastal operations"/>
+      <unit id="MARD5002A" title="Manage operations and maintenance on vessels limited by tonnage or near coastal operations"/>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3004A" title="Operate survival craft and other lifesaving appliances"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF4001A" title="Manage firefighting and fire prevention activities on board a vessel"/>
+      <unit id="MARF5001A" title="Control safe access to and on vessel"/>
+      <unit id="MARF5002A" title="Provide medical first aid on board a vessel"/>
+      <unit id="MARF5003A" title="Respond to emergencies"/>
+      <unit id="MARG5001A" title="Provide leadership to crew"/>
+      <unit id="MARH5001A" title="Apply command navigation procedures on vessels limited by tonnage or near coastal operations"/>
+      <unit id="MARH5002A" title="Plan and conduct a passage"/>
+      <unit id="MARH5003A" title="Use an electronic chart display and information system to navigate safely"/>
+      <unit id="MARH5004A" title="Use bridge equipment to determine vessel position"/>
+      <unit id="MARJ5001A" title="Ensure compliance with environmental management legislation"/>
+      <unit id="MARJ5002A" title="Inspect and report defects and damage to vessel"/>
+      <unit id="MARK5001A" title="Perform basic vessel manoeuvres"/>
+      <unit id="MARO5001A" title="Maintain a safe navigational watch"/>
+      <unit id="MARO5002A" title="Transmit and receive information by the Global Maritime Distress and Safety System"/>
+      <unit id="MARO5003A" title="Transmit and receive information by visual signalling"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR60313" title="Advanced Diploma of Maritime Operations (Marine Engineering Class 1)">
+    <units>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF5002A" title="Provide medical first aid on board a vessel"/>
+      <unit id="MARL6005A" title="Apply advanced principles of marine electrotechnology"/>
+      <unit id="MARL6006A" title="Apply advanced principles of marine engineering thermodynamics"/>
+      <unit id="MARL6007A" title="Apply advanced principles of marine mechanics"/>
+      <unit id="MARL6008A" title="Apply advanced principles of naval architecture"/>
+      <unit id="MARL6017A" title="Demonstrate advanced knowledge of marine auxiliary boilers"/>
+      <unit id="MARL6018A" title="Demonstrate advanced knowledge of marine auxiliary machinery and systems"/>
+      <unit id="MARL6019A" title="Demonstrate advanced knowledge of marine control systems and automation"/>
+      <unit id="MARL6020A" title="Demonstrate advanced knowledge of marine diesel engines and systems"/>
+      <unit id="MARL6021A" title="Demonstrate advanced knowledge of marine electrical systems"/>
+      <unit id="MARL6022A" title="Demonstrate advanced knowledge of marine steam turbines and main boilers"/>
+      <unit id="MARL6023A" title="Demonstrate advanced knowledge of ship operation and maintenance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MAR60213" title="Advanced Diploma of Maritime Operations (Master Unlimited)">
+    <units>
+      <unit id="MARA3001A" title="Contribute to safe cargo operations on liquefied gas tankers"/>
+      <unit id="MARA3002A" title="Contribute to safe cargo operations on oil and chemical tankers"/>
+      <unit id="MARA6001A" title="Manage stability of a vessel 500 gross tonnage or more"/>
+      <unit id="MARB6001A" title="Manage repairs and maintenance of a vessel 500 gross tonnage or more"/>
+      <unit id="MARD6001A" title="Manage legal requirements of a vessel"/>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3004A" title="Operate survival craft and other lifesaving appliances"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF4001A" title="Manage firefighting and fire prevention activities on board a vessel"/>
+      <unit id="MARF6001A" title="Coordinate search and rescue operations"/>
+      <unit id="MARF6002A" title="Manage provision of medical care on board a vessel"/>
+      <unit id="MARF6003A" title="Manage safety and security of vessel crew and passengers"/>
+      <unit id="MARG6001A" title="Manage a vessel and its crew"/>
+      <unit id="MARH5003A" title="Use an electronic chart display and information system to navigate safely"/>
+      <unit id="MARH5004A" title="Use bridge equipment to determine vessel position"/>
+      <unit id="MARH6001A" title="Forecast weather and oceanographic conditions to plan a safe passage"/>
+      <unit id="MARH6002A" title="Manage the navigation of a vessel 500 gross tonnage or more"/>
+      <unit id="MARJ6001A" title="Manage compliance with environmental management legislation"/>
+      <unit id="MARK6001A" title="Manoeuvre a vessel 500 gross tonnage or more"/>
+      <unit id="MARN6001A" title="Manage cargo operations"/>
+      <unit id="MARO5001A" title="Maintain a safe navigational watch"/>
+      <unit id="MARO5002A" title="Transmit and receive information by the Global Maritime Distress and Safety System"/>
+      <unit id="MARO5003A" title="Transmit and receive information by visual signalling"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MAR60113" title="Advanced Diploma of Maritime Operations (Marine Engineering Class 2)">
+    <units>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+      <unit id="MARF3007A" title="Work safely in confined spaces on a vessel"/>
+      <unit id="MARF5002A" title="Provide medical first aid on board a vessel"/>
+      <unit id="MARL6001A" title="Apply intermediate principles of marine electrotechnology"/>
+      <unit id="MARL6002A" title="Apply intermediate principles of marine engineering thermodynamics"/>
+      <unit id="MARL6003A" title="Apply intermediate principles of marine mechanics"/>
+      <unit id="MARL6004A" title="Apply intermediate principles of naval architecture"/>
+      <unit id="MARL6009A" title="Demonstrate basic knowledge of ship construction"/>
+      <unit id="MARL6010A" title="Demonstrate basic knowledge of ship operation and maintenance"/>
+      <unit id="MARL6011A" title="Demonstrate intermediate knowledge of marine auxiliary boilers"/>
+      <unit id="MARL6012A" title="Demonstrate intermediate knowledge of marine auxiliary machinery and systems"/>
+      <unit id="MARL6013A" title="Demonstrate intermediate knowledge of marine control systems and automation"/>
+      <unit id="MARL6014A" title="Demonstrate intermediate knowledge of marine diesel engines and systems"/>
+      <unit id="MARL6015A" title="Demonstrate intermediate knowledge of marine electrical systems"/>
+      <unit id="MARL6016A" title="Demonstrate intermediate knowledge of marine steam turbines and main boilers"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

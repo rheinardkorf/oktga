@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<skillsets class="CUV03">
+  <skillset id="CUVSS00001" title="Technical_Scientific Field-Based Photoimaging Skill Set">
+    <units>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUVPHI05A" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="CUVPHI05B" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="CUVPHI06A" title="Plan and carry out image capture in response to a brief"/>
+      <unit id="CUVPHI06B" title="Plan and carry out image capture in response to a brief"/>
+      <unit id="CUVPHI07A" title="Process photoimages to work print/file stage"/>
+      <unit id="CUVPHI07B" title="Process photoimages to work print/file stage"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+    </units>
+    <units/>
+  </skillset>
+</skillsets>

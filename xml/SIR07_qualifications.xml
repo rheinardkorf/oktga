@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<qualifications class="SIR07">
+  <qualification id="SIR10112" title="Certificate I in Retail Services">
+    <units>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXIND102" title="Plan a career in the retail industry"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+    </units>
+  </qualification>
+  <qualification id="SIR20312" title="Certificate II in Retail Fast Food">
+    <units>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRRMER001A" title="Merchandise food products"/>
+      <unit id="SIRRMER003A" title="Prepare and display fast food items"/>
+      <unit id="SIRRRPK001A" title="Advise on food products and services"/>
+      <unit id="SIRRRPK003A" title="Advise on fast food products"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXIND102" title="Plan a career in the retail industry"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIR20112" title="Certificate II in Community Pharmacy">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="SIBBFAS201A" title="Demonstrate retail skin care products"/>
+      <unit id="SIBBSKS201A" title="Pierce ears"/>
+      <unit id="SIBXFAS201A" title="Design and apply make-up"/>
+      <unit id="SIRCHCS201" title="Support the supply of Pharmacy Medicines and Pharmacist Only Medicines"/>
+      <unit id="SIRCIND201" title="Operate in a community pharmacy framework"/>
+      <unit id="SIRCIND202" title="Plan a career in community pharmacy"/>
+      <unit id="SIRCPPK201" title="Assist customers seeking commonly requested vitamins, minerals and supplements"/>
+      <unit id="SIRCPPK202" title="Assist customers seeking eye and ear products"/>
+      <unit id="SIRCPPK203" title="Assist customers seeking first aid and wound care products"/>
+      <unit id="SIRCPPK204" title="Assist customers seeking oral care products"/>
+      <unit id="SIRCPPK205" title="Assist customers seeking to relieve cough and cold symptoms"/>
+      <unit id="SIRCPPK206" title="Assist customers seeking to relieve skin and fungal conditions"/>
+      <unit id="SIRCPPK207" title="Supply medical devices"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK201" title="Minimise loss"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR20212" title="Certificate II in Retail Services">
+    <units>
+      <unit id="SFIDIST202C" title="Retail fresh, frozen and live seafood"/>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRRMER001A" title="Merchandise food products"/>
+      <unit id="SIRRMER002A" title="Pack and display meat products"/>
+      <unit id="SIRRMER004A" title="Prepare and display bakery products"/>
+      <unit id="SIRRPOS001A" title="Process postal outlet transactions"/>
+      <unit id="SIRRPOS002A" title="Handle mail received in a retail environment"/>
+      <unit id="SIRRPOS003A" title="Deliver mail in a retail environment"/>
+      <unit id="SIRRRPK002A" title="Advise on meat products"/>
+      <unit id="SIRRRPK004A" title="Advise on bakery products"/>
+      <unit id="SIRRRPK005A" title="Advise on seafood products"/>
+      <unit id="SIRRRPK214" title="Recommend specialised products and services"/>
+      <unit id="SIRXADM001A" title="Apply retail office procedures"/>
+      <unit id="SIRXADM002A" title="Coordinate retail office"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCCS203" title="Promote loyalty programs"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXFIN002A" title="Perform retail finance duties"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXICT002A" title="Use computers as part of business and e-commerce processes"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXIND102" title="Plan a career in the retail industry"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXMPR002A" title="Provide marketing and promotion program support"/>
+      <unit id="SIRXMPR003A" title="Conduct telemarketing"/>
+      <unit id="SIRXRPK001A" title="Recommend health and nutritional products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK201" title="Minimise loss"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR30212" title="Certificate III in Retail Operations">
+    <units>
+      <unit id="SIRRFSA302" title="Monitor food safety program"/>
+      <unit id="SIRRPOS004A" title="Handle customer interviews and applications"/>
+      <unit id="SIRRRPK006A" title="Recommend liquor products"/>
+      <unit id="SIRRRPK007A" title="Recommend and fit clothing or footwear and products and services"/>
+      <unit id="SIRRRPK008A" title="Recommend jewellery products and services"/>
+      <unit id="SIRRRPK009A" title="Recommend toddler and baby products"/>
+      <unit id="SIRRRPK010A" title="Recommend home and home improvement products and services"/>
+      <unit id="SIRRRPK011A" title="Recommend books or newsagency services"/>
+      <unit id="SIRRRPK012A" title="Recommend business and leisure products and services"/>
+      <unit id="SIRRRPK013A" title="Hire and sell video and DVD products and services"/>
+      <unit id="SIRRRPK214" title="Recommend specialised products and services"/>
+      <unit id="SIRWSLS301" title="Build sales relationships"/>
+      <unit id="SIRWSLS302" title="Process product and service data"/>
+      <unit id="SIRWSLS303" title="Analyse and achieve sales targets"/>
+      <unit id="SIRWSLS304" title="Build sales of branded products"/>
+      <unit id="SIRXADM002A" title="Coordinate retail office"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCCS203" title="Promote loyalty programs"/>
+      <unit id="SIRXCCS304" title="Coordinate interaction with customers"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXCOM202" title="Communicate with customers using technologies"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXICT303" title="Operate retail information technology systems"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER304" title="Present products"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT002A" title="Maintain employee relations"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXRPK001A" title="Recommend health and nutritional products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK201" title="Minimise loss"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXSLS303" title="Build relationships with customers"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR30312" title="Certificate III in Retail Supervision">
+    <units>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="SIRRFSA302" title="Monitor food safety program"/>
+      <unit id="SIRRPOS004A" title="Handle customer interviews and applications"/>
+      <unit id="SIRRRPK006A" title="Recommend liquor products"/>
+      <unit id="SIRRRPK007A" title="Recommend and fit clothing or footwear and products and services"/>
+      <unit id="SIRRRPK008A" title="Recommend jewellery products and services"/>
+      <unit id="SIRRRPK009A" title="Recommend toddler and baby products"/>
+      <unit id="SIRRRPK010A" title="Recommend home and home improvement products and services"/>
+      <unit id="SIRRRPK011A" title="Recommend books or newsagency services"/>
+      <unit id="SIRRRPK012A" title="Recommend business and leisure products and services"/>
+      <unit id="SIRRRPK013A" title="Hire and sell video and DVD products and services"/>
+      <unit id="SIRRRPK214" title="Recommend specialised products and services"/>
+      <unit id="SIRWSLS301" title="Build sales relationships"/>
+      <unit id="SIRWSLS302" title="Process product and service data"/>
+      <unit id="SIRWSLS303" title="Analyse and achieve sales targets"/>
+      <unit id="SIRWSLS304" title="Build sales of branded products"/>
+      <unit id="SIRXADM002A" title="Coordinate retail office"/>
+      <unit id="SIRXCCS203" title="Promote loyalty programs"/>
+      <unit id="SIRXCCS304" title="Coordinate interaction with customers"/>
+      <unit id="SIRXCOM202" title="Communicate with customers using technologies"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT303" title="Operate retail information technology systems"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER304" title="Present products"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT002A" title="Maintain employee relations"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXRPK001A" title="Recommend health and nutritional products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXSLS303" title="Build relationships with customers"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR30412" title="Certificate III in Business to Business Sales">
+    <units>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO304C" title="Provide sales solutions to customers"/>
+      <unit id="SIRWFIN001A" title="Complete debtor processes"/>
+      <unit id="SIRWFIN002A" title="Manage debtor processes"/>
+      <unit id="SIRWINV301" title="Administer supply to a business"/>
+      <unit id="SIRWINV302" title="Monitor inventory capacity to meet demand"/>
+      <unit id="SIRWSLS301" title="Build sales relationships"/>
+      <unit id="SIRWSLS302" title="Process product and service data"/>
+      <unit id="SIRWSLS303" title="Analyse and achieve sales targets"/>
+      <unit id="SIRWSLS304" title="Build sales of branded products"/>
+      <unit id="SIRWSLS305" title="Optimise customer and territory coverage"/>
+      <unit id="SIRXCCS304" title="Coordinate interaction with customers"/>
+      <unit id="SIRXCCS305" title="Maintain business to business relationships"/>
+      <unit id="SIRXCOM202" title="Communicate with customers using technologies"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT002A" title="Maintain employee relations"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXMPR008A" title="Implement advertising and promotional activities"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXRSK003A" title="Apply store security systems and procedures"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXSLS303" title="Build relationships with customers"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR30112" title="Certificate III in Community Pharmacy">
+    <units>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="HLTCSD306C" title="Respond effectively to difficult or challenging behaviour"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="SIBBSKS201A" title="Pierce ears"/>
+      <unit id="SIRCDIS301" title="Accept prescriptions and return dispensed medicines to customers"/>
+      <unit id="SIRCDIS302" title="Deliver medicines to customers outside the pharmacy"/>
+      <unit id="SIRCDIS303" title="Assist in dispensing prescriptions"/>
+      <unit id="SIRCHCS201" title="Support the supply of Pharmacy Medicines and Pharmacist Only Medicines"/>
+      <unit id="SIRCHCS302" title="Assist in managing Pharmacy Medicines and Pharmacist Only Medicines"/>
+      <unit id="SIRCHCS303" title="Advise on asthma management"/>
+      <unit id="SIRCHCS304" title="Advise on smoking cessation"/>
+      <unit id="SIRCHCS305" title="Advise on continence management"/>
+      <unit id="SIRCHCS306" title="Advise on complementary medicines"/>
+      <unit id="SIRCPPK201" title="Assist customers seeking commonly requested vitamins, minerals and supplements"/>
+      <unit id="SIRCPPK202" title="Assist customers seeking eye and ear products"/>
+      <unit id="SIRCPPK203" title="Assist customers seeking first aid and wound care products"/>
+      <unit id="SIRCPPK204" title="Assist customers seeking oral care products"/>
+      <unit id="SIRCPPK205" title="Assist customers seeking to relieve cough and cold symptoms"/>
+      <unit id="SIRCPPK206" title="Assist customers seeking to relieve skin and fungal conditions"/>
+      <unit id="SIRCPPK308" title="Assist customers seeking relief from gastro-intestinal conditions"/>
+      <unit id="SIRCPPK309" title="Assist customers seeking to relieve common allergic symptom reactions"/>
+      <unit id="SIRCPPK310" title="Assist customers seeking analgesic and anti-inflammatory products"/>
+      <unit id="SIRCPPK311" title="Assist customers seeking baby or infant care medicines and products"/>
+      <unit id="SIRCPPK312" title="Assist customers seeking sexual health medicines and products"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCCS203" title="Promote loyalty programs"/>
+      <unit id="SIRXCLM101" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM101" title="Communicate in the workplace to support team and customer outcomes"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT303" title="Operate retail information technology systems"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT002A" title="Maintain employee relations"/>
+      <unit id="SIRXMPR002A" title="Provide marketing and promotion program support"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK201" title="Minimise loss"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR40112" title="Certificate IV in Community Pharmacy">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="HLTCOM408D" title="Use specific health terminology to communicate effectively"/>
+      <unit id="HLTCSD306C" title="Respond effectively to difficult or challenging behaviour"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="HLTIN402C" title="Maintain infection control standards in office practice settings"/>
+      <unit id="HLTSL408D" title="Perform home based assessments for sleep studies"/>
+      <unit id="SIRCDIS301" title="Accept prescriptions and return dispensed medicines to customers"/>
+      <unit id="SIRCDIS303" title="Assist in dispensing prescriptions"/>
+      <unit id="SIRCDIS404" title="Assist in dispensary stock control"/>
+      <unit id="SIRCDIS405" title="Assist in dispensary administration"/>
+      <unit id="SIRCDIS406" title="Assist in preparing dose administration aids"/>
+      <unit id="SIRCDIS407" title="Assist in preparing extemporaneous prescriptions"/>
+      <unit id="SIRCDIS408" title="Coordinate service to patients in residential care settings"/>
+      <unit id="SIRCHCS201" title="Support the supply of Pharmacy Medicines and Pharmacist Only Medicines"/>
+      <unit id="SIRCHCS302" title="Assist in managing Pharmacy Medicines and Pharmacist Only Medicines"/>
+      <unit id="SIRCHCS303" title="Advise on asthma management"/>
+      <unit id="SIRCHCS304" title="Advise on smoking cessation"/>
+      <unit id="SIRCHCS305" title="Advise on continence management"/>
+      <unit id="SIRCHCS306" title="Advise on complementary medicines"/>
+      <unit id="SIRCHCS407" title="Test blood pressure and advise on self-monitoring"/>
+      <unit id="SIRCHCS408" title="Test blood glucose and advise on equipment and services for diabetes management"/>
+      <unit id="SIRCHCS409" title="Advise on diet, nutrition and weight-management products and services"/>
+      <unit id="SIRCHCS410" title="Advise on pregnancy and maternal health products and services"/>
+      <unit id="SIRCHCS411" title="Advise on wound care products and self-care"/>
+      <unit id="SIRCHCS412" title="Provide Australian Needle and Syringe Program services"/>
+      <unit id="SIRCHCS413" title="Supply and hire aids and equipment to support home health care"/>
+      <unit id="SIRCHCS414" title="Support the management of obstructive sleep apnoea"/>
+      <unit id="SIRCHCS415" title="Coordinate pharmacy health promotions and home medicine reviews"/>
+      <unit id="SIRCMER401" title="Market and promote a pharmacy products and services area"/>
+      <unit id="SIRXCCS304" title="Coordinate interaction with customers"/>
+      <unit id="SIRXCCS406" title="Provide professional customer service for high value and complex sales"/>
+      <unit id="SIRXCCS408" title="Build retail relationships and sustain customer loyalty"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXINV003A" title="Plan inventory levels"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR40212" title="Certificate IV in Retail Management">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBPUR403B" title="Conduct international purchasing"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="SIRRFSA302" title="Monitor food safety program"/>
+      <unit id="SIRRMER405" title="Produce visual merchandising signs"/>
+      <unit id="SIRRMER406" title="Design, construct and maintain props"/>
+      <unit id="SIRRMER407" title="Design merchandisers"/>
+      <unit id="SIRXCCS406" title="Provide professional customer service for high value and complex sales"/>
+      <unit id="SIRXCCS407" title="Develop business to business relationship"/>
+      <unit id="SIRXCCS408" title="Build retail relationships and sustain customer loyalty"/>
+      <unit id="SIRXCLM402" title="Manage store facilities"/>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXEBS002A" title="Manage retail brands online"/>
+      <unit id="SIRXEBS003A" title="Manage and promote business to business e-commerce solutions"/>
+      <unit id="SIRXEBS004A" title="Select an e-business model"/>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXGLC401" title="Monitor compliance with legislative requirements for the establishment of a retail business"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXICT404" title="Adopt mobile commerce applications to improve sales and service"/>
+      <unit id="SIRXINV003A" title="Plan inventory levels"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXINV404" title="Manage retail merchandise"/>
+      <unit id="SIRXINV407" title="Manage suppliers"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER304" title="Present products"/>
+      <unit id="SIRXMER405" title="Manage store presentation and pricing"/>
+      <unit id="SIRXMER406" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXMER407" title="Plan and build visual presentations for a range of merchandise categories"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXMPR004A" title="Market products"/>
+      <unit id="SIRXMPR005A" title="Seize a business opportunity"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+      <unit id="SIRXPRO401" title="Maximise sales of branded products and services"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="SIRXQUA003A" title="Create an innovative work environment"/>
+      <unit id="SIRXQUA004A" title="Set up systems that support innovation"/>
+      <unit id="SIRXQUA005A" title="Maintain operational quality and productivity"/>
+      <unit id="SIRXRSK404" title="Control store security"/>
+      <unit id="SIRXSLS007A" title="Train sales team members"/>
+      <unit id="SIRXSLS405" title="Coordinate a retail operation during economic downturns"/>
+      <unit id="SIRXSLS406" title="Manage sales and service delivery"/>
+      <unit id="SIRXSLS410" title="Lead a sales representatives team"/>
+      <unit id="SIRXWHS403" title="Provide a safe work environment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR50112" title="Diploma of Retail Management">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFRA501B" title="Establish a franchise operation"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBFRA503B" title="Manage establishment of new sites or regions"/>
+      <unit id="BSBFRA504B" title="Manage relationships with franchisees"/>
+      <unit id="BSBFRA505B" title="Manage closure of a franchise"/>
+      <unit id="BSBHRM502A" title="Manage human resources management information systems"/>
+      <unit id="BSBHRM504A" title="Manage workforce planning"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBOHS501B" title="Participate in the coordination and maintenance of a systematic approach to managing OHS"/>
+      <unit id="BSBOHS502B" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="BSBOHS503B" title="Assist in the design and development of OHS participative arrangements"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="SIRCCPM501" title="Lead and develop pharmacy teams"/>
+      <unit id="SIRCCPM502" title="Manage pharmacy sales and service delivery"/>
+      <unit id="SIRCCPM503" title="Manage pharmacy premises and equipment"/>
+      <unit id="SIRCCPM504" title="Investigate new front-of-pharmacy products and services"/>
+      <unit id="SIRXCCS509" title="Manage business customers"/>
+      <unit id="SIRXCLM402" title="Manage store facilities"/>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXEBS002A" title="Manage retail brands online"/>
+      <unit id="SIRXEBS004A" title="Select an e-business model"/>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXFIN006A" title="Manage prices"/>
+      <unit id="SIRXGLC502" title="Establish business legal and legislative requirements"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXICT404" title="Adopt mobile commerce applications to improve sales and service"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXINV006A" title="Develop purchasing strategies"/>
+      <unit id="SIRXINV404" title="Manage retail merchandise"/>
+      <unit id="SIRXINV407" title="Manage suppliers"/>
+      <unit id="SIRXMER405" title="Manage store presentation and pricing"/>
+      <unit id="SIRXMGT004A" title="Analyse and communicate information"/>
+      <unit id="SIRXMGT005A" title="Set strategic plans"/>
+      <unit id="SIRXMGT006A" title="Initiate and implement change"/>
+      <unit id="SIRXMGT507" title="Manage staff through change"/>
+      <unit id="SIRXMGT508" title="Plan and prepare for business sustainability"/>
+      <unit id="SIRXMGT509" title="Manage diversity within the business"/>
+      <unit id="SIRXMPR006A" title="Manage promotional activities"/>
+      <unit id="SIRXMPR007A" title="Devise a strategic marketing plan"/>
+      <unit id="SIRXPRO003A" title="Review product or service performance"/>
+      <unit id="SIRXPRO005A" title="Manage distribution processes"/>
+      <unit id="SIRXPRO006A" title="Forecast product performance"/>
+      <unit id="SIRXPRO007A" title="Improve supply and distribution chains"/>
+      <unit id="SIRXPRO504" title="Maximise product sales and market share"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="SIRXQUA003A" title="Create an innovative work environment"/>
+      <unit id="SIRXQUA004A" title="Set up systems that support innovation"/>
+      <unit id="SIRXQUA006A" title="Benchmark and continuously improve operational quality"/>
+      <unit id="SIRXRSK404" title="Control store security"/>
+      <unit id="SIRXSLS008A" title="Develop a sales strategy"/>
+      <unit id="SIRXSLS009A" title="Manage sales teams"/>
+      <unit id="SIRXSLS406" title="Manage sales and service delivery"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR50212" title="Diploma of Visual Merchandising">
+    <units>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUVDIG201A" title="Develop digital imaging skills"/>
+      <unit id="CUVPHI302A" title="Capture photographic images"/>
+      <unit id="CUVPHI401A" title="Capture images in response to a brief"/>
+      <unit id="SIRRMER405" title="Produce visual merchandising signs"/>
+      <unit id="SIRRMER406" title="Design, construct and maintain props"/>
+      <unit id="SIRRMER407" title="Design merchandisers"/>
+      <unit id="SIRRMER508" title="Produce retail visual illustrations"/>
+      <unit id="SIRRMER509" title="Manufacture visual merchandising signage and support structures"/>
+      <unit id="SIRRMER510" title="Produce working drawings"/>
+      <unit id="SIRRMER511" title="Plan, organise and maintain display lighting"/>
+      <unit id="SIRRMER512" title="Produce perspective drawings, plans and elevations"/>
+      <unit id="SIRRMER513" title="Develop concept visuals"/>
+      <unit id="SIRRMER514" title="Design and produce store plans and floor layouts"/>
+      <unit id="SIRRMER515" title="Manage visual merchandising projects"/>
+      <unit id="SIRRMER516" title="Style merchandise for photography"/>
+      <unit id="SIRRMER517" title="Develop and apply strategies for merchandising and corporate presentation"/>
+      <unit id="SIRRMER518" title="Present design concepts"/>
+      <unit id="SIRRMER519" title="Design and produce merchandising and in-store presentations"/>
+      <unit id="SIRXIND101" title="Work effectively in a customer service environment"/>
+      <unit id="SIRXIND102" title="Plan a career in the retail industry"/>
+      <unit id="SIRXMER304" title="Present products"/>
+      <unit id="SIRXMER406" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXMER407" title="Plan and build visual presentations for a range of merchandise categories"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="SIRXWHS101" title="Apply safe work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIR80112" title="Vocational Graduate Certificate in Retail Leadership">
+    <units>
+      <unit id="SIRXSRM801" title="Lead the organisation through change"/>
+      <unit id="SIRXSRM802" title="Lead the development of business opportunities"/>
+      <unit id="SIRXSRM803" title="Lead and develop staff"/>
+      <unit id="SIRXSRM804" title="Continuously improve operational retail processes"/>
+      <unit id="SIRXSRM805" title="Lead the strategic planning process in a service environment"/>
+      <unit id="SIRXSRM806" title="Manage and transform sales and service programs"/>
+      <unit id="SIRXSRM807" title="Lead the development of a visual merchandising strategy"/>
+      <unit id="SIRXSRM808" title="Plan and manage complex retail projects"/>
+      <unit id="SIRXSRM809" title="Manage retail operations in a region or area"/>
+    </units>
+  </qualification>
+</qualifications>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<skillsets class="CUL11">
+  <skillset id="CULSS00001" title="Archive and Keep Records Skill Set">
+    <units>
+      <unit id="BSBRKG305A" title="Review recordkeeping functions"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRKG608B" title="Plan management of records over time"/>
+      <unit id="CULCNM302A" title="Develop and apply knowledge of archives"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00002" title="Cataloguing Skill Set">
+    <units>
+      <unit id="CULINM301A" title="Use established cataloguing tools"/>
+      <unit id="CULINM401A" title="Complete a range of cataloguing activities"/>
+      <unit id="CULINM502A" title="Provide subject access and classify material"/>
+      <unit id="CULINM601A" title="Analyse and describe specialist and complex material"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00003" title="Deliver Public Programs Skill Set">
+    <units>
+      <unit id="CULEVP202A" title="Provide visitors with venue information and assistance"/>
+      <unit id="CULEVP401A" title="Present information on activities, events and public programs"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00004" title="Develop and Manage Exhibitions Skill Set">
+    <units>
+      <unit id="CULCNM303A" title="Move and store collection material"/>
+      <unit id="CULEVP402A" title="Design and develop interpretive displays"/>
+      <unit id="CULEVP501A" title="Coordinate the installation and dismantling of exhibitions"/>
+      <unit id="CULEVP502A" title="Develop and implement exhibition interpretive strategies"/>
+      <unit id="CULEVP504A" title="Develop exhibition concepts"/>
+      <unit id="CULPRE401A" title="Implement preventive conservation activities"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00005" title="Digitisation Skill Set">
+    <units>
+      <unit id="CULICM501A" title="Maintain digital repositories"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP422C" title="Digitise complex images for reproduction"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00006" title="Manage Collections Skill Set">
+    <units>
+      <unit id="CULCNM301A" title="Catalogue objects into collections"/>
+      <unit id="CULCNM403A" title="Record and maintain collection information"/>
+      <unit id="CULICM501A" title="Maintain digital repositories"/>
+      <unit id="CULICM602A" title="Manage collection maintenance and preservation procedures"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00007" title="Organise and Access Collections Skill Set">
+    <units>
+      <unit id="CULCNM401A" title="Assess the significance of collection objects"/>
+      <unit id="CULCNM503A" title="Manage the development of collections"/>
+      <unit id="CULPRE401A" title="Implement preventive conservation activities"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00008" title="Prepare Exhibitions Skill Set">
+    <units>
+      <unit id="CULCNM402A" title="Prepare display mounts for collection material"/>
+      <unit id="CULEVP403A" title="Install and dismantle exhibition elements"/>
+      <unit id="CULEVP501A" title="Coordinate the installation and dismantling of exhibitions"/>
+    </units>
+  </skillset>
+  <skillset id="CULSS00009" title="Preventive Preservation and Conservation Skill Set">
+    <units>
+      <unit id="CULCNM303A" title="Move and store collection material"/>
+      <unit id="CULCNM602A" title="Develop and monitor procedures for the movement and storage of collection material"/>
+      <unit id="CULPRE401A" title="Implement preventive conservation activities"/>
+      <unit id="CULPRE501A" title="Develop disaster management plans"/>
+    </units>
+  </skillset>
+</skillsets>

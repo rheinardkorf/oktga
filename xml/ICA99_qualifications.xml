@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<qualifications class="ICA99">
+  <qualification id="ICA10101" title="Certificate I in Information Technology">
+    <units/>
+  </qualification>
+  <qualification id="ICA10201" title="Certificate I in Information Technology (E-Consumer)">
+    <units/>
+  </qualification>
+  <qualification id="ICA20199" title="Certificate II in Information Technology">
+    <units/>
+  </qualification>
+  <qualification id="ICA20201" title="Certificate II in Information Technology (Applications)">
+    <units/>
+  </qualification>
+  <qualification id="ICA30299" title="Certificate III in Information Technology (General)">
+    <units/>
+  </qualification>
+  <qualification id="ICA30199" title="Certificate III in Information Technology (Software Applications)">
+    <units/>
+  </qualification>
+  <qualification id="ICA30399" title="Certificate III in Information Technology (Network Administration)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40499" title="Certificate IV in Information Technology (Multimedia)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40399" title="Certificate IV in Information Technology (Network Management)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40799" title="Certificate IV in Information Technology (Systems Analysis and Design)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40901" title="Certificate IV in Information Technology (Telesales)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40299" title="Certificate IV in Information Technology (Database Administration)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40801" title="Certificate IV in Information Technology (Helpdesk)">
+    <units/>
+  </qualification>
+  <qualification id="ICA41101" title="Certificate IV in Information Technology (Website Design)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40599" title="Certificate IV in Information Technology (Technical Support)">
+    <units/>
+  </qualification>
+  <qualification id="ICA41001" title="Certificate IV in Information Technology (Website Administration)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40199" title="Certificate IV in Information Technology (Client Support)">
+    <units/>
+  </qualification>
+  <qualification id="ICA40699" title="Certificate IV in Information Technology (Programming)">
+    <units/>
+  </qualification>
+  <qualification id="ICA51101" title="Diploma of Information Technology (Project Management)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50599" title="Diploma of Information Technology (Multimedia Integration)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50901" title="Diploma of Information Technology (Knowledge Management)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50601" title="Diploma of Information Technology (Website Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50701" title="Diploma of Information Technology (Internetworking)">
+    <units/>
+  </qualification>
+  <qualification id="ICA51001" title="Diploma of Information Technology (Database Design and Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50299" title="Diploma of Information Technology (Software Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50499" title="Diploma of Information Technology (Network Engineering)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50199" title="Diploma of Information Technology (Systems Administration)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50801" title="Diploma of Information Technology (E-Business Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA50399" title="Diploma of Information Technology (Business Analysis)">
+    <units/>
+  </qualification>
+  <qualification id="ICA60401" title="Advanced Diploma of Information Technology (E-Security)">
+    <units/>
+  </qualification>
+  <qualification id="ICA60101" title="Advanced Diploma of Information Technology (E-Business Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA60301" title="Advanced Diploma of Information Technology (E-Learning Development)">
+    <units/>
+  </qualification>
+  <qualification id="ICA60501" title="Advanced Diploma of Information Technology (Project Management)">
+    <units/>
+  </qualification>
+  <qualification id="ICA60201" title="Advanced Diploma of Information Technology (E-Business Analysis)">
+    <units/>
+  </qualification>
+</qualifications>

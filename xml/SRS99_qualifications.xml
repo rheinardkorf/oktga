@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<qualifications class="SRS99">
+  <qualification id="SRS20399" title="Certificate II in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20299" title="Certificate II in Sport (Career Oriented Participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30399" title="Certificate III in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30499" title="Certificate III in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30601" title="Certificate III in Sport (Massage Therapy)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30599" title="Certificate III in Sport (Trainer)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30299" title="Certificate III in Sport (Career Oriented Participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40399" title="Certificate IV in Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40499" title="Certificate IV in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40299" title="Certificate IV in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40599" title="Certificate IV in Sport (Trainer)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50399" title="Diploma of Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50401" title="Diploma of Sport (Massage Therapy)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50299" title="Diploma of Sport (Coaching)">
+    <units/>
+  </qualification>
+</qualifications>

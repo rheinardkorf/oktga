@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<skillsets class="CHC">
+  <skillset id="CHCSS00066" title="Client-oriented service delivery skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS314B" title="Deliver services to meet personal needs of clients"/>
+      <unit id="CHCICS304B" title="Work effectively with carers"/>
+      <unit id="CHCORG423C" title="Maintain quality service delivery"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00060" title="Early childhood skill set">
+    <units>
+      <unit id="CHCECE003" title="Provide care for children"/>
+      <unit id="CHCECE005" title="Provide care for babies and toddlers"/>
+      <unit id="CHCECE011" title="Provide experiences to support children&#x2019;s play and learning"/>
+      <unit id="CHCECE017" title="Foster the holistic development and wellbeing of the child in early childhood"/>
+      <unit id="CHCECE023" title="Analyse information to inform learning"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00058" title="Education support work skill set">
+    <units>
+      <unit id="CHCEDS001" title="Comply with legislative, policy and industrial requirements in the education environment"/>
+      <unit id="CHCEDS002" title="Assist in implementation of planned educational programs"/>
+      <unit id="CHCEDS003" title="Contribute to student education in all developmental domains"/>
+      <unit id="CHCEDS021" title="Assist in facilitation of student learning"/>
+      <unit id="CHCEDS023" title="Supervise students outside the classroom"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00062" title="Family support services work skill set &#x2013; coordination">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS404B" title="Facilitate family intervention strategies"/>
+      <unit id="CHCCS414A" title="Provide education and support on parenting, health and well being"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00061" title="Family support services work skill set &#x2013; provide support">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS403C" title="Provide brief intervention"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00059" title="Middle childhood skill set">
+    <units>
+      <unit id="CHCSAC001" title="Support children to participate in school age care"/>
+      <unit id="CHCSAC003" title="Work collaboratively and respectfully with children in school age care"/>
+      <unit id="CHCSAC005" title="Foster the holistic development and wellbeing of the child in school age care"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00065" title="Workforce Planning Skill Set">
+    <units>
+      <unit id="BSBHRM513A" title="Manage workforce planning"/>
+      <unit id="CHCCDP403B" title="Analyse and apply education and training information"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00063" title="Working with families skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCYTH011" title="Work effectively with young people and their families"/>
+    </units>
+  </skillset>
+</skillsets>

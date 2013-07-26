@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<qualifications class="MEA11">
+  <qualification id="MEA20511" title="Certificate II in Aircraft Line Maintenance">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA117A" title="Apply self in the aviation maintenance environment"/>
+      <unit id="MEA119B" title="Perform administrative processes to prepare for certification of civil aircraft A level line maintenance"/>
+      <unit id="MEA240B" title="Use electrical test equipment to perform basic electrical tests"/>
+      <unit id="MEA264A" title="Remove and install aircraft electrical/avionic components during line maintenance"/>
+      <unit id="MEA265A" title="Remove and install general aircraft electrical hardware"/>
+      <unit id="MEA344A" title="Remove and install aircraft components"/>
+      <unit id="MEA345A" title="Perform scheduled line maintenance activities on gas turbine engine fixed wing aircraft"/>
+      <unit id="MEA346A" title="Perform scheduled line maintenance activities on gas turbine engine rotary wing aircraft"/>
+      <unit id="MEA347A" title="Perform scheduled line maintenance activities on piston engine fixed wing aircraft"/>
+      <unit id="MEA348A" title="Perform scheduled line maintenance activities on piston engine rotary wing aircraft"/>
+      <unit id="MEA418A" title="Perform basic repair of aircraft internal fittings during line maintenance"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA20411" title="Certificate II in Aeroskills">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA117A" title="Apply self in the aviation maintenance environment"/>
+      <unit id="MEA238B" title="Perform routine removal and installation of miscellaneous aircraft electrical hardware/components"/>
+      <unit id="MEA239B" title="Fabricate aircraft electrical looms and harnesses"/>
+      <unit id="MEA240B" title="Use electrical test equipment to perform basic electrical tests"/>
+      <unit id="MEA329B" title="Dismantle, inspect, maintain and assemble aircraft basic hydraulic and pneumatic components or parts"/>
+      <unit id="MEA330B" title="Dismantle, inspect, maintain and assemble aircraft non-primary structural removable components or parts and internal fittings"/>
+      <unit id="MEA331B" title="Dismantle, inspect, maintain and assemble aircraft gas turbine engine components or parts"/>
+      <unit id="MEA332B" title="Dismantle, inspect, maintain and assemble aircraft mechanical components or parts"/>
+      <unit id="MEA333B" title="Dismantle, inspect, maintain and assemble aircraft piston engine components or parts"/>
+      <unit id="MEA406B" title="Repair_modify aircraft non-primary structural sheetmetal components"/>
+      <unit id="MEA407B" title="Repair_modify aircraft non-primary structural non-metallic components"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA20611" title="Certificate II in Aircraft Surface Finishing">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA117A" title="Apply self in the aviation maintenance environment"/>
+      <unit id="MEA330B" title="Dismantle, inspect, maintain and assemble aircraft non-primary structural removable components or parts and internal fittings"/>
+      <unit id="MEA406B" title="Repair_modify aircraft non-primary structural sheetmetal components"/>
+      <unit id="MEA407B" title="Repair_modify aircraft non-primary structural non-metallic components"/>
+      <unit id="MEA411A" title="Remove surface coatings from aircraft or aircraft components"/>
+      <unit id="MEA412A" title="Pre-treat aluminium alloy surfaces"/>
+      <unit id="MEA413A" title="Seal aircraft and aircraft component structural seams"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA30111" title="Certificate III in Aircraft Surface Finishing">
+    <units>
+      <unit id="AURV229749A" title="Prepare spray painting materials and equipment"/>
+      <unit id="AURV329603DA" title="Apply air dry and polyurethane enamel refinishing materials"/>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA411A" title="Remove surface coatings from aircraft or aircraft components"/>
+      <unit id="MEA412A" title="Pre-treat aluminium alloy surfaces"/>
+      <unit id="MEA413A" title="Seal aircraft and aircraft component structural seams"/>
+      <unit id="MEA414A" title="Remove light corrosion from aircraft"/>
+      <unit id="MEA415A" title="Paint aircraft surfaces"/>
+      <unit id="MEA416A" title="Apply aircraft identification markings, graphics and decals"/>
+      <unit id="MEA417A" title="Apply specialty coatings to aircraft"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA30311" title="Certificate III in Aircraft Life Support and Furnishing">
+    <units>
+      <unit id="AURV231208A" title="Carry out trimming of vehicle components"/>
+      <unit id="AURV231268A" title="Select and apply trim/fabric materials and determine attachment methods"/>
+      <unit id="AURV231368A" title="Select and apply trim/fabric adhesives"/>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMFUP3012B" title="Apply marine sewing and installation techniques"/>
+      <unit id="LMTTF2008A" title="Use adhesives"/>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA240B" title="Use electrical test equipment to perform basic electrical tests"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA411A" title="Remove surface coatings from aircraft or aircraft components"/>
+      <unit id="MEA412A" title="Pre-treat aluminium alloy surfaces"/>
+      <unit id="MEA414A" title="Remove light corrosion from aircraft"/>
+      <unit id="MEA416A" title="Apply aircraft identification markings, graphics and decals"/>
+      <unit id="MEA419A" title="Inspect and repair/modify aircraft cabin/cockpit non-primary structure components"/>
+      <unit id="MEA501A" title="Maintain and fit anti-G suits"/>
+      <unit id="MEA502A" title="Maintain and fit helmets"/>
+      <unit id="MEA503A" title="Maintain and fit immersion suits"/>
+      <unit id="MEA504A" title="Maintain and fit oxygen masks"/>
+      <unit id="MEA505A" title="Maintain and pack parachutes"/>
+      <unit id="MEA506A" title="Maintain and pack survival inflatable life rafts and escape slides"/>
+      <unit id="MEA507A" title="Maintain, pack and fit survival inflatable buoyancy vests"/>
+      <unit id="MEA508A" title="Maintain, install and remove restraint systems"/>
+      <unit id="MEA509A" title="Manufacture, repair and alter aircraft related fabric components"/>
+      <unit id="MEA510A" title="Maintain seat and pod electrical and electronic systems"/>
+      <unit id="MEA511A" title="Operate and maintain sewing machines and overlockers"/>
+      <unit id="MEM12001B" title="Use comparison and basic measuring devices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PUADEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="PUADEFEO501D" title="Conduct explosive ordnance inspection"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA30211" title="Certificate III in Aeroskills (Mechatronics)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA202C" title="Remove and install basic aircraft electrical system components"/>
+      <unit id="MEA210C" title="Inspect, test and troubleshoot basic aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA274A" title="Maintain basic light aircraft electrical systems and components"/>
+      <unit id="MEA275A" title="Maintain basic light aircraft instrument systems and components"/>
+      <unit id="MEA276A" title="Maintain basic aircraft communication and radio navigation systems and components"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA308C" title="Remove and install rotary wing rotor and flight control system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+      <unit id="MEA311D" title="Inspect and repair_modify aircraft structures"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+      <unit id="MEA314C" title="Inspect, test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+      <unit id="MEA316C" title="Inspect, test and troubleshoot rotary wing rotor and control systems and components"/>
+      <unit id="MEA351A" title="Maintain airframe systems of basic light fixed wing aircraft"/>
+      <unit id="MEA352A" title="Maintain basic rotary wing aircraft systems"/>
+      <unit id="MEA353A" title="Maintain basic light aircraft engines and propellers"/>
+      <unit id="MEA354A" title="Maintain light aircraft pneumatic systems"/>
+      <unit id="MEA355A" title="Maintain light aircraft air cycle air conditioning systems"/>
+      <unit id="MEA356A" title="Maintain light piston engine aircraft pressurisation systems"/>
+      <unit id="MEA357A" title="Inspect, test and repair aircraft fabric surfaces"/>
+      <unit id="MEA359A" title="Inspect and repair aircraft wooden structures"/>
+      <unit id="MEA360A" title="Maintain aircraft diesel engines"/>
+      <unit id="MEA361A" title="Maintain aircraft two stroke petrol engines"/>
+      <unit id="MEA362A" title="Maintain aircraft vapour cycle air conditioning systems"/>
+      <unit id="MEA363B" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA367A" title="Repair_modify aircraft composite structure using cold bonding"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA41311" title="Certificate IV in Aeroskills (Structures)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA303D" title="Remove and install pneumatic system components"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA308C" title="Remove and install rotary wing rotor and flight control system components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA327B" title="Fabricate and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA367A" title="Repair_modify aircraft composite structure using cold bonding"/>
+      <unit id="MEA401C" title="Inspect aircraft structures"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+      <unit id="MEA420A" title="Fabricate basic structural components for aircraft"/>
+      <unit id="MEA421A" title="Fabricate advanced structural components for aircraft"/>
+      <unit id="MEA422A" title="Repair_modify aircraft metal structure"/>
+      <unit id="MEA423A" title="Aircraft structure major disassembly and reassembly"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA40711" title="Certificate IV in Aeroskills (Mechanical)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA303D" title="Remove and install pneumatic system components"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA308C" title="Remove and install rotary wing rotor and flight control system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+      <unit id="MEA310C" title="Inspect, test and troubleshoot aircraft pneumatic systems and components"/>
+      <unit id="MEA311D" title="Inspect and repair_modify aircraft structures"/>
+      <unit id="MEA312C" title="Inspect, test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+      <unit id="MEA314C" title="Inspect, test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+      <unit id="MEA316C" title="Inspect, test and troubleshoot rotary wing rotor and control systems and components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA318C" title="Inspect aircraft hydro-mechanical, mechanical, gaseous and landing systems and components"/>
+      <unit id="MEA319C" title="Inspect gas turbine engine systems and components"/>
+      <unit id="MEA320C" title="Test and troubleshoot aircraft hydro-mechanical, mechanical, gaseous and landing gear systems and components"/>
+      <unit id="MEA321C" title="Test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA322C" title="Test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA327B" title="Fabricate and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA328C" title="Maintain and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA339C" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA351A" title="Maintain airframe systems of basic light fixed wing aircraft"/>
+      <unit id="MEA352A" title="Maintain basic rotary wing aircraft systems"/>
+      <unit id="MEA353A" title="Maintain basic light aircraft engines and propellers"/>
+      <unit id="MEA354A" title="Maintain light aircraft pneumatic systems"/>
+      <unit id="MEA355A" title="Maintain light aircraft air cycle air conditioning systems"/>
+      <unit id="MEA356A" title="Maintain light piston engine aircraft pressurisation systems"/>
+      <unit id="MEA357A" title="Inspect, test and repair aircraft fabric surfaces"/>
+      <unit id="MEA358A" title="Re-cover aircraft fabric surfaces"/>
+      <unit id="MEA359A" title="Inspect and repair aircraft wooden structures"/>
+      <unit id="MEA360A" title="Maintain aircraft diesel engines"/>
+      <unit id="MEA361A" title="Maintain aircraft two stroke petrol engines"/>
+      <unit id="MEA362A" title="Maintain aircraft vapour cycle air conditioning systems"/>
+      <unit id="MEA363B" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA366A" title="Perform borescope inspections"/>
+      <unit id="MEA368A" title="Shot peen aircraft components"/>
+      <unit id="MEA380A" title="Repair and_or overhaul aircraft hydraulic system components"/>
+      <unit id="MEA381A" title="Repair and_or overhaul aircraft pneumatic system components"/>
+      <unit id="MEA382A" title="Repair and_or overhaul aircraft fuel system components"/>
+      <unit id="MEA383A" title="Repair and/or overhaul gas turbine engine air inlet and compressor components and/or modules"/>
+      <unit id="MEA384A" title="Repair and/or overhaul gas turbine engine combustion section components and/or modules"/>
+      <unit id="MEA385A" title="Repair and/or overhaul gas turbine engine turbine and exhaust section components"/>
+      <unit id="MEA386A" title="Repair and_or overhaul gas turbine engine ancillary section components"/>
+      <unit id="MEA387A" title="Test gas turbine engines and engine modules after overhaul or repair"/>
+      <unit id="MEA388A" title="Repair and_or overhaul piston engines"/>
+      <unit id="MEA389A" title="Repair and_or overhaul propellers"/>
+      <unit id="MEA390A" title="Repair and_or overhaul rotary wing dynamic components"/>
+      <unit id="MEA391A" title="Repair and_or overhaul aircraft mechanical system components"/>
+      <unit id="MEA401C" title="Inspect aircraft structures"/>
+      <unit id="MEA410C" title="Maintain aircraft structure_components"/>
+      <unit id="MEM24002B" title="Perform penetrant testing"/>
+      <unit id="MEM24004B" title="Perform magnetic particle testing"/>
+      <unit id="MEM24012C" title="Apply metallurgy principles"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA41011" title="Certificate IV in Aeroskills (Mechatronics)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA111C" title="Perform administrative processes to prepare for certification of civil aircraft maintenance"/>
+      <unit id="MEA112B" title="Plan and implement civil aircraft maintenance activities"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA202C" title="Remove and install basic aircraft electrical system components"/>
+      <unit id="MEA204C" title="Remove and install basic aircraft instrument system components"/>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA210C" title="Inspect, test and troubleshoot basic aircraft electrical systems and components"/>
+      <unit id="MEA212C" title="Inspect, test and troubleshoot basic aircraft instrument systems and components"/>
+      <unit id="MEA214C" title="Inspect, test and troubleshoot aircraft basic communication and radio navigation systems and components"/>
+      <unit id="MEA216C" title="Inspect, test and troubleshoot instrument landing systems and components"/>
+      <unit id="MEA217C" title="Inspect, test and troubleshoot fixed wing autopilot systems and components"/>
+      <unit id="MEA218C" title="Inspect, test and troubleshoot rotary wing autopilot systems and components"/>
+      <unit id="MEA220C" title="Inspect, test and troubleshoot aircraft primary radar systems and components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA274A" title="Maintain basic light aircraft electrical systems and components"/>
+      <unit id="MEA275A" title="Maintain basic light aircraft instrument systems and components"/>
+      <unit id="MEA276A" title="Maintain basic aircraft communication and radio navigation systems and components"/>
+      <unit id="MEA277A" title="Maintain twin engine aircraft electrical systems and components"/>
+      <unit id="MEA278A" title="Inspect, test and troubleshoot instrument display systems and components"/>
+      <unit id="MEA279A" title="Inspect, test and troubleshoot full authority digital engine control systems"/>
+      <unit id="MEA289A" title="Maintain basic light aircraft avionic systems and components"/>
+      <unit id="MEA290A" title="Fit avionic modification sheetmetal components"/>
+      <unit id="MEA291A" title="Inspect, test and troubleshoot fixed wing single axis autopilot systems and components"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA308C" title="Remove and install rotary wing rotor and flight control system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+      <unit id="MEA314C" title="Inspect, test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+      <unit id="MEA316C" title="Inspect, test and troubleshoot rotary wing rotor and control systems and components"/>
+      <unit id="MEA325B" title="Weigh aircraft and perform aircraft weight and balance calculations as a result of modifications"/>
+      <unit id="MEA351A" title="Maintain airframe systems of basic light fixed wing aircraft"/>
+      <unit id="MEA352A" title="Maintain basic rotary wing aircraft systems"/>
+      <unit id="MEA353A" title="Maintain basic light aircraft engines and propellers"/>
+      <unit id="MEA354A" title="Maintain light aircraft pneumatic systems"/>
+      <unit id="MEA355A" title="Maintain light aircraft air cycle air conditioning systems"/>
+      <unit id="MEA356A" title="Maintain light piston engine aircraft pressurisation systems"/>
+      <unit id="MEA357A" title="Inspect, test and repair aircraft fabric surfaces"/>
+      <unit id="MEA358A" title="Re-cover aircraft fabric surfaces"/>
+      <unit id="MEA359A" title="Inspect and repair aircraft wooden structures"/>
+      <unit id="MEA360A" title="Maintain aircraft diesel engines"/>
+      <unit id="MEA361A" title="Maintain aircraft two stroke petrol engines"/>
+      <unit id="MEA362A" title="Maintain aircraft vapour cycle air conditioning systems"/>
+      <unit id="MEA363B" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+      <unit id="MEA367A" title="Repair_modify aircraft composite structure using cold bonding"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA41211" title="Certificate IV in Aeroskills (Armament)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MEA601A" title="Maintain aircraft egress systems"/>
+      <unit id="MEA602A" title="Remove and install aircraft stores management system components"/>
+      <unit id="MEA603A" title="Remove and install aircraft stores suspension systems and components"/>
+      <unit id="MEA604A" title="Inspect, test and troubleshoot aircraft stores management systems and components"/>
+      <unit id="MEA605A" title="Inspect, test and troubleshoot aircraft stores suspension systems and components"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PUADEFEO101D" title="Work safely with explosive ordnance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA40611" title="Certificate IV in Aeroskills (Avionics)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA202C" title="Remove and install basic aircraft electrical system components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA204C" title="Remove and install basic aircraft instrument system components"/>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA208C" title="Remove and install aircraft pressurisation control system components"/>
+      <unit id="MEA209C" title="Remove and install aircraft oxygen system components"/>
+      <unit id="MEA210C" title="Inspect, test and troubleshoot basic aircraft electrical systems and components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA212C" title="Inspect, test and troubleshoot basic aircraft instrument systems and components"/>
+      <unit id="MEA213C" title="Inspect, test and troubleshoot advanced aircraft instrument systems"/>
+      <unit id="MEA214C" title="Inspect, test and troubleshoot aircraft basic communication and radio navigation systems and components"/>
+      <unit id="MEA215C" title="Inspect, test and troubleshoot advanced aircraft communications systems and components"/>
+      <unit id="MEA216C" title="Inspect, test and troubleshoot instrument landing systems and components"/>
+      <unit id="MEA217C" title="Inspect, test and troubleshoot fixed wing autopilot systems and components"/>
+      <unit id="MEA218C" title="Inspect, test and troubleshoot rotary wing autopilot systems and components"/>
+      <unit id="MEA219C" title="Inspect, test and troubleshoot aircraft pressurisation control systems and components"/>
+      <unit id="MEA220C" title="Inspect, test and troubleshoot aircraft primary radar systems and components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+      <unit id="MEA222C" title="Inspect, test and troubleshoot aircraft oxygen systems and components"/>
+      <unit id="MEA223D" title="Inspect aircraft electrical systems and components"/>
+      <unit id="MEA224C" title="Inspect aircraft instrument systems and components"/>
+      <unit id="MEA225C" title="Inspect fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA226D" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA227D" title="Test and troubleshoot aircraft electrical systems and components"/>
+      <unit id="MEA228D" title="Test and troubleshoot aircraft instrument systems and components"/>
+      <unit id="MEA229D" title="Test and troubleshoot aircraft radio frequency navigation and communications systems and components"/>
+      <unit id="MEA230C" title="Test and troubleshoot fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA231C" title="Inspect, test and troubleshoot rotary wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA232C" title="Test and troubleshoot aircraft pulse systems and components"/>
+      <unit id="MEA233C" title="Inspect, test and troubleshoot aircraft inertial navigation and reference systems and components"/>
+      <unit id="MEA234C" title="Inspect, test and troubleshoot aircraft global navigation systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA252B" title="Test, align and troubleshoot aircraft synchro and servo system components"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA263B" title="Modify_repair aircraft component multi-layer printed circuit boards"/>
+      <unit id="MEA274A" title="Maintain basic light aircraft electrical systems and components"/>
+      <unit id="MEA275A" title="Maintain basic light aircraft instrument systems and components"/>
+      <unit id="MEA276A" title="Maintain basic aircraft communication and radio navigation systems and components"/>
+      <unit id="MEA277A" title="Maintain twin engine aircraft electrical systems and components"/>
+      <unit id="MEA278A" title="Inspect, test and troubleshoot instrument display systems and components"/>
+      <unit id="MEA279A" title="Inspect, test and troubleshoot full authority digital engine control systems"/>
+      <unit id="MEA280A" title="Inspect, test and troubleshoot flight management systems and components"/>
+      <unit id="MEA281A" title="Maintain light aircraft AC powered instrument systems and components"/>
+      <unit id="MEA282A" title="Repair or overhaul aircraft pulse system components"/>
+      <unit id="MEA283A" title="Repair or overhaul aircraft display, control and distribution system components"/>
+      <unit id="MEA284A" title="Repair or overhaul aircraft instrument system components"/>
+      <unit id="MEA285A" title="Repair or overhaul aircraft radio frequency communication and navigation system components"/>
+      <unit id="MEA286A" title="Repair or overhaul aircraft electrical_electro-mechanical components"/>
+      <unit id="MEA287A" title="Repair or overhaul aircraft oxygen system components"/>
+      <unit id="MEA288A" title="Repair or overhaul aircraft audio and visual systems and reproducers"/>
+      <unit id="MEA289A" title="Maintain basic light aircraft avionic systems and components"/>
+      <unit id="MEA290A" title="Fit avionic modification sheetmetal components"/>
+      <unit id="MEA291A" title="Inspect, test and troubleshoot fixed wing single axis autopilot systems and components"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA40911" title="Certificate IV in Aircraft Surface Finishing">
+    <units>
+      <unit id="AURV229749A" title="Prepare spray painting materials and equipment"/>
+      <unit id="AURV329603DA" title="Apply air dry and polyurethane enamel refinishing materials"/>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA240B" title="Use electrical test equipment to perform basic electrical tests"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA401C" title="Inspect aircraft structures"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+      <unit id="MEA411A" title="Remove surface coatings from aircraft or aircraft components"/>
+      <unit id="MEA412A" title="Pre-treat aluminium alloy surfaces"/>
+      <unit id="MEA413A" title="Seal aircraft and aircraft component structural seams"/>
+      <unit id="MEA414A" title="Remove light corrosion from aircraft"/>
+      <unit id="MEA415A" title="Paint aircraft surfaces"/>
+      <unit id="MEA416A" title="Apply aircraft identification markings, graphics and decals"/>
+      <unit id="MEA417A" title="Apply specialty coatings to aircraft"/>
+      <unit id="MEM08012B" title="Prepare surfaces by abrasive blasting (basic)"/>
+      <unit id="MEM08013B" title="Prepare surfaces by abrasive blasting (advanced)"/>
+      <unit id="MEM08016B" title="Control blast coating by-products, materials and emissions"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA41111" title="Certificate IV in Aircraft Life Support and Furnishing">
+    <units>
+      <unit id="AURV231208A" title="Carry out trimming of vehicle components"/>
+      <unit id="AURV231268A" title="Select and apply trim/fabric materials and determine attachment methods"/>
+      <unit id="AURV231368A" title="Select and apply trim/fabric adhesives"/>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMFUP3012B" title="Apply marine sewing and installation techniques"/>
+      <unit id="LMTTF2008A" title="Use adhesives"/>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA114A" title="Certify aeronautical product maintenance"/>
+      <unit id="MEA115A" title="Plan and implement aeronautical product maintenance activities"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA240B" title="Use electrical test equipment to perform basic electrical tests"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA411A" title="Remove surface coatings from aircraft or aircraft components"/>
+      <unit id="MEA412A" title="Pre-treat aluminium alloy surfaces"/>
+      <unit id="MEA414A" title="Remove light corrosion from aircraft"/>
+      <unit id="MEA416A" title="Apply aircraft identification markings, graphics and decals"/>
+      <unit id="MEA419A" title="Inspect and repair/modify aircraft cabin/cockpit non-primary structure components"/>
+      <unit id="MEA501A" title="Maintain and fit anti-G suits"/>
+      <unit id="MEA502A" title="Maintain and fit helmets"/>
+      <unit id="MEA503A" title="Maintain and fit immersion suits"/>
+      <unit id="MEA504A" title="Maintain and fit oxygen masks"/>
+      <unit id="MEA505A" title="Maintain and pack parachutes"/>
+      <unit id="MEA506A" title="Maintain and pack survival inflatable life rafts and escape slides"/>
+      <unit id="MEA507A" title="Maintain, pack and fit survival inflatable buoyancy vests"/>
+      <unit id="MEA508A" title="Maintain, install and remove restraint systems"/>
+      <unit id="MEA509A" title="Manufacture, repair and alter aircraft related fabric components"/>
+      <unit id="MEA510A" title="Maintain seat and pod electrical and electronic systems"/>
+      <unit id="MEA511A" title="Operate and maintain sewing machines and overlockers"/>
+      <unit id="MEM12001B" title="Use comparison and basic measuring devices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="PUADEFEO101D" title="Work safely with explosive ordnance"/>
+      <unit id="PUADEFEO501D" title="Conduct explosive ordnance inspection"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA50511" title="Diploma of Aeroskills (Non-Destructive Testing)">
+    <units>
+      <unit id="MEA112B" title="Plan and implement civil aircraft maintenance activities"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA424A" title="Evaluate aircraft non-destructive tests"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12003B" title="Perform precision mechanical measurement"/>
+      <unit id="MEM12005B" title="Calibrate measuring equipment"/>
+      <unit id="MEM13013B" title="Work safely with ionizing radiation"/>
+      <unit id="MEM15010B" title="Perform laboratory procedures"/>
+      <unit id="MEM15017B" title="Use and maintain reference standards"/>
+      <unit id="MEM16010A" title="Write reports"/>
+      <unit id="MEM17002B" title="Conduct workplace assessment"/>
+      <unit id="MEM24002B" title="Perform penetrant testing"/>
+      <unit id="MEM24004B" title="Perform magnetic particle testing"/>
+      <unit id="MEM24006B" title="Perform eddy current testing"/>
+      <unit id="MEM24008B" title="Perform ultrasonic testing"/>
+      <unit id="MEM24010B" title="Perform radiographic testing"/>
+      <unit id="MEM24012C" title="Apply metallurgy principles"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA50211" title="Diploma of Aeroskills (Mechanical)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA111C" title="Perform administrative processes to prepare for certification of civil aircraft maintenance"/>
+      <unit id="MEA112B" title="Plan and implement civil aircraft maintenance activities"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA208C" title="Remove and install aircraft pressurisation control system components"/>
+      <unit id="MEA209C" title="Remove and install aircraft oxygen system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA219C" title="Inspect, test and troubleshoot aircraft pressurisation control systems and components"/>
+      <unit id="MEA222C" title="Inspect, test and troubleshoot aircraft oxygen systems and components"/>
+      <unit id="MEA223D" title="Inspect aircraft electrical systems and components"/>
+      <unit id="MEA227D" title="Test and troubleshoot aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA303D" title="Remove and install pneumatic system components"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA308C" title="Remove and install rotary wing rotor and flight control system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+      <unit id="MEA310C" title="Inspect, test and troubleshoot aircraft pneumatic systems and components"/>
+      <unit id="MEA312C" title="Inspect, test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+      <unit id="MEA316C" title="Inspect, test and troubleshoot rotary wing rotor and control systems and components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA318C" title="Inspect aircraft hydro-mechanical, mechanical, gaseous and landing systems and components"/>
+      <unit id="MEA319C" title="Inspect gas turbine engine systems and components"/>
+      <unit id="MEA320C" title="Test and troubleshoot aircraft hydro-mechanical, mechanical, gaseous and landing gear systems and components"/>
+      <unit id="MEA321C" title="Test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA322C" title="Test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA323B" title="Perform advanced troubleshooting in aircraft mechanical maintenance"/>
+      <unit id="MEA325B" title="Weigh aircraft and perform aircraft weight and balance calculations as a result of modifications"/>
+      <unit id="MEA328C" title="Maintain and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA339C" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA343B" title="Remove and install avionic system components"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA50311" title="Diploma of Aviation Maintenance Management (Avionics)">
+    <units>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA121B" title="Manage aircraft_aeronautical product configuration"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA136A" title="Assess aviation maintenance spares and manage repairable items"/>
+      <unit id="MEA137A" title="Write aviation technical publications"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA272B" title="Apply basic scientific principles and techniques in avionic engineering situations"/>
+      <unit id="MEA273A" title="Select and test avionic engineering materials"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA50411" title="Diploma of Aviation Maintenance Management (Mechanical)">
+    <units>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA121B" title="Manage aircraft_aeronautical product configuration"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA136A" title="Assess aviation maintenance spares and manage repairable items"/>
+      <unit id="MEA137A" title="Write aviation technical publications"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA349B" title="Apply basic scientific principles and techniques in aeronautical engineering situations"/>
+      <unit id="MEA350A" title="Select and test aeronautical engineering materials"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MEA50111" title="Diploma of Aeroskills (Avionics)">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA111C" title="Perform administrative processes to prepare for certification of civil aircraft maintenance"/>
+      <unit id="MEA112B" title="Plan and implement civil aircraft maintenance activities"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA118A" title="Conduct self in the aviation maintenance environment"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA223D" title="Inspect aircraft electrical systems and components"/>
+      <unit id="MEA224C" title="Inspect aircraft instrument systems and components"/>
+      <unit id="MEA225C" title="Inspect fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA226D" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA227D" title="Test and troubleshoot aircraft electrical systems and components"/>
+      <unit id="MEA228D" title="Test and troubleshoot aircraft instrument systems and components"/>
+      <unit id="MEA229D" title="Test and troubleshoot aircraft radio frequency navigation and communications systems and components"/>
+      <unit id="MEA230C" title="Test and troubleshoot fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA231C" title="Inspect, test and troubleshoot rotary wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA232C" title="Test and troubleshoot aircraft pulse systems and components"/>
+      <unit id="MEA235B" title="Perform advanced troubleshooting in aircraft avionic maintenance"/>
+      <unit id="MEA241C" title="Perform aircraft weight and balance calculations as a result of modifications"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA301C" title="Perform aircraft flight servicing"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA60311" title="Advanced Diploma of Aviation Non-Destructive Testing">
+    <units>
+      <unit id="MEA112B" title="Plan and implement civil aircraft maintenance activities"/>
+      <unit id="MEA113C" title="Supervise civil aircraft maintenance activities and manage human resources in the workplace"/>
+      <unit id="MEA116B" title="Apply occupational health and safety procedures at supervisor level in aviation maintenance"/>
+      <unit id="MEA120B" title="Manage an aviation maintenance quality system"/>
+      <unit id="MEA123B" title="Manage aviation maintenance work environment policy and practices"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA134B" title="Establish, maintain and evaluate the organisation's occupational health and safety system"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA137A" title="Write aviation technical publications"/>
+      <unit id="MEA138B" title="Perform aviation technical publication management activities"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA349B" title="Apply basic scientific principles and techniques in aeronautical engineering situations"/>
+      <unit id="MEA350A" title="Select and test aeronautical engineering materials"/>
+      <unit id="MEA424A" title="Evaluate aircraft non-destructive tests"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM09009C" title="Create 2D drawings using computer aided design system"/>
+      <unit id="MEM12003B" title="Perform precision mechanical measurement"/>
+      <unit id="MEM13013B" title="Work safely with ionizing radiation"/>
+      <unit id="MEM15010B" title="Perform laboratory procedures"/>
+      <unit id="MEM15017B" title="Use and maintain reference standards"/>
+      <unit id="MEM16002C" title="Conduct formal interviews and negotiations"/>
+      <unit id="MEM16010A" title="Write reports"/>
+      <unit id="MEM24002B" title="Perform penetrant testing"/>
+      <unit id="MEM24004B" title="Perform magnetic particle testing"/>
+      <unit id="MEM24006B" title="Perform eddy current testing"/>
+      <unit id="MEM24008B" title="Perform ultrasonic testing"/>
+      <unit id="MEM24010B" title="Perform radiographic testing"/>
+      <unit id="MEM24011B" title="Establish non-destructive tests"/>
+      <unit id="MEM24012C" title="Apply metallurgy principles"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEASS502B" title="Design and develop assessment tools"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA60111" title="Advanced Diploma of Aviation Maintenance Management (Avionics)">
+    <units>
+      <unit id="MEA115A" title="Plan and implement aeronautical product maintenance activities"/>
+      <unit id="MEA120B" title="Manage an aviation maintenance quality system"/>
+      <unit id="MEA121B" title="Manage aircraft_aeronautical product configuration"/>
+      <unit id="MEA122B" title="Manage aircraft_equipment system performance testing"/>
+      <unit id="MEA123B" title="Manage aviation maintenance work environment policy and practices"/>
+      <unit id="MEA124B" title="Coordinate change programs in the aviation maintenance environment"/>
+      <unit id="MEA125B" title="Develop aviation maintenance personnel"/>
+      <unit id="MEA126B" title="Manage aircraft maintenance activities"/>
+      <unit id="MEA127B" title="Provide technical advice in the maintenance and management of aircraft and aeronautical product"/>
+      <unit id="MEA128B" title="Provide engineering advice in the modification, maintenance and management of aircraft systems"/>
+      <unit id="MEA129A" title="Investigate technical aspects of aviation occurrences"/>
+      <unit id="MEA130A" title="Manage deployed_detached aviation maintenance activities"/>
+      <unit id="MEA131B" title="Manage the custody, transfer and disposal of aircraft, aeronautical product and support equipment"/>
+      <unit id="MEA132A" title="Manage budgetary resources in the aviation maintenance environment"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA134B" title="Establish, maintain and evaluate the organisation's occupational health and safety system"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA136A" title="Assess aviation maintenance spares and manage repairable items"/>
+      <unit id="MEA137A" title="Write aviation technical publications"/>
+      <unit id="MEA138B" title="Perform aviation technical publication management activities"/>
+      <unit id="MEA139A" title="Perform aviation maintenance-related integrated logistic support management activities"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA141B" title="Manage risk in aviation maintenance"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA143B" title="Develop and manage maintenance error management programs"/>
+      <unit id="MEA146A" title="Prepare and manage aviation maintenance organisation budgets and financial plans"/>
+      <unit id="MEA272B" title="Apply basic scientific principles and techniques in avionic engineering situations"/>
+      <unit id="MEA273A" title="Select and test avionic engineering materials"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEA60211" title="Advanced Diploma of Aviation Maintenance Management (Mechanical)">
+    <units>
+      <unit id="MEA115A" title="Plan and implement aeronautical product maintenance activities"/>
+      <unit id="MEA120B" title="Manage an aviation maintenance quality system"/>
+      <unit id="MEA121B" title="Manage aircraft_aeronautical product configuration"/>
+      <unit id="MEA122B" title="Manage aircraft_equipment system performance testing"/>
+      <unit id="MEA123B" title="Manage aviation maintenance work environment policy and practices"/>
+      <unit id="MEA124B" title="Coordinate change programs in the aviation maintenance environment"/>
+      <unit id="MEA125B" title="Develop aviation maintenance personnel"/>
+      <unit id="MEA126B" title="Manage aircraft maintenance activities"/>
+      <unit id="MEA127B" title="Provide technical advice in the maintenance and management of aircraft and aeronautical product"/>
+      <unit id="MEA128B" title="Provide engineering advice in the modification, maintenance and management of aircraft systems"/>
+      <unit id="MEA129A" title="Investigate technical aspects of aviation occurrences"/>
+      <unit id="MEA130A" title="Manage deployed_detached aviation maintenance activities"/>
+      <unit id="MEA131B" title="Manage the custody, transfer and disposal of aircraft, aeronautical product and support equipment"/>
+      <unit id="MEA132A" title="Manage budgetary resources in the aviation maintenance environment"/>
+      <unit id="MEA133B" title="Communicate aviation technical and maintenance management knowledge"/>
+      <unit id="MEA134B" title="Establish, maintain and evaluate the organisation's occupational health and safety system"/>
+      <unit id="MEA135A" title="Use computers in aviation maintenance-related integrated logistic support activities"/>
+      <unit id="MEA136A" title="Assess aviation maintenance spares and manage repairable items"/>
+      <unit id="MEA137A" title="Write aviation technical publications"/>
+      <unit id="MEA138B" title="Perform aviation technical publication management activities"/>
+      <unit id="MEA139A" title="Perform aviation maintenance-related integrated logistic support management activities"/>
+      <unit id="MEA140A" title="Supervise aviation maintenance teams and perform maintenance quality inspections"/>
+      <unit id="MEA141B" title="Manage risk in aviation maintenance"/>
+      <unit id="MEA142B" title="Manage self in the aviation maintenance environment"/>
+      <unit id="MEA143B" title="Develop and manage maintenance error management programs"/>
+      <unit id="MEA146A" title="Prepare and manage aviation maintenance organisation budgets and financial plans"/>
+      <unit id="MEA349B" title="Apply basic scientific principles and techniques in aeronautical engineering situations"/>
+      <unit id="MEA350A" title="Select and test aeronautical engineering materials"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

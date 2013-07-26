@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<qualifications class="ICT02">
+  <qualification id="ICT20208" title="Certificate II in Telecommunications">
+    <units/>
+  </qualification>
+  <qualification id="ICT20202" title="Certificate II in Telecommunications">
+    <units>
+      <unit id="ICTTC005C" title="Install cable support systems"/>
+      <unit id="ICTTC006C" title="Place and secure cable"/>
+      <unit id="ICTTC008C" title="Terminate metallic conductor cable"/>
+      <unit id="ICTTC012C" title="Install functional and protective telecommunications earthing system"/>
+      <unit id="ICTTC016C" title="Joint copper cable"/>
+      <unit id="ICTTC017C" title="Alter services to existing cable system"/>
+      <unit id="ICTTC022C" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTTC064C" title="Haul underground cable"/>
+      <unit id="ICTTC065C" title="Splice optic fibre cable"/>
+      <unit id="ICTTC066C" title="Joint and terminate co-axial cable"/>
+      <unit id="ICTTC068C" title="Install telecommunications service to a building"/>
+      <unit id="ICTTC130B" title="Prepare site for support installation"/>
+      <unit id="ICTTC131B" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTTC132B" title="Erect cable supports"/>
+      <unit id="ICTTC133B" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTTC134B" title="Fix aerial cable"/>
+      <unit id="ICTTC135B" title="Joint metallic cable"/>
+      <unit id="ICTTC136B" title="Install, maintain and modify customer premises communications cabling: ACA Restricted Rule"/>
+      <unit id="ICTTC137B" title="Install, maintain and modify customer premises communications cabling: ACA Open Rule"/>
+      <unit id="ICTTC138A" title="Install, maintain and modify customer premises communications cabling: ACA Lift Rule"/>
+      <unit id="ICTTC153A" title="Work safely near power infrastructure"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20102" title="Certificate II in Customer Contact">
+    <units>
+      <unit id="ICAITU133A" title="Send and retrieve information over the Internet using browsers and email"/>
+      <unit id="ICTCC111A" title="Respond to inbound customer contact"/>
+      <unit id="ICTCC112A" title="Conduct outbound contact operations"/>
+      <unit id="ICTCC231A" title="Fulfil customer requests"/>
+      <unit id="ICTCC241A" title="Process sales"/>
+      <unit id="ICTCC251A" title="Receive and action customers fault reports"/>
+      <unit id="ICTCC252A" title="Resolve customer complaints"/>
+      <unit id="ICTCC260A" title="Process low risk credit applications"/>
+      <unit id="ICTCC261A" title="Process basic customer account enquiries"/>
+      <unit id="ICTCC270A" title="Conduct data collection"/>
+      <unit id="ICTCC300A" title="Organise work priorities and development"/>
+      <unit id="ICTCC301A" title="Manage workplace relationships in a contact centre"/>
+      <unit id="ICTCC320A" title="Use multiple information systems"/>
+      <unit id="ICTCC330A" title="Manage customer relationships"/>
+      <unit id="ICTCC331A" title="Deploy customer service field staff"/>
+      <unit id="ICTCC340A" title="Conduct a telemarketing campaign"/>
+      <unit id="ICTCC341A" title="Provide sales solutions to customers"/>
+      <unit id="ICTCC351A" title="Negotiate with customers on major faults"/>
+      <unit id="ICTCC352A" title="Resolve complex customer complaints"/>
+      <unit id="ICTCC360A" title="Process high risk credit applications"/>
+      <unit id="ICTCC361A" title="Process complex accounts, service severance and defaults"/>
+      <unit id="ICTCC410A" title="Lead operations in a contact centre"/>
+      <unit id="ICTCC411A" title="Monitor safety in a contact centre"/>
+      <unit id="ICTCC412A" title="Implement continuous improvement in a contact centre"/>
+      <unit id="ICTCC413A" title="Lead innovation and change in a customer contact centre"/>
+      <unit id="ICTCC420A" title="Administer customer contact telecommunications technology"/>
+      <unit id="ICTCC431A" title="Implement customer service strategies in a contact centre"/>
+      <unit id="ICTCC470A" title="Implement information systems in a contact centre"/>
+      <unit id="ICTCC471A" title="Acquire product or service knowledge"/>
+      <unit id="ICTCC472A" title="Gather, collate and record information"/>
+      <unit id="ICTCC473A" title="Analyse information"/>
+      <unit id="ICTCC480A" title="Provide leadership in a contact centre"/>
+      <unit id="ICTCC481A" title="Lead teams in a contact centre"/>
+      <unit id="ICTCC482A" title="Develop teams and individuals in a contact centre"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20508" title="Certificate II in Telecommunications Digital Reception Technology">
+    <units/>
+  </qualification>
+  <qualification id="ICT20402" title="Certificate II in Telecommunications Access Network">
+    <units>
+      <unit id="ICTTC065C" title="Splice optic fibre cable"/>
+      <unit id="ICTTC066C" title="Joint and terminate co-axial cable"/>
+      <unit id="ICTTC131B" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTTC132B" title="Erect cable supports"/>
+      <unit id="ICTTC134B" title="Fix aerial cable"/>
+      <unit id="ICTTC153A" title="Work safely near power infrastructure"/>
+    </units>
+  </qualification>
+  <qualification id="ICT20408" title="Certificate II in Telecommunications Access Network Cabling">
+    <units/>
+  </qualification>
+  <qualification id="ICT20302" title="Certificate II in Telecommunications Cabling">
+    <units>
+      <unit id="ICTTC005C" title="Install cable support systems"/>
+      <unit id="ICTTC006C" title="Place and secure cable"/>
+      <unit id="ICTTC008C" title="Terminate metallic conductor cable"/>
+      <unit id="ICTTC012C" title="Install functional and protective telecommunications earthing system"/>
+      <unit id="ICTTC016C" title="Joint copper cable"/>
+      <unit id="ICTTC017C" title="Alter services to existing cable system"/>
+      <unit id="ICTTC022C" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTTC136B" title="Install, maintain and modify customer premises communications cabling: ACA Restricted Rule"/>
+      <unit id="ICTTC137B" title="Install, maintain and modify customer premises communications cabling: ACA Open Rule"/>
+      <unit id="ICTTC138A" title="Install, maintain and modify customer premises communications cabling: ACA Lift Rule"/>
+    </units>
+  </qualification>
+  <qualification id="ICT20308" title="Certificate II in Telecommunications Cabling">
+    <units/>
+  </qualification>
+  <qualification id="ICT30408" title="Certificate III in Telecommunications Access and Associated Services">
+    <units/>
+  </qualification>
+  <qualification id="ICT30302" title="Certificate III in Telecommunications Cabling and Customer Premises Equipment">
+    <units>
+      <unit id="ICTTC014C" title="Handover systems and equipment"/>
+      <unit id="ICTTC016C" title="Joint copper cable"/>
+      <unit id="ICTTC053C" title="Train customers"/>
+      <unit id="ICTTC074C" title="Recover customer premises equipment"/>
+      <unit id="ICTTC075C" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTC126C" title="Complete all administrative work associated with CPE activity"/>
+      <unit id="ICTTC153A" title="Work safely near power infrastructure"/>
+    </units>
+  </qualification>
+  <qualification id="ICT30208" title="Certificate III in Telecommunications">
+    <units/>
+  </qualification>
+  <qualification id="ICT30202" title="Certificate III in Telecommunications">
+    <units>
+      <unit id="ICTTC009C" title="Terminate / splice structured cabling and certify installation"/>
+      <unit id="ICTTC010C" title="Place, secure and terminate optical fibre cable"/>
+      <unit id="ICTTC011C" title="Place, secure and terminate co-axial cable"/>
+      <unit id="ICTTC013C" title="Perform an accurate cable system test"/>
+      <unit id="ICTTC014C" title="Handover systems and equipment"/>
+      <unit id="ICTTC015C" title="Locate and identify cable system faults"/>
+      <unit id="ICTTC018C" title="Install underground enclosures and pipe/conduit"/>
+      <unit id="ICTTC019C" title="Install underground cable"/>
+      <unit id="ICTTC020C" title="Construct aerial cable supports"/>
+      <unit id="ICTTC021C" title="Install aerial cable"/>
+      <unit id="ICTTC032C" title="Undertake a civil site survey"/>
+      <unit id="ICTTC049C" title="Install customer premises systems and equipment"/>
+      <unit id="ICTTC052C" title="Cutover new customer premises systems and equipment"/>
+      <unit id="ICTTC053C" title="Train customers"/>
+      <unit id="ICTTC054C" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTC055C" title="Install an antenna/wave guide"/>
+      <unit id="ICTTC056C" title="Install telecommunications network equipment"/>
+      <unit id="ICTTC062C" title="Build a telecommunications tower / mast"/>
+      <unit id="ICTTC065C" title="Splice optic fibre cable"/>
+      <unit id="ICTTC066C" title="Joint and terminate co-axial cable"/>
+      <unit id="ICTTC067C" title="Rearrange and cutover cable"/>
+      <unit id="ICTTC068C" title="Install telecommunications service to a building"/>
+      <unit id="ICTTC069C" title="Install network cable equipment"/>
+      <unit id="ICTTC070C" title="Install mobile telecommunications in motor vehicles"/>
+      <unit id="ICTTC071C" title="Install Pay TV set top unit"/>
+      <unit id="ICTTC074C" title="Recover customer premises equipment"/>
+      <unit id="ICTTC075C" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTC077C" title="Commission an electronic unit"/>
+      <unit id="ICTTC089C" title="Repair and replace telecommunications network hardware"/>
+      <unit id="ICTTC093C" title="Manage spare parts"/>
+      <unit id="ICTTC103C" title="Maintain cable network"/>
+      <unit id="ICTTC104C" title="Maintain an electronic system"/>
+      <unit id="ICTTC105C" title="Locate and rectify mobile communication faults, on a first in basis"/>
+      <unit id="ICTTC106C" title="Locate and rectify Pay TV set top unit faults"/>
+      <unit id="ICTTC126C" title="Complete all administrative work associated with CPE activity"/>
+      <unit id="ICTTC127C" title="Supervise worksite activities"/>
+      <unit id="ICTTC136B" title="Install, maintain and modify customer premises communications cabling: ACA Restricted Rule"/>
+      <unit id="ICTTC137B" title="Install, maintain and modify customer premises communications cabling: ACA Open Rule"/>
+      <unit id="ICTTC138A" title="Install, maintain and modify customer premises communications cabling: ACA Lift Rule"/>
+      <unit id="ICTTC153A" title="Work safely near power infrastructure"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30508" title="Certificate III in Telecommunications Digital Reception Technology">
+    <units/>
+  </qualification>
+  <qualification id="ICT30102" title="Certificate III in Customer Contact">
+    <units>
+      <unit id="ICAITU133A" title="Send and retrieve information over the Internet using browsers and email"/>
+      <unit id="ICTCC111A" title="Respond to inbound customer contact"/>
+      <unit id="ICTCC112A" title="Conduct outbound contact operations"/>
+      <unit id="ICTCC231A" title="Fulfil customer requests"/>
+      <unit id="ICTCC241A" title="Process sales"/>
+      <unit id="ICTCC251A" title="Receive and action customers fault reports"/>
+      <unit id="ICTCC252A" title="Resolve customer complaints"/>
+      <unit id="ICTCC260A" title="Process low risk credit applications"/>
+      <unit id="ICTCC261A" title="Process basic customer account enquiries"/>
+      <unit id="ICTCC270A" title="Conduct data collection"/>
+      <unit id="ICTCC300A" title="Organise work priorities and development"/>
+      <unit id="ICTCC301A" title="Manage workplace relationships in a contact centre"/>
+      <unit id="ICTCC320A" title="Use multiple information systems"/>
+      <unit id="ICTCC330A" title="Manage customer relationships"/>
+      <unit id="ICTCC331A" title="Deploy customer service field staff"/>
+      <unit id="ICTCC340A" title="Conduct a telemarketing campaign"/>
+      <unit id="ICTCC341A" title="Provide sales solutions to customers"/>
+      <unit id="ICTCC351A" title="Negotiate with customers on major faults"/>
+      <unit id="ICTCC352A" title="Resolve complex customer complaints"/>
+      <unit id="ICTCC360A" title="Process high risk credit applications"/>
+      <unit id="ICTCC361A" title="Process complex accounts, service severance and defaults"/>
+      <unit id="ICTCC410A" title="Lead operations in a contact centre"/>
+      <unit id="ICTCC411A" title="Monitor safety in a contact centre"/>
+      <unit id="ICTCC412A" title="Implement continuous improvement in a contact centre"/>
+      <unit id="ICTCC413A" title="Lead innovation and change in a customer contact centre"/>
+      <unit id="ICTCC420A" title="Administer customer contact telecommunications technology"/>
+      <unit id="ICTCC431A" title="Implement customer service strategies in a contact centre"/>
+      <unit id="ICTCC470A" title="Implement information systems in a contact centre"/>
+      <unit id="ICTCC471A" title="Acquire product or service knowledge"/>
+      <unit id="ICTCC472A" title="Gather, collate and record information"/>
+      <unit id="ICTCC473A" title="Analyse information"/>
+      <unit id="ICTCC480A" title="Provide leadership in a contact centre"/>
+      <unit id="ICTCC481A" title="Lead teams in a contact centre"/>
+      <unit id="ICTCC482A" title="Develop teams and individuals in a contact centre"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40302" title="Certificate IV in Telecommunications Computer Systems">
+    <units>
+      <unit id="ICTTC073C" title="Cutover CPE additions, moves and changes"/>
+      <unit id="ICTTC100C" title="Locate and diagnose cable faults"/>
+      <unit id="ICTTC101C" title="Locate and diagnose electronic faults"/>
+      <unit id="ICTTC102C" title="Repair electronic faults"/>
+    </units>
+  </qualification>
+  <qualification id="ICT40708" title="Certificate IV in Telecommunications Radio Communications">
+    <units/>
+  </qualification>
+  <qualification id="ICT40102" title="Certificate IV in Customer Contact">
+    <units>
+      <unit id="ICAITU133A" title="Send and retrieve information over the Internet using browsers and email"/>
+      <unit id="ICTCC111A" title="Respond to inbound customer contact"/>
+      <unit id="ICTCC112A" title="Conduct outbound contact operations"/>
+      <unit id="ICTCC300A" title="Organise work priorities and development"/>
+      <unit id="ICTCC301A" title="Manage workplace relationships in a contact centre"/>
+      <unit id="ICTCC320A" title="Use multiple information systems"/>
+      <unit id="ICTCC330A" title="Manage customer relationships"/>
+      <unit id="ICTCC331A" title="Deploy customer service field staff"/>
+      <unit id="ICTCC340A" title="Conduct a telemarketing campaign"/>
+      <unit id="ICTCC341A" title="Provide sales solutions to customers"/>
+      <unit id="ICTCC351A" title="Negotiate with customers on major faults"/>
+      <unit id="ICTCC352A" title="Resolve complex customer complaints"/>
+      <unit id="ICTCC360A" title="Process high risk credit applications"/>
+      <unit id="ICTCC361A" title="Process complex accounts, service severance and defaults"/>
+      <unit id="ICTCC410A" title="Lead operations in a contact centre"/>
+      <unit id="ICTCC411A" title="Monitor safety in a contact centre"/>
+      <unit id="ICTCC412A" title="Implement continuous improvement in a contact centre"/>
+      <unit id="ICTCC413A" title="Lead innovation and change in a customer contact centre"/>
+      <unit id="ICTCC420A" title="Administer customer contact telecommunications technology"/>
+      <unit id="ICTCC431A" title="Implement customer service strategies in a contact centre"/>
+      <unit id="ICTCC470A" title="Implement information systems in a contact centre"/>
+      <unit id="ICTCC471A" title="Acquire product or service knowledge"/>
+      <unit id="ICTCC472A" title="Gather, collate and record information"/>
+      <unit id="ICTCC473A" title="Analyse information"/>
+      <unit id="ICTCC480A" title="Provide leadership in a contact centre"/>
+      <unit id="ICTCC481A" title="Lead teams in a contact centre"/>
+      <unit id="ICTCC482A" title="Develop teams and individuals in a contact centre"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40608" title="Certificate IV in Telecommunications Computer Telephony Integration">
+    <units/>
+  </qualification>
+  <qualification id="ICT40408" title="Certificate IV in Telecommunications Network Planning">
+    <units/>
+  </qualification>
+  <qualification id="ICT40508" title="Certificate IV in Telecommunications Networks">
+    <units/>
+  </qualification>
+  <qualification id="ICT40402" title="Certificate IV in Telecommunications Network Planning">
+    <units>
+      <unit id="BSBFLM303A" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM403A" title="Manage effective workplace relationships"/>
+    </units>
+  </qualification>
+  <qualification id="ICT40202" title="Certificate IV in Telecommunications Engineering">
+    <units>
+      <unit id="ICTTC001C" title="Identify requirements for customers telecommunications equipment"/>
+      <unit id="ICTTC002C" title="Prepare design drawings and specification for cable installation"/>
+      <unit id="ICTTC003C" title="Estimate and quote for customer equipment installation"/>
+      <unit id="ICTTC004C" title="Schedule and supply cabling installation"/>
+      <unit id="ICTTC023C" title="Supervise cabling project"/>
+      <unit id="ICTTC028C" title="Organise resources"/>
+      <unit id="ICTTC032C" title="Undertake a civil site survey"/>
+      <unit id="ICTTC035C" title="Organise material supply"/>
+      <unit id="ICTTC040C" title="Assign a transmission path"/>
+      <unit id="ICTTC041C" title="Schedule resources"/>
+      <unit id="ICTTC048C" title="Schedule customer premises equipment installation"/>
+      <unit id="ICTTC050C" title="Install radio controlled customer premises equipment"/>
+      <unit id="ICTTC051C" title="Install PC based customer premises equipment system programs"/>
+      <unit id="ICTTC055C" title="Install an antenna/wave guide"/>
+      <unit id="ICTTC057C" title="Test cable bearers"/>
+      <unit id="ICTTC072C" title="Effect changes to existing CPE systems and equipment"/>
+      <unit id="ICTTC073C" title="Cutover CPE additions, moves and changes"/>
+      <unit id="ICTTC076C" title="Complete equipment/software upgrades"/>
+      <unit id="ICTTC078C" title="Commission an electronic system"/>
+      <unit id="ICTTC079C" title="Schedule CPE maintenance"/>
+      <unit id="ICTTC080C" title="Undertake preventative maintenance of CPE systems and equipment"/>
+      <unit id="ICTTC081C" title="Perform tests and fault diagnosis remote from customer premises"/>
+      <unit id="ICTTC082C" title="Locate and rectify CPE faults on site, on a first in basis"/>
+      <unit id="ICTTC085C" title="Monitor, analyse and action telecommunications network alarms"/>
+      <unit id="ICTTC086C" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTC087C" title="Undertake remote repair of network faults"/>
+      <unit id="ICTTC088C" title="Locate and rectify network faults on a first in basis"/>
+      <unit id="ICTTC092C" title="Undertake outage management"/>
+      <unit id="ICTTC095C" title="Conduct radio frequency measurements"/>
+      <unit id="ICTTC096C" title="Conduct field tests of radio/wireless networks"/>
+      <unit id="ICTTC099C" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTTC100C" title="Locate and diagnose cable faults"/>
+      <unit id="ICTTC101C" title="Locate and diagnose electronic faults"/>
+      <unit id="ICTTC102C" title="Repair electronic faults"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40208" title="Certificate IV in Telecommunications Engineering">
+    <units/>
+  </qualification>
+  <qualification id="ICT50102" title="Diploma of Customer Contact Leadership">
+    <units>
+      <unit id="ICTCC410A" title="Lead operations in a contact centre"/>
+      <unit id="ICTCC411A" title="Monitor safety in a contact centre"/>
+      <unit id="ICTCC412A" title="Implement continuous improvement in a contact centre"/>
+      <unit id="ICTCC413A" title="Lead innovation and change in a customer contact centre"/>
+      <unit id="ICTCC420A" title="Administer customer contact telecommunications technology"/>
+      <unit id="ICTCC431A" title="Implement customer service strategies in a contact centre"/>
+      <unit id="ICTCC470A" title="Implement information systems in a contact centre"/>
+      <unit id="ICTCC471A" title="Acquire product or service knowledge"/>
+      <unit id="ICTCC472A" title="Gather, collate and record information"/>
+      <unit id="ICTCC473A" title="Analyse information"/>
+      <unit id="ICTCC480A" title="Provide leadership in a contact centre"/>
+      <unit id="ICTCC481A" title="Lead teams in a contact centre"/>
+      <unit id="ICTCC482A" title="Develop teams and individuals in a contact centre"/>
+      <unit id="ICTCC610A" title="Optimise customer contact operations"/>
+      <unit id="ICTCC611A" title="Manage customer contact information systems"/>
+      <unit id="ICTCC620A" title="Configure and optimise customer contact technology"/>
+      <unit id="ICTCC640A" title="Develop and maintain a customer contact marketing strategy"/>
+      <unit id="ICTCC670A" title="Forecast and plan using call traffic information analysis"/>
+      <unit id="ICTCC680A" title="Manage customer contact centre staffing"/>
+      <unit id="ICTCC681A" title="Manage customer contact operational costs"/>
+      <unit id="ICTCC682A" title="Develop a contact centre business plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50402" title="Diploma of Telecommunications Photonics">
+    <units/>
+  </qualification>
+  <qualification id="ICT50202" title="Diploma of Telecommunications Engineering">
+    <units>
+      <unit id="ICAITB069B" title="Develop software"/>
+      <unit id="ICTTC024C" title="Provide high level consultancy and  technical support in the CPE sector"/>
+      <unit id="ICTTC025C" title="Develop and deliver training associated with new and/or modified products"/>
+      <unit id="ICTTC026C" title="Develop and deliver technical information to all company staff"/>
+      <unit id="ICTTC027C" title="Develop CPE installation project plans"/>
+      <unit id="ICTTC031C" title="Prepare a project brief"/>
+      <unit id="ICTTC037C" title="Design a telecommunications project"/>
+      <unit id="ICTTC038C" title="Design an electronic network"/>
+      <unit id="ICTTC039C" title="Prepare project specifications"/>
+      <unit id="ICTTC058C" title="Acceptance test new systems and equipment"/>
+      <unit id="ICTTC059C" title="Commission telecommunications network equipment"/>
+      <unit id="ICTTC060C" title="Integrate new systems and equipment into the telecommunications network"/>
+      <unit id="ICTTC061C" title="Cutover new and/or replacement network equipment"/>
+      <unit id="ICTTC076C" title="Complete equipment/software upgrades"/>
+      <unit id="ICTTC083C" title="Locate and rectify complex CPE system and equipment faults"/>
+      <unit id="ICTTC084C" title="Provide expert advice and support on very complex CPE faults"/>
+      <unit id="ICTTC090C" title="Analyse and organise repair of complex telecommunications network faults"/>
+      <unit id="ICTTC092C" title="Undertake outage management"/>
+      <unit id="ICTTC097C" title="Conduct tests on handset enhancements and international roaming agreements"/>
+      <unit id="ICTTC142A" title="Use photonics devices"/>
+      <unit id="ICTTC143A" title="Integrate specialised photonics devices into telecommunications systems"/>
+      <unit id="ICTTC144A" title="Use a virtual instrument"/>
+      <unit id="ICTTC145A" title="Perform photonics device laboratory techniques"/>
+      <unit id="ICTTC146A" title="Test and manipulate WDM devices and systems"/>
+      <unit id="ICTTC147A" title="Administer a data communications network (LAN or WAN)"/>
+      <unit id="ICTTC148A" title="Test and measure mobile phone equipment performance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50508" title="Diploma of Telecommunications Networks">
+    <units/>
+  </qualification>
+  <qualification id="ICT50302" title="Diploma of Telecommunications Computer Systems">
+    <units/>
+  </qualification>
+  <qualification id="ICT60202" title="Advanced Diploma of Telecommunications Engineering">
+    <units>
+      <unit id="ICAITAD045B" title="Produce network/communication design"/>
+      <unit id="ICAITB070B" title="Create code for applications"/>
+      <unit id="ICTTC029C" title="Plan the development and growth of the telecommunications network"/>
+      <unit id="ICTTC030C" title="Forecast service demand"/>
+      <unit id="ICTTC031C" title="Prepare a project brief"/>
+      <unit id="ICTTC033C" title="Develop project management plan"/>
+      <unit id="ICTTC034C" title="Prepare a detailed design brief"/>
+      <unit id="ICTTC036C" title="Undertake qualification testing of new or enhanced equipment and systems"/>
+      <unit id="ICTTC042C" title="Undertake system administration"/>
+      <unit id="ICTTC043C" title="Undertake network traffic management"/>
+      <unit id="ICTTC044C" title="Co-ordinate fault rectification and restoration of service following network outages"/>
+      <unit id="ICTTC045C" title="Ensure that network changes are implemented as planned with minimal impact to the customer"/>
+      <unit id="ICTTC046C" title="Undertake network performance analysis"/>
+      <unit id="ICTTC047C" title="Undertake management of the Common Channel Signalling (CCS) network"/>
+      <unit id="ICTTC091C" title="Analyse and organise repair of the most complex telecommunications network faults"/>
+      <unit id="ICTTC094C" title="Verify new software/hardware releases"/>
+      <unit id="ICTTC098C" title="Monitor the capacity of and recommend changes to the mobile network"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICT60408" title="Advanced Diploma of Telecommunications Networks">
+    <units/>
+  </qualification>
+  <qualification id="ICT60302" title="Advanced Diploma of Telecommunications Computer Systems">
+    <units>
+      <unit id="ICAITAD045B" title="Produce network/communication design"/>
+      <unit id="ICAITB070B" title="Create code for applications"/>
+      <unit id="ICTTC036C" title="Undertake qualification testing of new or enhanced equipment and systems"/>
+      <unit id="ICTTC042C" title="Undertake system administration"/>
+      <unit id="ICTTC043C" title="Undertake network traffic management"/>
+      <unit id="ICTTC046C" title="Undertake network performance analysis"/>
+    </units>
+  </qualification>
+  <qualification id="ICT60102" title="Advanced Diploma of Customer Contact Management">
+    <units>
+      <unit id="ICTCC610A" title="Optimise customer contact operations"/>
+      <unit id="ICTCC611A" title="Manage customer contact information systems"/>
+      <unit id="ICTCC620A" title="Configure and optimise customer contact technology"/>
+      <unit id="ICTCC621A" title="Design and launch new customer contact facilities"/>
+      <unit id="ICTCC630A" title="Develop and maintain a service level strategy"/>
+      <unit id="ICTCC640A" title="Develop and maintain a customer contact marketing strategy"/>
+      <unit id="ICTCC641A" title="Campaign design and fulfilment"/>
+      <unit id="ICTCC670A" title="Forecast and plan using call traffic information analysis"/>
+      <unit id="ICTCC680A" title="Manage customer contact centre staffing"/>
+      <unit id="ICTCC681A" title="Manage customer contact operational costs"/>
+      <unit id="ICTCC682A" title="Develop a contact centre business plan"/>
+      <unit id="ICTCC683A" title="Strategic integration of customer contact operations"/>
+      <unit id="ICTCC684A" title="Conduct a contact centre audit"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<skillsets class="CUV11">
+  <skillset id="CUVSS00002" title="Preparatory Skill Set for Professional Graphic Design Practice">
+    <units>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="CUVGRD302A" title="Use typography techniques"/>
+      <unit id="CUVGRD401A" title="Research and apply graphic design techniques"/>
+    </units>
+  </skillset>
+  <skillset id="CUVSS00003" title="Preparatory Skill Set for Professional Photo Imaging Practice">
+    <units>
+      <unit id="CUVPHI301A" title="Develop and apply photo imaging industry knowledge"/>
+      <unit id="CUVPHI303A" title="Process photo images to work-print and file stage"/>
+      <unit id="CUVPHI401A" title="Capture images in response to a brief"/>
+      <unit id="CUVPHI402A" title="Research and apply information on the traditions that inform photo imaging practice"/>
+      <unit id="CUVPHI403A" title="Apply photo imaging lighting techniques"/>
+      <unit id="CUVPHI404A" title="Enhance, manipulate and output photo images"/>
+    </units>
+  </skillset>
+  <skillset id="CUVSS00004" title="Technical-Scientific Field-Based Photo Imaging Skill Set">
+    <units>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUVPHI302A" title="Capture photographic images"/>
+      <unit id="CUVPHI303A" title="Process photo images to work-print and file stage"/>
+      <unit id="CUVPHI401A" title="Capture images in response to a brief"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+    </units>
+  </skillset>
+</skillsets>

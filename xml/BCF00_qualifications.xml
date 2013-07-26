@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<qualifications class="BCF00">
+  <qualification id="BCF10100" title="Certificate I in Construction (Off-Site)">
+    <units/>
+  </qualification>
+  <qualification id="BCF20100" title="Certificate II in Off-Site Construction">
+    <units/>
+  </qualification>
+  <qualification id="BCF30800" title="Certificate III in Off-Site Construction (Sign Manufacture)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30400" title="Certificate III in Off-Site Construction (Pre-Fabrication)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30200" title="Certificate III in Off-Site Construction (Joinery-Timber/Aluminium/Glass)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30900" title="Certificate III in Off-Site Construction (Neon Manufacture)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30600" title="Certificate III in Stonemasonry (Monumental/Installation)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30300" title="Certificate III in Off-Site Construction (Stairs)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30700" title="Certificate III in Off-Site Construction (Sign Writing/Computer Operations)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30100" title="Certificate III in Off-Site Construction (Shopfitting)">
+    <units/>
+  </qualification>
+  <qualification id="BCF30500" title="Certificate III in Off-Site Construction (Machining)">
+    <units/>
+  </qualification>
+</qualifications>

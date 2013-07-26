@@ -1,0 +1,1903 @@
+<?xml version="1.0"?>
+<qualifications class="PSP12">
+  <qualification id="PSP20112" title="Certificate II in Government">
+    <units>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="PSPGOV201B" title="Work in a public sector environment"/>
+      <unit id="PSPGOV202B" title="Use routine workplace communication techniques"/>
+      <unit id="PSPGOV203B" title="Deliver a service to clients"/>
+      <unit id="PSPGOV204B" title="Access and use resources"/>
+      <unit id="PSPGOV205B" title="Participate in workplace change"/>
+      <unit id="PSPGOV206B" title="Handle workplace information"/>
+      <unit id="PSPGOV207B" title="Use technology in the workplace"/>
+      <unit id="PSPGOV208A" title="Write routine workplace materials"/>
+      <unit id="PSPOHS201B" title="Follow workplace safety procedures"/>
+      <unit id="PSPREG201A" title="Carry out inspections and monitoring under guidance"/>
+      <unit id="PSPSCI201A" title="Contribute to the provision of scientific technical support"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP30512" title="Certificate III in Government (Security)">
+    <units>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV302B" title="Contribute to workgroup activities"/>
+      <unit id="PSPGOV303B" title="Build and maintain internal networks"/>
+      <unit id="PSPGOV305B" title="Access and use resources and financial systems"/>
+      <unit id="PSPGOV306B" title="Implement change"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV309A" title="Address client needs"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPGOV313A" title="Compose workplace documents"/>
+      <unit id="PSPGOV315A" title="Give and receive workplace feedback"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPSEC301A" title="Secure government assets"/>
+      <unit id="PSPSEC302A" title="Respond to government security incidents"/>
+      <unit id="PSPSEC303A" title="Conduct security awareness sessions"/>
+      <unit id="PSPSEC304A" title="Undertake information technology security audits"/>
+      <unit id="PSPSEC401A" title="Undertake government security risk analysis"/>
+      <unit id="PSPSEC405A" title="Handle security classified information"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP30112" title="Certificate III in Government">
+    <units>
+      <unit id="BSBADM301B" title="Produce texts from shorthand notes"/>
+      <unit id="BSBADM303B" title="Produce texts from audio transcription"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBLED301A" title="Undertake e-learning"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBRKG302B" title="Undertake disposal"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="CHCCD307D" title="Support community resources"/>
+      <unit id="PSPCRT301B" title="Audio record court proceedings"/>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV302B" title="Contribute to workgroup activities"/>
+      <unit id="PSPGOV303B" title="Build and maintain internal networks"/>
+      <unit id="PSPGOV305B" title="Access and use resources and financial systems"/>
+      <unit id="PSPGOV306B" title="Implement change"/>
+      <unit id="PSPGOV307B" title="Organise workplace information"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV309A" title="Address client needs"/>
+      <unit id="PSPGOV310A" title="Work in and with small, regional and remote organisations"/>
+      <unit id="PSPGOV311A" title="Work with a coach or mentor"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPGOV313A" title="Compose workplace documents"/>
+      <unit id="PSPGOV314A" title="Contribute to conflict management"/>
+      <unit id="PSPGOV315A" title="Give and receive workplace feedback"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+      <unit id="PSPSCI301A" title="Assist with scientific technical support"/>
+      <unit id="PSPSCI302A" title="Support innovation and change through extension"/>
+      <unit id="PSPSCI303A" title="Undertake scientific_technological research"/>
+      <unit id="PUAWER001B" title="Identify, prevent and report potential workplace emergency situations"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="PUAWER008B" title="Confine small workplace emergencies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP30312" title="Certificate III in Government (Court Compliance)">
+    <units>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS205A" title="Contain incidents that jeopardise safety and security"/>
+      <unit id="CSCSAS303A" title="Conduct searches"/>
+      <unit id="CSCTRA201A" title="Maintain security during escort"/>
+      <unit id="PSPCRT401C" title="Carry out court orderly functions"/>
+      <unit id="PSPCRT402C" title="Manage witnesses"/>
+      <unit id="PSPCRT406C" title="Compile and use official notes"/>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV302B" title="Contribute to workgroup activities"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP30712" title="Certificate III in School Support Services">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+    </units>
+  </qualification>
+  <qualification id="PSP30212" title="Certificate III in Government (Border Protection)">
+    <units>
+      <unit id="PSPBORD301A" title="Conduct patrols"/>
+      <unit id="PSPBORD302A" title="Use border protection technology equipment"/>
+      <unit id="PSPBORD303A" title="Deploy detector dog"/>
+      <unit id="PSPBORD304A" title="Maintain detector dog proficiency"/>
+      <unit id="PSPBORD305A" title="Calculate taxes, fees and charges"/>
+      <unit id="PSPBORD401A" title="Create and maintain profiles"/>
+      <unit id="PSPBORD408A" title="Examine and test firearms"/>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV302B" title="Contribute to workgroup activities"/>
+      <unit id="PSPGOV305B" title="Access and use resources and financial systems"/>
+      <unit id="PSPGOV307B" title="Organise workplace information"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV310A" title="Work in and with small, regional and remote organisations"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPGOV313A" title="Compose workplace documents"/>
+      <unit id="PSPGOV314A" title="Contribute to conflict management"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPREG301A" title="Undertake routine inspections and monitoring"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG408C" title="Conduct search and seizure"/>
+      <unit id="PSPREG421A" title="Take custody of and store weapons"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP30412" title="Certificate III in Government (Land Administration)">
+    <units>
+      <unit id="AHCWRK311A" title="Conduct site inspections"/>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPLAND301A" title="Collect land revenue"/>
+      <unit id="PSPLAND302A" title="Investigate tenure and land use history"/>
+      <unit id="PSPLAND303A" title="Administer public land tenures"/>
+      <unit id="PSPLAND304A" title="Provide administrative support for public reserves"/>
+      <unit id="PSPLAND305A" title="Provide administrative support for reserve management bodies"/>
+      <unit id="PSPLAND306A" title="Dispose of public land"/>
+      <unit id="PSPLAND307A" title="Assist in processing Aboriginal land claims_applications"/>
+      <unit id="PSPLAND308A" title="Compile and check survey plans"/>
+      <unit id="PSPLAND309A" title="Administer roads"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP30612" title="Certificate III in Government (School Support Services)">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+    </units>
+  </qualification>
+  <qualification id="PSP41912" title="Certificate IV in Government (School Support Services)">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRKG403B" title="Set up a business or records system for a small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CULINM401A" title="Complete a range of cataloguing activities"/>
+      <unit id="CULINS202A" title="Process information resource orders"/>
+      <unit id="CULINS401A" title="Assist customers to access information"/>
+      <unit id="CULINS402A" title="Obtain information from external and networked sources"/>
+      <unit id="FNSICGEN501B" title="Produce research reports and make presentations"/>
+      <unit id="ICADBS402A" title="Complete database backup and restore"/>
+      <unit id="ICADBS404A" title="Identify and resolve common database performance problems"/>
+      <unit id="ICADBS409A" title="Monitor and administer a database"/>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAICT304A" title="Implement system software changes"/>
+      <unit id="ICASAS301A" title="Run standard diagnostic tests"/>
+      <unit id="ICASAS304A" title="Provide basic system administration"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICASAS416A" title="Implement maintenance procedures"/>
+      <unit id="ICASAS420A" title="Provide first-level remote help-desk support"/>
+      <unit id="ICAWEB404A" title="Maintain website performance"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL934003A" title="Maintain and control stocks"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPGOV405B" title="Provide input to change processes"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV410A" title="Undertake career planning"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPGOV415A" title="Provide workplace coaching"/>
+      <unit id="PSPGOV416A" title="Monitor performance and provide feedback"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPGOV419A" title="Work with interpreters"/>
+      <unit id="PSPGOV420A" title="Use translation services"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPHR402A" title="Administer human resource processes"/>
+      <unit id="PSPHR403A" title="Provide a consultancy service for human resource management"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP42012" title="Certificate IV in School Support Services">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRKG403B" title="Set up a business or records system for a small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCADMIN305D" title="Work within the administration protocols of the organisation"/>
+      <unit id="CHCLEG411A" title="Use relevant legislation in response to client needs"/>
+      <unit id="CULINM401A" title="Complete a range of cataloguing activities"/>
+      <unit id="CULINS202A" title="Process information resource orders"/>
+      <unit id="CULINS401A" title="Assist customers to access information"/>
+      <unit id="CULINS402A" title="Obtain information from external and networked sources"/>
+      <unit id="FNSICGEN501B" title="Produce research reports and make presentations"/>
+      <unit id="ICADBS402A" title="Complete database backup and restore"/>
+      <unit id="ICADBS404A" title="Identify and resolve common database performance problems"/>
+      <unit id="ICADBS409A" title="Monitor and administer a database"/>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAICT304A" title="Implement system software changes"/>
+      <unit id="ICAICT306A" title="Migrate to new technology"/>
+      <unit id="ICASAS304A" title="Provide basic system administration"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICASAS416A" title="Implement maintenance procedures"/>
+      <unit id="ICASAS420A" title="Provide first-level remote help-desk support"/>
+      <unit id="ICAWEB404A" title="Maintain website performance"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL934003A" title="Maintain and control stocks"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPGOV405B" title="Provide input to change processes"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV410A" title="Undertake career planning"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPGOV415A" title="Provide workplace coaching"/>
+      <unit id="PSPGOV416A" title="Monitor performance and provide feedback"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPGOV419A" title="Work with interpreters"/>
+      <unit id="PSPGOV420A" title="Use translation services"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPHR402A" title="Administer human resource processes"/>
+      <unit id="PSPHR403A" title="Provide a consultancy service for human resource management"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP40612" title="Certificate IV in Government (Fraud Control)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFRAU401B" title="Monitor data for indicators of fraud"/>
+      <unit id="PSPFRAU407B" title="Conduct fraud control awareness sessions"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG416A" title="Conduct data analysis"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP40112" title="Certificate IV in Government">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEMS403B" title="Develop and provide employment management services to candidates"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBPMG402A" title="Apply time management techniques"/>
+      <unit id="BSBPMG405A" title="Apply human resources management approaches"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRKG401B" title="Review the status of a record"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK410A" title="Implement industrial relations procedures"/>
+      <unit id="CHCCD401E" title="Support community participation"/>
+      <unit id="CHCCD402B" title="Develop and provide community education projects"/>
+      <unit id="CHCCD413E" title="Work within specific communities"/>
+      <unit id="CHCMED413B" title="Manage communication processes to define the dispute"/>
+      <unit id="CHCMED414A" title="Facilitate mediation processes"/>
+      <unit id="CHCMED415A" title="Facilitate interaction between parties in mediation"/>
+      <unit id="CHCMED416C" title="Consolidate and conclude the mediation process"/>
+      <unit id="CHCMED417B" title="Reflect and improve upon professional mediation practice"/>
+      <unit id="CHCMED419C" title="Facilitate alternative dispute resolution processes"/>
+      <unit id="CHCORG525D" title="Recruit and coordinate volunteers"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPGOV405B" title="Provide input to change processes"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV407B" title="Provide a quotation"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV409A" title="Provide support to Parliament"/>
+      <unit id="PSPGOV410A" title="Undertake career planning"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPGOV415A" title="Provide workplace coaching"/>
+      <unit id="PSPGOV416A" title="Monitor performance and provide feedback"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPGOV419A" title="Work with interpreters"/>
+      <unit id="PSPGOV420A" title="Use translation services"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPGSD401A" title="Identify and select government service delivery options"/>
+      <unit id="PSPGSD402A" title="Administer government service delivery requirements"/>
+      <unit id="PSPGSD403A" title="Conduct government service delivery interviews"/>
+      <unit id="PSPGSD404A" title="Administer delivery of financial and other benefits"/>
+      <unit id="PSPGSD405A" title="Introduce the government service delivery model"/>
+      <unit id="PSPGSD406A" title="Facilitate participation in government service delivery"/>
+      <unit id="PSPGSD407A" title="Assist self-management of government service offers"/>
+      <unit id="PSPGSD408A" title="Assist government service recipients with complex needs"/>
+      <unit id="PSPGSD409A" title="Deal with incorrect payments and debts"/>
+      <unit id="PSPHR402A" title="Administer human resource processes"/>
+      <unit id="PSPHR403A" title="Provide a consultancy service for human resource management"/>
+      <unit id="PSPIM301A" title="Process claims"/>
+      <unit id="PSPIM401A" title="Conduct initial claim assessments"/>
+      <unit id="PSPIM402A" title="Undertake initial rehabilitation assessments"/>
+      <unit id="PSPIM403A" title="Make claim determinations"/>
+      <unit id="PSPIM404A" title="Conduct situational workplace assessments"/>
+      <unit id="PSPIM405A" title="Develop return to work plans"/>
+      <unit id="PSPIM406A" title="Implement and monitor return to work plans"/>
+      <unit id="PSPIM407A" title="Promote and educate about injury management"/>
+      <unit id="PSPIM408A" title="Monitor and review injury management cases"/>
+      <unit id="PSPIM409A" title="Maintain injury management case files"/>
+      <unit id="PSPLAND401A" title="Assess Crown land"/>
+      <unit id="PSPLAND402A" title="Undertake native title assessments"/>
+      <unit id="PSPLAND403A" title="Prepare and lodge non-claimant native title applications"/>
+      <unit id="PSPLAND404A" title="Investigate tenure applications"/>
+      <unit id="PSPLAND405A" title="Administer public reserves"/>
+      <unit id="PSPLAND406A" title="Monitor reserves management"/>
+      <unit id="PSPLAND407A" title="Coordinate land board sittings"/>
+      <unit id="PSPLAND408A" title="Investigate Aboriginal land claims_applications"/>
+      <unit id="PSPLAND409A" title="Handle compensation claims"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL402A" title="Assist with specialist policy development"/>
+      <unit id="PSPPOL403A" title="Give and receive policy information"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPOL405A" title="Implement e-correspondence policies"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PSPSCI401A" title="Provide scientific technical support"/>
+      <unit id="PSPSCI402A" title="Promote innovation and change through extension"/>
+      <unit id="PSPSCI403A" title="Organise and undertake scientific_technological research"/>
+      <unit id="PUAWER005B" title="Operate as part of an emergency control organisation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP41712" title="Certificate IV in Government (Personnel Security)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG416A" title="Conduct data analysis"/>
+      <unit id="PSPSEC401A" title="Undertake government security risk analysis"/>
+      <unit id="PSPSEC402A" title="Implement security risk treatments"/>
+      <unit id="PSPSEC404A" title="Conduct personnel security assessments"/>
+      <unit id="PSPSEC405A" title="Handle security classified information"/>
+      <unit id="PSPSEC406A" title="Provide government security briefings"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP41212" title="Certificate IV in Government (Project Management)">
+    <units>
+      <unit id="BSBPMG401A" title="Apply project scope management techniques"/>
+      <unit id="BSBPMG402A" title="Apply time management techniques"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG405A" title="Apply human resources management approaches"/>
+      <unit id="BSBPMG406A" title="Apply communications management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP42212" title="Certificate IV in Government (Workplace Relations)">
+    <units>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO401A" title="Administer customer contact telecommunications technology"/>
+      <unit id="BSBCMM301A" title="Process customer complaints"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBIND101A" title="Work effectively in a contact centre environment"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBRES402A" title="Research, locate and provide legal and other information in response to requests"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV405B" title="Provide input to change processes"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV410A" title="Undertake career planning"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPGOV416A" title="Monitor performance and provide feedback"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPOL405A" title="Implement e-correspondence policies"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="PSPWPR401A" title="Process incoming workplace relations enquiries"/>
+      <unit id="PSPWPR402A" title="Respond to general workplace relations enquiries"/>
+      <unit id="PSPWPR403A" title="Support the provision of workplace relations information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP42412" title="Certificate IV in Government (Procurement and Contracting)">
+    <units>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV403B" title="Use resources to achieve work unit goals"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV418A" title="Develop internal and external networks"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+      <unit id="PSPPOL401A" title="Contribute to policy development"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPROC405C" title="Dispose of assets"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP41812" title="Certificate IV in Government (Road Transport Compliance)">
+    <units>
+      <unit id="PSPCRT406C" title="Compile and use official notes"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG405B" title="Act on non-compliance"/>
+      <unit id="PSPREG407B" title="Produce formal record of interview"/>
+      <unit id="PSPREG408C" title="Conduct search and seizure"/>
+      <unit id="PSPREG409B" title="Prepare a brief of evidence"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG416A" title="Conduct data analysis"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="PSPREG419A" title="Finalise and report on investigations"/>
+      <unit id="PSPREG501B" title="Conduct prosecutions"/>
+      <unit id="PSPTRAN401A" title="Inspect vehicles"/>
+      <unit id="PSPTRAN402A" title="Assess driver compliance"/>
+      <unit id="PSPTRAN403A" title="Assess vehicle compliance"/>
+      <unit id="PSPTRAN404A" title="Conduct detailed vehicle examination"/>
+      <unit id="PSPTRAN501A" title="Provide specialist vehicle technical advice"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP41112" title="Certificate IV in Government (Occupational Health &amp; Safety)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPM404A" title="Carry out simple project activities"/>
+      <unit id="PSPPOL401A" title="Contribute to policy development"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPSOHS401A" title="Contribute to the implementation of a systematic approach to managing OHS"/>
+      <unit id="PSPSOHS402A" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="PSPSOHS403A" title="Identify hazards and assess OHS risks"/>
+      <unit id="PSPSOHS404A" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="PSPSOHS405A" title="Contribute to the implementation of emergency procedures"/>
+      <unit id="PSPSOHS406A" title="Use equipment to conduct workplace monitoring"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP42112" title="Certificate IV in Government (Revenue Administration)">
+    <units>
+      <unit id="LGAGOVA301B" title="Assist customers with rate enquiries"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFRAU401B" title="Monitor data for indicators of fraud"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL401A" title="Contribute to policy development"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PSPREG403B" title="Assess compliance"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG405B" title="Act on non-compliance"/>
+      <unit id="PSPREG409B" title="Prepare a brief of evidence"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PSPREG420A" title="Plan and implement recovery action"/>
+      <unit id="PSPREV401A" title="Identify and apply statute law"/>
+      <unit id="PSPREV402A" title="Undertake legislative decision making"/>
+      <unit id="PSPREV403A" title="Manage information on legal entities, relationships and property"/>
+      <unit id="PSPREV404A" title="Interpret and assess contracts"/>
+      <unit id="PSPREV405A" title="Assess applications for grants, subsidies and rebates"/>
+      <unit id="PSPREV406A" title="Evaluate returns-based taxes"/>
+      <unit id="PSPREV407A" title="Determine land tax liability"/>
+      <unit id="PSPREV408A" title="Determine stamp duties"/>
+      <unit id="PSPREV409A" title="Administer levies, fines and other taxes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP40412" title="Certificate IV in Government (Court Services)">
+    <units>
+      <unit id="PSPCRT301B" title="Audio record court proceedings"/>
+      <unit id="PSPCRT401C" title="Carry out court orderly functions"/>
+      <unit id="PSPCRT402C" title="Manage witnesses"/>
+      <unit id="PSPCRT403C" title="Handle exhibits and documents tendered"/>
+      <unit id="PSPCRT407B" title="Undertake court listings"/>
+      <unit id="PSPCRT408B" title="Provide court registry and information services"/>
+      <unit id="PSPCRT409B" title="Administer court fines and debt management"/>
+      <unit id="PSPCRT410B" title="Provide court support to Indigenous clients"/>
+      <unit id="PSPCRT411B" title="Audio record complex court proceedings"/>
+      <unit id="PSPCRT412B" title="Record court proceedings"/>
+      <unit id="PSPCRT413A" title="Contribute to an integrated service delivery program"/>
+      <unit id="PSPCRT414A" title="Administer court legislation"/>
+      <unit id="PSPCRT415A" title="Administer alternative dispute-resolution proceedings"/>
+      <unit id="PSPCRT416A" title="Provide support to self-represented litigants"/>
+      <unit id="PSPCRT501C" title="Perform court duties"/>
+      <unit id="PSPCRT502C" title="Manage jurors"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL401A" title="Contribute to policy development"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP42312" title="Certificate IV in Government (Trade Measurement)">
+    <units>
+      <unit id="MSATMINS401A" title="Inspect a range of weighing instruments"/>
+      <unit id="MSATMINS402A" title="Inspect a range of liquid measuring instruments using volume measures"/>
+      <unit id="MSATMINS403A" title="Inspect a range of trading practices"/>
+      <unit id="MSATMINS404A" title="Inspect a range of pre-packaged products"/>
+      <unit id="MSATMVER403A" title="Verify inspector's class reference standards"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL925002A" title="Analyse measurements and estimate uncertainties"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL944001A" title="Maintain laboratory_field workplace safety"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG403B" title="Assess compliance"/>
+      <unit id="PSPREG405B" title="Act on non-compliance"/>
+      <unit id="PSPREG413A" title="Undertake inspections and monitoring"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP41412" title="Certificate IV in Government (Statutory Compliance)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PSPREG403B" title="Assess compliance"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG405B" title="Act on non-compliance"/>
+      <unit id="PSPREG406C" title="Make arrests"/>
+      <unit id="PSPREG407B" title="Produce formal record of interview"/>
+      <unit id="PSPREG408C" title="Conduct search and seizure"/>
+      <unit id="PSPREG409B" title="Prepare a brief of evidence"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG413A" title="Undertake inspections and monitoring"/>
+      <unit id="PSPREG414A" title="Conduct surveillance"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG416A" title="Conduct data analysis"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="PSPREG419A" title="Finalise and report on investigations"/>
+      <unit id="PSPREG420A" title="Plan and implement recovery action"/>
+      <unit id="PSPREG421A" title="Take custody of and store weapons"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP41512" title="Certificate IV in Government (Investigation)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFRAU401B" title="Monitor data for indicators of fraud"/>
+      <unit id="PSPFRAU407B" title="Conduct fraud control awareness sessions"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG407B" title="Produce formal record of interview"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG416A" title="Conduct data analysis"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="PSPREG419A" title="Finalise and report on investigations"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP41612" title="Certificate IV in Government (Security)">
+    <units>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPSEC401A" title="Undertake government security risk analysis"/>
+      <unit id="PSPSEC402A" title="Implement security risk treatments"/>
+      <unit id="PSPSEC403A" title="Develop and advise on government security procedures"/>
+      <unit id="PSPSEC405A" title="Handle security classified information"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP40512" title="Certificate IV in Government (Financial Services)">
+    <units>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="FNSACC302A" title="Administer subsidiary accounts and ledgers"/>
+      <unit id="FNSACC401A" title="Process business tax requirements"/>
+      <unit id="FNSACC402A" title="Prepare operational budgets"/>
+      <unit id="FNSACC404A" title="Prepare financial statements for non-reporting entities"/>
+      <unit id="FNSACC405A" title="Maintain inventory records"/>
+      <unit id="FNSACC407A" title="Produce job costing information"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSCRD302A" title="Monitor and control accounts receivable"/>
+      <unit id="FNSFMK401A" title="Reconcile financial transactions"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP40212" title="Certificate IV in Government (Border Protection)">
+    <units>
+      <unit id="PSPBORD301A" title="Conduct patrols"/>
+      <unit id="PSPBORD302A" title="Use border protection technology equipment"/>
+      <unit id="PSPBORD401A" title="Create and maintain profiles"/>
+      <unit id="PSPBORD402A" title="Develop surveillance flight routes"/>
+      <unit id="PSPBORD403A" title="Review operational schedules"/>
+      <unit id="PSPBORD404A" title="Analyse surveillance products"/>
+      <unit id="PSPBORD405A" title="Develop operational effectiveness of detector dog teams"/>
+      <unit id="PSPBORD406A" title="Conduct detector dog team training"/>
+      <unit id="PSPBORD407A" title="Command operational groups"/>
+      <unit id="PSPBORD408A" title="Examine and test firearms"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG408C" title="Conduct search and seizure"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP40312" title="Certificate IV in Government (Court Compliance)">
+    <units>
+      <unit id="CPPDSM4038A" title="Conduct goods, chattels or equipment clearing sale or auction"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS304A" title="Monitor control room operations"/>
+      <unit id="CSCSAS402B" title="Manage threatening behaviour"/>
+      <unit id="CSCTRA401A" title="Plan and monitor escorts"/>
+      <unit id="PSPCRT401C" title="Carry out court orderly functions"/>
+      <unit id="PSPCRT402C" title="Manage witnesses"/>
+      <unit id="PSPCRT403C" title="Handle exhibits and documents tendered"/>
+      <unit id="PSPCRT404C" title="Serve process"/>
+      <unit id="PSPCRT405C" title="Handle monies received in satisfaction of warrants and orders"/>
+      <unit id="PSPCRT406C" title="Compile and use official notes"/>
+      <unit id="PSPCRT410B" title="Provide court support to Indigenous clients"/>
+      <unit id="PSPCRT501C" title="Perform court duties"/>
+      <unit id="PSPCRT502C" title="Manage jurors"/>
+      <unit id="PSPCRT503C" title="Execute process"/>
+      <unit id="PSPCRT504C" title="Carry out possessions and evictions"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV402B" title="Deliver and monitor service to clients"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="PSPGOV412A" title="Use advanced workplace communication strategies"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG406C" title="Make arrests"/>
+      <unit id="PSPREG408C" title="Conduct search and seizure"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUAOPE003B" title="Navigate in urban and rural environments"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+      <unit id="PUAPOLGD007A" title="Manage persons in care or custody"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51412" title="Diploma of Government (Policy Development)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PSPPOL502A" title="Advise on organisation policy"/>
+      <unit id="PSPPOL601A" title="Develop public policy"/>
+      <unit id="PSPPOL602A" title="Provide policy advice"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP52012" title="Diploma of Government (Rail Safety Regulation)">
+    <units>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV514A" title="Facilitate change"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPOL502A" title="Advise on organisation policy"/>
+      <unit id="PSPRAIL501A" title="Operate within the regulatory framework for rail safety"/>
+      <unit id="PSPRAIL502A" title="Assess and administer accreditation and registration applications"/>
+      <unit id="PSPRAIL503A" title="Receive and act on industry safety information and intelligence"/>
+      <unit id="PSPRAIL504A" title="Review and promote safety culture"/>
+      <unit id="PSPRAIL505A" title="Review training arrangements"/>
+      <unit id="PSPRAIL601A" title="Coordinate audit or inspection programs"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG501B" title="Conduct prosecutions"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPWPI501B" title="Evaluate workplace legislative compliance"/>
+      <unit id="PSPWPI502B" title="Facilitate improvement in workplace legislative performance"/>
+      <unit id="PSPWPI503C" title="Investigate possible breaches of workplace legislation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51212" title="Diploma of Government (Occupational Health &amp; Safety)">
+    <units>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PSPSOHS501A" title="Participate in the coordination and maintenance of a systematic approach to managing OHS"/>
+      <unit id="PSPSOHS502A" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="PSPSOHS503A" title="Assist in the design and development of OHS participative arrangements"/>
+      <unit id="PSPSOHS505A" title="Manage hazards in the work environment"/>
+      <unit id="PSPSOHS506A" title="Monitor and facilitate the management of hazards associated with plant"/>
+      <unit id="PSPSOHS507A" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="PSPSOHS508A" title="Participate in the investigation of incidents"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP52312" title="Diploma of Translating">
+    <units>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBLEG305A" title="Use legal terminology in order to carry out tasks"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB408B" title="Manage personal, family, cultural and business obligations"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICAICT408A" title="Create technical documentation"/>
+      <unit id="PSPTIS501A" title="Negotiate translating and interpreting assignments"/>
+      <unit id="PSPTIS502A" title="Prepare to translate and interpret"/>
+      <unit id="PSPTIS503A" title="Apply codes and standards to ethical practice"/>
+      <unit id="PSPTIS504A" title="Maintain and enhance professional practice"/>
+      <unit id="PSPTIS505A" title="Translate general purpose texts from English to LOTE"/>
+      <unit id="PSPTIS508A" title="Analyse texts to be translated (LOTE)"/>
+      <unit id="PSPTIS511A" title="Demonstrate language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS512A" title="Demonstrate written language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS513A" title="Translate general purpose texts from LOTE to English"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP52112" title="Diploma of Government (Workplace Relations)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPGOV510A" title="Undertake and promote career management"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV514A" title="Facilitate change"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV518A" title="Benchmark performance"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPGOV520A" title="Scope statistical data collection"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="PSPGOV522A" title="Process statistical data"/>
+      <unit id="PSPGOV523A" title="Interrogate and analyse statistical data"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPWPI503C" title="Investigate possible breaches of workplace legislation"/>
+      <unit id="PSPWPR501A" title="Provide advice on complex workplace relations issues"/>
+      <unit id="PSPWPR502A" title="Manage compliance with workplace relations legislation"/>
+      <unit id="PSPWPR503A" title="Apply workplace relations dispute-resolution procedures"/>
+      <unit id="PSPWPR504A" title="Support resolution of complaints relating to workplace relations processes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51312" title="Diploma of Government (Project Management)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP50112" title="Diploma of Government">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="PSPBORD501A" title="Command operational forces"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPGOV510A" title="Undertake and promote career management"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV514A" title="Facilitate change"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV518A" title="Benchmark performance"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPGOV520A" title="Scope statistical data collection"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="PSPGOV522A" title="Process statistical data"/>
+      <unit id="PSPGOV523A" title="Interrogate and analyse statistical data"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPGSD502A" title="Manage the emergent dynamics of government service delivery"/>
+      <unit id="PSPGSD503A" title="Provide specialist technical service delivery"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPPA501A" title="Provide public affairs writing and editorial services"/>
+      <unit id="PSPPA502A" title="Coordinate public affairs events and activities"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPREG504A" title="Manage plant movement health risk"/>
+      <unit id="PSPSCI501A" title="Provide high-level scientific technical support"/>
+      <unit id="PSPSCI502A" title="Facilitate innovation and change through extension"/>
+      <unit id="PSPSCI503A" title="Develop and undertake scientific_technological research"/>
+      <unit id="PUAWER002B" title="Ensure workplace emergency prevention procedures, systems and processes are implemented"/>
+      <unit id="PUAWER005B" title="Operate as part of an emergency control organisation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+      <unit id="SITXICT001A" title="Build and launch a website for a small business"/>
+      <unit id="TAADES501B" title="Design and develop learning strategies"/>
+      <unit id="TAEDEL501A" title="Facilitate e-learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51012" title="Diploma of Government (Land Administration)">
+    <units>
+      <unit id="AHCLPW501A" title="Develop a management plan for a designated area"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLAND501A" title="Review planning documents and environmental assessments"/>
+      <unit id="PSPLAND502A" title="Develop and market public land"/>
+      <unit id="PSPLAND503A" title="Manage native title future act processes"/>
+      <unit id="PSPLAND504A" title="Manage public land tenures and applications"/>
+      <unit id="PSPLAND505A" title="Provide technical expertise"/>
+      <unit id="PSPLAND506A" title="Identify and manage contaminated sites"/>
+      <unit id="PSPLAND507A" title="Undertake land acquisitions_withdrawals"/>
+      <unit id="PSPLAND508A" title="Coordinate Aboriginal land claims_applications"/>
+      <unit id="PSPLAND509A" title="Negotiate_mediate public land business agreements"/>
+      <unit id="PSPLAND601A" title="Manage unallocated land"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP52412" title="Diploma of Interpreting">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBLEG305A" title="Use legal terminology in order to carry out tasks"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB408B" title="Manage personal, family, cultural and business obligations"/>
+      <unit id="PSPTIS501A" title="Negotiate translating and interpreting assignments"/>
+      <unit id="PSPTIS502A" title="Prepare to translate and interpret"/>
+      <unit id="PSPTIS503A" title="Apply codes and standards to ethical practice"/>
+      <unit id="PSPTIS504A" title="Maintain and enhance professional practice"/>
+      <unit id="PSPTIS506A" title="Interpret in general dialogue settings (LOTE)"/>
+      <unit id="PSPTIS507A" title="Manage discourses in general settings"/>
+      <unit id="PSPTIS509A" title="Interpret in general monologue settings (LOTE)"/>
+      <unit id="PSPTIS510A" title="Analyse, recall and reproduce source messages (LOTE)"/>
+      <unit id="PSPTIS511A" title="Demonstrate language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS512A" title="Demonstrate written language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS613A" title="Sight translate (LOTE)"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51812" title="Diploma of Government (Security)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPSEC501A" title="Assess security risks"/>
+      <unit id="PSPSEC502A" title="Develop security risk management plans"/>
+      <unit id="PSPSEC503A" title="Implement and monitor security risk management plans"/>
+      <unit id="PSPSEC504A" title="Coordinate protective security"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP50512" title="Diploma of Government (Financial Services)">
+    <units>
+      <unit id="FNSACC302A" title="Administer subsidiary accounts and ledgers"/>
+      <unit id="FNSACC501A" title="Provide financial and business performance information"/>
+      <unit id="FNSACC503A" title="Manage budgets and forecasts"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="FNSACC507A" title="Provide management accounting information"/>
+      <unit id="FNSACC601A" title="Prepare complex tax returns"/>
+      <unit id="FNSACC603A" title="Implement tax plans and evaluate tax compliance"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSORG503A" title="Develop a resource plan"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPFIN501A" title="Apply public sector financial policies and processes"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP50812" title="Diploma of Government (Human Resources)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPHR503A" title="Facilitate performance management processes"/>
+      <unit id="PSPHR504A" title="Implement workforce planning and succession strategies"/>
+      <unit id="PSPHR505A" title="Implement staffing policies"/>
+      <unit id="PSPHR506A" title="Coordinate employment relations"/>
+      <unit id="PSPHR507A" title="Coordinate employee support"/>
+      <unit id="PSPHR508A" title="Coordinate career development"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP51912" title="Diploma of Government  (Workplace Inspection)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPWPI501B" title="Evaluate workplace legislative compliance"/>
+      <unit id="PSPWPI502B" title="Facilitate improvement in workplace legislative performance"/>
+      <unit id="PSPWPI503C" title="Investigate possible breaches of workplace legislation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP50212" title="Diploma of Government (Community Capacity)">
+    <units>
+      <unit id="CHCCD505E" title="Develop community resources"/>
+      <unit id="CHCCD508D" title="Support community action"/>
+      <unit id="CHCCD509C" title="Support community leadership"/>
+      <unit id="CHCCD514B" title="Implement community development strategies"/>
+      <unit id="CHCCD615A" title="Develop and implement community development strategies"/>
+      <unit id="CHCCD619B" title="Establish and maintain community, government and business partnerships"/>
+      <unit id="PSPCOM501A" title="Prepare for community engagement"/>
+      <unit id="PSPCOM502A" title="Develop and implement community engagement strategies"/>
+      <unit id="PSPCOM503A" title="Build and maintain community relationships"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP52212" title="Diploma of Government (Trade Measurement)">
+    <units>
+      <unit id="MSATMINS501A" title="Inspect a range of complex measuring instruments"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGSD501A" title="Develop and implement procedures for government service delivery"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPREG501B" title="Conduct prosecutions"/>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPREG505A" title="Conduct measurement licensee audit"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP50612" title="Diploma of Government (Fraud Control)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPFRAU501B" title="Communicate fraud control awareness"/>
+      <unit id="PSPFRAU502B" title="Anticipate and detect possible fraud activity"/>
+      <unit id="PSPFRAU504B" title="Conduct fraud risk assessments"/>
+      <unit id="PSPFRAU505B" title="Develop fraud control plans"/>
+      <unit id="PSPFRAU506B" title="Implement fraud control activities"/>
+      <unit id="PSPFRAU507B" title="Coordinate development and implementation of fraud information systems"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP51112" title="Diploma of Government (Management)">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV514A" title="Facilitate change"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP52512" title="Diploma of Government (Procurement and Contracting)">
+    <units>
+      <unit id="BSBMKG506B" title="Plan market research"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPFIN501A" title="Apply public sector financial policies and processes"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PSPPROC503B" title="Manage contract performance"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC505A" title="Manage procurement risk"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="PSPPROC507A" title="Plan for procurement outcomes"/>
+      <unit id="PSPPROC508A" title="Make procurement decisions"/>
+      <unit id="PSPPROC509A" title="Participate in budget and procurement review processes"/>
+      <unit id="PSPPROC510A" title="Conduct and manage coordinated procurement"/>
+      <unit id="PSPPROC511" title="Plan and implement strategic sourcing"/>
+      <unit id="PSPPROC512" title="Plan and implement procurement category management"/>
+      <unit id="PSPPROC513" title="Conduct demand and procurement spend analysis"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP50912" title="Diploma of Government (Injury Management)">
+    <units>
+      <unit id="BSBCMN411A" title="Monitor a safe workplace"/>
+      <unit id="CHCCM503C" title="Develop, facilitate and monitor all aspects of case management"/>
+      <unit id="CHCCM504C" title="Promote high quality case management"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPIM501A" title="Determine liability and negotiate settlements"/>
+      <unit id="PSPIM502A" title="Manage case direction and outcomes"/>
+      <unit id="PSPIM503A" title="Maintain and monitor service standards"/>
+      <unit id="PSPIM504A" title="Contribute to a quality injury management system"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP52612" title="Diploma of Government (Road Transport Compliance)">
+    <units>
+      <unit id="BSALLG503A" title="Attend pre-trial negotiations"/>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="CPPSIS4015A" title="Apply GIS software to problem-solving techniques"/>
+      <unit id="PSPBORD401A" title="Create and maintain profiles"/>
+      <unit id="PSPCOM502A" title="Develop and implement community engagement strategies"/>
+      <unit id="PSPCOM503A" title="Build and maintain community relationships"/>
+      <unit id="PSPCRT402C" title="Manage witnesses"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPFIN401A" title="Use public sector financial processes"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV514A" title="Facilitate change"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPGOV523A" title="Interrogate and analyse statistical data"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS401B" title="Implement workplace safety procedures and programs"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPREG409B" title="Prepare a brief of evidence"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG423" title="Maintain operational safety"/>
+      <unit id="PSPREG425" title="Conduct investigations"/>
+      <unit id="PSPREG501B" title="Conduct prosecutions"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPREG505A" title="Conduct measurement licensee audit"/>
+      <unit id="PSPREG506" title="Manage investigation information processes"/>
+      <unit id="PSPREG604" title="Coordinate multi-agency investigations"/>
+      <unit id="PSPREG605" title="Manage major investigations"/>
+      <unit id="PSPTRAN502" title="Operate within the regulatory framework for road transport compliance"/>
+      <unit id="PSPTRAN503" title="Plan and resource operational activities"/>
+      <unit id="PSPTRAN504" title="Provide vehicle technical advice"/>
+      <unit id="PSPWPI502B" title="Facilitate improvement in workplace legislative performance"/>
+      <unit id="PSPWPI503C" title="Investigate possible breaches of workplace legislation"/>
+      <unit id="PSPWPI604B" title="Represent and promote the organisation"/>
+      <unit id="PUAEMR010B" title="Undertake emergency planning"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAPOL032B" title="Plan intelligence activities"/>
+      <unit id="PUAPOL033B" title="Manage intelligence information processes"/>
+      <unit id="PUAPOL034B" title="Analyse information"/>
+      <unit id="PUAPOL035B" title="Disseminate outputs from the intelligence process"/>
+      <unit id="PUAWER002B" title="Ensure workplace emergency prevention procedures, systems and processes are implemented"/>
+      <unit id="SFICOMP503C" title="Undertake the prosecution in a trial"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP50312" title="Diploma of Government (Court Services)">
+    <units>
+      <unit id="CPPSEC4005A" title="Facilitate workplace briefing and debriefing processes"/>
+      <unit id="CSCSAS306A" title="Manage conflict through negotiation"/>
+      <unit id="CSCSAS502A" title="Determine response to security risks"/>
+      <unit id="PSPCOM503A" title="Build and maintain community relationships"/>
+      <unit id="PSPCRT501C" title="Perform court duties"/>
+      <unit id="PSPCRT502C" title="Manage jurors"/>
+      <unit id="PSPCRT503C" title="Execute process"/>
+      <unit id="PSPCRT504C" title="Carry out possessions and evictions"/>
+      <unit id="PSPCRT505B" title="Undertake senior court listing activities"/>
+      <unit id="PSPCRT506B" title="Perform quasi-judicial functions"/>
+      <unit id="PSPCRT507B" title="Record complex court proceedings"/>
+      <unit id="PSPCRT601B" title="Manage court practice and process"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPGOV502B" title="Develop client services"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+      <unit id="PSPGOV508A" title="Manage conflict"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PUAOPE003B" title="Navigate in urban and rural environments"/>
+      <unit id="PUAPOL031B" title="Confiscate assets"/>
+      <unit id="PUAPOL033B" title="Manage intelligence information processes"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+      <unit id="PUAPOLGD007A" title="Manage persons in care or custody"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP51712" title="Diploma of Government (Investigation)">
+    <units>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="PSPFRAU501B" title="Communicate fraud control awareness"/>
+      <unit id="PSPFRAU502B" title="Anticipate and detect possible fraud activity"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPLEGN501B" title="Promote compliance with legislation in the public sector"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPREG425" title="Conduct investigations"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+      <unit id="PSPREG506" title="Manage investigation information processes"/>
+      <unit id="PSPREG508" title="Review and evaluate investigations"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP61212" title="Advanced Diploma of Government (Procurement and Contracting)">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPFIN601A" title="Apply complex public sector financial requirements"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV604A" title="Foster leadership and innovation"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT604B" title="Manage change"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPMNGT609B" title="Formulate business strategies"/>
+      <unit id="PSPMNGT612A" title="Review and improve business performance"/>
+      <unit id="PSPMNGT613A" title="Develop partnering arrangements"/>
+      <unit id="PSPPM601B" title="Direct complex project activities"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPPROC603C" title="Divest strategic assets"/>
+      <unit id="PSPPROC604B" title="Plan for strategic procurement"/>
+      <unit id="PSPPROC605B" title="Coordinate strategic procurement"/>
+      <unit id="PSPPROC606B" title="Negotiate strategic procurement"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP60312" title="Advanced Diploma of Government (Financial Management)">
+    <units>
+      <unit id="FNSACC602A" title="Audit and report on financial systems and records"/>
+      <unit id="FNSACC603A" title="Implement tax plans and evaluate tax compliance"/>
+      <unit id="FNSACC604A" title="Monitor corporate governance activities"/>
+      <unit id="FNSACC605A" title="Implement organisational improvement programs"/>
+      <unit id="FNSACC606A" title="Conduct internal audit"/>
+      <unit id="FNSACC607A" title="Evaluate business performance"/>
+      <unit id="FNSACC608A" title="Evaluate organisation's financial performance"/>
+      <unit id="FNSACC609A" title="Evaluate financial risk"/>
+      <unit id="FNSACC610A" title="Develop and implement financial strategies"/>
+      <unit id="FNSACC613A" title="Prepare and analyse management accounting information"/>
+      <unit id="FNSACC614A" title="Prepare complex corporate financial reports"/>
+      <unit id="FNSINC602A" title="Interpret and use financial statistics and tools"/>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPFIN601A" title="Apply complex public sector financial requirements"/>
+      <unit id="PSPFIN602A" title="Undertake strategic financial analysis"/>
+      <unit id="PSPFIN603A" title="Develop public sector financial strategies"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP60912" title="Advanced Diploma of Government (Workplace Inspection)">
+    <units>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPHR603B" title="Provide advisory and mediation services"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPMNGT609B" title="Formulate business strategies"/>
+      <unit id="PSPPM601B" title="Direct complex project activities"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PSPREG602B" title="Evaluate regulatory compliance"/>
+      <unit id="PSPWPI601B" title="Improve compliance through industry partnerships"/>
+      <unit id="PSPWPI602B" title="Investigate complex issues"/>
+      <unit id="PSPWPI603B" title="Manage emerging issues"/>
+      <unit id="PSPWPI604B" title="Represent and promote the organisation"/>
+      <unit id="PSPWPI605B" title="Audit management systems"/>
+      <unit id="PSPWPI606B" title="Contribute to the development and revision of legislation and related documents"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP61312" title="Advanced Diploma of Government (Road Transport Compliance">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT603B" title="Facilitate people management"/>
+      <unit id="PSPMNGT604B" title="Manage change"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT606B" title="Manage quality client service"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+      <unit id="PSPMNGT611A" title="Manage evaluations"/>
+      <unit id="PSPMNGT612A" title="Review and improve business performance"/>
+      <unit id="PSPMNGT613A" title="Develop partnering arrangements"/>
+      <unit id="PSPMNGT614A" title="Facilitate knowledge management"/>
+      <unit id="PSPMNGT615A" title="Influence workforce effectiveness"/>
+      <unit id="PSPMNGT701B" title="Provide strategic direction"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+      <unit id="PSPPA601A" title="Manage public affairs"/>
+      <unit id="PSPPA603A" title="Manage media relationships"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPREG507" title="Manage investigations"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PSPREG602B" title="Evaluate regulatory compliance"/>
+      <unit id="PSPREG603A" title="Manage and lead inspection and monitoring programs"/>
+      <unit id="PSPREG604" title="Coordinate multi-agency investigations"/>
+      <unit id="PSPREG605" title="Manage major investigations"/>
+      <unit id="PSPREG701A" title="Manage investigations program"/>
+      <unit id="PSPTRAN502" title="Operate within the regulatory framework for road transport compliance"/>
+      <unit id="PSPTRAN601" title="Manage network access"/>
+      <unit id="PSPWPI601B" title="Improve compliance through industry partnerships"/>
+      <unit id="PSPWPI602B" title="Investigate complex issues"/>
+      <unit id="PSPWPI604B" title="Represent and promote the organisation"/>
+      <unit id="PSPWPI606B" title="Contribute to the development and revision of legislation and related documents"/>
+      <unit id="PUAPOL035B" title="Disseminate outputs from the intelligence process"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP60412" title="Advanced Diploma of Government (Human Resources)">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPHR603B" title="Provide advisory and mediation services"/>
+      <unit id="PSPHR612A" title="Manage recruitment"/>
+      <unit id="PSPHR613A" title="Manage retention and separation"/>
+      <unit id="PSPHR614A" title="Manage employment relations"/>
+      <unit id="PSPHR615A" title="Manage human resource development strategies"/>
+      <unit id="PSPHR616A" title="Manage performance management system"/>
+      <unit id="PSPHR617A" title="Manage redeployment"/>
+      <unit id="PSPHR618A" title="Manage human resource information"/>
+      <unit id="PSPHR619A" title="Manage remuneration strategies and plans"/>
+      <unit id="PSPHR620A" title="Manage organisational development"/>
+      <unit id="PSPHR621A" title="Manage organisational design strategies"/>
+      <unit id="PSPHR702B" title="Formulate a strategic human resource plan"/>
+      <unit id="PSPHR703A" title="Provide leadership in strategic human resource management"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT611A" title="Manage evaluations"/>
+      <unit id="PSPOHS601B" title="Establish and maintain a workplace safety system"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP61112" title="Advanced Diploma of Interpreting">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="PSPTIS501A" title="Negotiate translating and interpreting assignments"/>
+      <unit id="PSPTIS502A" title="Prepare to translate and interpret"/>
+      <unit id="PSPTIS504A" title="Maintain and enhance professional practice"/>
+      <unit id="PSPTIS510A" title="Analyse, recall and reproduce source messages (LOTE)"/>
+      <unit id="PSPTIS511A" title="Demonstrate language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS603A" title="Apply codes and standards to professional judgement"/>
+      <unit id="PSPTIS605A" title="Interpret in complex dialogue settings (LOTE)"/>
+      <unit id="PSPTIS606A" title="Interpret in complex monologue settings (LOTE)"/>
+      <unit id="PSPTIS607A" title="Interpret as part of a team"/>
+      <unit id="PSPTIS608A" title="Interpret through communication media"/>
+      <unit id="PSPTIS610A" title="Manage complex discourse settings"/>
+      <unit id="PSPTIS613A" title="Sight translate (LOTE)"/>
+      <unit id="PSPTIS614A" title="Apply theories to translating and interpreting work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP60512" title="Advanced Diploma of Government (Management)">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPFRAU502B" title="Anticipate and detect possible fraud activity"/>
+      <unit id="PSPFRAU601B" title="Develop fraud control strategy"/>
+      <unit id="PSPFRAU602B" title="Manage fraud risk assessment and action plan"/>
+      <unit id="PSPFRAU603B" title="Manage fraud control awareness"/>
+      <unit id="PSPFRAU605B" title="Review fraud control activities"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT603B" title="Facilitate people management"/>
+      <unit id="PSPMNGT604B" title="Manage change"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT606B" title="Manage quality client service"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPMNGT609B" title="Formulate business strategies"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+      <unit id="PSPMNGT611A" title="Manage evaluations"/>
+      <unit id="PSPMNGT612A" title="Review and improve business performance"/>
+      <unit id="PSPMNGT613A" title="Develop partnering arrangements"/>
+      <unit id="PSPMNGT614A" title="Facilitate knowledge management"/>
+      <unit id="PSPMNGT615A" title="Influence workforce effectiveness"/>
+      <unit id="PSPMNGT701B" title="Provide strategic direction"/>
+      <unit id="PSPMNGT704A" title="Undertake enterprise risk management"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+      <unit id="PSPPOL601A" title="Develop public policy"/>
+      <unit id="PSPPOL602A" title="Provide policy advice"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPREG507" title="Manage investigations"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PSPREG602B" title="Evaluate regulatory compliance"/>
+      <unit id="PSPREG603A" title="Manage and lead inspection and monitoring programs"/>
+      <unit id="PSPREG701A" title="Manage investigations program"/>
+      <unit id="PUAPOL029B" title="Coordinate multi-agency investigations"/>
+      <unit id="PUAPOL032B" title="Plan intelligence activities"/>
+      <unit id="PUAPOL034B" title="Analyse information"/>
+      <unit id="PUAPOL035B" title="Disseminate outputs from the intelligence process"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP60112" title="Advanced Diploma of Government">
+    <units>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBMKG610A" title="Develop, implement and monitor a marketing campaign"/>
+      <unit id="PSPBORD601A" title="Manage operations"/>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPETHC701A" title="Lead and influence ethical practice in the public sector"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV603B" title="Develop a tender submission response"/>
+      <unit id="PSPGOV604A" title="Foster leadership and innovation"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPHR702B" title="Formulate a strategic human resource plan"/>
+      <unit id="PSPHR703A" title="Provide leadership in strategic human resource management"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT701B" title="Provide strategic direction"/>
+      <unit id="PSPMNGT702A" title="Influence and shape diversity management"/>
+      <unit id="PSPMNGT703A" title="Lead and influence change"/>
+      <unit id="PSPMNGT704A" title="Undertake enterprise risk management"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+      <unit id="PSPPA601A" title="Manage public affairs"/>
+      <unit id="PSPPA602A" title="Provide public affairs advisory service"/>
+      <unit id="PSPPA603A" title="Manage media relationships"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPPOL701A" title="Influence strategic policy"/>
+      <unit id="PSPREG701A" title="Manage investigations program"/>
+      <unit id="PSPSCI601A" title="Manage the provision of high-level scientific technical support"/>
+      <unit id="PSPSCI602A" title="Influence innovation and change through extension"/>
+      <unit id="PSPSCI603A" title="Initiate and conduct scientific_technological research"/>
+      <unit id="PSPSCI701A" title="Create innovation and change through extension"/>
+      <unit id="PSPSCI702A" title="Initiate and lead sophisticated scientific_technological research"/>
+      <unit id="PSPSEC601A" title="Define information systems framework"/>
+      <unit id="PSPSEC602A" title="Manage security awareness"/>
+      <unit id="PUAWER003B" title="Manage and monitor workplace emergency procedures, equipment and other resources"/>
+      <unit id="PUAWER007B" title="Manage an emergency control organisation"/>
+      <unit id="PUAWER011B" title="Manage workplace emergency initial response teams"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP60612" title="Advanced Diploma of Government (Occupational Health &amp; Safety)">
+    <units>
+      <unit id="PSPETHC601B" title="Maintain and enhance confidence in public service"/>
+      <unit id="PSPGOV601B" title="Apply government systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPLEGN601B" title="Manage compliance with legislation in the public sector"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="PSPMNGT607B" title="Develop a business case"/>
+      <unit id="PSPMNGT609B" title="Formulate business strategies"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPPROC604B" title="Plan for strategic procurement"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+      <unit id="PSPSOHS601A" title="Develop a systematic approach to managing OHS"/>
+      <unit id="PSPSOHS602A" title="Develop OHS information and data analysis and reporting and recording processes"/>
+      <unit id="PSPSOHS603A" title="Analyse and evaluate OHS risk"/>
+      <unit id="PSPSOHS604A" title="Apply ergonomic principles to control OHS risk"/>
+      <unit id="PSPSOHS605A" title="Apply occupational hygiene principles to control OHS risk"/>
+      <unit id="PSPSOHS606A" title="Develop and implement crisis management processes"/>
+      <unit id="PSPSOHS607A" title="Advise on application of safe design principles to control OHS risk"/>
+      <unit id="PSPSOHS608A" title="Conduct an OHS audit"/>
+      <unit id="PSPSOHS609A" title="Evaluate an organisation's OHS performance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PSP61012" title="Advanced Diploma of Translating">
+    <units>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="CUFWRT301A" title="Write content for a range of media"/>
+      <unit id="CUFWRT401A" title="Edit texts"/>
+      <unit id="PSPTIS501A" title="Negotiate translating and interpreting assignments"/>
+      <unit id="PSPTIS502A" title="Prepare to translate and interpret"/>
+      <unit id="PSPTIS504A" title="Maintain and enhance professional practice"/>
+      <unit id="PSPTIS508A" title="Analyse texts to be translated (LOTE)"/>
+      <unit id="PSPTIS512A" title="Demonstrate written language proficiency in different subjects and cultural contexts"/>
+      <unit id="PSPTIS601A" title="Translate special purpose texts from English to LOTE"/>
+      <unit id="PSPTIS602A" title="Quality assure translations"/>
+      <unit id="PSPTIS603A" title="Apply codes and standards to professional judgement"/>
+      <unit id="PSPTIS604A" title="Translate multimedia source material"/>
+      <unit id="PSPTIS609A" title="Prepare translated transcripts"/>
+      <unit id="PSPTIS611A" title="Translate special purpose texts from LOTE to English"/>
+      <unit id="PSPTIS612A" title="Use translation technology"/>
+      <unit id="PSPTIS614A" title="Apply theories to translating and interpreting work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PSP80212" title="Vocational Graduate Certificate in Radiation Safety">
+    <units>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="PSPRAD302" title="Consign radioactive material"/>
+      <unit id="PSPRAD707A" title="Monitor radiation"/>
+      <unit id="PSPRAD708A" title="Coordinate radiation safety"/>
+      <unit id="PSPRAD709A" title="Select, commission and maintain radiation measuring instruments"/>
+      <unit id="PSPRAD710A" title="Apply radiation safety knowledge to develop and implement ionising radiation management plans"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+    </units>
+  </qualification>
+  <qualification id="PSP80112" title="Vocational Graduate Certificate in Government (Strategic Procurement)">
+    <units>
+      <unit id="BSBFIM701A" title="Manage financial resources"/>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="PSPETHC701A" title="Lead and influence ethical practice in the public sector"/>
+      <unit id="PSPMNGT703A" title="Lead and influence change"/>
+      <unit id="PSPMNGT704A" title="Undertake enterprise risk management"/>
+      <unit id="PSPPROC704A" title="Influence and define strategic procurement"/>
+      <unit id="PSPPROC705A" title="Establish strategic procurement context"/>
+      <unit id="PSPPROC706A" title="Evaluate and improve strategic procurement performance"/>
+    </units>
+  </qualification>
+</qualifications>

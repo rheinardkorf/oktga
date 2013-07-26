@@ -1,0 +1,2280 @@
+<?xml version="1.0"?>
+<qualifications class="TLI10">
+  <qualification id="TLI10410" title="Certificate I in Transport and Logistics (Rail Operations)">
+    <units>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIB1024A" title="Clean transportation units and facilities for passenger use"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1080A" title="Use, clean and maintain towing equipment"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF1009A" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIO1002A" title="Follow security procedures when working with passengers and personnel"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI11310" title="Certificate I in Logistics">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIB1024A" title="Clean transportation units and facilities for passenger use"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1030A" title="Undertake general site maintenance"/>
+      <unit id="TLIB1031A" title="Clean up plant, equipment and worksite"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF1009A" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIO1002A" title="Follow security procedures when working with passengers and personnel"/>
+      <unit id="TLIPC1001A" title="Demonstrate care and apply safe practices at work"/>
+      <unit id="TLIPC1002A" title="Adapt to work requirements in the transport and logistics industry"/>
+      <unit id="TLIPC1003A" title="Apply effective work practices"/>
+      <unit id="TLIU1013A" title="Prepare for environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI11210" title="Certificate I in Warehousing Operations">
+    <units>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIB1031A" title="Clean up plant, equipment and worksite"/>
+      <unit id="TLIC1013A" title="Ride courier/delivery bicycle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF1009A" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIU1013A" title="Prepare for environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLIPC110" title="Certificate I in Transport and Logistics (Pathways)">
+    <units>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIC1013A" title="Ride courier/delivery bicycle"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+      <unit id="TLIC2012A" title="Ride courier/delivery motorcycle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIPC1001A" title="Demonstrate care and apply safe practices at work"/>
+      <unit id="TLIPC1002A" title="Adapt to work requirements in the transport and logistics industry"/>
+      <unit id="TLIPC1003A" title="Apply effective work practices"/>
+      <unit id="TLIPC1004A" title="Complete courier delivery operations"/>
+      <unit id="TLIPC1005A" title="Complete small store operations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI22013" title="Certificate II in Shunting">
+    <units>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TLIB2122A" title="Apply awareness of fundamentals of rail operations in yards or sidings"/>
+      <unit id="TLIB2131A" title="Prepare train"/>
+      <unit id="TLIB3019A" title="Test train braking system"/>
+      <unit id="TLIB3021A" title="Conduct train roll-by inspection"/>
+      <unit id="TLIC3017A" title="Shunt rolling stock"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIF3085A" title="Apply local incident response procedures"/>
+      <unit id="TLIF3087A" title="Follow occupational health, safety and environmental procedures in the rail industry"/>
+      <unit id="TLIF3091A" title="Apply awareness of dangerous goods and hazardous materials requirements"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIW2041A" title="Clip points and apply rail safety equipment"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI20410" title="Certificate II in Transport and Logistics (Rail Operations)">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="TLIA2003A" title="Connect and disconnect reefer units"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2022A" title="Diagnose and rectify minor faults"/>
+      <unit id="TLIB2023A" title="Provide sanitation and water services support to passenger transportation units"/>
+      <unit id="TLIB2029B" title="Use and maintain minor mechanical equipment"/>
+      <unit id="TLIB2079A" title="Set up and secure a towing situation"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+      <unit id="TLID2045A" title="Operate specialised light load shifting equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIE2001A" title="Present routine workplace information"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2019A" title="Ensure a safe on-board passenger and working environment"/>
+      <unit id="TLIF2062A" title="Apply awareness of safeworking rules and regulations"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII2015A" title="Operate the on-train buffet car"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIL2031A" title="Monitor and process attendance records"/>
+      <unit id="TLIL2041A" title="Monitor and record rolling stock locations"/>
+      <unit id="TLIL2046A" title="Handle customer luggage/property"/>
+      <unit id="TLIL2048A" title="Prepare for train departure"/>
+      <unit id="TLIO2011A" title="Provide revenue protection measures"/>
+      <unit id="TLIO2013A" title="Administer the security of assets and facilities"/>
+      <unit id="TLIP2032A" title="Maintain petty cash account"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21510" title="Certificate II in Furniture Removal">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2018A" title="Handle furniture and effects"/>
+      <unit id="TLID2019A" title="Pack and unpack cartons during a removal"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2017A" title="Undertake initial removal survey"/>
+      <unit id="TLIE3010A" title="Estimate furniture removal jobs"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI21413" title="Certificate II in Stevedoring">
+    <units>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="TLIA2003A" title="Connect and disconnect reefer units"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2050A" title="Lash and unlash cargo and containers"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+      <unit id="TLID2045A" title="Operate specialised light load shifting equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3040A" title="Control lift and movement of crane"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2068A" title="Work at height in the stevedoring industry"/>
+      <unit id="TLIF2092A" title="Demonstrate awareness of chain of responsibility regulations"/>
+      <unit id="TLIF3060A" title="Control traffic as a pilot vehicle operator"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLIO2021A" title="Follow security procedures when working with goods and cargo"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21810" title="Certificate II in Logistics">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE2001A" title="Present routine workplace information"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIH2003A" title="Prioritise courier/delivery operations"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIL2031A" title="Monitor and process attendance records"/>
+      <unit id="TLIO2013A" title="Administer the security of assets and facilities"/>
+      <unit id="TLIP2014A" title="Capture records into a records keeping system"/>
+      <unit id="TLIP2017A" title="Maintain control of records"/>
+      <unit id="TLIP2018A" title="Provide information from and about records"/>
+      <unit id="TLIP2024A" title="Conduct financial transactions"/>
+      <unit id="TLIP2029A" title="Prepare and process financial documents"/>
+      <unit id="TLIP2032A" title="Maintain petty cash account"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21710" title="Certificate II in Road Transport Yard Operations (Freight Handler)">
+    <units>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2041A" title="Manually sort mail and parcels"/>
+      <unit id="TLIA2042A" title="Despatch mail"/>
+      <unit id="TLIA2043A" title="Consolidate mail"/>
+      <unit id="TLIA2045A" title="Process international parcels and letters"/>
+      <unit id="TLIA2046A" title="Process parcels and letters"/>
+      <unit id="TLIA2047A" title="Stream mail"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIC2050A" title="Operate a terminal tractor"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2018A" title="Handle furniture and effects"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+      <unit id="TLID2029A" title="Prepare articles for delivery"/>
+      <unit id="TLID2045A" title="Operate specialised light load shifting equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2001A" title="Present routine workplace information"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIL2031A" title="Monitor and process attendance records"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2002A" title="Licence to operate an order picking forklift truck"/>
+      <unit id="TLIO2003A" title="Undertake loading and unloading in a designated secured environment"/>
+      <unit id="TLIO2011A" title="Provide revenue protection measures"/>
+      <unit id="TLIO2013A" title="Administer the security of assets and facilities"/>
+      <unit id="TLIP2014A" title="Capture records into a records keeping system"/>
+      <unit id="TLIP2017A" title="Maintain control of records"/>
+      <unit id="TLIP2018A" title="Provide information from and about records"/>
+      <unit id="TLIP2024A" title="Conduct financial transactions"/>
+      <unit id="TLIP2029A" title="Prepare and process financial documents"/>
+      <unit id="TLIP2032A" title="Maintain petty cash account"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21911" title="Certificate II in Track Protection">
+    <units>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLIB2085A" title="Apply track fundamentals"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIF2081B" title="Perform lookout duties"/>
+      <unit id="TLIF2082B" title="Perform handsignaller duties"/>
+      <unit id="TLIF2097A" title="Use audible track warning devices"/>
+      <unit id="TLIF3083B" title="Conduct track protection assessment"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL3082A" title="Implement absolute signal blocking"/>
+      <unit id="TLIU2008A" title="Apply environmental procedures to rail infrastructure"/>
+      <unit id="TLIW2001A" title="Operate under track protection rules"/>
+      <unit id="TLIW2037B" title="Clip and secure points"/>
+      <unit id="TLIW2038A" title="Place and remove temporary speed restriction equipment"/>
+      <unit id="TLIW2039A" title="Place and remove permanent way stop boards"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21210" title="Certificate II in Driving Operations">
+    <units>
+      <unit id="SIRCDIS302" title="Deliver medicines to customers outside the pharmacy"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2041A" title="Manually sort mail and parcels"/>
+      <unit id="TLIA2042A" title="Despatch mail"/>
+      <unit id="TLIA2043A" title="Consolidate mail"/>
+      <unit id="TLIA2044A" title="Carry out delivery operations"/>
+      <unit id="TLIA2045A" title="Process international parcels and letters"/>
+      <unit id="TLIA2046A" title="Process parcels and letters"/>
+      <unit id="TLIA2047A" title="Stream mail"/>
+      <unit id="TLIB1080A" title="Use, clean and maintain towing equipment"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIB2079A" title="Set up and secure a towing situation"/>
+      <unit id="TLIB2090A" title="Use communication systems in a taxicab"/>
+      <unit id="TLIC1013A" title="Ride courier/delivery bicycle"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+      <unit id="TLIC2009A" title="Drive taxicab"/>
+      <unit id="TLIC2012A" title="Ride courier/delivery motorcycle"/>
+      <unit id="TLIC2040A" title="Provide wheelchair accessible taxi services to passengers with disabilities"/>
+      <unit id="TLIC2049A" title="Operate heavy vehicle on unsealed roads"/>
+      <unit id="TLIC3011A" title="Transport passengers with disabilities"/>
+      <unit id="TLIC3035A" title="Manage the operation of a tow truck"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2029A" title="Prepare articles for delivery"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2019A" title="Ensure a safe on-board passenger and working environment"/>
+      <unit id="TLIF2072A" title="Comply with safety and security procedures"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+      <unit id="TLIH3004A" title="Identify major roads, services and attractions"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLII2019A" title="Provide taxicab customer service"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2060A" title="Complete induction to the transport industry"/>
+      <unit id="TLILIC2014B" title="Licence to drive a light rigid vehicle"/>
+      <unit id="TLILIC2015B" title="Licence to drive a medium rigid vehicle"/>
+      <unit id="TLILIC2016B" title="Licence to drive a heavy rigid vehicle"/>
+      <unit id="TLIO2021A" title="Follow security procedures when working with goods and cargo"/>
+      <unit id="TLIP2030A" title="Conduct courier/delivery cash transactions"/>
+      <unit id="TLIP2037A" title="Carry out financial transactions and maintain records"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21610" title="Certificate II in Warehousing Operations">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="TLIA2003A" title="Connect and disconnect reefer units"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIA2041A" title="Manually sort mail and parcels"/>
+      <unit id="TLIA2042A" title="Despatch mail"/>
+      <unit id="TLIA2043A" title="Consolidate mail"/>
+      <unit id="TLIA2044A" title="Carry out delivery operations"/>
+      <unit id="TLIA2045A" title="Process international parcels and letters"/>
+      <unit id="TLIA2046A" title="Process parcels and letters"/>
+      <unit id="TLIA2047A" title="Stream mail"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1030A" title="Undertake general site maintenance"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2009A" title="Check conveyor operational status"/>
+      <unit id="TLIB2029B" title="Use and maintain minor mechanical equipment"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2021A" title="Use specialised bulk transfer equipment (dry)"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+      <unit id="TLID2045A" title="Operate specialised light load shifting equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIE2001A" title="Present routine workplace information"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLIH2003A" title="Prioritise courier/delivery operations"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIJ2003A" title="Apply grain protection measures"/>
+      <unit id="TLIJ2004A" title="Implement grain monitoring measures"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIL2031A" title="Monitor and process attendance records"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2002A" title="Licence to operate an order picking forklift truck"/>
+      <unit id="TLIO2013A" title="Administer the security of assets and facilities"/>
+      <unit id="TLIO2021A" title="Follow security procedures when working with goods and cargo"/>
+      <unit id="TLIP2014A" title="Capture records into a records keeping system"/>
+      <unit id="TLIP2017A" title="Maintain control of records"/>
+      <unit id="TLIP2018A" title="Provide information from and about records"/>
+      <unit id="TLIP2024A" title="Conduct financial transactions"/>
+      <unit id="TLIP2029A" title="Prepare and process financial documents"/>
+      <unit id="TLIP2032A" title="Maintain petty cash account"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIW2017A" title="Cut and join materials"/>
+      <unit id="TLIW2020A" title="Undertake pallet repairs"/>
+      <unit id="TLIW2021A" title="Clean and inspect pallets"/>
+      <unit id="TLIW2023A" title="Manufacture pallets using manual methods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI22113" title="Certificate II in Rail Track Vehicle Driving">
+    <units>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1093A" title="Clean equipment and restore worksite"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2085A" title="Apply track fundamentals"/>
+      <unit id="TLIB2091A" title="Measure and record track geometry"/>
+      <unit id="TLIB2130A" title="Diagnose and rectify minor faults on on-track vehicles"/>
+      <unit id="TLIB2133A" title="Test medium_heavy track vehicle braking system"/>
+      <unit id="TLIC0083A" title="Access rail track to travel track vehicle under a proceed authority"/>
+      <unit id="TLIC0084A" title="Access rail track to travel track vehicles under manual block working conditions"/>
+      <unit id="TLIC2054B" title="Access rail track to run track vehicle within defined worksite"/>
+      <unit id="TLIC2074A" title="Couple and uncouple track maintenance vehicles"/>
+      <unit id="TLIC2075A" title="Drive and monitor medium or heavy self-propelled on-track equipment"/>
+      <unit id="TLIC2076A" title="Establish and operate braking system on medium_heavy self-propelled on-track equipment"/>
+      <unit id="TLIC2078A" title="Identify and respond to signals and trackside signs"/>
+      <unit id="TLIC2080A" title="Start up, shut down and stable medium_heavy self-propelled on-track equipment"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2031A" title="Use communication systems for on-track vehicle operations"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIF2106A" title="Respond to emergencies and abnormal situations when driving medium_heavy on-track vehicles"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3091A" title="Apply awareness of dangerous goods and hazardous materials requirements"/>
+      <unit id="TLII4022A" title="Identify and meet customer requirements"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIS2030A" title="Carry out track ballasting"/>
+      <unit id="TLIU2008A" title="Apply environmental procedures to rail infrastructure"/>
+      <unit id="TLIW2001A" title="Operate under track protection rules"/>
+      <unit id="TLIW2028A" title="Identify the principles of ballast cleaning operations"/>
+      <unit id="TLIW2029A" title="Identify the principles of ballast regulator operations"/>
+      <unit id="TLIW2030A" title="Identify the principles of dynamic track stabaliser operations"/>
+      <unit id="TLIW2031A" title="Identify the principles of self-propelled rail grinder operations"/>
+      <unit id="TLIW2032A" title="Identify the principles of tamping machine operations"/>
+      <unit id="TLIW2033A" title="Identify the principles of mechanised track laying operations"/>
+      <unit id="TLIW2037B" title="Clip and secure points"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI22213" title="Certificate II in Tram or Light Rail Infrastructure">
+    <units>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1093A" title="Clean equipment and restore worksite"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2092A" title="Operate minor mechanical equipment"/>
+      <unit id="TLIB2125A" title="Apply awareness of tram or light rail track fundamentals"/>
+      <unit id="TLIC2059A" title="Propel and operate light on-track equipment"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIS2027A" title="Install and maintain surface track drainage"/>
+      <unit id="TLIS2030A" title="Carry out track ballasting"/>
+      <unit id="TLIS2031A" title="Install railway sleepers"/>
+      <unit id="TLIS2034A" title="Install and repair rail fastening systems"/>
+      <unit id="TLIS2044A" title="Carry out rail installation"/>
+      <unit id="TLIU2008A" title="Apply environmental procedures to rail infrastructure"/>
+      <unit id="TLIW2001A" title="Operate under track protection rules"/>
+      <unit id="TLIW3027A" title="Operate minor track equipment"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI21311" title="Certificate II in Rail Infrastructure">
+    <units>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIMPO317A" title="Conduct roller operations"/>
+      <unit id="RIIMPO318A" title="Conduct skid steer loader operations"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="RIIMPO320B" title="Conduct civil construction excavator operations"/>
+      <unit id="RIIMPO321A" title="Conduct civil construction wheeled front end loader operations"/>
+      <unit id="RIIMPO322A" title="Conduct civil construction tracked front end loader operations"/>
+      <unit id="RIIMPO326A" title="Conduct civil construction water cart operations"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB1093A" title="Clean equipment and restore worksite"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2034A" title="Maintain poles and associated hardware"/>
+      <unit id="TLIB2084A" title="Carry out routine maintenance of structures"/>
+      <unit id="TLIB2085A" title="Apply track fundamentals"/>
+      <unit id="TLIB2086A" title="Apply awareness of structures fundamentals"/>
+      <unit id="TLIB2091A" title="Measure and record track geometry"/>
+      <unit id="TLIB2092A" title="Operate minor mechanical equipment"/>
+      <unit id="TLIB2097A" title="Install and maintain guard rails"/>
+      <unit id="TLIB2121B" title="Maintain rail joints"/>
+      <unit id="TLIC2058A" title="Travel medium or heavy self-propelled on-track equipment"/>
+      <unit id="TLIC2059A" title="Propel and operate light on-track equipment"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2062A" title="Apply awareness of safeworking rules and regulations"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIS2004A" title="Install and maintain rail bonding systems"/>
+      <unit id="TLIS2020A" title="Install overhead wiring structure"/>
+      <unit id="TLIS2027A" title="Install and maintain surface track drainage"/>
+      <unit id="TLIS2030A" title="Carry out track ballasting"/>
+      <unit id="TLIS2031A" title="Install railway sleepers"/>
+      <unit id="TLIS2033A" title="Install and repair temporary track supports"/>
+      <unit id="TLIS2034A" title="Install and repair rail fastening systems"/>
+      <unit id="TLIS2035A" title="Install and repair fences and gates"/>
+      <unit id="TLIS2044A" title="Carry out rail installation"/>
+      <unit id="TLIU2008A" title="Apply environmental procedures to rail infrastructure"/>
+      <unit id="TLIW2001A" title="Operate under track protection rules"/>
+      <unit id="TLIW2028A" title="Identify the principles of ballast cleaning operations"/>
+      <unit id="TLIW2029A" title="Identify the principles of ballast regulator operations"/>
+      <unit id="TLIW2030A" title="Identify the principles of dynamic track stabaliser operations"/>
+      <unit id="TLIW2031A" title="Identify the principles of self-propelled rail grinder operations"/>
+      <unit id="TLIW2032A" title="Identify the principles of tamping machine operations"/>
+      <unit id="TLIW2033A" title="Identify the principles of mechanised track laying operations"/>
+      <unit id="TLIW2038A" title="Place and remove temporary speed restriction equipment"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI32310" title="Certificate III in Electric Passenger Train Guard">
+    <units>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="TLIB1028A" title="Maintain and use hand tools"/>
+      <unit id="TLIB2104A" title="Identify, diagnose and rectify faults on electric passenger trains"/>
+      <unit id="TLIB2111A" title="Assist with testing train braking system on electric passenger train"/>
+      <unit id="TLIB3112A" title="Prepare electric passenger train as part of guard duties"/>
+      <unit id="TLIC3052A" title="Assist with shunting, coupling and uncoupling electric passenger trains"/>
+      <unit id="TLIC3057A" title="Perform guard duties as part of electric passenger train operations"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE3021A" title="Work and communicate effectively with others"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2019A" title="Ensure a safe on-board passenger and working environment"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII3020A" title="Provide assistance to customers with and without special needs"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIO3012A" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31210" title="Certificate III in Driving Operations">
+    <units>
+      <unit id="CPCCCO3034A" title="Conduct concrete agitator truck operations"/>
+      <unit id="CPPWMT3011A" title="Respond to waste emergencies"/>
+      <unit id="CPPWMT3015A" title="Move waste using loadshifting equipment"/>
+      <unit id="CPPWMT3044A" title="Identify wastes and hazards"/>
+      <unit id="FPICOT3226A" title="Shift forestry logs using trucks"/>
+      <unit id="HLTAMBPD401C" title="Manage personal stressors in the work environment"/>
+      <unit id="PMC552061C" title="Deliver concrete to site"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2003A" title="Connect and disconnect reefer units"/>
+      <unit id="TLIA3002A" title="Maintain container/cargo records"/>
+    </units>
+  </qualification>
+  <qualification id="TLI30410" title="Certificate III in Transport and Logistics (Rail Operations)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="TLIA3002A" title="Maintain container/cargo records"/>
+      <unit id="TLIA3004A" title="Process receipt and delivery of containers and cargo"/>
+      <unit id="TLIA3008A" title="Transfer cargo"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLIB3002A" title="Test equipment and isolate faults"/>
+      <unit id="TLIB3018A" title="Conduct full train examination"/>
+      <unit id="TLIB3019A" title="Test train braking system"/>
+      <unit id="TLIB3020A" title="Visually inspect stationary train"/>
+      <unit id="TLIB3021A" title="Conduct train roll-by inspection"/>
+      <unit id="TLIB3026A" title="Prepare for train operation"/>
+      <unit id="TLIB3027A" title="Set up and shut down on-train remote control system"/>
+      <unit id="TLIB3075A" title="Inspect and prepare a motive power unit"/>
+      <unit id="TLIB3105A" title="Prepare electric passenger train"/>
+      <unit id="TLIB3108A" title="Test operation of electric passenger train braking system"/>
+      <unit id="TLIB3113A" title="Diagnose and rectify minor faults on motive power units and rolling stock"/>
+      <unit id="TLIC3011A" title="Transport passengers with disabilities"/>
+      <unit id="TLIC3017A" title="Shunt rolling stock"/>
+      <unit id="TLIC3018A" title="Operate on-train remote control system"/>
+      <unit id="TLIC3027A" title="Stable a motive power unit"/>
+      <unit id="TLIC3028A" title="Operate and monitor a heritage motive power unit"/>
+      <unit id="TLIC3029A" title="Stable a heritage motive power unit"/>
+      <unit id="TLIC3030A" title="Operate and monitor a heritage steam locomotive"/>
+      <unit id="TLIC3031A" title="Stable a heritage steam locomotive"/>
+      <unit id="TLIC3046A" title="Drive and operate electric passenger train"/>
+      <unit id="TLIC3047A" title="Stable electric passenger train"/>
+      <unit id="TLIC3048B" title="Shunt couple and uncouple electric passenger trains"/>
+      <unit id="TLIC3082A" title="Operate a locomotive by portable remote control"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3015A" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID3023A" title="Use specialised liquid bulk gas transfer equipment"/>
+      <unit id="TLID3024A" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+      <unit id="TLID3040A" title="Control lift and movement of crane"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+      <unit id="TLID3044A" title="Shift loads using cranes"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIE3015A" title="Undertake rigger/dogger and driver communication"/>
+      <unit id="TLIE3016A" title="Estimate/calculate load shifting requirements for a mobile crane"/>
+      <unit id="TLIE3018A" title="Maintain freight records"/>
+      <unit id="TLIE3019A" title="Work with travel agencies and sales outlets"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3060A" title="Control traffic as a pilot vehicle operator"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII3003A" title="Provide customer service in transport vehicles/vessels"/>
+      <unit id="TLII3007A" title="Provide freight forwarding information to customers"/>
+      <unit id="TLII3009A" title="Provide on-board services to customers"/>
+      <unit id="TLII3010A" title="Provide travel information to customers"/>
+      <unit id="TLII3021A" title="Provide customer service in rail operations"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIL3002A" title="Undertake employee payroll activities"/>
+      <unit id="TLIL3003A" title="Conduct induction process"/>
+      <unit id="TLIL3035A" title="Allocate motive power"/>
+      <unit id="TLIL3039A" title="Assist with train operations"/>
+      <unit id="TLIL3045A" title="Organise services for special events"/>
+      <unit id="TLIL3052A" title="Plan urban passenger train consists"/>
+      <unit id="TLIL3053A" title="Plan rural passenger train consists"/>
+      <unit id="TLIL3054A" title="Plan freight train consists"/>
+      <unit id="TLIO3012A" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIO3015A" title="Maintain security of railway property and revenue"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIO3019A" title="Apprehend offenders"/>
+      <unit id="TLIP3027A" title="Organise freight invoicing and payment"/>
+      <unit id="TLIP3034A" title="Advise on and construct fares for customers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31410" title="Certificate III in Rail Driving">
+    <units>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3002A" title="Test equipment and isolate faults"/>
+      <unit id="TLIB3078A" title="Inspect, prepare and start an electric tram"/>
+      <unit id="TLIC3011A" title="Transport passengers with disabilities"/>
+      <unit id="TLIC3032A" title="Operate and monitor a passenger electric tram"/>
+      <unit id="TLIC3033A" title="Drive an electric tram to operational requirements"/>
+      <unit id="TLIC3034A" title="Berth and shut down an electric tram"/>
+      <unit id="TLIC3036A" title="Apply safe car driving behaviours"/>
+      <unit id="TLIC3039A" title="Operate and monitor a monorail train"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF4061A" title="Respond to electric tram-driving emergencies and abnormal situations"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIO2011A" title="Provide revenue protection measures"/>
+      <unit id="TLIO3012A" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31913" title="Certificate III in Mechanical Rail Signalling">
+    <units>
+      <unit id="NWP227B" title="Control vegetation on a site"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLIB1093A" title="Clean equipment and restore worksite"/>
+      <unit id="TLIB3046A" title="Service and clean mechanical signalling equipment and infrastructure"/>
+      <unit id="TLIB3047A" title="Repair and adjust mechanical signalling equipment and infrastructure"/>
+      <unit id="TLIB3048A" title="Carry out off-site repair, overhaul and assembly of mechanical signalling equipment"/>
+      <unit id="TLIB3053A" title="Maintain mechanical signalling locking and interlocking devices"/>
+      <unit id="TLIB3120A" title="Test mechanical signalling equipment and isolate faults"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2062A" title="Apply awareness of safeworking rules and regulations"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIS2004A" title="Install and maintain rail bonding systems"/>
+      <unit id="TLIS3005A" title="Install mechanical infrastructure for signalling"/>
+      <unit id="TLIS3023A" title="Erect and mount structures and housings for signalling equipment"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+      <unit id="UETTDRRF02B" title="Perform pole top rescue"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31610" title="Certificate III in Warehousing Operations">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="TLIA3004A" title="Process receipt and delivery of containers and cargo"/>
+      <unit id="TLIA3010A" title="Coordinate goods to bond premises"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3024A" title="Organise warehouse records operations"/>
+      <unit id="TLIA3026A" title="Monitor storage facilities"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3002A" title="Test equipment and isolate faults"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3015A" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID3023A" title="Use specialised liquid bulk gas transfer equipment"/>
+      <unit id="TLID3024A" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLID3027A" title="Prepare for transport of dangerous goods"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+      <unit id="TLID3040A" title="Control lift and movement of crane"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+      <unit id="TLID3044A" title="Shift loads using cranes"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIE3015A" title="Undertake rigger/dogger and driver communication"/>
+      <unit id="TLIE3016A" title="Estimate/calculate load shifting requirements for a mobile crane"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3004A" title="Organise occupational health and safety procedures in the workplace"/>
+      <unit id="TLIF3022A" title="Implement/monitor procedures when warehousing/storing dangerous goods and/or hazardous substances"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIJ3005A" title="Sample, inspect and test products to specifications"/>
+      <unit id="TLIJ3006A" title="Implement grain protection procedures"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL3002A" title="Undertake employee payroll activities"/>
+      <unit id="TLIL3003A" title="Conduct induction process"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2002A" title="Licence to operate an order picking forklift truck"/>
+      <unit id="TLIO2021A" title="Follow security procedures when working with goods and cargo"/>
+      <unit id="TLIO3004A" title="Conduct control procedures for transferring explosives and dangerous/hazardous/high risk goods"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIP3015A" title="Document a records system"/>
+      <unit id="TLIP3016A" title="Identify and classify records to be captured"/>
+      <unit id="TLIP3019A" title="Provide records retrieval service"/>
+      <unit id="TLIP3020A" title="Sentence records"/>
+      <unit id="TLIP3021A" title="Undertake disposal program"/>
+      <unit id="TLIP3022A" title="Undertake movement of records"/>
+      <unit id="TLIP3023A" title="Destroy records"/>
+      <unit id="TLIP3026A" title="Maintain financial records in a small business"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIU3011A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="TLIW2018A" title="Operate hand held air/power equipment for production processes"/>
+      <unit id="TLIW2019A" title="Apply surface coatings using a spray gun"/>
+      <unit id="TLIW2022A" title="Manufacture pallets using automated methods"/>
+      <unit id="TLIW2024A" title="Dock boards using computer programmed machinery"/>
+      <unit id="TLIW2025A" title="Dock boards on mechanical feeds"/>
+      <unit id="TLIW3006A" title="Operate computerised mail and parcels sorting equipment"/>
+      <unit id="TLIW3007A" title="Code and coordinate video-coding operations"/>
+      <unit id="TLIW3008A" title="Carry out culler facer canceller (CFC) operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI32813" title="Certificate III in Rail Yard Coordination">
+    <units>
+      <unit id="TLIB2122A" title="Apply awareness of fundamentals of rail operations in yards or sidings"/>
+      <unit id="TLIB2131A" title="Prepare train"/>
+      <unit id="TLIB3018A" title="Conduct full train examination"/>
+      <unit id="TLIB3021A" title="Conduct train roll-by inspection"/>
+      <unit id="TLIB3129A" title="Conduct pre-movement checks on rolling stock"/>
+      <unit id="TLIC3017A" title="Shunt rolling stock"/>
+      <unit id="TLIE3021A" title="Work and communicate effectively with others"/>
+      <unit id="TLIE3022A" title="Complete workplace documents"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3083B" title="Conduct track protection assessment"/>
+      <unit id="TLIF3087A" title="Follow occupational health, safety and environmental procedures in the rail industry"/>
+      <unit id="TLIF3091A" title="Apply awareness of dangerous goods and hazardous materials requirements"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLIL4038A" title="Organise marshalling and shunting operations"/>
+      <unit id="TLIW2041A" title="Clip points and apply rail safety equipment"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI32611" title="Certificate III in Rail Signalling">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="TLIB3118A" title="Apply awareness of railway fundamentals"/>
+      <unit id="TLIE3022A" title="Complete workplace documents"/>
+      <unit id="TLIE3023A" title="Use electronic communication systems"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3085A" title="Apply local incident response procedures"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIL3071A" title="Control and coordinate local rail traffic movement"/>
+      <unit id="TLIL3072A" title="Operate signal panel or equipment"/>
+      <unit id="TLIP2033A" title="Sell products and services"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI32511" title="Certificate III in Rail Infrastructure">
+    <units>
+      <unit id="AHCARB202A" title="Fell small trees"/>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="NWP227B" title="Control vegetation on a site"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="TLIB2091A" title="Measure and record track geometry"/>
+      <unit id="TLIB2097A" title="Install and maintain guard rails"/>
+      <unit id="TLIB3040A" title="Inspect poles and associated hardware"/>
+      <unit id="TLIB3094B" title="Check and repair track geometry"/>
+      <unit id="TLIB3095A" title="Check and repair points and crossings"/>
+      <unit id="TLIB3099A" title="Examine track infrastructure"/>
+      <unit id="TLIB3100A" title="Visually inspect track infrastructure"/>
+      <unit id="TLIB3102A" title="Adjust rail"/>
+      <unit id="TLIB4071A" title="Install and maintain pole mounted switches and transformers"/>
+      <unit id="TLIC2058A" title="Travel medium or heavy self-propelled on-track equipment"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3089A" title="Implement fatigue management policies and procedures for rail infrastructure"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIS2012A" title="Install and service rail lubrication equipment"/>
+      <unit id="TLIS2027A" title="Install and maintain surface track drainage"/>
+      <unit id="TLIS2033A" title="Install and repair temporary track supports"/>
+      <unit id="TLIS2035A" title="Install and repair fences and gates"/>
+      <unit id="TLIS3010A" title="Test rail using ultrasonic equipment"/>
+      <unit id="TLIS3011A" title="Test rail using nondestructive testing equipment"/>
+      <unit id="TLIS3025A" title="Implement ballast unloading"/>
+      <unit id="TLIS3026B" title="Implement track maintenance and construction"/>
+      <unit id="TLIS3037B" title="Install and repair rail earthworks"/>
+      <unit id="TLIS3040A" title="Construct concrete or steel points and crossings"/>
+      <unit id="TLIS3041A" title="Construct timber or composite points and crossings"/>
+      <unit id="TLIS3045A" title="Install turnouts"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIW2012A" title="Grind rails"/>
+      <unit id="TLIW3013A" title="Grind switches and crossings"/>
+      <unit id="TLIW3015A" title="Weld rail using aluminothermic welding process"/>
+      <unit id="TLIW3016A" title="Weld rail using flashbutt welding process"/>
+      <unit id="TLIW3027A" title="Operate minor track equipment"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31710" title="Certificate III in Mobile Crane Operations">
+    <units>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3011A" title="Set up and rig crane for lift"/>
+      <unit id="TLIB3012A" title="Plan job and set up work areas"/>
+      <unit id="TLIB3013A" title="Maintain mobile cranes"/>
+      <unit id="TLIB3015A" title="Undertake site inspection"/>
+      <unit id="TLIB3016A" title="De-rig, pack and store tools and equipment"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3084A" title="Follow mobile crane safety procedures"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31310" title="Certificate III in International Freight Forwarding (Operator)">
+    <units>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA3010A" title="Coordinate goods to bond premises"/>
+      <unit id="TLIA4030A" title="Organise cargo for export"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIA4033A" title="Organise international transport of freight"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE2014A" title="Compile and process export documentation"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLII3007A" title="Provide freight forwarding information to customers"/>
+      <unit id="TLII4005A" title="Market services and products to clients"/>
+      <unit id="TLII4016A" title="Service freight customers"/>
+      <unit id="TLII4017A" title="Develop freight customers"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIO1002A" title="Follow security procedures when working with passengers and personnel"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI32410" title="Certificate III in Logistics">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="TLIA3002A" title="Maintain container/cargo records"/>
+      <unit id="TLIA3010A" title="Coordinate goods to bond premises"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3023A" title="Coordinate stocktakes"/>
+      <unit id="TLIA3024A" title="Organise warehouse records operations"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIE3018A" title="Maintain freight records"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLIH3004A" title="Identify major roads, services and attractions"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL3002A" title="Undertake employee payroll activities"/>
+      <unit id="TLIL3003A" title="Conduct induction process"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2002A" title="Licence to operate an order picking forklift truck"/>
+      <unit id="TLIO3007A" title="Undertake emergency response action to a security threat"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIP3015A" title="Document a records system"/>
+      <unit id="TLIP3016A" title="Identify and classify records to be captured"/>
+      <unit id="TLIP3019A" title="Provide records retrieval service"/>
+      <unit id="TLIP3020A" title="Sentence records"/>
+      <unit id="TLIP3021A" title="Undertake disposal program"/>
+      <unit id="TLIP3022A" title="Undertake movement of records"/>
+      <unit id="TLIP3023A" title="Destroy records"/>
+      <unit id="TLIP3026A" title="Maintain financial records in a small business"/>
+      <unit id="TLIP3027A" title="Organise freight invoicing and payment"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI32913" title="Certificate III in Tram or Light Rail Infrastructure">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIB2097A" title="Install and maintain guard rails"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLIW3013A" title="Grind switches and crossings"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+      <unit id="TLIW3042A" title="Grind rail on tram_light rail systems"/>
+      <unit id="TLIW3043A" title="Weld rail on tram_light rail systems using electric welding process"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI33013" title="Certificate III in Heritage Locomotive Assistant or Steam Locomotive Fireman">
+    <units>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3002A" title="Test equipment and isolate faults"/>
+      <unit id="TLIB3021A" title="Conduct train roll-by inspection"/>
+      <unit id="TLIB3026A" title="Prepare for train operation"/>
+      <unit id="TLIB3123A" title="Apply awareness of motive power unit fundamentals"/>
+      <unit id="TLIB3124A" title="Apply awareness of steam locomotive fundamentals"/>
+      <unit id="TLIB3126A" title="Assist in the testing of heritage train braking systems"/>
+      <unit id="TLIC3017A" title="Shunt rolling stock"/>
+      <unit id="TLIC3072A" title="Conduct the duties of an assistant on a heritage locomotive"/>
+      <unit id="TLIC3073A" title="Fire a steam locomotive"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2080C" title="Safely access the rail corridor"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3087A" title="Follow occupational health, safety and environmental procedures in the rail industry"/>
+      <unit id="TLIF3091A" title="Apply awareness of dangerous goods and hazardous materials requirements"/>
+      <unit id="TLII4022A" title="Identify and meet customer requirements"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI32111" title="Certificate III in Rail Structures">
+    <units>
+      <unit id="MEM24001B" title="Perform basic penetrant testing"/>
+      <unit id="MEM24003B" title="Perform basic magnetic particle testing"/>
+      <unit id="TLIB2081A" title="Repair timber structures"/>
+      <unit id="TLIB2082A" title="Repair steel structures"/>
+      <unit id="TLIB2083A" title="Maintain bridge bearings"/>
+      <unit id="TLIB2092A" title="Operate minor mechanical equipment"/>
+      <unit id="TLIB2096A" title="Repair concrete/masonry structures"/>
+      <unit id="TLIB2097A" title="Install and maintain guard rails"/>
+      <unit id="TLIE2001A" title="Present routine workplace information"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3089A" title="Implement fatigue management policies and procedures for rail infrastructure"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIS2012A" title="Install and service rail lubrication equipment"/>
+      <unit id="TLIS2013C" title="Install minor structures"/>
+      <unit id="TLIS2027A" title="Install and maintain surface track drainage"/>
+      <unit id="TLIS2028A" title="Install and replace transoms"/>
+      <unit id="TLIS2033A" title="Install and repair temporary track supports"/>
+      <unit id="TLIS2034A" title="Install and repair rail fastening systems"/>
+      <unit id="TLIS2035A" title="Install and repair fences and gates"/>
+      <unit id="TLIS3029B" title="Implement structures maintenance and installation of minor structures"/>
+      <unit id="TLIS3037B" title="Install and repair rail earthworks"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIW3034A" title="Apply protective coating systems to structures"/>
+      <unit id="TLIW3035A" title="Heat and cut materials using oxy-LPG equipment for the rail industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31510" title="Certificate III in Stevedoring">
+    <units>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="TLIA3002A" title="Maintain container/cargo records"/>
+      <unit id="TLIA3004A" title="Process receipt and delivery of containers and cargo"/>
+      <unit id="TLIA3008A" title="Transfer cargo"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3011A" title="Set up and rig crane for lift"/>
+      <unit id="TLIB3012A" title="Plan job and set up work areas"/>
+      <unit id="TLIB3013A" title="Maintain mobile cranes"/>
+      <unit id="TLIB3016A" title="De-rig, pack and store tools and equipment"/>
+      <unit id="TLIB3017A" title="Assemble and dismantle boom or jib"/>
+      <unit id="TLIC4006A" title="Drive multi-combination vehicle"/>
+      <unit id="TLID3040A" title="Control lift and movement of crane"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+      <unit id="TLID3044A" title="Shift loads using cranes"/>
+      <unit id="TLID4008A" title="Monitor crane operations"/>
+      <unit id="TLID4009A" title="Direct crane operations"/>
+      <unit id="TLID4032A" title="Plan and conduct specialised lift"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIE3015A" title="Undertake rigger/dogger and driver communication"/>
+      <unit id="TLIE3016A" title="Estimate/calculate load shifting requirements for a mobile crane"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLILIC3003A" title="Licence to operate a bridge and gantry crane"/>
+      <unit id="TLILIC3004A" title="Licence to operate a derrick crane"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3007A" title="Licence to operate a portal boom crane"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4010A" title="Licence to operate a slewing mobile crane (up to 100 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI32711" title="Certificate III in Track Protection">
+    <units>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="TLIC2081A" title="Pilot rail traffic within work on track authority limits"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2062A" title="Apply awareness of safeworking rules and regulations"/>
+      <unit id="TLIF2097A" title="Use audible track warning devices"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3083B" title="Conduct track protection assessment"/>
+      <unit id="TLIF3089A" title="Implement fatigue management policies and procedures for rail infrastructure"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL3065B" title="Implement a track occupancy authority"/>
+      <unit id="TLIL3082A" title="Implement absolute signal blocking"/>
+      <unit id="TLIL3083A" title="Implement a track work authority and manage rail traffic through worksites"/>
+      <unit id="TLIL3084A" title="Implement a local possession authority"/>
+      <unit id="TLIL4069A" title="Plan and coordinate protection for multiple worksites within limits of a work on track authority"/>
+      <unit id="TLIL4076A" title="Coordinate resources"/>
+      <unit id="TLIW2037B" title="Clip and secure points"/>
+      <unit id="TLIW2039A" title="Place and remove permanent way stop boards"/>
+      <unit id="TLIW3026B" title="Operate stand alone signalling_points control equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI31811" title="Certificate III in Rail Track Surfacing">
+    <units>
+      <unit id="TLIB2092A" title="Operate minor mechanical equipment"/>
+      <unit id="TLIB3094B" title="Check and repair track geometry"/>
+      <unit id="TLIC3045A" title="Operate road/rail vehicle"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE2029A" title="Conduct workplace information briefings"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF3003A" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIF3058A" title="Apply safeworking rules and regulations to rail functions"/>
+      <unit id="TLIF3089A" title="Implement fatigue management policies and procedures for rail infrastructure"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIS2034A" title="Install and repair rail fastening systems"/>
+      <unit id="TLIS3025A" title="Implement ballast unloading"/>
+      <unit id="TLIS3026B" title="Implement track maintenance and construction"/>
+      <unit id="TLIS3039A" title="Measure and mark track for resurfacing"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIW2028A" title="Identify the principles of ballast cleaning operations"/>
+      <unit id="TLIW2029A" title="Identify the principles of ballast regulator operations"/>
+      <unit id="TLIW2030A" title="Identify the principles of dynamic track stabaliser operations"/>
+      <unit id="TLIW2031A" title="Identify the principles of self-propelled rail grinder operations"/>
+      <unit id="TLIW2032A" title="Identify the principles of tamping machine operations"/>
+      <unit id="TLIW2033A" title="Identify the principles of mechanised track laying operations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI42413" title="Certificate IV in Rail Safety Management">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="PSPGOV306B" title="Implement change"/>
+      <unit id="TLIE4030A" title="Prepare rail safety reports"/>
+      <unit id="TLIE4032A" title="Use internal communication systems for rail industry regulatory compliance"/>
+      <unit id="TLIF4099A" title="Develop an application for, or variation to, rail accreditation"/>
+      <unit id="TLIF4100A" title="Identify and meet rail safety regulatory compliance requirements"/>
+      <unit id="TLIF4101A" title="Implement and maintain a rail safety culture"/>
+      <unit id="TLIF4102A" title="Implement and maintain safety management plans"/>
+      <unit id="TLIF4103A" title="Implement fitness for work procedures"/>
+      <unit id="TLIF4104A" title="Manage change in the rail safety environment"/>
+      <unit id="TLIF4105A" title="Manage rail safety compliance"/>
+      <unit id="TLIF4107A" title="Respond to notifiable rail safety occurrences"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4073A" title="Apply asset management system"/>
+      <unit id="TLIL4081A" title="Ensure competency of rail safety workers"/>
+      <unit id="TLIL4082A" title="Coordinate rail interface agreements"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI42513" title="Certificate IV in Traffic Operations">
+    <units>
+      <unit id="HLTAMBPD401C" title="Manage personal stressors in the work environment"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLIE1003A" title="Participate in basic workplace communication"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3004A" title="Prepare workplace documents"/>
+      <unit id="TLIE3023A" title="Use electronic communication systems"/>
+      <unit id="TLIE3026A" title="Carry out advanced calculations in the transport logistics industry "/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF1009A" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2062A" title="Apply awareness of safeworking rules and regulations"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIF3085A" title="Apply local incident response procedures"/>
+      <unit id="TLIF3093A" title="Implement chain of responsibility regulations"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4014A" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF4065A" title="Ensure compliance with Australian Dangerous Goods Code"/>
+      <unit id="TLIF4069A" title="Monitor and respond to traffic flow"/>
+      <unit id="TLIF4070A" title="Operate fire and life safety system within a road tunnel"/>
+      <unit id="TLIF4108A" title="Implement traffic management plan in the transport industry"/>
+      <unit id="TLIF5020A" title="Manage emergencies"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII1002A" title="Apply customer service skills"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIJ3005A" title="Sample, inspect and test products to specifications"/>
+      <unit id="TLIK2003A" title="Apply keyboard skills"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL4032A" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL4036A" title="Develop rosters"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLIO2021A" title="Follow security procedures when working with goods and cargo"/>
+      <unit id="TLIO3007A" title="Undertake emergency response action to a security threat"/>
+      <unit id="TLIO3012A" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIU3014A" title="Operate vehicle in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41410" title="Certificate IV in Transport and Logistics (Road Transport - Motorcycle Riding Instruction)">
+    <units>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TLIC3038A" title="Apply safe motorcycle riding behaviours"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIM4003A" title="Develop safe motorcycle riding behaviours in others"/>
+    </units>
+  </qualification>
+  <qualification id="TLI42010" title="Certificate IV in Logistics">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="SITXFIN004A" title="Manage finances within a budget"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4028A" title="Assess and monitor optimum stock levels"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIA4033A" title="Organise international transport of freight"/>
+      <unit id="TLIA4062A" title="Implement safety stock systems"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIE4013A" title="Apply workplace statistics"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4014A" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF4065A" title="Ensure compliance with Australian Dangerous Goods Code"/>
+      <unit id="TLIF4066A" title="Implement and supervise transport regulations compliance systems"/>
+      <unit id="TLIF4094A" title="Ensure compliance with chain of responsibility"/>
+      <unit id="TLIG4005A" title="Organise transport workload"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII4001A" title="Coordinate quality customer service"/>
+      <unit id="TLIJ4008A" title="Implement and monitor inbound QA systems"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL4030A" title="Control a furniture warehouse"/>
+      <unit id="TLIL4036A" title="Develop rosters"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLIL4058A" title="Plan a career in logistics"/>
+      <unit id="TLIL4059A" title="Implement asset management systems"/>
+      <unit id="TLIL4070A" title="Work effectively in the transport and logistics industry"/>
+      <unit id="TLIL4078A" title="Coordinate fleet control logistics"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLIP4001A" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP4002A" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP4003A" title="Implement, maintain and evaluate dangerous goods transport procedures within the workplace"/>
+      <unit id="TLIP4005A" title="Manage workplace information"/>
+      <unit id="TLIP4013A" title="Implement and monitor logistics planning and process"/>
+      <unit id="TLIP4028A" title="Administer international trading accounts"/>
+      <unit id="TLIP4038A" title="Monitor a supply chain operation"/>
+      <unit id="TLIP4039A" title="Monitor transport operations"/>
+      <unit id="TLIP4040A" title="Monitor warehouse operations"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+      <unit id="TLIR4008A" title="Implement and supervise stocktaking procedures"/>
+      <unit id="TLIR4009A" title="Implement purchasing systems"/>
+      <unit id="TLIR4010A" title="Plan purchasing"/>
+      <unit id="TLIR4012A" title="Conduct international purchasing"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLIU3011A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI42111" title="Certificate IV in Driving Operations">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AURV328961A" title="Recover vehicle"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="HLTAMBPD401C" title="Manage personal stressors in the work environment"/>
+      <unit id="PUADEFVH001A" title="Conduct recovery vehicle operations in a field environment"/>
+      <unit id="PUADEFVH002A" title="Extract disabled equipment using winching techniques in a field environment"/>
+      <unit id="RIICBS312A" title="Conduct bitumen tanker operations"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+      <unit id="TLIC4065A" title="Operate chemical tanker"/>
+      <unit id="TLIC4066A" title="Operate fuel tanker"/>
+      <unit id="TLIC4067A" title="Operate LP gas tanker"/>
+      <unit id="TLIC4068A" title="Operate heavy recovery ancillary equipment"/>
+      <unit id="TLIC4069A" title="Operate heavy recovery vehicle"/>
+      <unit id="TLIC4070A" title="Tow a disabled heavy vehicle"/>
+      <unit id="TLID4048A" title="Top load a dangerous goods tanker"/>
+      <unit id="TLID4049A" title="Bottom load a dangerous goods tanker"/>
+      <unit id="TLID4050A" title="Discharge a dangerous goods tanker"/>
+      <unit id="TLIE1005A" title="Carry out basic workplace calculations"/>
+      <unit id="TLIE3026A" title="Carry out advanced calculations in the transport logistics industry "/>
+      <unit id="TLIE4025A" title="Prepare and process transport documentation for dangerous goods"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2018A" title="Operate firefighting equipment"/>
+      <unit id="TLIF2092A" title="Demonstrate awareness of chain of responsibility regulations"/>
+      <unit id="TLIF3093A" title="Implement chain of responsibility regulations"/>
+      <unit id="TLIF3096A" title="Carry out emergency response to a dangerous goods incident"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4065A" title="Ensure compliance with Australian Dangerous Goods Code"/>
+      <unit id="TLIF4066A" title="Implement and supervise transport regulations compliance systems"/>
+      <unit id="TLIF4095A" title="Apply occupational health and safety requirements for driving operations"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+      <unit id="TLIJ4010A" title="Implement quality systems and procedures in a dangerous goods workplace"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL4079A" title="Manage the recovery process"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2014B" title="Licence to drive a light rigid vehicle"/>
+      <unit id="TLILIC2015B" title="Licence to drive a medium rigid vehicle"/>
+      <unit id="TLILIC2016B" title="Licence to drive a heavy rigid vehicle"/>
+      <unit id="TLILIC3013A" title="Preparation to transport dangerous goods by road"/>
+      <unit id="TLILIC3017B" title="Licence to drive a heavy combination vehicle"/>
+      <unit id="TLILIC3018B" title="Licence to drive a multi combination vehicle"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41910" title="Certificate IV in Mobile Crane Operations">
+    <units>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB3011A" title="Set up and rig crane for lift"/>
+      <unit id="TLIB3012A" title="Plan job and set up work areas"/>
+      <unit id="TLIB3013A" title="Maintain mobile cranes"/>
+      <unit id="TLIB3015A" title="Undertake site inspection"/>
+      <unit id="TLIB3016A" title="De-rig, pack and store tools and equipment"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC3010A" title="Pilot or escort oversized and/or overmassed loads"/>
+      <unit id="TLIC4006A" title="Drive multi-combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLID4032A" title="Plan and conduct specialised lift"/>
+      <unit id="TLIE2008A" title="Process workplace documentation"/>
+      <unit id="TLIE3009A" title="Use pilot and escort communication"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3084A" title="Follow mobile crane safety procedures"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4010A" title="Licence to operate a slewing mobile crane (up to 100 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="TLIP4010A" title="Assess lift requirements and provide quotation"/>
+      <unit id="TLIU1009A" title="Monitor plant and equipment in an environmentally sustainable manner"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41610" title="Certificate IV in International Freight Forwarding  (Senior Operator)">
+    <units>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2048A" title="Carry out border clearance functions"/>
+      <unit id="TLIA2049A" title="Apply specialist permit requirements as part of customs broking activities"/>
+      <unit id="TLIA3010A" title="Coordinate goods to bond premises"/>
+      <unit id="TLIA3050A" title="Apply GST legislation as part of customs broking activities"/>
+      <unit id="TLIA3053A" title="Carry out customs valuation"/>
+      <unit id="TLIA3054A" title="Classify commodities for the import and export of goods through customs"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIA4051A" title="Carry out quarantine procedures"/>
+      <unit id="TLIA4052A" title="Carry out customs clearance practices"/>
+      <unit id="TLIA4055A" title="Classify complex commodities for the import and export of goods through customs"/>
+      <unit id="TLIA4056A" title="Carry out complex customs valuation"/>
+      <unit id="TLIA4057A" title="Analyse, advise on and carry out integrated border clearance transactions"/>
+      <unit id="TLIA5035A" title="Manage international freight transfer"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLII2006A" title="Provide freight forwarding services to customers"/>
+      <unit id="TLII3007A" title="Provide freight forwarding information to customers"/>
+      <unit id="TLII4005A" title="Market services and products to clients"/>
+      <unit id="TLII4016A" title="Service freight customers"/>
+      <unit id="TLII4017A" title="Develop freight customers"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL5026A" title="Manage export logistics"/>
+      <unit id="TLIO1002A" title="Follow security procedures when working with passengers and personnel"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI42311" title="Certificate IV in Rail Infrastructure">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG401A" title="Apply project scope management techniques"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="RIIBEF402A" title="Supervise on-site operations"/>
+      <unit id="TLIB4042A" title="Conduct inspection of safeworking procedures and infrastructure"/>
+      <unit id="TLID4030A" title="Supervise mobile crane operations"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF3089A" title="Implement fatigue management policies and procedures for rail infrastructure"/>
+      <unit id="TLIF4088A" title="Implement and coordinate rail safety and OH&amp;S risk-control strategies"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII4001A" title="Coordinate quality customer service"/>
+      <unit id="TLIJ4009A" title="Implement and monitor quality assurance systems"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4069A" title="Plan and coordinate protection for multiple worksites within limits of a work on track authority"/>
+      <unit id="TLIL4073A" title="Apply asset management system"/>
+      <unit id="TLIL4076A" title="Coordinate resources"/>
+      <unit id="TLIP4001A" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIR4008A" title="Implement and supervise stocktaking procedures"/>
+      <unit id="TLIR4009A" title="Implement purchasing systems"/>
+      <unit id="TLIU3011A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI42211" title="Certificate IV in Rail Network Control">
+    <units>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="TLIB3118A" title="Apply awareness of railway fundamentals"/>
+      <unit id="TLIE3022A" title="Complete workplace documents"/>
+      <unit id="TLIE3023A" title="Use electronic communication systems"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3087A" title="Follow occupational health, safety and environmental procedures in the rail industry"/>
+      <unit id="TLIF3091A" title="Apply awareness of dangerous goods and hazardous materials requirements"/>
+      <unit id="TLIF4086A" title="Control and coordinate incident responses"/>
+      <unit id="TLIF4090A" title="Implement safeworking rules and regulations for network control activities"/>
+      <unit id="TLIG1001A" title="Work effectively with others"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLII4022A" title="Identify and meet customer requirements"/>
+      <unit id="TLIJ2001A" title="Apply quality procedures"/>
+      <unit id="TLIL2041A" title="Monitor and record rolling stock locations"/>
+      <unit id="TLIL3035A" title="Allocate motive power"/>
+      <unit id="TLIL3052A" title="Plan urban passenger train consists"/>
+      <unit id="TLIL4034A" title="Arrange alternative passenger transport"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLIL4038A" title="Organise marshalling and shunting operations"/>
+      <unit id="TLIL4050A" title="Allocate rolling stock"/>
+      <unit id="TLIL4074A" title="Control and coordinate rail traffic movement"/>
+      <unit id="TLIL4075A" title="Implement and amend daily train plan"/>
+      <unit id="TLIL4077A" title="Develop out-of-course rail traffic plans and schedules"/>
+      <unit id="TLIU2012A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41510" title="Certificate IV in Materiel Logistics">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM403B" title="Close simple projects"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+      <unit id="PSPPROC405C" title="Dispose of assets"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+      <unit id="TLIP5036A" title="Manage assets"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIX4007A" title="Implement and monitor integrated logistics support plans"/>
+      <unit id="TLIX4008A" title="Conduct integrated logistics support activities"/>
+      <unit id="TLIX4009A" title="Apply integrated logistics support processes and procedures"/>
+      <unit id="TLIX4011A" title="Conduct logistics support analysis activities"/>
+      <unit id="TLIX4016A" title="Implement and monitor materiel sustainment plans"/>
+      <unit id="TLIX4017A" title="Conduct materiel sustainment activities"/>
+      <unit id="TLIX4018A" title="Apply materiel sustainment processes and procedures"/>
+      <unit id="TLIX4022A" title="Implement and monitor configuration management plans"/>
+      <unit id="TLIX4023A" title="Conduct configuration management activities"/>
+      <unit id="TLIX4024A" title="Apply configuration management processes and procedures"/>
+      <unit id="TLIX4026A" title="Apply codification and cataloguing processes and procedures"/>
+      <unit id="TLIX4027A" title="Assess maintenance spares and manage repairable items"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+      <unit id="TLIX4029A" title="Apply knowledge of integrated logistics support"/>
+      <unit id="TLIX4030A" title="Apply knowledge of materiel sustainment"/>
+      <unit id="TLIX4031A" title="Apply knowledge of configuration management"/>
+      <unit id="TLIX4032A" title="Apply knowledge of technical regulatory framework"/>
+      <unit id="TLIX4033A" title="Apply technical regulatory framework compliance management systems"/>
+      <unit id="TLIX4034A" title="Apply technical risk management systems and techniques"/>
+      <unit id="TLIX4035A" title="Maintain technical data and information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41710" title="Certificate IV in Stevedoring Operations">
+    <units>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4006A" title="Organise and monitor terminal/wharf operations"/>
+      <unit id="TLIA4040A" title="Implement and monitor stevedoring regulations"/>
+      <unit id="TLIA4063A" title="Coordinate stevedoring clerical functions"/>
+      <unit id="TLID4008A" title="Monitor crane operations"/>
+      <unit id="TLID4009A" title="Direct crane operations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE3015A" title="Undertake rigger/dogger and driver communication"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIF3022A" title="Implement/monitor procedures when warehousing/storing dangerous goods and/or hazardous substances"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4014A" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF4064A" title="Manage fatigue management policy and procedures"/>
+      <unit id="TLIF4094A" title="Ensure compliance with chain of responsibility"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII4001A" title="Coordinate quality customer service"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIK2010A" title="Use infotechnology devices in the workplace"/>
+      <unit id="TLIL2031A" title="Monitor and process attendance records"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL4032A" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL4033A" title="Promote effective workplace practice"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLIM4004A" title="Mentor individuals or small groups"/>
+      <unit id="TLIO3016A" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIP4001A" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP4002A" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP4003A" title="Implement, maintain and evaluate dangerous goods transport procedures within the workplace"/>
+      <unit id="TLIP4005A" title="Manage workplace information"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41210" title="Certificate IV in Transport and Logistics (Road Transport - Car Driving Instruction)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TLIC3036A" title="Apply safe car driving behaviours"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIG2007A" title="Work in a socially diverse environment"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIM4001A" title="Develop safe car driving behaviours in others"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI41310" title="Certificate IV in Transport and Logistics (Road Transport - Heavy Vehicle Driving Instruction)">
+    <units>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TLIC3037A" title="Apply safe heavy vehicle driving behaviours"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF4066A" title="Implement and supervise transport regulations compliance systems"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL2008A" title="Complete routine administrative tasks"/>
+      <unit id="TLIM4002A" title="Develop safe heavy vehicle driving behaviours in others"/>
+    </units>
+  </qualification>
+  <qualification id="TLI40410" title="Certificate IV in Transport and Logistics (Rail Operations)">
+    <units>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4006A" title="Organise and monitor terminal/wharf operations"/>
+      <unit id="TLIA4025A" title="Regulate temperature controlled stock"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIB3075A" title="Inspect and prepare a motive power unit"/>
+      <unit id="TLIB4076A" title="Inspect and prepare a heritage motive power unit"/>
+      <unit id="TLIB4077A" title="Inspect and prepare a heritage steam locomotive"/>
+      <unit id="TLIC3027A" title="Stable a motive power unit"/>
+      <unit id="TLIC3030A" title="Operate and monitor a heritage steam locomotive"/>
+      <unit id="TLIC3031A" title="Stable a heritage steam locomotive"/>
+      <unit id="TLIC4016A" title="Conduct marshalling operations"/>
+      <unit id="TLIC4019A" title="Drive train to operational requirements"/>
+      <unit id="TLIC4023A" title="Operate train with due consideration of route conditions"/>
+      <unit id="TLIC4024A" title="Operate urban passenger train"/>
+      <unit id="TLIC4026A" title="Operate and monitor a motive power unit"/>
+      <unit id="TLID4008A" title="Monitor crane operations"/>
+      <unit id="TLID4009A" title="Direct crane operations"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIE4013A" title="Apply workplace statistics"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4014A" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF4021A" title="Respond to train-driving emergencies and abnormal situations"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII4001A" title="Coordinate quality customer service"/>
+      <unit id="TLII4005A" title="Market services and products to clients"/>
+      <unit id="TLII4008A" title="Monitor transport activities at interchanges"/>
+      <unit id="TLII4016A" title="Service freight customers"/>
+      <unit id="TLII4017A" title="Develop freight customers"/>
+      <unit id="TLIK4008A" title="Implement and monitor network security"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL4032A" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL4033A" title="Promote effective workplace practice"/>
+      <unit id="TLIL4034A" title="Arrange alternative passenger transport"/>
+      <unit id="TLIL4036A" title="Develop rosters"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLIL4038A" title="Organise marshalling and shunting operations"/>
+      <unit id="TLIL4040A" title="Plan and control daily train operations"/>
+      <unit id="TLIL4042A" title="Control rail traffic movement"/>
+      <unit id="TLIL4043A" title="Allocate freight"/>
+      <unit id="TLIL4044A" title="Organise freight yard movement"/>
+      <unit id="TLIL4047A" title="Coordinate train movement activities"/>
+      <unit id="TLIL4049A" title="Develop train plans and schedules"/>
+      <unit id="TLIL4050A" title="Allocate rolling stock"/>
+      <unit id="TLIP4001A" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP4002A" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP4005A" title="Manage workplace information"/>
+      <unit id="TLIP4031A" title="Maintain customer credit accounts and services"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI41810" title="Certificate IV in Warehousing Operations">
+    <units>
+      <unit id="TLIA4025A" title="Regulate temperature controlled stock"/>
+      <unit id="TLIA4028A" title="Assess and monitor optimum stock levels"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIE4013A" title="Apply workplace statistics"/>
+      <unit id="TLIF1001A" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIF4014A" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF4094A" title="Ensure compliance with chain of responsibility"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+      <unit id="TLIG4005A" title="Organise transport workload"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII4001A" title="Coordinate quality customer service"/>
+      <unit id="TLII4005A" title="Market services and products to clients"/>
+      <unit id="TLIJ3002A" title="Apply quality systems"/>
+      <unit id="TLIL1001A" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL4010A" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL4021A" title="Coordinate the erection and dismantling of temporary storage facilities"/>
+      <unit id="TLIL4032A" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL4033A" title="Promote effective workplace practice"/>
+      <unit id="TLIL4036A" title="Develop rosters"/>
+      <unit id="TLIL4037A" title="Apply and amend rosters"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2002A" title="Licence to operate an order picking forklift truck"/>
+      <unit id="TLIM4004A" title="Mentor individuals or small groups"/>
+      <unit id="TLIP4001A" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP4002A" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP4005A" title="Manage workplace information"/>
+      <unit id="TLIP4031A" title="Maintain customer credit accounts and services"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIU3011A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIU4010A" title="Develop workplace policy and procedures for sustainability"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI50310" title="Diploma of International Freight Forwarding">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMKG513A" title="Promote products and services to international markets"/>
+      <unit id="PSPGOV518A" title="Benchmark performance"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA5059A" title="Plan and organise the international forwarding of freight by sea and multimodal transport"/>
+      <unit id="TLIA5060A" title="Plan and organise the international forwarding of freight by air transport"/>
+      <unit id="TLIA5061A" title="Plan and organise the international forwarding of freight by road and rail transport"/>
+      <unit id="TLIE5020A" title="Apply knowledge of freight forwarding documentation and permits"/>
+      <unit id="TLIK5009A" title="Apply knowledge of ICT to international freight forwarding activities"/>
+      <unit id="TLIL5061A" title="Apply knowledge of the international freight forwarding industry"/>
+      <unit id="TLIL5062A" title="Apply knowledge of logistics, storage and distribution to international freight forwarding"/>
+      <unit id="TLIL5063A" title="Review contracts, insurance, risk and liability in the international freight forwarding context"/>
+      <unit id="TLIL5064A" title="Manage international special freight transport services including dangerous goods and special cargo"/>
+      <unit id="TLIO5020A" title="Advise on and manage security and safety in international freight transport"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TLI50410" title="Diploma of Logistics">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="SITXEVT018B" title="Develop a transport strategy for an event"/>
+      <unit id="TLIA5029A" title="Plan and manage storage of dangerous goods and hazardous substances"/>
+      <unit id="TLIA5035A" title="Manage international freight transfer"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIB5010A" title="Plan and implement maintenance schedules"/>
+      <unit id="TLIF4064A" title="Manage fatigue management policy and procedures"/>
+      <unit id="TLIF5017A" title="Investigate rail safety incidents"/>
+      <unit id="TLIF5020A" title="Manage emergencies"/>
+      <unit id="TLII5018A" title="Manage customer service"/>
+      <unit id="TLIJ5007A" title="Conduct internal quality audits"/>
+      <unit id="TLIK5006A" title="Evaluate software requirements and hardware enhancements"/>
+      <unit id="TLIL4009A" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIL5019A" title="Implement and monitor transport logistics"/>
+      <unit id="TLIL5020A" title="Develop and maintain operational procedures for transport and logistics enterprises"/>
+      <unit id="TLIL5026A" title="Manage export logistics"/>
+      <unit id="TLIL5055A" title="Manage a supply chain"/>
+      <unit id="TLIL5057A" title="Maintain, monitor and improve transport operations systems"/>
+      <unit id="TLIM4004A" title="Mentor individuals or small groups"/>
+      <unit id="TLIO5005A" title="Plan and manage security procedures for the enterprise"/>
+      <unit id="TLIO5006A" title="Plan and manage security procedures for transferring and transporting dangerous goods"/>
+      <unit id="TLIO5017A" title="Manage security of storage facilities"/>
+      <unit id="TLIO5018A" title="Manage compliance with customs excise"/>
+      <unit id="TLIP5004A" title="Develop a transport and logistics business plan"/>
+      <unit id="TLIP5006A" title="Establish international distribution networks"/>
+      <unit id="TLIP5007A" title="Contribute to the development of a workplace learning environment"/>
+      <unit id="TLIP5008A" title="Manage a transport and logistics business unit"/>
+      <unit id="TLIP5011A" title="Develop and evaluate strategies for transport and logistics enterprises"/>
+      <unit id="TLIP5025A" title="Set and achieve budget"/>
+      <unit id="TLIP5035A" title="Manage budgets and financial plans"/>
+      <unit id="TLIP5036A" title="Manage assets"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+      <unit id="TLIR5005A" title="Manage a contract"/>
+      <unit id="TLIR5006A" title="Develop, implement and review purchasing strategies"/>
+      <unit id="TLIR5007A" title="Manage international purchasing"/>
+      <unit id="TLIR5014A" title="Manage suppliers"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIU4010A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="TLIU5006A" title="Conduct environmental audits"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+      <unit id="TLIX5036A" title="Manage and monitor technical data and information systems"/>
+      <unit id="TLIX5040A" title="Manage contracted support services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI50510" title="Diploma of Deployment Logistics">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="PSPGOV503B" title="Coordinate resource allocation and usage"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT701B" title="Provide strategic direction"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+      <unit id="PSPPROC405C" title="Dispose of assets"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+      <unit id="PSPPROC503B" title="Manage contract performance"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAOPE001B" title="Supervise response"/>
+      <unit id="SITXEVT018B" title="Develop a transport strategy for an event"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TLIA3023A" title="Coordinate stocktakes"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4028A" title="Assess and monitor optimum stock levels"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIB2001A" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIG4006A" title="Facilitate work teams"/>
+      <unit id="TLII5018A" title="Manage customer service"/>
+      <unit id="TLIL4005A" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL4033A" title="Promote effective workplace practice"/>
+      <unit id="TLIL4059A" title="Implement asset management systems"/>
+      <unit id="TLIL5020A" title="Develop and maintain operational procedures for transport and logistics enterprises"/>
+      <unit id="TLIL5055A" title="Manage a supply chain"/>
+      <unit id="TLIL5057A" title="Maintain, monitor and improve transport operations systems"/>
+      <unit id="TLIO5005A" title="Plan and manage security procedures for the enterprise"/>
+      <unit id="TLIP5036A" title="Manage assets"/>
+      <unit id="TLIR5014A" title="Manage suppliers"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+      <unit id="TLIX4029A" title="Apply knowledge of integrated logistics support"/>
+      <unit id="TLIX4030A" title="Apply knowledge of materiel sustainment"/>
+      <unit id="TLIX4031A" title="Apply knowledge of configuration management"/>
+      <unit id="TLIX4032A" title="Apply knowledge of technical regulatory framework"/>
+      <unit id="TLIX5006A" title="Manage verification and validation"/>
+      <unit id="TLIX5015A" title="Establish supply chains"/>
+      <unit id="TLIX5020A" title="Develop and review configuration management plans"/>
+      <unit id="TLIX5021A" title="Manage configuration management processes"/>
+      <unit id="TLIX5025A" title="Provide specialist configuration management advice"/>
+      <unit id="TLIX5036A" title="Manage and monitor technical data and information systems"/>
+      <unit id="TLIX5037A" title="Plan logistic support for deployed operations"/>
+      <unit id="TLIX5038A" title="Organise the deployment and delivery of logistics support"/>
+      <unit id="TLIX5039A" title="Plan and conduct road convoy"/>
+      <unit id="TLIX5040A" title="Manage contracted support services"/>
+      <unit id="TLIX5041A" title="Organise supply support on deployment"/>
+      <unit id="TLIX5042A" title="Organise road transport operations"/>
+      <unit id="TLIX5043A" title="Conduct maintenance on deployed operations"/>
+      <unit id="TLIX5044A" title="Organise health support operations"/>
+      <unit id="TLIX5045A" title="Manage and monitor catering on deployed operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI50210" title="Diploma of Materiel Logistics">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG503A" title="Manage project time"/>
+      <unit id="BSBPMG504A" title="Manage project costs"/>
+      <unit id="BSBPMG506A" title="Manage project human resources"/>
+      <unit id="BSBPMG507A" title="Manage project communications"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="PSPGOV504B" title="Undertake research and analysis"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV518A" title="Benchmark performance"/>
+      <unit id="PSPGOV524A" title="Interpret data and related statistics"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+      <unit id="PSPPROC503B" title="Manage contract performance"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="TLIL4059A" title="Implement asset management systems"/>
+      <unit id="TLIL5055A" title="Manage a supply chain"/>
+      <unit id="TLIP5036A" title="Manage assets"/>
+      <unit id="TLIR5014A" title="Manage suppliers"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIX4028A" title="Apply knowledge of logistics"/>
+      <unit id="TLIX4029A" title="Apply knowledge of integrated logistics support"/>
+      <unit id="TLIX4030A" title="Apply knowledge of materiel sustainment"/>
+      <unit id="TLIX4031A" title="Apply knowledge of configuration management"/>
+      <unit id="TLIX4032A" title="Apply knowledge of technical regulatory framework"/>
+      <unit id="TLIX5003A" title="Develop and review integrated logistics support plans"/>
+      <unit id="TLIX5004A" title="Develop integrated logistics support processes and procedures"/>
+      <unit id="TLIX5005A" title="Manage integrated logistics support operations"/>
+      <unit id="TLIX5006A" title="Manage verification and validation"/>
+      <unit id="TLIX5010A" title="Provide specialist integrated logistics support advice"/>
+      <unit id="TLIX5012A" title="Develop and review materiel sustainment plans"/>
+      <unit id="TLIX5013A" title="Develop materiel sustainment processes and procedures"/>
+      <unit id="TLIX5014A" title="Manage materiel sustainment operations"/>
+      <unit id="TLIX5015A" title="Establish supply chains"/>
+      <unit id="TLIX5019A" title="Provide specialist materiel sustainment advice"/>
+      <unit id="TLIX5020A" title="Develop and review configuration management plans"/>
+      <unit id="TLIX5021A" title="Manage configuration management processes"/>
+      <unit id="TLIX5025A" title="Provide specialist configuration management advice"/>
+      <unit id="TLIX5036A" title="Manage and monitor technical data and information systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI60110" title="Advanced Diploma of Materiel Logistics">
+    <units>
+      <unit id="BSBCOM601B" title="Research compliance requirements and issues"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG503A" title="Manage project time"/>
+      <unit id="BSBPMG604A" title="Direct cost management of a project program"/>
+      <unit id="BSBPMG606A" title="Direct human resources management of a project program"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPHR620A" title="Manage organisational development"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+      <unit id="PSPMNGT613A" title="Develop partnering arrangements"/>
+      <unit id="PSPMNGT615A" title="Influence workforce effectiveness"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPOL602A" title="Provide policy advice"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="PSPPROC603C" title="Divest strategic assets"/>
+      <unit id="PSPPROC604B" title="Plan for strategic procurement"/>
+      <unit id="PSPPROC605B" title="Coordinate strategic procurement"/>
+      <unit id="PSPPROC606B" title="Negotiate strategic procurement"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+      <unit id="PSPPROC704A" title="Influence and define strategic procurement"/>
+      <unit id="PSPPROC705A" title="Establish strategic procurement context"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIX5015A" title="Establish supply chains"/>
+      <unit id="TLIX6001A" title="Formulate materiel logistics strategies"/>
+      <unit id="TLIX6002A" title="Contribute to materiel logistics strategies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TLI60210" title="Advanced Diploma of Deployment Logistics">
+    <units>
+      <unit id="BSBCOM601B" title="Research compliance requirements and issues"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG604A" title="Direct cost management of a project program"/>
+      <unit id="BSBPMG606A" title="Direct human resources management of a project program"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV513A" title="Refine complex workplace documents"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPHR620A" title="Manage organisational development"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT608B" title="Manage risk"/>
+      <unit id="PSPMNGT610A" title="Manage public sector financial resources"/>
+      <unit id="PSPMNGT613A" title="Develop partnering arrangements"/>
+      <unit id="PSPMNGT615A" title="Influence workforce effectiveness"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+      <unit id="PSPPOL602A" title="Provide policy advice"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIL5019A" title="Implement and monitor transport logistics"/>
+      <unit id="TLIL5020A" title="Develop and maintain operational procedures for transport and logistics enterprises"/>
+      <unit id="TLIL5055A" title="Manage a supply chain"/>
+      <unit id="TLIU4001A" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIX6002A" title="Contribute to materiel logistics strategies"/>
+      <unit id="TLIX6046A" title="Plan deployed logistic support for significant operations"/>
+      <unit id="TLIX6047A" title="Monitor and provide logistic staff support for significant deployed operations"/>
+      <unit id="TLIX6048A" title="Manage the deployment and delivery of logistic support"/>
+      <unit id="TLIX6049A" title="Undertake provisioning in support of deployed operations"/>
+      <unit id="TLIX6050A" title="Plan distribution operations on deployment"/>
+      <unit id="TLIX6051A" title="Plan maintenance for deployed operations"/>
+      <unit id="TLIX6052A" title="Plan health support for deployed personnel"/>
+      <unit id="TLIX6053A" title="Coordinate health support operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<qualifications class="DRT03">
+  <qualification id="DRT20503" title="Certificate II in Drilling - Mineral Exploration">
+    <units>
+      <unit id="DRTNHB02A" title="Follow underground health and safety procedures"/>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB09A" title="Assist continuous flight auger drilling"/>
+      <unit id="DRTNHB11A" title="Assist conventional core drilling"/>
+      <unit id="DRTNHB12A" title="Assist wireline core drilling"/>
+      <unit id="DRTNHB15A" title="Assist mud rotary drilling"/>
+      <unit id="DRTOG55A" title="Support blow out prevention operations"/>
+      <unit id="DRTOG56A" title="Assist withy coal seam gas control"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20303" title="Certificate II in Drilling - Geotechnical">
+    <units>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB09A" title="Assist continuous flight auger drilling"/>
+      <unit id="DRTNHB11A" title="Assist conventional core drilling"/>
+      <unit id="DRTNHB12A" title="Assist wireline core drilling"/>
+      <unit id="DRTNHB15A" title="Assist mud rotary drilling"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT21003" title="Certificate II in Drilling - Seismic">
+    <units>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB09A" title="Assist continuous flight auger drilling"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20903" title="Certificate II in Drilling - Oil/Gas On shore">
+    <units/>
+  </qualification>
+  <qualification id="DRT20703" title="Certificate II in Drilling - Blast Hole">
+    <units>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB18A" title="Assist down hole hammer drilling"/>
+      <unit id="DRTNHB19A" title="Assist top hole hammer drilling"/>
+      <unit id="MNMOCC428A" title="Operate mine services vehicle"/>
+      <unit id="MNMPRD116A" title="Take samples"/>
+      <unit id="MNMUGC432A" title="Operate equipment services vehicle underground"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20403" title="Certificate II in Drilling - Trenchless Technology">
+    <units>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="DRTNHB13A" title="Assist guided boring"/>
+      <unit id="DRTNHB14A" title="Assist directional drilling"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20603" title="Certificate II in Drilling - Mineral Production and Development">
+    <units>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB16A" title="Assist raiseboring"/>
+      <unit id="DRTNHB18A" title="Assist down hole hammer drilling"/>
+      <unit id="DRTNHB19A" title="Assist top hole hammer drilling"/>
+      <unit id="MNMOCC428A" title="Operate mine services vehicle"/>
+      <unit id="MNMPRD116A" title="Take samples"/>
+      <unit id="MNMUGC432A" title="Operate equipment services vehicle underground"/>
+    </units>
+  </qualification>
+  <qualification id="DRT21103" title="Certificate II in Drilling - Water Well">
+    <units>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB09A" title="Assist continuous flight auger drilling"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20803" title="Certificate II in Drilling - Oil/Gas Off shore">
+    <units>
+      <unit id="DRTOGOF05B" title="Carry out deck operations"/>
+      <unit id="DRTOGOF06B" title="Handle and store cargo"/>
+      <unit id="DRTOGOF07B" title="Assist in the transfer of passengers and freight  during helicopter operations"/>
+      <unit id="DRTOGOF09B" title="Contribute to the control of offshore emergencies"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20203" title="Certificate II in Drilling - Foundation/Construction">
+    <units>
+      <unit id="BCCCM2004B" title="Drain and dewater site"/>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+  </qualification>
+  <qualification id="DRT20103" title="Certificate II in Drilling - Environmental">
+    <units>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="DRTNHB08A" title="Assist air drilling"/>
+      <unit id="DRTNHB09A" title="Assist continuous flight auger drilling"/>
+      <unit id="DRTNHB11A" title="Assist conventional core drilling"/>
+      <unit id="DRTNHB12A" title="Assist wireline core drilling"/>
+      <unit id="DRTNHB15A" title="Assist mud rotary drilling"/>
+      <unit id="DRTNHB27A" title="Conduct air drilling"/>
+      <unit id="DRTNHB28A" title="Conduct continuous flight auger drilling"/>
+      <unit id="DRTNHB30A" title="Conduct conventional core drilling"/>
+      <unit id="DRTNHB31A" title="Conduct wireline core drilling"/>
+      <unit id="DRTNHB36A" title="Conduct mud rotary drilling"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT30603" title="Certificate III in Drilling - Mineral Production and Development">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="MNMUGC102A" title="Conduct ground support operations"/>
+      <unit id="MNMUGC432A" title="Operate equipment services vehicle underground"/>
+      <unit id="MNMUGC439A" title="Conduct mechanical scaling"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30303" title="Certificate III in Drilling - Geotechnical">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30103" title="Certificate III in Drilling - Environmental">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+    </units>
+  </qualification>
+  <qualification id="DRT31103" title="Certificate III in Drilling - Water Well">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="DRTNHB24A" title="Construct monitoring bores"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30403" title="Certificate III in Drilling - Trenchless Technology">
+    <units>
+      <unit id="BCCTT3001B" title="Conduct fluid assisted directional boring"/>
+      <unit id="BCCTT3002B" title="Conduct impact moling, ramming and augering"/>
+      <unit id="BCCTT3003B" title="Control micro tunnelling and pipejacking"/>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="DRTNHB32A" title="Conduct guided boring"/>
+      <unit id="DRTNHB33A" title="Conduct directional drilling"/>
+      <unit id="DRTNHB34A" title="Conduct reaming"/>
+      <unit id="DRTNHB35A" title="Install product pipe"/>
+      <unit id="DRTOGOF21B" title="Operate drilling fluids and mud pits"/>
+      <unit id="DRTOGON24B" title="Operate mud systems"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30903" title="Certificate III in Drilling - Oil/Gas On shore">
+    <units/>
+  </qualification>
+  <qualification id="DRT30803" title="Certificate III in Drilling - Oil/Gas Off shore">
+    <units>
+      <unit id="DRTOGOF07B" title="Assist in the transfer of passengers and freight  during helicopter operations"/>
+    </units>
+  </qualification>
+  <qualification id="DRT31003" title="Certificate III in Drilling - Seismic">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30703" title="Certificate III in Drilling - Blast Hole">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="MNCO1040A" title="Conduct shotfiring operations"/>
+      <unit id="MNCU1048A" title="Conduct shotfiring"/>
+      <unit id="MNMOCC103A" title="Prepare for blasting"/>
+      <unit id="MNMOCC104A" title="Conduct blasting operations"/>
+      <unit id="MNMUGC108A" title="Maintain magazine"/>
+      <unit id="MNMUGC432A" title="Operate equipment services vehicle underground"/>
+      <unit id="MNMUGC441A" title="Handle and transport explosives"/>
+      <unit id="MNQOPS311A" title="Conduct blast survey"/>
+      <unit id="MNQOPS413A" title="Conduct shotfiring"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30203" title="Certificate III in Drilling - Foundation/Construction">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+    </units>
+  </qualification>
+  <qualification id="DRT30503" title="Certificate III in Drilling - Mineral Exploration">
+    <units>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="DRTNHB02A" title="Follow underground health and safety procedures"/>
+      <unit id="DRTOG55A" title="Support blow out prevention operations"/>
+      <unit id="DRTOG56A" title="Assist withy coal seam gas control"/>
+      <unit id="DRTOGOF21B" title="Operate drilling fluids and mud pits"/>
+      <unit id="DRTOGON24B" title="Operate mud systems"/>
+      <unit id="MNMMNI401A" title="Administer shotfiring activities"/>
+    </units>
+  </qualification>
+  <qualification id="DRT40403" title="Certificate IV in Drilling - Trenchless Technology">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT40503" title="Certificate IV in Drilling - Mineral Exploration">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="DRTOG30C" title="Carry out well control and blowout prevention"/>
+      <unit id="DRTOG57A" title="Apply effective coal seam gas control practices"/>
+      <unit id="DRTOG58A" title="Apply blow out prevention operational procedures"/>
+      <unit id="DRTOGOF21B" title="Operate drilling fluids and mud pits"/>
+      <unit id="MNMMNI401A" title="Administer shotfiring activities"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT40803" title="Certificate IV in Drilling - Oil/Gas Off shore">
+    <units>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+  </qualification>
+  <qualification id="DRT40103" title="Certificate IV in Drilling - Environmental">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT40903" title="Certificate IV in Drilling - Oil/Gas On shore">
+    <units>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+  </qualification>
+  <qualification id="DRT40703" title="Certificate IV in Drilling - Blast Hole">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT41003" title="Certificate IV in Drilling - Seismic">
+    <units>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+  </qualification>
+  <qualification id="DRT41103" title="Certificate IV in Drilling - Water Well">
+    <units>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+  </qualification>
+  <qualification id="DRT40203" title="Certificate IV in Drilling - Foundation/Construction">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT40603" title="Certificate IV in Drilling - Mineral Production and Development">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT40303" title="Certificate IV in Drilling - Geotechnical">
+    <units>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAAASS404A" title="Participate in assessment validation"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT50803" title="Diploma of Drilling - Oil/Gas Off shore">
+    <units>
+      <unit id="DRTOGOF07B" title="Assist in the transfer of passengers and freight  during helicopter operations"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50303" title="Diploma of Drilling - Geotechnical">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50503" title="Diploma of Drilling - Mineral Exploration">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+      <unit id="DRTOG30C" title="Carry out well control and blowout prevention"/>
+      <unit id="DRTOG57A" title="Apply effective coal seam gas control practices"/>
+      <unit id="DRTOG58A" title="Apply blow out prevention operational procedures"/>
+      <unit id="DRTOGOF21B" title="Operate drilling fluids and mud pits"/>
+      <unit id="DRTOGON24B" title="Operate mud systems"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="DRT50703" title="Diploma of Drilling - Blast Hole">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT51103" title="Diploma of Drilling - Water Well">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50203" title="Diploma of Drilling - Foundation/Construction">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50903" title="Diploma of Drilling - Oil/Gas On shore">
+    <units/>
+  </qualification>
+  <qualification id="DRT51003" title="Diploma of Drilling - Seismic">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50603" title="Diploma of Drilling - Mineral Production and Development">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50403" title="Diploma of Drilling - Trenchless Technology">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT50103" title="Diploma of Drilling - Environmental">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+    </units>
+  </qualification>
+  <qualification id="DRT60103" title="Advanced Diploma of Drilling Management">
+    <units>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT604A" title="Manage business operations"/>
+      <unit id="DRTOG54B" title="Manage multiple drilling operations"/>
+    </units>
+  </qualification>
+</qualifications>

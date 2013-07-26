@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<skillsets class="CPP07">
+  <skillset id="CPPSS00002" title="Apply Planning Law to Surveying Skill Set">
+    <units>
+      <unit id="CPPSIS5021A" title="Apply land and planning law to surveying"/>
+      <unit id="PSPLAND308A" title="Compile and check survey plans"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00003" title="Collect and Integrate Spatial Data Skill Set">
+    <units>
+      <unit id="CPPSIS5031A" title="Plan spatial data collection and validation"/>
+      <unit id="CPPSIS5032A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5036A" title="Integrate spatial datasets"/>
+      <unit id="CPPSIS5059A" title="Determine suitable information sources to create new spatial datasets"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00004" title="Conduct Building Access Audits Skill Set">
+    <units>
+      <unit id="CPPACC4001A" title="Apply disability awareness to assessing access situations"/>
+      <unit id="CPPACC4005A" title="Conduct a building access audit"/>
+      <unit id="CPPACC4010A" title="Conduct an aged care facility access audit"/>
+      <unit id="CPPACC4011A" title="Conduct an educational facility access audit"/>
+      <unit id="CPPACC5017A" title="Provide expert access advice on building renovations"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00005" title="Conduct Factual Investigation Skill Set">
+    <units>
+      <unit id="CPPSEC3027A" title="Develop investigative plan"/>
+      <unit id="CPPSEC3028A" title="Compile investigative report"/>
+      <unit id="CPPSEC3029A" title="Provide quality investigative services to clients"/>
+      <unit id="CPPSEC3032A" title="Gather information by factual investigation"/>
+      <unit id="CPPSEC3033A" title="Conduct interviews and take statements"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00006" title="Conduct Investigations Skill Set">
+    <units>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2014A" title="Operate basic security equipment"/>
+      <unit id="CPPSEC2016A" title="Contribute to investigative activities"/>
+      <unit id="CPPSEC3026A" title="Work effectively in investigative services"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00007" title="Conduct Outdoor Access Audits Skill Set">
+    <units>
+      <unit id="CPPACC4001A" title="Apply disability awareness to assessing access situations"/>
+      <unit id="CPPACC4006A" title="Conduct a playground access audit"/>
+      <unit id="CPPACC4007A" title="Conduct a streetscape access audit"/>
+      <unit id="CPPACC4012A" title="Conduct an outdoor recreation area access audit"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00008" title="Conduct Remote Location Surveys Skill Set">
+    <units>
+      <unit id="CPPSIS4027A" title="Organise field services"/>
+      <unit id="CPPSIS4028A" title="Organise equipment and supplies"/>
+      <unit id="CPPSIS4032A" title="Plan and conduct survey expeditions"/>
+      <unit id="CPPSIS5032A" title="Capture new spatial data"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00009" title="Conduct Surveillance Skill Set">
+    <units>
+      <unit id="CPPSEC3027A" title="Develop investigative plan"/>
+      <unit id="CPPSEC3028A" title="Compile investigative report"/>
+      <unit id="CPPSEC3029A" title="Provide quality investigative services to clients"/>
+      <unit id="CPPSEC3030A" title="Conduct surveillance"/>
+      <unit id="CPPSEC3031A" title="Organise and operate a surveillance vehicle"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00010" title="Conduct Transport Access Audits Skill Set">
+    <units>
+      <unit id="CPPACC4001A" title="Apply disability awareness to assessing access situations"/>
+      <unit id="CPPACC4008A" title="Conduct a transport conveyance and boarding device access audit"/>
+      <unit id="CPPACC4009A" title="Conduct a transport premises access audit"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00011" title="Coordinate Investigative Activities Skill Set">
+    <units>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPSEC4013A" title="Undertake case management of investigations"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00012" title="Design and Develop Spatial Information Projects Skill Set">
+    <units>
+      <unit id="CPPSIS5043A" title="Design a spatial data storage system"/>
+      <unit id="CPPSIS6024A" title="Design a spatial project plan"/>
+      <unit id="CPPSIS6027A" title="Design spatial information services project deliverables"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00013" title="Design Spatial Information Systems Skill Set">
+    <units>
+      <unit id="CPPSIS5043A" title="Design a spatial data storage system"/>
+      <unit id="CPPSIS6038A" title="Design spatial networks and geocoding"/>
+      <unit id="CPPSIS6039A" title="Develop distributed mapping applications"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00014" title="Develop and Implement Environmentally Sustainable Cleaning Programs">
+    <units>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN4001B" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00015" title="Implement Best Practice in Spatial Information Projects Skill Set">
+    <units>
+      <unit id="CPPSIS5033A" title="Implement a spatial information services project plan"/>
+      <unit id="CPPSIS5034A" title="Determine spatial data requirements"/>
+      <unit id="CPPSIS5039A" title="Produce spatial project deliverables"/>
+      <unit id="CPPSIS5041A" title="Monitor and control the spatial components of projects"/>
+      <unit id="CPPSIS5042A" title="Maintain effective internal and external spatial communication networks"/>
+      <unit id="CPPSIS5045A" title="Undertake spatial process improvement to reduce costs and improve service"/>
+      <unit id="CPPSIS6025A" title="Apply quality control measures to spatial information services industry"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00016" title="Implement Environmentally Sustainable Cleaning Programs">
+    <units>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00018" title="Induction to Surveying and Spatial Information Services">
+    <units>
+      <unit id="CPPSIS2011A" title="Prepare for work in the spatial information services industry"/>
+      <unit id="CPPSIS2012A" title="Assist in the collection of spatial data"/>
+      <unit id="CPPSIS2013A" title="Assist in the storage and retrieval of spatial data"/>
+      <unit id="CPPSIS2017A" title="Use information technology for spatial information services activity"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00019" title="Install and Decommission Fixed Fire Extinguishing Systems Skill Set">
+    <units>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES3044A" title="Interpret installation requirements for gaseous fire-suppression systems"/>
+      <unit id="CPPFES3045A" title="Install gaseous agent containers and actuators"/>
+      <unit id="CPPFES3046A" title="Decommission gaseous agent containers and actuators"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00020" title="Maintain Bulk Extinguishing Agent Container Warehouses Skill Set">
+    <units>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES2048A" title="Receive and dispatch scheduled gaseous fire-extinguishing agents"/>
+      <unit id="CPPFES2049A" title="Conduct recovery, reclaim and fill operations for scheduled gaseous fire-extinguishing agents"/>
+      <unit id="CPPFES2050A" title="Monitor storage operations for scheduled gaseous fire-extinguishing agents"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00021" title="Maintain Portable Fire Extinguishers Skill Set">
+    <units>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2021A" title="Inspect, test and maintain fire extinguishers"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00022" title="Manage Complex Fumigation Operations Skill Set">
+    <units>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPPPMT3011A" title="Conduct fumigation"/>
+      <unit id="CPPPMT3019A" title="Organise and monitor pest management operations"/>
+      <unit id="CPPPMT3043A" title="Prepare and present pest management proposals"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00023" title="Manage Non-Timber Pests Skill Set">
+    <units>
+      <unit id="CPPPMT3005A" title="Modify environment to manage pests"/>
+      <unit id="CPPPMT3006A" title="Apply pesticides to manage pests"/>
+      <unit id="CPPPMT3018A" title="Maintain equipment and chemical storage areas"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00024" title="Manage Spatial Information Business Skill Set">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="CPPDSM5036A" title="Prepare tender documentation in the property industry"/>
+      <unit id="CPPSIS6025A" title="Apply quality control measures to spatial information services industry"/>
+      <unit id="CPPSIS6026A" title="Develop and maintain spatial information services contractual relationships"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00025" title="Manage Timber Pests Skill Set">
+    <units>
+      <unit id="CPPPMT3006A" title="Apply pesticides to manage pests"/>
+      <unit id="CPPPMT3008A" title="Inspect and report on timber pests"/>
+      <unit id="CPPPMT3010A" title="Control timber pests"/>
+      <unit id="CPPPMT3042A" title="Install physical termite barriers"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00026" title="Perform Applied Engineering Surveying Skill Set">
+    <units>
+      <unit id="CPPSIS5031A" title="Plan spatial data collection and validation"/>
+      <unit id="CPPSIS5047A" title="Conduct an advanced GNSS data collection and set out survey"/>
+      <unit id="CPPSIS5048A" title="Conduct an engineering survey"/>
+      <unit id="CPPSIS5053A" title="Perform advanced surveying computations"/>
+      <unit id="CPPSIS5057A" title="Carry out a precision survey"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00027" title="Perform Basic Spatial Drafting Skill Set">
+    <units>
+      <unit id="CPPSIS3011A" title="Apply map presentation principles"/>
+      <unit id="CPPSIS3019A" title="Perform basic drafting"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00028" title="Perform Environmentally Sustainable Cleaning Operations">
+    <units>
+      <unit id="CPPCLO2043A" title="Clean using microfibre techniques"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00029" title="Perform Monitoring Centre Operations Skill Set">
+    <units>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2005A" title="Work as part of a security team"/>
+      <unit id="CPPSEC2006A" title="Provide security services to clients"/>
+      <unit id="CPPSEC2018A" title="Monitor electronic reporting facility"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00030" title="Perform Spatial Data Collection and Surveying Skill Set">
+    <units>
+      <unit id="CPPSIS4021A" title="Maintain spatial systems"/>
+      <unit id="CPPSIS4022A" title="Store and retrieve spatial data"/>
+      <unit id="CPPSIS4024A" title="Collect and set out spatial data"/>
+      <unit id="CPPSIS4025A" title="Collect basic GNSS data"/>
+      <unit id="CPPSIS5035A" title="Obtain and validate spatial data"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00031" title="Prepare Engineering Survey Drawings Skill Set">
+    <units>
+      <unit id="CPPSIS5050A" title="Create engineering drawings"/>
+      <unit id="CPPSIS5056A" title="Design road and railway"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00032" title="Prepare Mine Survey Drawings Skill Set">
+    <units>
+      <unit id="CPPSIS6022A" title="Create mine drawings"/>
+      <unit id="CPPSIS6031A" title="Carry out basic mine design"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00033" title="Provide Biometrics Consulting and Advice Skill Set">
+    <units>
+      <unit id="CPPSEC4020A" title="Advise on the application of biometrics"/>
+      <unit id="CPPSEC4021A" title="Prepare standard operating procedures for the use of biometric technology"/>
+      <unit id="CPPSEC5006A" title="Determine strategy for the implementation of biometric technology"/>
+      <unit id="CPPSEC5007A" title="Assess biometric system"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00034" title="Provide Support in Spatial Field Services Skill Set">
+    <units>
+      <unit id="CPPSIS3016A" title="Provide field support services"/>
+      <unit id="CPPSIS3017A" title="Select, operate and maintain equipment and supplies"/>
+      <unit id="CPPSIS3018A" title="Transfer personnel and loads"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00035" title="Provide Technical Assistance in Spatial Information Systems Development Skill Set">
+    <units>
+      <unit id="CPPSIS4035A" title="Apply GIS software to problem-solving techniques"/>
+      <unit id="CPPSIS5063A" title="Produce GIS data"/>
+      <unit id="CPPSIS5064A" title="Manipulate and analyse GIS data"/>
+      <unit id="CPPSIS6040A" title="Develop 2-D and 3-D terrain visualisations"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00037" title="Provide Technical Assistance with Spatial Data Collection Skill Set">
+    <units>
+      <unit id="CPPSIS3014A" title="Respond to client spatial enquiry"/>
+      <unit id="CPPSIS3015A" title="Collect spatial data"/>
+      <unit id="CPPSIS3020A" title="Perform basic surveying computations"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00038" title="Provide Technical Assistance with Surveying Skill Set">
+    <units>
+      <unit id="CPPSIS3019A" title="Perform basic drafting"/>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="CPPSIS4030A" title="Operate surveying equipment"/>
+      <unit id="CPPSIS4031A" title="Perform surveying computations"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00039" title="Recover, Reclaim, Fill and Recycle Extinguishing Agents Skill Set">
+    <units>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2021A" title="Inspect, test and maintain fire extinguishers"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES2048A" title="Receive and dispatch scheduled gaseous fire-extinguishing agents"/>
+      <unit id="CPPFES2049A" title="Conduct recovery, reclaim and fill operations for scheduled gaseous fire-extinguishing agents"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00040" title="Restore Water-Damaged Carpets Skill Set">
+    <units>
+      <unit id="CPPCCL3008A" title="Mitigate water damage"/>
+      <unit id="CPPCCL3010A" title="Apply odour control"/>
+      <unit id="CPPCCL3018A" title="Inspect sites with water damage"/>
+      <unit id="CPPCMN3003A" title="Contribute to workplace safety arrangements"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00041" title="Test and Maintain Fixed Fire Extinguishing Systems Skill Set">
+    <units>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2025A" title="Inspect, test and maintain gaseous fire-suppression systems"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES2047A" title="Inspect and test control and indicating equipment"/>
+      <unit id="CPPFES3046A" title="Decommission gaseous agent containers and actuators"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00042" title="Undertake Spatial Remote Sensing Skill Set">
+    <units>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="CPPSIS5032A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5040A" title="Collate and interpret spatial data"/>
+      <unit id="CPPSIS6037A" title="Conduct advanced remote sensing analysis"/>
+    </units>
+  </skillset>
+  <skillset id="CPPSS00043" title="Use Spatial Web Applications for Mapping Skill Set">
+    <units>
+      <unit id="CPPSIS5036A" title="Integrate spatial datasets"/>
+      <unit id="CPPSIS5039A" title="Produce spatial project deliverables"/>
+      <unit id="CUVACD301A" title="Produce drawings to communicate ideas"/>
+      <unit id="ICAWEB401A" title="Design a website to meet technical requirements"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+    </units>
+  </skillset>
+</skillsets>

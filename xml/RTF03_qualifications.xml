@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<qualifications class="RTF03">
+  <qualification id="RTF10103" title="Certificate I in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTF20803" title="Certificate II in Horticulture (Turf)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20403" title="Certificate II in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20303" title="Certificate II in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20103" title="Certificate II in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTF20203" title="Certificate II in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20603" title="Certificate II in Horticulture (Wholesale Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20503" title="Certificate II in Horticulture (Retail Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF20703" title="Certificate II in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30403" title="Certificate III in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30303" title="Certificate III in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30203" title="Certificate III in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30503" title="Certificate III in Horticulture (Retail Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30703" title="Certificate III in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30103" title="Certificate III in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTF30603" title="Certificate III in Horticulture (Wholesale Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF30803" title="Certificate III in Horticulture (Turf)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40303" title="Certificate IV in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40103" title="Certificate IV in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTF40403" title="Certificate IV in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40203" title="Certificate IV in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40803" title="Certificate IV in Horticulture (Turf)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40503" title="Certificate IV in Horticulture (Retail Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40703" title="Certificate IV in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RTF40603" title="Certificate IV in Horticulture (Wholesale Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50103" title="Diploma of Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTF50703" title="Diploma of Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50203" title="Diploma of Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50603" title="Diploma of Horticulture (Wholesale Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50403" title="Diploma of Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50803" title="Diploma of Horticulture (Turf)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50303" title="Diploma of Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RTF50503" title="Diploma of Horticulture (Retail Nursery)">
+    <units>
+      <unit id="RTC5011A" title="Collect and classify plants"/>
+      <unit id="RTC5701A" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="RTC5801A" title="Provide specialist advice to clients"/>
+      <unit id="RTE5807A" title="Manage staff"/>
+      <unit id="RTF5005A" title="Manage plant health"/>
+      <unit id="WRO2B" title="Manage sales and service delivery"/>
+      <unit id="WRRO5B" title="Control inventory"/>
+      <unit id="WRRO6B" title="Manage store facilities"/>
+    </units>
+  </qualification>
+  <qualification id="RTF60103" title="Advanced Diploma of Horticulture">
+    <units>
+      <unit id="RTD6502A" title="Review management plans and strategies"/>
+      <unit id="RTD6902A" title="Monitor projects in a program"/>
+      <unit id="RTE6301A" title="Analyse machinery options"/>
+      <unit id="RTE6501A" title="Manage the production system"/>
+      <unit id="RTE6503A" title="Design and conduct a field-based research trial"/>
+      <unit id="RTE6802A" title="Lead and manage community or industry organisations"/>
+      <unit id="RTE6803A" title="Manage human resources"/>
+      <unit id="RTE6901A" title="Analyse business performance"/>
+      <unit id="RTE6903A" title="Develop and review a strategic plan"/>
+      <unit id="RTE6904A" title="Manage business capital"/>
+      <unit id="RTE6906A" title="Develop export markets for produce"/>
+      <unit id="RTE6907A" title="Manage capital works"/>
+      <unit id="RTE6908A" title="Design and manage the enterprise quality management system"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

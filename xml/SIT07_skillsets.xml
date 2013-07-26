@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<skillsets class="SIT07">
+  <skillset id="SITSS00001" title="Barista">
+    <units>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB016A" title="Plan and monitor espresso coffee service"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00002" title="Beverage specialist">
+    <units>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB323A" title="Provide advice on beers, spirits and liqueurs"/>
+      <unit id="SITHFAB324A" title="Provide specialised advice on food and beverage matching"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00003" title="Essential Business Skills for a Restaurant Manager">
+    <units>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITXCCS003A" title="Manage quality customer service"/>
+      <unit id="SITXHRM002A" title="Recruit, select and induct staff"/>
+      <unit id="SITXHRM005A" title="Lead and manage people"/>
+      <unit id="SITXMGT002A" title="Develop and implement operational plans"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00004" title="Responsible service of alcohol">
+    <units>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00005" title="Sommelier">
+    <units>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB323A" title="Provide advice on beers, spirits and liqueurs"/>
+      <unit id="SITHFAB324A" title="Provide specialised advice on food and beverage matching"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+      <unit id="SITHFAB326A" title="Provide specialised advice on imported wines"/>
+      <unit id="SITHFAB428A" title="Manage the sale or service of wine"/>
+      <unit id="SITXFIN004A" title="Manage finances within a budget"/>
+    </units>
+  </skillset>
+</skillsets>

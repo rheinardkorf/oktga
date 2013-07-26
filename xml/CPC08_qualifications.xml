@@ -1,0 +1,2133 @@
+<?xml version="1.0"?>
+<qualifications class="CPC08">
+  <qualification id="CPC10111" title="Certificate I in Construction">
+    <units>
+      <unit id="CPCCCM1011A" title="Undertake basic estimation and costing"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM1016A" title="Identify requirements for safe tilt-up work"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2005B" title="Use construction tools and equipment"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCVE1002B" title="Undertake a basic computer design project"/>
+      <unit id="CPCCVE1011A" title="Undertake a basic construction project"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPC20712" title="Certificate II in Drainage">
+    <units>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2054A" title="Carry out simple concreting and rendering"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPDR2021A" title="Locate and clear blockages"/>
+      <unit id="CPCPDR2022A" title="Install domestic treatment plants"/>
+      <unit id="CPCPDR2023A" title="Maintain effluent disinfection systems"/>
+      <unit id="CPCPDR2024A" title="Install stormwater and sub-soil drainage systems"/>
+      <unit id="CPCPDR2025A" title="Drain work site"/>
+      <unit id="CPCPDR2026A" title="Install prefabricated inspection openings and enclosures"/>
+      <unit id="CPCPDR3021A" title="Plan layout of a residential sanitary drainage system"/>
+      <unit id="CPCPDR3022A" title="Install below ground sanitary drainage systems"/>
+      <unit id="CPCPDR3023A" title="Install on-site disposal systems"/>
+      <unit id="CPCPRF2023A" title="Collect and store roof water"/>
+      <unit id="CPCPSN3025A" title="Install pre-treatment facilities"/>
+      <unit id="CPCPWT3029A" title="Install water pipe systems"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC20211" title="Certificate II in Construction Pathways">
+    <units>
+      <unit id="CPCCBL2001A" title="Handle and prepare bricklaying and blocklaying materials"/>
+      <unit id="CPCCBL2002A" title="Use bricklaying and blocklaying tools and equipment"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2003A" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2009A" title="Carry out basic demolition"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCJN2001A" title="Assemble components"/>
+      <unit id="CPCCJN2002A" title="Prepare for off-site manufacturing process"/>
+      <unit id="CPCCJN3001A" title="Use static machines"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSH2001A" title="Prepare surfaces"/>
+      <unit id="CPCCSP2001A" title="Handle solid plastering materials"/>
+      <unit id="CPCCSP2002A" title="Use solid plastering tools and equipment"/>
+      <unit id="CPCCSP2003A" title="Prepare surfaces for plastering"/>
+      <unit id="CPCCST2001A" title="Prepare for stonemasonry construction process"/>
+      <unit id="CPCCST2002A" title="Identify and use stone products"/>
+      <unit id="CPCCST2003A" title="Finish stone"/>
+      <unit id="CPCCWF2001A" title="Handle wall and floor tiling materials"/>
+      <unit id="CPCCWF2002A" title="Use wall and floor tiling tools and equipment"/>
+      <unit id="CPCCWF3001A" title="Prepare surfaces for tiling application"/>
+      <unit id="CPCCWP2001A" title="Handle waterproofing materials"/>
+      <unit id="CPCCWP2002A" title="Use waterproofing tools and equipment"/>
+      <unit id="CPCCWP2003A" title="Prepare for construction waterproofing process"/>
+      <unit id="CPCCWP2004A" title="Prepare surfaces for waterproofing application"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC20112" title="Certificate II in Construction">
+    <units>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2005B" title="Use construction tools and equipment"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2009A" title="Carry out basic demolition"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC20912" title="Certificate II in Urban Irrigation">
+    <units>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2054A" title="Carry out simple concreting and rendering"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPFS2021A" title="Connect static storage tanks for fixed fire protection systems"/>
+      <unit id="CPCPIG2021A" title="Design domestic urban irrigation systems"/>
+      <unit id="CPCPIG3021A" title="Set out, install and commission irrigation systems"/>
+      <unit id="CPCPIG3022A" title="Install and commission domestic irrigation pumps"/>
+      <unit id="CPCPRF2023A" title="Collect and store roof water"/>
+      <unit id="CPCPWT3025A" title="Install water pumpsets"/>
+      <unit id="CPCPWT3027A" title="Connect irrigation systems from drinking water supply"/>
+      <unit id="CPCPWT3028A" title="Install water service"/>
+      <unit id="CPCPWT3029A" title="Install water pipe systems"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC20812" title="Certificate II in Metal Roofing and Cladding">
+    <units>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2055A" title="Work safely on roofs"/>
+      <unit id="CPCPCM3021A" title="Flash penetrations through roofs and walls"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPDR2021A" title="Locate and clear blockages"/>
+      <unit id="CPCPRF2022A" title="Select and install roof sheeting and wall cladding"/>
+      <unit id="CPCPRF2023A" title="Collect and store roof water"/>
+      <unit id="CPCPRF2024A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="CPCPRF3021A" title="Receive roofing materials"/>
+      <unit id="CPCPRF3022A" title="Fabricate and install roof drainage components"/>
+      <unit id="CPCPRF3023A" title="Fabricate and install external flashings"/>
+      <unit id="CPCPRF3024A" title="Install roof components"/>
+      <unit id="CPCPRF3025A" title="Install roof coverings to curved roof structures"/>
+      <unit id="CPCPRF3026A" title="Install composite roof systems"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="MEM05049B" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31011" title="Certificate III in Solid Plastering">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPB3012A" title="Cut and fix paper-faced cornices"/>
+      <unit id="CPCCPB3026B" title="Erect and maintain trestle and plank systems"/>
+      <unit id="CPCCSP2001A" title="Handle solid plastering materials"/>
+      <unit id="CPCCSP2002A" title="Use solid plastering tools and equipment"/>
+      <unit id="CPCCSP2003A" title="Prepare surfaces for plastering"/>
+      <unit id="CPCCSP3001A" title="Apply float and render to straight and curved surfaces"/>
+      <unit id="CPCCSP3002A" title="Apply set coats"/>
+      <unit id="CPCCSP3003A" title="Apply trowelled texture coat finishes"/>
+      <unit id="CPCCSP3004A" title="Restore and renovate solid plasterwork"/>
+      <unit id="CPCCSP3005A" title="Install pre-cast decorative mouldings"/>
+      <unit id="CPCCSP3006A" title="Install cast plaster blockwork"/>
+      <unit id="CPCCSP3007A" title="Apply plaster by projection machine"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31411" title="Certificate III in Construction Waterproofing">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA3012A" title="Frame and fit wet area fixtures"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2009A" title="Carry out basic demolition"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSH2003A" title="Apply and install sealant and sealant devices"/>
+      <unit id="CPCCWP2001A" title="Handle waterproofing materials"/>
+      <unit id="CPCCWP2002A" title="Use waterproofing tools and equipment"/>
+      <unit id="CPCCWP2003A" title="Prepare for construction waterproofing process"/>
+      <unit id="CPCCWP2004A" title="Prepare surfaces for waterproofing application"/>
+      <unit id="CPCCWP3001A" title="Apply waterproofing process to below ground level wet areas"/>
+      <unit id="CPCCWP3002A" title="Apply waterproofing process to internal wet areas"/>
+      <unit id="CPCCWP3003A" title="Apply waterproofing process to external wet areas"/>
+      <unit id="CPCCWP3004A" title="Apply waterproofing remedial processes"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30911" title="Certificate III in Scaffolding">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3002A" title="Operate a truck mounted loading crane"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCSC2001A" title="Safely handle and use scaffolding tools and equipment"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCCSC3001A" title="Erect and dismantle intermediate scaffolding"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31611" title="Certificate III in Paving">
+    <units>
+      <unit id="AHCLSC303A" title="Construct brick and/or block structures and features"/>
+      <unit id="AHCLSC307A" title="Implement a retaining wall project"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCBL3004A" title="Construct masonry steps and stairs"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2003B" title="Calculate and cost construction work"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2005B" title="Use construction tools and equipment"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCDE2012A" title="Carry out manual general demolition"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPA3001A" title="Prepare subgrade, base and bedding course for segmental paving"/>
+      <unit id="CPCCPA3002A" title="Lay segmental pavers"/>
+      <unit id="CPCCPA3003A" title="Cut segmental pavers"/>
+      <unit id="CPCCPA3004A" title="Finish segmental paving"/>
+      <unit id="CPCCPA3005A" title="Maintain and repair segmental paving"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCVE1011A" title="Undertake a basic construction project"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31111" title="Certificate III in Steelfixing">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCO2014A" title="Carry out concrete work"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2001A" title="Handle steelfixing materials"/>
+      <unit id="CPCCSF2002A" title="Use steelfixing tools and equipment"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCSF2005A" title="Arc weld reinforcement steel"/>
+      <unit id="CPCCSF2006A" title="Machine cut reinforcement materials"/>
+      <unit id="CPCCSF2007A" title="Splice and anchor using mechanical methods"/>
+      <unit id="CPCCSF3001A" title="Apply reinforcement schedule"/>
+      <unit id="CPCCSF3002A" title="Carry out monostrand post-tensioning"/>
+      <unit id="CPCCSF3003A" title="Carry out multistrand post-tensioning"/>
+      <unit id="CPCCSF3004A" title="Carry out stressbar post-tensioning"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31812" title="Certificate III in Shopfitting">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3010A" title="Install and replace windows and doors"/>
+      <unit id="CPCCCA3013A" title="Install lining, panelling and moulding"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2003B" title="Calculate and cost construction work"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2005B" title="Use construction tools and equipment"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCJN3001A" title="Use static machines"/>
+      <unit id="CPCCJN3002A" title="Use computer-controlled machinery"/>
+      <unit id="CPCCJN3003A" title="Manufacture components for door and window frames and doors"/>
+      <unit id="CPCCJN3005A" title="Cut and install glass"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSH2001A" title="Prepare surfaces"/>
+      <unit id="CPCCSH2002A" title="Use aluminium sections for fabrication"/>
+      <unit id="CPCCSH2003A" title="Apply and install sealant and sealant devices"/>
+      <unit id="CPCCSH3001A" title="Set out and assemble cabinets, showcases, wall units, counters and workstations"/>
+      <unit id="CPCCSH3002A" title="Set out and fabricate shopfront commercial entries bulkheads and component fittings"/>
+      <unit id="CPCCSH3003A" title="Assemble and install shopfront commercial entries bulkheads and components"/>
+      <unit id="CPCCSH3005A" title="Apply and trim decorative finishes"/>
+      <unit id="CPCCSH3006A" title="Apply finishes"/>
+      <unit id="CPCCWC3004A" title="Install suspended ceilings"/>
+      <unit id="LMFFM3006B" title="Install furnishing"/>
+      <unit id="LMFFM3013B" title="Measure and draw site layout for manufactured furniture products"/>
+      <unit id="LMFFM3028B" title="Fabricate synthetic solid surface products"/>
+      <unit id="LMFFM3030B" title="Set up, operate and maintain CNC sizing machines"/>
+      <unit id="LMFFM3031B" title="Set up, operate and maintain CNC machining and processing centres"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31511" title="Certificate III in Formwork/Falsework">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2003A" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3002A" title="Carry out setting out"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCA3016A" title="Construct timber external stairs"/>
+      <unit id="CPCCCA3018A" title="Construct, erect and dismantle formwork for stairs and ramps"/>
+      <unit id="CPCCCA3019A" title="Erect and dismantle formwork to suspended slabs, columns, beams and walls"/>
+      <unit id="CPCCCA3020A" title="Erect and dismantle jump form formwork"/>
+      <unit id="CPCCCA3021A" title="Erect and dismantle slip form formwork"/>
+      <unit id="CPCCCA3022A" title="Install curtain walling"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCWC3003A" title="Install dry wall passive fire-rated systems"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31712" title="Certificate III in Post-Tensioning">
+    <units>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2005B" title="Use construction tools and equipment"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2014A" title="Carry out concrete work"/>
+      <unit id="CPCCCO3026A" title="Carry out repair and rectification of concrete"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2002A" title="Use steelfixing tools and equipment"/>
+      <unit id="CPCCSF2005A" title="Arc weld reinforcement steel"/>
+      <unit id="CPCCSF2007A" title="Splice and anchor using mechanical methods"/>
+      <unit id="CPCCSF3002A" title="Carry out monostrand post-tensioning"/>
+      <unit id="CPCCSF3003A" title="Carry out multistrand post-tensioning"/>
+      <unit id="CPCCSF3004A" title="Carry out stressbar post-tensioning"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM4011A" title="Carry out work-based risk control processes"/>
+      <unit id="RIICFW302A" title="Install temporary and permanent rock anchors"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32612" title="Certificate III in Roof Plumbing">
+    <units>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2054A" title="Carry out simple concreting and rendering"/>
+      <unit id="CPCPCM2055A" title="Work safely on roofs"/>
+      <unit id="CPCPCM3021A" title="Flash penetrations through roofs and walls"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPCM3023A" title="Fabricate and install non-ferrous pressure piping"/>
+      <unit id="CPCPDR2021A" title="Locate and clear blockages"/>
+      <unit id="CPCPDR2024A" title="Install stormwater and sub-soil drainage systems"/>
+      <unit id="CPCPDR2025A" title="Drain work site"/>
+      <unit id="CPCPDR2026A" title="Install prefabricated inspection openings and enclosures"/>
+      <unit id="CPCPMS3032A" title="Select and fit insulation and sheathing"/>
+      <unit id="CPCPRF2022A" title="Select and install roof sheeting and wall cladding"/>
+      <unit id="CPCPRF2023A" title="Collect and store roof water"/>
+      <unit id="CPCPRF2024A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="CPCPRF3021A" title="Receive roofing materials"/>
+      <unit id="CPCPRF3022A" title="Fabricate and install roof drainage components"/>
+      <unit id="CPCPRF3023A" title="Fabricate and install external flashings"/>
+      <unit id="CPCPRF3024A" title="Install roof components"/>
+      <unit id="CPCPRF3025A" title="Install roof coverings to curved roof structures"/>
+      <unit id="CPCPRF3026A" title="Install composite roof systems"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="MEM05049B" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30812" title="Certificate III in Roof Tiling">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPD3030B" title="Apply protective paint coating systems"/>
+      <unit id="CPCCRT2001A" title="Handle roof tiling materials"/>
+      <unit id="CPCCRT2002A" title="Use roof tiling tools and equipment"/>
+      <unit id="CPCCRT3001A" title="Tile regular roofs"/>
+      <unit id="CPCCRT3002A" title="Tile irregular roofs"/>
+      <unit id="CPCCRT3003B" title="Repair and replace valleys, valley irons and flashings"/>
+      <unit id="CPCCRT3004B" title="Repair and renovate tile roofs"/>
+      <unit id="CPCCRT3005B" title="Slate a roof"/>
+      <unit id="CPCCRT3006B" title="Fix shingles to roofs and facades"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2055A" title="Work safely on roofs"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30311" title="Certificate III in Concreting">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2003A" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCO2011A" title="Handle concreting materials"/>
+      <unit id="CPCCCO2012A" title="Use concreting tools and equipment"/>
+      <unit id="CPCCCO3021A" title="Place concrete"/>
+      <unit id="CPCCCO3022A" title="Finish concrete"/>
+      <unit id="CPCCCO3023A" title="Cure concrete"/>
+      <unit id="CPCCCO3024A" title="Carry out decorative finishes to concrete"/>
+      <unit id="CPCCCO3025A" title="Resurface concrete"/>
+      <unit id="CPCCCO3026A" title="Carry out repair and rectification of concrete"/>
+      <unit id="CPCCCO3027A" title="Cut and core concrete"/>
+      <unit id="CPCCCO3028A" title="Carry out tilt panel construction"/>
+      <unit id="CPCCCO3029A" title="Apply and finish sprayed concrete"/>
+      <unit id="CPCCCO3030A" title="Carry out high performance concreting"/>
+      <unit id="CPCCCO3031A" title="Conduct off-form vertical concrete operations"/>
+      <unit id="CPCCCO3032A" title="Conduct concrete boom delivery operations"/>
+      <unit id="CPCCCO3033A" title="Slump test concrete"/>
+      <unit id="CPCCCO3034A" title="Conduct concrete agitator truck operations"/>
+      <unit id="CPCCLBM3001A" title="Licence to operate a concrete placing boom"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCSF3001A" title="Apply reinforcement schedule"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIICFW301A" title="Construct underpinning"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32011" title="Certificate III in Carpentry and Joinery">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3002A" title="Carry out setting out"/>
+      <unit id="CPCCCA3003A" title="Install flooring systems"/>
+      <unit id="CPCCCA3004A" title="Construct wall frames"/>
+      <unit id="CPCCCA3005B" title="Construct ceiling frames"/>
+      <unit id="CPCCCA3006B" title="Erect roof trusses"/>
+      <unit id="CPCCCA3007C" title="Construct pitched roofs"/>
+      <unit id="CPCCCA3008B" title="Construct eaves"/>
+      <unit id="CPCCCA3009B" title="Construct advanced roofs"/>
+      <unit id="CPCCCA3010A" title="Install and replace windows and doors"/>
+      <unit id="CPCCCA3011A" title="Refurbish timber sashes to window frames"/>
+      <unit id="CPCCCA3012A" title="Frame and fit wet area fixtures"/>
+      <unit id="CPCCCA3013A" title="Install lining, panelling and moulding"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCA3016A" title="Construct timber external stairs"/>
+      <unit id="CPCCCA3017B" title="Install exterior cladding"/>
+      <unit id="CPCCCA3019A" title="Erect and dismantle formwork to suspended slabs, columns, beams and walls"/>
+      <unit id="CPCCCA3022A" title="Install curtain walling"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCJN3001A" title="Use static machines"/>
+      <unit id="CPCCJN3002A" title="Use computer-controlled machinery"/>
+      <unit id="CPCCJN3003A" title="Manufacture components for door and window frames and doors"/>
+      <unit id="CPCCJN3004A" title="Manufacture joinery components"/>
+      <unit id="CPCCJS3002A" title="Manufacture stair components for straight flighted stairs"/>
+      <unit id="CPCCJS3003A" title="Assemble and install stairs"/>
+      <unit id="CPCCJS3004A" title="Manufacture and install continuous handrailing and special stair components"/>
+      <unit id="CPCCJS3006A" title="Construct fabricated stairs"/>
+      <unit id="CPCCJS3011A" title="Design and set out stairs"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCSH2003A" title="Apply and install sealant and sealant devices"/>
+      <unit id="CPCCSH3001A" title="Set out and assemble cabinets, showcases, wall units, counters and workstations"/>
+      <unit id="CPCCWC3003A" title="Install dry wall passive fire-rated systems"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32712" title="Certificate III in Gas Fitting">
+    <units>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2054A" title="Carry out simple concreting and rendering"/>
+      <unit id="CPCPCM2055A" title="Work safely on roofs"/>
+      <unit id="CPCPCM3021A" title="Flash penetrations through roofs and walls"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPCM3023A" title="Fabricate and install non-ferrous pressure piping"/>
+      <unit id="CPCPGS3046A" title="Install LPG systems in caravans, mobile homes and mobile workplaces"/>
+      <unit id="CPCPGS3047A" title="Install LPG systems in marine craft"/>
+      <unit id="CPCPGS3048A" title="Install gas pressure control equipment"/>
+      <unit id="CPCPGS3049A" title="Install Type A gas appliance flues"/>
+      <unit id="CPCPGS3050A" title="Install Type B gas appliance flues"/>
+      <unit id="CPCPGS3051A" title="Purge consumer piping"/>
+      <unit id="CPCPGS3052A" title="Maintain Type A gas appliances"/>
+      <unit id="CPCPGS3053A" title="Disconnect and reconnect Type A gas appliances"/>
+      <unit id="CPCPGS3054A" title="Calculate and install natural ventilation for Type A gas appliances"/>
+      <unit id="CPCPGS3055A" title="Install gas sub-meters"/>
+      <unit id="CPCPGS3056A" title="Install gas piping systems"/>
+      <unit id="CPCPGS3057A" title="Size consumer gas piping systems"/>
+      <unit id="CPCPGS3058A" title="Install and commission Type A gas appliances"/>
+      <unit id="CPCPGS3059A" title="Install LPG storage of aggregate storage capacity up to 500 litres"/>
+      <unit id="CPCPGS3060A" title="Install LPG storage of aggregate storage capacity exceeding 500 litres and less than 8KL"/>
+      <unit id="CPCPMS2021A" title="Assemble mechanical services components"/>
+      <unit id="CPCPMS3031A" title="Fabricate and install steel pressure piping"/>
+      <unit id="CPCPMS3033A" title="Install small bore heating systems"/>
+      <unit id="CPCPMS3035A" title="Install and test ducting systems"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="MEM05049B" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32211" title="Certificate III in Joinery (Stairs)">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCA3013A" title="Install lining, panelling and moulding"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCA3016A" title="Construct timber external stairs"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCJN2001A" title="Assemble components"/>
+      <unit id="CPCCJN2003A" title="Package manufactured products for transport"/>
+      <unit id="CPCCJN3001A" title="Use static machines"/>
+      <unit id="CPCCJN3002A" title="Use computer-controlled machinery"/>
+      <unit id="CPCCJN3005A" title="Cut and install glass"/>
+      <unit id="CPCCJS3002A" title="Manufacture stair components for straight flighted stairs"/>
+      <unit id="CPCCJS3003A" title="Assemble and install stairs"/>
+      <unit id="CPCCJS3004A" title="Manufacture and install continuous handrailing and special stair components"/>
+      <unit id="CPCCJS3005A" title="Manufacture stair components for curved and geometric stairs"/>
+      <unit id="CPCCJS3006A" title="Construct fabricated stairs"/>
+      <unit id="CPCCJS3011A" title="Design and set out stairs"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPD3021A" title="Prepare surfaces for painting"/>
+      <unit id="CPCCPD3022A" title="Apply paint by brush and roller"/>
+      <unit id="CPCCPD3024A" title="Apply paint by spray"/>
+      <unit id="CPCCSH2002A" title="Use aluminium sections for fabrication"/>
+      <unit id="CPCCSH2003A" title="Apply and install sealant and sealant devices"/>
+      <unit id="CPCCSH3005A" title="Apply and trim decorative finishes"/>
+      <unit id="CPCCSH3006A" title="Apply finishes"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32412" title="Certificate III in Plumbing">
+    <units>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+    </units>
+  </qualification>
+  <qualification id="CPC30211" title="Certificate III in Carpentry">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2003A" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3002A" title="Carry out setting out"/>
+      <unit id="CPCCCA3003A" title="Install flooring systems"/>
+      <unit id="CPCCCA3004A" title="Construct wall frames"/>
+      <unit id="CPCCCA3005B" title="Construct ceiling frames"/>
+      <unit id="CPCCCA3006B" title="Erect roof trusses"/>
+      <unit id="CPCCCA3007C" title="Construct pitched roofs"/>
+      <unit id="CPCCCA3008B" title="Construct eaves"/>
+      <unit id="CPCCCA3009B" title="Construct advanced roofs"/>
+      <unit id="CPCCCA3010A" title="Install and replace windows and doors"/>
+      <unit id="CPCCCA3011A" title="Refurbish timber sashes to window frames"/>
+      <unit id="CPCCCA3012A" title="Frame and fit wet area fixtures"/>
+      <unit id="CPCCCA3013A" title="Install lining, panelling and moulding"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCA3016A" title="Construct timber external stairs"/>
+      <unit id="CPCCCA3017B" title="Install exterior cladding"/>
+      <unit id="CPCCCA3018A" title="Construct, erect and dismantle formwork for stairs and ramps"/>
+      <unit id="CPCCCA3019A" title="Erect and dismantle formwork to suspended slabs, columns, beams and walls"/>
+      <unit id="CPCCCA3020A" title="Erect and dismantle jump form formwork"/>
+      <unit id="CPCCCA3021A" title="Erect and dismantle slip form formwork"/>
+      <unit id="CPCCCA3022A" title="Install curtain walling"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCWC3003A" title="Install dry wall passive fire-rated systems"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31211" title="Certificate III in Wall and Ceiling Lining">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPB3001A" title="Fix standard plasterboard wall sheets"/>
+      <unit id="CPCCPB3002A" title="Fix standard plasterboard ceiling sheets"/>
+      <unit id="CPCCPB3003A" title="Fix battens"/>
+      <unit id="CPCCPB3004A" title="Fix wet area sheets"/>
+      <unit id="CPCCPB3005A" title="Fix ceiling sheets to external protected areas"/>
+      <unit id="CPCCPB3006A" title="Fix fibre cement board"/>
+      <unit id="CPCCPB3007A" title="Apply levels of finish standards to planning and inspection of own work"/>
+      <unit id="CPCCPB3008A" title="Mix plastering compounds"/>
+      <unit id="CPCCPB3009A" title="Finish plasterboard joins manually"/>
+      <unit id="CPCCPB3010A" title="Manually sand plaster work"/>
+      <unit id="CPCCPB3011A" title="Finish category 1 and 2 wet areas"/>
+      <unit id="CPCCPB3012A" title="Cut and fix paper-faced cornices"/>
+      <unit id="CPCCPB3013A" title="Plan travel routes"/>
+      <unit id="CPCCPB3014A" title="Install batt insulation products"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCPB3016A" title="Install and finish columns"/>
+      <unit id="CPCCPB3017A" title="Rectify faults in plaster applications"/>
+      <unit id="CPCCPB3018A" title="Use vacuum and electric sanding equipment to finish plaster work"/>
+      <unit id="CPCCPB3019A" title="Inspect equipment for serviceability"/>
+      <unit id="CPCCPB3020A" title="Match, mitre and install cast ornamental cornices"/>
+      <unit id="CPCCPB3021A" title="Install and fix residential acoustic plaster products"/>
+      <unit id="CPCCPB3022A" title="Use mechanical jointing equipment to finish joints"/>
+      <unit id="CPCCPB3023A" title="Load and unload plaster and plaster-related products"/>
+      <unit id="CPCCPB3024A" title="Use manual handling equipment to manoeuvre plaster products"/>
+      <unit id="CPCCPB3025A" title="Store plasterboard and related products"/>
+      <unit id="CPCCPB3026B" title="Erect and maintain trestle and plank systems"/>
+      <unit id="CPCCPB3027A" title="Install ceiling insulation"/>
+      <unit id="CPCCSP3003A" title="Apply trowelled texture coat finishes"/>
+      <unit id="CPCCSP3005A" title="Install pre-cast decorative mouldings"/>
+      <unit id="CPCCWC2001A" title="Complete penetrations and flashings"/>
+      <unit id="CPCCWC3001A" title="Install and finish plasterboard and fibre cement sheeting to curved walls and ceilings"/>
+      <unit id="CPCCWC3002A" title="Install and finish plasterboard and fibre cement sheeting to arches"/>
+      <unit id="CPCCWC3003A" title="Install dry wall passive fire-rated systems"/>
+      <unit id="CPCCWC3004A" title="Install suspended ceilings"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30711" title="Certificate III in Rigging">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3002A" title="Operate a truck mounted loading crane"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCRI3012A" title="Perform basic rigging"/>
+      <unit id="CPCCRI3013A" title="Perform intermediate rigging"/>
+      <unit id="CPCCRI3014A" title="Perform advanced structural steel erection"/>
+      <unit id="CPCCRI3015A" title="Perform advanced tilt-up slab erection"/>
+      <unit id="CPCCRI3016A" title="Perform advanced tower crane erection"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30411" title="Certificate III in Demolition">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3002A" title="Operate a truck mounted loading crane"/>
+      <unit id="CPCCDE2011A" title="Use demolition tools and equipment"/>
+      <unit id="CPCCDE2012A" title="Carry out manual general demolition"/>
+      <unit id="CPCCDE3011A" title="Carry out mechanical general demolition"/>
+      <unit id="CPCCDE3013A" title="Operate a crushing plant"/>
+      <unit id="CPCCDE3014A" title="Remove non-friable asbestos"/>
+      <unit id="CPCCDE3015A" title="Remove friable asbestos"/>
+      <unit id="CPCCDO3011A" title="Perform dogging"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCSC2001A" title="Safely handle and use scaffolding tools and equipment"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCCSC3001A" title="Erect and dismantle intermediate scaffolding"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPPCMN2001A" title="Control and direct traffic"/>
+      <unit id="CPPWMT3015A" title="Move waste using loadshifting equipment"/>
+      <unit id="FPICOT2204B" title="Maintain chainsaws"/>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="RIIMPO318B" title="Conduct civil construction skid steer loader operations"/>
+      <unit id="RIIMPO320B" title="Conduct civil construction excavator operations"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32311" title="Certificate III in Stonemasonry (Monumental/Installation)">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCBL3016A" title="Construct battered masonry walls and piers"/>
+      <unit id="CPCCCA3002A" title="Carry out setting out"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3023A" title="Carry out levelling operations"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCJN2001A" title="Assemble components"/>
+      <unit id="CPCCJN2003A" title="Package manufactured products for transport"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPA3001A" title="Prepare subgrade, base and bedding course for segmental paving"/>
+      <unit id="CPCCPA3002A" title="Lay segmental pavers"/>
+      <unit id="CPCCPA3003A" title="Cut segmental pavers"/>
+      <unit id="CPCCST2001A" title="Prepare for stonemasonry construction process"/>
+      <unit id="CPCCST2002A" title="Identify and use stone products"/>
+      <unit id="CPCCST2003A" title="Finish stone"/>
+      <unit id="CPCCST2004A" title="Lay stone"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCCST3001A" title="Dress and mould stone"/>
+      <unit id="CPCCST3002A" title="Shape solid stone"/>
+      <unit id="CPCCST3003A" title="Split stone manually"/>
+      <unit id="CPCCST3004A" title="Dress stone manually"/>
+      <unit id="CPCCST3005A" title="Carry out profile work"/>
+      <unit id="CPCCST3006A" title="Machine stone"/>
+      <unit id="CPCCST3007A" title="Turn stone"/>
+      <unit id="CPCCST3008A" title="Inlay lead to stone"/>
+      <unit id="CPCCST3009A" title="Use computer-controlled static machinery to produce stone components"/>
+      <unit id="CPCCST3010A" title="Set out and cut letters in stone"/>
+      <unit id="CPCCST3011A" title="Plan monument construction"/>
+      <unit id="CPCCST3012A" title="Build stone veneer walls"/>
+      <unit id="CPCCST3013A" title="Carry out cemetery monument fixing"/>
+      <unit id="CPCCST3014A" title="Set and anchor stone facades"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30511" title="Certificate III in Dogging">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCDO2011A" title="Handle and use dogging tools and equipment"/>
+      <unit id="CPCCDO3011A" title="Perform dogging"/>
+      <unit id="CPCCDO3012A" title="Perform crane scheduling"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCCSF3001A" title="Apply reinforcement schedule"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32512" title="Certificate III in Plumbing (Mechanical Services)">
+    <units>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+    </units>
+  </qualification>
+  <qualification id="CPC31912" title="Certificate III in Joinery">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="CPCCCA2011A" title="Handle carpentry materials"/>
+      <unit id="CPCCCA3001A" title="Carry out general demolition of minor building structures"/>
+      <unit id="CPCCCA3010A" title="Install and replace windows and doors"/>
+      <unit id="CPCCCA3011A" title="Refurbish timber sashes to window frames"/>
+      <unit id="CPCCCA3012A" title="Frame and fit wet area fixtures"/>
+      <unit id="CPCCCA3013A" title="Install lining, panelling and moulding"/>
+      <unit id="CPCCCA3014A" title="Construct bulkheads"/>
+      <unit id="CPCCCA3015A" title="Assemble partitions"/>
+      <unit id="CPCCCA3016A" title="Construct timber external stairs"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCJN2001A" title="Assemble components"/>
+      <unit id="CPCCJN2002A" title="Prepare for off-site manufacturing process"/>
+      <unit id="CPCCJN2003A" title="Package manufactured products for transport"/>
+      <unit id="CPCCJN3001A" title="Use static machines"/>
+      <unit id="CPCCJN3002A" title="Use computer-controlled machinery"/>
+      <unit id="CPCCJN3003A" title="Manufacture components for door and window frames and doors"/>
+      <unit id="CPCCJN3004A" title="Manufacture joinery components"/>
+      <unit id="CPCCJN3005A" title="Cut and install glass"/>
+      <unit id="CPCCJS3002A" title="Manufacture stair components for straight flighted stairs"/>
+      <unit id="CPCCJS3003A" title="Assemble and install stairs"/>
+      <unit id="CPCCJS3004A" title="Manufacture and install continuous handrailing and special stair components"/>
+      <unit id="CPCCJS3006A" title="Construct fabricated stairs"/>
+      <unit id="CPCCJS3011A" title="Design and set out stairs"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPD3021A" title="Prepare surfaces for painting"/>
+      <unit id="CPCCSF2003A" title="Cut and bend materials using oxy-LPG equipment"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="CPCCSH2003A" title="Apply and install sealant and sealant devices"/>
+      <unit id="CPCCSH3001A" title="Set out and assemble cabinets, showcases, wall units, counters and workstations"/>
+      <unit id="CPCCSH3005A" title="Apply and trim decorative finishes"/>
+      <unit id="CPCCSH3006A" title="Apply finishes"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32111" title="Certificate III in Signage">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSI2001A" title="Use colour for signage"/>
+      <unit id="CPCCSI2002A" title="Lay out and design signage"/>
+      <unit id="CPCCSI2003A" title="Prepare surfaces for signage"/>
+      <unit id="CPCCSI2004A" title="Produce digital signage"/>
+      <unit id="CPCCSI2005A" title="Fabricate signage"/>
+      <unit id="CPCCSI2006A" title="Signwrite to simple forms"/>
+      <unit id="CPCCSI2007A" title="Apply fasteners and fixings"/>
+      <unit id="CPCCSI3001A" title="Produce vinyl signage"/>
+      <unit id="CPCCSI3002A" title="Use rotary router"/>
+      <unit id="CPCCSI3003A" title="Signwrite to decorative forms"/>
+      <unit id="CPCCSI3004A" title="Apply advanced vinyl applications"/>
+      <unit id="CPCCSI3005A" title="Use engraving systems"/>
+      <unit id="CPCCSI3006A" title="Apply gilding to signage"/>
+      <unit id="CPCCSI3007A" title="Apply lines and scrolls"/>
+      <unit id="CPCCSI3008A" title="Write showcards and chalkboards"/>
+      <unit id="CPCCSI3009A" title="Screen-print signage"/>
+      <unit id="CPCCSI3010A" title="Hand render pictorials"/>
+      <unit id="CPCCSI3011A" title="Use LED technology for signage"/>
+      <unit id="CPCCSI3012A" title="Apply electrical theory for illuminated signage"/>
+      <unit id="CPCCSI3013A" title="Install LED systems"/>
+      <unit id="CPCCSI3014A" title="Manufacture gas-charged glass-formed illuminated signage"/>
+      <unit id="CPCCSI3015A" title="Produce airbrushed signage"/>
+      <unit id="CPCCSI3016A" title="Produce digital signage using advanced software applications"/>
+      <unit id="MEM05010C" title="Apply fabrication, forming and shaping techniques"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30611" title="Certificate III in Painting and Decorating">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2003B" title="Calculate and cost construction work"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCPB3026B" title="Erect and maintain trestle and plank systems"/>
+      <unit id="CPCCPD2011A" title="Handle painting and decorating materials"/>
+      <unit id="CPCCPD2012A" title="Use painting and decorating tools and equipment"/>
+      <unit id="CPCCPD2013A" title="Remove and replace doors and door and window components"/>
+      <unit id="CPCCPD3021A" title="Prepare surfaces for painting"/>
+      <unit id="CPCCPD3022A" title="Apply paint by brush and roller"/>
+      <unit id="CPCCPD3023A" title="Apply texture coat paint finishes by brush, roller and spray"/>
+      <unit id="CPCCPD3024A" title="Apply paint by spray"/>
+      <unit id="CPCCPD3025A" title="Match specified paint colour"/>
+      <unit id="CPCCPD3026A" title="Apply stains and clear timber finishes"/>
+      <unit id="CPCCPD3027A" title="Apply wallpaper"/>
+      <unit id="CPCCPD3028A" title="Apply decorative paint finishes"/>
+      <unit id="CPCCPD3029A" title="Remove graffiti and apply protective coatings"/>
+      <unit id="CPCCPD3030B" title="Apply protective paint coating systems"/>
+      <unit id="CPCCPD3031A" title="Implement safe lead paint and asbestos work practices in the painting industry"/>
+      <unit id="CPCCPD3032A" title="Apply advanced wallpaper techniques"/>
+      <unit id="CPCCPD3033A" title="Apply intumescent coatings"/>
+      <unit id="CPCCPD3034A" title="Apply advanced decorative paint finishes"/>
+      <unit id="CPCCSP3003A" title="Apply trowelled texture coat finishes"/>
+      <unit id="LMFGG2008B" title="Glaze_reglaze residential windows and doors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32912" title="Certificate III in Construction Crane Operations">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2004A" title="Handle construction materials"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCM3003A" title="Work safely around power sources, services and assets"/>
+      <unit id="CPCCDO3011A" title="Perform dogging"/>
+      <unit id="CPCCDO3012A" title="Perform crane scheduling"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3012A" title="Perform basic rigging"/>
+      <unit id="CPCCRI3013A" title="Perform intermediate rigging"/>
+      <unit id="TLIB3011A" title="Set up and rig crane for lift"/>
+      <unit id="TLIB3013A" title="Maintain mobile cranes"/>
+      <unit id="TLIB3015A" title="Undertake site inspection"/>
+      <unit id="TLIF2006A" title="Apply accident-emergency procedures"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3084A" title="Follow mobile crane safety procedures"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC2016A" title="Licence to drive heavy rigid vehicle"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC32812" title="Certificate III in Fire Protection">
+    <units>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCPB3015A" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="CPCCRI3001A" title="Operate personnel and materials hoists"/>
+      <unit id="CPCCST2005A" title="Carry out load slinging of off-site materials"/>
+      <unit id="CPCPCM2039A" title="Carry out interactive workplace communication"/>
+      <unit id="CPCPCM2040A" title="Read plans and calculate plumbing quantities"/>
+      <unit id="CPCPCM2041A" title="Work effectively in the plumbing and services sector"/>
+      <unit id="CPCPCM2043A" title="Carry out WHS requirements"/>
+      <unit id="CPCPCM2045A" title="Handle and store plumbing materials"/>
+      <unit id="CPCPCM2046A" title="Use plumbing hand and power tools"/>
+      <unit id="CPCPCM2047A" title="Carry out levelling"/>
+      <unit id="CPCPCM2048A" title="Cut and join sheet metal"/>
+      <unit id="CPCPCM2049A" title="Cut using oxy-LPG-acetylene equipment"/>
+      <unit id="CPCPCM2050A" title="Mark out materials"/>
+      <unit id="CPCPCM2052A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="CPCPCM2053A" title="Weld using manual metal arc welding equipment"/>
+      <unit id="CPCPCM2054A" title="Carry out simple concreting and rendering"/>
+      <unit id="CPCPCM2055A" title="Work safely on roofs"/>
+      <unit id="CPCPCM3021A" title="Flash penetrations through roofs and walls"/>
+      <unit id="CPCPCM3022A" title="Weld polyethylene and polypropylene pipes using fusion method"/>
+      <unit id="CPCPCM3023A" title="Fabricate and install non-ferrous pressure piping"/>
+      <unit id="CPCPFS2021A" title="Connect static storage tanks for fixed fire protection systems"/>
+      <unit id="CPCPFS2022A" title="Install portable fire equipment"/>
+      <unit id="CPCPFS3030A" title="Design pre-calculated fire sprinkler systems"/>
+      <unit id="CPCPFS3031A" title="Fabricate and install fire hydrant and hose reel systems"/>
+      <unit id="CPCPFS3032A" title="Install distribution and range pipes"/>
+      <unit id="CPCPFS3033A" title="Fit off sprinkler heads, controls and ancillary equipment"/>
+      <unit id="CPCPFS3034A" title="Install control valve assemblies, actuating devices and local alarms"/>
+      <unit id="CPCPFS3035A" title="Test fire protection systems for pressure"/>
+      <unit id="CPCPFS3036A" title="Install special hazard systems"/>
+      <unit id="CPCPFS3037A" title="Install domestic and residential life safety sprinkler systems"/>
+      <unit id="CPCPFS3038A" title="Test and maintain fire hydrant and hose reel installations"/>
+      <unit id="CPCPFS3039A" title="Test and maintain automatic fire sprinklers"/>
+      <unit id="CPCPFS3040A" title="Conduct basic functional testing of water-based fire-suppression systems"/>
+      <unit id="CPCPFS3041A" title="Inspect and test fire pumpsets"/>
+      <unit id="CPCPFS3042A" title="Conduct annual functional testing of complex water-based fire-suppression systems"/>
+      <unit id="CPCPFS3043A" title="Conduct functional water flow testing"/>
+      <unit id="CPCPMS3031A" title="Fabricate and install steel pressure piping"/>
+      <unit id="CPCPWT3025A" title="Install water pumpsets"/>
+      <unit id="CPCPWT3028A" title="Install water service"/>
+      <unit id="CPCPWT3029A" title="Install water pipe systems"/>
+      <unit id="CPCPWT3030A" title="Install home fire sprinkler systems"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2025A" title="Inspect, test and maintain gaseous fire-suppression systems"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES2047A" title="Inspect and test control and indicating equipment"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC30111" title="Certificate III in Bricklaying/Blocklaying">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCBL2001A" title="Handle and prepare bricklaying and blocklaying materials"/>
+      <unit id="CPCCBL2002A" title="Use bricklaying and blocklaying tools and equipment"/>
+      <unit id="CPCCBL3001A" title="Lay paving"/>
+      <unit id="CPCCBL3002A" title="Carry out masonry veneer construction"/>
+      <unit id="CPCCBL3003A" title="Carry out cavity brick construction"/>
+      <unit id="CPCCBL3004A" title="Construct masonry steps and stairs"/>
+      <unit id="CPCCBL3005A" title="Lay masonry walls and corners"/>
+      <unit id="CPCCBL3006A" title="Lay multi-thickness walls and piers"/>
+      <unit id="CPCCBL3007A" title="Install glass blockwork"/>
+      <unit id="CPCCBL3009A" title="Install flashings and damp proof course"/>
+      <unit id="CPCCBL3010A" title="Construct masonry arches"/>
+      <unit id="CPCCBL3011A" title="Construct curved walls"/>
+      <unit id="CPCCBL3012A" title="Construct fireplaces and chimneys"/>
+      <unit id="CPCCBL3013A" title="Construct masonry structural systems"/>
+      <unit id="CPCCBL3014A" title="Install fire-rated masonry construction"/>
+      <unit id="CPCCBL3015A" title="Construct decorative brickwork"/>
+      <unit id="CPCCBL3016A" title="Construct battered masonry walls and piers"/>
+      <unit id="CPCCBL3017A" title="Carry out tuck pointing to brickwork"/>
+      <unit id="CPCCBL3018A" title="Install aerated autoclaved concrete products"/>
+      <unit id="CPCCCA3002A" title="Carry out setting out"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006A" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCCM2008A" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2009A" title="Carry out basic demolition"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC31311" title="Certificate III in Wall and Floor Tiling">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CPCCCM1012A" title="Work effectively and sustainably in the construction industry"/>
+      <unit id="CPCCCM1013A" title="Plan and organise work"/>
+      <unit id="CPCCCM1014A" title="Conduct workplace communication"/>
+      <unit id="CPCCCM1015A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010B" title="Work safely at heights"/>
+      <unit id="CPCCCM3001C" title="Operate elevated work platforms"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCWF2001A" title="Handle wall and floor tiling materials"/>
+      <unit id="CPCCWF2002A" title="Use wall and floor tiling tools and equipment"/>
+      <unit id="CPCCWF3001A" title="Prepare surfaces for tiling application"/>
+      <unit id="CPCCWF3002A" title="Fix floor tiles"/>
+      <unit id="CPCCWF3003A" title="Fix wall tiles"/>
+      <unit id="CPCCWF3004A" title="Repair wall and floor tiles"/>
+      <unit id="CPCCWF3005A" title="Carry out decorative tiling"/>
+      <unit id="CPCCWF3006A" title="Carry out mosaic tiling"/>
+      <unit id="CPCCWF3007A" title="Tile curved surfaces"/>
+      <unit id="CPCCWF3008A" title="Tile domestic pools and spas"/>
+      <unit id="CPCCWP3002A" title="Apply waterproofing process to internal wet areas"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40808" title="Certificate IV in Swimming Pool and Spa Building">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4007A" title="Plan building or construction work"/>
+      <unit id="CPCCBC4008B" title="Conduct on-site supervision of building and construction projects"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4018A" title="Apply site surveys and set-out procedures to building and construction projects"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4031A" title="Process client requirements"/>
+      <unit id="CPCCBC4032A" title="Apply contract law to sales processes"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCCBC4048A" title="Apply building codes and standards to the construction process for swimming pools and spas"/>
+      <unit id="CPCCBC4049A" title="Apply structural principles to construction of swimming pools and spas"/>
+      <unit id="CPCCBC4050A" title="Select, procure and store construction materials for swimming pools and spa projects"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40408" title="Certificate IV in Building and Construction (Sales)">
+    <units>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSLS403A" title="Present a sales solution"/>
+      <unit id="BSBSLS404A" title="Secure prospect commitment"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4016A" title="Administer a construction contract"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4027B" title="Establish a basis for sales consulting"/>
+      <unit id="CPCCBC4029B" title="Apply construction information to the sales process"/>
+      <unit id="CPCCBC4030A" title="Analyse and communicate industry information"/>
+      <unit id="CPCCBC4031A" title="Process client requirements"/>
+      <unit id="CPCCBC4032A" title="Apply contract law to sales processes"/>
+      <unit id="CPCCBC4033A" title="Maintain the sales environment"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPDSM4014A" title="Market property for sale"/>
+      <unit id="CPPDSM4022A" title="Sell and finalise the sale of property by private treaty"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40508" title="Certificate IV in Building and Construction (Site Management)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4007A" title="Plan building or construction work"/>
+      <unit id="CPCCBC4008B" title="Conduct on-site supervision of building and construction projects"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+      <unit id="CPCCBC4010B" title="Apply structural principles to residential low rise constructions"/>
+      <unit id="CPCCBC4011B" title="Apply structural principles to commercial low rise constructions"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4018A" title="Apply site surveys and set-out procedures to building and construction projects"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="CPCCBC4028A" title="Prepare design brief for construction works"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40308" title="Certificate IV in Building and Construction (Estimating)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4006B" title="Select, procure and store construction materials for low rise projects"/>
+      <unit id="CPCCBC4010B" title="Apply structural principles to residential low rise constructions"/>
+      <unit id="CPCCBC4011B" title="Apply structural principles to commercial low rise constructions"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="CPCCBC4016A" title="Administer a construction contract"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4028A" title="Prepare design brief for construction works"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40912" title="Certificate IV in Plumbing and Service">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4008B" title="Conduct on-site supervision of building and construction projects"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCPCM4011A" title="Carry out work-based risk control processes"/>
+      <unit id="CPCPCM4012A" title="Estimate and cost work"/>
+      <unit id="CPCPCM4013A" title="Produce 2-D architectural drawings using CAD software"/>
+      <unit id="CPCPCM4014A" title="Prepare simple sketches and drawings"/>
+      <unit id="CPCPDR4011B" title="Design and size sanitary drainage systems"/>
+      <unit id="CPCPDR4012B" title="Design and size stormwater drainage systems"/>
+      <unit id="CPCPDR4013B" title="Design and size domestic treatment plant disposal systems"/>
+      <unit id="CPCPFS4021A" title="Commission domestic and residential fire suppression sprinkler systems"/>
+      <unit id="CPCPFS4022A" title="Commission and maintain special hazard fire suppression systems"/>
+      <unit id="CPCPFS4023A" title="Commission fire system pumpsets"/>
+      <unit id="CPCPFS4024A" title="Design residential and domestic fire sprinkler systems"/>
+      <unit id="CPCPFS4025A" title="Commission fire alarm and detection system interface devices"/>
+      <unit id="CPCPFS4026A" title="Commission firefighting appliances"/>
+      <unit id="CPCPGS4011B" title="Design and size consumer gas installations"/>
+      <unit id="CPCPGS4022A" title="Service Type A gas appliances"/>
+      <unit id="CPCPGS4023A" title="Install, commission and service Type B gas appliances"/>
+      <unit id="CPCPMS4011B" title="Design, size and lay out heating and cooling systems"/>
+      <unit id="CPCPMS4022A" title="Commission air and water systems"/>
+      <unit id="CPCPMS4023A" title="Design compressed air systems"/>
+      <unit id="CPCPRF4011B" title="Design and size roof drainage systems"/>
+      <unit id="CPCPSN4011B" title="Design and size sanitary plumbing systems"/>
+      <unit id="CPCPWT4011B" title="Design and size heated and cold water services and systems"/>
+      <unit id="CPCPWT4022A" title="Commission and maintain backflow prevention devices"/>
+      <unit id="CPCPWT4023A" title="Commission and maintain hot and heated water temperature control devices"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40110" title="Certificate IV in Building and Construction (Building)">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4006B" title="Select, procure and store construction materials for low rise projects"/>
+      <unit id="CPCCBC4007A" title="Plan building or construction work"/>
+      <unit id="CPCCBC4008B" title="Conduct on-site supervision of building and construction projects"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+      <unit id="CPCCBC4010B" title="Apply structural principles to residential low rise constructions"/>
+      <unit id="CPCCBC4011B" title="Apply structural principles to commercial low rise constructions"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="CPCCBC4016A" title="Administer a construction contract"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4018A" title="Apply site surveys and set-out procedures to building and construction projects"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4022A" title="Supervise tilt-up work"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40611" title="Certificate IV in Building and Construction (Specialist Trades)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCCBC4035A" title="Initiate the heritage works process"/>
+      <unit id="CPCCBC4036A" title="Prepare to undertake the heritage restoration process"/>
+      <unit id="CPCCBC4037A" title="Prepare drawings for heritage works"/>
+      <unit id="CPCCBC4038A" title="Prepare work plans for restoration work"/>
+      <unit id="CPCCBC4039A" title="Undertake the heritage restoration process"/>
+      <unit id="CPCCBC4040A" title="Prepare report for heritage restoration work"/>
+      <unit id="CPCCBC4041A" title="Undertake preparations for refractory work"/>
+      <unit id="CPCCBC4042A" title="Construct a fire brick wall and arch using refractory materials"/>
+      <unit id="CPCCBC4043A" title="Operate a self-erecting tower crane"/>
+      <unit id="CPCCBC4044A" title="Operate a tower crane"/>
+      <unit id="CPCCBC4045A" title="Perform advanced rigging"/>
+      <unit id="CPCCBC4046A" title="Erect and dismantle advanced scaffolding"/>
+      <unit id="CPCCBC4047A" title="Quality assure fire-rated lining systems"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="CPCCLSF4001A" title="Licence to erect, alter  and dismantle scaffolding advanced level"/>
+      <unit id="CPCCLTC4001A" title="Licence to operate a tower crane"/>
+      <unit id="CPCCLTC4002A" title="Licence to operate a self-erecting tower crane"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4010A" title="Licence to operate a slewing mobile crane (up to 100 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40708" title="Certificate IV in Building and Construction (Trade Contracting)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4002A" title="Manage occupational health and safety in the building and construction workplace"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4007A" title="Plan building or construction work"/>
+      <unit id="CPCCBC4008B" title="Conduct on-site supervision of building and construction projects"/>
+      <unit id="CPCCBC4010B" title="Apply structural principles to residential low rise constructions"/>
+      <unit id="CPCCBC4011B" title="Apply structural principles to commercial low rise constructions"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4031A" title="Process client requirements"/>
+      <unit id="CPCCBC4032A" title="Apply contract law to sales processes"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCCBC4051A" title="Supervise asbestos removal"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC40208" title="Certificate IV in Building and Construction (Contract Administration)">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4006B" title="Select, procure and store construction materials for low rise projects"/>
+      <unit id="CPCCBC4007A" title="Plan building or construction work"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4016A" title="Administer a construction contract"/>
+      <unit id="CPCCBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="CPCCBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="CPCCBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="CPCCBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="CPCCBC4029B" title="Apply construction information to the sales process"/>
+      <unit id="CPCCBC4031A" title="Process client requirements"/>
+      <unit id="CPCCBC4032A" title="Apply contract law to sales processes"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50210" title="Diploma of Building and Construction (Building)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBPMG505A" title="Manage project quality"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4006B" title="Select, procure and store construction materials for low rise projects"/>
+      <unit id="CPCCBC4009B" title="Apply legal requirements to building and construction projects"/>
+      <unit id="CPCCBC4010B" title="Apply structural principles to residential low rise constructions"/>
+      <unit id="CPCCBC4011B" title="Apply structural principles to commercial low rise constructions"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCBC4018A" title="Apply site surveys and set-out procedures to building and construction projects"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCBC5001B" title="Apply building codes and standards to the construction process for medium rise building projects"/>
+      <unit id="CPCCBC5002A" title="Monitor costing systems on medium rise building and construction projects"/>
+      <unit id="CPCCBC5003A" title="Supervise the planning of on-site medium rise building or construction work"/>
+      <unit id="CPCCBC5004A" title="Supervise and apply quality standards to the selection of building and construction materials"/>
+      <unit id="CPCCBC5005A" title="Select and manage building and construction contractors"/>
+      <unit id="CPCCBC5006B" title="Apply site surveys and set-out procedures to medium rise building projects"/>
+      <unit id="CPCCBC5007B" title="Administer the legal obligations of a building or construction contractor"/>
+      <unit id="CPCCBC5009A" title="Identify services layout and connection methods to medium rise construction projects"/>
+      <unit id="CPCCBC5010B" title="Manage construction work"/>
+      <unit id="CPCCBC5011A" title="Manage environmental management practices and processes in building and construction"/>
+      <unit id="CPCCBC5012A" title="Manage the application and monitoring of energy conservation and management practices and processes"/>
+      <unit id="CPCCBC5013A" title="Develop professional technical and legal reports on building and construction projects"/>
+      <unit id="CPCCBC5014A" title="Conduct asbestos assessment associated with removal"/>
+      <unit id="CPCCBC5018A" title="Apply structural principles to the construction of medium rise buildings"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCSUS5001A" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPDSM5022A" title="Implement asset management plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50108" title="Diploma of Building Surveying">
+    <units>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCOM504A" title="Develop, implement and promote effective workplace communication"/>
+      <unit id="CPCCSV5001A" title="Assess the construction of domestic scale buildings"/>
+      <unit id="CPCCSV5002A" title="Evaluate materials for construction of domestic scale buildings"/>
+      <unit id="CPCCSV5003A" title="Produce working drawings for residential buildings"/>
+      <unit id="CPCCSV5004A" title="Apply legislation to urban development and building controls"/>
+      <unit id="CPCCSV5005A" title="Apply footing and geomechanical design principles to domestic scale buildings"/>
+      <unit id="CPCCSV5006A" title="Assess construction faults in residential buildings"/>
+      <unit id="CPCCSV5007A" title="Undertake site surveys and set-out procedures for building projects"/>
+      <unit id="CPCCSV5008A" title="Apply building control legislation to building surveying"/>
+      <unit id="CPCCSV5009A" title="Assess the impact of fire on building materials"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5012A" title="Assess timber-framed designs for one and two storey buildings"/>
+      <unit id="CPCCSV5013A" title="Apply principles of energy efficient design to buildings"/>
+      <unit id="CPCCSV5014A" title="Apply building surveying procedures to residential buildings"/>
+      <unit id="CPCCSV5015A" title="Assess structural requirements for domestic scale buildings"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50412" title="Diploma of Plumbing and Services">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBPMG505A" title="Manage project quality"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCCBC5002A" title="Monitor costing systems on medium rise building and construction projects"/>
+      <unit id="CPCCBC5010B" title="Manage construction work"/>
+      <unit id="CPCCSV6010A" title="Apply fire technology to buildings up to three storeys"/>
+      <unit id="CPCPCM5010A" title="Design complex sanitary plumbing and drainage systems"/>
+      <unit id="CPCPCM5011A" title="Design complex cold water systems"/>
+      <unit id="CPCPCM5012A" title="Design complex stormwater and roof drainage systems"/>
+      <unit id="CPCPCM5013A" title="Design complex (non-solar) heated water systems"/>
+      <unit id="CPCPCM5014A" title="Design sewer infrastructure systems"/>
+      <unit id="CPCPFS5010A" title="Design fire-compliant hydraulic services"/>
+      <unit id="CPCPFS5011A" title="Design fire sprinkler systems"/>
+      <unit id="CPCPFS5012A" title="Design fire hydrant and hose reel systems"/>
+      <unit id="CPCPMS5010A" title="Design steam generation and distribution systems"/>
+      <unit id="CPCPMS5011A" title="Design air conditioning and ventilation systems"/>
+      <unit id="CPCPMS5012A" title="Design sound attenuated hydraulic services"/>
+      <unit id="CPCPMS5013A" title="Design hydronic heating and cooling systems"/>
+      <unit id="CPCPPS5000B" title="Design gas bulk storage systems"/>
+      <unit id="CPCPPS5001B" title="Design industrial gas systems"/>
+      <unit id="CPCPPS5002B" title="Design gas reticulation systems"/>
+      <unit id="CPCPPS5009B" title="Analyse and report on technical plumbing systems"/>
+      <unit id="CPCPPS5011B" title="Coordinate services and penetrations within a building"/>
+      <unit id="CPCPPS5014A" title="Locate and maintain piping systems"/>
+      <unit id="CPCPPS5015B" title="Inspect plumbing and drainage systems"/>
+      <unit id="CPCPPS5023A" title="Design solar water heating systems"/>
+      <unit id="CPCPPS5024A" title="Conduct a water audit and identify water-saving initiatives"/>
+      <unit id="CPCPPS5025A" title="Design grey water re-use systems"/>
+      <unit id="CPCPPS5026A" title="Design rainwater collection, storage, distribution and re-use systems"/>
+      <unit id="CPCPPS5027A" title="Design irrigation systems"/>
+      <unit id="CPCPPS5028A" title="Design trade waste pre-treatment systems"/>
+      <unit id="CPCPPS5030A" title="Design pump systems"/>
+      <unit id="CPCPPS5032A" title="Design siphonic stormwater drainage systems"/>
+      <unit id="CPCPPS5033A" title="Design vacuum sewerage systems"/>
+      <unit id="CPCSUS5001A" title="Develop workplace policies and procedures for sustainability"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50612" title="Diploma of Hydraulic Services Design">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4034A" title="Apply codes and standards to building trade and services contracting"/>
+      <unit id="CPCPCM4013A" title="Produce 2-D architectural drawings using CAD software"/>
+      <unit id="CPCPCM4014A" title="Prepare simple sketches and drawings"/>
+      <unit id="CPCPCM5010A" title="Design complex sanitary plumbing and drainage systems"/>
+      <unit id="CPCPCM5011A" title="Design complex cold water systems"/>
+      <unit id="CPCPCM5012A" title="Design complex stormwater and roof drainage systems"/>
+      <unit id="CPCPCM5013A" title="Design complex (non-solar) heated water systems"/>
+      <unit id="CPCPCM5014A" title="Design sewer infrastructure systems"/>
+      <unit id="CPCPDR4011B" title="Design and size sanitary drainage systems"/>
+      <unit id="CPCPDR4012B" title="Design and size stormwater drainage systems"/>
+      <unit id="CPCPDR4013B" title="Design and size domestic treatment plant disposal systems"/>
+      <unit id="CPCPFS4024A" title="Design residential and domestic fire sprinkler systems"/>
+      <unit id="CPCPFS5011A" title="Design fire sprinkler systems"/>
+      <unit id="CPCPGS4011B" title="Design and size consumer gas installations"/>
+      <unit id="CPCPMS5010A" title="Design steam generation and distribution systems"/>
+      <unit id="CPCPMS5011A" title="Design air conditioning and ventilation systems"/>
+      <unit id="CPCPMS5012A" title="Design sound attenuated hydraulic services"/>
+      <unit id="CPCPMS5013A" title="Design hydronic heating and cooling systems"/>
+      <unit id="CPCPPS5000B" title="Design gas bulk storage systems"/>
+      <unit id="CPCPPS5001B" title="Design industrial gas systems"/>
+      <unit id="CPCPPS5002B" title="Design gas reticulation systems"/>
+      <unit id="CPCPPS5014A" title="Locate and maintain piping systems"/>
+      <unit id="CPCPPS5015B" title="Inspect plumbing and drainage systems"/>
+      <unit id="CPCPPS5023A" title="Design solar water heating systems"/>
+      <unit id="CPCPPS5024A" title="Conduct a water audit and identify water-saving initiatives"/>
+      <unit id="CPCPPS5025A" title="Design grey water re-use systems"/>
+      <unit id="CPCPPS5026A" title="Design rainwater collection, storage, distribution and re-use systems"/>
+      <unit id="CPCPPS5027A" title="Design irrigation systems"/>
+      <unit id="CPCPPS5028A" title="Design trade waste pre-treatment systems"/>
+      <unit id="CPCPPS5030A" title="Design pump systems"/>
+      <unit id="CPCPPS5032A" title="Design siphonic stormwater drainage systems"/>
+      <unit id="CPCPPS5033A" title="Design vacuum sewerage systems"/>
+      <unit id="CPCPSN4011B" title="Design and size sanitary plumbing systems"/>
+      <unit id="CPCPWT4011B" title="Design and size heated and cold water services and systems"/>
+      <unit id="CPCSFS5001A" title="Define scope and hazard level of fire systems design projects"/>
+      <unit id="CPCSFS5007A" title="Create detailed designs for hydrant and hose reel systems"/>
+      <unit id="CPCSUS5001A" title="Develop workplace policies and procedures for sustainability"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50509" title="Diploma of Fire Systems Design">
+    <units>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBPMG507A" title="Manage project communications"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CPCCBC4012B" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC5009A" title="Identify services layout and connection methods to medium rise construction projects"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSV5009A" title="Assess the impact of fire on building materials"/>
+      <unit id="CPCPCM4013A" title="Produce 2-D architectural drawings using CAD software"/>
+      <unit id="CPCPCM4014A" title="Prepare simple sketches and drawings"/>
+      <unit id="CPCSFS5001A" title="Define scope and hazard level of fire systems design projects"/>
+      <unit id="CPCSFS5002A" title="Research and interpret detailed fire systems design project requirements"/>
+      <unit id="CPCSFS5003A" title="Develop plans and methodology for fire systems design projects"/>
+      <unit id="CPCSFS5005A" title="Research and evaluate fire system technologies and components"/>
+      <unit id="CPCSFS5006A" title="Create detailed designs for fire sprinkler systems"/>
+      <unit id="CPCSFS5007A" title="Create detailed designs for hydrant and hose reel systems"/>
+      <unit id="CPCSFS5008A" title="Create detailed designs for fire detection and warning systems"/>
+      <unit id="CPCSFS5009A" title="Create detailed designs for fire systems' water supplies"/>
+      <unit id="CPCSFS5010A" title="Provide documentation and support for fabrication of fire sprinkler systems"/>
+      <unit id="CPCSFS5011A" title="Provide design documentation and review and support fire system installation processes"/>
+      <unit id="CPCSFS5013A" title="Support commissioning processes and finalise fire systems design projects"/>
+      <unit id="CPCSFS5014A" title="Conduct annual fire systems certification inspections"/>
+      <unit id="CPCSFS5015A" title="Assess documentation for annual fire systems certification inspections"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC50308" title="Diploma of Building and Construction (Management)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBPMG504A" title="Manage project costs"/>
+      <unit id="BSBPMG505A" title="Manage project quality"/>
+      <unit id="BSBPMG507A" title="Manage project communications"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CPCCBC5001B" title="Apply building codes and standards to the construction process for medium rise building projects"/>
+      <unit id="CPCCBC5002A" title="Monitor costing systems on medium rise building and construction projects"/>
+      <unit id="CPCCBC5003A" title="Supervise the planning of on-site medium rise building or construction work"/>
+      <unit id="CPCCBC5004A" title="Supervise and apply quality standards to the selection of building and construction materials"/>
+      <unit id="CPCCBC5005A" title="Select and manage building and construction contractors"/>
+      <unit id="CPCCBC5006B" title="Apply site surveys and set-out procedures to medium rise building projects"/>
+      <unit id="CPCCBC5007B" title="Administer the legal obligations of a building or construction contractor"/>
+      <unit id="CPCCBC5009A" title="Identify services layout and connection methods to medium rise construction projects"/>
+      <unit id="CPCCBC5010B" title="Manage construction work"/>
+      <unit id="CPCCBC5011A" title="Manage environmental management practices and processes in building and construction"/>
+      <unit id="CPCCBC5012A" title="Manage the application and monitoring of energy conservation and management practices and processes"/>
+      <unit id="CPCCBC5013A" title="Develop professional technical and legal reports on building and construction projects"/>
+      <unit id="CPCCBC5018A" title="Apply structural principles to the construction of medium rise buildings"/>
+      <unit id="CPCSUS5001A" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPDSM5022A" title="Implement asset management plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC60212" title="Advanced Diploma of Building and Construction (Management)">
+    <units>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBOHS603B" title="Analyse and evaluate OHS risk"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="CPCCBC6001B" title="Apply building codes and standards to the construction process for large building projects"/>
+      <unit id="CPCCBC6002A" title="Generate and direct the development of new projects"/>
+      <unit id="CPCCBC6003A" title="Establish, maintain and review contract administration procedures and frameworks"/>
+      <unit id="CPCCBC6005A" title="Manage tender developments for major projects"/>
+      <unit id="CPCCBC6006A" title="Manage the procurement and acquisition of resources for building or construction projects"/>
+      <unit id="CPCCBC6007A" title="Develop, plan and implement appropriate building or construction environmental management practices and processes"/>
+      <unit id="CPCCBC6008A" title="Develop and implement an appropriate estimating and tendering system"/>
+      <unit id="CPCCBC6009A" title="Develop, plan and implement an appropriate building or construction planning process"/>
+      <unit id="CPCCBC6010A" title="Plan, develop and implement building or construction energy conservation and management practices and processes"/>
+      <unit id="CPCCBC6011A" title="Establish systems to develop and monitor building and construction costs"/>
+      <unit id="CPCCBC6012A" title="Manage and administer development of documentation for building or construction projects"/>
+      <unit id="CPCCBC6013A" title="Evaluate materials for multi-storey buildings"/>
+      <unit id="CPCCBC6014A" title="Apply structural principles to the construction of large, high rise and complex buildings"/>
+      <unit id="CPCCBC6015A" title="Apply building surveying procedures"/>
+      <unit id="CPCCBC6016A" title="Assess construction faults in large building projects"/>
+      <unit id="CPCCBC6017A" title="Evaluate services layout and connection methods for the planning of large building projects"/>
+      <unit id="CPCCBC6018A" title="Manage processes for complying with legal obligations of a building or construction contractor"/>
+      <unit id="CPCSUS5001A" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPDSM6002A" title="Conduct a property investment feasibility study"/>
+      <unit id="CPPDSM6008A" title="Develop strategic facilities management plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC60108" title="Advanced Diploma of Building Surveying">
+    <units>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCOM504A" title="Develop, implement and promote effective workplace communication"/>
+      <unit id="CPCCSV5001A" title="Assess the construction of domestic scale buildings"/>
+      <unit id="CPCCSV5002A" title="Evaluate materials for construction of domestic scale buildings"/>
+      <unit id="CPCCSV5003A" title="Produce working drawings for residential buildings"/>
+      <unit id="CPCCSV5004A" title="Apply legislation to urban development and building controls"/>
+      <unit id="CPCCSV5005A" title="Apply footing and geomechanical design principles to domestic scale buildings"/>
+      <unit id="CPCCSV5006A" title="Assess construction faults in residential buildings"/>
+      <unit id="CPCCSV5007A" title="Undertake site surveys and set-out procedures for building projects"/>
+      <unit id="CPCCSV5008A" title="Apply building control legislation to building surveying"/>
+      <unit id="CPCCSV5009A" title="Assess the impact of fire on building materials"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5012A" title="Assess timber-framed designs for one and two storey buildings"/>
+      <unit id="CPCCSV5013A" title="Apply principles of energy efficient design to buildings"/>
+      <unit id="CPCCSV5014A" title="Apply building surveying procedures to residential buildings"/>
+      <unit id="CPCCSV5015A" title="Assess structural requirements for domestic scale buildings"/>
+      <unit id="CPCCSV6001A" title="Assess the construction of buildings up to three storeys"/>
+      <unit id="CPCCSV6002A" title="Produce working drawings for buildings up to three storeys"/>
+      <unit id="CPCCSV6003A" title="Assess construction faults in buildings up to three storeys"/>
+      <unit id="CPCCSV6004A" title="Apply footing and geomechanical design principles to buildings up to three storeys"/>
+      <unit id="CPCCSV6005A" title="Evaluate services layout and connection methods for residential and commercial buildings up to three storeys"/>
+      <unit id="CPCCSV6006A" title="Evaluate the use of concrete for residential and commercial buildings up to three storeys"/>
+      <unit id="CPCCSV6007A" title="Assess structural requirements for buildings up to three storeys"/>
+      <unit id="CPCCSV6008A" title="Apply building codes and standards to buildings up to three storeys"/>
+      <unit id="CPCCSV6009A" title="Implement performance-based codes and risk management principles for buildings up to three storeys"/>
+      <unit id="CPCCSV6010A" title="Apply fire technology to buildings up to three storeys"/>
+      <unit id="CPCCSV6011A" title="Apply legal procedures to building surveying"/>
+      <unit id="CPCCSV6012A" title="Facilitate community development consultation"/>
+      <unit id="CPCCSV6013A" title="Coordinate building refurbishment"/>
+      <unit id="CPCCSV6014A" title="Manage and plan land use"/>
+      <unit id="CPCCSV6015A" title="Analyse and present building surveying research information"/>
+      <unit id="CPCCSV6016A" title="Apply building surveying procedures to buildings up to three storeys"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="LGAPLEM502A" title="Apply ecologically sustainable development principles to the built environment"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPC70109" title="Vocational Graduate Certificate in Fire Systems Design Management">
+    <units>
+      <unit id="CPCMCM7001A" title="Plan and manage complex projects"/>
+      <unit id="CPCMCM7002A" title="Manage the quality of projects and processes"/>
+      <unit id="CPCSFS7001A" title="Define scope of and initiate special hazard fire systems design projects"/>
+      <unit id="CPCSFS7002A" title="Analyse, design and evaluate complex special hazard fire systems"/>
+      <unit id="CPCSFS7003A" title="Develop and submit tenders for fire systems design solutions"/>
+    </units>
+  </qualification>
+</qualifications>

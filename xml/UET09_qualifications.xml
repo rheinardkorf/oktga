@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<qualifications class="UET09">
+  <qualification id="UET20110" title="Certificate II in ESI - Vegetation Control">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UETTDREL03B" title="Comply with environmental and incidental response procedures"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRVC01B" title="Cut vegetation above ground outside live work zone near live electrical apparatus (climbing)"/>
+      <unit id="UETTDRVC02B" title="Operate vegetation control plant, machinery and equipment near live electrical apparatus"/>
+      <unit id="UETTDRVC03B" title="Plan for the removal of vegetation up to vegetation exclusion zone near live electrical apparatus"/>
+      <unit id="UETTDRVC04B" title="Assess vegetation and recommend control measures for work near live electrical apparatus"/>
+      <unit id="UETTDRVC05B" title="Cut vegetation above ground outside live work zone near live electrical apparatus (platform)"/>
+      <unit id="UETTDRVC06B" title="Cut vegetation at ground level outside 'vegetation exclusion zone' near live electrical apparatus"/>
+      <unit id="UETTDRVC07B" title="Monitor safety compliance for vegetation work near live electrical apparatus"/>
+      <unit id="UETTDRVC08B" title="Safe use of Elevating Work Platform (EWP) near live electrical apparatus"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET20511" title="Certificate II in National Broadband Network Cabling (Electricity Supply Industry Assets)">
+    <units>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE103A" title="Solve problems in ELV single path circuits"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEE151A" title="Transport apparatus, equipment and materials"/>
+      <unit id="UEENEEF106A" title="Solve problems in voice and data communications circuits"/>
+      <unit id="UEENEEF107A" title="Set up and configure the wireless capabilities of communications and data storage devices"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL14A" title="Working safely near live electrical apparatus as a non-electrical worker"/>
+      <unit id="UETTDRIS81A" title="Install telecommunications infrastructure on electricity supply industry assets"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET20209" title="Certificate II in ESI - Transmission Line Assembly">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UETTDREL03B" title="Comply with environmental and incidental response procedures"/>
+      <unit id="UETTDRTP03B" title="Erect transmission towers"/>
+    </units>
+  </qualification>
+  <qualification id="UET30409" title="Certificate III in ESI - Cable Jointing">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEG001B" title="Solve problems in electromagnetic circuits"/>
+      <unit id="UEENEEG002B" title="Solve problems in single and three phase low voltage circuits"/>
+      <unit id="UETTDRCJ01B" title="Lay electrical cables"/>
+      <unit id="UETTDRCJ06B" title="Install and maintain de-energised LV underground polymeric cables."/>
+      <unit id="UETTDRCJ07B" title="Install and maintain de-energised HV underground polymeric cables."/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL02B" title="Operate plant and equipment near live electrical conductors/apparatus"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS01B" title="Install electrical equipment (network infrastructure)."/>
+      <unit id="UETTDRIS02B" title="Maintain electrical equipment (Network Infrastructure)."/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET30209" title="Certificate III in ESI - Distribution">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEG001B" title="Solve problems in electromagnetic circuits"/>
+      <unit id="UEENEEG002B" title="Solve problems in single and three phase low voltage circuits"/>
+      <unit id="UETTDRDP01B" title="Inspect overhead structures and electrical apparatus (poles /structures)"/>
+      <unit id="UETTDRDP02B" title="Maintain overhead energised LV conductors and cables"/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL02B" title="Operate plant and equipment near live electrical conductors/apparatus"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS01B" title="Install electrical equipment (network infrastructure)."/>
+      <unit id="UETTDRIS02B" title="Maintain electrical equipment (Network Infrastructure)."/>
+      <unit id="UETTDRIS12B" title="Install and maintain poles/structures and associated hardware"/>
+      <unit id="UETTDRIS14B" title="Install and maintain overhead conductors and cables (poles and structures)"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET30309" title="Certificate III in ESI - Rail Traction">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEG001B" title="Solve problems in electromagnetic circuits"/>
+      <unit id="UEENEEG002B" title="Solve problems in single and three phase low voltage circuits"/>
+      <unit id="UETTDRCJ01B" title="Lay electrical cables"/>
+      <unit id="UETTDRCJ06B" title="Install and maintain de-energised LV underground polymeric cables."/>
+      <unit id="UETTDRCJ07B" title="Install and maintain de-energised HV underground polymeric cables."/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL02B" title="Operate plant and equipment near live electrical conductors/apparatus"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS01B" title="Install electrical equipment (network infrastructure)."/>
+      <unit id="UETTDRIS02B" title="Maintain electrical equipment (Network Infrastructure)."/>
+      <unit id="UETTDRIS12B" title="Install and maintain poles/structures and associated hardware"/>
+      <unit id="UETTDRIS14B" title="Install and maintain overhead conductors and cables (poles and structures)"/>
+      <unit id="UETTDRRT01B" title="Install overhead traction wiring systems"/>
+      <unit id="UETTDRRT02B" title="Maintain overhead traction wiring systems"/>
+      <unit id="UETTDRRT07B" title="Install overhead traction equipment and components"/>
+      <unit id="UETTDRRT08B" title="Maintain overhead traction equipment and components"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET30109" title="Certificate III in ESI - Transmission">
+    <units>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEG001B" title="Solve problems in electromagnetic circuits"/>
+      <unit id="UEENEEG002B" title="Solve problems in single and three phase low voltage circuits"/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL02B" title="Operate plant and equipment near live electrical conductors/apparatus"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS12B" title="Install and maintain poles/structures and associated hardware"/>
+      <unit id="UETTDRTP06B" title="Erect transmission towers and associated hardware"/>
+      <unit id="UETTDRTP07B" title="Maintain transmission towers and associated hardware"/>
+      <unit id="UETTDRTP09B" title="Install and maintain overhead conductors and cables (towers)"/>
+      <unit id="UETTDRTP10B" title="Inspect overhead structures and electrical apparatus (towers)"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET40109" title="Certificate IV in ESI - Power Systems">
+    <units>
+      <unit id="UETTDRIS22B" title="Implement and monitor the organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS23B" title="Implement and monitor environmental and sustainable energy management policies and procedures"/>
+    </units>
+  </qualification>
+  <qualification id="UET40309" title="Certificate IV in ESI - Network Infrastructure">
+    <units>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL02B" title="Operate plant and equipment near live electrical conductors/apparatus"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS22B" title="Implement and monitor the organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS23B" title="Implement and monitor environmental and sustainable energy management policies and procedures"/>
+    </units>
+  </qualification>
+  <qualification id="UET40209" title="Certificate IV in ESI - Substation">
+    <units>
+      <unit id="UETTDRIS05B" title="Perform substation switching operation to a given schedule"/>
+      <unit id="UETTDRIS22B" title="Implement and monitor the organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS23B" title="Implement and monitor environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRSB01B" title="Diagnose and rectify faults in power system substation environment"/>
+      <unit id="UETTDRSB02B" title="Carry out substation inspection"/>
+      <unit id="UETTDRSB03B" title="Install and maintain substation DC systems"/>
+      <unit id="UETTDRSB04B" title="Maintain HV power system breakers"/>
+      <unit id="UETTDRSB05B" title="Maintain HV power system - transformers and instrument transformers"/>
+    </units>
+  </qualification>
+  <qualification id="UET50109" title="Diploma of ESI - Power Systems">
+    <units>
+      <unit id="UEENEED004B" title="Use engineering applications software"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEE024B" title="Compile and produce an electrotechnology report"/>
+      <unit id="UEENEEG001B" title="Solve problems in electromagnetic circuits"/>
+      <unit id="UEENEEG002B" title="Solve problems in single and three phase low voltage circuits"/>
+      <unit id="UEENEEG047B" title="Provide computational solutions to power engineering problems"/>
+      <unit id="UEENEEG048B" title="Solve problems in complex multiple path power circuits"/>
+      <unit id="UEENEEG049B" title="Solve problems in complex polyphase power circuits"/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS22B" title="Implement and monitor the organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS23B" title="Implement and monitor environmental and sustainable energy management policies and procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET60109" title="Advanced Diploma of ESI - Power Systems">
+    <units>
+      <unit id="UEENEED004B" title="Use engineering applications software"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEE024B" title="Compile and produce an electrotechnology report"/>
+      <unit id="UEENEEG047B" title="Provide computational solutions to power engineering problems"/>
+      <unit id="UEENEEG048B" title="Solve problems in complex multiple path power circuits"/>
+      <unit id="UEENEEG049B" title="Solve problems in complex polyphase power circuits"/>
+      <unit id="UETTDREL01B" title="Apply environmental and sustainable energy procedures"/>
+      <unit id="UETTDREL04B" title="Working safely near live electrical apparatus as non electrical worker"/>
+      <unit id="UETTDRIS22B" title="Implement and monitor the organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS23B" title="Implement and monitor environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS28A" title="Analyse and develop solutions for problems in extra-low voltage, single path circuits"/>
+      <unit id="UETTDRIS29A" title="Analyse and develop solutions for problems in multiple path d.c. circuits"/>
+      <unit id="UETTDRIS30A" title="Analyse and develop solutions for problems in electromagnetic circuits"/>
+      <unit id="UETTDRIS31A" title="Analyse and develop solutions for problems in single and three phase low voltage circuits"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

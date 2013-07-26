@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<qualifications class="MNC04">
+  <qualification id="MNC20204" title="Certificate II in Coal Preparation">
+    <units>
+      <unit id="BSBCMN215A" title="Participate in environmental work practices"/>
+      <unit id="MNCG1004A" title="Respond to local emergencies and incidents"/>
+      <unit id="MNCG1010A" title="Assess and implement life support systems and stabilise casualties"/>
+      <unit id="MNCG1011A" title="Extricate and transport people involved in incidents"/>
+      <unit id="MNCG1013A" title="Apply initial response First Aid"/>
+      <unit id="MNCG1025A" title="Access, update and retrieve simple computerised information"/>
+      <unit id="MNCG1026A" title="Operate a computer to produce documents"/>
+      <unit id="MNCG1033A" title="Conduct lifting operations"/>
+      <unit id="MNCG1035A" title="Apply operational maintenance skills"/>
+      <unit id="MNCG1036A" title="Provide support to electrical tradesperson"/>
+      <unit id="MNCG1037A" title="Service mine plant and equipment"/>
+      <unit id="MNCG1038A" title="Perform basic cutting and welding"/>
+      <unit id="MNCG1043A" title="Conduct dogging operations"/>
+      <unit id="MNCG1044A" title="Conduct basic rigging operations"/>
+      <unit id="MNCG1046A" title="Conduct basic scaffolding operations"/>
+      <unit id="MNCG1060A" title="Operate support equipment"/>
+      <unit id="MNCO1013A" title="Conduct front end loader operations"/>
+      <unit id="MNCO1014A" title="Conduct haul truck operations"/>
+      <unit id="MNCO1015A" title="Conduct bulk water truck operations"/>
+      <unit id="MNCO1016A" title="Conduct grader operations"/>
+      <unit id="MNCO1036A" title="Conduct mobile crushing and screening plant operations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MNC20107" title="Certificate II in Surface Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC20104" title="Certificate II in Surface Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC20304" title="Certificate II in Underground Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC20307" title="Certificate II in Underground Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC30104" title="Certificate III in Surface Coal Mining Operations">
+    <units>
+      <unit id="BSBCMN313A" title="Maintain environmental procedures"/>
+      <unit id="BSBFLM302A" title="Support leadership in the workplace"/>
+      <unit id="BSBFLM303A" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM304A" title="Participate in work teams"/>
+      <unit id="MNCG1001A" title="Apply risk management processes"/>
+      <unit id="MNCG1005A" title="Conduct fire team operations"/>
+      <unit id="MNCG1008A" title="Conduct safety and health investigations"/>
+      <unit id="MNCG1009A" title="Communicate information"/>
+      <unit id="MNCG1010A" title="Assess and implement life support systems and stabilise casualties"/>
+      <unit id="MNCG1011A" title="Extricate and transport people involved in incidents"/>
+      <unit id="MNCG1013A" title="Apply initial response First Aid"/>
+      <unit id="MNCG1027A" title="Use keyboard skills and advanced functions of software packages to produce complex documents"/>
+      <unit id="MNCG1029A" title="Transfer information through a computer"/>
+      <unit id="MNCG1030A" title="Conduct purchasing"/>
+      <unit id="MNCG1045A" title="Conduct intermediate rigging operations"/>
+      <unit id="MNCG1047A" title="Conduct intermediate scaffolding operations"/>
+      <unit id="MNCG1056A" title="Install, commission and maintain major conveyor equipment and systems"/>
+      <unit id="MNCG1057A" title="Repair and splice conveyor belting"/>
+      <unit id="MNCG1065A" title="Operate multi-combination vehicles on mine sites"/>
+      <unit id="MNCG1068A" title="Test operational functions of mine vehicles and equipment"/>
+      <unit id="MNCG1069A" title="Conduct conveyor-car high wall mining operations"/>
+      <unit id="MNCG1070A" title="Provide deck support for conveyor-car high wall mining operations"/>
+      <unit id="MNCP1003A" title="Control coal preparation plant operations"/>
+      <unit id="MNCP1005A" title="Conduct sampling operations"/>
+      <unit id="MNCP1007A" title="Conduct stockpile reclaimer operations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MNC30307" title="Certificate III in Underground Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC30204" title="Certificate III in Coal Preparation">
+    <units>
+      <unit id="BSBCMN313A" title="Maintain environmental procedures"/>
+      <unit id="BSBFLM302A" title="Support leadership in the workplace"/>
+      <unit id="BSBFLM303A" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM304A" title="Participate in work teams"/>
+      <unit id="MNCG1001A" title="Apply risk management processes"/>
+      <unit id="MNCG1008A" title="Conduct safety and health investigations"/>
+      <unit id="MNCG1009A" title="Communicate information"/>
+      <unit id="MNCG1010A" title="Assess and implement life support systems and stabilise casualties"/>
+      <unit id="MNCG1011A" title="Extricate and transport people involved in incidents"/>
+      <unit id="MNCG1013A" title="Apply initial response First Aid"/>
+      <unit id="MNCG1027A" title="Use keyboard skills and advanced functions of software packages to produce complex documents"/>
+      <unit id="MNCG1029A" title="Transfer information through a computer"/>
+      <unit id="MNCG1030A" title="Conduct purchasing"/>
+      <unit id="MNCG1045A" title="Conduct intermediate rigging operations"/>
+      <unit id="MNCG1047A" title="Conduct intermediate scaffolding operations"/>
+      <unit id="MNCG1056A" title="Install, commission and maintain major conveyor equipment and systems"/>
+      <unit id="MNCG1057A" title="Repair and splice conveyor belting"/>
+      <unit id="MNCG1060A" title="Operate support equipment"/>
+      <unit id="MNCG1065A" title="Operate multi-combination vehicles on mine sites"/>
+      <unit id="MNCG1068A" title="Test operational functions of mine vehicles and equipment"/>
+      <unit id="MNCO1013A" title="Conduct front end loader operations"/>
+      <unit id="MNCO1014A" title="Conduct haul truck operations"/>
+      <unit id="MNCO1015A" title="Conduct bulk water truck operations"/>
+      <unit id="MNCO1016A" title="Conduct grader operations"/>
+      <unit id="MNCO1036A" title="Conduct mobile crushing and screening plant operations"/>
+      <unit id="MNCO1040A" title="Conduct shotfiring operations"/>
+      <unit id="MNCO1041A" title="Support shotfiring operations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MNC30304" title="Certificate III in Underground Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC40204" title="Certificate IV in Surface Coal Mining">
+    <units/>
+  </qualification>
+  <qualification id="MNC40104" title="Certificate IV in Surface Coal Mining (Open Cut Examiner)">
+    <units/>
+  </qualification>
+  <qualification id="MNC40304" title="Certificate IV in Underground Coal Mining">
+    <units/>
+  </qualification>
+  <qualification id="MNC50104" title="Diploma of Surface Coal Mining Management">
+    <units/>
+  </qualification>
+  <qualification id="MNC50504" title="Diploma of Mine Surveying">
+    <units/>
+  </qualification>
+  <qualification id="MNC50404" title="Diploma of Mine Electrical Engineering">
+    <units/>
+  </qualification>
+  <qualification id="MNC50304" title="Diploma of Mine Mechanical Engineering">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBFLM506A" title="Manage workplace information systems"/>
+      <unit id="BSBFLM507A" title="Manage quality customer service"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM511A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="MNCG1002A" title="Implement and apply the risk management processes"/>
+      <unit id="MNCG1056A" title="Install, commission and maintain major conveyor equipment and systems"/>
+      <unit id="MNCG1081A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="MNCG1082A" title="Implement, monitor, rectify and report on inventory control system"/>
+      <unit id="MNCG1083A" title="Implement, monitor, rectify and report on maintenance management systems"/>
+      <unit id="MNCG1084A" title="Implement, monitor, rectify and report on mobile plant and equipment systems"/>
+      <unit id="MNCG1091A" title="Implement, monitor, rectify and report on interfaces between electrical and mechanical componentry"/>
+      <unit id="MNCO1047A" title="Manage the interaction of heavy and light vehicles and mining equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MNC50204" title="Diploma of Underground Coal Mining Management">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM511A" title="Develop a workplace learning environment"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="MNCG1002A" title="Implement and apply the risk management processes"/>
+      <unit id="MNCG1007A" title="Implement and monitor health and hygiene management systems"/>
+      <unit id="MNCG1008A" title="Conduct safety and health investigations"/>
+      <unit id="MNCG1009A" title="Communicate information"/>
+      <unit id="MNCG1081A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="MNCG1082A" title="Implement, monitor, rectify and report on inventory control system"/>
+      <unit id="MNCU1048A" title="Conduct shotfiring"/>
+      <unit id="MNCU1049A" title="Support shotfiring operations"/>
+      <unit id="MNCU1103A" title="Implement the spontaneous combustion management plan"/>
+      <unit id="MNCU1107A" title="Implement the ventilation management plan"/>
+      <unit id="MNCU1109A" title="Manage, operate and maintain the mine ventilation system"/>
+      <unit id="MNCU1112A" title="Implement the gas management plan"/>
+      <unit id="MNCU1117A" title="Implement the gas drainage management plan"/>
+      <unit id="MNCU1122A" title="Implement the outburst management plan"/>
+      <unit id="MNCU1127A" title="Implement the inrush management plan"/>
+      <unit id="MNCU1132A" title="Implement strata management plan"/>
+      <unit id="MNCU1137A" title="Implement mine transport systems and production equipment"/>
+      <unit id="MNCU1142A" title="Implement mine services and infrastructure systems"/>
+      <unit id="MNCU1152A" title="Implement mine emergency management system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MNC60204" title="Advanced Diploma of Underground Coal Mining Management">
+    <units/>
+  </qualification>
+  <qualification id="MNC60304" title="Advanced Diploma of Mine Mechanical Engineering">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM511A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT602A" title="Contribute to the development and implementation of strategic plans"/>
+      <unit id="BSBMGT610A" title="Manage environmental management systems"/>
+      <unit id="MNCG1125A" title="Initiate, monitor and supervise contracts"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MNC60404" title="Advanced Diploma of Mine Electrical Engineering">
+    <units/>
+  </qualification>
+  <qualification id="MNC60104" title="Advanced Diploma of Surface Coal Mining Management">
+    <units>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT601A" title="Contribute to strategic direction"/>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT605A" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT607A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT608A" title="Manage innovation and continuous improvement"/>
+      <unit id="MNCG1119A" title="Manage major incidents and emergencies"/>
+      <unit id="MNCG1125A" title="Initiate, monitor and supervise contracts"/>
+      <unit id="MNCG1126A" title="Conduct business negotiations"/>
+      <unit id="MNCO1101A" title="Plan pit development"/>
+      <unit id="MNCO1105A" title="Establish the mine water management system"/>
+      <unit id="MNCO1110A" title="Establish the mine stockpile management system"/>
+      <unit id="MNCO1120A" title="Establish waste and by-product management system"/>
+      <unit id="MNCO1125A" title="Establish plant, equipment and infrastructure maintenance system"/>
+      <unit id="MNCO1130A" title="Establish mine services system"/>
+      <unit id="MNCO1135A" title="Establish ground control and slope stability system"/>
+      <unit id="MNCO1140A" title="Establish the mine infrastructure and fixed plant systems"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

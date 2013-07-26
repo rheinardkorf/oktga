@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<qualifications class="ICT97">
+  <qualification id="ICT20197" title="Certificate II in Telecommunications">
+    <units/>
+  </qualification>
+  <qualification id="ICT20399" title="Certificate II in Telecommunications (CAN)">
+    <units/>
+  </qualification>
+  <qualification id="ICT20297" title="Certificate II in Telecommunications (Cabling)">
+    <units/>
+  </qualification>
+  <qualification id="ICT20499" title="Certificate II in Telecommunications (Call Centres)">
+    <units/>
+  </qualification>
+  <qualification id="ICT30397" title="Certificate III in Telecommunications (CAN)">
+    <units/>
+  </qualification>
+  <qualification id="ICT30197" title="Certificate III in Telecommunications">
+    <units/>
+  </qualification>
+  <qualification id="ICT30699" title="Certificate III in Telecommunications (Customer Premises, Cabling and Equipment)">
+    <units/>
+  </qualification>
+  <qualification id="ICT30297" title="Certificate III in Telecommunications (CPE)">
+    <units/>
+  </qualification>
+  <qualification id="ICT30497" title="Certificate III in Telecommunications (Cabling)">
+    <units/>
+  </qualification>
+  <qualification id="ICT30599" title="Certificate III in Telecommunications (Call Centres)">
+    <units/>
+  </qualification>
+  <qualification id="ICT40499" title="Certificate IV in Telecommunications (Cabling)">
+    <units/>
+  </qualification>
+  <qualification id="ICT40599" title="Certificate IV in Telecommunications (Call Centres)">
+    <units/>
+  </qualification>
+  <qualification id="ICT40397" title="Certificate IV in Telecommunications (CAN)">
+    <units/>
+  </qualification>
+  <qualification id="ICT40297" title="Certificate IV in Telecommunications (CPE)">
+    <units/>
+  </qualification>
+  <qualification id="ICT40197" title="Certificate IV in Telecommunications">
+    <units/>
+  </qualification>
+  <qualification id="ICT50299" title="Diploma of Telecommunications (CPE)">
+    <units/>
+  </qualification>
+  <qualification id="ICT50399" title="Diploma of Telecommunications (CAN)">
+    <units/>
+  </qualification>
+  <qualification id="ICT50197" title="Diploma of Telecommunications Engineering">
+    <units/>
+  </qualification>
+  <qualification id="ICT60197" title="Advanced Diploma of Telecommunications Engineering">
+    <units/>
+  </qualification>
+</qualifications>

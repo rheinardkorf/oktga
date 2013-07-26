@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<qualifications class="RII06">
+  <qualification id="RII10106" title="Certificate I in Resource and Infrastructure Operations">
+    <units/>
+  </qualification>
+  <qualification id="RII40106" title="Certificate IV in Civil Construction Operations">
+    <units/>
+  </qualification>
+  <qualification id="RII40306" title="Certificate IV in Civil Construction Design">
+    <units/>
+  </qualification>
+  <qualification id="RII40206" title="Certificate IV in Civil Construction Supervision">
+    <units/>
+  </qualification>
+  <qualification id="RII50206" title="Diploma of Civil Construction Design">
+    <units/>
+  </qualification>
+  <qualification id="RII50106" title="Diploma of Civil Construction Management">
+    <units/>
+  </qualification>
+  <qualification id="RII60106" title="Advanced Diploma of Civil Construction Management">
+    <units/>
+  </qualification>
+  <qualification id="RII60206" title="Advanced Diploma of Civil Construction Design Management">
+    <units/>
+  </qualification>
+</qualifications>

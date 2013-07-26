@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<skillsets class="AUR12">
+  <skillset id="AURSS00004" title="Automotive CNG Installation, Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3001" title="Service CNG fuel systems"/>
+      <unit id="AURTTL3002" title="Diagnose and repair CNG fuel systems"/>
+      <unit id="AURTTL3003" title="Install CNG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00005" title="Automotive CNG Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3001" title="Service CNG fuel systems"/>
+      <unit id="AURTTL3002" title="Diagnose and repair CNG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00006" title="Automotive Electrical Skill Set for Light Vehicle Technicians">
+    <units>
+      <unit id="AURETK2002" title="Use and maintain automotive electrical test equipment"/>
+      <unit id="AURETR2006" title="Carry out soldering of electrical wiring and circuits"/>
+      <unit id="AURETR2007" title="Demonstrate knowledge of automotive electrical circuits and wiring systems"/>
+      <unit id="AURETR2009" title="Install, test and repair vehicle lighting and wiring systems"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURETR2011" title="Install and test basic ancillary electrical components"/>
+      <unit id="AURETR2016" title="Read and apply vehicle wiring schematics and drawings"/>
+      <unit id="AURETR3024" title="Diagnose and repair electronic compression ignition engine management systems"/>
+      <unit id="AURETR3028" title="Diagnose and repair instruments and warning systems"/>
+      <unit id="AURETR3032" title="Repair electrical systems"/>
+      <unit id="AURETR3043" title="Service and repair electronic body management systems"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="AURSS00007" title="Automotive LNG Installation, Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3004" title="Service LNG fuel systems"/>
+      <unit id="AURTTL3005" title="Diagnose and repair LNG fuel systems"/>
+      <unit id="AURTTL3006" title="Install LNG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00008" title="Automotive LNG Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3004" title="Service LNG fuel systems"/>
+      <unit id="AURTTL3005" title="Diagnose and repair LNG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00009" title="Automotive LPG Installation, Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3007" title="Service LPG fuel systems"/>
+      <unit id="AURTTL3008" title="Diagnose and repair LPG fuel systems"/>
+      <unit id="AURTTL3009" title="Install LPG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00010" title="Automotive LPG Service and Repair Skill Set">
+    <units>
+      <unit id="AURTTL3007" title="Service LPG fuel systems"/>
+      <unit id="AURTTL3008" title="Diagnose and repair LPG fuel systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00011" title="Battery Electric Vehicle Diagnosis and Repair Skill Set">
+    <units>
+      <unit id="AURETH4004" title="Diagnose and repair traction motor speed control device in battery electric vehicles"/>
+      <unit id="AURETH4005" title="Diagnose and repair high voltage traction motors in battery electric vehicles"/>
+      <unit id="AURETH4006" title="Diagnose and repair auxiliary motors and associated components in battery electric vehicles"/>
+      <unit id="AURETH4008" title="Diagnose and repair high voltage cabin heating and cooling systems in battery electric vehicles"/>
+      <unit id="AURETH4009" title="Diagnose and repair DC to DC converters in battery electric vehicles"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00012" title="Battery Electric Vehicle Inspection and Servicing Skill Set">
+    <units>
+      <unit id="AURETH3001" title="Depower battery electric vehicles"/>
+      <unit id="AURETH3002" title="Service and maintain battery electric vehicles"/>
+      <unit id="AURETH4003" title="Test and repair high voltage battery systems in battery electric vehicles"/>
+      <unit id="AURETH4007" title="Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00013" title="Heavy Commercial Vehicle Skill Set for Light Vehicle Technicians">
+    <units>
+      <unit id="AURETR3022" title="Diagnose and repair vehicle dynamic control systems"/>
+      <unit id="AURETR3024" title="Diagnose and repair electronic compression ignition engine management systems"/>
+      <unit id="AURHTB3001" title="Repair air braking systems"/>
+      <unit id="AURHTD3002" title="Repair steering systems (heavy vehicle)"/>
+      <unit id="AURHTD3003" title="Repair suspension systems (heavy vehicle)"/>
+      <unit id="AURHTE3002" title="Repair engines and associated engine components (heavy vehicle)"/>
+      <unit id="AURHTQ3003" title="Repair final drive - driveline (heavy vehicle)"/>
+      <unit id="AURHTX3001" title="Repair transmissions - manual (heavy vehicle)"/>
+      <unit id="AURHTZ3001" title="Diagnose and repair heavy vehicle emission control systems"/>
+      <unit id="AURTTA2006" title="Service hydraulic systems"/>
+      <unit id="AURTTF2002" title="Service diesel fuel injection systems"/>
+      <unit id="AURTTF3005" title="Inspect and repair engine forced induction systems"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="AURSS00014" title="Hybrid Electric Vehicle Inspection and Servicing Skill Set">
+    <units>
+      <unit id="AURETH4010" title="Test high voltage batteries in hybrid electric vehicles"/>
+      <unit id="AURETH4011" title="Deactivate and reinitialise power supply in hybrid electric vehicles"/>
+      <unit id="AURETH4012" title="Service and maintain electrical components in hybrid electric vehicles"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00015" title="Mobile Plant Skill Set for Agricultural Equipment Technicians">
+    <units>
+      <unit id="AURETR3024" title="Diagnose and repair electronic compression ignition engine management systems"/>
+      <unit id="AURKTA3005" title="Inspect, service and repair tracked type drive and support systems"/>
+      <unit id="AURKTD3002" title="Diagnose and repair mobile plant steering systems"/>
+      <unit id="AURKTQ3001" title="Diagnose and repair mobile plant final drive assemblies"/>
+      <unit id="AURTTA2006" title="Service hydraulic systems"/>
+      <unit id="AURTTF3005" title="Inspect and repair engine forced induction systems"/>
+      <unit id="AURTTX3006" title="Repair transmissions (hydrostatic)"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00016" title="Mobile Plant Skill Set for Heavy Commercial Vehicle Technicians">
+    <units>
+      <unit id="AURKTA3005" title="Inspect, service and repair tracked type drive and support systems"/>
+      <unit id="AURKTB3001" title="Diagnose and repair mobile plant braking systems"/>
+      <unit id="AURKTD3002" title="Diagnose and repair mobile plant steering systems"/>
+      <unit id="AURKTQ3001" title="Diagnose and repair mobile plant final drive assemblies"/>
+      <unit id="AURKTX3001" title="Diagnose and repair powershift transmissions"/>
+      <unit id="AURTTA3013" title="Repair hydraulic systems"/>
+      <unit id="AURTTF3004" title="Repair diesel fuel injection systems"/>
+      <unit id="AURTTX3006" title="Repair transmissions (hydrostatic)"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00017" title="Mobile Plant Skill Set for Light Vehicle Technicians">
+    <units>
+      <unit id="AURHTE3002" title="Repair engines and associated engine components (heavy vehicle)"/>
+      <unit id="AURKTA3005" title="Inspect, service and repair tracked type drive and support systems"/>
+      <unit id="AURKTB3001" title="Diagnose and repair mobile plant braking systems"/>
+      <unit id="AURKTD3002" title="Diagnose and repair mobile plant steering systems"/>
+      <unit id="AURKTQ3001" title="Diagnose and repair mobile plant final drive assemblies"/>
+      <unit id="AURKTX3001" title="Diagnose and repair powershift transmissions"/>
+      <unit id="AURTTA2006" title="Service hydraulic systems"/>
+      <unit id="AURTTA3013" title="Repair hydraulic systems"/>
+      <unit id="AURTTF3004" title="Repair diesel fuel injection systems"/>
+      <unit id="AURTTF3005" title="Inspect and repair engine forced induction systems"/>
+      <unit id="AURTTX3006" title="Repair transmissions (hydrostatic)"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="AURSS00018" title="Vehicle Air Conditioning Install and Overhaul Skill Set">
+    <units>
+      <unit id="AURETU2001" title="Install air conditioning systems"/>
+      <unit id="AURETU4007" title="Overhaul air conditioning system components"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00019" title="Vehicle Air Conditioning Installation Skill Set">
+    <units>
+      <unit id="AURETU2001" title="Install air conditioning systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00020" title="Vehicle Air Conditioning Overhaul Skill Set">
+    <units>
+      <unit id="AURETU4007" title="Overhaul air conditioning system components"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00021" title="Vehicle Air Conditioning Service, Retrofit, and Repair Skill Set">
+    <units>
+      <unit id="AURETU2003" title="Service air conditioning and HVAC systems"/>
+      <unit id="AURETU3004" title="Diagnose and repair air conditioning and HVAC systems"/>
+      <unit id="AURETU3005" title="Retrofit and modify air conditioning and HVAC systems"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00022" title="Vehicle Refrigerant Recovery Skill Set">
+    <units>
+      <unit id="AURETU2002" title="Recover vehicle refrigerants"/>
+    </units>
+  </skillset>
+</skillsets>

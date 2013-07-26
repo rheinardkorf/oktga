@@ -1,0 +1,2372 @@
+<?xml version="1.0"?>
+<qualifications class="RII09">
+  <qualification id="RII10109" title="Certificate I in Resources and Infrastructure Operations">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII20109" title="Certificate II in Resources and Infrastructure Work Preparation">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+      <unit id="RIIVEH201B" title="Operate light vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20409" title="Certificate II in Underground Metalliferous Mining">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIIBEF202A" title="Identify and rectify site operating problems"/>
+      <unit id="RIIBLA201A" title="Support shotfiring operations"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA203B" title="Conduct mobile mixing of explosives"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV202A" title="Suppress airborne contaminants"/>
+      <unit id="RIIERR203B" title="Escape from hazardous situation unaided"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN203A" title="Conduct lifting operations"/>
+      <unit id="RIIHAN206A" title="Transport plant, equipment and personnel"/>
+      <unit id="RIIHAN207A" title="Operate personnel and materials hoists"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN210A" title="Perform intermediate rigging operations"/>
+      <unit id="RIIHAN212A" title="Conduct non-slewing crane operations"/>
+      <unit id="RIIHAN305A" title="Operate a gantry or overhead crane"/>
+      <unit id="RIIMPO201A" title="Operate roller/compactor underground"/>
+      <unit id="RIIMPO202A" title="Undertake towing underground"/>
+      <unit id="RIIMPO210A" title="Conduct underground truck operations"/>
+      <unit id="RIIMPO332A" title="Conduct operations with skid steer loader"/>
+      <unit id="RIIMPO333" title="Conduct underground load, haul and dump truck operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIPEO201B" title="Conduct conveyor operations"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISAM212A" title="Service mine plant and equipment"/>
+      <unit id="RIISAM301A" title="Test operational functions of vehicles and equipment"/>
+      <unit id="RIISRM302B" title="Conduct stockpile reclaiming operations"/>
+      <unit id="RIIUMM201A" title="Install ground support"/>
+      <unit id="RIIUMM202A" title="Install and maintain vent"/>
+      <unit id="RIIUMM203A" title="Prepare and perform manual scaling operations"/>
+      <unit id="RIIUMM301A" title="Conduct wet filling activities"/>
+      <unit id="RIIUMM305A" title="Install and remove a secondary fan"/>
+      <unit id="RIIUND201A" title="Install, maintain and recover reticulation systems"/>
+      <unit id="RIIUND202A" title="Operate from elevated work platform underground"/>
+      <unit id="RIIUND204A" title="Refuel vehicles/machines underground"/>
+      <unit id="RIIUND208A" title="Conduct skip operations"/>
+      <unit id="RIIUND209A" title="Operate automated winder"/>
+      <unit id="RIIUND302A" title="Conduct cage operations"/>
+      <unit id="RIIUND310" title="Apply shot-crete underground"/>
+      <unit id="RIIVEH203B" title="Operate light vehicle underground"/>
+      <unit id="RIIVEH306A" title="Operate mine service vehicle"/>
+      <unit id="RIIWMG202A" title="Conduct dewatering operations in underground mining operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20712" title="Certificate II in Civil Construction">
+    <units>
+      <unit id="CPCCCM2007A" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="FPICOT2221B" title="Trim and cross cut felled trees"/>
+      <unit id="FPIFGM3204A" title="Fall trees manually (intermediate)"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICBS202A" title="Hand spread asphalt"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM202A" title="Identify, locate and protect underground services"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM206A" title="Support plant operations"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIICCM211A" title="Erect and dismantle temporary fencing and gates"/>
+      <unit id="RIICFW306A" title="Direct pile driving operations"/>
+      <unit id="RIICFW307A" title="Direct cast in-situ piling operations"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICRC201A" title="Repair potholes"/>
+      <unit id="RIICRC208A" title="Lay pipes"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20609" title="Certificate II in Mining Field/Exploration Operations">
+    <units>
+      <unit id="AHCNAR201A" title="Carry out natural area restoration works"/>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPSIS3006A" title="Provide field support services"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIEGS201A" title="Operate in isolated and remote situations"/>
+      <unit id="RIIEGS202B" title="Conduct field work"/>
+      <unit id="RIIEGS301A" title="Operate and maintain instruments and field equipment"/>
+      <unit id="RIIEGS304A" title="Mobilise equipment and materials"/>
+      <unit id="RIIEGS305B" title="Navigate in remote or trackless areas"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+      <unit id="RIIVEH305A" title="Operate and maintain a four wheel drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20509" title="Certificate II in Resource Processing">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="PMAOPS202B" title="Operate fluid mixing equipment"/>
+      <unit id="PMAOPS205B" title="Operate heat exchangers"/>
+      <unit id="PMAOPS206B" title="Operate separation equipment"/>
+      <unit id="PMAOPS207B" title="Operate powered separation equipment"/>
+      <unit id="PMAOPS208B" title="Operate chemical separation equipment"/>
+      <unit id="PMAOPS223B" title="Operate and monitor valve systems"/>
+      <unit id="PMAOPS230B" title="Monitor, operate and maintain pipeline stations and equipment"/>
+      <unit id="PMAOPS307B" title="Transfer bulk fluids into_out of storage facility"/>
+      <unit id="PMLTEST300B" title="Perform basic tests"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV202A" title="Suppress airborne contaminants"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN203A" title="Conduct lifting operations"/>
+      <unit id="RIIHAN204A" title="Load and unload cargo/goods"/>
+      <unit id="RIIHAN205A" title="Secure cargo"/>
+      <unit id="RIIHAN206A" title="Transport plant, equipment and personnel"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN210A" title="Perform intermediate rigging operations"/>
+      <unit id="RIIHAN212A" title="Conduct non-slewing crane operations"/>
+      <unit id="RIIMCP202A" title="Conduct rail dispatch operations"/>
+      <unit id="RIIMCP301A" title="Monitor plant operations for coal preparation"/>
+      <unit id="RIIMEX203B" title="Break oversize rock"/>
+      <unit id="RIIMPG201A" title="Connect and disconnect refer units"/>
+      <unit id="RIIMPO206B" title="Conduct bulk water truck operations"/>
+      <unit id="RIIMPO208A" title="Operate support equipment"/>
+      <unit id="RIIMPO305B" title="Conduct coal stockpile dozer operations"/>
+      <unit id="RIIMPO306A" title="Operate plant/machinery on live stockpiles"/>
+      <unit id="RIIMPO308B" title="Conduct tracked dozer operations"/>
+      <unit id="RIIMPO331A" title="Conduct operations with stockpile dozer"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIPBE201A" title="Conduct aeration process"/>
+      <unit id="RIIPBE202A" title="Conduct digestion process"/>
+      <unit id="RIIPBE203A" title="Conduct precipitation operations"/>
+      <unit id="RIIPBE204A" title="Conduct reduction process"/>
+      <unit id="RIIPBE205B" title="Conduct roasting operations"/>
+      <unit id="RIIPBP202A" title="Conduct air cleaning activities"/>
+      <unit id="RIIPBP302A" title="Control operations in acid plant"/>
+      <unit id="RIIPEO201B" title="Conduct conveyor operations"/>
+      <unit id="RIIPEO203B" title="Conduct stacker operations"/>
+      <unit id="RIIPEO204A" title="Conduct shore side mooring operations"/>
+      <unit id="RIIPEO205A" title="Conduct ship loading operations"/>
+      <unit id="RIIPGP201A" title="Conduct pump operations"/>
+      <unit id="RIIPGP202A" title="Handle reagents"/>
+      <unit id="RIIPGP203A" title="Operate compressors"/>
+      <unit id="RIIPGP204A" title="Carry out bore-field operations"/>
+      <unit id="RIIPGP205A" title="Handle, store and use cyanide"/>
+      <unit id="RIIPHA201A" title="Operate raw material feed systems"/>
+      <unit id="RIIPRE201A" title="Conduct solvent extraction"/>
+      <unit id="RIIPRE202A" title="Prepare and carry out electrolytic cleaning process"/>
+      <unit id="RIIPRE203A" title="Prepare for sintering activities"/>
+      <unit id="RIIPRE204A" title="Sinter materials"/>
+      <unit id="RIIPRO201A" title="Conduct crushing operations"/>
+      <unit id="RIIPRO202A" title="Conduct screening and conveying operations"/>
+      <unit id="RIIPRO204A" title="Bulk package and store product"/>
+      <unit id="RIIPRO205A" title="Conduct blending plant operations"/>
+      <unit id="RIIPRO301C" title="Conduct crushing and screening plant operations"/>
+      <unit id="RIIPSM201A" title="Tap furnaces"/>
+      <unit id="RIIPSM202A" title="Prepare for pelletising activities"/>
+      <unit id="RIIPSM203A" title="Produce pellets"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISAM208A" title="Perform plant operational maintenance"/>
+      <unit id="RIISAM212A" title="Service mine plant and equipment"/>
+      <unit id="RIISAM214A" title="Provide support to electrical tradesperson"/>
+      <unit id="RIISRM302B" title="Conduct stockpile reclaiming operations"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+      <unit id="RIIWBP201A" title="Treat and dispose of rejects and tailings"/>
+      <unit id="RIIWBP202A" title="Distribute tailings"/>
+      <unit id="RIIWBP203B" title="Monitor tailings dam environment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20309" title="Certificate II in Underground Coal Mining">
+    <units>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAU3126B" title="Use advanced features of computer applications"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR203B" title="Escape from hazardous situation unaided"/>
+      <unit id="RIIERR204A" title="Provide aided rescue to endangered personnel"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN210A" title="Perform intermediate rigging operations"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN212A" title="Conduct non-slewing crane operations"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIHAN302A" title="Conduct intermediate scaffolding operations"/>
+      <unit id="RIIHAN305A" title="Operate a gantry or overhead crane"/>
+      <unit id="RIIHAN307A" title="Operate a vehicle loading crane"/>
+      <unit id="RIIMCU201A" title="Operate power tram"/>
+      <unit id="RIIMCU202A" title="Conduct tracked vehicle/plant operations"/>
+      <unit id="RIIMCU203A" title="Conduct wheeled vehicle operations (non-articulated)"/>
+      <unit id="RIIMCU204A" title="Conduct wheeled vehicle operations (articulated)"/>
+      <unit id="RIIMCU205A" title="Conduct rotational drilling"/>
+      <unit id="RIIMCU206A" title="Install, maintain and recover gas drainage systems"/>
+      <unit id="RIIMCU207A" title="Install, maintain and recover electrical services"/>
+      <unit id="RIIMCU208A" title="Conduct basic strata control operations"/>
+      <unit id="RIIMCU209A" title="Conduct roadway maintenance"/>
+      <unit id="RIIMCU210A" title="Conduct stonedusting operations"/>
+      <unit id="RIIMCU211A" title="Install and maintain explosion barriers"/>
+      <unit id="RIIMCU212A" title="Construct and maintain basic ventilation devices"/>
+      <unit id="RIIMCU213A" title="Conduct feeder breaker operations"/>
+      <unit id="RIIMCU214A" title="Conduct face ventilation operations"/>
+      <unit id="RIIMCU215A" title="Operate longwall ancillary equipment"/>
+      <unit id="RIIMCU216A" title="Maintain lamp cabin operations"/>
+      <unit id="RIIMCU402A" title="Apply spontaneous combustion management measures"/>
+      <unit id="RIIMPO208A" title="Operate support equipment"/>
+      <unit id="RIIMPO307B" title="Conduct wheel grader operations in underground mines"/>
+      <unit id="RIINHB304B" title="Conduct air drilling"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS203A" title="Maintain amenities"/>
+      <unit id="RIIPEO202A" title="Provide deck support for conveyor-car high wall mining operations"/>
+      <unit id="RIIPEO208A" title="Extend, retract and maintain conveyor componentry"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISAM210A" title="Remove and fit wheel assemblies"/>
+      <unit id="RIISAM211B" title="Remove, repair and refit tyres and tubes"/>
+      <unit id="RIISAM212A" title="Service mine plant and equipment"/>
+      <unit id="RIISAM214A" title="Provide support to electrical tradesperson"/>
+      <unit id="RIISAM301A" title="Test operational functions of vehicles and equipment"/>
+      <unit id="RIISAM311A" title="Maintain winder equipment"/>
+      <unit id="RIISAM312A" title="Inspect and maintain shafts and structures"/>
+      <unit id="RIISAM313A" title="Monitor, inspect and service ropes and attachments"/>
+      <unit id="RIIUND201A" title="Install, maintain and recover reticulation systems"/>
+      <unit id="RIIUND206A" title="Install hand held underground ground support"/>
+      <unit id="RIIUND207A" title="Conduct underground lifting operations"/>
+      <unit id="RIIUND208A" title="Conduct skip operations"/>
+      <unit id="RIIUND209A" title="Operate automated winder"/>
+      <unit id="RIIUND301A" title="Operate manual winder"/>
+      <unit id="RIIUND302A" title="Conduct cage operations"/>
+      <unit id="RIIUND303A" title="Operate winder for shaft sinking"/>
+      <unit id="RIIVEH201B" title="Operate light vehicle"/>
+      <unit id="RIIVEH202A" title="Operate a medium vehicle"/>
+      <unit id="RIIVEH301A" title="Conduct rail haulage operations"/>
+      <unit id="RIIWMG202A" title="Conduct dewatering operations in underground mining operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20209" title="Certificate II in Surface Extraction Operations">
+    <units>
+      <unit id="AHCNAR201A" title="Carry out natural area restoration works"/>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIIBEF202A" title="Identify and rectify site operating problems"/>
+      <unit id="RIIBLA203B" title="Conduct mobile mixing of explosives"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIENV202A" title="Suppress airborne contaminants"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN203A" title="Conduct lifting operations"/>
+      <unit id="RIIHAN206A" title="Transport plant, equipment and personnel"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN210A" title="Perform intermediate rigging operations"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN212A" title="Conduct non-slewing crane operations"/>
+      <unit id="RIIMCO202A" title="Conduct mobile slew conveyor operations"/>
+      <unit id="RIIMEX202A" title="Install open-cut mine ground support"/>
+      <unit id="RIIMEX203B" title="Break oversize rock"/>
+      <unit id="RIIMEX204A" title="Conduct workboat/barge operations"/>
+      <unit id="RIIMPO203A" title="Support bucket wheel system operations"/>
+      <unit id="RIIMPO204A" title="Conduct conveyor shifting dozer operations"/>
+      <unit id="RIIMPO205B" title="Operate roller_compactor"/>
+      <unit id="RIIMPO206B" title="Conduct bulk water truck operations"/>
+      <unit id="RIIMPO208A" title="Operate support equipment"/>
+      <unit id="RIIMPO311A" title="Conduct haul truck operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIPEO201B" title="Conduct conveyor operations"/>
+      <unit id="RIIPEO202A" title="Provide deck support for conveyor-car high wall mining operations"/>
+      <unit id="RIIPEO203B" title="Conduct stacker operations"/>
+      <unit id="RIIPEO206A" title="Lay and recover cables and hoses"/>
+      <unit id="RIIPRO201A" title="Conduct crushing operations"/>
+      <unit id="RIIPRO202A" title="Conduct screening and conveying operations"/>
+      <unit id="RIIPRO203A" title="Operate programmable logic control systems"/>
+      <unit id="RIIPRO205A" title="Conduct blending plant operations"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISAM208A" title="Perform plant operational maintenance"/>
+      <unit id="RIISAM210A" title="Remove and fit wheel assemblies"/>
+      <unit id="RIISAM211B" title="Remove, repair and refit tyres and tubes"/>
+      <unit id="RIISAM212A" title="Service mine plant and equipment"/>
+      <unit id="RIISAM213A" title="Position and set up mobile lighting"/>
+      <unit id="RIISAM214A" title="Provide support to electrical tradesperson"/>
+      <unit id="RIISAM302A" title="Service and handover plant and machines"/>
+      <unit id="RIISRM302B" title="Conduct stockpile reclaiming operations"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+      <unit id="RIIVEH201B" title="Operate light vehicle"/>
+      <unit id="RIIVEH202A" title="Operate a medium vehicle"/>
+      <unit id="RIIWMG201A" title="Conduct dewatering activities in surface operations"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII21109" title="Certificate II in Drilling Oil/Gas (On shore)">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAPMPER200B" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR202A" title="Contribute to the control of emergencies and critical situations"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIHAN307A" title="Operate a vehicle loading crane"/>
+      <unit id="RIIHAN309A" title="Conduct telescopic materials handler operations"/>
+      <unit id="RIIMPO304B" title="Conduct wheel loader operations"/>
+      <unit id="RIIOGD202A" title="Carry out equipment and basic rig maintenance"/>
+      <unit id="RIIOGD204A" title="Perform rig floor operations"/>
+      <unit id="RIIOGD205A" title="Support blow out prevention operations"/>
+      <unit id="RIIOGD206A" title="Assist with coal seam gas control"/>
+      <unit id="RIIOGN201A" title="Carry out rig lease operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM209A" title="Carry out operational maintenance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20909" title="Certificate II in Drilling Operations">
+    <units>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIERR202A" title="Contribute to the control of emergencies and critical situations"/>
+      <unit id="RIIHAN201A" title="Operate a forklift"/>
+      <unit id="RIIHAN206A" title="Transport plant, equipment and personnel"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN213A" title="Work effectively in the drilling industry"/>
+      <unit id="RIIHAN307A" title="Operate a vehicle loading crane"/>
+      <unit id="RIINHB201B" title="Load, secure and unload drilling equipment and materials"/>
+      <unit id="RIINHB202A" title="Set up/pack up drill site"/>
+      <unit id="RIINHB203A" title="Support drilling process"/>
+      <unit id="RIINHB205A" title="Assist continuous flight auger drilling"/>
+      <unit id="RIINHB206A" title="Assist large diameter auger drilling"/>
+      <unit id="RIINHB208B" title="Assist diamond core drilling"/>
+      <unit id="RIINHB209A" title="Assist guided boring"/>
+      <unit id="RIINHB210B" title="Assist surface directional drilling"/>
+      <unit id="RIINHB211A" title="Assist mud rotary drilling"/>
+      <unit id="RIINHB213A" title="Assist cable tool drilling"/>
+      <unit id="RIINHB216A" title="Assist underground in-seam directional drilling"/>
+      <unit id="RIINHB217A" title="Assist horizontal direction drilling"/>
+      <unit id="RIINHB218A" title="Assist grouting or cementing operations"/>
+      <unit id="RIINHB219A" title="Assist with air drilling"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+      <unit id="RIIUND206A" title="Install hand held underground ground support"/>
+      <unit id="RIIVEH201B" title="Operate light vehicle"/>
+      <unit id="RIIVEH203B" title="Operate light vehicle underground"/>
+      <unit id="RIIVEH305A" title="Operate and maintain a four wheel drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII20809" title="Certificate II in Bituminous Surfacing">
+    <units>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICBS201A" title="Conduct tack coat spraying operations"/>
+      <unit id="RIICBS202A" title="Hand spread asphalt"/>
+      <unit id="RIICBS203A" title="Safely handle bituminous materials"/>
+      <unit id="RIICBS204A" title="Conduct aggregate spreader box operations"/>
+      <unit id="RIICBS205A" title="Roll aggregate in sprayed sealing operations"/>
+      <unit id="RIICBS206A" title="Conduct pavement sweeping operations"/>
+      <unit id="RIICBS207A" title="Take samples of materials used in road surfacing"/>
+      <unit id="RIICBS208A" title="Conduct road maintenance operations"/>
+      <unit id="RIICBS302A" title="Conduct paver screeding operations"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM206A" title="Support plant operations"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICRC201A" title="Repair potholes"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII21009" title="Certificate II in Drilling Oil/Gas (Off shore)">
+    <units>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR202A" title="Contribute to the control of emergencies and critical situations"/>
+      <unit id="RIIHAN202A" title="Handle and store cargo"/>
+      <unit id="RIIHAN205A" title="Secure cargo"/>
+      <unit id="RIIOGD201A" title="Assist in maintaining rig safety and emergency procedures"/>
+      <unit id="RIIOGD202A" title="Carry out equipment and basic rig maintenance"/>
+      <unit id="RIIOGD203A" title="Prepare and operate drilling fluid systems"/>
+      <unit id="RIIOGD204A" title="Perform rig floor operations"/>
+      <unit id="RIIOGF201A" title="Carry out deck operations"/>
+      <unit id="RIIOGF202A" title="Assist in the transfer of passengers and freight during helicopter operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII30509" title="Certificate III in Mining Exploration">
+    <units>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPSIS3006A" title="Provide field support services"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="RIICAR301A" title="Rehabilitate exploration site"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIEGS201A" title="Operate in isolated and remote situations"/>
+      <unit id="RIIEGS301A" title="Operate and maintain instruments and field equipment"/>
+      <unit id="RIIEGS302A" title="Plan and undertake field trip"/>
+      <unit id="RIIEGS303A" title="Provide geological field assistance"/>
+      <unit id="RIIEGS304A" title="Mobilise equipment and materials"/>
+      <unit id="RIIEGS305B" title="Navigate in remote or trackless areas"/>
+      <unit id="RIIEGS306A" title="Prepare drill site"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM209A" title="Carry out operational maintenance"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+      <unit id="RIISTD301A" title="Take environmental samples and measurements"/>
+      <unit id="RIISTD302A" title="Process data and maintain accurate records"/>
+      <unit id="RIIVEH305A" title="Operate and maintain a four wheel drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII30809" title="Certificate III in Civil Construction Plant Operations">
+    <units>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="CPCCCM2007A" title="Use explosive power tools"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM202A" title="Identify, locate and protect underground services"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM204A" title="Place and fix reinforcement materials"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM206A" title="Support plant operations"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIICCM211A" title="Erect and dismantle temporary fencing and gates"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICRC201A" title="Repair potholes"/>
+      <unit id="RIICRC208A" title="Lay pipes"/>
+      <unit id="RIICRC308A" title="Conduct paver operations"/>
+      <unit id="RIICRC309A" title="Conduct stabiliser operations"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIHAN308A" title="Load and unload plant"/>
+      <unit id="RIIHAN309A" title="Conduct telescopic materials handler operations"/>
+      <unit id="RIIHAN311A" title="Conduct operations with integrated tool carrier"/>
+      <unit id="RIIMPO311A" title="Conduct haul truck operations"/>
+      <unit id="RIIMPO315A" title="Conduct tractor operations"/>
+      <unit id="RIIMPO316A" title="Conduct self propelled compactor operations"/>
+      <unit id="RIIMPO317A" title="Conduct roller operations"/>
+      <unit id="RIIMPO318B" title="Conduct civil construction skid steer loader operations"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="RIIMPO320B" title="Conduct civil construction excavator operations"/>
+      <unit id="RIIMPO321B" title="Conduct civil construction wheeled front end loader operations"/>
+      <unit id="RIIMPO322A" title="Conduct civil construction tracked front end loader operations"/>
+      <unit id="RIIMPO323A" title="Conduct civil construction dozer operations"/>
+      <unit id="RIIMPO324A" title="Conduct civil construction grader operations"/>
+      <unit id="RIIMPO325A" title="Conduct civil construction scraper operations"/>
+      <unit id="RIIMPO326A" title="Conduct civil construction water cart operations"/>
+      <unit id="RIIMPO327A" title="Conduct pipe layer operations"/>
+      <unit id="RIIMPO328A" title="Conduct continuous bucket trencher operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM213A" title="Position and set up mobile lighting"/>
+      <unit id="RIIVEH304B" title="Conduct tip truck operations"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII30311" title="Certificate III in Underground Metalliferous Mining">
+    <units>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="RIIBEF301A" title="Run on-site operations"/>
+      <unit id="RIIBEF302A" title="Monitor site production activities"/>
+      <unit id="RIIBEF401A" title="Manage non-routine, complex technical situations"/>
+      <unit id="RIIBHD302A" title="Conduct underground development drilling"/>
+      <unit id="RIIBHD303A" title="Conduct long hole drilling"/>
+      <unit id="RIIBLA303A" title="Conduct underground development shotfiring"/>
+      <unit id="RIIBLA304A" title="Conduct underground production shotfiring"/>
+      <unit id="RIIBLA305A" title="Conduct secondary blasting"/>
+      <unit id="RIIBLA306A" title="Conduct accretion firing"/>
+      <unit id="RIICOM302A" title="Communicate workplace information"/>
+      <unit id="RIIENV302A" title="Apply environmentally sustainable work practices"/>
+      <unit id="RIIERR203B" title="Escape from hazardous situation unaided"/>
+      <unit id="RIIERR204A" title="Provide aided rescue to endangered personnel"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIHAN304A" title="Conduct slewing crane operations"/>
+      <unit id="RIIHAN306A" title="Carry out lifting using multiple cranes"/>
+      <unit id="RIIHAN309A" title="Conduct telescopic materials handler operations"/>
+      <unit id="RIIHAN310A" title="Conduct crane operations underground"/>
+      <unit id="RIIHAN311A" title="Conduct operations with integrated tool carrier"/>
+      <unit id="RIIMEX302B" title="Assess ground conditions"/>
+      <unit id="RIIMPG301A" title="Control and monitor automated plant/machinery"/>
+      <unit id="RIIMPO307B" title="Conduct wheel grader operations in underground mines"/>
+      <unit id="RIIMPO332A" title="Conduct operations with skid steer loader"/>
+      <unit id="RIIMPO333" title="Conduct underground load, haul and dump truck operations"/>
+      <unit id="RIINHB307B" title="Conduct conventional core drilling"/>
+      <unit id="RIINHB310A" title="Conduct surface directional drilling"/>
+      <unit id="RIINHB312A" title="Conduct raise boring"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM306A" title="Service and maintain conveyors, feeders and hoppers"/>
+      <unit id="RIISAM307A" title="Service and maintain crushers"/>
+      <unit id="RIISAM311A" title="Maintain winder equipment"/>
+      <unit id="RIISAM312A" title="Inspect and maintain shafts and structures"/>
+      <unit id="RIISAM313A" title="Monitor, inspect and service ropes and attachments"/>
+      <unit id="RIISRM302B" title="Conduct stockpile reclaiming operations"/>
+      <unit id="RIISTD301A" title="Take environmental samples and measurements"/>
+      <unit id="RIIUMM301A" title="Conduct wet filling activities"/>
+      <unit id="RIIUMM302A" title="Install sets"/>
+      <unit id="RIIUMM303A" title="Conduct hand held mining"/>
+      <unit id="RIIUMM304A" title="Construct and maintain underground roads"/>
+      <unit id="RIIUMM305A" title="Install and remove a secondary fan"/>
+      <unit id="RIIUMM306A" title="Conduct mechanical scaling"/>
+      <unit id="RIIUMM307A" title="Maintain underground stockpiles"/>
+      <unit id="RIIUND205A" title="Respond to a workforce incident"/>
+      <unit id="RIIUND301A" title="Operate manual winder"/>
+      <unit id="RIIUND302A" title="Conduct cage operations"/>
+      <unit id="RIIUND303A" title="Operate winder for shaft sinking"/>
+      <unit id="RIIUND304A" title="Recover equipment"/>
+      <unit id="RIIUND305A" title="Recover underground equipment"/>
+      <unit id="RIIUND306A" title="Conduct line of sight remote operations"/>
+      <unit id="RIIUND307A" title="Conduct tele-remote operations"/>
+      <unit id="RIIUND308A" title="Conduct control room operations"/>
+      <unit id="RIIUND309A" title="Conduct mechanical underground ground support drilling and installation"/>
+      <unit id="RIIUND310" title="Apply shot-crete underground"/>
+      <unit id="RIIVEH301A" title="Conduct rail haulage operations"/>
+      <unit id="RIIVEH306A" title="Operate mine service vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII32009" title="Certificate III in Drilling Oil/Gas (On shore)">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="PMASUP236B" title="Operate vehicles in the field"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIOGD203A" title="Prepare and operate drilling fluid systems"/>
+      <unit id="RIIOGD205A" title="Support blow out prevention operations"/>
+      <unit id="RIIOGD206A" title="Assist with coal seam gas control"/>
+      <unit id="RIIOGD209A" title="Operate and maintain ancillary equipment"/>
+      <unit id="RIIOGD301A" title="Conduct and maintain derrick operations"/>
+      <unit id="RIIOGD302A" title="Trip casing"/>
+      <unit id="RIIOGD303A" title="Trip pipe"/>
+      <unit id="RIIOGN302A" title="Operate mud pumps"/>
+      <unit id="RIIOGN303A" title="Operate mud systems"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII30112" title="Certificate III in Surface Extraction Operations">
+    <units>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="PMLOHS301B" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="PMLORG301A" title="Plan and conduct laboratory/field work"/>
+      <unit id="RIIBEF302A" title="Monitor site production activities"/>
+      <unit id="RIIBHD301A" title="Conduct surface blast hole drilling operations"/>
+      <unit id="RIIBHD304B" title="Set-up and prepare for open cut drilling operations"/>
+      <unit id="RIIBHD305" title="Conduct down-hole hammer drilling"/>
+      <unit id="RIIBLA201A" title="Support shotfiring operations"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIIBLA304A" title="Conduct underground production shotfiring"/>
+      <unit id="RIIBLA305A" title="Conduct secondary blasting"/>
+      <unit id="RIIBLA306A" title="Conduct accretion firing"/>
+      <unit id="RIIBLA307A" title="Conduct blast survey"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIICOM302A" title="Communicate workplace information"/>
+      <unit id="RIICRC310A" title="Construct and maintain roads"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIERR301A" title="Respond to mine incident"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIERR308A" title="Extricate and transport people involved in incidents"/>
+      <unit id="RIIERR310A" title="Provide support for rescue operations"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIHAN302A" title="Conduct intermediate scaffolding operations"/>
+      <unit id="RIIHAN304A" title="Conduct slewing crane operations"/>
+      <unit id="RIIHAN305A" title="Operate a gantry or overhead crane"/>
+      <unit id="RIIHAN306A" title="Carry out lifting using multiple cranes"/>
+      <unit id="RIIHAN307A" title="Operate a vehicle loading crane"/>
+      <unit id="RIIHAN311A" title="Conduct operations with integrated tool carrier"/>
+      <unit id="RIIMCO301A" title="Conduct control centre operations"/>
+      <unit id="RIIMCO302A" title="Conduct surface miner operations"/>
+      <unit id="RIIMCO303A" title="Conduct auger miner operations"/>
+      <unit id="RIIMEX301A" title="Conduct Dredging Operations"/>
+      <unit id="RIIMEX302B" title="Assess ground conditions"/>
+      <unit id="RIIMPG301A" title="Control and monitor automated plant/machinery"/>
+      <unit id="RIIMPO206B" title="Conduct bulk water truck operations"/>
+      <unit id="RIIMPO301C" title="Conduct hydraulic excavator operations"/>
+      <unit id="RIIMPO302B" title="Conduct hydraulic shovel operations"/>
+      <unit id="RIIMPO303A" title="Conduct rope shovel operations"/>
+      <unit id="RIIMPO304B" title="Conduct wheel loader operations"/>
+      <unit id="RIIMPO305B" title="Conduct coal stockpile dozer operations"/>
+      <unit id="RIIMPO306A" title="Operate plant/machinery on live stockpiles"/>
+      <unit id="RIIMPO308B" title="Conduct tracked dozer operations"/>
+      <unit id="RIIMPO309A" title="Conduct wheeled dozer operations"/>
+      <unit id="RIIMPO310B" title="Conduct grader operations"/>
+      <unit id="RIIMPO311A" title="Conduct haul truck operations"/>
+      <unit id="RIIMPO312A" title="Conduct scraper operations"/>
+      <unit id="RIIMPO313B" title="Conduct face loader operations"/>
+      <unit id="RIIMPO329A" title="Conduct dragline operations"/>
+      <unit id="RIIMPO331A" title="Conduct operations with stockpile dozer"/>
+      <unit id="RIINHB307B" title="Conduct conventional core drilling"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIPEO206A" title="Lay and recover cables and hoses"/>
+      <unit id="RIIPEO301A" title="Conduct conveyor-car high wall mining operations"/>
+      <unit id="RIIPRO301C" title="Conduct crushing and screening plant operations"/>
+      <unit id="RIIPRO302A" title="Perform process control room operations"/>
+      <unit id="RIIPRO303A" title="Conduct sand wash plant operations"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM202A" title="Isolate and access plant"/>
+      <unit id="RIISAM301A" title="Test operational functions of vehicles and equipment"/>
+      <unit id="RIISAM303A" title="Shut down dredge for operator maintenance"/>
+      <unit id="RIISAM304A" title="Install, commission and maintain major conveyor equipment and systems"/>
+      <unit id="RIISAM305A" title="Repair and splice conveyor belting"/>
+      <unit id="RIISAM306A" title="Service and maintain conveyors, feeders and hoppers"/>
+      <unit id="RIISAM307A" title="Service and maintain crushers"/>
+      <unit id="RIISAM308A" title="Service and maintain screens"/>
+      <unit id="RIISAM309A" title="Service and maintain pumps"/>
+      <unit id="RIISRM301B" title="Blend stockpile materials"/>
+      <unit id="RIISRM302B" title="Conduct stockpile reclaiming operations"/>
+      <unit id="RIISRM303B" title="Move and position materials to form stockpiles"/>
+      <unit id="RIISRM304B" title="Maintain stockpiles"/>
+      <unit id="RIISTD301A" title="Take environmental samples and measurements"/>
+      <unit id="RIIVEH201B" title="Operate light vehicle"/>
+      <unit id="RIIVEH302A" title="Operate multi-combination vehicle"/>
+      <unit id="RIIVEH303A" title="Drive heavy combination vehicle"/>
+      <unit id="RIIVEH306A" title="Operate mine service vehicle"/>
+      <unit id="RIIVEH307A" title="Operate heavy rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLID2022A" title="Conduct weighbridge operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII31209" title="Certificate III in Civil Foundations">
+    <units>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM202A" title="Identify, locate and protect underground services"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIICCM211A" title="Erect and dismantle temporary fencing and gates"/>
+      <unit id="RIICCM301A" title="Construct and dismantle fences and gates"/>
+      <unit id="RIICFW301A" title="Construct underpinning"/>
+      <unit id="RIICFW302A" title="Install temporary and permanent rock anchors"/>
+      <unit id="RIICFW303A" title="Install primary ground support"/>
+      <unit id="RIICFW304A" title="Conduct pile driving operations"/>
+      <unit id="RIICFW305A" title="Conduct cast in-situ pilings operations"/>
+      <unit id="RIICFW306A" title="Direct pile driving operations"/>
+      <unit id="RIICFW307A" title="Direct cast in-situ piling operations"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICRC306A" title="Conduct earthworks"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIIMG301A" title="Maintain site records"/>
+      <unit id="RIINHB202A" title="Set up/pack up drill site"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIISAM213A" title="Position and set up mobile lighting"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+      <unit id="RIIWMG301A" title="Control construction site water table"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII31909" title="Certificate III in Drilling Oil/Gas (Off shore)">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR304A" title="Control emergencies and critical situations"/>
+      <unit id="RIIOGD209A" title="Operate and maintain ancillary equipment"/>
+      <unit id="RIIOGD301A" title="Conduct and maintain derrick operations"/>
+      <unit id="RIIOGD302A" title="Trip casing"/>
+      <unit id="RIIOGD303A" title="Trip pipe"/>
+      <unit id="RIIOGD304A" title="Apply effective coal seam gas control practices"/>
+      <unit id="RIIOGD305A" title="Apply blow out prevention operational procedures"/>
+      <unit id="RIIOGF301A" title="Monitor, operate and maintain mud pits and equipment"/>
+      <unit id="RIIOGF302A" title="Operate drilling fluids and mud pits"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII30709" title="Certificate III in Mine Emergency Response and Rescue">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="PMAOHS211B" title="Prepare equipment for emergency response"/>
+      <unit id="PMAOMIR444B" title="Develop incident containment tactics"/>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUAFIR207B" title="Operate breathing apparatus open circuit"/>
+      <unit id="PUAFIR306B" title="Render hazardous materials incidents safe"/>
+      <unit id="PUAFIR307B" title="Monitor hazardous atmospheres"/>
+      <unit id="PUASAR024A" title="Undertake road crash rescue"/>
+      <unit id="PUASAR025A" title="Undertake confined space rescue"/>
+      <unit id="PUASAR027A" title="Undertake land search rescue"/>
+      <unit id="PUASAR032A" title="Undertake vertical rescue"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR301A" title="Respond to mine incident"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIERR303A" title="Operate in self-contained regenerative oxygen breathing apparatus"/>
+      <unit id="RIIERR304A" title="Control emergencies and critical situations"/>
+      <unit id="RIIERR305A" title="Control underground fires"/>
+      <unit id="RIIERR306A" title="Conduct underground search"/>
+      <unit id="RIIERR307A" title="Extricate casualties from underground incident"/>
+      <unit id="RIIERR308A" title="Extricate and transport people involved in incidents"/>
+      <unit id="RIIERR309A" title="Establish and operate from fresh air base"/>
+      <unit id="RIIERR310A" title="Provide support for rescue operations"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII30912" title="Certificate III in Civil Construction">
+    <units>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="CPCCCM2007A" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCSF2004A" title="Place and fix reinforcement materials"/>
+      <unit id="FPICOT2221B" title="Trim and cross cut felled trees"/>
+      <unit id="FPIFGM3204A" title="Fall trees manually (intermediate)"/>
+    </units>
+  </qualification>
+  <qualification id="RII30411" title="Certificate III in Resource Processing">
+    <units>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="FPPSTM320A" title="Manage steam boiler startup"/>
+      <unit id="FPPSTM330A" title="Shut down and bank steam boiler"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="PMAOPS202B" title="Operate fluid mixing equipment"/>
+      <unit id="PMAOPS205B" title="Operate heat exchangers"/>
+      <unit id="PMAOPS206B" title="Operate separation equipment"/>
+      <unit id="PMAOPS207B" title="Operate powered separation equipment"/>
+      <unit id="PMAOPS208B" title="Operate chemical separation equipment"/>
+    </units>
+  </qualification>
+  <qualification id="RII31609" title="Certificate III in Trenchless Technology">
+    <units>
+      <unit id="NWP331B" title="Inspect conduit and report on condition and features"/>
+      <unit id="NWP440A" title="Supervise conduit inspection and reporting"/>
+      <unit id="RIIBEF201B" title="Plan and organise work"/>
+      <unit id="RIICCM201A" title="Carry out measurements and calculations"/>
+      <unit id="RIICCM202A" title="Identify, locate and protect underground services"/>
+      <unit id="RIICCM203A" title="Read and interpret plans and specifications"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM206A" title="Support plant operations"/>
+      <unit id="RIICCM207A" title="Spread and compact materials manually"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM209A" title="Carry out concrete work"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+      <unit id="RIICCM301A" title="Construct and dismantle fences and gates"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICPL301A" title="Install water mains pipelines"/>
+      <unit id="RIICPL302A" title="Install stormwater systems"/>
+      <unit id="RIICPL303A" title="Install sewer pipelines"/>
+      <unit id="RIICPL304A" title="Install pre-cast gully pits"/>
+      <unit id="RIICPL305A" title="Install pre-cast access chambers"/>
+      <unit id="RIICRC203A" title="Install sub-soil drainage"/>
+      <unit id="RIICRC208A" title="Lay pipes"/>
+      <unit id="RIICTC301A" title="Install tunnelling constructions services"/>
+      <unit id="RIICTC302A" title="Line tunnel"/>
+      <unit id="RIICTC303A" title="Excavate tunnel by machine"/>
+      <unit id="RIICTC304A" title="Muck out tunnel earthworks"/>
+      <unit id="RIICTC305A" title="Construct portals"/>
+      <unit id="RIICTT301A" title="Conduct fluid assisted directional boring"/>
+      <unit id="RIICTT302A" title="Conduct impact moling, ramming and augering"/>
+      <unit id="RIICTT303A" title="Control micro tunnelling and pipe-jacking"/>
+      <unit id="RIICTT304A" title="Undertake on-line replacement for existing pipeline systems"/>
+      <unit id="RIICTT305A" title="Undertake localised repair and sealing of existing pipeline systems"/>
+      <unit id="RIICTT306A" title="Install cure in-place linings for existing pipeline systems"/>
+      <unit id="RIICTT307A" title="Spray linings for existing pipeline systems"/>
+      <unit id="RIICTT308A" title="Install close-fit linings for existing pipeline systems"/>
+      <unit id="RIICTT309A" title="Install slip lining in existing pipeline systems"/>
+      <unit id="RIICTT310A" title="Renovate large diameter pipes and chambers"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN211A" title="Conduct basic scaffolding operations"/>
+      <unit id="RIIHAN301B" title="Operate elevating work platform"/>
+      <unit id="RIIHAN307A" title="Operate a vehicle loading crane"/>
+      <unit id="RIIIMG301A" title="Maintain site records"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="RIIMPO320B" title="Conduct civil construction excavator operations"/>
+      <unit id="RIIOGF302A" title="Operate drilling fluids and mud pits"/>
+      <unit id="RIIOGN303A" title="Operate mud systems"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="RIISAM205A" title="Cut, weld and bend materials"/>
+      <unit id="RIIWMG203A" title="Drain and dewater civil construction site"/>
+      <unit id="RIIWMG301A" title="Control construction site water table"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII31809" title="Certificate III in Drilling Operations">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="PMASUP236B" title="Operate vehicles in the field"/>
+      <unit id="RIIBEF301A" title="Run on-site operations"/>
+      <unit id="RIIBHD305" title="Conduct down-hole hammer drilling"/>
+      <unit id="RIIBLA201A" title="Support shotfiring operations"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIIBLA303A" title="Conduct underground development shotfiring"/>
+      <unit id="RIIBLA304A" title="Conduct underground production shotfiring"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR301A" title="Respond to mine incident"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIINHB205A" title="Assist continuous flight auger drilling"/>
+      <unit id="RIINHB206A" title="Assist large diameter auger drilling"/>
+      <unit id="RIINHB208B" title="Assist diamond core drilling"/>
+      <unit id="RIINHB209A" title="Assist guided boring"/>
+      <unit id="RIINHB210B" title="Assist surface directional drilling"/>
+      <unit id="RIINHB211A" title="Assist mud rotary drilling"/>
+      <unit id="RIINHB213A" title="Assist cable tool drilling"/>
+      <unit id="RIINHB219A" title="Assist with air drilling"/>
+      <unit id="RIINHB301A" title="Set up and prepare for drilling operations"/>
+      <unit id="RIINHB302A" title="Conduct reaming"/>
+      <unit id="RIINHB303A" title="Install product pipe"/>
+      <unit id="RIINHB304B" title="Conduct air drilling"/>
+      <unit id="RIINHB305A" title="Conduct continuous flight auger drilling"/>
+      <unit id="RIINHB306A" title="Conduct large diameter auger drilling"/>
+      <unit id="RIINHB307B" title="Conduct conventional core drilling"/>
+      <unit id="RIINHB308A" title="Conduct wireline core drilling"/>
+      <unit id="RIINHB309A" title="Conduct guided boring"/>
+      <unit id="RIINHB310A" title="Conduct surface directional drilling"/>
+      <unit id="RIINHB311A" title="Conduct mud rotary drilling"/>
+      <unit id="RIINHB312A" title="Conduct raise boring"/>
+      <unit id="RIINHB313A" title="Conduct cable tool drilling"/>
+      <unit id="RIINHB315A" title="Conduct top-hole hammer drilling"/>
+      <unit id="RIINHB316A" title="Conduct underground in-seam directional drilling"/>
+      <unit id="RIINHB317A" title="Install underground in-seam directional drilling standpipes"/>
+      <unit id="RIINHB318A" title="Install and operate water and gas control equipment"/>
+      <unit id="RIINHB319A" title="Install de-watering conduit and gas drainage equipment"/>
+      <unit id="RIINHB320A" title="Construct monitoring bores"/>
+      <unit id="RIINHB322A" title="Construct multiple aquifer production bores"/>
+      <unit id="RIINHB323A" title="Conduct horizontal directional drilling"/>
+      <unit id="RIINHB324B" title="Carry out grouting or cementing operations"/>
+      <unit id="RIINHB325A" title="Construct and complete single aquifer production bores"/>
+      <unit id="RIIOGD304A" title="Apply effective coal seam gas control practices"/>
+      <unit id="RIIOGD305A" title="Apply blow out prevention operational procedures"/>
+      <unit id="RIIOGD405A" title="Carry out well control and blow out prevention"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM209A" title="Carry out operational maintenance"/>
+      <unit id="RIIVEH305A" title="Operate and maintain a four wheel drive vehicle"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII30611" title="Certificate III in Small Mining Operations">
+    <units>
+      <unit id="AHCNAR201A" title="Carry out natural area restoration works"/>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCSAW301A" title="Construct conservation earthworks"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIICAR302A" title="Rehabilitate small mine site"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIENV201A" title="Identify and assess environmental and heritage concerns"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIHAN203A" title="Conduct lifting operations"/>
+      <unit id="RIIHAN208A" title="Perform dogging"/>
+      <unit id="RIIHAN209A" title="Perform basic rigging"/>
+      <unit id="RIIMEX201A" title="Suppress dust in open-cut environment"/>
+      <unit id="RIIMEX203B" title="Break oversize rock"/>
+      <unit id="RIIMEX302B" title="Assess ground conditions"/>
+      <unit id="RIIMPO301C" title="Conduct hydraulic excavator operations"/>
+      <unit id="RIIMPO304B" title="Conduct wheel loader operations"/>
+      <unit id="RIIMPO311A" title="Conduct haul truck operations"/>
+      <unit id="RIIMPO314A" title="Operate small open cut mine equipment"/>
+      <unit id="RIIMSM301A" title="Establish a mining claim"/>
+      <unit id="RIIMSM302A" title="Plan small mine operations"/>
+      <unit id="RIIMSM303A" title="Install underground shaft"/>
+      <unit id="RIIMSM304A" title="Inspect small mines operations"/>
+      <unit id="RIIMSM305A" title="Conduct materials extraction operations underground"/>
+      <unit id="RIIMSM306A" title="Design and maintain pillar system and ground control"/>
+      <unit id="RIIMSM307A" title="Install and maintain ventilation systems and equipment"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIPEO201B" title="Conduct conveyor operations"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM207A" title="Apply operational maintenance skills"/>
+      <unit id="RIISAM212A" title="Service mine plant and equipment"/>
+      <unit id="RIISAM213A" title="Position and set up mobile lighting"/>
+      <unit id="RIISAM310A" title="Install and commission plant, machinery and services"/>
+      <unit id="RIISRM303B" title="Move and position materials to form stockpiles"/>
+      <unit id="RIISRM304B" title="Maintain stockpiles"/>
+      <unit id="RIIUMM201A" title="Install ground support"/>
+      <unit id="RIIUMM203A" title="Prepare and perform manual scaling operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII30212" title="Certificate III in Underground Coal Operations">
+    <units>
+      <unit id="RIIBLA302A" title="Conduct shotfiring operations in underground coal mines"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIENV301A" title="Conduct atmospheric monitoring"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR203B" title="Escape from hazardous situation unaided"/>
+      <unit id="RIIERR204A" title="Provide aided rescue to endangered personnel"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR301A" title="Respond to mine incident"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIERR303A" title="Operate in self-contained regenerative oxygen breathing apparatus"/>
+      <unit id="RIIERR304A" title="Control emergencies and critical situations"/>
+      <unit id="RIIERR305A" title="Control underground fires"/>
+      <unit id="RIIERR306A" title="Conduct underground search"/>
+      <unit id="RIIERR307A" title="Extricate casualties from underground incident"/>
+      <unit id="RIIERR308A" title="Extricate and transport people involved in incidents"/>
+      <unit id="RIIERR309A" title="Establish and operate from fresh air base"/>
+      <unit id="RIIERR310A" title="Provide support for rescue operations"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIHAN304A" title="Conduct slewing crane operations"/>
+      <unit id="RIIMCU208A" title="Conduct basic strata control operations"/>
+      <unit id="RIIMCU209A" title="Conduct roadway maintenance"/>
+      <unit id="RIIMCU214A" title="Conduct face ventilation operations"/>
+      <unit id="RIIMCU301A" title="Conduct specialised strata control operations"/>
+      <unit id="RIIMCU302A" title="Construct and maintain ventilation devices"/>
+      <unit id="RIIMCU303A" title="Conduct continuous miner operations"/>
+      <unit id="RIIMCU304A" title="Conduct shuttle car operations"/>
+      <unit id="RIIMCU305A" title="Conduct outburst mining operations"/>
+      <unit id="RIIMCU306A" title="Conduct shearer operations"/>
+      <unit id="RIIMCU307A" title="Conduct longwall face equipment operations"/>
+      <unit id="RIIMCU308A" title="Install and recover longwall equipment"/>
+      <unit id="RIIMCU309A" title="Operate breaker line supports"/>
+      <unit id="RIIMCU310A" title="Conduct flexible conveyor train (FCT) operations"/>
+      <unit id="RIIMCU311A" title="Monitor control processes"/>
+      <unit id="RIIMCU401A" title="Conduct special roadway operations"/>
+      <unit id="RIIMCU402A" title="Apply spontaneous combustion management measures"/>
+      <unit id="RIINHB304B" title="Conduct air drilling"/>
+      <unit id="RIINHB310A" title="Conduct surface directional drilling"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIPEO202A" title="Provide deck support for conveyor-car high wall mining operations"/>
+      <unit id="RIIPEO301A" title="Conduct conveyor-car high wall mining operations"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM304A" title="Install, commission and maintain major conveyor equipment and systems"/>
+      <unit id="RIISAM305A" title="Repair and splice conveyor belting"/>
+      <unit id="RIISAM311A" title="Maintain winder equipment"/>
+      <unit id="RIISAM312A" title="Inspect and maintain shafts and structures"/>
+      <unit id="RIISAM313A" title="Monitor, inspect and service ropes and attachments"/>
+      <unit id="RIIUND205A" title="Respond to a workforce incident"/>
+      <unit id="RIIUND208A" title="Conduct skip operations"/>
+      <unit id="RIIUND209A" title="Operate automated winder"/>
+      <unit id="RIIUND301A" title="Operate manual winder"/>
+      <unit id="RIIUND302A" title="Conduct cage operations"/>
+      <unit id="RIIUND303A" title="Operate winder for shaft sinking"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII41109" title="Certificate IV in Drilling Oil/Gas (On shore)">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="RIIERR304A" title="Control emergencies and critical situations"/>
+      <unit id="RIIERR401B" title="Apply and monitor surface operations emergency preparedness and response systems"/>
+      <unit id="RIIOGD304A" title="Apply effective coal seam gas control practices"/>
+      <unit id="RIIOGD305A" title="Apply blow out prevention operational procedures"/>
+      <unit id="RIIOGD401A" title="Rig up, conduct pre-spud operations and rig down"/>
+      <unit id="RIIOGD402A" title="Participate in nippling-up and pressure test"/>
+      <unit id="RIIOGD403A" title="Conduct drilling operations"/>
+      <unit id="RIIOGD404A" title="Coordinate air drilling operations"/>
+      <unit id="RIIOGD405A" title="Carry out well control and blow out prevention"/>
+      <unit id="RIIOHS405A" title="Maintain standard procedures and safe working practices"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISAM314A" title="Manage oil and gas drilling equipment maintenance"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40212" title="Certificate IV in Surface Coal Mining (Open Cut Examiner)">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="RIIBHD301A" title="Conduct surface blast hole drilling operations"/>
+      <unit id="RIIBLA201A" title="Support shotfiring operations"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIERR401B" title="Apply and monitor surface operations emergency preparedness and response systems"/>
+      <unit id="RIIERR403A" title="Lead rescue team"/>
+      <unit id="RIIMEX405A" title="Apply and monitor systems and methods of surface coal mining"/>
+      <unit id="RIIMPO301C" title="Conduct hydraulic excavator operations"/>
+      <unit id="RIIMPO302B" title="Conduct hydraulic shovel operations"/>
+      <unit id="RIIMPO303A" title="Conduct rope shovel operations"/>
+      <unit id="RIIMPO304B" title="Conduct wheel loader operations"/>
+      <unit id="RIIMPO308B" title="Conduct tracked dozer operations"/>
+      <unit id="RIIMPO310B" title="Conduct grader operations"/>
+      <unit id="RIIMPO311A" title="Conduct haul truck operations"/>
+      <unit id="RIIMPO312A" title="Conduct scraper operations"/>
+      <unit id="RIIMPO329A" title="Conduct dragline operations"/>
+      <unit id="RIIMPO401A" title="Supervise mobile plant operations"/>
+      <unit id="RIIMPO402A" title="Apply the principles of earthworks construction"/>
+      <unit id="RIIMPO403A" title="Monitor interaction of heavy and light vehicles and mining equipment"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS402A" title="Examine and maintain mine safety"/>
+      <unit id="RIIOHS404A" title="Implement and monitor health and hygiene management systems"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40109" title="Certificate IV in Surface Extraction Operations">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAU3126B" title="Use advanced features of computer applications"/>
+      <unit id="RIIBHD401A" title="Supervise blast hole drilling operations"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIIBLA401A" title="Manage blasting operations"/>
+      <unit id="RIIBLA402A" title="Monitor and control the effects of blasting on the environment"/>
+      <unit id="RIICAR401A" title="Supervise rehabilitation operations"/>
+      <unit id="RIICCR401A" title="Develop and maintain positive community relations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIENV401A" title="Supervise dust and noise control"/>
+      <unit id="RIIERR201A" title="Conduct fire team operations"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR301A" title="Respond to mine incident"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIERR310A" title="Provide support for rescue operations"/>
+      <unit id="RIIERR401B" title="Apply and monitor surface operations emergency preparedness and response systems"/>
+      <unit id="RIIERR403A" title="Lead rescue team"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIMEX401A" title="Apply pit plan"/>
+      <unit id="RIIMEX402A" title="Supervise dredging operations"/>
+      <unit id="RIIMEX404B" title="Apply and monitor systems for stable mining"/>
+      <unit id="RIIMEX405A" title="Apply and monitor systems and methods of surface coal mining"/>
+      <unit id="RIIMPO401A" title="Supervise mobile plant operations"/>
+      <unit id="RIIMPO403A" title="Monitor interaction of heavy and light vehicles and mining equipment"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS401A" title="Supervise work in confined spaces"/>
+      <unit id="RIIOHS402A" title="Examine and maintain mine safety"/>
+      <unit id="RIIPRO401A" title="Supervise processing operations"/>
+      <unit id="RIIPRO402A" title="Supervise recycled materials operations"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRAI401A" title="Apply and monitor mine services and infrastructure systems"/>
+      <unit id="RIIRAI402A" title="Apply and monitor site plant and resource management plan"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="RIISAM401A" title="Apply site plant, equipment and infrastructure maintenance management plan"/>
+      <unit id="RIISAM402A" title="Supervise operation of electrical equipment and installations"/>
+      <unit id="RIISAM403A" title="Commission/recommission plant"/>
+      <unit id="RIISRM401A" title="Apply and monitor the site stockpile management plan"/>
+      <unit id="RIIWBP401A" title="Apply and monitor site waste and by-products management plan"/>
+      <unit id="RIIWMG401A" title="Apply and monitor the site water management plan"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40311" title="Certificate IV in Metalliferous Mining Operations (Underground)">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RIIBLA303A" title="Conduct underground development shotfiring"/>
+      <unit id="RIIBLA304A" title="Conduct underground production shotfiring"/>
+      <unit id="RIIBLA401A" title="Manage blasting operations"/>
+      <unit id="RIIBLA402A" title="Monitor and control the effects of blasting on the environment"/>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIERR403A" title="Lead rescue team"/>
+      <unit id="RIIERR404A" title="Apply and monitor underground metalliferous mine emergency preparedness and response systems"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIMEX404B" title="Apply and monitor systems for stable mining"/>
+      <unit id="RIIMEX406A" title="Apply and monitor mine transport system and production equipment"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS401A" title="Supervise work in confined spaces"/>
+      <unit id="RIIQUA201A" title="Maintain and monitor site quality standards"/>
+      <unit id="RIIRAI401A" title="Apply and monitor mine services and infrastructure systems"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIISAM403A" title="Commission/recommission plant"/>
+      <unit id="RIIUND401B" title="Apply and monitor the ventilation management plan"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40909" title="Certificate IV in Drilling Operations">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBRKG403B" title="Set up a business or records system for a small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="RIIBEF402A" title="Supervise on-site operations"/>
+      <unit id="RIIENV402A" title="Implement and monitor environmental policies"/>
+      <unit id="RIIERR401B" title="Apply and monitor surface operations emergency preparedness and response systems"/>
+      <unit id="RIIFIA401A" title="Manage financial records"/>
+      <unit id="RIINHB401A" title="Plan and supervise the mobilisation of equipment, crew and materials"/>
+      <unit id="RIINHB402A" title="Supervise mineral exploration drilling operations"/>
+      <unit id="RIINHB403A" title="Supervise geotechnical drilling operations"/>
+      <unit id="RIINHB404A" title="Supervise seismic drilling operations"/>
+      <unit id="RIINHB405A" title="Supervise water well drilling operations"/>
+      <unit id="RIINHB406A" title="Supervise foundation drilling operations"/>
+      <unit id="RIINHB407A" title="Supervise horizontal directional drilling operations"/>
+      <unit id="RIINHB408A" title="Supervise environmental drilling operations"/>
+      <unit id="RIINHB409A" title="Supervise mineral production and development drilling operations"/>
+      <unit id="RIINHB410A" title="Supervise surface directional drilling operations"/>
+      <unit id="RIINHB411A" title="Construct artesian (flowing) aquifer production bores"/>
+      <unit id="RIINHB412B" title="Construct geothermal wells"/>
+      <unit id="RIINHB413A" title="Supervise underground in-seam directional drilling operations"/>
+      <unit id="RIIOGD405A" title="Carry out well control and blow out prevention"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="RIISAM401A" title="Apply site plant, equipment and infrastructure maintenance management plan"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40509" title="Certificate IV in Resource Processing">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="PMAOPS411B" title="Manage plant shutdown and restart"/>
+      <unit id="PMASUP441C" title="Decommission plant"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR401B" title="Apply and monitor surface operations emergency preparedness and response systems"/>
+      <unit id="RIIERR403A" title="Lead rescue team"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIHAN401A" title="Organise and monitor wharf/terminal operations"/>
+      <unit id="RIIHAN402A" title="Process movement of containers and cargo"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS401A" title="Supervise work in confined spaces"/>
+      <unit id="RIIRAI401A" title="Apply and monitor mine services and infrastructure systems"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIISAM403A" title="Commission/recommission plant"/>
+      <unit id="RIIWMG402A" title="Monitor and coordinate waste and process water treatment"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII41009" title="Certificate IV in Drilling Oil/Gas (Off shore)">
+    <units>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="RIIERR304A" title="Control emergencies and critical situations"/>
+      <unit id="RIIERR311A" title="Assess and implement life support systems and stabilise casualties"/>
+      <unit id="RIIOGD401A" title="Rig up, conduct pre-spud operations and rig down"/>
+      <unit id="RIIOGD402A" title="Participate in nippling-up and pressure test"/>
+      <unit id="RIIOGD403A" title="Conduct drilling operations"/>
+      <unit id="RIIOGD404A" title="Coordinate air drilling operations"/>
+      <unit id="RIIOGD405A" title="Carry out well control and blow out prevention"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIISAM314A" title="Manage oil and gas drilling equipment maintenance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII40412" title="Certificate IV in Underground Coal Operations">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA302A" title="Conduct shotfiring operations in underground coal mines"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIERR402A" title="Apply and monitor underground coal mine emergency preparedness and response systems"/>
+      <unit id="RIIERR403A" title="Lead rescue team"/>
+      <unit id="RIIMCU303A" title="Conduct continuous miner operations"/>
+      <unit id="RIIMCU304A" title="Conduct shuttle car operations"/>
+      <unit id="RIIMCU305A" title="Conduct outburst mining operations"/>
+      <unit id="RIIMCU306A" title="Conduct shearer operations"/>
+      <unit id="RIIMCU307A" title="Conduct longwall face equipment operations"/>
+      <unit id="RIIMCU401A" title="Conduct special roadway operations"/>
+      <unit id="RIIMCU403A" title="Apply and monitor the gas management plan"/>
+      <unit id="RIIMCU404A" title="Apply and monitor the gas drainage management plan"/>
+      <unit id="RIIMCU405A" title="Apply and monitor the outburst management plan"/>
+      <unit id="RIIMCU406A" title="Apply and monitor the inrush management plan"/>
+      <unit id="RIIMCU407A" title="Apply and monitor the strata management plan"/>
+      <unit id="RIIMCU408A" title="Apply the spontaneous combustion management plan"/>
+      <unit id="RIIMEX406A" title="Apply and monitor mine transport system and production equipment"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIRAI401A" title="Apply and monitor mine services and infrastructure systems"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIIUND304A" title="Recover equipment"/>
+      <unit id="RIIUND401B" title="Apply and monitor the ventilation management plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40609" title="Certificate IV in Civil Construction Operations">
+    <units>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGACOM402A" title="Arrange contracts"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="LGACOM410A" title="Prepare response to tenders"/>
+      <unit id="LGAWORK401A" title="Develop works maintenance schedule"/>
+      <unit id="LGAWORK402A" title="Prepare for operational works"/>
+      <unit id="LGAWORK403A" title="Manage civil plant and resources"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIICBS401B" title="Apply the principles of asphalt paving and compaction"/>
+      <unit id="RIICBS402B" title="Apply the principles for the application of bituminous sprayed treatmen"/>
+      <unit id="RIICBS403B" title="Apply the principles for the application of polymer modified binder"/>
+      <unit id="RIICBS404B" title="Apply the principles for the selection and use of bituminous emulsion"/>
+      <unit id="RIICBS405A" title="Apply the principles for the application of slurry surfacing"/>
+      <unit id="RIICBS406A" title="Apply the principles of pavement profiling using a profiler"/>
+      <unit id="RIICBS407A" title="Apply the principles for the manufacture and delivery of hot mix asphalt"/>
+      <unit id="RIICBS408A" title="Apply the principles for the manufacture of cold mix"/>
+      <unit id="RIICBS409A" title="Apply the principles for the manufacture of polymer modified binder"/>
+      <unit id="RIICBS410A" title="Apply the principles for the manufacture of bituminous emulsion"/>
+      <unit id="RIICBS411A" title="Apply the principles for the manufacture of slurry surfacing"/>
+      <unit id="RIICCR401A" title="Develop and maintain positive community relations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIICPL401A" title="Apply the principles for the installation of underground service using open excavation"/>
+      <unit id="RIICRC401A" title="Apply the principles of flexible pavement construction"/>
+      <unit id="RIICRC402A" title="Apply the principles of rigid pavement construction"/>
+      <unit id="RIICRC403A" title="Apply the principles of the stabilisation of materials"/>
+      <unit id="RIICRC404A" title="Inspect and report on pavement condition"/>
+      <unit id="RIICRC405A" title="Carry out pavement condition measurement"/>
+      <unit id="RIICRC406B" title="Apply the principles of pavement maintenance"/>
+      <unit id="RIICSG401A" title="Apply the principles of civil concrete structures construction"/>
+      <unit id="RIICSG402A" title="Apply the principles of civil steel structures construction"/>
+      <unit id="RIICSG403A" title="Apply the principles of civil timber structures construction"/>
+      <unit id="RIICSG404A" title="Apply the principles of civil masonry, crib and gabion structure construction"/>
+      <unit id="RIICSG405A" title="Carry out inspections of civil structures"/>
+      <unit id="RIICSG406A" title="Apply principles of maintenance of civil structures"/>
+      <unit id="RIICTC401A" title="Apply the principles of tunnel construction"/>
+      <unit id="RIICTT401A" title="Apply the principles for the installation of underground services using trenchless technology"/>
+      <unit id="RIICWD525B" title="Select pavement surfacing"/>
+      <unit id="RIICWM402A" title="Supervise civil works contractors"/>
+      <unit id="RIIDML401A" title="Apply the principles of demolitions"/>
+      <unit id="RIIENV402A" title="Implement and monitor environmental policies"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIMEX403A" title="Apply the principles of canal construction"/>
+      <unit id="RIIMPO402A" title="Apply the principles of earthworks construction"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40809" title="Certificate IV in Civil Construction Design">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CPPSIS3005A" title="Collect basic spatial data"/>
+      <unit id="CPPSIS5002A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5005A" title="Obtain and validate existing spatial data"/>
+      <unit id="CPPSIS5006A" title="Integrate spatial datasets"/>
+      <unit id="MEM09011B" title="Apply basic engineering design concepts"/>
+      <unit id="MEM30001A" title="Use computer aided drafting systems to produce basic engineering drawings"/>
+      <unit id="MEM30002A" title="Produce basic engineering graphics"/>
+      <unit id="MEM30003A" title="Produce detailed engineering drawings"/>
+      <unit id="MEM30004A" title="Use CAD to create and display 3D models"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="RIICBS401B" title="Apply the principles of asphalt paving and compaction"/>
+      <unit id="RIICBS402B" title="Apply the principles for the application of bituminous sprayed treatmen"/>
+      <unit id="RIICBS403B" title="Apply the principles for the application of polymer modified binder"/>
+      <unit id="RIICBS404B" title="Apply the principles for the selection and use of bituminous emulsion"/>
+      <unit id="RIICBS405A" title="Apply the principles for the application of slurry surfacing"/>
+      <unit id="RIICBS406A" title="Apply the principles of pavement profiling using a profiler"/>
+      <unit id="RIICBS407A" title="Apply the principles for the manufacture and delivery of hot mix asphalt"/>
+      <unit id="RIICBS408A" title="Apply the principles for the manufacture of cold mix"/>
+      <unit id="RIICBS409A" title="Apply the principles for the manufacture of polymer modified binder"/>
+      <unit id="RIICBS410A" title="Apply the principles for the manufacture of bituminous emulsion"/>
+      <unit id="RIICBS411A" title="Apply the principles for the manufacture of slurry surfacing"/>
+      <unit id="RIICPL401A" title="Apply the principles for the installation of underground service using open excavation"/>
+      <unit id="RIICRC401A" title="Apply the principles of flexible pavement construction"/>
+      <unit id="RIICRC402A" title="Apply the principles of rigid pavement construction"/>
+      <unit id="RIICRC403A" title="Apply the principles of the stabilisation of materials"/>
+      <unit id="RIICRC404A" title="Inspect and report on pavement condition"/>
+      <unit id="RIICRC405A" title="Carry out pavement condition measurement"/>
+      <unit id="RIICRC406B" title="Apply the principles of pavement maintenance"/>
+      <unit id="RIICSG401A" title="Apply the principles of civil concrete structures construction"/>
+      <unit id="RIICSG402A" title="Apply the principles of civil steel structures construction"/>
+      <unit id="RIICSG403A" title="Apply the principles of civil timber structures construction"/>
+      <unit id="RIICSG404A" title="Apply the principles of civil masonry, crib and gabion structure construction"/>
+      <unit id="RIICTC401A" title="Apply the principles of tunnel construction"/>
+      <unit id="RIICTT401A" title="Apply the principles for the installation of underground services using trenchless technology"/>
+      <unit id="RIICTT402A" title="Apply the principles for the repair and rehabilitation of underground services using trenchless technology"/>
+      <unit id="RIICWD501A" title="Prepare detailed design of foundations"/>
+      <unit id="RIICWD502A" title="Prepare detailed design of lighting"/>
+      <unit id="RIICWD504A" title="Prepare detailed design of environmental controls"/>
+      <unit id="RIICWD505A" title="Prepare detailed design of landscaping"/>
+      <unit id="RIICWD506A" title="Prepare detailed design of canals"/>
+      <unit id="RIICWD507A" title="Prepare detailed geotechnical design"/>
+      <unit id="RIICWD508A" title="Prepare detailed design of rural roads"/>
+      <unit id="RIICWD511A" title="Prepare detailed design of sub-divisions"/>
+      <unit id="RIICWD513A" title="Prepare detailed design of rail civil infrastructure"/>
+      <unit id="RIICWD514A" title="Prepare detailed design of dams"/>
+      <unit id="RIICWD515A" title="Prepare detailed design of airfield civil works"/>
+      <unit id="RIICWD516A" title="Prepare detailed design of bicycle ways"/>
+      <unit id="RIICWD517A" title="Prepare detailed design of industrial hardstands"/>
+      <unit id="RIICWD518A" title="Prepare detailed design of open car parks"/>
+      <unit id="RIICWD519A" title="Prepare detailed design of inter modal facilities civil works"/>
+      <unit id="RIICWD521A" title="Prepare detailed design of flexible pavements"/>
+      <unit id="RIICWD522A" title="Prepare stabilised material mix design"/>
+      <unit id="RIICWD523A" title="Prepare asphalt mix design"/>
+      <unit id="RIICWD524B" title="Prepare design of sprayed seal surfacing"/>
+      <unit id="RIICWD525B" title="Select pavement surfacing"/>
+      <unit id="RIICWD527A" title="Prepare detailed design of traffic signals"/>
+      <unit id="RIICWD529A" title="Prepare detailed design of underground services"/>
+      <unit id="RIICWD530A" title="Prepare detailed design of surface drainage"/>
+      <unit id="RIICWD531A" title="Prepare detailed design of subsurface drainage"/>
+      <unit id="RIICWD537A" title="Prepare detailed design of marine structures civil works"/>
+      <unit id="RIIMEX403A" title="Apply the principles of canal construction"/>
+      <unit id="RIIMPO402A" title="Apply the principles of earthworks construction"/>
+      <unit id="RIISTD202A" title="Collect routine site samples"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII40712" title="Certificate IV in Civil Construction Supervision">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG405A" title="Apply human resources management approaches"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGACOM402A" title="Arrange contracts"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="LGACOM410A" title="Prepare response to tenders"/>
+      <unit id="LGADMIN417A" title="Conduct community consultations"/>
+      <unit id="LGAWORK401A" title="Develop works maintenance schedule"/>
+      <unit id="LGAWORK402A" title="Prepare for operational works"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="PMLTEST307B" title="Prepare trial batches for evaluation"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="RIIBLA401A" title="Manage blasting operations"/>
+      <unit id="RIIBLA402A" title="Monitor and control the effects of blasting on the environment"/>
+      <unit id="RIICBS401B" title="Apply the principles of asphalt paving and compaction"/>
+      <unit id="RIICBS402B" title="Apply the principles for the application of bituminous sprayed treatmen"/>
+      <unit id="RIICBS403B" title="Apply the principles for the application of polymer modified binder"/>
+      <unit id="RIICBS404B" title="Apply the principles for the selection and use of bituminous emulsion"/>
+      <unit id="RIICBS405A" title="Apply the principles for the application of slurry surfacing"/>
+      <unit id="RIICBS406A" title="Apply the principles of pavement profiling using a profiler"/>
+      <unit id="RIICBS407A" title="Apply the principles for the manufacture and delivery of hot mix asphalt"/>
+      <unit id="RIICBS408A" title="Apply the principles for the manufacture of cold mix"/>
+      <unit id="RIICBS409A" title="Apply the principles for the manufacture of polymer modified binder"/>
+      <unit id="RIICBS410A" title="Apply the principles for the manufacture of bituminous emulsion"/>
+      <unit id="RIICBS411A" title="Apply the principles for the manufacture of slurry surfacing"/>
+      <unit id="RIICCR401A" title="Develop and maintain positive community relations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIICPL401A" title="Apply the principles for the installation of underground service using open excavation"/>
+      <unit id="RIICRC401A" title="Apply the principles of flexible pavement construction"/>
+      <unit id="RIICRC402A" title="Apply the principles of rigid pavement construction"/>
+      <unit id="RIICRC403A" title="Apply the principles of the stabilisation of materials"/>
+      <unit id="RIICRC404A" title="Inspect and report on pavement condition"/>
+      <unit id="RIICRC405A" title="Carry out pavement condition measurement"/>
+      <unit id="RIICRC406B" title="Apply the principles of pavement maintenance"/>
+      <unit id="RIICSG401A" title="Apply the principles of civil concrete structures construction"/>
+      <unit id="RIICSG402A" title="Apply the principles of civil steel structures construction"/>
+      <unit id="RIICSG403A" title="Apply the principles of civil timber structures construction"/>
+      <unit id="RIICSG404A" title="Apply the principles of civil masonry, crib and gabion structure construction"/>
+      <unit id="RIICSG405A" title="Carry out inspections of civil structures"/>
+      <unit id="RIICSG406A" title="Apply principles of maintenance of civil structures"/>
+      <unit id="RIICTC401A" title="Apply the principles of tunnel construction"/>
+      <unit id="RIICTT401A" title="Apply the principles for the installation of underground services using trenchless technology"/>
+      <unit id="RIICTT402A" title="Apply the principles for the repair and rehabilitation of underground services using trenchless technology"/>
+      <unit id="RIICWD503A" title="Prepare work zone traffic management plan"/>
+      <unit id="RIICWD525B" title="Select pavement surfacing"/>
+      <unit id="RIICWM401B" title="Supervise civil works"/>
+      <unit id="RIICWM402A" title="Supervise civil works contractors"/>
+      <unit id="RIICWM503A" title="Prepare civil works cost estimate"/>
+      <unit id="RIICWM504A" title="Prepare civil works bill of quantities"/>
+      <unit id="RIICWM505A" title="Prepare civil works schedule of rates"/>
+      <unit id="RIIDML401A" title="Apply the principles of demolitions"/>
+      <unit id="RIIENV401A" title="Supervise dust and noise control"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIMEX403A" title="Apply the principles of canal construction"/>
+      <unit id="RIIMPO402A" title="Apply the principles of earthworks construction"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="RIIOHS401A" title="Supervise work in confined spaces"/>
+      <unit id="RIIQUA401A" title="Apply a quality management system on site"/>
+      <unit id="RIIRAI402A" title="Apply and monitor site plant and resource management plan"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="RIISAM401A" title="Apply site plant, equipment and infrastructure maintenance management plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50309" title="Diploma of Minerals Processing">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIENV502A" title="Undertake process or project environmental impact assessment"/>
+      <unit id="RIIERR503A" title="Implement emergency preparedness and response systems"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIIPRO502A" title="Develop, implement and maintain process control systems"/>
+      <unit id="RIIRAI501B" title="Implement mine transport systems and production equipment"/>
+      <unit id="RIIRAI503B" title="Implement site services and infrastructure systems"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIISRM502A" title="Design stockpile formations and reclaiming systems"/>
+      <unit id="RIIWBP502A" title="Plan and monitor recycled material operations"/>
+      <unit id="RIIWMG501A" title="Implement the site water management plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50809" title="Diploma of Drilling Oil/Gas (On shore)">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIBEF401A" title="Manage non-routine, complex technical situations"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIIOGD501A" title="Manage rig operations"/>
+      <unit id="RIIOGD502A" title="Plan and evaluate rig operations"/>
+      <unit id="RIIOGD503A" title="Oversee drilling operations"/>
+      <unit id="RIIOGD504A" title="Manage drilling operations"/>
+      <unit id="RIIOGD505A" title="Manage drilling induction and orientation"/>
+      <unit id="RIIOGD506A" title="Manage rig move and camp move"/>
+      <unit id="RIIOGD507A" title="Manage and monitor rig-up and rig-up to spud operations"/>
+      <unit id="RIIOGD508A" title="Manage well completion and abandonment"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="RIIQUA501A" title="Implement, monitor and develop quality management plans"/>
+      <unit id="RIIRIS501A" title="Implement and maintain management system to control risk"/>
+      <unit id="RIISAM502B" title="Manage general drilling equipment maintenance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII50509" title="Diploma of Civil Construction Design">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBPMG503A" title="Manage project time"/>
+      <unit id="BSBPMG505A" title="Manage project quality"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CPPSIS5002A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5005A" title="Obtain and validate existing spatial data"/>
+      <unit id="CPPSIS5006A" title="Integrate spatial datasets"/>
+      <unit id="MEM09011B" title="Apply basic engineering design concepts"/>
+      <unit id="MEM30001A" title="Use computer aided drafting systems to produce basic engineering drawings"/>
+      <unit id="MEM30002A" title="Produce basic engineering graphics"/>
+      <unit id="MEM30003A" title="Produce detailed engineering drawings"/>
+      <unit id="MEM30004A" title="Use CAD to create and display 3D models"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="RIICBS401B" title="Apply the principles of asphalt paving and compaction"/>
+      <unit id="RIICBS402B" title="Apply the principles for the application of bituminous sprayed treatmen"/>
+      <unit id="RIICBS403B" title="Apply the principles for the application of polymer modified binder"/>
+      <unit id="RIICBS404B" title="Apply the principles for the selection and use of bituminous emulsion"/>
+      <unit id="RIICBS405A" title="Apply the principles for the application of slurry surfacing"/>
+      <unit id="RIICBS406A" title="Apply the principles of pavement profiling using a profiler"/>
+      <unit id="RIICBS407A" title="Apply the principles for the manufacture and delivery of hot mix asphalt"/>
+      <unit id="RIICBS408A" title="Apply the principles for the manufacture of cold mix"/>
+      <unit id="RIICBS409A" title="Apply the principles for the manufacture of polymer modified binder"/>
+      <unit id="RIICBS410A" title="Apply the principles for the manufacture of bituminous emulsion"/>
+      <unit id="RIICBS411A" title="Apply the principles for the manufacture of slurry surfacing"/>
+      <unit id="RIICPL401A" title="Apply the principles for the installation of underground service using open excavation"/>
+      <unit id="RIICRC401A" title="Apply the principles of flexible pavement construction"/>
+      <unit id="RIICRC402A" title="Apply the principles of rigid pavement construction"/>
+      <unit id="RIICRC403A" title="Apply the principles of the stabilisation of materials"/>
+      <unit id="RIICRC404A" title="Inspect and report on pavement condition"/>
+      <unit id="RIICSG401A" title="Apply the principles of civil concrete structures construction"/>
+      <unit id="RIICSG402A" title="Apply the principles of civil steel structures construction"/>
+      <unit id="RIICSG403A" title="Apply the principles of civil timber structures construction"/>
+      <unit id="RIICSG404A" title="Apply the principles of civil masonry, crib and gabion structure construction"/>
+      <unit id="RIICTC401A" title="Apply the principles of tunnel construction"/>
+      <unit id="RIICTT401A" title="Apply the principles for the installation of underground services using trenchless technology"/>
+      <unit id="RIICTT402A" title="Apply the principles for the repair and rehabilitation of underground services using trenchless technology"/>
+      <unit id="RIICWD501A" title="Prepare detailed design of foundations"/>
+      <unit id="RIICWD502A" title="Prepare detailed design of lighting"/>
+      <unit id="RIICWD504A" title="Prepare detailed design of environmental controls"/>
+      <unit id="RIICWD505A" title="Prepare detailed design of landscaping"/>
+      <unit id="RIICWD506A" title="Prepare detailed design of canals"/>
+      <unit id="RIICWD507A" title="Prepare detailed geotechnical design"/>
+      <unit id="RIICWD508A" title="Prepare detailed design of rural roads"/>
+      <unit id="RIICWD509A" title="Prepare detailed design of urban roads"/>
+      <unit id="RIICWD510A" title="Prepare detailed design of busways"/>
+      <unit id="RIICWD511A" title="Prepare detailed design of sub-divisions"/>
+      <unit id="RIICWD512A" title="Prepare detailed design of motorways and interchanges"/>
+      <unit id="RIICWD513A" title="Prepare detailed design of rail civil infrastructure"/>
+      <unit id="RIICWD514A" title="Prepare detailed design of dams"/>
+      <unit id="RIICWD515A" title="Prepare detailed design of airfield civil works"/>
+      <unit id="RIICWD516A" title="Prepare detailed design of bicycle ways"/>
+      <unit id="RIICWD517A" title="Prepare detailed design of industrial hardstands"/>
+      <unit id="RIICWD518A" title="Prepare detailed design of open car parks"/>
+      <unit id="RIICWD519A" title="Prepare detailed design of inter modal facilities civil works"/>
+      <unit id="RIICWD520A" title="Prepare detailed design of rigid pavements"/>
+      <unit id="RIICWD521A" title="Prepare detailed design of flexible pavements"/>
+      <unit id="RIICWD522A" title="Prepare stabilised material mix design"/>
+      <unit id="RIICWD523A" title="Prepare asphalt mix design"/>
+      <unit id="RIICWD524B" title="Prepare design of sprayed seal surfacing"/>
+      <unit id="RIICWD525B" title="Select pavement surfacing"/>
+      <unit id="RIICWD526A" title="Prepare detailed traffic analysis"/>
+      <unit id="RIICWD527A" title="Prepare detailed design of traffic signals"/>
+      <unit id="RIICWD528A" title="Prepare detailed design of traffic management systems"/>
+      <unit id="RIICWD529A" title="Prepare detailed design of underground services"/>
+      <unit id="RIICWD530A" title="Prepare detailed design of surface drainage"/>
+      <unit id="RIICWD531A" title="Prepare detailed design of subsurface drainage"/>
+      <unit id="RIICWD532A" title="Prepare detailed design of tunnels"/>
+      <unit id="RIICWD533A" title="Prepare detailed design of civil concrete structures"/>
+      <unit id="RIICWD534A" title="Prepare detailed design of civil steel structures"/>
+      <unit id="RIICWD535A" title="Prepare detailed design of civil timber structures"/>
+      <unit id="RIICWD536A" title="Prepare detailed design of civil masonry, crib and gabion structures"/>
+      <unit id="RIICWD537A" title="Prepare detailed design of marine structures civil works"/>
+      <unit id="RIIMEX403A" title="Apply the principles of canal construction"/>
+      <unit id="RIIMPO402A" title="Apply the principles of earthworks construction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50609" title="Diploma of Drilling Operations">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIINHB401A" title="Plan and supervise the mobilisation of equipment, crew and materials"/>
+      <unit id="RIINHB402A" title="Supervise mineral exploration drilling operations"/>
+      <unit id="RIINHB403A" title="Supervise geotechnical drilling operations"/>
+      <unit id="RIINHB404A" title="Supervise seismic drilling operations"/>
+      <unit id="RIINHB405A" title="Supervise water well drilling operations"/>
+      <unit id="RIINHB406A" title="Supervise foundation drilling operations"/>
+      <unit id="RIINHB407A" title="Supervise horizontal directional drilling operations"/>
+      <unit id="RIINHB408A" title="Supervise environmental drilling operations"/>
+      <unit id="RIINHB409A" title="Supervise mineral production and development drilling operations"/>
+      <unit id="RIINHB410A" title="Supervise surface directional drilling operations"/>
+      <unit id="RIINHB411A" title="Construct artesian (flowing) aquifer production bores"/>
+      <unit id="RIINHB412B" title="Construct geothermal wells"/>
+      <unit id="RIINHB413A" title="Supervise underground in-seam directional drilling operations"/>
+      <unit id="RIINHB501A" title="Plan drilling"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="RIIRIS501A" title="Implement and maintain management system to control risk"/>
+      <unit id="RIISAM502B" title="Manage general drilling equipment maintenance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50109" title="Diploma of Surface Operations Management">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIBHD501A" title="Manage blast hole drilling operations"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+      <unit id="RIIBLA601A" title="Design surface blasts"/>
+      <unit id="RIICCR501A" title="Conduct sales in construction materials operations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIENV502A" title="Undertake process or project environmental impact assessment"/>
+      <unit id="RIIERR503A" title="Implement emergency preparedness and response systems"/>
+      <unit id="RIIERR504A" title="Manage major incidents and emergencies"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIIMEX405A" title="Apply and monitor systems and methods of surface coal mining"/>
+      <unit id="RIIMEX501A" title="Implement pit plan"/>
+      <unit id="RIIMEX502A" title="Implement systems and methods of mining"/>
+      <unit id="RIIMEX503A" title="Manage dredging operations"/>
+      <unit id="RIIMPO502A" title="Manage the interaction of heavy and light vehicles and mining equipment"/>
+      <unit id="RIIMPO503A" title="Manage laser levelling of operating plant"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS404A" title="Implement and monitor health and hygiene management systems"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="RIIPRO501A" title="Implement site processing plant operations"/>
+      <unit id="RIIPRO502A" title="Develop, implement and maintain process control systems"/>
+      <unit id="RIIRAI501B" title="Implement mine transport systems and production equipment"/>
+      <unit id="RIIRAI502A" title="Implement site plant and resource management plan"/>
+      <unit id="RIIRAI503B" title="Implement site services and infrastructure systems"/>
+      <unit id="RIIRAI504A" title="Select and install surface plant and equipment"/>
+      <unit id="RIIRAI506A" title="Implement, monitor, rectify and report on inventory control system"/>
+      <unit id="RIIRAI508A" title="Implement mine services systems"/>
+      <unit id="RIIRAI509A" title="Implement mine fixed plant and infrastructure systems"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIIRIS501A" title="Implement and maintain management system to control risk"/>
+      <unit id="RIISAM501A" title="Implement and maintain the site plant, equipment and infrastructure maintenance plan"/>
+      <unit id="RIISDM501A" title="Conduct mine surveying operations"/>
+      <unit id="RIISRM501A" title="Implement the stockpile management plan"/>
+      <unit id="RIISRM502A" title="Design stockpile formations and reclaiming systems"/>
+      <unit id="RIIWBP501A" title="Implement site waste and by-product management plan"/>
+      <unit id="RIIWBP502A" title="Plan and monitor recycled material operations"/>
+      <unit id="RIIWMG501A" title="Implement the site water management plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50409" title="Diploma of Civil Construction Management">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBPMG502A" title="Manage project scope"/>
+      <unit id="BSBPMG503A" title="Manage project time"/>
+      <unit id="BSBPMG504A" title="Manage project costs"/>
+      <unit id="BSBPMG505A" title="Manage project quality"/>
+      <unit id="BSBPMG506A" title="Manage project human resources"/>
+      <unit id="BSBPMG507A" title="Manage project communications"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGAWORK501A" title="Prepare preliminary design for operational works"/>
+      <unit id="LGAWORK502A" title="Prepare detailed works project documentation"/>
+      <unit id="LGAWORK503A" title="Undertake project investigation"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="MSL975007A" title="Supervise sampling, inspections and testing at construction sites"/>
+      <unit id="MSL975016A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="RIIBHD501A" title="Manage blast hole drilling operations"/>
+      <unit id="RIIBLA401A" title="Manage blasting operations"/>
+      <unit id="RIIBLA601A" title="Design surface blasts"/>
+      <unit id="RIICWD503A" title="Prepare work zone traffic management plan"/>
+      <unit id="RIICWM501A" title="Implement civil construction plan"/>
+      <unit id="RIICWM502A" title="Implement civil works maintenance program"/>
+      <unit id="RIICWM503A" title="Prepare civil works cost estimate"/>
+      <unit id="RIICWM504A" title="Prepare civil works bill of quantities"/>
+      <unit id="RIICWM505A" title="Prepare civil works schedule of rates"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIQUA501A" title="Implement, monitor and develop quality management plans"/>
+      <unit id="RIIRAI502A" title="Implement site plant and resource management plan"/>
+      <unit id="RIIRIS501A" title="Implement and maintain management system to control risk"/>
+      <unit id="RIISAM501A" title="Implement and maintain the site plant, equipment and infrastructure maintenance plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50709" title="Diploma of Drilling Oil/Gas (Off shore)">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIERR504A" title="Manage major incidents and emergencies"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIIOGD501A" title="Manage rig operations"/>
+      <unit id="RIIOGD502A" title="Plan and evaluate rig operations"/>
+      <unit id="RIIOGD503A" title="Oversee drilling operations"/>
+      <unit id="RIIOGD504A" title="Manage drilling operations"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="RIIQUA501A" title="Implement, monitor and develop quality management plans"/>
+      <unit id="RIIRIS501A" title="Implement and maintain management system to control risk"/>
+      <unit id="RIISAM502B" title="Manage general drilling equipment maintenance"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII50209" title="Diploma of Underground Metalliferous Mining Management">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIBHD501A" title="Manage blast hole drilling operations"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIENV501A" title="Implement and maintain environmental management plan"/>
+      <unit id="RIIENV502A" title="Undertake process or project environmental impact assessment"/>
+      <unit id="RIIERR503A" title="Implement emergency preparedness and response systems"/>
+      <unit id="RIIGOV501A" title="Identify, implement and maintain legal compliance requirements"/>
+      <unit id="RIIMEX501A" title="Implement pit plan"/>
+      <unit id="RIIMEX502A" title="Implement systems and methods of mining"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIPRO502A" title="Develop, implement and maintain process control systems"/>
+      <unit id="RIIRAI501B" title="Implement mine transport systems and production equipment"/>
+      <unit id="RIIRAI503B" title="Implement site services and infrastructure systems"/>
+      <unit id="RIISDM501A" title="Conduct mine surveying operations"/>
+      <unit id="RIISRM502A" title="Design stockpile formations and reclaiming systems"/>
+      <unit id="RIIUND501A" title="Implement the ventilation management plan"/>
+      <unit id="RIIWBP502A" title="Plan and monitor recycled material operations"/>
+      <unit id="RIIWMG501A" title="Implement the site water management plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII50912" title="Diploma of Underground Coal Mining Management">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA302A" title="Conduct shotfiring operations in underground coal mines"/>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIERR501A" title="Implement underground coal mine emergency preparedness and response systems"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIMCU501A" title="Implement the spontaneous combustion management plan"/>
+      <unit id="RIIMCU502A" title="Implement the gas management plan"/>
+      <unit id="RIIMCU503A" title="Implement the gas drainage management plan"/>
+      <unit id="RIIMCU504A" title="Implement the outburst management plan"/>
+      <unit id="RIIMCU505A" title="Implement the inrush management plan"/>
+      <unit id="RIIMCU506A" title="Implement strata management plan"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+      <unit id="RIIRAI501B" title="Implement mine transport systems and production equipment"/>
+      <unit id="RIIRAI503B" title="Implement site services and infrastructure systems"/>
+      <unit id="RIIRAI506A" title="Implement, monitor, rectify and report on inventory control system"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIIUND501A" title="Implement the ventilation management plan"/>
+      <unit id="RIIUND603A" title="Manage, operate and maintain the mine ventilation system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60209" title="Advanced Diploma of Extractive Industries Management">
+    <units>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIBEF602A" title="Establish and evaluate operational performance management systems"/>
+      <unit id="RIIBEF604A" title="Conduct feasibility study"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIERR504A" title="Manage major incidents and emergencies"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIIMEX601A" title="Plan pit development"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIPRO601A" title="Design processing plant"/>
+      <unit id="RIIQUA601A" title="Establish and maintain a quality system"/>
+      <unit id="RIIRAI607A" title="Establish quarry operations"/>
+      <unit id="RIIRAI608A" title="Establish quarry development"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+      <unit id="RIISAM601A" title="Establish and maintain plant, equipment and infrastructure maintenance system"/>
+      <unit id="RIISRM601A" title="Establish and maintain the stockpile management system"/>
+      <unit id="RIIWBP601A" title="Establish and maintain waste and by-product management system"/>
+      <unit id="RIIWMG601A" title="Establish and maintain water management system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60709" title="Advanced Diploma of Surface Coal Mining Management">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIERR504A" title="Manage major incidents and emergencies"/>
+      <unit id="RIIERR601A" title="Establish and maintain mine emergency preparedness and response systems"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIIMEX601A" title="Plan pit development"/>
+      <unit id="RIIMEX602A" title="Establish and maintain surface mining ground control and slope stability systems"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIQUA601A" title="Establish and maintain a quality system"/>
+      <unit id="RIIRAI601A" title="Establish and maintain the site infrastructure and fixed plant systems"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+      <unit id="RIISAM601A" title="Establish and maintain plant, equipment and infrastructure maintenance system"/>
+      <unit id="RIISRM601A" title="Establish and maintain the stockpile management system"/>
+      <unit id="RIIUND602A" title="Establish and maintain mine services systems"/>
+      <unit id="RIIWBP601A" title="Establish and maintain waste and by-product management system"/>
+      <unit id="RIIWMG601A" title="Establish and maintain water management system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60109" title="Advanced Diploma of Metalliferous Mining">
+    <units>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIBEF602A" title="Establish and evaluate operational performance management systems"/>
+      <unit id="RIIBEF603A" title="Manage decision making process"/>
+      <unit id="RIIBEF605A" title="Resource site plans and objectives"/>
+      <unit id="RIIBLA602A" title="Establish and maintain a blasting system"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIERR601A" title="Establish and maintain mine emergency preparedness and response systems"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIILAT601A" title="Manage group processes"/>
+      <unit id="RIIMEX602A" title="Establish and maintain surface mining ground control and slope stability systems"/>
+      <unit id="RIIMEX603A" title="Establish and maintain underground mining ground control and stable mining systems"/>
+      <unit id="RIIMEX604A" title="Establish and maintain surface product haulage and transport systems"/>
+      <unit id="RIIMEX605A" title="Establish, implement and maintain operational management plans"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIRAI601A" title="Establish and maintain the site infrastructure and fixed plant systems"/>
+      <unit id="RIIRAI606A" title="Establish and maintain mine closure management systems"/>
+      <unit id="RIIRAI612A" title="Establish and maintain underground product haulage and transport systems"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+      <unit id="RIISAM601A" title="Establish and maintain plant, equipment and infrastructure maintenance system"/>
+      <unit id="RIISRM601A" title="Establish and maintain the stockpile management system"/>
+      <unit id="RIIUND601A" title="Establish and maintain the ventilation management system"/>
+      <unit id="RIIUND602A" title="Establish and maintain mine services systems"/>
+      <unit id="RIIWBP601A" title="Establish and maintain waste and by-product management system"/>
+      <unit id="RIIWMG601A" title="Establish and maintain water management system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60509" title="Advanced Diploma of Civil Construction Design">
+    <units>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBOHS607B" title="Advise on application of safe design principles to control OHS risk"/>
+      <unit id="BSBPMG601A" title="Direct the integration of projects"/>
+      <unit id="BSBPMG602A" title="Direct the scope of a project program"/>
+      <unit id="BSBPMG603A" title="Direct time management of a project program"/>
+      <unit id="BSBPMG604A" title="Direct cost management of a project program"/>
+      <unit id="BSBPMG605A" title="Direct quality management of a project program"/>
+      <unit id="BSBPMG606A" title="Direct human resources management of a project program"/>
+      <unit id="BSBPMG607A" title="Direct communications management of a project program"/>
+      <unit id="BSBPMG608A" title="Direct risk management of a project program"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIBEF604A" title="Conduct feasibility study"/>
+      <unit id="RIICWD507A" title="Prepare detailed geotechnical design"/>
+      <unit id="RIICWD509A" title="Prepare detailed design of urban roads"/>
+      <unit id="RIICWD510A" title="Prepare detailed design of busways"/>
+      <unit id="RIICWD512A" title="Prepare detailed design of motorways and interchanges"/>
+      <unit id="RIICWD520A" title="Prepare detailed design of rigid pavements"/>
+      <unit id="RIICWD526A" title="Prepare detailed traffic analysis"/>
+      <unit id="RIICWD528A" title="Prepare detailed design of traffic management systems"/>
+      <unit id="RIICWD532A" title="Prepare detailed design of tunnels"/>
+      <unit id="RIICWD533A" title="Prepare detailed design of civil concrete structures"/>
+      <unit id="RIICWD534A" title="Prepare detailed design of civil steel structures"/>
+      <unit id="RIICWD535A" title="Prepare detailed design of civil timber structures"/>
+      <unit id="RIICWD536A" title="Prepare detailed design of civil masonry, crib and gabion structures"/>
+      <unit id="RIICWD601A" title="Manage the civil works design process"/>
+      <unit id="RIIQUA601A" title="Establish and maintain a quality system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60409" title="Advanced Diploma of Drilling Management">
+    <units>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG605A" title="Direct quality management of a project program"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="RIICCR601A" title="Manage customer relationships"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIIOGD504A" title="Manage drilling operations"/>
+      <unit id="RIIOGD601A" title="Manage multiple drilling operations"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIQUA601A" title="Establish and maintain a quality system"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RII60312" title="Advanced Diploma of Underground Coal Mining Management">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA302A" title="Conduct shotfiring operations in underground coal mines"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIERR602A" title="Establish and maintain underground coal mine emergency preparedness and response systems"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIIMCU601A" title="Establish and maintain the spontaneous combustion management plan"/>
+      <unit id="RIIMCU602A" title="Establish and maintain the gas management system"/>
+      <unit id="RIIMCU603A" title="Establish and maintain the gas drainage management plan"/>
+      <unit id="RIIMCU604A" title="Establish and maintain the outburst management plan"/>
+      <unit id="RIIMCU605A" title="Establish and maintain the inrush management plan"/>
+      <unit id="RIIMCU606A" title="Establish and maintain the mining method and strata management systems"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIOHS602A" title="Incorporate health and hygiene factors into mine management"/>
+      <unit id="RIIRAI603A" title="Establish and maintain mine transport systems and production equipment"/>
+      <unit id="RIIRAI604A" title="Establish and maintain mine services and infrastructure systems"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+      <unit id="RIIUND601A" title="Establish and maintain the ventilation management system"/>
+      <unit id="RIIUND603A" title="Manage, operate and maintain the mine ventilation system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RII60609" title="Advanced Diploma of Civil Construction">
+    <units>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG601A" title="Direct the integration of projects"/>
+      <unit id="BSBPMG602A" title="Direct the scope of a project program"/>
+      <unit id="BSBPMG603A" title="Direct time management of a project program"/>
+      <unit id="BSBPMG604A" title="Direct cost management of a project program"/>
+      <unit id="BSBPMG605A" title="Direct quality management of a project program"/>
+      <unit id="BSBPMG606A" title="Direct human resources management of a project program"/>
+      <unit id="BSBPMG607A" title="Direct communications management of a project program"/>
+      <unit id="BSBPMG608A" title="Direct risk management of a project program"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="RIIBEF601A" title="Conduct business negotiations"/>
+      <unit id="RIIBEF602A" title="Establish and evaluate operational performance management systems"/>
+      <unit id="RIIBEF604A" title="Conduct feasibility study"/>
+      <unit id="RIICWD601A" title="Manage the civil works design process"/>
+      <unit id="RIICWM503A" title="Prepare civil works cost estimate"/>
+      <unit id="RIICWM504A" title="Prepare civil works bill of quantities"/>
+      <unit id="RIICWM505A" title="Prepare civil works schedule of rates"/>
+      <unit id="RIICWM601A" title="Establish civil constructions plans"/>
+      <unit id="RIICWM602A" title="Establish civil works maintenance programs"/>
+      <unit id="RIIENV601A" title="Establish and maintain the environmental management system"/>
+      <unit id="RIIERR504A" title="Manage major incidents and emergencies"/>
+      <unit id="RIIGOV601A" title="Establish, maintain and develop a statutory compliance management system"/>
+      <unit id="RIIOHS601A" title="Establish and maintain the OHS management system"/>
+      <unit id="RIIQUA601A" title="Establish and maintain a quality system"/>
+      <unit id="RIIRIS601A" title="Establish and maintain the risk management system"/>
+      <unit id="RIISAM601A" title="Establish and maintain plant, equipment and infrastructure maintenance system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,1806 @@
+<?xml version="1.0"?>
+<qualifications class="BSB07">
+  <qualification id="BSB10112" title="Certificate I in Business">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBIND201A" title="Work effectively in a business environment"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBLED101A" title="Plan skills development"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+    </units>
+  </qualification>
+  <qualification id="BSB20211" title="Certificate II in Customer Contact">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCCO205A" title="Prepare for work in a customer contact environment"/>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO305B" title="Process credit applications"/>
+      <unit id="BSBCCO308A" title="Conduct outbound customer contact"/>
+      <unit id="BSBCCO309A" title="Develop product and service knowledge for customer contact operation"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBLED301A" title="Undertake e-learning"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB20112" title="Certificate II in Business">
+    <units>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBIND201A" title="Work effectively in a business environment"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBSMB201A" title="Identify suitability for micro business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB30211" title="Certificate III in Customer Contact">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCCO204A" title="Collect data"/>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO302B" title="Deploy customer service field staff"/>
+      <unit id="BSBCCO303B" title="Conduct a telemarketing campaign"/>
+      <unit id="BSBCCO304C" title="Provide sales solutions to customers"/>
+      <unit id="BSBCCO305B" title="Process credit applications"/>
+      <unit id="BSBCCO306B" title="Process complex accounts"/>
+      <unit id="BSBCCO307A" title="Work effectively in customer contact"/>
+      <unit id="BSBCCO308A" title="Conduct outbound customer contact"/>
+      <unit id="BSBCCO309A" title="Develop product and service knowledge for customer contact operation"/>
+      <unit id="BSBCCO403A" title="Schedule customer contact activity"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBLED301A" title="Undertake e-learning"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT405A" title="Provide personal leadership"/>
+      <unit id="BSBSLS407A" title="Identify and plan sales prospects"/>
+      <unit id="BSBSLS408A" title="Present, secure and support sales solutions"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWHS302A" title="Apply knowledge of WHS legislation in the workplace"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FNSSAM301A" title="Identify opportunities for cross-selling products and services"/>
+      <unit id="ICAICT209A" title="Interact with ICT clients"/>
+      <unit id="ICASAS204A" title="Record client support requirements"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30112" title="Certificate III in Business">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBIPR301A" title="Comply with organisational requirements for protection and use of intellectual property"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS302A" title="Apply knowledge of WHS legislation in the workplace"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30412" title="Certificate III in Business Administration">
+    <units>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM303B" title="Produce texts from audio transcription"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBIPR301A" title="Comply with organisational requirements for protection and use of intellectual property"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30612" title="Certificate III in International Trade">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINT301B" title="Apply knowledge of the international trade environment to complete work"/>
+      <unit id="BSBINT302B" title="Apply knowledge of legislation relevant to international trade to complete work"/>
+      <unit id="BSBINT303B" title="Organise the importing and exporting of goods"/>
+      <unit id="BSBINT304B" title="Assist in the international transfer of services"/>
+      <unit id="BSBINT305B" title="Prepare business documents for the international trade of goods"/>
+      <unit id="BSBINT306B" title="Apply knowledge of international finance and insurance to complete work requirements"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30712" title="Certificate III in Work Health and Safety">
+    <units>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS302A" title="Apply knowledge of WHS legislation in the workplace"/>
+      <unit id="BSBWHS303A" title="Participate in WHS hazard identification, risk assessment and risk control"/>
+      <unit id="BSBWHS304A" title="Participate effectively in WHS communication and consultation processes"/>
+      <unit id="BSBWHS305A" title="Contribute to WHS issue resolution"/>
+      <unit id="BSBWHS406A" title="Assist with responding to incidents"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CPPWMT3044A" title="Identify wastes and hazards"/>
+      <unit id="HLTFA302C" title="Provide first aid in remote situation"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="PUAWER001B" title="Identify, prevent and report potential workplace emergency situations"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB30307" title="Certificate III in Micro Business Operations">
+    <units>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBINT303B" title="Organise the importing and exporting of goods"/>
+      <unit id="BSBIPR405A" title="Protect and use intangible assets in small business"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB302A" title="Develop a micro business proposal"/>
+      <unit id="BSBSMB303A" title="Organise finances for the micro business"/>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSMB307A" title="Set up information and communications technology for the micro business"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30912" title="Certificate III in Business Administration (Education)">
+    <units>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM303B" title="Produce texts from audio transcription"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBIND301A" title="Work effectively in an educational environment"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CHCCS407C" title="Operate referral procedures"/>
+      <unit id="CHCCS412E" title="Deliver and develop client services"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV314A" title="Contribute to conflict management"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB31012" title="Certificate III in Business Administration (Legal)">
+    <units>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM303B" title="Produce texts from audio transcription"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBLEG301A" title="Apply knowledge of the legal system to complete tasks"/>
+      <unit id="BSBLEG302A" title="Carry out search of the public record"/>
+      <unit id="BSBLEG303A" title="Deliver court documentation"/>
+      <unit id="BSBLEG304A" title="Apply the principles of confidentiality and security within the legal environment"/>
+      <unit id="BSBLEG305A" title="Use legal terminology in order to carry out tasks"/>
+      <unit id="BSBLEG306A" title="Maintain records for time and disbursements in a legal practice"/>
+      <unit id="BSBLEG308A" title="Assist in prioritising and planning activities in a legal practice"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB31112" title="Certificate III in Business Administration (Medical)">
+    <units>
+      <unit id="BSBADM302B" title="Produce texts from notes"/>
+      <unit id="BSBADM303B" title="Produce texts from audio transcription"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINM303A" title="Handle receipt and despatch of information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBMED302B" title="Prepare and process medical accounts"/>
+      <unit id="BSBMED303B" title="Maintain patient records"/>
+      <unit id="BSBMED304B" title="Assist in controlling stocks and supplies"/>
+      <unit id="BSBMED305B" title="Apply the principles of confidentiality, privacy and security within the medical environment"/>
+      <unit id="BSBMED401B" title="Manage patient record keeping system"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30507" title="Certificate III in Business Administration(International Education)">
+    <units>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBEDU301A" title="Assist with monitoring compliance in international education services"/>
+      <unit id="BSBEDU302A" title="Assist in resolution of issues and incidents in an international education environment"/>
+      <unit id="BSBEDU303A" title="Assist with the provision of international education information"/>
+      <unit id="BSBEDU304A" title="Assist with the provision of pastoral care services to international students"/>
+      <unit id="BSBEDU305A" title="Assist with international education events and programs"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBIND302A" title="Work effectively in the international education services industry"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS301A" title="Maintain workplace safety"/>
+      <unit id="BSBWHS302A" title="Apply knowledge of WHS legislation in the workplace"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CHCAD402D" title="Support the interests, rights and needs of clients within duty of care requirements"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB30807" title="Certificate III in Recordkeeping">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBRKG301B" title="Control records"/>
+      <unit id="BSBRKG302B" title="Undertake disposal"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRKG305A" title="Review recordkeeping functions"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40110" title="Certificate IV in Legal Services">
+    <units>
+      <unit id="BSBCMM402A" title="Implement effective communication strategies"/>
+      <unit id="BSBCOM406A" title="Conduct work within a compliance framework"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLEG403B" title="Maintain trust accounts"/>
+      <unit id="BSBLEG413A" title="Identify and apply the legal framework"/>
+      <unit id="BSBLEG414A" title="Establish and maintain a file in legal services"/>
+      <unit id="BSBLEG415A" title="Apply the principles of contract law"/>
+      <unit id="BSBLEG416A" title="Apply the principles of the law of torts"/>
+      <unit id="BSBLEG417A" title="Apply the principles of evidence law"/>
+      <unit id="BSBLEG418A" title="Produce complex legal documents"/>
+      <unit id="BSBRES404A" title="Research legal information using primary sources"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB40212" title="Certificate IV in Business">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBIPR401A" title="Use and respect copyright"/>
+      <unit id="BSBIPR402A" title="Protect and use new inventions and innovations"/>
+      <unit id="BSBIPR403A" title="Protect and use brands and business identity"/>
+      <unit id="BSBIPR404A" title="Protect and use innovative designs"/>
+      <unit id="BSBIPR405A" title="Protect and use intangible assets in small business"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41412" title="Certificate IV in Work Health and Safety">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS402A" title="Assist with compliance with WHS laws"/>
+      <unit id="BSBWHS403A" title="Contribute to implementing and maintaining WHS consultation and participation processes"/>
+      <unit id="BSBWHS404A" title="Contribute to WHS hazard identification, risk assessment and risk control"/>
+      <unit id="BSBWHS405A" title="Contribute to implementing and maintaining WHS management systems"/>
+      <unit id="BSBWHS406A" title="Assist with responding to incidents"/>
+      <unit id="BSBWHS407A" title="Assist with claims management, rehabilitation and return-to-work programs"/>
+      <unit id="BSBWHS408A" title="Assist with effective WHS management of contractors"/>
+      <unit id="BSBWHS409A" title="Assist with workplace monitoring processes"/>
+      <unit id="BSBWHS410A" title="Contribute to work-related health and safety measures and initiatives"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="PUAWER002B" title="Ensure workplace emergency prevention procedures, systems and processes are implemented"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB40407" title="Certificate IV in Small Business Management">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBINT303B" title="Organise the importing and exporting of goods"/>
+      <unit id="BSBIPR405A" title="Protect and use intangible assets in small business"/>
+      <unit id="BSBMGT404A" title="Lead and facilitate off site staff"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSMB408B" title="Manage personal, family, cultural and business obligations"/>
+      <unit id="BSBSMB409A" title="Build and maintain relationships with small business stakeholders"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="FNSACC406A" title="Set up and operate a computerised accounting system"/>
+      <unit id="PSPGOV407B" title="Provide a quotation"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40507" title="Certificate IV in Business Administration">
+    <units>
+      <unit id="BSBADM401B" title="Produce complex texts from shorthand notes"/>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADM411A" title="Produce complex texts from audio transcription"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBMED401B" title="Manage patient record keeping system"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40610" title="Certificate IV in Business Sales">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM406B" title="Organise business travel"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINT401B" title="Research international business opportunities"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBREL403A" title="Implement international client relationship strategies"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSLS407A" title="Identify and plan sales prospects"/>
+      <unit id="BSBSLS408A" title="Present, secure and support sales solutions"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="FNSSAM402A" title="Implement a sales plan"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40107" title="Certificate IV in Advertising">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADV402B" title="Conduct pre campaign testing"/>
+      <unit id="BSBADV403B" title="Monitor advertising production"/>
+      <unit id="BSBADV404B" title="Schedule advertisements"/>
+      <unit id="BSBADV405A" title="Perform media calculations"/>
+      <unit id="BSBADV406A" title="Buy and monitor media"/>
+      <unit id="BSBADV407A" title="Apply media analysis and processing tools"/>
+      <unit id="BSBADV408A" title="Review advertising media options"/>
+      <unit id="BSBADV503B" title="Coordinate advertising research"/>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBADV509A" title="Create mass print media advertisements"/>
+      <unit id="BSBADV510A" title="Create mass electronic media advertisements"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBMKG409A" title="Design direct response offers"/>
+      <unit id="BSBMKG412A" title="Conduct e-marketing communications"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBPUB401A" title="Develop and apply knowledge of public relations industry"/>
+      <unit id="BSBPUB402A" title="Develop public relations campaigns"/>
+      <unit id="BSBPUB403A" title="Develop public relations documents"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+      <unit id="CUFWRT401A" title="Edit texts"/>
+      <unit id="CUFWRT402A" title="Write extended stories"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41107" title="Certificate IV in International Trade">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM405A" title="Promote compliance with legislation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINT401B" title="Research international business opportunities"/>
+      <unit id="BSBINT405B" title="Apply knowledge of import and export international conventions, laws and finance"/>
+      <unit id="BSBINT407B" title="Prepare business advice on export Free on Board Value"/>
+      <unit id="BSBINT408B" title="Prepare business advice on the taxes and duties for international trade transactions"/>
+      <unit id="BSBINT409B" title="Plan for international trade"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT404A" title="Lead and facilitate off site staff"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL403A" title="Implement international client relationship strategies"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40812" title="Certificate IV in Frontline Management">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT404A" title="Lead and facilitate off site staff"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41707" title="Certificate IV in Recordkeeping">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMED401B" title="Manage patient record keeping system"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG401B" title="Review the status of a record"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRKG403C" title="Set up a business or records system for a small business"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40312" title="Certificate IV in Customer Contact">
+    <units>
+      <unit id="BSBCCO403A" title="Schedule customer contact activity"/>
+      <unit id="BSBCCO404A" title="Collect, analyse and record information"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCCO406A" title="Run a multicentre"/>
+      <unit id="BSBCCO407A" title="Administer customer contact technology"/>
+      <unit id="BSBCOM401B" title="Organise and monitor the operation of compliance management system"/>
+      <unit id="BSBCOM402B" title="Implement processes for the management of a breach in compliance requirements"/>
+      <unit id="BSBCOM403B" title="Provide education and training on compliance requirements and systems"/>
+      <unit id="BSBCOM404B" title="Promote and liaise on compliance requirements, systems and related issues"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT405A" title="Provide personal leadership"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBPMG411A" title="Apply project quality-management techniques"/>
+      <unit id="BSBPMG415A" title="Apply project risk-management techniques"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR403A" title="Manage stress in the workplace"/>
+      <unit id="CHCINF505D" title="Meet statutory and organisation information requirements"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB40707" title="Certificate IV in Franchising">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFRA301B" title="Work within a franchise"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBFRA402B" title="Establish a franchise"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBFRA404B" title="Manage a multiple site franchise"/>
+      <unit id="BSBIPR405A" title="Protect and use intangible assets in small business"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41307" title="Certificate IV in Marketing">
+    <units>
+      <unit id="BSBADV405A" title="Perform media calculations"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINT401B" title="Research international business opportunities"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBMKG409A" title="Design direct response offers"/>
+      <unit id="BSBMKG410A" title="Test direct marketing activities"/>
+      <unit id="BSBMKG411A" title="Analyse direct marketing databases"/>
+      <unit id="BSBMKG412A" title="Conduct e-marketing communications"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBPUB401A" title="Develop and apply knowledge of public relations industry"/>
+      <unit id="BSBPUB402A" title="Develop public relations campaigns"/>
+      <unit id="BSBPUB403A" title="Develop public relations documents"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSLS407A" title="Identify and plan sales prospects"/>
+      <unit id="BSBSLS408A" title="Present, secure and support sales solutions"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41807" title="Certificate IV in Unionism and Industrial Relations">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWRK401A" title="Develop and implement an organising plan"/>
+      <unit id="BSBWRK402A" title="Empower workers"/>
+      <unit id="BSBWRK403A" title="Communicate with workers"/>
+      <unit id="BSBWRK404A" title="Promote equality of opportunity and fair treatment for all workers"/>
+      <unit id="BSBWRK405A" title="Promote union values, principles and policies"/>
+      <unit id="BSBWRK406A" title="Participate in the bargaining process"/>
+      <unit id="BSBWRK407A" title="Provide advice to union members"/>
+      <unit id="BSBWRK408A" title="Undertake negotiations"/>
+      <unit id="BSBWRK409A" title="Prepare for and participate in dispute resolution"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41607" title="Certificate IV in Purchasing">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBPUR403B" title="Conduct international purchasing"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC412A" title="Develop and distribute requests for offers"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41013" title="Certificate IV in Human Resources">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBEMS401B" title="Develop and implement business development strategies to expand client base"/>
+      <unit id="BSBEMS402B" title="Develop and implement strategies to source and assess candidates"/>
+      <unit id="BSBEMS403B" title="Develop and provide employment management services to candidates"/>
+      <unit id="BSBEMS404B" title="Manage the recruitment process for client organisations"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM403B" title="Support performance-management processes"/>
+      <unit id="BSBHRM404A" title="Review human resources functions"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU401A" title="Design and develop complex text documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRK411A" title="Support employee and industrial relations procedures"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB41910" title="Certificate IV in Business (Governance)">
+    <units>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBATSIC412A" title="Maintain and protect cultural values in the organisation"/>
+      <unit id="BSBATSIL408C" title="Manage a board meeting"/>
+      <unit id="BSBATSIL411A" title="Undertake the roles and responsibilities of a board member"/>
+      <unit id="BSBATSIL412A" title="Participate effectively as a board member"/>
+      <unit id="BSBATSIL413A" title="Review and apply the constitution"/>
+      <unit id="BSBATSIM414C" title="Oversee the organisation's annual budget"/>
+      <unit id="BSBATSIM416A" title="Oversee organisational planning"/>
+      <unit id="BSBATSIM417A" title="Implement organisational plans"/>
+      <unit id="BSBATSIM418A" title="Oversee financial management"/>
+      <unit id="BSBATSIM419A" title="Contribute to the development and implementation of organisational policies"/>
+      <unit id="BSBATSIM420A" title="Oversee asset management"/>
+      <unit id="BSBATSIM421A" title="Support a positive and culturally appropriate workplace culture"/>
+      <unit id="BSBATSIW416C" title="Obtain and manage consultancy services"/>
+      <unit id="BSBATSIW417C" title="Select and use technology"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB40907" title="Certificate IV in Governance">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV402A" title="Work within organisational structure"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBPMG416A" title="Apply project procurement procedures"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB41513" title="Certificate IV in Project Management Practice">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBLEG415A" title="Apply the principles of contract law"/>
+      <unit id="BSBPMG409A" title="Apply project scope-management techniques"/>
+      <unit id="BSBPMG410A" title="Apply project time-management techniques"/>
+      <unit id="BSBPMG411A" title="Apply project quality-management techniques"/>
+      <unit id="BSBPMG412A" title="Apply project cost-management techniques"/>
+      <unit id="BSBPMG413A" title="Apply project human resources management approaches"/>
+      <unit id="BSBPMG414A" title="Apply project information management and communications techniques"/>
+      <unit id="BSBPMG415A" title="Apply project risk-management techniques"/>
+      <unit id="BSBPMG416A" title="Apply project procurement procedures"/>
+      <unit id="BSBPMG417A" title="Apply project life cycle management processes"/>
+      <unit id="BSBPMG418A" title="Apply project stakeholder engagement techniques"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="CPPDSM4047A" title="Implement and monitor procurement process"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB50407" title="Diploma of Business Administration">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM503B" title="Plan and manage conferences"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB50807" title="Diploma of International Business">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIA501A" title="Report on finances related to international business"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG511A" title="Analyse data from international markets"/>
+      <unit id="BSBMKG512A" title="Forecast international market and business needs"/>
+      <unit id="BSBMKG513A" title="Promote products and services to international markets"/>
+      <unit id="BSBMKG516B" title="Profile international markets"/>
+      <unit id="BSBMKG517A" title="Analyse consumer behaviour for specific international markets"/>
+      <unit id="BSBPMG511A" title="Manage project scope"/>
+      <unit id="BSBPMG512A" title="Manage project time"/>
+      <unit id="BSBPMG513A" title="Manage project quality"/>
+      <unit id="BSBPMG514A" title="Manage project cost"/>
+      <unit id="BSBPMG515A" title="Manage project human resources"/>
+      <unit id="BSBPMG516A" title="Manage project information and communication"/>
+      <unit id="BSBPMG517A" title="Manage project risk"/>
+      <unit id="BSBPMG518A" title="Manage project procurement"/>
+      <unit id="BSBPMG521A" title="Manage project integration"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBREL501A" title="Build international client relationships"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB50507" title="Diploma of Franchising">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFRA501B" title="Establish a franchise operation"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBFRA503B" title="Manage establishment of new sites or regions"/>
+      <unit id="BSBFRA504B" title="Manage relationships with franchisees"/>
+      <unit id="BSBFRA505B" title="Manage closure of a franchise"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB50107" title="Diploma of Advertising">
+    <units>
+      <unit id="BSBADV503B" title="Coordinate advertising research"/>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBADV509A" title="Create mass print media advertisements"/>
+      <unit id="BSBADV510A" title="Create mass electronic media advertisements"/>
+      <unit id="BSBADV602B" title="Develop an advertising campaign"/>
+      <unit id="BSBADV603B" title="Manage advertising production"/>
+      <unit id="BSBADV604B" title="Execute an advertising campaign"/>
+      <unit id="BSBADV605B" title="Evaluate campaign effectiveness"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG506B" title="Plan market research"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG508A" title="Plan direct marketing activities"/>
+      <unit id="BSBMKG509A" title="Implement and monitor direct marketing activities"/>
+      <unit id="BSBMKG510B" title="Plan e-marketing communications"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG515A" title="Conduct a marketing audit"/>
+      <unit id="BSBMKG520A" title="Manage compliance within the marketing legislative framework"/>
+      <unit id="BSBMKG522A" title="Plan measurement of marketing effectiveness"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBPUB501A" title="Manage the public relations publication process"/>
+      <unit id="BSBPUB502A" title="Develop and manage complex public relations campaigns"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBPUB504A" title="Develop and implement crisis management plans"/>
+      <unit id="BSBREL501A" title="Build international client relationships"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB51413" title="Diploma of Project Management">
+    <units>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG511A" title="Manage project scope"/>
+      <unit id="BSBPMG512A" title="Manage project time"/>
+      <unit id="BSBPMG513A" title="Manage project quality"/>
+      <unit id="BSBPMG514A" title="Manage project cost"/>
+      <unit id="BSBPMG515A" title="Manage project human resources"/>
+      <unit id="BSBPMG516A" title="Manage project information and communication"/>
+      <unit id="BSBPMG517A" title="Manage project risk"/>
+      <unit id="BSBPMG518A" title="Manage project procurement"/>
+      <unit id="BSBPMG519A" title="Manage project stakeholder engagement"/>
+      <unit id="BSBPMG520A" title="Manage project governance"/>
+      <unit id="BSBPMG521A" title="Manage project integration"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS506A" title="Contribute to developing, implementing and maintaining WHS management systems"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="ICAICT511A" title="Match IT needs with the strategic direction of the enterprise"/>
+      <unit id="ICAICT515A" title="Verify client business requirements"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB50311" title="Diploma of Customer Contact">
+    <units>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBCCO403A" title="Schedule customer contact activity"/>
+      <unit id="BSBCCO407A" title="Administer customer contact technology"/>
+      <unit id="BSBCCO501B" title="Develop business continuity strategy"/>
+      <unit id="BSBCCO502A" title="Establish a multicentre"/>
+      <unit id="BSBCCO503A" title="Manage data interrogation"/>
+      <unit id="BSBCCO504A" title="Integrate customer contact operations in the organisation"/>
+      <unit id="BSBCCO601B" title="Optimise customer contact operations"/>
+      <unit id="BSBCCO602B" title="Manage customer contact information"/>
+      <unit id="BSBCCO603B" title="Design and launch new customer contact facilities"/>
+      <unit id="BSBCCO604B" title="Develop and maintain a service level strategy"/>
+      <unit id="BSBCCO605B" title="Develop and maintain a customer contact marketing strategy"/>
+      <unit id="BSBCCO606B" title="Forecast and plan using customer contact traffic information analysis"/>
+      <unit id="BSBCCO607B" title="Manage customer contact centre staffing"/>
+      <unit id="BSBCCO608B" title="Manage customer contact operational costs"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCOM601B" title="Research compliance requirements and issues"/>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBHRM503B" title="Manage performance management systems"/>
+      <unit id="BSBHRM604A" title="Manage employee relations"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITA601A" title="Configure and optimise customer contact technology"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBLED701A" title="Lead personal and strategic transformation"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT618A" title="Develop a contact centre business plan"/>
+      <unit id="BSBMKG610A" title="Develop, implement and monitor a marketing campaign"/>
+      <unit id="BSBPUB504A" title="Develop and implement crisis management plans"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR403A" title="Manage stress in the workplace"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB51312" title="Diploma of Work Health and Safety">
+    <units>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS408A" title="Assist with effective WHS management of contractors"/>
+      <unit id="BSBWHS409A" title="Assist with workplace monitoring processes"/>
+      <unit id="BSBWHS410A" title="Contribute to work-related health and safety measures and initiatives"/>
+      <unit id="BSBWHS502A" title="Manage effective WHS consultation and participation processes"/>
+      <unit id="BSBWHS503A" title="Contribute to the systematic management of WHS risk"/>
+      <unit id="BSBWHS504A" title="Manage WHS hazards and risks"/>
+      <unit id="BSBWHS505A" title="Investigate WHS incidents"/>
+      <unit id="BSBWHS506A" title="Contribute to developing, implementing and maintaining WHS management systems"/>
+      <unit id="BSBWHS507A" title="Contribute to managing WHS information systems"/>
+      <unit id="BSBWHS508A" title="Manage WHS hazards associated with plant"/>
+      <unit id="BSBWHS509A" title="Facilitate the development and use of hazard-management tools"/>
+      <unit id="BSBWHS510A" title="Contribute to implementing emergency procedures"/>
+      <unit id="CHCFAM504C" title="Respond to and contain critical incidents"/>
+      <unit id="PUAWER003B" title="Manage and monitor workplace emergency procedures, equipment and other resources"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB51607" title="Diploma of Quality Auditing">
+    <units>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="BSBAUD504B" title="Report on a quality audit"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG513A" title="Manage project quality"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB51207" title="Diploma of Marketing">
+    <units>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBFIA501A" title="Report on finances related to international business"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMKG409A" title="Design direct response offers"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG506B" title="Plan market research"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG508A" title="Plan direct marketing activities"/>
+      <unit id="BSBMKG509A" title="Implement and monitor direct marketing activities"/>
+      <unit id="BSBMKG510B" title="Plan e-marketing communications"/>
+      <unit id="BSBMKG511A" title="Analyse data from international markets"/>
+      <unit id="BSBMKG512A" title="Forecast international market and business needs"/>
+      <unit id="BSBMKG513A" title="Promote products and services to international markets"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG515A" title="Conduct a marketing audit"/>
+      <unit id="BSBMKG516B" title="Profile international markets"/>
+      <unit id="BSBMKG517A" title="Analyse consumer behaviour for specific international markets"/>
+      <unit id="BSBMKG518A" title="Plan and implement services marketing"/>
+      <unit id="BSBMKG519A" title="Plan and implement business-to-business marketing"/>
+      <unit id="BSBMKG520A" title="Manage compliance within the marketing legislative framework"/>
+      <unit id="BSBMKG521A" title="Plan and implement sponsorship and event marketing"/>
+      <unit id="BSBMKG522A" title="Plan measurement of marketing effectiveness"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBPUB501A" title="Manage the public relations publication process"/>
+      <unit id="BSBPUB502A" title="Develop and manage complex public relations campaigns"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBPUB504A" title="Develop and implement crisis management plans"/>
+      <unit id="BSBREL501A" title="Build international client relationships"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB51507" title="Diploma of Purchasing">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPUR501C" title="Develop, implement and review purchasing strategies"/>
+      <unit id="BSBPUR502B" title="Manage supplier relationships"/>
+      <unit id="BSBPUR503C" title="Manage international purchasing"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="PSPPROC503B" title="Manage contract performance"/>
+      <unit id="PSPPROC504B" title="Finalise contracts"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB51807" title="Diploma of Unionism and Industrial Relations">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM512A" title="Develop and manage performance-management processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBPUB504A" title="Develop and implement crisis management plans"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK405A" title="Promote union values, principles and policies"/>
+      <unit id="BSBWRK501A" title="Develop, manage and review campaigns and projects"/>
+      <unit id="BSBWRK502A" title="Represent the union in key forums"/>
+      <unit id="BSBWRK503A" title="Coordinate case preparation and research"/>
+      <unit id="BSBWRK504A" title="Advocate and present cases for members"/>
+      <unit id="BSBWRK505A" title="Develop, implement and manage union policy"/>
+      <unit id="BSBWRK506A" title="Coordinate research and analysis"/>
+      <unit id="BSBWRK507A" title="Apply strategic unionism"/>
+      <unit id="BSBWRK508A" title="Manage and oversee bargaining"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB50710" title="Diploma of Business (Governance)">
+    <units>
+      <unit id="BSBATSIC412A" title="Maintain and protect cultural values in the organisation"/>
+      <unit id="BSBATSIC511A" title="Plan and conduct a community meeting"/>
+      <unit id="BSBATSIL411A" title="Undertake the roles and responsibilities of a board member"/>
+      <unit id="BSBATSIL503C" title="Manage conflict"/>
+      <unit id="BSBATSIL510A" title="Appoint and work with a manager"/>
+      <unit id="BSBATSIL511A" title="Lead the organisation's strategic planning cycle"/>
+      <unit id="BSBATSIL512A" title="Be a leader in the community"/>
+      <unit id="BSBATSIM505C" title="Control organisational finances"/>
+      <unit id="BSBATSIM506C" title="Develop employment policies"/>
+      <unit id="BSBATSIM511C" title="Develop enterprise opportunities"/>
+      <unit id="BSBATSIM514A" title="Recruit and induct staff"/>
+      <unit id="BSBATSIW514C" title="Represent your organisation"/>
+      <unit id="BSBATSIW515C" title="Secure funding"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="PSPGOV507A" title="Undertake negotiations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB51107" title="Diploma of Management">
+    <units>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBDIV501A" title="Manage diversity in the workplace"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBHRM511A" title="Manage expatriate staff"/>
+      <unit id="BSBHRM512A" title="Develop and manage performance-management processes"/>
+      <unit id="BSBHRM513A" title="Manage workforce planning"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT406A" title="Plan and monitor continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK510A" title="Manage employee relations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB50110" title="Diploma of Legal Services">
+    <units>
+      <unit id="BSBCMM501A" title="Develop and nurture relationships"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBLED503A" title="Maintain and enhance professional practice"/>
+      <unit id="BSBLEG510A" title="Apply legal principles in family law matters"/>
+      <unit id="BSBLEG511A" title="Apply legal principles in criminal law matters"/>
+      <unit id="BSBLEG512A" title="Apply legal principles in property law matters"/>
+      <unit id="BSBLEG513A" title="Apply legal principles in corporation law matters"/>
+      <unit id="BSBLEG514A" title="Assist with civil procedure"/>
+      <unit id="BSBLEG515A" title="Apply legal principles in wills and probate matters"/>
+      <unit id="BSBRES502A" title="Research legal information using secondary sources"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB50613" title="Diploma of Human Resources Management">
+    <units>
+      <unit id="BSBDIV501A" title="Manage diversity in the workplace"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM501B" title="Manage human resources services"/>
+      <unit id="BSBHRM502A" title="Manage human resources management information systems"/>
+      <unit id="BSBHRM505B" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBHRM507A" title="Manage separation or termination"/>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBHRM510A" title="Manage mediation processes"/>
+      <unit id="BSBHRM511A" title="Manage expatriate staff"/>
+      <unit id="BSBHRM512A" title="Develop and manage performance-management processes"/>
+      <unit id="BSBHRM513A" title="Manage workforce planning"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWHS506A" title="Contribute to developing, implementing and maintaining WHS management systems"/>
+      <unit id="BSBWRK510A" title="Manage employee relations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB50207" title="Diploma of Business">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM503B" title="Plan and manage conferences"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBADV503B" title="Coordinate advertising research"/>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBADV509A" title="Create mass print media advertisements"/>
+      <unit id="BSBADV510A" title="Create mass electronic media advertisements"/>
+      <unit id="BSBCON601B" title="Develop and maintain business continuity plans"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM501B" title="Manage human resources services"/>
+      <unit id="BSBHRM502A" title="Manage human resources management information systems"/>
+      <unit id="BSBHRM505B" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBHRM507A" title="Manage separation or termination"/>
+      <unit id="BSBHRM509A" title="Manage rehabilitation or return to work programs"/>
+      <unit id="BSBHRM510A" title="Manage mediation processes"/>
+      <unit id="BSBHRM513A" title="Manage workforce planning"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG506B" title="Plan market research"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG508A" title="Plan direct marketing activities"/>
+      <unit id="BSBMKG509A" title="Implement and monitor direct marketing activities"/>
+      <unit id="BSBMKG510B" title="Plan e-marketing communications"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG515A" title="Conduct a marketing audit"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBPUB501A" title="Manage the public relations publication process"/>
+      <unit id="BSBPUB502A" title="Develop and manage complex public relations campaigns"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBPUB504A" title="Develop and implement crisis management plans"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB51707" title="Diploma of Recordkeeping">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM506B" title="Manage business document design and development"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRKG505B" title="Document or reconstruct a business or records system"/>
+      <unit id="BSBRKG506A" title="Develop and maintain terminology and classification schemes"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB60110" title="Advanced Diploma of Advertising">
+    <units>
+      <unit id="BSBADV602B" title="Develop an advertising campaign"/>
+      <unit id="BSBADV603B" title="Manage advertising production"/>
+      <unit id="BSBADV604B" title="Execute an advertising campaign"/>
+      <unit id="BSBADV605B" title="Evaluate campaign effectiveness"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBHRM602B" title="Manage human resources strategic planning"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBMKG611A" title="Manage measurement of marketing effectiveness"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB60207" title="Advanced Diploma of Business">
+    <units>
+      <unit id="BSBADV602B" title="Develop an advertising campaign"/>
+      <unit id="BSBADV603B" title="Manage advertising production"/>
+      <unit id="BSBADV604B" title="Execute an advertising campaign"/>
+      <unit id="BSBADV605B" title="Evaluate campaign effectiveness"/>
+      <unit id="BSBCON701A" title="Establish and review the business continuity management framework and strategies"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBHRM602B" title="Manage human resources strategic planning"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBIPR601A" title="Develop and implement strategies for intellectual property management"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB60407" title="Advanced Diploma of Management">
+    <units>
+      <unit id="BSBCCO601B" title="Optimise customer contact operations"/>
+      <unit id="BSBCCO602B" title="Manage customer contact information"/>
+      <unit id="BSBCCO603B" title="Design and launch new customer contact facilities"/>
+      <unit id="BSBCCO604B" title="Develop and maintain a service level strategy"/>
+      <unit id="BSBCCO605B" title="Develop and maintain a customer contact marketing strategy"/>
+      <unit id="BSBCCO606B" title="Forecast and plan using customer contact traffic information analysis"/>
+      <unit id="BSBCCO607B" title="Manage customer contact centre staffing"/>
+      <unit id="BSBCCO608B" title="Manage customer contact operational costs"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBIPR601A" title="Develop and implement strategies for intellectual property management"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBRKG601B" title="Define recordkeeping framework"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB60507" title="Advanced Diploma of Marketing">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG520A" title="Manage compliance within the marketing legislative framework"/>
+      <unit id="BSBMKG523A" title="Design and develop an integrated marketing communication plan"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBMKG611A" title="Manage measurement of marketing effectiveness"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB60807" title="Advanced Diploma of Recordkeeping">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBRKG601B" title="Define recordkeeping framework"/>
+      <unit id="BSBRKG603B" title="Prepare a functional analysis for an organisation"/>
+      <unit id="BSBRKG604B" title="Determine security and access rules and procedures"/>
+      <unit id="BSBRKG605B" title="Determine records requirements to document a function"/>
+      <unit id="BSBRKG606B" title="Design a records retention and disposal schedule"/>
+      <unit id="BSBRKG607B" title="Document and monitor the record creating context"/>
+      <unit id="BSBRKG608B" title="Plan management of records over time"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BSB60907" title="Advanced Diploma of Management (HumanResources)">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBDIV601A" title="Develop and implement diversity policy"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBHRM602B" title="Manage human resources strategic planning"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBRKG601B" title="Define recordkeeping framework"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPPROC607A" title="Manage strategic contracts"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BSB60707" title="Advanced Diploma of Project Management">
+    <units>
+      <unit id="BSBPMG601A" title="Direct the integration of projects"/>
+      <unit id="BSBPMG602A" title="Direct the scope of a project program"/>
+      <unit id="BSBPMG603A" title="Direct time management of a project program"/>
+      <unit id="BSBPMG604A" title="Direct cost management of a project program"/>
+      <unit id="BSBPMG605A" title="Direct quality management of a project program"/>
+      <unit id="BSBPMG606A" title="Direct human resources management of a project program"/>
+      <unit id="BSBPMG607A" title="Direct communications management of a project program"/>
+      <unit id="BSBPMG608A" title="Direct risk management of a project program"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+    </units>
+  </qualification>
+  <qualification id="BSB60612" title="Advanced Diploma of Work Health and Safety">
+    <units>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBWHS601A" title="Apply legislative frameworks for WHS"/>
+      <unit id="BSBWHS602A" title="Facilitate WHS activities"/>
+      <unit id="BSBWHS603A" title="Implement WHS risk management"/>
+      <unit id="BSBWHS604A" title="Evaluate the WHS performance of organisations"/>
+      <unit id="BSBWHS605A" title="Develop, implement and maintain WHS management systems"/>
+      <unit id="BSBWHS606A" title="Conduct a WHS audit"/>
+      <unit id="BSBWHS607A" title="Apply ergonomics to manage WHS hazards and risks"/>
+      <unit id="BSBWHS608A" title="Assist with applying occupational hygiene to manage WHS hazards and risks"/>
+      <unit id="BSBWHS609A" title="Advise on the application of safe design principles to control WHS risks"/>
+      <unit id="CHCORG501B" title="Facilitate workplace change and innovation"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

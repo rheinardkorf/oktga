@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<qualifications class="CSC01">
+  <qualification id="CSC20101" title="Certificate II in Justice Services">
+    <units/>
+  </qualification>
+  <qualification id="CSC30301" title="Certificate III in Correctional Practice (Community)">
+    <units/>
+  </qualification>
+  <qualification id="CSC30201" title="Certificate III in Correctional Practice (Custodial)">
+    <units/>
+  </qualification>
+  <qualification id="CSC30101" title="Certificate III in Correctional Practice">
+    <units/>
+  </qualification>
+  <qualification id="CSC40101" title="Certificate IV in Correctional Practice">
+    <units/>
+  </qualification>
+  <qualification id="CSC40301" title="Certificate IV in Correctional Practice (Community)">
+    <units/>
+  </qualification>
+  <qualification id="CSC40201" title="Certificate IV in Correctional Practice (Custodial)">
+    <units/>
+  </qualification>
+  <qualification id="CSC50101" title="Diploma of Correctional Administration">
+    <units/>
+  </qualification>
+  <qualification id="CSC60101" title="Advanced Diploma of Correctional Management">
+    <units/>
+  </qualification>
+</qualifications>

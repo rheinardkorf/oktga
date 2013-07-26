@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<qualifications class="WRF04">
+  <qualification id="WRF20104" title="Certificate II in Floristry">
+    <units>
+      <unit id="RTC2016A" title="Recognise plants"/>
+      <unit id="RTF2008A" title="Maintain indoor plants"/>
+      <unit id="RTF2024A" title="Tend nursery plants"/>
+      <unit id="WRFO205A" title="Apply techniques to update floristry industry knowledge"/>
+    </units>
+  </qualification>
+  <qualification id="WRF30104" title="Certificate III in Floristry">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBEBUS304A" title="Buy online"/>
+      <unit id="BSBEBUS308A" title="Maintain online business records"/>
+      <unit id="RTC2016A" title="Recognise plants"/>
+      <unit id="RTF2008A" title="Maintain indoor plants"/>
+      <unit id="RTF2024A" title="Tend nursery plants"/>
+      <unit id="RTF3020A" title="Install and maintain interior plant displays"/>
+      <unit id="WRFO205A" title="Apply techniques to update floristry industry knowledge"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRO15A" title="Acquire and retain online customers"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRF40104" title="Certificate IV in Floristry">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBEBUS304A" title="Buy online"/>
+      <unit id="BSBEBUS308A" title="Maintain online business records"/>
+      <unit id="BSBMKG404A" title="Forecast market and business needs"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="RTC2016A" title="Recognise plants"/>
+      <unit id="RTF2008A" title="Maintain indoor plants"/>
+      <unit id="RTF2024A" title="Tend nursery plants"/>
+      <unit id="RTF3020A" title="Install and maintain interior plant displays"/>
+      <unit id="RTF4001A" title="Design plant displays"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="WRFD405A" title="Design and manage large scale floral events"/>
+      <unit id="WRFD406A" title="Create floral designs to competition specifications"/>
+      <unit id="WRFO205A" title="Apply techniques to update floristry industry knowledge"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRO10A" title="Create an innovative work environment"/>
+      <unit id="WRRO11A" title="Set up systems that support innovation"/>
+      <unit id="WRRO12A" title="Select an e-business model"/>
+      <unit id="WRRO13A" title="Adopt mobile commerce applications to improve sales and service"/>
+      <unit id="WRRO15A" title="Acquire and retain online customers"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+      <unit id="WRRO9A" title="Lead a team to foster innovation"/>
+      <unit id="WRRPM1B" title="Administer human resources policy"/>
+      <unit id="WRRPM2B" title="Recruit and select personnel"/>
+      <unit id="WRRPM3B" title="Lead and manage people"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,672 @@
+<?xml version="1.0"?>
+<qualifications class="THT02">
+  <qualification id="THT10102" title="Certificate I in Tourism (Australian Indigenous Culture)">
+    <units/>
+  </qualification>
+  <qualification id="THT20502" title="Certificate II in Tourism (Operations)">
+    <units>
+      <unit id="FDFCDSCPTA" title="Conduct a product tasting (standard)"/>
+      <unit id="FDFCDSEWA" title="Evaluate wines (standard)"/>
+      <unit id="FDFCDSEWAA" title="Evaluate wines (advanced)"/>
+      <unit id="FDFCDSPTA" title="Prepare for a product tasting"/>
+      <unit id="FDFCDSWT1A" title="Promote wine tourism information"/>
+      <unit id="SRXEVT007A" title="Manage spectators at an event or program"/>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THHADFB02B" title="Provide specialist advice on wine"/>
+      <unit id="THHADFB08A" title="Manage wine for a wine outlet"/>
+      <unit id="THHBFB04B" title="Provide table service of alcoholic beverages"/>
+      <unit id="THHBFB09B" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB11B" title="Develop and update food and beverage knowledge"/>
+      <unit id="THHGCS05B" title="Organise in-house functions"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFAT02B" title="Monitor entry to venue"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFAT04B" title="Operate a ride location"/>
+      <unit id="THTFAT05B" title="Load and unload a ride"/>
+      <unit id="THTFAT06B" title="Maintain safety in water-based rides"/>
+      <unit id="THTFAT07B" title="Supervise ride operations"/>
+      <unit id="THTFAT08B" title="Operate a games location"/>
+      <unit id="THTFAT09B" title="Spruik at a games location"/>
+      <unit id="THTFAT10B" title="Operate animal enclosure/exhibit"/>
+      <unit id="THTFAT11B" title="Provide general animal care"/>
+      <unit id="THTFAT12B" title="Rescue animals"/>
+      <unit id="THTFAT13B" title="Provide customers with information on animals"/>
+      <unit id="THTFAT14B" title="Co-ordinate &amp; monitor animal care"/>
+      <unit id="THTFAT15B" title="Train and condition animals"/>
+      <unit id="THTFAT16B" title="Supervise animal enclosures/exhibits"/>
+      <unit id="THTFAT17B" title="Manage animal enclosures/exhibits"/>
+      <unit id="THTFME01B" title="Coordinate guest and delegate registrations at venue"/>
+      <unit id="THTFME02B" title="Provide on site event management services"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME08A" title="Integrate technology into the event management process"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD08B" title="Plan and develop event proposals and bids"/>
+      <unit id="THTPPD09B" title="Develop conference programs"/>
+      <unit id="THTPPD10B" title="Develop and implement sponsorship plans"/>
+      <unit id="THTSOP01B" title="Operate an automated information system"/>
+      <unit id="THTSOP02B" title="Source and provide destination information and advice"/>
+      <unit id="THTSOP03B" title="Access and interpret product information"/>
+      <unit id="THTSOP04B" title="Sell tourism products and services"/>
+      <unit id="THTSOP05B" title="Prepare quotations"/>
+      <unit id="THTSOP06B" title="Receive and process reservations"/>
+      <unit id="THTSOP07B" title="Book and co-ordinate supplier services"/>
+      <unit id="THTSOP08B" title="Operate a computerised reservations system"/>
+      <unit id="THTSOP09B" title="Process non-air documentation"/>
+      <unit id="THTSOP13B" title="Apply advanced airfare rules and procedures"/>
+      <unit id="THTSOP14B" title="Administer billing and settlement plan"/>
+      <unit id="THTSOP15B" title="Process and monitor event registrations"/>
+      <unit id="THTSOP16B" title="Maintain a product inventory"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+      <unit id="THTSOP18A" title="Process air documentation"/>
+      <unit id="THTSOP19A" title="Construct domestic airfares"/>
+      <unit id="THTSOP20A" title="Construct normal international airfares"/>
+      <unit id="THTSOP21A" title="Construct promotional international airfares"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT30202" title="Certificate III in Tourism (Retail Travel Sales)">
+    <units/>
+  </qualification>
+  <qualification id="THT30902" title="Certificate III in Tourism (Guiding)">
+    <units>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT30602" title="Certificate III in Tourism (Visitor Information Services)">
+    <units/>
+  </qualification>
+  <qualification id="THT30702" title="Certificate III in Tourism (Attractions and Theme Parks)">
+    <units/>
+  </qualification>
+  <qualification id="THT30302" title="Certificate III in Tourism (International Retail Travel Sales)">
+    <units/>
+  </qualification>
+  <qualification id="THT30102" title="Certificate III in Meetings and Events">
+    <units/>
+  </qualification>
+  <qualification id="THT30502" title="Certificate III in Tourism (Tour Wholesaling)">
+    <units/>
+  </qualification>
+  <qualification id="THT31002" title="Certificate III in Tourism (Operations)">
+    <units>
+      <unit id="FDFCDSCPTA" title="Conduct a product tasting (standard)"/>
+      <unit id="FDFCDSEWA" title="Evaluate wines (standard)"/>
+      <unit id="FDFCDSEWAA" title="Evaluate wines (advanced)"/>
+      <unit id="FDFCDSPTA" title="Prepare for a product tasting"/>
+      <unit id="FDFCDSWT1A" title="Promote wine tourism information"/>
+      <unit id="SRXEVT007A" title="Manage spectators at an event or program"/>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THHADFB02B" title="Provide specialist advice on wine"/>
+      <unit id="THHADFB08A" title="Manage wine for a wine outlet"/>
+      <unit id="THHBFB04B" title="Provide table service of alcoholic beverages"/>
+      <unit id="THHBFB09B" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB11B" title="Develop and update food and beverage knowledge"/>
+      <unit id="THHGCS05B" title="Organise in-house functions"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFAT02B" title="Monitor entry to venue"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFAT04B" title="Operate a ride location"/>
+      <unit id="THTFAT05B" title="Load and unload a ride"/>
+      <unit id="THTFAT06B" title="Maintain safety in water-based rides"/>
+      <unit id="THTFAT07B" title="Supervise ride operations"/>
+      <unit id="THTFAT08B" title="Operate a games location"/>
+      <unit id="THTFAT09B" title="Spruik at a games location"/>
+      <unit id="THTFAT10B" title="Operate animal enclosure/exhibit"/>
+      <unit id="THTFAT11B" title="Provide general animal care"/>
+      <unit id="THTFAT12B" title="Rescue animals"/>
+      <unit id="THTFAT13B" title="Provide customers with information on animals"/>
+      <unit id="THTFAT14B" title="Co-ordinate &amp; monitor animal care"/>
+      <unit id="THTFAT15B" title="Train and condition animals"/>
+      <unit id="THTFAT16B" title="Supervise animal enclosures/exhibits"/>
+      <unit id="THTFAT17B" title="Manage animal enclosures/exhibits"/>
+      <unit id="THTFME01B" title="Coordinate guest and delegate registrations at venue"/>
+      <unit id="THTFME02B" title="Provide on site event management services"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME08A" title="Integrate technology into the event management process"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD08B" title="Plan and develop event proposals and bids"/>
+      <unit id="THTPPD09B" title="Develop conference programs"/>
+      <unit id="THTPPD10B" title="Develop and implement sponsorship plans"/>
+      <unit id="THTSOP01B" title="Operate an automated information system"/>
+      <unit id="THTSOP02B" title="Source and provide destination information and advice"/>
+      <unit id="THTSOP03B" title="Access and interpret product information"/>
+      <unit id="THTSOP04B" title="Sell tourism products and services"/>
+      <unit id="THTSOP05B" title="Prepare quotations"/>
+      <unit id="THTSOP06B" title="Receive and process reservations"/>
+      <unit id="THTSOP07B" title="Book and co-ordinate supplier services"/>
+      <unit id="THTSOP08B" title="Operate a computerised reservations system"/>
+      <unit id="THTSOP09B" title="Process non-air documentation"/>
+      <unit id="THTSOP13B" title="Apply advanced airfare rules and procedures"/>
+      <unit id="THTSOP14B" title="Administer billing and settlement plan"/>
+      <unit id="THTSOP15B" title="Process and monitor event registrations"/>
+      <unit id="THTSOP16B" title="Maintain a product inventory"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+      <unit id="THTSOP18A" title="Process air documentation"/>
+      <unit id="THTSOP19A" title="Construct domestic airfares"/>
+      <unit id="THTSOP20A" title="Construct normal international airfares"/>
+      <unit id="THTSOP21A" title="Construct promotional international airfares"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT40402" title="Certificate IV in Tourism (Natural and Cultural Heritage)">
+    <units>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+    </units>
+  </qualification>
+  <qualification id="THT40202" title="Certificate IV in Tourism (Operations)">
+    <units>
+      <unit id="FDFCDSCPTA" title="Conduct a product tasting (standard)"/>
+      <unit id="FDFCDSEWA" title="Evaluate wines (standard)"/>
+      <unit id="FDFCDSEWAA" title="Evaluate wines (advanced)"/>
+      <unit id="FDFCDSPTA" title="Prepare for a product tasting"/>
+      <unit id="FDFCDSWT1A" title="Promote wine tourism information"/>
+      <unit id="SRXEVT007A" title="Manage spectators at an event or program"/>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THHADFB02B" title="Provide specialist advice on wine"/>
+      <unit id="THHADFB08A" title="Manage wine for a wine outlet"/>
+      <unit id="THHBFB04B" title="Provide table service of alcoholic beverages"/>
+      <unit id="THHBFB09B" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB11B" title="Develop and update food and beverage knowledge"/>
+      <unit id="THHGCS01B" title="Develop and update local knowledge"/>
+      <unit id="THHGCS02B" title="Promote products and services to customers"/>
+      <unit id="THHGCS03B" title="Deal with conflict situations"/>
+      <unit id="THHGCS04B" title="Make presentations"/>
+      <unit id="THHGCS05B" title="Organise in-house functions"/>
+      <unit id="THHGCS06B" title="Plan and implement sales activities"/>
+      <unit id="THHGCS07B" title="Coordinate marketing activities"/>
+      <unit id="THHGCS08B" title="Establish and conduct business relationships"/>
+      <unit id="THHGLE11B" title="Manage quality customer service"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFAT02B" title="Monitor entry to venue"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFAT04B" title="Operate a ride location"/>
+      <unit id="THTFAT05B" title="Load and unload a ride"/>
+      <unit id="THTFAT06B" title="Maintain safety in water-based rides"/>
+      <unit id="THTFAT07B" title="Supervise ride operations"/>
+      <unit id="THTFAT08B" title="Operate a games location"/>
+      <unit id="THTFAT09B" title="Spruik at a games location"/>
+      <unit id="THTFAT10B" title="Operate animal enclosure/exhibit"/>
+      <unit id="THTFAT11B" title="Provide general animal care"/>
+      <unit id="THTFAT12B" title="Rescue animals"/>
+      <unit id="THTFAT13B" title="Provide customers with information on animals"/>
+      <unit id="THTFAT14B" title="Co-ordinate &amp; monitor animal care"/>
+      <unit id="THTFAT15B" title="Train and condition animals"/>
+      <unit id="THTFAT16B" title="Supervise animal enclosures/exhibits"/>
+      <unit id="THTFAT17B" title="Manage animal enclosures/exhibits"/>
+      <unit id="THTFME01B" title="Coordinate guest and delegate registrations at venue"/>
+      <unit id="THTFME02B" title="Provide on site event management services"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME08A" title="Integrate technology into the event management process"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD01B" title="Create and implement strategic product development initiatives"/>
+      <unit id="THTPPD02B" title="Research tourism data"/>
+      <unit id="THTPPD03B" title="Source and package tourism products and services"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD06B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="THTPPD07B" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="THTPPD08B" title="Plan and develop event proposals and bids"/>
+      <unit id="THTPPD09B" title="Develop conference programs"/>
+      <unit id="THTPPD10B" title="Develop and implement sponsorship plans"/>
+      <unit id="THTPPD12B" title="Develop host community awareness of tourism"/>
+      <unit id="THTPPD13B" title="Assess tourism opportunities for local communities"/>
+      <unit id="THTPPD14B" title="Develop and implement local/regional tourism plan"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+      <unit id="THTSMA02B" title="Create a promotional display/stand"/>
+      <unit id="THTSOP01B" title="Operate an automated information system"/>
+      <unit id="THTSOP02B" title="Source and provide destination information and advice"/>
+      <unit id="THTSOP03B" title="Access and interpret product information"/>
+      <unit id="THTSOP04B" title="Sell tourism products and services"/>
+      <unit id="THTSOP05B" title="Prepare quotations"/>
+      <unit id="THTSOP06B" title="Receive and process reservations"/>
+      <unit id="THTSOP07B" title="Book and co-ordinate supplier services"/>
+      <unit id="THTSOP08B" title="Operate a computerised reservations system"/>
+      <unit id="THTSOP09B" title="Process non-air documentation"/>
+      <unit id="THTSOP13B" title="Apply advanced airfare rules and procedures"/>
+      <unit id="THTSOP14B" title="Administer billing and settlement plan"/>
+      <unit id="THTSOP15B" title="Process and monitor event registrations"/>
+      <unit id="THTSOP16B" title="Maintain a product inventory"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+      <unit id="THTSOP18A" title="Process air documentation"/>
+      <unit id="THTSOP19A" title="Construct domestic airfares"/>
+      <unit id="THTSOP20A" title="Construct normal international airfares"/>
+      <unit id="THTSOP21A" title="Construct promotional international airfares"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT40302" title="Certificate IV in Tourism (Guiding)">
+    <units>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT40102" title="Certificate IV in Tourism (Sales &amp; Marketing)">
+    <units/>
+  </qualification>
+  <qualification id="THT50302" title="Diploma of Tourism (Operations Management)">
+    <units>
+      <unit id="FDFCDSCPTA" title="Conduct a product tasting (standard)"/>
+      <unit id="FDFCDSEWA" title="Evaluate wines (standard)"/>
+      <unit id="FDFCDSEWAA" title="Evaluate wines (advanced)"/>
+      <unit id="FDFCDSPTA" title="Prepare for a product tasting"/>
+      <unit id="FDFCDSWT1A" title="Promote wine tourism information"/>
+      <unit id="SRXEVT007A" title="Manage spectators at an event or program"/>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THHADFB02B" title="Provide specialist advice on wine"/>
+      <unit id="THHADFB08A" title="Manage wine for a wine outlet"/>
+      <unit id="THHBFB04B" title="Provide table service of alcoholic beverages"/>
+      <unit id="THHBFB09B" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB11B" title="Develop and update food and beverage knowledge"/>
+      <unit id="THHGCS01B" title="Develop and update local knowledge"/>
+      <unit id="THHGCS02B" title="Promote products and services to customers"/>
+      <unit id="THHGCS03B" title="Deal with conflict situations"/>
+      <unit id="THHGCS04B" title="Make presentations"/>
+      <unit id="THHGCS05B" title="Organise in-house functions"/>
+      <unit id="THHGCS06B" title="Plan and implement sales activities"/>
+      <unit id="THHGCS07B" title="Coordinate marketing activities"/>
+      <unit id="THHGCS08B" title="Establish and conduct business relationships"/>
+      <unit id="THHGLE11B" title="Manage quality customer service"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFAT02B" title="Monitor entry to venue"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFAT04B" title="Operate a ride location"/>
+      <unit id="THTFAT05B" title="Load and unload a ride"/>
+      <unit id="THTFAT06B" title="Maintain safety in water-based rides"/>
+      <unit id="THTFAT07B" title="Supervise ride operations"/>
+      <unit id="THTFAT08B" title="Operate a games location"/>
+      <unit id="THTFAT09B" title="Spruik at a games location"/>
+      <unit id="THTFAT10B" title="Operate animal enclosure/exhibit"/>
+      <unit id="THTFAT11B" title="Provide general animal care"/>
+      <unit id="THTFAT12B" title="Rescue animals"/>
+      <unit id="THTFAT13B" title="Provide customers with information on animals"/>
+      <unit id="THTFAT14B" title="Co-ordinate &amp; monitor animal care"/>
+      <unit id="THTFAT15B" title="Train and condition animals"/>
+      <unit id="THTFAT16B" title="Supervise animal enclosures/exhibits"/>
+      <unit id="THTFAT17B" title="Manage animal enclosures/exhibits"/>
+      <unit id="THTFME01B" title="Coordinate guest and delegate registrations at venue"/>
+      <unit id="THTFME02B" title="Provide on site event management services"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME08A" title="Integrate technology into the event management process"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD01B" title="Create and implement strategic product development initiatives"/>
+      <unit id="THTPPD02B" title="Research tourism data"/>
+      <unit id="THTPPD03B" title="Source and package tourism products and services"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD06B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="THTPPD07B" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="THTPPD08B" title="Plan and develop event proposals and bids"/>
+      <unit id="THTPPD09B" title="Develop conference programs"/>
+      <unit id="THTPPD10B" title="Develop and implement sponsorship plans"/>
+      <unit id="THTPPD12B" title="Develop host community awareness of tourism"/>
+      <unit id="THTPPD13B" title="Assess tourism opportunities for local communities"/>
+      <unit id="THTPPD14B" title="Develop and implement local/regional tourism plan"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+      <unit id="THTSMA02B" title="Create a promotional display/stand"/>
+      <unit id="THTSOP01B" title="Operate an automated information system"/>
+      <unit id="THTSOP02B" title="Source and provide destination information and advice"/>
+      <unit id="THTSOP03B" title="Access and interpret product information"/>
+      <unit id="THTSOP04B" title="Sell tourism products and services"/>
+      <unit id="THTSOP05B" title="Prepare quotations"/>
+      <unit id="THTSOP06B" title="Receive and process reservations"/>
+      <unit id="THTSOP07B" title="Book and co-ordinate supplier services"/>
+      <unit id="THTSOP08B" title="Operate a computerised reservations system"/>
+      <unit id="THTSOP09B" title="Process non-air documentation"/>
+      <unit id="THTSOP13B" title="Apply advanced airfare rules and procedures"/>
+      <unit id="THTSOP14B" title="Administer billing and settlement plan"/>
+      <unit id="THTSOP15B" title="Process and monitor event registrations"/>
+      <unit id="THTSOP16B" title="Maintain a product inventory"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+      <unit id="THTSOP18A" title="Process air documentation"/>
+      <unit id="THTSOP19A" title="Construct domestic airfares"/>
+      <unit id="THTSOP20A" title="Construct normal international airfares"/>
+      <unit id="THTSOP21A" title="Construct promotional international airfares"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT50202" title="Diploma of Event Management">
+    <units/>
+  </qualification>
+  <qualification id="THT50203" title="Diploma of Event Management">
+    <units/>
+  </qualification>
+  <qualification id="THT50102" title="Diploma of Tourism (Marketing and Product Development)">
+    <units>
+      <unit id="THHGCS01B" title="Develop and update local knowledge"/>
+      <unit id="THHGCS02B" title="Promote products and services to customers"/>
+      <unit id="THHGCS03B" title="Deal with conflict situations"/>
+      <unit id="THHGCS04B" title="Make presentations"/>
+      <unit id="THHGCS06B" title="Plan and implement sales activities"/>
+      <unit id="THHGCS07B" title="Coordinate marketing activities"/>
+      <unit id="THHGCS08B" title="Establish and conduct business relationships"/>
+      <unit id="THHGGA08B" title="Plan and establish systems and procedures"/>
+      <unit id="THHGGA09B" title="Manage projects"/>
+      <unit id="THHGLE01B" title="Monitor work operations"/>
+      <unit id="THHGLE02B" title="Implement workplace health, safety and security procedures"/>
+      <unit id="THHGLE03B" title="Develop and implement operational plans"/>
+      <unit id="THHGLE04B" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="THHGLE05B" title="Roster staff"/>
+      <unit id="THHGLE06B" title="Monitor staff performance"/>
+      <unit id="THHGLE07B" title="Recruit and select staff"/>
+      <unit id="THHGLE08B" title="Lead and manage people"/>
+      <unit id="THHGLE09B" title="Manage workplace diversity"/>
+      <unit id="THHGLE10B" title="Manage workplace relations"/>
+      <unit id="THHGLE11B" title="Manage quality customer service"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE13B" title="Manage finances within a budget"/>
+      <unit id="THHGLE14B" title="Prepare and monitor budgets"/>
+      <unit id="THHGLE15B" title="Manage financial operations"/>
+      <unit id="THHGLE16B" title="Manage physical assets"/>
+      <unit id="THHGLE17B" title="Manage and purchase stock"/>
+      <unit id="THHGLE18B" title="Monitor and maintain computer systems"/>
+      <unit id="THHGLE19B" title="Develop and implement a business plan"/>
+      <unit id="THHGLE20B" title="Develop and update the legal knowledge required for business compliance"/>
+      <unit id="THHGLE21B" title="Provide mentoring support to business colleagues"/>
+      <unit id="THHGLE22A" title="Manage risk"/>
+      <unit id="THTPPD01B" title="Create and implement strategic product development initiatives"/>
+      <unit id="THTPPD02B" title="Research tourism data"/>
+      <unit id="THTPPD03B" title="Source and package tourism products and services"/>
+      <unit id="THTPPD06B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="THTPPD07B" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="THTPPD12B" title="Develop host community awareness of tourism"/>
+      <unit id="THTPPD13B" title="Assess tourism opportunities for local communities"/>
+      <unit id="THTPPD14B" title="Develop and implement local/regional tourism plan"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+      <unit id="THTSMA02B" title="Create a promotional display/stand"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="THT60102" title="Advanced Diploma of Tourism Management">
+    <units>
+      <unit id="FDFCDSCPTA" title="Conduct a product tasting (standard)"/>
+      <unit id="FDFCDSEWA" title="Evaluate wines (standard)"/>
+      <unit id="FDFCDSEWAA" title="Evaluate wines (advanced)"/>
+      <unit id="FDFCDSPTA" title="Prepare for a product tasting"/>
+      <unit id="FDFCDSWT1A" title="Promote wine tourism information"/>
+      <unit id="SRXEVT007A" title="Manage spectators at an event or program"/>
+      <unit id="TDTB397B" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TDTC197B" title="Drive vehicle"/>
+      <unit id="TDTC897B" title="Drive coach/bus"/>
+      <unit id="THHADFB02B" title="Provide specialist advice on wine"/>
+      <unit id="THHADFB08A" title="Manage wine for a wine outlet"/>
+      <unit id="THHBFB04B" title="Provide table service of alcoholic beverages"/>
+      <unit id="THHBFB09B" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB11B" title="Develop and update food and beverage knowledge"/>
+      <unit id="THHGCS01B" title="Develop and update local knowledge"/>
+      <unit id="THHGCS02B" title="Promote products and services to customers"/>
+      <unit id="THHGCS03B" title="Deal with conflict situations"/>
+      <unit id="THHGCS04B" title="Make presentations"/>
+      <unit id="THHGCS05B" title="Organise in-house functions"/>
+      <unit id="THHGCS06B" title="Plan and implement sales activities"/>
+      <unit id="THHGCS07B" title="Coordinate marketing activities"/>
+      <unit id="THHGCS08B" title="Establish and conduct business relationships"/>
+      <unit id="THHGLE11B" title="Manage quality customer service"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFAT02B" title="Monitor entry to venue"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFAT04B" title="Operate a ride location"/>
+      <unit id="THTFAT05B" title="Load and unload a ride"/>
+      <unit id="THTFAT06B" title="Maintain safety in water-based rides"/>
+      <unit id="THTFAT07B" title="Supervise ride operations"/>
+      <unit id="THTFAT08B" title="Operate a games location"/>
+      <unit id="THTFAT09B" title="Spruik at a games location"/>
+      <unit id="THTFAT10B" title="Operate animal enclosure/exhibit"/>
+      <unit id="THTFAT11B" title="Provide general animal care"/>
+      <unit id="THTFAT12B" title="Rescue animals"/>
+      <unit id="THTFAT13B" title="Provide customers with information on animals"/>
+      <unit id="THTFAT14B" title="Co-ordinate &amp; monitor animal care"/>
+      <unit id="THTFAT15B" title="Train and condition animals"/>
+      <unit id="THTFAT16B" title="Supervise animal enclosures/exhibits"/>
+      <unit id="THTFAT17B" title="Manage animal enclosures/exhibits"/>
+      <unit id="THTFME01B" title="Coordinate guest and delegate registrations at venue"/>
+      <unit id="THTFME02B" title="Provide on site event management services"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME04A" title="Develop an event concept"/>
+      <unit id="THTFME05A" title="Select event venues and sites"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME08A" title="Integrate technology into the event management process"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+      <unit id="THTFTG02B" title="Offer arrival and departure assistance"/>
+      <unit id="THTFTG03B" title="Develop and maintain the general knowledge required by guides"/>
+      <unit id="THTFTG04B" title="Coordinate and operate a tour"/>
+      <unit id="THTFTG05B" title="Lead tour groups"/>
+      <unit id="THTFTG06B" title="Prepare and present tour commentaries or activities"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG11B" title="Manage extended touring programs"/>
+      <unit id="THTFTG12A" title="Prepare specialised interpretive content (flora, fauna and landscape)"/>
+      <unit id="THTFTG13A" title="Prepare specialised interpretive content (marine environments)"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTFTO01B" title="Conduct pre-departure checks"/>
+      <unit id="THTFTO02B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="THTFTO03B" title="Set up and operate a campsite"/>
+      <unit id="THTFTO04B" title="Provide campsite catering"/>
+      <unit id="THTFTO05B" title="Operate tours in a remote area"/>
+      <unit id="THTPPD01B" title="Create and implement strategic product development initiatives"/>
+      <unit id="THTPPD02B" title="Research tourism data"/>
+      <unit id="THTPPD03B" title="Source and package tourism products and services"/>
+      <unit id="THTPPD04B" title="Plan and implement minimal impact operations"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD06B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="THTPPD07B" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="THTPPD08B" title="Plan and develop event proposals and bids"/>
+      <unit id="THTPPD09B" title="Develop conference programs"/>
+      <unit id="THTPPD10B" title="Develop and implement sponsorship plans"/>
+      <unit id="THTPPD12B" title="Develop host community awareness of tourism"/>
+      <unit id="THTPPD13B" title="Assess tourism opportunities for local communities"/>
+      <unit id="THTPPD14B" title="Develop and implement local/regional tourism plan"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+      <unit id="THTSMA02B" title="Create a promotional display/stand"/>
+      <unit id="THTSOP01B" title="Operate an automated information system"/>
+      <unit id="THTSOP02B" title="Source and provide destination information and advice"/>
+      <unit id="THTSOP03B" title="Access and interpret product information"/>
+      <unit id="THTSOP04B" title="Sell tourism products and services"/>
+      <unit id="THTSOP05B" title="Prepare quotations"/>
+      <unit id="THTSOP06B" title="Receive and process reservations"/>
+      <unit id="THTSOP07B" title="Book and co-ordinate supplier services"/>
+      <unit id="THTSOP08B" title="Operate a computerised reservations system"/>
+      <unit id="THTSOP09B" title="Process non-air documentation"/>
+      <unit id="THTSOP13B" title="Apply advanced airfare rules and procedures"/>
+      <unit id="THTSOP14B" title="Administer billing and settlement plan"/>
+      <unit id="THTSOP15B" title="Process and monitor event registrations"/>
+      <unit id="THTSOP16B" title="Maintain a product inventory"/>
+      <unit id="THTSOP17B" title="Allocate tour resources"/>
+      <unit id="THTSOP18A" title="Process air documentation"/>
+      <unit id="THTSOP19A" title="Construct domestic airfares"/>
+      <unit id="THTSOP20A" title="Construct normal international airfares"/>
+      <unit id="THTSOP21A" title="Construct promotional international airfares"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<skillsets class="ICT10">
+  <skillset id="ICTSS00021" title="Advanced Cabler Registration Skill Set">
+    <units>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00003" title="Advanced ICT Sustainability Skill Set">
+    <units>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00004" title="Advanced Telecommunications Rigging Installation Skill Set">
+    <units>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTTCR3062A" title="Build a telecommunications radio structure"/>
+      <unit id="ICTTCR3191A" title="Install radio plant and equipment on telecommunications structures"/>
+      <unit id="ICTTCR3192A" title="Protect against electromagnetic radiation and system hazards when working on telecommunications radio sites"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00005" title="Basic ICT Sustainability Skill Set">
+    <units>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00022" title="Basic Open Cabler Registration Skill Set">
+    <units>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00023" title="Basic Restricted Cabler Registration Skill Set">
+    <units>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCMP2239A" title="Perform restricted customer premises broadband cabling work: ACMA Restricted Rule"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00006" title="Basic Telecommunications Rigging Installation Skill Set">
+    <units>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTTCR2188A" title="Use rigging practices and systems on telecommunications network structures"/>
+      <unit id="ICTTCR2189A" title="Use operational safety in a telecommunications rigging environment"/>
+      <unit id="ICTTCR2190A" title="Use safe rigging practices to climb and perform rescues on telecommunications network structures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00024" title="Civil Works &#x2013; Installation of Pit and Pipe and FDH Skill Set">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTPMG2130A" title="Prepare site for support installation"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00009" title="Commercial Digital Television Antenna Systems Installation Skill Set">
+    <units>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTDRE3165A" title="Install a complex digital reception system"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00010" title="Convergent Technology installations for home and SME Skill Set">
+    <units>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00025" title="Designer Skill Set">
+    <units>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTNPL4108A" title="Plan the deployment of access network architectures"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00012" title="Domestic Digital Television Antenna Installation Skill Set">
+    <units>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00026" title="ICT Access Senior Designer Skill Set">
+    <units>
+      <unit id="ICTPMG6034A" title="Prepare a detailed design brief"/>
+      <unit id="ICTTEN5037A" title="Design a telecommunications project"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00030" title="ICT Sustainabillity Planning Skill Set">
+    <units>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="ICTSUS7236A" title="Manage improvements in ICT sustainability"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00015" title="Installing NBN Wireless and infrastructure Skill Set">
+    <units>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00016" title="IP Convergence installations for home and SME Skill Set">
+    <units>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2207A" title="Install and configure a home or small office network"/>
+      <unit id="ICTTEN2208A" title="Install and configure a small to medium business network"/>
+      <unit id="ICTTEN2209A" title="Build and maintain a secure network"/>
+      <unit id="ICTTEN2218A" title="Operate new media software packages"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00027" title="National Broadband Network Advanced Linesworker/Installer Skill Set">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00028" title="National Broadband Network Splicer Skill Set">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL3240A" title="Install ribbon fibre cable in the FTTX distribution network"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00029" title="Plan FTTP Access Network Skill Set">
+    <units>
+      <unit id="ICTNPL4151A" title="Plan the telecommunications access network for an estate"/>
+      <unit id="ICTOPN4117A" title="Prepare activity plans and specifications for a fibre to the x installation"/>
+      <unit id="ICTWOR4032A" title="Undertake a civil site survey"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00017" title="Radio Technician Skill Set">
+    <units>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3155A" title="Construct and test a radio communications device"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00018" title="Satellite Digital Television Antenna Installation Skill Set">
+    <units>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00019" title="Technical Help Desk Support Skill Set">
+    <units>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICTWOR3231A" title="Resolve technical enquiries using multiple information systems"/>
+      <unit id="ICTWOR3232A" title="Collect and analyse technical information"/>
+    </units>
+  </skillset>
+  <skillset id="ICTSS00020" title="Wireless LAN and IP Network installation Skill Set">
+    <units>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+      <unit id="ICANWK417A" title="Build an enterprise wireless network"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+    </units>
+  </skillset>
+</skillsets>

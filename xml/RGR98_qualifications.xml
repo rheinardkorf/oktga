@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<qualifications class="RGR98">
+  <qualification id="RGR10399" title="Certificate I in Racing (Greyhound)">
+    <units/>
+  </qualification>
+  <qualification id="RGR10299" title="Certificate I in Racing (Standardbred)">
+    <units/>
+  </qualification>
+  <qualification id="RGR10199" title="Certificate I in Racing (Thoroughbred)">
+    <units/>
+  </qualification>
+  <qualification id="RGR20398" title="Certificate II in Racing (Greyhound) - Kennelhand Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR20298" title="Certificate II in Racing (Standardbred) - Stablehand Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR20198" title="Certificate II in Racing (Thoroughbred) - Stablehand Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR30598" title="Certificate III in Racing (Greyhound) - Kennelhand Level 2">
+    <units/>
+  </qualification>
+  <qualification id="RGR30398" title="Certificate III in Racing (Standardbred) - Stablehand Level 2">
+    <units/>
+  </qualification>
+  <qualification id="RGR30198" title="Certificate III in Racing (Thoroughbred) - Stablehand Level 2">
+    <units/>
+  </qualification>
+  <qualification id="RGR30498" title="Certificate III in Racing (Standardbred) - Track Work Driver">
+    <units/>
+  </qualification>
+  <qualification id="RGR30298" title="Certificate III in Racing (Thoroughbred) - Track Work Rider">
+    <units/>
+  </qualification>
+  <qualification id="RGR40398" title="Certificate IV in Racing (Standardbred) - Harness Driver">
+    <units/>
+  </qualification>
+  <qualification id="RGR40598" title="Certificate IV in Racing (Greyhound) - Greyhound Trainer Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR40498" title="Certificate IV in Racing (Standardbred) - Harness Trainer Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR40298" title="Certificate IV in Racing (Thoroughbred) - Thoroughbred Trainer Level 1">
+    <units/>
+  </qualification>
+  <qualification id="RGR40198" title="Certificate IV in Racing (Thoroughbred) - Jockey">
+    <units/>
+  </qualification>
+  <qualification id="RGR50198" title="Diploma of Racing (Thoroughbred) - Thoroughbred Trainer Level 2">
+    <units/>
+  </qualification>
+  <qualification id="RGR50398" title="Diploma of Racing (Greyhound) - Greyhound Trainer Level 2">
+    <units/>
+  </qualification>
+  <qualification id="RGR50298" title="Diploma of Racing Standardbred) - Harness Trainer Level 2">
+    <units/>
+  </qualification>
+</qualifications>

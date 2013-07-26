@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<skillsets class="HLT07">
+  <skillset id="HLTSS00001" title="Allied health assistance - community rehabilitation skill set">
+    <units>
+      <unit id="HLTCR401C" title="Work effectively in community rehabilitation"/>
+      <unit id="HLTCR402C" title="Support client daily living requirements in a community rehabilitation context"/>
+      <unit id="HLTCR403C" title="Support community access and participation"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00002" title="Allied health assistance - nutrition and dietetics skill set">
+    <units>
+      <unit id="HLTAH301C" title="Assist with an allied health program"/>
+      <unit id="HLTAH409C" title="Conduct group sessions for individual client outcomes"/>
+      <unit id="HLTAH415C" title="Assist with the screening of dietary requirements and special diets"/>
+      <unit id="HLTAH420C" title="Support the provision of basic nutrition advice-educati"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00003" title="Allied health assistance - occupational therapy skill set">
+    <units>
+      <unit id="HLTAH301B" title="Assist with an allied health program"/>
+      <unit id="HLTAH407C" title="Assist with the rehabilitation of clients"/>
+      <unit id="HLTAH408C" title="Assist with the development and maintenance of client functional status"/>
+      <unit id="HLTAH409B" title="Conduct group sessions for individual client outcomes"/>
+      <unit id="HLTAH414B" title="Support the fitting of assistive devices"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00004" title="Allied health assistance - physiotherapy skill set">
+    <units>
+      <unit id="HLTAH301C" title="Assist with an allied health program"/>
+      <unit id="HLTAH401C" title="Deliver and monitor a client-specific exercise program"/>
+      <unit id="HLTAH402C" title="Assist with physiotherapy treatments and interventions"/>
+      <unit id="HLTAH403C" title="Deliver and monitor exercise program for mobility"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00005" title="Allied health assistance - podiatry skill set">
+    <units>
+      <unit id="HLTAH301C" title="Assist with an allied health program"/>
+      <unit id="HLTAH404C" title="Assist with basic foot hygiene"/>
+      <unit id="HLTAH405C" title="Assist with podiatric procedures"/>
+      <unit id="HLTAH406C" title="Assist with podiatry assessment and exercise"/>
+      <unit id="HLTIN302C" title="Process reusable instruments and equipment in health work"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00006" title="Allied health assistance - speech pathology skill set">
+    <units>
+      <unit id="HLTAH301B" title="Assist with an allied health program"/>
+      <unit id="HLTAH410B" title="Support the development of speech and communication skills"/>
+      <unit id="HLTAH411B" title="Provide support in dysphagia management"/>
+      <unit id="HLTAH412B" title="Assist and support the use of augmentative and alternative communication systems"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00007" title="Aromatherapy skill set">
+    <units>
+      <unit id="HLTARO401C" title="Work within an aromatherapy framework"/>
+      <unit id="HLTARO402B" title="Plan aromatherapy treatment"/>
+      <unit id="HLTARO403B" title="Provide aromatherapy treatment"/>
+      <unit id="HLTARO405B" title="Apply aromatherapy assessment framework"/>
+      <unit id="HLTARO406B" title="Perform aromatherapy health assessment"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00008" title="Audiometry skill set">
+    <units>
+      <unit id="HLTAU402D" title="Conduct screening hearing tests for industrial hearing loss"/>
+      <unit id="HLTAU403D" title="Conduct hearing assessments"/>
+      <unit id="HLTAU501D" title="Conduct screening hearing tests for children"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00009" title="Client safety skill set">
+    <units>
+      <unit id="HLTHIR501C" title="Maintain an effective health work environment"/>
+      <unit id="HLTHIR505D" title="Provide leadership in promoting effective work practices in health"/>
+      <unit id="HLTHIR506C" title="Implement and monitor compliance with legal and ethical requirements"/>
+      <unit id="HLTHIR601B" title="Develop and implement strategies to enhance client safety"/>
+      <unit id="HLTWHS501A" title="Manage workplace WHS processes"/>
+      <unit id="HLTWHS601A" title="Improve workplace WHS processes"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00010" title="Clinical coding skill set">
+    <units>
+      <unit id="HLTCC301B" title="Produce coded clinical data"/>
+      <unit id="HLTCC401B" title="Undertake complex clinical coding"/>
+      <unit id="HLTCC402B" title="Complete highly complex clinical coding"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00011" title="Dental radiography skill set">
+    <units>
+      <unit id="HLTDA410D" title="Apply the principles of radiation biology and protection in dental practice"/>
+      <unit id="HLTDA411D" title="Prepare to expose a prescribed dental radiographic image"/>
+      <unit id="HLTDA412D" title="Produce a dental radiographic image"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00012" title="Ear and hearing health skills set - Aboriginal and-or Torres Strait Islander primary health care pathway">
+    <units>
+      <unit id="HLTAHW418B" title="Provide information and strategies in hearing and ear health"/>
+      <unit id="HLTAU402D" title="Conduct screening hearing tests for industrial hearing loss"/>
+      <unit id="HLTAU501D" title="Conduct screening hearing tests for children"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00013" title="Food safety supervision skill set - for community services and health industries">
+    <units>
+      <unit id="HLTFS207C" title="Follow basic food safety practices"/>
+      <unit id="HLTFS309C" title="Oversee the day-to-day implementation of food safety in the workplace"/>
+      <unit id="HLTFS310C" title="Apply and monitor food safety requirements"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00014" title="Infection control skill set">
+    <units>
+      <unit id="HLTIN402C" title="Maintain infection control standards in office practice settings"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00015" title="Nutrition support skill set - for Aboriginal and_or Torres Strait Islander communities">
+    <units>
+      <unit id="HLTAHW407B" title="Provide nutrition guidance for specific health care"/>
+      <unit id="HLTAHW411B" title="Plan, develop and evaluate health promotion for Aboriginal and/or Torres Strait Islander communities"/>
+      <unit id="HLTAHW412B" title="Provide information and strategies to promote nutrition for good health"/>
+      <unit id="HLTAHW429B" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAHW512B" title="Address impact of food supply on community health"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00016" title="Optical process work skill set">
+    <units>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="HLTOPT401C" title="Perform technical procedures for the production of ophthalmic appliances"/>
+      <unit id="HLTOPT404C" title="Implement good manufacturing processes in the ophthalmic industry"/>
+      <unit id="HLTOPT406B" title="Edge and fit ophthalmic appliances"/>
+      <unit id="HLTOPT407C" title="Apply surface coatings to ophthalmic lenses"/>
+      <unit id="HLTWHS300A" title="Contribute to WHS processes"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00017" title="Oral health care skill set - personal client support (health)">
+    <units>
+      <unit id="CHCICS301A" title="Provide support to meet personal care needs"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406A" title="Provide or assist with oral hygiene"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00018" title="Oral health care skill set - to work with Aboriginal and_or Torres Strait Islander people">
+    <units>
+      <unit id="CHCOHC303A" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC404A" title="Recognise and respond to signs and symptoms that may indicate oral health issues"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00019" title="Oral health care skill set - to work with aged care clients">
+    <units>
+      <unit id="CHCAC318B" title="Work effectively with older people"/>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="CHCOHC303A" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406A" title="Provide or assist with oral hygiene"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00020" title="Oral health care skill set - to work with people with disability">
+    <units>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCOHC303A" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406A" title="Provide or assist with oral hygiene"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00021" title="Oral health information skill set">
+    <units>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCOHC401A" title="Inform and encourage clients and groups to understand and achieve good oral health"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00022" title="Reflexology skill set">
+    <units>
+      <unit id="HLTREF501B" title="Work within a reflexology framework"/>
+      <unit id="HLTREF502C" title="Prepare for a reflexology treatment"/>
+      <unit id="HLTREF503C" title="Provide reflexology treatment"/>
+      <unit id="HLTREF504B" title="Monitor and evaluate reflexology treatments"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00023" title="Renal care skill set - Aboriginal and_or Torres Strait Islander primary health care (practice) pathway">
+    <units>
+      <unit id="HLTAHW406B" title="Work with medicines"/>
+      <unit id="HLTAHW606B" title="Manage medicines in Aboriginal and/or Torres Strait Islander health care"/>
+      <unit id="HLTRNL601C" title="Support the client with chronic kidney disease"/>
+      <unit id="HLTRNL602C" title="Provide support and management of the client undergoing peritoneal dialysis therapy"/>
+      <unit id="HLTRNL603C" title="Provide care and support to client in renal replacement therapy in community setting"/>
+      <unit id="HLTRNL604C" title="Provide support and management of the client undergoing haemodialysis therapy"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00024" title="Renal care skill set - Enrolled_Division 2 nursing pathway">
+    <units>
+      <unit id="HLTEN519C" title="Administer and monitor intravenous medication in the nursing environment"/>
+      <unit id="HLTRNL601C" title="Support the client with chronic kidney disease"/>
+      <unit id="HLTRNL602C" title="Provide support and management of the client undergoing peritoneal dialysis therapy"/>
+      <unit id="HLTRNL603C" title="Provide care and support to client in renal replacement therapy in community setting"/>
+      <unit id="HLTRNL604C" title="Provide support and management of the client undergoing haemodialysis therapy"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00025" title="X-ray operation skill set- Queensland">
+    <units>
+      <unit id="HLTTEC301D" title="Operate X-Ray machine"/>
+      <unit id="HLTTEC302D" title="Use X-Ray support equipment"/>
+      <unit id="HLTTEC303D" title="Operate X-Ray film processor"/>
+      <unit id="HLTTEC304D" title="Perform X-Ray examination"/>
+      <unit id="HLTTEC305D" title="Maintain records for X-Ray operation"/>
+    </units>
+  </skillset>
+</skillsets>

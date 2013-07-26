@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<qualifications class="AVI08">
+  <qualification id="AVI10108" title="Certificate I in Aviation (Foundation Skills)">
+    <units>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+      <unit id="PRMCL04B" title="Maintain a carpeted floor"/>
+      <unit id="PRMCL17B" title="Clean a wet area"/>
+      <unit id="PRMCL37A" title="Clean external surfaces"/>
+      <unit id="PRMCL38A" title="Clean a food handling area"/>
+      <unit id="TLIA107C" title="Secure cargo"/>
+      <unit id="TLIB2407B" title="Clean transportation units and facilities for passenger use"/>
+      <unit id="TLIB2807B" title="Maintain and use hand tools"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLID107C" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID207C" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLIE307C" title="Participate in basic workplace communication"/>
+      <unit id="TLIE507C" title="Carry out basic workplace calculations"/>
+      <unit id="TLIF107C" title="Follow occupational health and safety procedures"/>
+      <unit id="TLIF207C" title="Conduct housekeeping activities"/>
+      <unit id="TLIF907C" title="Conduct cleaning operations in enclosed spaces"/>
+      <unit id="TLIG107C" title="Work effectively with others"/>
+      <unit id="TLII207D" title="Apply customer service skills"/>
+      <unit id="TLIL107C" title="Complete workplace orientation/induction procedures"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AVI20512" title="Certificate II in Aviation Transport Protection">
+    <units>
+      <unit id="AVIC2001A" title="Drive on the airside"/>
+      <unit id="AVIE2005A" title="Conduct radio procedures in the aviation airport environment"/>
+      <unit id="AVIF2020A" title="Employ fatigue management practices in the aviation workplace"/>
+      <unit id="AVIF2023A" title="Follow occupational health and safety procedures"/>
+      <unit id="AVIF2024A" title="Conduct housekeeping activities"/>
+      <unit id="AVIG2002A" title="Work effectively in the aviation industry"/>
+      <unit id="AVIG2003A" title="Work in a socially diverse environment"/>
+      <unit id="AVII3011B" title="Provide quality customer service"/>
+      <unit id="AVIK2001A" title="Use computers in the aviation screening workplace"/>
+      <unit id="AVIL2005A" title="Complete routine administrative tasks"/>
+      <unit id="AVIL2006A" title="Promote effective workplace practice"/>
+      <unit id="AVIO2004A" title="Conduct frisk search of persons"/>
+      <unit id="AVIO2005A" title="Conduct screening using Explosive Trace Detection (ETD)"/>
+      <unit id="AVIO2006A" title="Control access to and exit from an airside security zone or landside security zone at an airport"/>
+      <unit id="AVIO2007A" title="Establish and maintain a sterile area at an airport"/>
+      <unit id="AVIO2008A" title="Manage the flow of items for screening by X-ray screening equipment"/>
+      <unit id="AVIO2009A" title="Screen articles by interpreting X-ray images"/>
+      <unit id="AVIO2010A" title="Screen articles to enter an airside security zone or landside security zone"/>
+      <unit id="AVIO2011A" title="Screen people to enter an airside security zone or landside security zone"/>
+      <unit id="AVIO2012A" title="Follow security procedures"/>
+      <unit id="AVIO2013A" title="Undertake emergency response action to a security threat"/>
+      <unit id="AVIO2014A" title="Manage disruptive and or unlawful behaviour"/>
+      <unit id="AVIO2015A" title="Apply and monitor workplace security procedures"/>
+      <unit id="AVIO4003A" title="Implement airside access"/>
+      <unit id="AVIP2001A" title="Capture records into a records keeping system"/>
+      <unit id="AVIZ2050A" title="Maintain security awareness and vigilance in the aviation workplace"/>
+      <unit id="CPPSEC1007A" title="Apply walk through metal detection procedures"/>
+      <unit id="CPPSEC1008A" title="Apply hand-held metal detection procedures"/>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2004A" title="Respond to security risk situation"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CPPSEC2014A" title="Operate basic security equipment"/>
+      <unit id="CPPSEC2015A" title="Patrol premises"/>
+      <unit id="CPPSEC2018A" title="Monitor electronic reporting facility"/>
+      <unit id="CPPSEC3001A" title="Maintain workplace safety in the security industry"/>
+      <unit id="CPPSEC3002A" title="Manage conflict through negotiation"/>
+      <unit id="CPPSEC3003A" title="Determine response to security risk situation"/>
+      <unit id="CPPSEC3005A" title="Prepare and present security documentation and reports"/>
+      <unit id="CPPSEC3007A" title="Maintain security of environment"/>
+      <unit id="CPPSEC3017A" title="Plan and conduct evacuation of premises"/>
+      <unit id="CPPSEC3019A" title="Operate specialised security equipment"/>
+      <unit id="CPPSEC3020A" title="Monitor security from control room"/>
+      <unit id="TLIC1051A" title="Operate commercial vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI20408" title="Certificate II in Aviation (Ground Operations and Service)">
+    <units>
+      <unit id="AVIC2001A" title="Drive on the airside"/>
+      <unit id="AVID2001B" title="Accept dangerous goods for air transport"/>
+      <unit id="AVID2003B" title="Prepare freight for flight"/>
+      <unit id="AVID2004B" title="Conduct aviation freight weighing operations"/>
+      <unit id="AVID2005B" title="Accept freight for air transport"/>
+      <unit id="AVID2006A" title="Load and secure aviation freight and baggage"/>
+      <unit id="AVID2007A" title="Unload aviation freight and baggage"/>
+      <unit id="AVIF2007B" title="Implement regulations and policies during check-in procedures"/>
+      <unit id="AVIF2012A" title="Monitor the transfer of hazardous materials"/>
+      <unit id="AVIF2019A" title="Work in aircraft confined spaces"/>
+      <unit id="AVII2007B" title="Check in aircraft passengers"/>
+      <unit id="AVII2008B" title="Provide assistance to transit and arriving passengers"/>
+      <unit id="AVII2014B" title="Provide transport services to passengers with special needs"/>
+      <unit id="AVIJ2001B" title="Contribute to the achievement of on-time performance standards"/>
+      <unit id="AVIL2001B" title="Manage a check-in queue"/>
+      <unit id="AVIO2001A" title="Use firearms on an aerodrome to control wildlife hazards"/>
+      <unit id="AVIW2002B" title="Operate an aerobridge"/>
+      <unit id="AVIW2008B" title="Conduct baggage handling operations"/>
+      <unit id="AVIW2010B" title="Operate baggage tug"/>
+      <unit id="AVIW2029A" title="Operate aircraft refuelling nozzle"/>
+      <unit id="BSBCMM301A" title="Process customer complaints"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SITTTSL007A" title="Receive and process reservations"/>
+      <unit id="TLIA1307C" title="Receive goods"/>
+      <unit id="TLIA1407C" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2007C" title="Replenish stock"/>
+      <unit id="TLIA2207C" title="Participate in stocktakes"/>
+      <unit id="TLIA907D" title="Complete and check import/export documentation"/>
+      <unit id="TLIB107C" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2907B" title="Use and maintain minor mechanical equipment"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB407C" title="Carry out vehicle inspection"/>
+      <unit id="TLIB707C" title="Carry out maintenance of trailers"/>
+      <unit id="TLIB7307B" title="Clean road tankers"/>
+      <unit id="TLIB807C" title="Carry out inspection of trailers"/>
+      <unit id="TLIC307C" title="Drive medium rigid vehicle"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+      <unit id="TLID1307C" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID1607C" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID307D" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID407C" title="Load and unload goods/cargo"/>
+      <unit id="TLIE107C" title="Present routine workplace information"/>
+      <unit id="TLIE707B" title="Use communication systems"/>
+      <unit id="TLIE807C" title="Process workplace documentation"/>
+      <unit id="TLIF1007C" title="Apply fatigue management strategies"/>
+      <unit id="TLIF1207C" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIF1807B" title="Operate firefighting equipment"/>
+      <unit id="TLIF607C" title="Apply accident-emergency procedures"/>
+      <unit id="TLIG707B" title="Work in a socially diverse environment"/>
+      <unit id="TLIJ107C" title="Apply quality procedures"/>
+      <unit id="TLIK107C" title="Use infotechnology devices and computer applications in the workplace"/>
+      <unit id="TLIK307C" title="Apply keyboard skills"/>
+      <unit id="TLIK707C" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLIL3107B" title="Monitor and process attendance records"/>
+      <unit id="TLIL807C" title="Complete routine administrative tasks"/>
+      <unit id="TLIO1107C" title="Provide revenue protection measures"/>
+      <unit id="TLIO1307C" title="Administer the security of assets and facilities"/>
+      <unit id="TLIQ107D" title="Conduct financial transactions"/>
+      <unit id="TLIQ1207B" title="Sell products and services"/>
+      <unit id="TLIQ707C" title="Prepare and process financial documents"/>
+      <unit id="TLIT107C" title="Capture records into a records keeping system"/>
+      <unit id="TLIT407C" title="Maintain control of records"/>
+      <unit id="TLIT507C" title="Provide information from and about records"/>
+      <unit id="TLIU707B" title="Care for the environment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI20208" title="Certificate II in Aviation (Flight Operations)">
+    <units>
+      <unit id="AVID2006A" title="Load and secure aviation freight and baggage"/>
+      <unit id="AVIF2010B" title="Implement regulations and policies during aircraft safety and service operations"/>
+      <unit id="AVIF2014A" title="Undertake aircraft underwater escape and survival"/>
+      <unit id="AVII2001B" title="Provide customer service on an aircraft"/>
+      <unit id="AVII2003C" title="Carry out beverage service on an aircraft"/>
+      <unit id="AVII2004B" title="Provide advice on cuisine on an aircraft"/>
+      <unit id="AVII2006B" title="Conduct in-flight retailing"/>
+      <unit id="AVII2008B" title="Provide assistance to transit and arriving passengers"/>
+      <unit id="AVII2009B" title="Serve wine to aircraft passengers"/>
+      <unit id="AVII2014B" title="Provide transport services to passengers with special needs"/>
+      <unit id="AVIW2029A" title="Operate aircraft refuelling nozzle"/>
+      <unit id="AVIW2030A" title="Be airborne extracted by suspended rope"/>
+      <unit id="AVIW2031A" title="Be airborne extracted using suspended extraction equipment"/>
+      <unit id="AVIW2032A" title="Fast rope from a helicopter"/>
+      <unit id="AVIW2033A" title="Rappel from a helicopter"/>
+      <unit id="TLIA1307C" title="Receive goods"/>
+      <unit id="TLIA1407C" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2007C" title="Replenish stock"/>
+      <unit id="TLIA2207C" title="Participate in stocktakes"/>
+      <unit id="TLIB107C" title="Check and assess operational capabilities of equipment"/>
+      <unit id="TLIB2907B" title="Use and maintain minor mechanical equipment"/>
+      <unit id="TLID1607C" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID307D" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLIE707B" title="Use communication systems"/>
+      <unit id="TLIE807C" title="Process workplace documentation"/>
+      <unit id="TLIF1007C" title="Apply fatigue management strategies"/>
+      <unit id="TLIF1207C" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIG707B" title="Work in a socially diverse environment"/>
+      <unit id="TLIJ107C" title="Apply quality procedures"/>
+      <unit id="TLIK107C" title="Use infotechnology devices and computer applications in the workplace"/>
+      <unit id="TLIL807C" title="Complete routine administrative tasks"/>
+      <unit id="TLIO1307C" title="Administer the security of assets and facilities"/>
+      <unit id="TLIQ107D" title="Conduct financial transactions"/>
+      <unit id="TLIQ1207B" title="Sell products and services"/>
+      <unit id="TLIU707B" title="Care for the environment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI30612" title="Certificate III in Aviation (Remote Pilot)">
+    <units>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+      <unit id="AVIE3006A" title="Maintain remote pilot aircraft systems (RPAS) aeronautical radio communications"/>
+      <unit id="AVIF3021A" title="Manage human factors in remote pilot aircraft systems (RPAS) operations"/>
+      <unit id="AVIF3022A" title="Apply regulations and policies during remote pilot aircraft systems (RPAS) operations"/>
+      <unit id="AVIH3018A" title="Navigate remote pilot aircraft (RPA)"/>
+      <unit id="AVIK3002A" title="Use infotechnology devices in the workplace"/>
+      <unit id="AVIW3035A" title="Manage remote pilot aircraft systems (RPAS) pre- and post-flight actions"/>
+      <unit id="AVIW3036A" title="Operate and manage remote pilot aircraft systems (RPAS)"/>
+      <unit id="AVIY3067A" title="Control remote pilot aircraft (RPA) on the ground"/>
+      <unit id="AVIY3068A" title="Launch remote pilot aircraft (RPA)"/>
+      <unit id="AVIY3069A" title="Control remote pilot aircraft systems (RPAS) in normal flight"/>
+      <unit id="AVIY3070A" title="Recover remote pilot aircraft (RPA)"/>
+      <unit id="AVIY3071A" title="Manage remote pilot aircraft systems (RPAS) in abnormal flight conditions"/>
+      <unit id="AVIY3072A" title="Manage remote pilot aircraft systems (RPAS) energy source"/>
+      <unit id="AVIZ3051A" title="Manage situation awareness in remote pilot aircraft systems (RPAS) operations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AVI30408" title="Certificate III in Aviation (Ground Operations and Service)">
+    <units>
+      <unit id="AVIA3001B" title="Package dangerous goods for air transport"/>
+      <unit id="AVIB3001B" title="Inspect and report on an aerodrome"/>
+      <unit id="AVIB3002B" title="Inspect and report on aerodrome lighting systems"/>
+      <unit id="AVIB3003B" title="Inspect and report on the Obstacle Limitation Surfaces"/>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+      <unit id="AVIE3004B" title="Maintain radio communications as part of airport operations"/>
+      <unit id="AVIF2010B" title="Implement regulations and policies during aircraft safety and service operations"/>
+      <unit id="AVIF3004B" title="Supervise the safety of aerodrome works and general access"/>
+      <unit id="AVIF3011B" title="Apply relevant laws and regulations to the management of an aerodrome"/>
+      <unit id="AVIF3016A" title="Marshal aircraft"/>
+      <unit id="AVIL3002B" title="Complete aircraft despatch duties"/>
+      <unit id="AVIL3003B" title="Plan an aircraft load"/>
+      <unit id="AVIL3004B" title="Assess pavement concessions"/>
+      <unit id="AVIR3001B" title="Service customer airline contracts"/>
+      <unit id="AVIW3003B" title="Operate aircraft embarkation and disembarkation equipment"/>
+      <unit id="AVIW3004B" title="Operate ramp equipment"/>
+      <unit id="AVIW3005B" title="Operate aircraft push-out tug"/>
+      <unit id="AVIW3006B" title="Refuel aircraft"/>
+      <unit id="AVIW3011B" title="Defuel aircraft"/>
+      <unit id="AVIW3021A" title="Coordinate aircraft ground operations"/>
+      <unit id="AVIW3023A" title="Implement wildlife hazard control measures"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SITTTSL007A" title="Receive and process reservations"/>
+      <unit id="SITTTSL009A" title="Process travel-related documentation"/>
+      <unit id="SITTTSL010A" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTTSL012A" title="Construct domestic airfares"/>
+      <unit id="SITTTSL013A" title="Construct normal international airfares"/>
+      <unit id="SITTTSL014A" title="Construct promotional international airfares"/>
+      <unit id="SITTTSL015A" title="Construct advanced international airfares"/>
+      <unit id="TLIA1007C" title="Coordinate goods to bond premises"/>
+      <unit id="TLIA1507C" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA1707C" title="Apply product knowledge to organise work operations"/>
+      <unit id="TLIA2307C" title="Coordinate stocktakes"/>
+      <unit id="TLIA807C" title="Transfer cargo"/>
+      <unit id="TLIB207C" title="Test equipment and isolate faults"/>
+      <unit id="TLIC407D" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC507D" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC707C" title="Operate vehicle carrying special loads"/>
+      <unit id="TLIC807C" title="Drive coach/bus"/>
+      <unit id="TLID1507C" title="Identify and label explosives and dangerous goods"/>
+      <unit id="TLID2007C" title="Care for livestock in transit"/>
+      <unit id="TLID2707C" title="Prepare for transport of packaged dangerous goods"/>
+      <unit id="TLIE1207C" title="Consolidate manifest documentation"/>
+      <unit id="TLIE1807B" title="Maintain freight records"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE407C" title="Prepare workplace documents"/>
+      <unit id="TLIF307C" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIG207C" title="Lead a work team or group"/>
+      <unit id="TLII907C" title="Provide on-board services to customers"/>
+      <unit id="TLIJ207C" title="Apply quality systems"/>
+      <unit id="TLIJ707C" title="Conduct internal quality audits"/>
+      <unit id="TLIL307C" title="Conduct induction process"/>
+      <unit id="TLIO1207C" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIO1607B" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIO707C" title="Undertake emergency response action to a security threat"/>
+      <unit id="TLIQ1307B" title="Advise on and construct fares for customers"/>
+      <unit id="TLIT207C" title="Document a records system"/>
+      <unit id="TLIT307C" title="Identify and classify records to be captured"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI30510" title="Certificate III in Aviation (Rescue Crewman)">
+    <units>
+      <unit id="AVIE4001B" title="Maintain aircraft radio communications"/>
+      <unit id="AVIF2014A" title="Undertake aircraft underwater escape and survival"/>
+      <unit id="AVIF3005B" title="Maintain the safety of people and aircraft"/>
+      <unit id="AVIF3006B" title="Respond to abnormal and emergency situations within the aircraft"/>
+      <unit id="AVIF3016A" title="Marshal aircraft"/>
+      <unit id="AVIF4001B" title="Manage human factors in aircraft flight"/>
+      <unit id="AVIW3006B" title="Refuel aircraft"/>
+      <unit id="AVIW3024A" title="Perform wireman duties"/>
+      <unit id="AVIW3025A" title="Complete aircraft_equipment pre- and post-flight actions"/>
+      <unit id="AVIW3026A" title="Conduct night aided vision aviation operations"/>
+      <unit id="AVIW3027A" title="Deliver pyrotechnics and hand held stores"/>
+      <unit id="AVIW4028A" title="Manage aircraft sensor systems"/>
+      <unit id="AVIY3052A" title="Conduct Helicopter Landing Site and Unprepared Helicopter Landing Site operations"/>
+      <unit id="AVIY4051A" title="Conduct external load-lift operations"/>
+      <unit id="AVIY4054A" title="Conduct hoisting operations"/>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA404A" title="Apply advanced resuscitation techniques"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="TLIA107C" title="Secure cargo"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI30208" title="Certificate III in Aviation (Flight Operations)">
+    <units>
+      <unit id="AVIB3004B" title="Manage and carry out pre- and post-flight cabin checks"/>
+      <unit id="AVIF3005B" title="Maintain the safety of people and aircraft"/>
+      <unit id="AVIF3006B" title="Respond to abnormal and emergency situations within the aircraft"/>
+      <unit id="AVIF3016A" title="Marshal aircraft"/>
+      <unit id="AVIH3002B" title="Advise on major services and attractions at aviation destinations"/>
+      <unit id="AVII3002B" title="Carry out food preparation and service on an aircraft"/>
+      <unit id="AVII3005B" title="Apply knowledge of the structure, products and services of the airline operator"/>
+      <unit id="AVII3010B" title="Carry out aircraft business_first class meal and beverage service"/>
+      <unit id="AVII3011A" title="Provide quality customer service"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="TLIA2307C" title="Coordinate stocktakes"/>
+      <unit id="TLID2007C" title="Care for livestock in transit"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE407C" title="Prepare workplace documents"/>
+      <unit id="TLIF307C" title="Implement and monitor occupational health and safety procedures"/>
+      <unit id="TLIG207C" title="Lead a work team or group"/>
+      <unit id="TLII907C" title="Provide on-board services to customers"/>
+      <unit id="TLIL307C" title="Conduct induction process"/>
+      <unit id="TLIO1207C" title="Manage disruptive and/or unlawful behaviour"/>
+      <unit id="TLIO1607B" title="Apply and monitor workplace security procedures"/>
+      <unit id="TLIO707C" title="Undertake emergency response action to a security threat"/>
+      <unit id="TLIQ707C" title="Prepare and process financial documents"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI40508" title="Certificate IV in Aviation (Leadership and Supervision)">
+    <units>
+      <unit id="AVIF3005B" title="Maintain the safety of people and aircraft"/>
+      <unit id="AVIF3006B" title="Respond to abnormal and emergency situations within the aircraft"/>
+      <unit id="AVIF4008A" title="Supervise cabin safety and security"/>
+      <unit id="AVII4012B" title="Manage aircraft passengers and cargo"/>
+      <unit id="AVII4013A" title="Supervise cabin operations"/>
+      <unit id="AVII4015A" title="Monitor and enhance customer service excellence"/>
+      <unit id="AVIL3003B" title="Plan an aircraft load"/>
+      <unit id="AVIW4034A" title="Supervise aircraft refuelling"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="HLTFA404A" title="Apply advanced resuscitation techniques"/>
+      <unit id="TLIE607D" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIG707B" title="Work in a socially diverse environment"/>
+      <unit id="TLII107D" title="Coordinate quality customer service"/>
+      <unit id="TLII507C" title="Market services and products to clients"/>
+      <unit id="TLIL3207B" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL3307B" title="Promote effective workplace practice"/>
+      <unit id="TLIL507D" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIO707C" title="Undertake emergency response action to a security threat"/>
+      <unit id="TLIP107C" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP207C" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP507C" title="Manage workplace information"/>
+      <unit id="TLIP707C" title="Contribute to the development of a workplace learning environment"/>
+      <unit id="TLIU107B" title="Implement and monitor environmental protection policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI40108" title="Certificate IV in Aviation (Commercial Pilot Aeroplane Licence)">
+    <units>
+      <unit id="AVIE4001B" title="Maintain aircraft radio communications"/>
+      <unit id="AVIF4001B" title="Manage human factors in aircraft flight"/>
+      <unit id="AVIH4001B" title="Navigate aircraft - VFR"/>
+      <unit id="AVII4012B" title="Manage aircraft passengers and cargo"/>
+      <unit id="AVIW4001B" title="Manage pre- and post-flight actions"/>
+      <unit id="AVIY4001B" title="Control aeroplane on the ground"/>
+      <unit id="AVIY4002B" title="Take off aeroplane"/>
+      <unit id="AVIY4003B" title="Control aeroplane in normal flight"/>
+      <unit id="AVIY4004B" title="Land aeroplane"/>
+      <unit id="AVIY4005B" title="Execute advanced aeroplane manoeuvres and procedures"/>
+      <unit id="AVIY4006B" title="Manage abnormal aeroplane flight situations"/>
+      <unit id="AVIY4007B" title="Manage aircraft fuel"/>
+      <unit id="AVIY4008B" title="Control aircraft solely by reference to full instrument panel"/>
+      <unit id="AVIY4009B" title="Control aircraft solely by reference to limited instrument panel"/>
+      <unit id="AVIZ4001B" title="Manage situation awareness in aircraft flight"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AVI40208" title="Certificate IV in Aviation (Commercial Pilot Helicopter Licence)">
+    <units>
+      <unit id="AVIE4001B" title="Maintain aircraft radio communications"/>
+      <unit id="AVIF4001B" title="Manage human factors in aircraft flight"/>
+      <unit id="AVIH4001B" title="Navigate aircraft - VFR"/>
+      <unit id="AVII4012B" title="Manage aircraft passengers and cargo"/>
+      <unit id="AVIW4001B" title="Manage pre- and post-flight actions"/>
+      <unit id="AVIY4007B" title="Manage aircraft fuel"/>
+      <unit id="AVIY4011B" title="Control helicopter on the ground"/>
+      <unit id="AVIY4012B" title="Control helicopter in hovering flight"/>
+      <unit id="AVIY4013B" title="Taxi helicopter"/>
+      <unit id="AVIY4014B" title="Take off helicopter and approach to hover"/>
+      <unit id="AVIY4015B" title="Control helicopter in normal flight"/>
+      <unit id="AVIY4017B" title="Execute advanced helicopter manoeuvres and procedures"/>
+      <unit id="AVIY4018B" title="Manage abnormal and emergency helicopter flight situations"/>
+      <unit id="AVIY4019B" title="Operate helicopter at low level"/>
+      <unit id="AVIZ4001B" title="Manage situation awareness in aircraft flight"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AVI40408" title="Certificate IV in Aviation (Ground Operations and Service)">
+    <units>
+      <unit id="AVIC4002A" title="Administer airside driving"/>
+      <unit id="AVIJ4002B" title="Conduct quality control operations related to refuelling/defuelling aircraft"/>
+      <unit id="AVIO4003A" title="Implement airside access"/>
+      <unit id="AVIW4034A" title="Supervise aircraft refuelling"/>
+      <unit id="AVIW5022A" title="Coordinate the removal of disabled aircraft"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="TLIA1107C" title="Package goods"/>
+      <unit id="TLIA207C" title="Maintain container/cargo records"/>
+      <unit id="TLIA2507D" title="Regulate temperature controlled stock"/>
+      <unit id="TLIA3007C" title="Organise cargo for export"/>
+      <unit id="TLIA3107C" title="Consolidate freight"/>
+      <unit id="TLIA3207C" title="Organise transport of freight or goods"/>
+      <unit id="TLIA3307C" title="Organise international transport of freight"/>
+      <unit id="TLIA507C" title="Check and evaluate records and documentation"/>
+      <unit id="TLIC607C" title="Drive multi-combination vehicle"/>
+      <unit id="TLIE1307C" title="Apply workplace statistics"/>
+      <unit id="TLIE1407C" title="Compile and process export documentation"/>
+      <unit id="TLIE607D" title="Collect, analyse and present workplace data and information"/>
+      <unit id="TLIF1407C" title="Develop and maintain a safe workplace"/>
+      <unit id="TLIF6307A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIF6407A" title="Manage fatigue management policy and procedures"/>
+      <unit id="TLIF707C" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIG607C" title="Facilitate work teams"/>
+      <unit id="TLII107D" title="Coordinate quality customer service"/>
+      <unit id="TLII507C" title="Market services and products to clients"/>
+      <unit id="TLIL1007C" title="Assess and confirm customer transport requirements"/>
+      <unit id="TLIL3207B" title="Implement equal employment equity strategies"/>
+      <unit id="TLIL3307B" title="Promote effective workplace practice"/>
+      <unit id="TLIL3607B" title="Develop rosters"/>
+      <unit id="TLIL3707B" title="Apply and amend rosters"/>
+      <unit id="TLIL507D" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL907C" title="Manage personal work priorities and professional development"/>
+      <unit id="TLIP107C" title="Develop plans to meet customer and organisation needs"/>
+      <unit id="TLIP207C" title="Facilitate and capitalise on change in the workplace"/>
+      <unit id="TLIP507C" title="Manage workplace information"/>
+      <unit id="TLIQ1007B" title="Maintain customer credit accounts and services"/>
+      <unit id="TLIR107C" title="Monitor supplier performance"/>
+      <unit id="TLIR207C" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIR307C" title="Negotiate a contract"/>
+      <unit id="TLIU107B" title="Implement and monitor environmental protection policies and procedures"/>
+      <unit id="TLIU607B" title="Conduct environmental audits"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI40610" title="Certificate IV in Aviation (Aircrewman)">
+    <units>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+      <unit id="AVIE4001B" title="Maintain aircraft radio communications"/>
+      <unit id="AVIF2014A" title="Undertake aircraft underwater escape and survival"/>
+      <unit id="AVIF3005B" title="Maintain the safety of people and aircraft"/>
+      <unit id="AVIF3006B" title="Respond to abnormal and emergency situations within the aircraft"/>
+      <unit id="AVIF3016A" title="Marshal aircraft"/>
+      <unit id="AVIF4001B" title="Manage human factors in aircraft flight"/>
+      <unit id="AVIJ4002B" title="Conduct quality control operations related to refuelling/defuelling aircraft"/>
+      <unit id="AVIL3003B" title="Plan an aircraft load"/>
+      <unit id="AVIW3006B" title="Refuel aircraft"/>
+      <unit id="AVIW3024A" title="Perform wireman duties"/>
+      <unit id="AVIW3025A" title="Complete aircraft_equipment pre- and post-flight actions"/>
+      <unit id="AVIW3026A" title="Conduct night aided vision aviation operations"/>
+      <unit id="AVIW3027A" title="Deliver pyrotechnics and hand held stores"/>
+      <unit id="AVIW4028A" title="Manage aircraft sensor systems"/>
+      <unit id="AVIY3052A" title="Conduct Helicopter Landing Site and Unprepared Helicopter Landing Site operations"/>
+      <unit id="AVIY4051A" title="Conduct external load-lift operations"/>
+      <unit id="AVIY4053A" title="Perform aircrewman cockpit duties"/>
+      <unit id="AVIY4054A" title="Conduct hoisting operations"/>
+      <unit id="AVIY4055A" title="Conduct airborne extraction operations"/>
+      <unit id="AVIY4056A" title="Conduct airborne rappelling operations"/>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA404A" title="Apply advanced resuscitation techniques"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="TLIA107C" title="Secure cargo"/>
+      <unit id="TLIE207C" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI50308" title="Diploma of Aviation (Air Traffic Control)">
+    <units>
+      <unit id="AVIE5002B" title="Apply air traffic control communication procedures and services"/>
+      <unit id="AVIF5003B" title="Manage human performance and team resources during air traffic control operations"/>
+      <unit id="AVIF5013A" title="Provide SAR alerting and emergency service"/>
+      <unit id="AVIG5001B" title="Work professionally in an air traffic control workplace"/>
+      <unit id="AVIW5013B" title="Operate air traffic control equipment and workstations"/>
+      <unit id="AVIY5022B" title="Manage traffic flow"/>
+      <unit id="AVIY5048A" title="Provide approach control services"/>
+      <unit id="AVIY5049A" title="Provide area control services"/>
+      <unit id="AVIY5050A" title="Provide aerodrome control services"/>
+      <unit id="AVIZ5049A" title="Manage situational awareness in the air traffic control environment"/>
+    </units>
+  </qualification>
+  <qualification id="AVI50510" title="Diploma of Aviation (Flight Instructor)">
+    <units>
+      <unit id="AVIM5001A" title="Operate a simulator"/>
+      <unit id="AVIM5002A" title="Conduct aeronautical knowledge training"/>
+      <unit id="AVIM5003A" title="Conduct flight training"/>
+      <unit id="AVIM5004A" title="Facilitate training in a synthetic environment"/>
+      <unit id="AVIM5005A" title="Conduct training for the issue of an endorsement"/>
+      <unit id="AVIM5008A" title="Conduct flight review"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEASS403A" title="Participate in assessment validation"/>
+      <unit id="TAEASS502A" title="Design and develop assessment tools"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAEDES402A" title="Use training packages and accredited courses to meet client needs"/>
+      <unit id="TAELLN401A" title="Address adult language, literacy and numeracy skills"/>
+      <unit id="TAESUS501A" title="Analyse and apply sustainability skills to learning programs"/>
+      <unit id="TLIF1007C" title="Apply fatigue management strategies"/>
+      <unit id="TLIF6307A" title="Administer the implementation of fatigue management strategies"/>
+      <unit id="TLIG207C" title="Lead a work team or group"/>
+      <unit id="TLIL507D" title="Apply conflict/grievance resolution strategies"/>
+      <unit id="TLIL907C" title="Manage personal work priorities and professional development"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AVI50408" title="Diploma of Aviation (Instrument Flight Operations)">
+    <units>
+      <unit id="AVIH5016A" title="Plan a flight under Instrument Flight Rules (IFR)"/>
+      <unit id="AVIH5017A" title="Navigate aircraft - IFR"/>
+      <unit id="AVIW5018A" title="Operate and manage aircraft systems"/>
+      <unit id="AVIY5020A" title="Conduct full instrument panel manoeuvres"/>
+      <unit id="AVIY5021A" title="Conduct limited instrument panel manoeuvres"/>
+      <unit id="AVIY5023A" title="Operate multi-engine fixed wing aeroplane"/>
+      <unit id="AVIY5025A" title="Perform an instrument arrival"/>
+      <unit id="AVIY5026A" title="Perform standard arrival route (STAR)"/>
+      <unit id="AVIY5027A" title="Perform instrument departure - non published procedure"/>
+      <unit id="AVIY5028A" title="Perform instrument departure - published procedures (SID_SRD)"/>
+      <unit id="AVIY5033A" title="Perform visual circling approach"/>
+      <unit id="AVIY5034A" title="Perform non-directional beacon (NDB) instrument approach"/>
+      <unit id="AVIY5035A" title="Perform VHF omni-directional radio range (VOR) instrument approach"/>
+      <unit id="AVIY5036A" title="Perform instrument landing system (ILS) instrument approach"/>
+      <unit id="AVIY5037A" title="Perform distance measuring equipment (DME)/global positioning system (GPS) arrival"/>
+      <unit id="AVIY5038A" title="Perform global positioning system (GPS)_non-precision approach (NPA)"/>
+      <unit id="AVIY5065A" title="Operate a multi-engine helicopter"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AVI60110" title="Advanced Diploma of Aviation (Flight Instruction)">
+    <units>
+      <unit id="AVIM5001A" title="Operate a simulator"/>
+      <unit id="AVIM5004A" title="Facilitate training in a synthetic environment"/>
+      <unit id="AVIM6006A" title="Deliver operational flight management training"/>
+      <unit id="AVIN6003A" title="Manage flight training"/>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="CHCCAR501B" title="Conduct career guidance interview"/>
+      <unit id="TAAASS501B" title="Lead and coordinate assessment systems and services"/>
+      <unit id="TAACMQ501B" title="Develop training and/or assessment organisational policies and procedures"/>
+      <unit id="TAACMQ503B" title="Lead and conduct training and/or assessment evaluations"/>
+      <unit id="TAACMQ504B" title="Determine and manage scope of training and/or assessment services"/>
+      <unit id="TAACMQ505B" title="Lead a team to foster innovation"/>
+      <unit id="TAADEL503B" title="Provide advanced facilitation to support learning"/>
+      <unit id="TAADEL504B" title="Lead and coordinate training services"/>
+      <unit id="TAADES501B" title="Design and develop learning strategies"/>
+      <unit id="TAADES502B" title="Design and develop learning resources"/>
+      <unit id="TAAENV501B" title="Maintain and enhance professional practice"/>
+      <unit id="TAATAS502B" title="Prepare a tender bid"/>
+      <unit id="TAATAS503B" title="Manage contracted work"/>
+      <unit id="TAATAS504B" title="Facilitate group processes"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAELLN401A" title="Address adult language, literacy and numeracy skills"/>
+      <unit id="TAESUS501A" title="Analyse and apply sustainability skills to learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

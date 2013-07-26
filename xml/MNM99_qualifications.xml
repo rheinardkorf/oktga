@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<qualifications class="MNM99">
+  <qualification id="MNM20299" title="Certificate II in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM20203" title="Certificate II in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM20103" title="Certificate II in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM20399" title="Certificate II in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM20303" title="Certificate II in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM20199" title="Certificate II in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30303" title="Certificate III in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30103" title="Certificate III in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30203" title="Certificate III in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30199" title="Certificate III in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30299" title="Certificate III in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM30399" title="Certificate III in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40103" title="Certificate IV in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40399" title="Certificate IV in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40199" title="Certificate IV in Metalliferous Mining Operations (Open Cut)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40299" title="Certificate IV in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40303" title="Certificate IV in Metalliferous Mining Operations (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM40203" title="Certificate IV in Metalliferous Mining Operations (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM50399" title="Diploma of Metalliferous Mining (Processing)">
+    <units/>
+  </qualification>
+  <qualification id="MNM50299" title="Diploma of Metalliferous Mining (Open Cut and Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNM60101" title="Advanced Diploma of Metalliferous Mining">
+    <units/>
+  </qualification>
+</qualifications>

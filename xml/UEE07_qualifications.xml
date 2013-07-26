@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<qualifications class="UEE07">
+  <qualification id="UEE10110" title="Certificate I in ElectroComms Skills">
+    <units>
+      <unit id="UEENEEB001B" title="Operate and maintain an amateur radio communication station"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC002B" title="Source and purchase material/parts for installation or service jobs"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE020B" title="Provide basic instruction in the use of electrotechnology apparatus"/>
+      <unit id="UEENEEE048C" title="Carry out routine work activities in an electrotechnology environment"/>
+      <unit id="UEENEEE079A" title="Identify and select components, accessories and materials for electrotechnology work activities"/>
+      <unit id="UEENEEK042A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEE22107" title="Certificate II in Sustainable Energy (Career Start)">
+    <units>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE020B" title="Provide basic instruction in the use of electrotechnology apparatus"/>
+      <unit id="UEENEEK012B" title="Provide basic sustainable energy solutions for energy reduction in domestic premises"/>
+      <unit id="UEENEEK013B" title="Apply sustainable energy practice in daily activities"/>
+      <unit id="UEENEEK014B" title="Promote sustainable energy practice in the community"/>
+      <unit id="UEENEEK042A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEE20810" title="Certificate II in Electrical Wholesaling">
+    <units>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC002B" title="Source and purchase material/parts for installation or service jobs"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE020B" title="Provide basic instruction in the use of electrotechnology apparatus"/>
+      <unit id="UEENEEE037B" title="Document occupational hazards and risks in electrotechnology"/>
+      <unit id="UEENEEE044B" title="Apply technologies and concepts to electrotechnology work activities"/>
+      <unit id="UEENEEE047B" title="Identify building techniques, methods and materials used in electrotechnology work activities"/>
+      <unit id="UEENEEK042A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEE20407" title="Certificate II in Winding and Assembly">
+    <units>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC002B" title="Source and purchase material/parts for installation or service jobs"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEE020B" title="Provide basic instruction in the use of electrotechnology apparatus"/>
+      <unit id="UEENEEE037B" title="Document occupational hazards and risks in electrotechnology"/>
+      <unit id="UEENEEE038B" title="Participate in development and follow a personal competency development plan"/>
+      <unit id="UEENEEG050B" title="Wind coils"/>
+      <unit id="UEENEEG051B" title="Place and connect coils"/>
+      <unit id="UEENEEK042A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEE21910" title="Certificate II in Electronics">
+    <units>
+      <unit id="UEENEEA001B" title="Assemble electronic apparatus"/>
+      <unit id="UEENEEA002B" title="Select electronic components"/>
+      <unit id="UEENEEA003B" title="Set up and check electronic component placement machines"/>
+      <unit id="UEENEEA004B" title="Rework electronic sub assemblies"/>
+      <unit id="UEENEEA005B" title="Conduct functional and quality tests on assembled electronic apparatus"/>
+      <unit id="UEENEEA006B" title="Apply lead-free soldering techniques"/>
+      <unit id="UEENEEB001B" title="Operate and maintain an amateur radio communication station"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC002B" title="Source and purchase material/parts for installation or service jobs"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEED002B" title="Assemble, set up and test personal computers"/>
+      <unit id="UEENEED004B" title="Use engineering applications software"/>
+      <unit id="UEENEED005B" title="Enter and verify operating instructions in microprocessor equipped devices"/>
+      <unit id="UEENEED043B" title="Install and configure a computer operating system and software"/>
+      <unit id="UEENEED046B" title="Set up and configure basic local area network"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEE008B" title="Lay wiring/cabling and terminate accessories for extra-low voltage circuits"/>
+      <unit id="UEENEEE019C" title="Solve problems in multiple path a.c. circuits"/>
+      <unit id="UEENEEE020B" title="Provide basic instruction in the use of electrotechnology apparatus"/>
+      <unit id="UEENEEE022B" title="Carry out preparatory electrotechnology work activities"/>
+      <unit id="UEENEEE023B" title="Solve basic problems in electronic and digital equipment"/>
+      <unit id="UEENEEE034B" title="Document occupational hazards and risks in electronics"/>
+      <unit id="UEENEEE038B" title="Participate in development and follow a personal competency development plan"/>
+      <unit id="UEENEEE041B" title="Use of routine equipment/plant/technologies in an electrotechnology environment"/>
+      <unit id="UEENEEE046B" title="Identify affects of energy on machinery and materials in an electrotechnology environment"/>
+      <unit id="UEENEEE048C" title="Carry out routine work activities in an electrotechnology environment"/>
+      <unit id="UEENEEE050B" title="Undertake computations in an electrotechnology environment"/>
+      <unit id="UEENEEE079A" title="Identify and select components, accessories and materials for electrotechnology work activities"/>
+      <unit id="UEENEEF006B" title="Solve problems in data and voice communications circuits"/>
+      <unit id="UEENEEF007B" title="Set up the wireless capabilities of communications and data storage devices"/>
+      <unit id="UEENEEH001B" title="Carry out basic repairs to computer equipment by replacement of modules/sub-assemblies"/>
+      <unit id="UEENEEH002B" title="Carry out basic repairs to electronic apparatus by replacement of components"/>
+      <unit id="UEENEEH004B" title="Set up and test residential audio/video equipment"/>
+      <unit id="UEENEEH008B" title="Assemble and erect reception antennae and signal distribution equipment"/>
+      <unit id="UEENEEH028B" title="Install microwave and antennae and waveguides"/>
+      <unit id="UEENEEH061B" title="Position and terminate fire detection and warning system apparatus"/>
+      <unit id="UEENEEH069B" title="Solve problems in electronic circuits"/>
+      <unit id="UEENEEK042A" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEE22010" title="Certificate II in Electrotechnology (Career Start)">
+    <units>
+      <unit id="UEENEEA001B" title="Assemble electronic apparatus"/>
+      <unit id="UEENEEA002B" title="Select electronic components"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED001B" title="Use basic computer applications relevant to a workplace"/>
+      <unit id="UEENEEE001B" title="Apply OHS practices in the workplace"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+    </units>
+  </qualification>
+</qualifications>

@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<qualifications class="RGR02">
+  <qualification id="RGR10202" title="Certificate I in Racing (Greyhound Attendant)">
+    <units/>
+  </qualification>
+  <qualification id="RGR10102" title="Certificate I in Racing (Stablehand)">
+    <units>
+      <unit id="RGRH205A" title="Perform basic riding or driving tasks"/>
+    </units>
+  </qualification>
+  <qualification id="RGR20202" title="Certificate II in Racing (Greyhound Owner Trainer)">
+    <units>
+      <unit id="RGRG309A" title="Maintain greyhounds in a healthy state and safe environment"/>
+      <unit id="RGRG310A" title="Apply principles of basic anatomy and physiology to greyhounds"/>
+      <unit id="RGRG311A" title="Determine nutritional requirements for greyhounds"/>
+      <unit id="RGRG312A" title="Assess health and first aid for greyhounds"/>
+      <unit id="RGRG313A" title="Plan training and racing programs for greyhounds"/>
+    </units>
+  </qualification>
+  <qualification id="RGR20102" title="Certificate II in Racing (Stablehand)">
+    <units>
+      <unit id="RGRH205A" title="Perform basic riding or driving tasks"/>
+      <unit id="RGRH310A" title="Oversee safe handling of horses"/>
+    </units>
+  </qualification>
+  <qualification id="RGR30102" title="Certificate III in Racing (Trackrider)">
+    <units>
+      <unit id="RGRH317A" title="Maintain horses in a healthy state and safe environment"/>
+      <unit id="RGRH319A" title="Assess health and first aid for standardbreds or thoroughbreds"/>
+      <unit id="SRSCOP020A" title="Develop a personal financial plan"/>
+      <unit id="SRXIND004A" title="Establish and maintain an effective industry network"/>
+    </units>
+  </qualification>
+  <qualification id="RGR30402" title="Certificate III in Racing (Harness Driver)">
+    <units>
+      <unit id="RGRH312A" title="Lead and co-ordinate personnel effectively in the racing industry"/>
+      <unit id="RGRH317A" title="Maintain horses in a healthy state and safe environment"/>
+      <unit id="RGRH318A" title="Determine nutritional requirements for standardbreds or thoroughbreds"/>
+      <unit id="RGRH420A" title="Plan training and racing programs for standardbreds or thoroughbreds"/>
+    </units>
+  </qualification>
+  <qualification id="RGR30302" title="Certificate III in Racing (Harness Owner Trainer)">
+    <units>
+      <unit id="RGRH313A" title="Ride or drive horses at track work"/>
+      <unit id="RGRH420A" title="Plan training and racing programs for standardbreds or thoroughbreds"/>
+      <unit id="RGRH421A" title="Manage the education of standardbreds or thoroughbreds"/>
+      <unit id="RGRH422A" title="Train and race standardbreds or thoroughbreds"/>
+      <unit id="RGRH426A" title="Manage finances for a horse-training establishment"/>
+    </units>
+  </qualification>
+  <qualification id="RGR30502" title="Certificate III in Racing (Greyhound Trainer)">
+    <units>
+      <unit id="RGRG318A" title="Manage maintenance and security of a greyhound training establishment"/>
+      <unit id="RGRG319A" title="Manage finances for a greyhound training establishment"/>
+      <unit id="RGRG320A" title="Manage staff and/or self for greyhound trainers"/>
+    </units>
+  </qualification>
+  <qualification id="RGR30202" title="Certificate III in Racing (Advanced Stablehand)">
+    <units>
+      <unit id="RGRH205A" title="Perform basic riding or driving tasks"/>
+      <unit id="RGRH420A" title="Plan training and racing programs for standardbreds or thoroughbreds"/>
+    </units>
+  </qualification>
+  <qualification id="RGR40202" title="Certificate IV in Racing (Jockey)">
+    <units>
+      <unit id="RGRH420A" title="Plan training and racing programs for standardbreds or thoroughbreds"/>
+      <unit id="RGRH424A" title="Manage and perform administrative activities associated with racing horses"/>
+      <unit id="SRSCOA006A" title="Implement the fundamental principles of sports psychology"/>
+      <unit id="SRSCOA007A" title="Provide information about the fundamental principles of eating for peak performance"/>
+      <unit id="SRSCOP026A" title="Implement and evaluate a time management plan"/>
+      <unit id="SRXCLS004A" title="Provide advice in order to meet current and anticipated client requirements"/>
+    </units>
+  </qualification>
+  <qualification id="RGR40402" title="Certificate IV in Racing (Harness Trainer)">
+    <units>
+      <unit id="RGRH528A" title="Manage and promote a training and racing business"/>
+      <unit id="RGRH529A" title="Manage security of staff and property for racing stables"/>
+      <unit id="RGRH530A" title="Manage business-planning processes for training establishments"/>
+      <unit id="RGRH531A" title="Manage and organise for effectiveness and efficiency in a training establishment"/>
+      <unit id="RUAAG3700HBA" title="Select horses for breeding"/>
+      <unit id="RUAAG4701HBA" title="Provide support for the conduct of artificial insemination procedures"/>
+    </units>
+  </qualification>
+  <qualification id="RGR40102" title="Certificate IV in Racing (Thoroughbred Owner Trainer)">
+    <units>
+      <unit id="RGRH206A" title="Apply Occupational Health and Safety procedures in horse codes"/>
+      <unit id="RGRH207A" title="Handle horses safely"/>
+      <unit id="RGRH208A" title="Work effectively in the thoroughbred or standardbred code of the racing industry"/>
+      <unit id="RGRH209A" title="Care for horses"/>
+      <unit id="RGRH310A" title="Oversee safe handling of horses"/>
+      <unit id="RGRH311A" title="Apply principles of basic anatomy and physiology to horses"/>
+      <unit id="RGRH312A" title="Lead and co-ordinate personnel effectively in the racing industry"/>
+      <unit id="RGRH317A" title="Maintain horses in a healthy state and safe environment"/>
+      <unit id="RGRH318A" title="Determine nutritional requirements for standardbreds or thoroughbreds"/>
+      <unit id="RGRH319A" title="Assess health and first aid for standardbreds or thoroughbreds"/>
+      <unit id="RGRH528A" title="Manage and promote a training and racing business"/>
+      <unit id="RGRH529A" title="Manage security of staff and property for racing stables"/>
+      <unit id="RGRH530A" title="Manage business-planning processes for training establishments"/>
+      <unit id="RGRH531A" title="Manage and organise for effectiveness and efficiency in a training establishment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RGR40302" title="Certificate IV in Racing (Advanced Harness Driver)">
+    <units>
+      <unit id="RGRH205A" title="Perform basic riding or driving tasks"/>
+      <unit id="RGRH206A" title="Apply Occupational Health and Safety procedures in horse codes"/>
+      <unit id="RGRH207A" title="Handle horses safely"/>
+      <unit id="RGRH208A" title="Work effectively in the thoroughbred or standardbred code of the racing industry"/>
+      <unit id="RGRH209A" title="Care for horses"/>
+      <unit id="RGRH310A" title="Oversee safe handling of horses"/>
+      <unit id="RGRH311A" title="Apply principles of basic anatomy and physiology to horses"/>
+      <unit id="RGRH312A" title="Lead and co-ordinate personnel effectively in the racing industry"/>
+      <unit id="RGRH313A" title="Ride or drive horses at track work"/>
+      <unit id="RGRH317A" title="Maintain horses in a healthy state and safe environment"/>
+      <unit id="RGRH318A" title="Determine nutritional requirements for standardbreds or thoroughbreds"/>
+      <unit id="RGRH319A" title="Assess health and first aid for standardbreds or thoroughbreds"/>
+      <unit id="RGRH420A" title="Plan training and racing programs for standardbreds or thoroughbreds"/>
+      <unit id="SRSCOA006A" title="Implement the fundamental principles of sports psychology"/>
+      <unit id="SRSCOA007A" title="Provide information about the fundamental principles of eating for peak performance"/>
+      <unit id="SRSCOP020A" title="Develop a personal financial plan"/>
+      <unit id="SRSCOP026A" title="Implement and evaluate a time management plan"/>
+      <unit id="SRXCLS004A" title="Provide advice in order to meet current and anticipated client requirements"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RGR50102" title="Diploma of Racing (Thoroughbred Trainer)">
+    <units>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM503A" title="Establish effective workplace relationships"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="RUAAG3700HBA" title="Select horses for breeding"/>
+    </units>
+  </qualification>
+</qualifications>

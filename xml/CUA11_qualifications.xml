@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<qualifications class="CUA11">
+  <qualification id="CUA10111" title="Certificate I in Dance">
+    <units>
+      <unit id="BSBCRT101A" title="Apply critical thinking techniques"/>
+      <unit id="BSBLED101A" title="Plan skills development"/>
+      <unit id="CUADAN101A" title="Develop foundation dance techniques"/>
+      <unit id="CUADAN102A" title="Develop foundation ballet dance technique"/>
+      <unit id="CUADAN103A" title="Develop foundation jazz dance technique"/>
+      <unit id="CUADAN104A" title="Develop foundation tap dance technique"/>
+      <unit id="CUADAN105A" title="Develop foundation street dance technique"/>
+      <unit id="CUADAN106A" title="Develop foundation cultural dance technique"/>
+      <unit id="CUAOHS101A" title="Follow basic safe dance practices"/>
+      <unit id="CUEIND01D" title="Source and apply entertainment industry knowledge"/>
+      <unit id="CUVATS101A" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUA20111" title="Certificate II in Dance">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="CUADAN201A" title="Develop basic dance techniques"/>
+      <unit id="CUADAN202A" title="Incorporate artistic expression into basic dance performances"/>
+      <unit id="CUADAN203A" title="Perform basic jazz dance technique"/>
+      <unit id="CUADAN204A" title="Perform basic Aboriginal and Torres Strait Islander dance technique"/>
+      <unit id="CUADAN205A" title="Perform basic contemporary dance technique"/>
+      <unit id="CUADAN206A" title="Perform basic ballet technique"/>
+      <unit id="CUADAN207A" title="Perform basic tap technique"/>
+      <unit id="CUADAN208A" title="Perform basic street dance technique"/>
+      <unit id="CUADAN209A" title="Perform basic cultural dance technique"/>
+      <unit id="CUAOHS101A" title="Follow basic safe dance practices"/>
+      <unit id="CUAOHS201A" title="Develop a basic level of physical condition for dance performance"/>
+      <unit id="CUAPRF201A" title="Prepare self for performances"/>
+      <unit id="CUEAUD06B" title="Apply a general knowledge of vision systems to work activities"/>
+      <unit id="CUESCE05B" title="Apply a general knowledge of scenic art"/>
+      <unit id="CUESOU07B" title="Apply a general knowledge of audio to work activities"/>
+      <unit id="CUESTA05C" title="Apply a general knowledge of staging to work activities"/>
+      <unit id="CUETGE15B" title="Handle physical elements during bump in_bump out"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFLGT101A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUVATS101A" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVRES201A" title="Source and use information relevant to own arts practice"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA30111" title="Certificate III in Dance">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="CUACHR301A" title="Develop basic dance composition skills"/>
+      <unit id="CUADAN202A" title="Incorporate artistic expression into basic dance performances"/>
+      <unit id="CUADAN301A" title="Explore rhythm in the context of dance or movement technique"/>
+      <unit id="CUADAN302A" title="Increase depth of Aboriginal and Torres Strait Islander dance technique"/>
+      <unit id="CUADAN303A" title="Develop dance partnering techniques"/>
+      <unit id="CUADAN304A" title="Develop dance improvisational skills"/>
+      <unit id="CUADAN305A" title="Increase depth of jazz dance technique"/>
+      <unit id="CUADAN306A" title="Increase depth of ballet dance technique"/>
+      <unit id="CUADAN307A" title="Increase depth of cultural dance technique"/>
+      <unit id="CUADAN308A" title="Increase depth of contemporary dance technique"/>
+      <unit id="CUADAN309A" title="Increase depth of street dance technique"/>
+      <unit id="CUADAN310A" title="Increase depth of social dance technique"/>
+      <unit id="CUADAN311A" title="Increase depth of tap dance technique"/>
+      <unit id="CUADLT301A" title="Develop basic dance analysis skills"/>
+      <unit id="CUADTM301A" title="Assist with teaching dance"/>
+      <unit id="CUAIND301A" title="Work effectively in the creative arts industry"/>
+      <unit id="CUAIND302A" title="Develop and maintain relationships with Indigenous Australian performance mentors"/>
+      <unit id="CUAMUP301A" title="Prepare personal appearance for performances"/>
+      <unit id="CUAOHS201A" title="Develop a basic level of physical condition for dance performance"/>
+      <unit id="CUAOHS301A" title="Condition the body for dance performances"/>
+      <unit id="CUAPPM301A" title="Assist with designing performance spaces"/>
+      <unit id="CUAPRF303A" title="Perform basic on-ground acrobatic skills"/>
+      <unit id="CUAPRF304A" title="Develop audition techniques"/>
+      <unit id="CUAPRF305A" title="Perform in ways that respect customary law, ethics and traditions"/>
+      <unit id="CUAPRF306A" title="Develop musical theatre techniques"/>
+      <unit id="CUAPRF307A" title="Develop performance techniques"/>
+      <unit id="CUASTA301A" title="Assist with production operations for live performances"/>
+      <unit id="CUECOS09B" title="Develop and apply knowledge of costume"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUSIND302A" title="Plan a career in the creative arts industry"/>
+      <unit id="CUSMLT302A" title="Develop and apply aural-perception skills"/>
+      <unit id="CUVATS301A" title="Develop and apply knowledge of Aboriginal or Torres Strait Islander cultural arts"/>
+      <unit id="CUVRES301A" title="Apply knowledge of history and theory to own arts practice"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA30311" title="Certificate III in Assistant Dance Teaching">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBIND301A" title="Work effectively in an educational environment"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CHCCHILD301A" title="Support behaviour of children and young people"/>
+      <unit id="CUACHR301A" title="Develop basic dance composition skills"/>
+      <unit id="CUADAN304A" title="Develop dance improvisational skills"/>
+      <unit id="CUADLT301A" title="Develop basic dance analysis skills"/>
+      <unit id="CUADTM301A" title="Assist with teaching dance"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAPPM301A" title="Assist with designing performance spaces"/>
+      <unit id="CUASTA301A" title="Assist with production operations for live performances"/>
+      <unit id="CUSIND302A" title="Plan a career in the creative arts industry"/>
+      <unit id="CUSMLT201A" title="Develop and apply musical ideas and listening skills"/>
+      <unit id="CUVRES301A" title="Apply knowledge of history and theory to own arts practice"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISFFIT309A" title="Plan and deliver group exercise sessions"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="TAEASS301A" title="Contribute to assessment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUA30211" title="Certificate III in Community Dance, Theatre and Events">
+    <units>
+      <unit id="AHCILM303A" title="Work in an Indigenous community or organisation"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CHCCD307C" title="Support community resources"/>
+      <unit id="CHCDIS301B" title="Work effectively with people with a disability"/>
+      <unit id="CUADAN301A" title="Explore rhythm in the context of dance or movement technique"/>
+      <unit id="CUADAN302A" title="Increase depth of Aboriginal and Torres Strait Islander dance technique"/>
+      <unit id="CUADAN303A" title="Develop dance partnering techniques"/>
+      <unit id="CUADAN304A" title="Develop dance improvisational skills"/>
+      <unit id="CUADAN305A" title="Increase depth of jazz dance technique"/>
+      <unit id="CUADAN306A" title="Increase depth of ballet dance technique"/>
+      <unit id="CUADAN307A" title="Increase depth of cultural dance technique"/>
+      <unit id="CUADAN308A" title="Increase depth of contemporary dance technique"/>
+      <unit id="CUADAN309A" title="Increase depth of street dance technique"/>
+      <unit id="CUADAN310A" title="Increase depth of social dance technique"/>
+      <unit id="CUADAN311A" title="Increase depth of tap dance technique"/>
+      <unit id="CUADTM301A" title="Assist with teaching dance"/>
+      <unit id="CUAIND301A" title="Work effectively in the creative arts industry"/>
+      <unit id="CUAMPF301A" title="Employ music and singing in performance"/>
+      <unit id="CUAMPF302A" title="Develop vocal techniques for use in performance"/>
+      <unit id="CUAMUP301A" title="Prepare personal appearance for performances"/>
+      <unit id="CUAOHS201A" title="Develop a basic level of physical condition for dance performance"/>
+      <unit id="CUAOHS301A" title="Condition the body for dance performances"/>
+      <unit id="CUAPPM301A" title="Assist with designing performance spaces"/>
+      <unit id="CUAPRF301A" title="Create and tell stories"/>
+      <unit id="CUAPRF302A" title="Develop basic acting skills"/>
+      <unit id="CUAPRF303A" title="Perform basic on-ground acrobatic skills"/>
+      <unit id="CUAPRF304A" title="Develop audition techniques"/>
+      <unit id="CUAPRF305A" title="Perform in ways that respect customary law, ethics and traditions"/>
+      <unit id="CUAPRF306A" title="Develop musical theatre techniques"/>
+      <unit id="CUAPRF307A" title="Develop performance techniques"/>
+      <unit id="CUASTA301A" title="Assist with production operations for live performances"/>
+      <unit id="CUECOR04B" title="Deal with conflict and resolve complaints"/>
+      <unit id="CUECOS09B" title="Develop and apply knowledge of costume"/>
+      <unit id="CUEFOH03C" title="Provide seating and ticketing advice"/>
+      <unit id="CUEFOH04C" title="Usher patrons"/>
+      <unit id="CUESOU07B" title="Apply a general knowledge of audio to work activities"/>
+      <unit id="CUETGE15B" title="Handle physical elements during bump in_bump out"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFLGT101A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUFWRT301A" title="Write content for a range of media"/>
+      <unit id="CUSADM301A" title="Administer operations for rehearsals and performances"/>
+      <unit id="CUSIND302A" title="Plan a career in the creative arts industry"/>
+      <unit id="CUSMKG301A" title="Assist with the promotion of creative acts"/>
+      <unit id="CUSMPF301A" title="Develop technical skills in performance"/>
+      <unit id="CUSMPF303A" title="Contribute to backup accompaniment"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUVATS301A" title="Develop and apply knowledge of Aboriginal or Torres Strait Islander cultural arts"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISFFIT309A" title="Plan and deliver group exercise sessions"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA40111" title="Certificate IV in Dance">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="CUACHR301A" title="Develop basic dance composition skills"/>
+      <unit id="CUACHR401A" title="Create and perform dance pieces"/>
+      <unit id="CUACHR403A" title="Develop skills in the craft of choreography"/>
+      <unit id="CUADAN303A" title="Develop dance partnering techniques"/>
+      <unit id="CUADAN401A" title="Develop on-camera dance performance skills"/>
+      <unit id="CUADAN402A" title="Improvise an advanced dance sequence"/>
+      <unit id="CUADAN403A" title="Develop expertise in jazz dance technique"/>
+      <unit id="CUADAN404A" title="Develop expertise in bodyweather and butoh dance technique"/>
+      <unit id="CUADAN405A" title="Develop expertise in street dance technique"/>
+      <unit id="CUADAN406A" title="Develop expertise in social dance technique"/>
+      <unit id="CUADAN407A" title="Develop expertise in dance performance skills"/>
+      <unit id="CUADAN408A" title="Develop expertise in ballet technique"/>
+      <unit id="CUADAN409A" title="Develop expertise in contemporary dance technique"/>
+      <unit id="CUADAN410A" title="Develop expertise in tap dance technique"/>
+      <unit id="CUADAN411A" title="Develop expertise in cultural dance technique"/>
+      <unit id="CUADLT301A" title="Develop basic dance analysis skills"/>
+      <unit id="CUADLT401A" title="Document dance"/>
+      <unit id="CUADLT402A" title="Explore the relationship between music and dance"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUAIND301A" title="Work effectively in the creative arts industry"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAMUP301A" title="Prepare personal appearance for performances"/>
+      <unit id="CUAOHS301A" title="Condition the body for dance performances"/>
+      <unit id="CUAOHS401A" title="Apply movement and behavioural principles to physical conditioning"/>
+      <unit id="CUAOHS402A" title="Participate in gym and weight training for performances"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAPPM301A" title="Assist with designing performance spaces"/>
+      <unit id="CUAPRF303A" title="Perform basic on-ground acrobatic skills"/>
+      <unit id="CUAPRF304A" title="Develop audition techniques"/>
+      <unit id="CUAPRF401A" title="Employ a range of acting skills in performance"/>
+      <unit id="CUAPRF402A" title="Develop conceptual and expressive skills as a performer"/>
+      <unit id="CUAPRF404A" title="Refine movement skills for performance"/>
+      <unit id="CUAPRF405A" title="Rehearse technique for performance"/>
+      <unit id="CUAPRF406A" title="Use technique in performance"/>
+      <unit id="CUAPRF407A" title="Develop expertise in musical theatre techniques"/>
+      <unit id="CUARES401A" title="Research dance concepts"/>
+      <unit id="CUASTA301A" title="Assist with production operations for live performances"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUSIND302A" title="Plan a career in the creative arts industry"/>
+      <unit id="CUSMLT302A" title="Develop and apply aural-perception skills"/>
+      <unit id="CUSMLT303A" title="Notate music"/>
+      <unit id="CUVPRP404A" title="Develop self as artist"/>
+      <unit id="CUVRES401A" title="Research history and theory to inform own arts practice"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA40211" title="Certificate IV in Dance Teaching and Management">
+    <units>
+      <unit id="BSBIND301A" title="Work effectively in an educational environment"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CHCCHILD401A" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCDIS301B" title="Work effectively with people with a disability"/>
+      <unit id="CUACHR402A" title="Create short dance pieces"/>
+      <unit id="CUADLT301A" title="Develop basic dance analysis skills"/>
+      <unit id="CUADLT401A" title="Document dance"/>
+      <unit id="CUADLT402A" title="Explore the relationship between music and dance"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM402A" title="Teach basic classical ballet dance technique"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM404A" title="Teach basic jazz dance technique"/>
+      <unit id="CUADTM405A" title="Teach basic contemporary dance technique"/>
+      <unit id="CUADTM406A" title="Teach basic tap dance technique"/>
+      <unit id="CUADTM407A" title="Teach basic cultural dance technique"/>
+      <unit id="CUADTM408A" title="Teach Cecchetti Ballet method at introductory level"/>
+      <unit id="CUADTM409A" title="Teach Cecchetti Ballet method at junior level"/>
+      <unit id="CUADTM410A" title="Teach Cecchetti Ballet method at intermediate level"/>
+      <unit id="CUADTM411A" title="Teach basic dance technique"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAPPM401A" title="Contribute to the organisation of productions"/>
+      <unit id="CUECOR04B" title="Deal with conflict and resolve complaints"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUSADM301A" title="Administer operations for rehearsals and performances"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISFFIT309A" title="Plan and deliver group exercise sessions"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="TAEASS301A" title="Contribute to assessment"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEASS403A" title="Participate in assessment validation"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA40311" title="Certificate IV in Community Culture">
+    <units>
+      <unit id="AHCCCF405A" title="Develop community networks"/>
+      <unit id="AHCILM303A" title="Work in an Indigenous community or organisation"/>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBATSIC412A" title="Maintain and protect cultural values in the organisation"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CHCCD401D" title="Support community participation"/>
+      <unit id="CHCCD420A" title="Work to empower Aboriginal and/or Torres Strait Islander communities"/>
+      <unit id="CHCDIS301B" title="Work effectively with people with a disability"/>
+      <unit id="CUACHR401A" title="Create and perform dance pieces"/>
+      <unit id="CUADAN401A" title="Develop on-camera dance performance skills"/>
+      <unit id="CUADAN402A" title="Improvise an advanced dance sequence"/>
+      <unit id="CUADAN403A" title="Develop expertise in jazz dance technique"/>
+      <unit id="CUADAN404A" title="Develop expertise in bodyweather and butoh dance technique"/>
+      <unit id="CUADAN405A" title="Develop expertise in street dance technique"/>
+      <unit id="CUADAN406A" title="Develop expertise in social dance technique"/>
+      <unit id="CUADAN409A" title="Develop expertise in contemporary dance technique"/>
+      <unit id="CUADAN410A" title="Develop expertise in tap dance technique"/>
+      <unit id="CUADAN411A" title="Develop expertise in cultural dance technique"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM407A" title="Teach basic cultural dance technique"/>
+      <unit id="CUADTM411A" title="Teach basic dance technique"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAMUP301A" title="Prepare personal appearance for performances"/>
+      <unit id="CUAOHS301A" title="Condition the body for dance performances"/>
+      <unit id="CUAOHS401A" title="Apply movement and behavioural principles to physical conditioning"/>
+      <unit id="CUAOHS402A" title="Participate in gym and weight training for performances"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAPPM301A" title="Assist with designing performance spaces"/>
+      <unit id="CUAPPM401A" title="Contribute to the organisation of productions"/>
+      <unit id="CUAPPM501A" title="Manage live productions"/>
+      <unit id="CUAPRF401A" title="Employ a range of acting skills in performance"/>
+      <unit id="CUAPRF402A" title="Develop conceptual and expressive skills as a performer"/>
+      <unit id="CUAPRF405A" title="Rehearse technique for performance"/>
+      <unit id="CUAPRF406A" title="Use technique in performance"/>
+      <unit id="CUAPRF407A" title="Develop expertise in musical theatre techniques"/>
+      <unit id="CUEEVT03B" title="Integrate knowledge of creative and technical production into management processes"/>
+      <unit id="CUEMAR02C" title="Undertake market research"/>
+      <unit id="CUEMAR03C" title="Undertake marketing activities"/>
+      <unit id="CUESOU08B" title="Select and manage microphone and other audio input sources"/>
+      <unit id="CUESOU09B" title="Manage and compile audio replay material"/>
+      <unit id="CUETEM01C" title="Coordinate production operations"/>
+      <unit id="CUETEM03C" title="Establish and manage production requirements and resources"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFGMT301A" title="Repair and maintain production equipment"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFLGT301A" title="Prepare, install and test lighting equipment"/>
+      <unit id="CUFLGT302A" title="Record and operate standard lighting cues"/>
+      <unit id="CUFWRT301A" title="Write content for a range of media"/>
+      <unit id="CUSMPF402A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF404A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF405A" title="Develop instrumental techniques"/>
+      <unit id="CUSMPF406A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF407A" title="Develop vocal techniques"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUSSOU303A" title="Set up and disassemble audio equipment"/>
+      <unit id="CUVIND401A" title="Communicate effectively with arts professionals"/>
+      <unit id="CUVPRP402A" title="Select sites for creative projects and plan work"/>
+      <unit id="CUVPRP404A" title="Develop self as artist"/>
+      <unit id="CUVPUA501A" title="Create works of art for public spaces"/>
+      <unit id="CUVPUB501A" title="Develop and manage public relations strategies"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISFFIT309A" title="Plan and deliver group exercise sessions"/>
+      <unit id="SISFFIT311A" title="Deliver approved community fitness programs"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE008A" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITTPPD004A" title="Plan and implement minimal impact operations"/>
+      <unit id="SITXEVT008A" title="Plan and develop event proposals and bids"/>
+      <unit id="SITXEVT009A" title="Develop event concepts"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXHRM004A" title="Manage volunteers"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA50211" title="Diploma of Musical Theatre">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="CUACHR401A" title="Create and perform dance pieces"/>
+      <unit id="CUACHR501A" title="Create and perform complex dance pieces"/>
+      <unit id="CUADAN402A" title="Improvise an advanced dance sequence"/>
+      <unit id="CUADAN505A" title="Refine contemporary dance technique"/>
+      <unit id="CUADAN507A" title="Refine dance partnering techniques"/>
+      <unit id="CUADLT401A" title="Document dance"/>
+      <unit id="CUADLT402A" title="Explore the relationship between music and dance"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAOHS401A" title="Apply movement and behavioural principles to physical conditioning"/>
+      <unit id="CUAOHS402A" title="Participate in gym and weight training for performances"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAOHS501A" title="Maintain a high level of fitness for performance"/>
+      <unit id="CUAPPM501A" title="Manage live productions"/>
+      <unit id="CUAPRF401A" title="Employ a range of acting skills in performance"/>
+      <unit id="CUAPRF402A" title="Develop conceptual and expressive skills as a performer"/>
+      <unit id="CUAPRF403A" title="Employ a range of performance techniques"/>
+      <unit id="CUAPRF407A" title="Develop expertise in musical theatre techniques"/>
+      <unit id="CUAPRF501A" title="Refine performance skills"/>
+      <unit id="CUAPRF502A" title="Apply theatrical make-up"/>
+      <unit id="CUAPRF503A" title="Prepare for and perform in a competitive environment"/>
+      <unit id="CUAPRF504A" title="Refine musical theatre techniques"/>
+      <unit id="CUAPRF601A" title="Extend musical theatre performance skills to a professional level"/>
+      <unit id="CUARES501A" title="Refine conceptual understanding of dance"/>
+      <unit id="CUAWRT501A" title="Write about dance"/>
+      <unit id="CUESMT10B" title="Organise and facilitate rehearsals"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUFDRT501A" title="Direct rehearsals of performers"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFWRT402A" title="Write extended stories"/>
+      <unit id="CUFWRT501A" title="Develop storylines and treatments"/>
+      <unit id="CUSIND501A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMKG501A" title="Manage the promotion of creative acts"/>
+      <unit id="CUSMLT501A" title="Refine aural-perception skills"/>
+      <unit id="CUSMPF402A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF406A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF407A" title="Develop vocal techniques"/>
+      <unit id="CUSMPF410A" title="Perform music from written notation"/>
+      <unit id="CUSMPF502A" title="Incorporate interactive technology into performance"/>
+      <unit id="CUSMPF503A" title="Perform accompaniment"/>
+      <unit id="CUSMPF505A" title="Perform improvisation for audiences"/>
+      <unit id="CUSMPF506A" title="Develop technical skills and expand repertoire"/>
+      <unit id="CUSMPF602A" title="Manage stagecraft aspects of performances"/>
+      <unit id="CUSMPF605A" title="Develop advanced vocal techniques"/>
+      <unit id="CUSWRT501A" title="Write about music"/>
+      <unit id="CUVPRP502A" title="Prepare for sustainable professional practice"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA50311" title="Diploma of Dance Teaching and Management">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUACHR501A" title="Create and perform complex dance pieces"/>
+      <unit id="CUADLT402A" title="Explore the relationship between music and dance"/>
+      <unit id="CUADTM501A" title="Maintain professional practice as a dance school or studio manager"/>
+      <unit id="CUADTM502A" title="Teach medium level classical ballet dance technique"/>
+      <unit id="CUADTM503A" title="Teach medium level jazz dance technique"/>
+      <unit id="CUADTM504A" title="Teach medium level contemporary dance technique"/>
+      <unit id="CUADTM505A" title="Teach medium level tap dance technique"/>
+      <unit id="CUADTM506A" title="Teach medium level cultural dance technique"/>
+      <unit id="CUADTM507A" title="Teach classical ballet pointe technique"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM510A" title="Develop teaching programs for the Advanced 1 level of the Cecchetti Ballet method"/>
+      <unit id="CUADTM511A" title="Teach medium level dance technique"/>
+      <unit id="CUADTM601A" title="Teach high level classical ballet dance technique"/>
+      <unit id="CUADTM602A" title="Teach high level jazz dance technique"/>
+      <unit id="CUADTM603A" title="Teach high level contemporary dance technique"/>
+      <unit id="CUADTM604A" title="Teach high level tap dance technique"/>
+      <unit id="CUADTM605A" title="Teach high level cultural dance technique"/>
+      <unit id="CUADTM606A" title="Teach high level dance technique"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAPPM501A" title="Manage live productions"/>
+      <unit id="CUARES501A" title="Refine conceptual understanding of dance"/>
+      <unit id="CUAWRT501A" title="Write about dance"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUSFIM501A" title="Secure funding for projects"/>
+      <unit id="CUVPRP505A" title="Establish and maintain safe professional practice"/>
+      <unit id="SITXMPR005A" title="Develop and manage marketing strategies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA50111" title="Diploma of Dance (Elite Performance)">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="CUACHR401A" title="Create and perform dance pieces"/>
+      <unit id="CUACHR403A" title="Develop skills in the craft of choreography"/>
+      <unit id="CUACHR501A" title="Create and perform complex dance pieces"/>
+      <unit id="CUADAN401A" title="Develop on-camera dance performance skills"/>
+      <unit id="CUADAN402A" title="Improvise an advanced dance sequence"/>
+      <unit id="CUADAN501A" title="Refine ballet technique"/>
+      <unit id="CUADAN502A" title="Refine ballet performance skills"/>
+      <unit id="CUADAN503A" title="Perform repertoire for corps de ballet"/>
+      <unit id="CUADAN504A" title="Perform solo variations"/>
+      <unit id="CUADAN505A" title="Refine contemporary dance technique"/>
+      <unit id="CUADAN506A" title="Refine cultural dance technique"/>
+      <unit id="CUADAN507A" title="Refine dance partnering techniques"/>
+      <unit id="CUADAN508A" title="Develop expertise in allied contemporary dance techniques"/>
+      <unit id="CUADAN509A" title="Refine pointe work techniques"/>
+      <unit id="CUADLT401A" title="Document dance"/>
+      <unit id="CUADLT402A" title="Explore the relationship between music and dance"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUAIND401A" title="Extend expertise in specialist field"/>
+      <unit id="CUAOHS401A" title="Apply movement and behavioural principles to physical conditioning"/>
+      <unit id="CUAOHS402A" title="Participate in gym and weight training for performances"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="CUAOHS501A" title="Maintain a high level of fitness for performance"/>
+      <unit id="CUAPRF401A" title="Employ a range of acting skills in performance"/>
+      <unit id="CUAPRF402A" title="Develop conceptual and expressive skills as a performer"/>
+      <unit id="CUAPRF501A" title="Refine performance skills"/>
+      <unit id="CUAPRF502A" title="Apply theatrical make-up"/>
+      <unit id="CUAPRF503A" title="Prepare for and perform in a competitive environment"/>
+      <unit id="CUARES501A" title="Refine conceptual understanding of dance"/>
+      <unit id="CUAWRT501A" title="Write about dance"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUSFIM501A" title="Secure funding for projects"/>
+      <unit id="CUVPRP502A" title="Prepare for sustainable professional practice"/>
+      <unit id="CUVRES502A" title="Analyse cultural history and theory"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUA60111" title="Advanced Diploma of Dance (Elite Performance)">
+    <units>
+      <unit id="CUACHR601A" title="Create choreography for stage and screen"/>
+      <unit id="CUACHR602A" title="Develop skills in dance notation"/>
+      <unit id="CUADAN507A" title="Refine dance partnering techniques"/>
+      <unit id="CUADAN508A" title="Develop expertise in allied contemporary dance techniques"/>
+      <unit id="CUADAN509A" title="Refine pointe work techniques"/>
+      <unit id="CUADAN601A" title="Perform dance repertoire at a professional level"/>
+      <unit id="CUADAN602A" title="Perform advanced classical ballet technique"/>
+      <unit id="CUADAN603A" title="Extend ballet technique to a professional level"/>
+      <unit id="CUADAN604A" title="Extend ballet performance skills to a professional level"/>
+      <unit id="CUADAN605A" title="Perform pas de deux at a professional level"/>
+      <unit id="CUADAN606A" title="Extend pointe work techniques to a professional level"/>
+      <unit id="CUADAN607A" title="Extend contemporary dance technique to a professional level"/>
+      <unit id="CUADAN608A" title="Extend contemporary dance performance skills to a professional level"/>
+      <unit id="CUADAN609A" title="Extend cultural dance performance skills to a professional level"/>
+      <unit id="CUADAN610A" title="Extend allied contemporary dance techniques at a professional level"/>
+      <unit id="CUADAN611A" title="Perform virtuoso contemporary dance technique"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUAIND601A" title="Work professionally in the creative arts industry"/>
+      <unit id="CUAOHS501A" title="Maintain a high level of fitness for performance"/>
+      <unit id="CUAOHS601A" title="Apply advanced gym and weight training to ballet"/>
+      <unit id="CUAOHS602A" title="Develop techniques for maintaining resilience in a competitive environment"/>
+      <unit id="CUAPRF402A" title="Develop conceptual and expressive skills as a performer"/>
+      <unit id="CUAPRF501A" title="Refine performance skills"/>
+      <unit id="CUAPRF502A" title="Apply theatrical make-up"/>
+      <unit id="CUAPRF503A" title="Prepare for and perform in a competitive environment"/>
+      <unit id="CUARES501A" title="Refine conceptual understanding of dance"/>
+      <unit id="CUARES601A" title="Research and apply concepts of live performance practice"/>
+      <unit id="CUAWRT501A" title="Write about dance"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUSFIM501A" title="Secure funding for projects"/>
+      <unit id="CUSMPF602A" title="Manage stagecraft aspects of performances"/>
+      <unit id="CUVPRP502A" title="Prepare for sustainable professional practice"/>
+      <unit id="CUVRES502A" title="Analyse cultural history and theory"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

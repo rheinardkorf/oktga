@@ -1,0 +1,923 @@
+<?xml version="1.0"?>
+<qualifications class="CUF07">
+  <qualification id="CUF10107" title="Certificate I in Creative Industries">
+    <units>
+      <unit id="BSBCRT101A" title="Apply critical thinking techniques"/>
+      <unit id="BSBLED101A" title="Plan skills development"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CUEAUD06B" title="Apply a general knowledge of vision systems to work activities"/>
+      <unit id="CUEPRP03B" title="Apply a general knowledge of props construction"/>
+      <unit id="CUESCE05B" title="Apply a general knowledge of scenic art"/>
+      <unit id="CUESET05C" title="Apply set construction techniques"/>
+      <unit id="CUESOU07B" title="Apply a general knowledge of audio to work activities"/>
+      <unit id="CUESTA05C" title="Apply a general knowledge of staging to work activities"/>
+      <unit id="CUETGE15B" title="Handle physical elements during bump in_bump out"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFLGT101A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUSMPF101A" title="Develop skills to play or sing music"/>
+      <unit id="CUSMPF102A" title="Develop ensemble skills to perform simple musical parts"/>
+      <unit id="CUVCOR02B" title="Develop and articulate concept for own work"/>
+      <unit id="CUVPRP02B" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="CUVVSP34B" title="Apply techniques to produce paintings"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="ICAU1128B" title="Operate a personal computer"/>
+      <unit id="ICAU1133B" title="Send and retrieve information using web browsers and email"/>
+      <unit id="ICAU1204B" title="Locate and use relevant on-line information"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF20107" title="Certificate II in Creative Industries (Media)">
+    <units>
+      <unit id="BSBCRT101A" title="Apply critical thinking techniques"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBDES201A" title="Follow a design process"/>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="CUEPRP03B" title="Apply a general knowledge of props construction"/>
+      <unit id="CUESCE05B" title="Apply a general knowledge of scenic art"/>
+      <unit id="CUESET05C" title="Apply set construction techniques"/>
+      <unit id="CUESOU07B" title="Apply a general knowledge of audio to work activities"/>
+      <unit id="CUETGE15B" title="Handle physical elements during bump in_bump out"/>
+      <unit id="CUFAIR201A" title="Develop techniques for presenting information on radio"/>
+      <unit id="CUFCAM201A" title="Assist with a basic camera shoot"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFLGT101A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUFPOS201A" title="Perform basic vision and sound editing"/>
+      <unit id="CUFPRP201A" title="Repair, maintain and alter props"/>
+      <unit id="CUFRES201A" title="Collect and organise content for broadcast or publication"/>
+      <unit id="CUFSCE201A" title="Prepare and prime scenic art cloths"/>
+      <unit id="CUFSCE202A" title="Repair, maintain and alter scenic art"/>
+      <unit id="CUFSOU204A" title="Perform basic sound editing"/>
+      <unit id="CULLB307C" title="Use multimedia"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUSSOU201A" title="Assist with sound recordings"/>
+      <unit id="CUSSOU202A" title="Mix sound in a broadcasting environment"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="ICAU2006B" title="Operate computing packages"/>
+      <unit id="ICPMM296A" title="Create and test a CD-ROM/DVD"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF30107" title="Certificate III in Media">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT101A" title="Apply critical thinking techniques"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBDES201A" title="Follow a design process"/>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUFAIR201A" title="Develop techniques for presenting information on radio"/>
+      <unit id="CUFAIR301A" title="Present radio programs"/>
+      <unit id="CUFAIR302A" title="Develop techniques for presenting information to camera"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFBRD301A" title="Perform basic transmission operations"/>
+      <unit id="CUFBRD302A" title="Provide production support for television productions"/>
+      <unit id="CUFBRD303A" title="Prepare video material for television transmission"/>
+      <unit id="CUFCAM201A" title="Assist with a basic camera shoot"/>
+      <unit id="CUFCAM301A" title="Shoot material for screen productions"/>
+      <unit id="CUFCAM302A" title="Rig camera infrastructure"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFDIG301A" title="Prepare video assets"/>
+      <unit id="CUFDIG302A" title="Author interactive sequences"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFGMT301A" title="Repair and maintain production equipment"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFLGT101A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUFLGT301A" title="Prepare, install and test lighting equipment"/>
+      <unit id="CUFLGT302A" title="Record and operate standard lighting cues"/>
+      <unit id="CUFLGT303A" title="Install and operate follow spots"/>
+      <unit id="CUFLGT304A" title="Operate floor electrics"/>
+      <unit id="CUFPOS201A" title="Perform basic vision and sound editing"/>
+      <unit id="CUFPOS301A" title="Prepare motion picture film for printing or transfer"/>
+      <unit id="CUFPOS302A" title="Process motion picture film"/>
+      <unit id="CUFPOS303A" title="Print motion picture film"/>
+      <unit id="CUFPPM301A" title="Plan and prepare programs"/>
+      <unit id="CUFRES201A" title="Collect and organise content for broadcast or publication"/>
+      <unit id="CUFSOU204A" title="Perform basic sound editing"/>
+      <unit id="CUFSOU301A" title="Prepare audio assets"/>
+      <unit id="CUFSOU302A" title="Compile audio material for broadcast"/>
+      <unit id="CUFWRT301A" title="Write content for a range of media"/>
+      <unit id="CUFWRT302A" title="Write simple stories"/>
+      <unit id="CULMS412B" title="Record and maintain collection information"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUSSOU201A" title="Assist with sound recordings"/>
+      <unit id="CUSSOU202A" title="Mix sound in a broadcasting environment"/>
+      <unit id="CUSSOU302A" title="Record and mix a basic music demo"/>
+      <unit id="CUSSOU303A" title="Set up and disassemble audio equipment"/>
+      <unit id="CUSSOU304A" title="Restore audio tracks"/>
+      <unit id="CUSSOU305A" title="Analyse soundtracks"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAU3019B" title="Migrate to new technology"/>
+      <unit id="ICAU3126B" title="Use advanced features of computer applications"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF30307" title="Certificate III in Scenery and Set Construction">
+    <units>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCCA2001A" title="Handle carpentry materials"/>
+      <unit id="CPCCCM1005A" title="Carry out measurements and calculations"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="CPCCSF2001A" title="Handle steelfixing materials"/>
+      <unit id="CUEIND01C" title="Source and apply entertainment industry knowledge"/>
+      <unit id="CUEPRP02B" title="Research, obtain and prepare props"/>
+      <unit id="CUEPRP03B" title="Apply a general knowledge of props construction"/>
+      <unit id="CUEPRP04B" title="Use casting and moulding techniques to make props"/>
+      <unit id="CUEPRP05B" title="Make prop furniture"/>
+      <unit id="CUEPRP06B" title="Construct mechanical props"/>
+      <unit id="CUEPRP07B" title="Make props using mixed media"/>
+      <unit id="CUESCE06B" title="Use scenic art painting techniques"/>
+      <unit id="CUESCE07B" title="Create special effects for scenic art"/>
+      <unit id="CUESET05C" title="Apply set construction techniques"/>
+      <unit id="CUESET09B" title="Construct soft scenery"/>
+      <unit id="CUESET10B" title="Construct mechanical sets"/>
+      <unit id="CUESET302A" title="Make sets"/>
+      <unit id="CUESTA01C" title="Install staging elements"/>
+      <unit id="CUESTA06B" title="Apply a general knowledge of theatrical rigging"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFPRP201A" title="Repair, maintain and alter props"/>
+      <unit id="CUFPRP301A" title="Assemble and maintain props"/>
+      <unit id="CUFSCE201A" title="Prepare and prime scenic art cloths"/>
+      <unit id="CUFSCE202A" title="Repair, maintain and alter scenic art"/>
+      <unit id="CUFSET301A" title="Assemble and maintain sets"/>
+      <unit id="CUFSFX301A" title="Maintain and repair special effects items"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVCRS06B" title="Make scale models"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF30207" title="Certificate III in Broadcast Technology">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR302A" title="Work effectively as an off site worker"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUFBRD301A" title="Perform basic transmission operations"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAI3020B" title="Install and optimise operating system software"/>
+      <unit id="ICAI3021B" title="Connect internal hardware components"/>
+      <unit id="ICAI3101B" title="Install and manage network protocols"/>
+      <unit id="ICAS3034B" title="Determine and action network problems"/>
+      <unit id="ICAS3115B" title="Maintain equipment and software in working order"/>
+      <unit id="ICAT3025B" title="Run standard diagnostic tests"/>
+      <unit id="ICAU3019B" title="Migrate to new technology"/>
+      <unit id="ICTTC008D" title="Terminate metallic conductor cable"/>
+      <unit id="ICTTC009D" title="Place, secure and terminate structured cabling and certify installation"/>
+      <unit id="ICTTC011D" title="Place, secure and terminate coaxial cable"/>
+      <unit id="ICTTC013D" title="Perform an accurate customer premises cable and system test"/>
+      <unit id="ICTTC066D" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTTC136C" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTTC137C" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="UEENEEE003B" title="Solve problems in extra-low voltage single path circuits"/>
+      <unit id="UEENEEE004B" title="Solve problems in multiple path d.c. circuits"/>
+      <unit id="UEENEEH007B" title="Carry out repairs of predictable faults in general electronic apparatus"/>
+      <unit id="UEENEEH011B" title="Troubleshoot d.c. power supplies with single phase input"/>
+      <unit id="UEENEEH012B" title="Troubleshoot digital subsystems"/>
+      <unit id="UEENEEH013B" title="Troubleshoot amplifiers"/>
+      <unit id="UEENEEH014B" title="Troubleshoot frequency dependent circuits"/>
+      <unit id="UEENEEH017B" title="Carry out repairs of predictable faults in audio and video replay/recording apparatus"/>
+      <unit id="UEENEEH018B" title="Find and repair faults in electronic apparatus"/>
+      <unit id="UEENEEH024B" title="Carry out repairs of predictable faults in audio components"/>
+      <unit id="UEENEEH027B" title="Commission commercial radio frequency (RF) transmission and reception systems"/>
+      <unit id="UEENEEH028B" title="Install microwave and antennae and waveguides"/>
+      <unit id="UEENEEH039B" title="Troubleshoot basic amplifiers"/>
+      <unit id="UEENEEH042B" title="Troubleshoot oscillators"/>
+      <unit id="UEENEEH076B" title="Diagnose and rectify faults in display circuits"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF40407" title="Certificate IV in Make-up">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB408B" title="Manage personal, family, cultural and business obligations"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND402A" title="Develop screen and media specialist expertise"/>
+      <unit id="CUFMUP401A" title="Design, apply and remove make-up"/>
+      <unit id="CUFMUP402A" title="Maintain make-up and hair continuity"/>
+      <unit id="CUFMUP403A" title="Style hair for performances or productions"/>
+      <unit id="CUFMUP404A" title="Style wigs and hairpieces for performances or productions"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="WRHHD405A" title="Select and apply hair extensions"/>
+      <unit id="WRHHD408A" title="Make wigs and hairpieces"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF40507" title="Certificate IV in Costume for Performance">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CUECOS02C" title="Apply art finishing"/>
+      <unit id="CUECOS12B" title="Make costumes for dance and physical theatre"/>
+      <unit id="CUECOS13B" title="Create theatrical millinery"/>
+      <unit id="CUECOS14B" title="Construct hard and soft sculptured costume accessories"/>
+      <unit id="CUECOS15B" title="Construct hard and soft sculptured specialised costumes"/>
+      <unit id="CUECOS302A" title="Dress performers"/>
+      <unit id="CUECOS303A" title="Modify, repair and maintain costumes"/>
+      <unit id="CUESMT12B" title="Analyse performance outline_script"/>
+      <unit id="CUETEM06B" title="Organise and monitor bump in_bump out"/>
+      <unit id="CUFCOS301A" title="Maintain costume continuity"/>
+      <unit id="CUFCOS401A" title="Make costumes"/>
+      <unit id="CUFCOS402A" title="Construct costume components"/>
+      <unit id="CUFCOS403A" title="Construct blocks for period costumes"/>
+      <unit id="CUFCOS404A" title="Cut and drape costumes"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND403B" title="Work effectively in a costume studio"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="LMTCL2013B" title="Block and shape headwear by machine"/>
+      <unit id="LMTCL2016B" title="Trim headwear"/>
+      <unit id="LMTCL3003B" title="Perform garment repairs and alterations"/>
+      <unit id="LMTFD4011B" title="Cut fabrics for prototype designs"/>
+      <unit id="LMTFD4013B" title="Grade 2D patterns"/>
+      <unit id="LMTFD4015B" title="Create pattern from block to meet customer specifications"/>
+      <unit id="LMTML2008A" title="Assemble simple blocked millinery components"/>
+      <unit id="LMTML4001A" title="Undertake specific millinery construction techniques"/>
+      <unit id="LMTML4002A" title="Rejuvenate millinery"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF40307" title="Certificate IV in Broadcast Technology">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUFBRD301A" title="Perform basic transmission operations"/>
+      <unit id="CUFBRD303A" title="Prepare video material for television transmission"/>
+      <unit id="CUFBRD401A" title="Coordinate television transmission operations"/>
+      <unit id="CUFBRT401A" title="Install or upgrade broadcast equipment and facilities"/>
+      <unit id="CUFBRT402A" title="Maintain broadcast equipment and facilities"/>
+      <unit id="CUFBRT403A" title="Ensure quality of broadcast output"/>
+      <unit id="CUFBRT404A" title="Coordinate outside broadcasts"/>
+      <unit id="CUFCAM301A" title="Shoot material for screen productions"/>
+      <unit id="CUFCAM402A" title="Shoot television content in multi-camera environment"/>
+      <unit id="CUFCAM403A" title="Plan and implement installation of camera supports"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFLGT301A" title="Prepare, install and test lighting equipment"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA402B" title="Apply advanced first aid"/>
+      <unit id="HLTFA403A" title="Manage first aid in the workplace"/>
+      <unit id="ICAI4029B" title="Install network hardware to a network"/>
+      <unit id="ICAI4030B" title="Install software to networked computers"/>
+      <unit id="ICAI4097B" title="Install and configure a network"/>
+      <unit id="ICAS4109B" title="Evaluate system status"/>
+      <unit id="ICAS4114B" title="Implement maintenance procedures"/>
+      <unit id="ICAS4127B" title="Support system software"/>
+      <unit id="ICAT4221B" title="Locate equipment, system and software faults"/>
+      <unit id="ICTTC096D" title="Conduct field tests of radio and wireless networks"/>
+      <unit id="ICTTC102D" title="Repair communication system faults"/>
+      <unit id="ICTTC104D" title="Maintain an electronic system"/>
+      <unit id="UEENEEH026B" title="Provide solutions to polyphase electronic power control problems"/>
+      <unit id="UEENEEH042B" title="Troubleshoot oscillators"/>
+      <unit id="UEENEEH043B" title="Diagnose and rectify faults in digital subsystems of electronic controls"/>
+      <unit id="UEENEEH044B" title="Diagnose and rectify faults in analogue circuits and components in electronic control systems"/>
+      <unit id="UEENEEH045B" title="Develop solutions to analogue electronic problems"/>
+      <unit id="UEENEEH049B" title="Develop solutions to audio electronic problems"/>
+      <unit id="UEENEEH072B" title="Find and repair faults in communication systems"/>
+      <unit id="UEENEEH073B" title="Find and repair faults in professional audio reproduction components"/>
+      <unit id="UEENEEH074B" title="Find and repair faults in audio/video recording equipment"/>
+      <unit id="UEENEEH077B" title="Diagnose and rectify faults in recording and replay apparatus"/>
+      <unit id="UEENEEH078B" title="Diagnose and rectify faults in camera circuits"/>
+      <unit id="UEENEEH080B" title="Diagnose and rectify faults in digital transmission systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF40207" title="Certificate IV in Interactive Digital Media">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFANM401A" title="Prepare 3D digital models for production"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFANM403A" title="Create titles for screen productions"/>
+      <unit id="CUFCAM301A" title="Shoot material for screen productions"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG301A" title="Prepare video assets"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFDIG402A" title="Design user interfaces"/>
+      <unit id="CUFDIG403A" title="Create user interfaces"/>
+      <unit id="CUFDIG404A" title="Apply scripting language in authoring"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND402A" title="Develop screen and media specialist expertise"/>
+      <unit id="CUFPOS401A" title="Edit screen content for fast turnaround"/>
+      <unit id="CUFPOS402A" title="Manage media assets"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUFSOU301A" title="Prepare audio assets"/>
+      <unit id="CUFWRT301A" title="Write content for a range of media"/>
+      <unit id="CUFWRT302A" title="Write simple stories"/>
+      <unit id="CUFWRT402A" title="Write extended stories"/>
+      <unit id="CUSOHS301A" title="Follow occupational health and safety procedures"/>
+      <unit id="CUSSOU403A" title="Perform advanced sound editing"/>
+      <unit id="CUSSOU406A" title="Record sound on location"/>
+      <unit id="CUSSOU407A" title="Coordinate location sound recording"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVDSP07B" title="Research and apply techniques for graphic design"/>
+      <unit id="CUVDSP11B" title="Research and apply techniques for illustrative work"/>
+      <unit id="ICAU3019B" title="Migrate to new technology"/>
+      <unit id="TAADEL301B" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF40107" title="Certificate IV in Screen and Media">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBATSIC403B" title="Maintain and protect culture"/>
+      <unit id="BSBATSIC411B" title="Communicate with the community"/>
+      <unit id="BSBATSIL402B" title="Use the constitution"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40607" title="Certificate IV in Scenery and Set Construction">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUECOS02C" title="Apply art finishing"/>
+      <unit id="CUEIND01C" title="Source and apply entertainment industry knowledge"/>
+      <unit id="CUEIND02B" title="Research and evaluate theatrical references to inform industry practice"/>
+      <unit id="CUEPRP05B" title="Make prop furniture"/>
+      <unit id="CUEPRP06B" title="Construct mechanical props"/>
+      <unit id="CUEPRP07B" title="Make props using mixed media"/>
+      <unit id="CUESCE04C" title="Use research, innovation and experimentation to produce scenic art"/>
+      <unit id="CUESCE08B" title="Realise scenic art designs"/>
+      <unit id="CUESET04C" title="Use research, innovation and experimentation to create props"/>
+      <unit id="CUESET07C" title="Use research, innovation and experimentation to create sets"/>
+      <unit id="CUESET11B" title="Develop set construction plans to meet design requirements"/>
+      <unit id="CUESET17B" title="Develop props construction plans to meet design requirements"/>
+      <unit id="CUESET302A" title="Make sets"/>
+      <unit id="CUESTA01C" title="Install staging elements"/>
+      <unit id="CUESTA06B" title="Apply a general knowledge of theatrical rigging"/>
+      <unit id="CUETEM01C" title="Coordinate production operations"/>
+      <unit id="CUETEM03C" title="Establish and manage production requirements and resources"/>
+      <unit id="CUETEM06B" title="Organise and monitor bump in_bump out"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFPPM403A" title="Coordinate film and media production services and resources"/>
+      <unit id="CUFPRP301A" title="Assemble and maintain props"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUFSFX301A" title="Maintain and repair special effects items"/>
+      <unit id="CUFSFX401A" title="Create special effects items"/>
+      <unit id="CUFSFX402A" title="Coordinate the logistics of special effects operations"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVCRS06B" title="Make scale models"/>
+      <unit id="CUVVSP27B" title="Produce jewellery"/>
+      <unit id="CUVVSP28B" title="Research and experiment with techniques to produce jewellery"/>
+      <unit id="CUVVSP55B" title="Produce textile/fibre work"/>
+      <unit id="CUVVSP56B" title="Research and experiment with techniques to produce textile/fibre work"/>
+      <unit id="CUVVSP58B" title="Produce wood objects"/>
+      <unit id="CUVVSP59B" title="Research and experiment with techniques to produce wood objects"/>
+      <unit id="TAADEL301B" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF50307" title="Diploma of Broadcast Technology">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUFBRD501A" title="Operate master control"/>
+      <unit id="CUFBRT401A" title="Install or upgrade broadcast equipment and facilities"/>
+      <unit id="CUFBRT402A" title="Maintain broadcast equipment and facilities"/>
+      <unit id="CUFBRT403A" title="Ensure quality of broadcast output"/>
+      <unit id="CUFBRT404A" title="Coordinate outside broadcasts"/>
+      <unit id="CUFBRT501A" title="Collaborate on the design of broadcasting facilities"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND402A" title="Develop screen and media specialist expertise"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="ICAD4217B" title="Create technical documentation"/>
+      <unit id="ICAD5092B" title="Update and document operational procedures"/>
+      <unit id="UEENEEH048B" title="Design and develop advanced digital systems"/>
+      <unit id="UEENEEH080B" title="Diagnose and rectify faults in digital transmission systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF50607" title="Diploma of Scenery and Set Construction">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUEIND01C" title="Source and apply entertainment industry knowledge"/>
+      <unit id="CUEIND02B" title="Research and evaluate theatrical references to inform industry practice"/>
+      <unit id="CUESCE04C" title="Use research, innovation and experimentation to produce scenic art"/>
+      <unit id="CUESCE08B" title="Realise scenic art designs"/>
+      <unit id="CUESET04C" title="Use research, innovation and experimentation to create props"/>
+      <unit id="CUESET07C" title="Use research, innovation and experimentation to create sets"/>
+      <unit id="CUESET11B" title="Develop set construction plans to meet design requirements"/>
+      <unit id="CUESET17B" title="Develop props construction plans to meet design requirements"/>
+      <unit id="CUETEM01C" title="Coordinate production operations"/>
+      <unit id="CUETEM03C" title="Establish and manage production requirements and resources"/>
+      <unit id="CUETEM06B" title="Organise and monitor bump in_bump out"/>
+      <unit id="CUETEM08B" title="Realise productions"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFSFX401A" title="Create special effects items"/>
+      <unit id="CUFSFX402A" title="Coordinate the logistics of special effects operations"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF50107" title="Diploma of Screen and Media">
+    <units>
+      <unit id="BSBATSIC403B" title="Maintain and protect culture"/>
+      <unit id="BSBATSIC411B" title="Communicate with the community"/>
+      <unit id="BSBATSIL402B" title="Use the constitution"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+    </units>
+  </qualification>
+  <qualification id="CUF50507" title="Diploma of Costume for Performance">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CUECOS10B" title="Make period costumes"/>
+      <unit id="CUECOS11B" title="Make character costumes"/>
+      <unit id="CUECOS12B" title="Make costumes for dance and physical theatre"/>
+      <unit id="CUECOS13B" title="Create theatrical millinery"/>
+      <unit id="CUECOS15B" title="Construct hard and soft sculptured specialised costumes"/>
+      <unit id="CUECOS405A" title="Coordinate costume manufacture"/>
+      <unit id="CUEIND02B" title="Research and evaluate theatrical references to inform industry practice"/>
+      <unit id="CUESMT12B" title="Analyse performance outline_script"/>
+      <unit id="CUETEM06B" title="Organise and monitor bump in_bump out"/>
+      <unit id="CUFCOS401A" title="Make costumes"/>
+      <unit id="CUFCOS402A" title="Construct costume components"/>
+      <unit id="CUFCOS403A" title="Construct blocks for period costumes"/>
+      <unit id="CUFCOS404A" title="Cut and drape costumes"/>
+      <unit id="CUFCOS501A" title="Manage an off-site wardrobe department"/>
+      <unit id="CUFCOS502A" title="Design and construct costume corsetry and undergarments"/>
+      <unit id="CUFCOS503A" title="Cut and drape complex period costumes"/>
+      <unit id="CUFCOS504A" title="Design costumes"/>
+      <unit id="CUFCOS505A" title="Realise costumes"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND403B" title="Work effectively in a costume studio"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="LMTFD5019B" title="Analyse individual fit and make pattern alterations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF50407" title="Diploma of Specialist Make-up Services">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG509A" title="Manage project procurement"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CUEIND02B" title="Research and evaluate theatrical references to inform industry practice"/>
+      <unit id="CUETEM03C" title="Establish and manage production requirements and resources"/>
+      <unit id="CUETEM08B" title="Realise productions"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND402A" title="Develop screen and media specialist expertise"/>
+      <unit id="CUFMUP401A" title="Design, apply and remove make-up"/>
+      <unit id="CUFMUP402A" title="Maintain make-up and hair continuity"/>
+      <unit id="CUFMUP403A" title="Style hair for performances or productions"/>
+      <unit id="CUFMUP404A" title="Style wigs and hairpieces for performances or productions"/>
+      <unit id="CUFMUP501A" title="Design and apply specialised make-up"/>
+      <unit id="CUFMUP502A" title="Design and apply special make-up effects"/>
+      <unit id="CUFMUP503A" title="Create prosthetics for special make-up effects"/>
+      <unit id="CUFPPM403A" title="Coordinate film and media production services and resources"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="WRHHD405A" title="Select and apply hair extensions"/>
+      <unit id="WRHHD408A" title="Make wigs and hairpieces"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF50207" title="Diploma of Interactive Digital Media">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBINT401B" title="Research international business opportunities"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG503A" title="Develop a marketing communications plan"/>
+      <unit id="BSBMKG506B" title="Plan market research"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBMKG516A" title="Profile international markets"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+      <unit id="CUFANM401A" title="Prepare 3D digital models for production"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFANM403A" title="Create titles for screen productions"/>
+      <unit id="CUFANM501A" title="Create 3D digital character animation"/>
+      <unit id="CUFANM502A" title="Create 3D digital environments"/>
+      <unit id="CUFANM503A" title="Design animation and digital visual effects"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUFDIG402A" title="Design user interfaces"/>
+      <unit id="CUFDIG403A" title="Create user interfaces"/>
+      <unit id="CUFDIG404A" title="Apply scripting language in authoring"/>
+      <unit id="CUFDIG501A" title="Coordinate the testing of interactive media products"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG504A" title="Design games"/>
+      <unit id="CUFDIG505A" title="Design information architecture"/>
+      <unit id="CUFDIG506A" title="Design interaction"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFIND402A" title="Develop screen and media specialist expertise"/>
+      <unit id="CUFPOS401A" title="Edit screen content for fast turnaround"/>
+      <unit id="CUFPOS402A" title="Manage media assets"/>
+      <unit id="CUFPPM404A" title="Create storyboards"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUFWRT401A" title="Edit texts"/>
+      <unit id="CUFWRT402A" title="Write extended stories"/>
+      <unit id="CUSSOU501A" title="Develop sound designs"/>
+      <unit id="CUSSOU502A" title="Produce sound recordings"/>
+      <unit id="CUSSOU503A" title="Implement sound designs"/>
+      <unit id="ICAA5138B" title="Determine acceptable developers for projects"/>
+      <unit id="ICAD4217B" title="Create technical documentation"/>
+      <unit id="ICAD5092B" title="Update and document operational procedures"/>
+      <unit id="ICAI5212B" title="Implement quality assurance process for websites"/>
+      <unit id="ICAS5103B" title="Establish and maintain client user liaison during support activity"/>
+      <unit id="ICAS5199B" title="Manage business websites and servers"/>
+      <unit id="ICAS5202B" title="Ensure privacy for users"/>
+      <unit id="ICAS5203B" title="Evaluate and select a web hosting service"/>
+      <unit id="TAADES503B" title="Research and design e-learning resources"/>
+      <unit id="TAADES504B" title="Develop and evaluate e-learning resources"/>
+      <unit id="TAATAS502B" title="Prepare a tender bid"/>
+      <unit id="TAATAS503B" title="Manage contracted work"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF60107" title="Advanced Diploma of Screen and Media">
+    <units>
+      <unit id="BSBADV602B" title="Develop an advertising campaign"/>
+      <unit id="BSBADV604B" title="Execute an advertising campaign"/>
+      <unit id="BSBADV605B" title="Evaluate campaign effectiveness"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCON601A" title="Develop and maintain business continuity plans"/>
+      <unit id="BSBCON701A" title="Establish and review the business continuity management framework and strategies"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBINN601A" title="Manage organisational change"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWRT501A" title="Write persuasive copy"/>
+      <unit id="CUEPRP501A" title="Conceive, develop and realise prop designs"/>
+      <unit id="CUESET501A" title="Conceive, develop and realise set designs"/>
+      <unit id="CUETEM08B" title="Realise productions"/>
+      <unit id="CUFANM402A" title="Create digital visual effects"/>
+      <unit id="CUFANM503A" title="Design animation and digital visual effects"/>
+      <unit id="CUFBRD501A" title="Operate master control"/>
+      <unit id="CUFCAM601A" title="Direct cinematography for screen productions"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUFDIG501A" title="Coordinate the testing of interactive media products"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG504A" title="Design games"/>
+      <unit id="CUFDIG505A" title="Design information architecture"/>
+      <unit id="CUFDIG506A" title="Design interaction"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUFDRT501A" title="Direct rehearsals of performers"/>
+      <unit id="CUFDRT502A" title="Direct performers"/>
+      <unit id="CUFDRT601A" title="Establish the creative vision for screen productions"/>
+      <unit id="CUFDRT602A" title="Audition and select performers"/>
+      <unit id="CUFDRT603A" title="Direct screen production crews"/>
+      <unit id="CUFDRT604A" title="Devise camera coverage"/>
+      <unit id="CUFDRT605A" title="Collaborate with editors during post-production"/>
+      <unit id="CUFLGT501A" title="Conceive and develop lighting designs"/>
+      <unit id="CUFPOS501A" title="Edit complex screen productions"/>
+      <unit id="CUFPPM504A" title="Manage locations for film and media productions"/>
+      <unit id="CUFPPM601A" title="Plan and manage film and media pre-production"/>
+      <unit id="CUFPPM602A" title="Plan and manage film and media post-production"/>
+      <unit id="CUFWRT501A" title="Develop storylines and treatments"/>
+      <unit id="CUFWRT601A" title="Write scripts"/>
+      <unit id="CUFWRT602A" title="Edit scripts"/>
+      <unit id="CUSSOU501A" title="Develop sound designs"/>
+      <unit id="CUSSOU503A" title="Implement sound designs"/>
+      <unit id="CUSSOU601A" title="Manage production of sound designs"/>
+      <unit id="CUSSOU602A" title="Manage production of sound recordings"/>
+      <unit id="TAADES503B" title="Research and design e-learning resources"/>
+      <unit id="TAADES504B" title="Develop and evaluate e-learning resources"/>
+      <unit id="TAATAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

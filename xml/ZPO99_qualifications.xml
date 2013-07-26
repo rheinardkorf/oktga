@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<qualifications class="ZPO99">
+  <qualification id="ZPO10199" title="Certificate I in Stevedoring Operations">
+    <units/>
+  </qualification>
+  <qualification id="ZPO20299" title="Certificate II in Stevedoring Operations (Bulk and General)">
+    <units/>
+  </qualification>
+  <qualification id="ZPO20199" title="Certificate II in Stevedoring Operations (Containers)">
+    <units/>
+  </qualification>
+  <qualification id="ZPO30299" title="Certificate III in Stevedoring Operations (Bulk and General)">
+    <units/>
+  </qualification>
+  <qualification id="ZPO30199" title="Certificate III in Stevedoring Operations (Containers)">
+    <units/>
+  </qualification>
+  <qualification id="ZPO40199" title="Certificate IV in Stevedoring Operations">
+    <units/>
+  </qualification>
+</qualifications>

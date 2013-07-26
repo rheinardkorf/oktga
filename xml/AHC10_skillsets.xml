@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<skillsets class="AHC10">
+  <skillset id="AHCSS00001" title="Advanced Chemical Spray Application Skill Set">
+    <units>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCMOM315A" title="Operate chemical application machinery and equipment"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00002" title="Agricultural Chemical Skill Set">
+    <units>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00023" title="Basic Introduction to Beekeeping Skill Set">
+    <units>
+      <unit id="AHCBEK202A" title="Use a bee smoker"/>
+      <unit id="AHCBEK203A" title="Open and reassemble a beehive"/>
+      <unit id="AHCBEK204A" title="Construct and repair beehives"/>
+      <unit id="AHCBEK302A" title="Manipulate honey bee brood"/>
+      <unit id="AHCBEK306A" title="Manage pests and disease within a honey bee colony"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00015" title="Carbon Farming Initiative Advisor Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI503A" title="Advise on Carbon Farming Initiative project planning and implementation"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00016" title="Carbon Farming Initiative Business Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI505A" title="Aggregate Carbon Farming Initiative projects"/>
+      <unit id="FNSFMK512A" title="Apply knowledge of emissions markets"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00022" title="Carbon Farming Initiative Emissions Avoidance from Soil and Crops Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI511A" title="Plan a Carbon Farming Initiative project to avoid emissions from soil or crops"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00017" title="Carbon Farming Initiative Livestock Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI506A" title="Plan a Carbon Farming Initiative livestock project"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00020" title="Carbon Farming Initiative Savannah Burning, Feral Animal, Rangelands Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI509A" title="Plan a Carbon Farming Initiative savannah burning, feral animal or rangelands project"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00019" title="Carbon Farming Initiative Soil or Biochar Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI508A" title="Plan a Carbon Farming Initiative project to sequester carbon in soil or biochar"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00021" title="Carbon Farming Initiative Vegetation Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI510A" title="Plan a Carbon Farming Initiative vegetation project"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00018" title="Carbon Farming Initiative Waste and Manure Management Project Implementer Skill Set">
+    <units>
+      <unit id="AHCCFI501A" title="Provide technical advice on the Carbon Farming Initiative"/>
+      <unit id="AHCCFI502A" title="Assess the feasibility of a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI504A" title="Monitor and report on a Carbon Farming Initiative project"/>
+      <unit id="AHCCFI507A" title="Plan a Carbon Farming Initiative waste or manure management project"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00003" title="Cotton Industry Skill Set">
+    <units>
+      <unit id="AHCBAC202A" title="Assist agricultural crop maintenance"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCOHS201A" title="Participate in OHS processes"/>
+      <unit id="AHCWRK202A" title="Observe environmental work practices"/>
+      <unit id="AHCWRK204A" title="Work effectively in the industry"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00004" title="Gravity Fed Irrigation Operator Skill Set">
+    <units>
+      <unit id="AHCIRG301A" title="Implement a maintenance program for an irrigation system"/>
+      <unit id="AHCIRG303A" title="Measure irrigation delivery system performance"/>
+      <unit id="AHCIRG304A" title="Operate gravity fed irrigation systems"/>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="AHCSOL401A" title="Sample soils and interpret results"/>
+      <unit id="AHCWRK313A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00005" title="Irrigation Agronomist Skill Set">
+    <units>
+      <unit id="AHCIRG402A" title="Determine hydraulic parameters for an irrigation system"/>
+      <unit id="AHCIRG404A" title="Implement an irrigation-related environmental protection program"/>
+      <unit id="AHCIRG408A" title="Schedule irrigations"/>
+      <unit id="AHCIRG501A" title="Audit irrigation systems"/>
+      <unit id="AHCIRG504A" title="Develop an irrigation and drainage management plan"/>
+      <unit id="AHCSOL402A" title="Develop a soil use map for a property"/>
+      <unit id="AHCWRK509A" title="Provide specialist advice to clients"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00006" title="Irrigation Contractor Skill Set">
+    <units>
+      <unit id="AHCIRG401A" title="Acquire resources for irrigation installation and construction"/>
+      <unit id="AHCIRG402A" title="Determine hydraulic parameters for an irrigation system"/>
+      <unit id="AHCIRG406A" title="Plan on-site irrigation system installation and construction work"/>
+      <unit id="AHCIRG407A" title="Supervise on-site irrigation installation and construction work"/>
+      <unit id="AHCWRK313A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00007" title="Irrigation Installer Skill Set">
+    <units>
+      <unit id="AHCIRG302A" title="Install irrigation systems"/>
+      <unit id="AHCIRG303A" title="Measure irrigation delivery system performance"/>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="AHCSOL401A" title="Sample soils and interpret results"/>
+      <unit id="AHCWRK313A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUVACD303A" title="Produce technical drawings"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00008" title="Irrigation Manager Skill Set">
+    <units>
+      <unit id="AHCIRG402A" title="Determine hydraulic parameters for an irrigation system"/>
+      <unit id="AHCIRG404A" title="Implement an irrigation-related environmental protection program"/>
+      <unit id="AHCIRG408A" title="Schedule irrigations"/>
+      <unit id="AHCSOL402A" title="Develop a soil use map for a property"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00009" title="Irrigation Retailer Skill Set">
+    <units>
+      <unit id="AHCIRG402A" title="Determine hydraulic parameters for an irrigation system"/>
+      <unit id="AHCWRK208A" title="Provide information on products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00010" title="Pork Industry Stockperson Skill Set">
+    <units>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="AHCLSK331A" title="Comply with industry animal welfare requirements"/>
+      <unit id="AHCOHS301A" title="Contribute to OHS processes"/>
+      <unit id="AHCPRK201A" title="Care for health and welfare of pigs"/>
+      <unit id="AHCPRK203A" title="Move and handle pigs"/>
+      <unit id="AHCWRK206A" title="Observe enterprise quality assurance procedures"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00011" title="Pressurised Irrigation System Operator Skill Set">
+    <units>
+      <unit id="AHCIRG301A" title="Implement a maintenance program for an irrigation system"/>
+      <unit id="AHCIRG303A" title="Measure irrigation delivery system performance"/>
+      <unit id="AHCIRG305A" title="Operate pressurised irrigation systems"/>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="AHCSOL401A" title="Sample soils and interpret results"/>
+      <unit id="AHCWRK313A" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00012" title="Recognise Aboriginal Cultural Sites Skill Set">
+    <units>
+      <unit id="AHCASW302A" title="Relate Aboriginal culture to sites work"/>
+      <unit id="AHCASW303A" title="Identify and record Aboriginal-sites, objects and cultural landscapes"/>
+      <unit id="AHCILM306A" title="Follow Aboriginal cultural protocols"/>
+      <unit id="BSBWHS302A" title="Apply knowledge of WHS legislation in the workplace"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00013" title="Report on Aboriginal Cultural Sites Skill Set">
+    <units>
+      <unit id="AHCASW307A" title="Map Aboriginal cultural landscapes"/>
+      <unit id="AHCASW309A" title="Interpret Aboriginal cultural landscape"/>
+      <unit id="AHCASW501A" title="Survey and report on Aboriginal cultural sites"/>
+      <unit id="AHCILM508A" title="Propose a negotiated outcome for a given area of country"/>
+      <unit id="LGALAND504A" title="Undertake effective consultation with Indigenous people on matters of cultural heritage"/>
+    </units>
+  </skillset>
+  <skillset id="AHCSS00014" title="Seed Crop Field Inspector Skill Set">
+    <units>
+      <unit id="AHCSDP405A" title="Inspect a seed crop for quality assurance purposes"/>
+    </units>
+  </skillset>
+</skillsets>

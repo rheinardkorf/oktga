@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<qualifications class="TDM01">
+  <qualification id="TDM10101" title="Certificate I in Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDM20101" title="Certificate II in Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDM20201" title="Certificate II in Transport and Distribution (Marine Engine Driving)">
+    <units/>
+  </qualification>
+  <qualification id="TDM30101" title="Certificate III in Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDM30201" title="Certificate III in Transport and Distribution (Marine Engine Driving)">
+    <units/>
+  </qualification>
+  <qualification id="TDM40201" title="Certificate IV in Transport and Distribution (Marine Engineering)">
+    <units/>
+  </qualification>
+  <qualification id="TDM40101" title="Certificate IV in Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDM50201" title="Diploma of Transport and Distribution (Marine Engineering)">
+    <units/>
+  </qualification>
+  <qualification id="TDM50101" title="Diploma of Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDM60201" title="Advanced Diploma of Transport and Distribution (Marine Engineering)">
+    <units/>
+  </qualification>
+  <qualification id="TDM60101" title="Advanced Diploma of Transport and Distribution (Maritime Operations)">
+    <units/>
+  </qualification>
+</qualifications>

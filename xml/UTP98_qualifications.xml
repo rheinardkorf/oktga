@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<qualifications class="UTP98">
+  <qualification id="UTP20198" title="Certificate II in ESI Generation (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="UTP20201" title="Certificate II in ESI Generation">
+    <units/>
+  </qualification>
+  <qualification id="UTP30198" title="Certificate III in ESI Generation (Electrical/Electronic)">
+    <units/>
+  </qualification>
+  <qualification id="UTP30298" title="Certificate III in ESI Generation (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="UTP30398" title="Certificate III in ESI Generation (Mechanical)">
+    <units/>
+  </qualification>
+  <qualification id="UTP30498" title="Certificate III in ESI Generation (Fabrication)">
+    <units/>
+  </qualification>
+  <qualification id="UTP40201" title="Certificate IV in ESI Generation (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="UTP40198" title="Certificate IV in ESI Generation (Electrical/Electronic)">
+    <units/>
+  </qualification>
+  <qualification id="UTP40398" title="Certificate IV in ESI Generation (System Operations)">
+    <units/>
+  </qualification>
+  <qualification id="UTP40498" title="Certificate IV in ESI Generation (Mechanical)">
+    <units/>
+  </qualification>
+  <qualification id="UTP40298" title="Certificate IV in ESI Generation (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="UTP50198" title="Diploma of ESI Generation (Electrical/Electronics)">
+    <units/>
+  </qualification>
+  <qualification id="UTP50298" title="Diploma of ESI Generation (Operations)">
+    <units/>
+  </qualification>
+</qualifications>

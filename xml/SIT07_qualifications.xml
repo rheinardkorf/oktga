@@ -1,0 +1,1649 @@
+<?xml version="1.0"?>
+<qualifications class="SIT07">
+  <qualification id="SIT10207" title="Certificate I in Hospitality">
+    <units>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SITHACS003A" title="Provide porter services"/>
+      <unit id="SITHACS004B" title="Provide housekeeping services to guests"/>
+      <unit id="SITHACS005B" title="Prepare rooms for guests"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHACS007B" title="Launder linen and guest clothes"/>
+      <unit id="SITHFAB001C" title="Clean and tidy bar areas"/>
+      <unit id="SITHFAB002C" title="Operate a bar"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TLIE507C" title="Carry out basic workplace calculations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT10307" title="Certificate I in Hospitality (Kitchen Operations)">
+    <units>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC006A" title="Prepare appetisers and salads"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TLIE507C" title="Carry out basic workplace calculations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIT10107" title="Certificate I in Tourism (Australian Indigenous Culture)">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TLIE507C" title="Carry out basic workplace calculations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIT20509" title="Certificate II in Holiday Parks and Resorts">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="RIISAM204A" title="Operate small plant and equipment"/>
+      <unit id="SIFBGM001A" title="Provide general grounds care"/>
+      <unit id="SIFBGM002A" title="Maintain property and structures"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHACS001B" title="Provide accommodation reception services"/>
+      <unit id="SITHACS004B" title="Provide housekeeping services to guests"/>
+      <unit id="SITHACS005B" title="Prepare rooms for guests"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITTHPR301B" title="Plan and organise daily work"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTIND202B" title="Develop and update caravan industry knowledge"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SRCAQU001B" title="Monitor pool water quality"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT20407" title="Certificate II in Hospitality (Asian Cookery)">
+    <units>
+      <unit id="SITHASC001A" title="Use basic Asian methods of cookery"/>
+      <unit id="SITHASC002A" title="Produce appetisers and snacks for Asian cuisines"/>
+      <unit id="SITHASC003A" title="Prepare stocks and soups for Asian cuisines"/>
+      <unit id="SITHASC004A" title="Prepare sauces, dips and accompaniments for Asian cuisines"/>
+      <unit id="SITHASC005A" title="Prepare salads for Asian cuisines"/>
+      <unit id="SITHASC006A" title="Prepare rice and noodles for Asian cuisines"/>
+      <unit id="SITHASC007A" title="Prepare meat, poultry, seafood and vegetables for Asian cuisines"/>
+      <unit id="SITHASC008B" title="Prepare desserts for Asian cuisines"/>
+      <unit id="SITHASC009A" title="Prepare curry paste and powder for Asian cuisines"/>
+      <unit id="SITHASC010A" title="Prepare satay for Asian cuisines"/>
+      <unit id="SITHASC011A" title="Prepare vegetarian dishes for Asian cuisines"/>
+      <unit id="SITHASC016A" title="Prepare and produce Japanese simmered, grilled, deepfried and steamed dishes"/>
+      <unit id="SITHASC017A" title="Prepare and produce Japanese one pot cookery"/>
+      <unit id="SITHASC027A" title="Prepare, cook and serve Asian food for food service"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC029A" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT20107" title="Certificate II in Tourism">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITTGDE008A" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTTOP002A" title="Load touring equipment and conduct pre-departure checks"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTVAF002A" title="Provide a briefing or scripted commentary"/>
+      <unit id="SITTVAF004A" title="Load and unload a ride"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT20207" title="Certificate II in Hospitality">
+    <units>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SITHACS001B" title="Provide accommodation reception services"/>
+      <unit id="SITHACS003A" title="Provide porter services"/>
+      <unit id="SITHACS004B" title="Provide housekeeping services to guests"/>
+      <unit id="SITHACS005B" title="Prepare rooms for guests"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHACS007B" title="Launder linen and guest clothes"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC006A" title="Prepare appetisers and salads"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHFAB001C" title="Clean and tidy bar areas"/>
+      <unit id="SITHFAB002C" title="Operate a bar"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB004A" title="Provide food and beverage service"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB007A" title="Complete retail liquor sales"/>
+      <unit id="SITHFAB008A" title="Provide room service"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB020A" title="Apply food and beverage skills in the workplace"/>
+      <unit id="SITHFAB227A" title="Operate and monitor cellar systems"/>
+      <unit id="SITHGAM001A" title="Attend gaming machines"/>
+      <unit id="SITHGAM002A" title="Operate a TAB outlet"/>
+      <unit id="SITHGAM003A" title="Conduct a Keno game"/>
+      <unit id="SITHGAM006A" title="Provide responsible gambling services"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITHIND002A" title="Apply hospitality skills in the workplace"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCCS004A" title="Provide club reception services"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT20307" title="Certificate II in Hospitality (Kitchen Operations)">
+    <units>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC006A" title="Prepare appetisers and salads"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHCCC008A" title="Prepare stocks, sauces and soups"/>
+      <unit id="SITHCCC009A" title="Prepare vegetables, fruit, eggs and farinaceous dishes"/>
+      <unit id="SITHCCC010A" title="Select, prepare and cook poultry"/>
+      <unit id="SITHCCC011A" title="Select, prepare and cook seafood"/>
+      <unit id="SITHCCC012A" title="Select, prepare and cook meat"/>
+      <unit id="SITHCCC013A" title="Prepare hot and cold desserts"/>
+      <unit id="SITHCCC014A" title="Prepare pastries, cakes and yeast goods"/>
+      <unit id="SITHCCC015A" title="Plan and prepare food for buffets"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITHCCC029A" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHCCC032A" title="Apply cook-chill production processes"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30407" title="Certificate III in Tourism (Visitor Information Services)">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD002A" title="Research tourism data"/>
+      <unit id="SITTPPD003B" title="Source and package tourism products"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTTSL011A" title="Maintain a product inventory"/>
+      <unit id="SITTVAF002A" title="Provide a briefing or scripted commentary"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR002A" title="Create a promotional display or stand"/>
+      <unit id="SITXMPR004A" title="Coordinate marketing activities"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30707" title="Certificate III in Hospitality">
+    <units>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CPPSEC3018A" title="Provide for the safety of persons at risk"/>
+    </units>
+  </qualification>
+  <qualification id="SIT30307" title="Certificate III in Tourism (Tour Wholesaling)">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="SITTGDE002A" title="Provide arrival and departure assistance"/>
+      <unit id="SITTGDE004A" title="Lead tour groups"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD002A" title="Research tourism data"/>
+      <unit id="SITTPPD003B" title="Source and package tourism products"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTTSL011A" title="Maintain a product inventory"/>
+      <unit id="SITTTSL012B" title="Construct domestic airfares"/>
+      <unit id="SITTTSL013B" title="Construct normal international airfares"/>
+      <unit id="SITTTSL014B" title="Construct promotional international airfares"/>
+      <unit id="SITTTSL015B" title="Construct advanced international airfares"/>
+      <unit id="SITTTSL016B" title="Administer billing and settlement plan"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR002A" title="Create a promotional display or stand"/>
+      <unit id="SITXMPR003A" title="Plan and implement sales activities"/>
+      <unit id="SITXMPR004A" title="Coordinate marketing activities"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30907" title="Certificate III in Hospitality (Asian Cookery)">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SITHASC001A" title="Use basic Asian methods of cookery"/>
+      <unit id="SITHASC002A" title="Produce appetisers and snacks for Asian cuisines"/>
+      <unit id="SITHASC003A" title="Prepare stocks and soups for Asian cuisines"/>
+      <unit id="SITHASC004A" title="Prepare sauces, dips and accompaniments for Asian cuisines"/>
+      <unit id="SITHASC005A" title="Prepare salads for Asian cuisines"/>
+      <unit id="SITHASC006A" title="Prepare rice and noodles for Asian cuisines"/>
+      <unit id="SITHASC007A" title="Prepare meat, poultry, seafood and vegetables for Asian cuisines"/>
+      <unit id="SITHASC008B" title="Prepare desserts for Asian cuisines"/>
+      <unit id="SITHASC009A" title="Prepare curry paste and powder for Asian cuisines"/>
+      <unit id="SITHASC010A" title="Prepare satay for Asian cuisines"/>
+      <unit id="SITHASC011A" title="Prepare vegetarian dishes for Asian cuisines"/>
+      <unit id="SITHASC012A" title="Select, prepare and serve specialised Asian cuisines"/>
+      <unit id="SITHASC013B" title="Plan menus for Asian cuisines"/>
+      <unit id="SITHASC015A" title="Prepare and produce Japanese raw fish (sashimi)"/>
+      <unit id="SITHASC016A" title="Prepare and produce Japanese simmered, grilled, deepfried and steamed dishes"/>
+      <unit id="SITHASC017A" title="Prepare and produce Japanese one pot cookery"/>
+      <unit id="SITHASC018A" title="Prepare and produce Japanese rice cookery"/>
+      <unit id="SITHASC019A" title="Prepare and produce Japanese fruit-based desserts, cakes and sweetmeats"/>
+      <unit id="SITHASC020A" title="Prepare and produce Chinese dim sum"/>
+      <unit id="SITHASC021A" title="Prepare and cook Chinese roast meat cuts and poultry"/>
+      <unit id="SITHASC022A" title="Prepare and produce tandoori food items"/>
+      <unit id="SITHASC023A" title="Prepare and produce Indian breads"/>
+      <unit id="SITHASC024A" title="Prepare and produce Indian sweetmeats"/>
+      <unit id="SITHASC025A" title="Prepare Indian pickles and chutneys"/>
+      <unit id="SITHASC026A" title="Prepare and produce Indonesian crackers"/>
+      <unit id="SITHASC027A" title="Prepare, cook and serve Asian food for food service"/>
+      <unit id="SITHASC028A" title="Prepare, cook and serve Asian food for menus"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHCCC016A" title="Develop cost-effective menus"/>
+      <unit id="SITHCCC017A" title="Organise bulk cooking operations"/>
+      <unit id="SITHCCC018A" title="Prepare pates and terrines"/>
+      <unit id="SITHCCC019A" title="Plan, prepare and display a buffet"/>
+      <unit id="SITHCCC020B" title="Prepare portion-controlled meat cuts"/>
+      <unit id="SITHCCC021B" title="Handle and serve cheese"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHCCC023B" title="Select, prepare and serve specialised food items"/>
+      <unit id="SITHCCC024B" title="Select, prepare and serve specialised cuisines"/>
+      <unit id="SITHCCC025A" title="Monitor catering revenue and costs"/>
+      <unit id="SITHCCC026A" title="Establish and maintain quality control of food"/>
+      <unit id="SITHCCC029A" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHCCC032A" title="Apply cook-chill production processes"/>
+      <unit id="SITHCCC033B" title="Apply catering control principles"/>
+      <unit id="SITHCCC034A" title="Apply cook-freeze production processes"/>
+      <unit id="SITHCCC035A" title="Develop menus to meet special dietary and cultural needs"/>
+      <unit id="SITHCCC036B" title="Select catering systems"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+      <unit id="SITXQUA001A" title="Contribute to workplace improvements"/>
+      <unit id="SITXQUA002A" title="Originate and develop a concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30607" title="Certificate III in Events">
+    <units>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CUEAUD03B" title="Operate vision systems"/>
+      <unit id="CUEAUD06B" title="Apply a general knowledge of vision systems to work activities"/>
+      <unit id="CUEFOH03C" title="Provide seating and ticketing advice"/>
+      <unit id="CUEFOH04C" title="Usher patrons"/>
+      <unit id="CUEFOH08B" title="Process incoming customer orders"/>
+      <unit id="CUELGT05B" title="Record and operate standard lighting cues"/>
+      <unit id="CUELGT09A" title="Apply a general knowledge of lighting to work activities"/>
+      <unit id="CUEPRP02B" title="Research, obtain and prepare props"/>
+      <unit id="CUESET05B" title="Apply set construction techniques"/>
+      <unit id="CUESOU07B" title="Apply a general knowledge of audio to work activities"/>
+      <unit id="CUESTA01C" title="Install staging elements"/>
+      <unit id="CUESTA05C" title="Apply a general knowledge of staging to work activities"/>
+      <unit id="CUETGE05C" title="Maintain physical production elements"/>
+      <unit id="CUETGE15B" title="Handle physical elements during bump in_bump out"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="SITHFAB002C" title="Operate a bar"/>
+      <unit id="SITHFAB004A" title="Provide food and beverage service"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTVAF001A" title="Provide venue information and assistance"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SRXFAC001B" title="Maintain equipment for activities"/>
+      <unit id="SRXFAC002B" title="Maintain sport and recreational facilities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30807" title="Certificate III in Hospitality (Commercial Cookery)">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SITHASC001A" title="Use basic Asian methods of cookery"/>
+      <unit id="SITHASC002A" title="Produce appetisers and snacks for Asian cuisines"/>
+      <unit id="SITHASC003A" title="Prepare stocks and soups for Asian cuisines"/>
+      <unit id="SITHASC004A" title="Prepare sauces, dips and accompaniments for Asian cuisines"/>
+      <unit id="SITHASC005A" title="Prepare salads for Asian cuisines"/>
+      <unit id="SITHASC006A" title="Prepare rice and noodles for Asian cuisines"/>
+      <unit id="SITHASC007A" title="Prepare meat, poultry, seafood and vegetables for Asian cuisines"/>
+      <unit id="SITHASC008B" title="Prepare desserts for Asian cuisines"/>
+      <unit id="SITHASC009A" title="Prepare curry paste and powder for Asian cuisines"/>
+      <unit id="SITHASC010A" title="Prepare satay for Asian cuisines"/>
+      <unit id="SITHASC011A" title="Prepare vegetarian dishes for Asian cuisines"/>
+      <unit id="SITHASC012A" title="Select, prepare and serve specialised Asian cuisines"/>
+      <unit id="SITHASC015A" title="Prepare and produce Japanese raw fish (sashimi)"/>
+      <unit id="SITHASC016A" title="Prepare and produce Japanese simmered, grilled, deepfried and steamed dishes"/>
+      <unit id="SITHASC017A" title="Prepare and produce Japanese one pot cookery"/>
+      <unit id="SITHASC018A" title="Prepare and produce Japanese rice cookery"/>
+      <unit id="SITHASC019A" title="Prepare and produce Japanese fruit-based desserts, cakes and sweetmeats"/>
+      <unit id="SITHASC020A" title="Prepare and produce Chinese dim sum"/>
+      <unit id="SITHASC021A" title="Prepare and cook Chinese roast meat cuts and poultry"/>
+      <unit id="SITHASC022A" title="Prepare and produce tandoori food items"/>
+      <unit id="SITHASC023A" title="Prepare and produce Indian breads"/>
+      <unit id="SITHASC024A" title="Prepare and produce Indian sweetmeats"/>
+      <unit id="SITHASC025A" title="Prepare Indian pickles and chutneys"/>
+      <unit id="SITHASC026A" title="Prepare and produce Indonesian crackers"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC006A" title="Prepare appetisers and salads"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHCCC008A" title="Prepare stocks, sauces and soups"/>
+      <unit id="SITHCCC009A" title="Prepare vegetables, fruit, eggs and farinaceous dishes"/>
+      <unit id="SITHCCC010A" title="Select, prepare and cook poultry"/>
+      <unit id="SITHCCC011A" title="Select, prepare and cook seafood"/>
+      <unit id="SITHCCC012A" title="Select, prepare and cook meat"/>
+      <unit id="SITHCCC013A" title="Prepare hot and cold desserts"/>
+      <unit id="SITHCCC014A" title="Prepare pastries, cakes and yeast goods"/>
+      <unit id="SITHCCC015A" title="Plan and prepare food for buffets"/>
+      <unit id="SITHCCC016A" title="Develop cost-effective menus"/>
+      <unit id="SITHCCC017A" title="Organise bulk cooking operations"/>
+      <unit id="SITHCCC018A" title="Prepare pates and terrines"/>
+      <unit id="SITHCCC019A" title="Plan, prepare and display a buffet"/>
+      <unit id="SITHCCC020B" title="Prepare portion-controlled meat cuts"/>
+      <unit id="SITHCCC021B" title="Handle and serve cheese"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHCCC023B" title="Select, prepare and serve specialised food items"/>
+      <unit id="SITHCCC024B" title="Select, prepare and serve specialised cuisines"/>
+      <unit id="SITHCCC025A" title="Monitor catering revenue and costs"/>
+      <unit id="SITHCCC026A" title="Establish and maintain quality control of food"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITHCCC028A" title="Prepare, cook and serve food for menus"/>
+      <unit id="SITHCCC029A" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHCCC032A" title="Apply cook-chill production processes"/>
+      <unit id="SITHCCC033B" title="Apply catering control principles"/>
+      <unit id="SITHCCC034A" title="Apply cook-freeze production processes"/>
+      <unit id="SITHCCC035A" title="Develop menus to meet special dietary and cultural needs"/>
+      <unit id="SITHCCC036B" title="Select catering systems"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+      <unit id="SITXQUA001A" title="Contribute to workplace improvements"/>
+      <unit id="SITXQUA002A" title="Originate and develop a concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT31107" title="Certificate III in Hospitality (Patisserie)">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC013A" title="Prepare hot and cold desserts"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITHFAB001C" title="Clean and tidy bar areas"/>
+      <unit id="SITHFAB002C" title="Operate a bar"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB004A" title="Provide food and beverage service"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB013A" title="Provide specialist advice on food"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITHPAT001A" title="Prepare and produce pastries"/>
+      <unit id="SITHPAT002A" title="Prepare and produce cakes"/>
+      <unit id="SITHPAT003A" title="Prepare and produce yeast goods"/>
+      <unit id="SITHPAT004A" title="Prepare bakery products for patisseries"/>
+      <unit id="SITHPAT005A" title="Prepare and present gateaux, torten and cakes"/>
+      <unit id="SITHPAT006A" title="Present desserts"/>
+      <unit id="SITHPAT007A" title="Prepare and display petits fours"/>
+      <unit id="SITHPAT008A" title="Prepare and model marzipan"/>
+      <unit id="SITHPAT009A" title="Prepare desserts to meet special dietary requirements"/>
+      <unit id="SITHPAT010A" title="Prepare and display sugar work"/>
+      <unit id="SITHPAT011A" title="Plan, prepare and display sweet buffet showpieces"/>
+      <unit id="SITHPAT012A" title="Plan patisserie operations"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+      <unit id="SITXQUA001A" title="Contribute to workplace improvements"/>
+      <unit id="SITXQUA002A" title="Originate and develop a concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30507" title="Certificate III in Tourism (Guiding)">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+      <unit id="SITTGDE001B" title="Work as a guide"/>
+      <unit id="SITTGDE002A" title="Provide arrival and departure assistance"/>
+      <unit id="SITTGDE004A" title="Lead tour groups"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE008A" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTGDE010A" title="Prepare specialised interpretive content on flora, fauna and landscape"/>
+      <unit id="SITTGDE011A" title="Prepare specialised interpretive content on marine environments"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD005A" title="Plan and develop interpretive activities"/>
+      <unit id="SITTTOP002A" title="Load touring equipment and conduct pre-departure checks"/>
+      <unit id="SITTTOP003B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="SITTTOP004B" title="Set up and operate a camp site"/>
+      <unit id="SITTTOP005A" title="Provide camp site catering"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLIC807C" title="Drive coach/bus"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT31007" title="Certificate III in Hospitality (Catering Operations)">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC006A" title="Prepare appetisers and salads"/>
+      <unit id="SITHCCC007A" title="Prepare sandwiches"/>
+      <unit id="SITHCCC008A" title="Prepare stocks, sauces and soups"/>
+      <unit id="SITHCCC009A" title="Prepare vegetables, fruit, eggs and farinaceous dishes"/>
+      <unit id="SITHCCC010A" title="Select, prepare and cook poultry"/>
+      <unit id="SITHCCC011A" title="Select, prepare and cook seafood"/>
+      <unit id="SITHCCC012A" title="Select, prepare and cook meat"/>
+      <unit id="SITHCCC013A" title="Prepare hot and cold desserts"/>
+      <unit id="SITHCCC014A" title="Prepare pastries, cakes and yeast goods"/>
+      <unit id="SITHCCC015A" title="Plan and prepare food for buffets"/>
+      <unit id="SITHCCC016A" title="Develop cost-effective menus"/>
+      <unit id="SITHCCC017A" title="Organise bulk cooking operations"/>
+      <unit id="SITHCCC018A" title="Prepare pates and terrines"/>
+      <unit id="SITHCCC019A" title="Plan, prepare and display a buffet"/>
+      <unit id="SITHCCC020B" title="Prepare portion-controlled meat cuts"/>
+      <unit id="SITHCCC021B" title="Handle and serve cheese"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHCCC023B" title="Select, prepare and serve specialised food items"/>
+      <unit id="SITHCCC024B" title="Select, prepare and serve specialised cuisines"/>
+      <unit id="SITHCCC025A" title="Monitor catering revenue and costs"/>
+      <unit id="SITHCCC026A" title="Establish and maintain quality control of food"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITHCCC029A" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="SITHCCC030A" title="Package prepared foodstuffs"/>
+      <unit id="SITHCCC031A" title="Operate a fast food outlet"/>
+      <unit id="SITHCCC032A" title="Apply cook-chill production processes"/>
+      <unit id="SITHCCC033B" title="Apply catering control principles"/>
+      <unit id="SITHCCC034A" title="Apply cook-freeze production processes"/>
+      <unit id="SITHCCC035A" title="Develop menus to meet special dietary and cultural needs"/>
+      <unit id="SITHCCC036B" title="Select catering systems"/>
+      <unit id="SITHCCC038B" title="Plan catering for an event or function"/>
+      <unit id="SITHFAB001C" title="Clean and tidy bar areas"/>
+      <unit id="SITHFAB002C" title="Operate a bar"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB004A" title="Provide food and beverage service"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB013A" title="Provide specialist advice on food"/>
+      <unit id="SITHFAB018A" title="Provide silver service"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITHIND003A" title="Provide and coordinate hospitality service"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT005B" title="Organise in -house events or functions"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA003A" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+      <unit id="SITXQUA001A" title="Contribute to workplace improvements"/>
+      <unit id="SITXQUA002A" title="Originate and develop a concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT31209" title="Certificate III in Holiday Parks and Resorts">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="RIISAM204A" title="Operate small plant and equipment"/>
+      <unit id="RTE3601A" title="Install irrigation systems"/>
+      <unit id="RTE3605A" title="Troubleshoot irrigation systems"/>
+      <unit id="RTF2017A" title="Prune shrubs and small trees"/>
+      <unit id="RTF2204A" title="Construct low-profile timber or modular retaining walls"/>
+      <unit id="RTF2208A" title="Lay paving"/>
+      <unit id="RTF3036A" title="Plan and establish plant displays"/>
+      <unit id="RTF3204A" title="Construct concrete structures and features"/>
+      <unit id="RTF3217A" title="Set out site for construction works"/>
+      <unit id="SIFBGM001A" title="Provide general grounds care"/>
+      <unit id="SIFBGM002A" title="Maintain property and structures"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHACS001B" title="Provide accommodation reception services"/>
+      <unit id="SITHACS004B" title="Provide housekeeping services to guests"/>
+      <unit id="SITHACS005B" title="Prepare rooms for guests"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITTHPR301B" title="Plan and organise daily work"/>
+      <unit id="SITTHPR302B" title="Plan and organise in-house recreational activities"/>
+      <unit id="SITTHPR303A" title="Tow and site a recreational vehicle safely"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD005A" title="Plan and develop interpretive activities"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTVAF002A" title="Provide a briefing or scripted commentary"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SRCAQU001B" title="Monitor pool water quality"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLIC807C" title="Drive coach/bus"/>
+      <unit id="UEGNSG604A" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30107" title="Certificate III in Tourism">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CULMS412B" title="Record and maintain collection information"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHACS006B" title="Clean premises and equipment"/>
+      <unit id="SITHFAB003A" title="Serve food and beverage to customers"/>
+      <unit id="SITHFAB004A" title="Provide food and beverage service"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB010C" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="SITHFAB011A" title="Develop and update food and beverage knowledge"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITTGDE001B" title="Work as a guide"/>
+      <unit id="SITTGDE002A" title="Provide arrival and departure assistance"/>
+      <unit id="SITTGDE004A" title="Lead tour groups"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE008A" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTGDE010A" title="Prepare specialised interpretive content on flora, fauna and landscape"/>
+      <unit id="SITTGDE011A" title="Prepare specialised interpretive content on marine environments"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD005A" title="Plan and develop interpretive activities"/>
+      <unit id="SITTTOP002A" title="Load touring equipment and conduct pre-departure checks"/>
+      <unit id="SITTTOP003B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="SITTTOP005A" title="Provide camp site catering"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTTSL011A" title="Maintain a product inventory"/>
+      <unit id="SITTVAF002A" title="Provide a briefing or scripted commentary"/>
+      <unit id="SITTVAF003A" title="Operate a ride location"/>
+      <unit id="SITTVAF004A" title="Load and unload a ride"/>
+      <unit id="SITTVAF005B" title="Operate a games location"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS305A" title="Provide lost and found facility"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLIC807C" title="Drive coach/bus"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT30212" title="Certificate III in Travel">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302B" title="Create electronic presentations"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD002A" title="Research tourism data"/>
+      <unit id="SITTPPD003B" title="Source and package tourism products"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL006B" title="Prepare quotations"/>
+      <unit id="SITTTSL007B" title="Receive and process reservations"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITTTSL011A" title="Maintain a product inventory"/>
+      <unit id="SITTTSL012B" title="Construct domestic airfares"/>
+      <unit id="SITTTSL013B" title="Construct normal international airfares"/>
+      <unit id="SITTTSL014B" title="Construct promotional international airfares"/>
+      <unit id="SITTTSL015B" title="Construct advanced international airfares"/>
+      <unit id="SITTTSL016B" title="Administer billing and settlement plan"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM004A" title="Communicate on the telephone"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT002B" title="Provide event staging support"/>
+      <unit id="SITXEVT003B" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXLAN1__A" title="Conduct basic workplace oral communication in a language other than English"/>
+      <unit id="SITXLAN2__A" title="Conduct routine workplace oral communication in a language other than English"/>
+      <unit id="SITXLAN3__A" title="Conduct workplace oral communication in a language other than English"/>
+      <unit id="SITXLAN5__A" title="Read and write workplace information in a language other than English"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR002A" title="Create a promotional display or stand"/>
+      <unit id="SITXMPR004A" title="Coordinate marketing activities"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT40307" title="Certificate IV in Hospitality">
+    <units>
+      <unit id="BSBCMN107A" title="Operate a personal computer"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+    </units>
+  </qualification>
+  <qualification id="SIT40207" title="Certificate IV in Tourism">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBEBU502A" title="Implement e business solutions"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+    </units>
+  </qualification>
+  <qualification id="SIT40407" title="Certificate IV in Hospitality (Commercial Cookery)">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+    </units>
+  </qualification>
+  <qualification id="SIT40809" title="Certificate IV in Holiday Parks and Resorts">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+    </units>
+  </qualification>
+  <qualification id="SIT40107" title="Certificate IV in Tourism (Guiding)">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="SITHFAB005A" title="Provide table service of alcoholic beverages"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB222A" title="Conduct a product tasting for alcoholic beverages"/>
+      <unit id="SITHFAB325A" title="Provide specialised advice on Australian wines"/>
+      <unit id="SITTGDE001B" title="Work as a guide"/>
+      <unit id="SITTGDE002A" title="Provide arrival and departure assistance"/>
+      <unit id="SITTGDE003A" title="Coordinate and operate a tour"/>
+      <unit id="SITTGDE004A" title="Lead tour groups"/>
+      <unit id="SITTGDE005A" title="Manage extended touring programs"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE008A" title="Research and share general information on Australian Indigenous cultures"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTGDE010A" title="Prepare specialised interpretive content on flora, fauna and landscape"/>
+      <unit id="SITTGDE011A" title="Prepare specialised interpretive content on marine environments"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITTPPD004A" title="Plan and implement minimal impact operations"/>
+      <unit id="SITTPPD005A" title="Plan and develop interpretive activities"/>
+      <unit id="SITTTOP001A" title="Allocate tour resources"/>
+      <unit id="SITTTOP002A" title="Load touring equipment and conduct pre-departure checks"/>
+      <unit id="SITTTOP003B" title="Operate and maintain a 4WD tour vehicle"/>
+      <unit id="SITTTOP004B" title="Set up and operate a camp site"/>
+      <unit id="SITTTOP005A" title="Provide camp site catering"/>
+      <unit id="SITTTOP006B" title="Operate tours in a remote area"/>
+      <unit id="SITTTSL001A" title="Operate an online information system"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXENV003A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLIC807C" title="Drive coach/bus"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT40607" title="Certificate IV in Hospitality (Catering Operations)">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+    </units>
+  </qualification>
+  <qualification id="SIT40707" title="Certificate IV in Hospitality (Patisserie)">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPPSEC3018A" title="Provide for the safety of persons at risk"/>
+      <unit id="CUFIMA01A" title="Produce and manipulate digital images"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="ICAS1193B" title="Connect a workstation to the internet"/>
+      <unit id="ICAS2017B" title="Maintain system integrity"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHCCC001B" title="Organise and prepare food"/>
+      <unit id="SITHCCC002A" title="Present food"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITHCCC004B" title="Clean and maintain kitchen premises"/>
+      <unit id="SITHCCC005A" title="Use basic methods of cookery"/>
+      <unit id="SITHCCC013A" title="Prepare hot and cold desserts"/>
+      <unit id="SITHCCC016A" title="Develop cost-effective menus"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHCCC023B" title="Select, prepare and serve specialised food items"/>
+      <unit id="SITHCCC025A" title="Monitor catering revenue and costs"/>
+      <unit id="SITHCCC026A" title="Establish and maintain quality control of food"/>
+      <unit id="SITHCCC027A" title="Prepare, cook and serve food for food service"/>
+      <unit id="SITHCCC038B" title="Plan catering for an event or function"/>
+      <unit id="SITHIND001B" title="Develop and update hospitality industry knowledge"/>
+      <unit id="SITHPAT001A" title="Prepare and produce pastries"/>
+      <unit id="SITHPAT002A" title="Prepare and produce cakes"/>
+      <unit id="SITHPAT003A" title="Prepare and produce yeast goods"/>
+      <unit id="SITHPAT004A" title="Prepare bakery products for patisseries"/>
+      <unit id="SITHPAT005A" title="Prepare and present gateaux, torten and cakes"/>
+      <unit id="SITHPAT006A" title="Present desserts"/>
+      <unit id="SITHPAT007A" title="Prepare and display petits fours"/>
+      <unit id="SITHPAT008A" title="Prepare and model marzipan"/>
+      <unit id="SITHPAT009A" title="Prepare desserts to meet special dietary requirements"/>
+      <unit id="SITHPAT010A" title="Prepare and display sugar work"/>
+      <unit id="SITHPAT011A" title="Plan, prepare and display sweet buffet showpieces"/>
+      <unit id="SITHPAT012A" title="Plan patisserie operations"/>
+      <unit id="SITXADM001A" title="Perform office procedures"/>
+      <unit id="SITXADM002A" title="Source and present information"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="SITXCOM001A" title="Work with colleagues and customers"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+      <unit id="SITXCOM003A" title="Deal with conflict situations"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXENV001A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SITXENV002A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SITXEVT005B" title="Organise in -house events or functions"/>
+      <unit id="SITXFIN001A" title="Process financial transactions"/>
+      <unit id="SITXFIN002A" title="Maintain financial records"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFIN004A" title="Manage finances within a budget"/>
+      <unit id="SITXFIN005A" title="Prepare and monitor budgets"/>
+      <unit id="SITXFIN006A" title="Obtain and manage sponsorship"/>
+      <unit id="SITXFSA001A" title="Implement food safety procedures"/>
+      <unit id="SITXFSA002A" title="Develop and implement a food safety program"/>
+      <unit id="SITXGLC001A" title="Develop and update legal knowledge required for business compliance"/>
+      <unit id="SITXHRM001A" title="Coach others in job skills"/>
+      <unit id="SITXHRM002A" title="Recruit, select and induct staff"/>
+      <unit id="SITXHRM003A" title="Roster staff"/>
+      <unit id="SITXHRM005A" title="Lead and manage people"/>
+      <unit id="SITXHRM006A" title="Monitor staff performance"/>
+      <unit id="SITXHRM009A" title="Provide mentoring support to business colleagues"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXMGT001A" title="Monitor work operations"/>
+      <unit id="SITXMGT002A" title="Develop and implement operational plans"/>
+      <unit id="SITXMGT004A" title="Develop and implement a business plan"/>
+      <unit id="SITXMGT006A" title="Establish and conduct business relationships"/>
+      <unit id="SITXOHS001B" title="Follow health, safety and security procedures"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SITXOHS004B" title="Implement and monitor workplace health, safety and security practices"/>
+      <unit id="SITXQUA001A" title="Contribute to workplace improvements"/>
+      <unit id="SITXQUA002A" title="Originate and develop a concept"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT40507" title="Certificate IV in Hospitality (Asian Cookery)">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+    </units>
+  </qualification>
+  <qualification id="SIT50207" title="Diploma of Events">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CUEFOH06C" title="Manage venue services"/>
+      <unit id="CUESMT10B" title="Organise and facilitate rehearsals"/>
+      <unit id="CUESMT11B" title="Create, update and use production reference documents"/>
+      <unit id="CUETEM03C" title="Establish and manage production requirements and resources"/>
+      <unit id="CUETEM06B" title="Organise and monitor bump in_bump out"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CULLB510B" title="Develop and maintain community/stakeholder relationships"/>
+      <unit id="CULMS012A" title="Plan event touring"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSFIN01A" title="Finance a project"/>
+      <unit id="CUVADM10B" title="Research and utilise revenue and funding opportunities"/>
+      <unit id="FNSACCT407B" title="Set up and operate a computerised accounting system"/>
+      <unit id="SITHCCC038B" title="Plan catering for an event or function"/>
+      <unit id="SITTPPD002A" title="Research tourism data"/>
+      <unit id="SITTPPD003B" title="Source and package tourism products"/>
+      <unit id="SITTPPD006B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="SITTPPD007A" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="SITTPPD009A" title="Assess tourism opportunities for local communities"/>
+      <unit id="SITTTSL002A" title="Access and interpret product information"/>
+      <unit id="SITTTSL003A" title="Source and provide international destination information and advice"/>
+      <unit id="SITTTSL004A" title="Source and provide Australian destination information and advice"/>
+      <unit id="SITTTSL005A" title="Sell tourism products and services"/>
+      <unit id="SITTTSL008B" title="Book and coordinate supplier services"/>
+      <unit id="SITTTSL009B" title="Process travel -related documentation"/>
+      <unit id="SITTTSL010B" title="Control reservations or operations using a computerised system"/>
+      <unit id="SITXADM003A" title="Write business documents"/>
+      <unit id="SITXADM004A" title="Plan and manage meetings"/>
+      <unit id="SITXCCS003A" title="Manage quality customer service"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXCOM006A" title="Address protocol requirements"/>
+      <unit id="SITXEVT001B" title="Develop and update event industry knowledge"/>
+      <unit id="SITXEVT004B" title="Coordinate on-site event registrations"/>
+      <unit id="SITXEVT008A" title="Plan and develop event proposals and bids"/>
+      <unit id="SITXEVT009A" title="Develop event concepts"/>
+      <unit id="SITXEVT010B" title="Evaluate and address event regulatory requirements"/>
+      <unit id="SITXEVT011A" title="Develop crowd control plans and procedures"/>
+      <unit id="SITXEVT012A" title="Select event venues and sites"/>
+      <unit id="SITXEVT013A" title="Manage event staging"/>
+      <unit id="SITXEVT014A" title="Develop conference programs"/>
+      <unit id="SITXEVT015B" title="Manage exhibitions"/>
+      <unit id="SITXEVT016B" title="Organise and monitor event infrastructure"/>
+      <unit id="SITXEVT017B" title="Provide on-site event management services"/>
+      <unit id="SITXEVT018B" title="Develop a transport strategy for an event"/>
+      <unit id="SITXEVT019A" title="Manage multi -venue events"/>
+      <unit id="SITXFIN003A" title="Interpret financial information"/>
+      <unit id="SITXFIN004A" title="Manage finances within a budget"/>
+      <unit id="SITXFIN005A" title="Prepare and monitor budgets"/>
+      <unit id="SITXFIN006A" title="Obtain and manage sponsorship"/>
+      <unit id="SITXHRM002A" title="Recruit, select and induct staff"/>
+      <unit id="SITXHRM004A" title="Manage volunteers"/>
+      <unit id="SITXHRM005A" title="Lead and manage people"/>
+      <unit id="SITXHRM006A" title="Monitor staff performance"/>
+      <unit id="SITXHRM007A" title="Manage workplace diversity"/>
+      <unit id="SITXMGT001A" title="Monitor work operations"/>
+      <unit id="SITXMGT002A" title="Develop and implement operational plans"/>
+      <unit id="SITXMGT003A" title="Manage projects"/>
+      <unit id="SITXMGT005A" title="Manage business risk"/>
+      <unit id="SITXMGT006A" title="Establish and conduct business relationships"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR002A" title="Create a promotional display or stand"/>
+      <unit id="SITXMPR003A" title="Plan and implement sales activities"/>
+      <unit id="SITXMPR004A" title="Coordinate marketing activities"/>
+      <unit id="SITXOHS003B" title="Identify hazards, and assess and control safety risks"/>
+      <unit id="SRXFAC003B" title="Implement facility maintenance programs"/>
+      <unit id="SRXFAC005B" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SRXFAC008B" title="Obtain facilities"/>
+      <unit id="SRXINU003A" title="Analyse participation patterns in specific markets of the leisure and recreation industry"/>
+      <unit id="SRXINU011A" title="Develop and maintain a competitive pricing strategy for a leisure and recreation service"/>
+      <unit id="SRXINU014A" title="Research and document the history of specific leisure and recreation service(s)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT50307" title="Diploma of Hospitality">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+    </units>
+  </qualification>
+  <qualification id="SIT50409" title="Diploma of Holiday Parks and Resorts">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+    </units>
+  </qualification>
+  <qualification id="SIT50107" title="Diploma of Tourism">
+    <units>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBEBU502A" title="Implement e business solutions"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+    </units>
+  </qualification>
+  <qualification id="SIT60207" title="Advanced Diploma of Events">
+    <units>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG509A" title="Implement and monitor direct marketing activities"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="CUEFOH06C" title="Manage venue services"/>
+      <unit id="CUEPMT11B" title="Manage the production process"/>
+      <unit id="CUESMT05B" title="Stage manage the production/event"/>
+      <unit id="CUESMT10B" title="Organise and facilitate rehearsals"/>
+      <unit id="CUESMT11B" title="Create, update and use production reference documents"/>
+      <unit id="CUFPOP03B" title="Compile a production schedule"/>
+      <unit id="CULLB510B" title="Develop and maintain community/stakeholder relationships"/>
+      <unit id="CULMS008A" title="Conceive, develop and realise exhibition designs"/>
+      <unit id="CULMS012A" title="Plan event touring"/>
+      <unit id="CUSFIN01A" title="Finance a project"/>
+      <unit id="CUVADM08B" title="Develop and manage public relations strategies"/>
+      <unit id="SITHCCC038B" title="Plan catering for an event or function"/>
+      <unit id="SITTPPD001B" title="Research, assess and develop tourism products"/>
+      <unit id="SITTPPD006B" title="Plan and develop ecologically sustainable tourism operations"/>
+      <unit id="SITTPPD007A" title="Plan and develop culturally appropriate tourism operations"/>
+      <unit id="SITTPPD009A" title="Assess tourism opportunities for local communities"/>
+      <unit id="SITXCCS003A" title="Manage quality customer service"/>
+      <unit id="SITXEVT006A" title="Research and evaluate event industry trends and practices"/>
+      <unit id="SITXEVT007B" title="Determine event feasibility"/>
+      <unit id="SITXEVT009A" title="Develop event concepts"/>
+      <unit id="SITXEVT010B" title="Evaluate and address event regulatory requirements"/>
+      <unit id="SITXEVT011A" title="Develop crowd control plans and procedures"/>
+      <unit id="SITXEVT012A" title="Select event venues and sites"/>
+      <unit id="SITXEVT013A" title="Manage event staging"/>
+      <unit id="SITXEVT014A" title="Develop conference programs"/>
+      <unit id="SITXEVT015B" title="Manage exhibitions"/>
+      <unit id="SITXEVT016B" title="Organise and monitor event infrastructure"/>
+      <unit id="SITXEVT017B" title="Provide on-site event management services"/>
+      <unit id="SITXEVT018B" title="Develop a transport strategy for an event"/>
+      <unit id="SITXEVT019A" title="Manage multi -venue events"/>
+      <unit id="SITXFIN004A" title="Manage finances within a budget"/>
+      <unit id="SITXFIN005A" title="Prepare and monitor budgets"/>
+      <unit id="SITXFIN006A" title="Obtain and manage sponsorship"/>
+      <unit id="SITXFIN007A" title="Manage physical assets"/>
+      <unit id="SITXFIN008A" title="Manage financial operations"/>
+      <unit id="SITXGLC001A" title="Develop and update legal knowledge required for business compliance"/>
+      <unit id="SITXHRM004A" title="Manage volunteers"/>
+      <unit id="SITXHRM007A" title="Manage workplace diversity"/>
+      <unit id="SITXHRM008A" title="Manage workplace relations"/>
+      <unit id="SITXMGT003A" title="Manage projects"/>
+      <unit id="SITXMGT004A" title="Develop and implement a business plan"/>
+      <unit id="SITXMGT005A" title="Manage business risk"/>
+      <unit id="SITXMGT006A" title="Establish and conduct business relationships"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR005A" title="Develop and manage marketing strategies"/>
+      <unit id="SRXFAC003B" title="Implement facility maintenance programs"/>
+      <unit id="SRXFAC005B" title="Coordinate facility and equipment acquisition and maintenance"/>
+      <unit id="SRXFAC008B" title="Obtain facilities"/>
+      <unit id="SRXFAC009B" title="Plan, develop and commission facility development"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIT60107" title="Advanced Diploma of Tourism">
+    <units/>
+  </qualification>
+  <qualification id="SIT60307" title="Advanced Diploma of Hospitality">
+    <units>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+    </units>
+  </qualification>
+</qualifications>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<qualifications class="WRH00">
+  <qualification id="WRH20100" title="Certificate II in Hairdressing">
+    <units/>
+  </qualification>
+  <qualification id="WRH30100" title="Certificate III in Hairdressing">
+    <units/>
+  </qualification>
+  <qualification id="WRH40100" title="Certificate IV in Hairdressing">
+    <units/>
+  </qualification>
+  <qualification id="WRH50100" title="Diploma of Hairdressing Salon Management">
+    <units/>
+  </qualification>
+</qualifications>

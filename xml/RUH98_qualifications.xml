@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<qualifications class="RUH98">
+  <qualification id="RUH10898" title="Certificate I in Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10498" title="Certificate I in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10698" title="Certificate I in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10798" title="Certificate I in Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10598" title="Certificate I in Horticulture (Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10298" title="Certificate I in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10398" title="Certificate I in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH10198" title="Certificate I in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH20698" title="Certificate II in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20398" title="Certificate II in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20901" title="Certificate II in Rural Operations">
+    <units/>
+  </qualification>
+  <qualification id="RUH20798" title="Certificate II in Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20298" title="Certificate II in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20498" title="Certificate II in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20598" title="Certificate II in Horticulture (Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20898" title="Certificate II in Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH20198" title="Certificate II in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH30698" title="Certificate III in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30598" title="Certificate III in Horticulture (Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30198" title="Certificate III in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH30798" title="Certificate III in Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30298" title="Certificate III in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30898" title="Certificate III in Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30398" title="Certificate III in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH30901" title="Certificate III in Rural Operations">
+    <units/>
+  </qualification>
+  <qualification id="RUH30498" title="Certificate III in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40898" title="Certificate IV in Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40698" title="Certificate IV in Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40798" title="Certificate IV in Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40598" title="Certificate IV in Horticulture (Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40298" title="Certificate IV in Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40198" title="Certificate IV in Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH40398" title="Certificate IV in Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH40498" title="Certificate IV in Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50398" title="Diploma of Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50798" title="Diploma of Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50698" title="Diploma of Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50298" title="Diploma of Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50598" title="Diploma of Horticulture (Nursery)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50198" title="Diploma of Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH50498" title="Diploma of Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH50898" title="Diploma of Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60398" title="Advanced Diploma of Horticulture (Floriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60498" title="Advanced Diploma of Horticulture (Landscape)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60798" title="Advanced Diploma of Horticulture (Turf Management)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60198" title="Advanced Diploma of Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RUH60698" title="Advanced Diploma of Horticulture (Parks and Gardens)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60898" title="Advanced Diploma of Horticulture (Production)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60298" title="Advanced Diploma of Horticulture (Arboriculture)">
+    <units/>
+  </qualification>
+  <qualification id="RUH60598" title="Advanced Diploma of Horticulture (Nursery)">
+    <units/>
+  </qualification>
+</qualifications>

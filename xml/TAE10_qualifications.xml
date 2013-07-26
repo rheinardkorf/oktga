@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<qualifications class="TAE10">
+  <qualification id="TAE40110" title="Certificate IV in Training and Assessment">
+    <units>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEASS502B" title="Design and develop assessment tools"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL403A" title="Coordinate and facilitate distance-based learning"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+      <unit id="TAEDEL501A" title="Facilitate e-learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAEDES402A" title="Use training packages and accredited courses to meet client needs"/>
+      <unit id="TAELLN401A" title="Address adult language, literacy and numeracy skills"/>
+      <unit id="TAETAS401A" title="Maintain training and assessment information"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TAE50310" title="Diploma of International Education Services">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCUS501B" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM505B" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBIND302A" title="Work effectively in the international education services industry"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMKG513A" title="Promote products and services to international markets"/>
+      <unit id="BSBMKG516B" title="Profile international markets"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPMG609A" title="Direct procurement and contracting for a project program"/>
+      <unit id="BSBREL501A" title="Build international client relationships"/>
+      <unit id="BSBREL502A" title="Build international business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="CHCORG14B" title="Manage a service organisation"/>
+      <unit id="TAEEDU401A" title="Coordinate provision of pastoral care services to international students"/>
+      <unit id="TAEEDU501A" title="Facilitate international education compliance"/>
+      <unit id="TAEEDU502A" title="Manage international education issues and incidents"/>
+      <unit id="TAEEDU503A" title="Manage international student recruitment and selection"/>
+      <unit id="TAEEDU504A" title="Manage international education and training processes"/>
+      <unit id="TAEEDU505A" title="Manage international client accommodation services"/>
+      <unit id="TAEEDU506A" title="Facilitate international education events and programs"/>
+      <unit id="TAEEDU507A" title="Manage transnational offshore education programs"/>
+      <unit id="TAEEDU508A" title="Manage international education financial and administrative processes"/>
+      <unit id="TAEEDU509A" title="Use information to enhance international education work role performance"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="TAE50211" title="Diploma of Training Design and Development">
+    <units>
+      <unit id="TAEASS501A" title="Provide advanced assessment practice"/>
+      <unit id="TAEASS502B" title="Design and develop assessment tools"/>
+      <unit id="TAEASS503A" title="Lead assessment validation processes"/>
+      <unit id="TAEASS504A" title="Develop and implement recognition strategies"/>
+      <unit id="TAEDEL501A" title="Facilitate e-learning"/>
+      <unit id="TAEDEL502A" title="Provide advanced facilitation practice"/>
+      <unit id="TAEDES501A" title="Design and develop learning strategies"/>
+      <unit id="TAEDES502A" title="Design and develop learning resources"/>
+      <unit id="TAEDES503A" title="Design and develop e-learning resources"/>
+      <unit id="TAEDES504A" title="Research and develop units of competency"/>
+      <unit id="TAEDES505A" title="Evaluate a training program"/>
+      <unit id="TAEICR501A" title="Work in partnership with industry, enterprises and community groups"/>
+      <unit id="TAELLN401A" title="Address adult language, literacy and numeracy skills"/>
+      <unit id="TAELLN501B" title="Support the development of adult language, literacy and numeracy skills"/>
+      <unit id="TAEPDD501A" title="Maintain and enhance professional practice"/>
+      <unit id="TAERES501A" title="Apply research to training and assessment practice"/>
+      <unit id="TAESUS501A" title="Analyse and apply sustainability skills to learning programs"/>
+      <unit id="TAESUS502A" title="Identify and apply current sustainability education principles and practice to learning programs"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TAE50111" title="Diploma of Vocational Education and Training">
+    <units/>
+  </qualification>
+  <qualification id="TAE70111" title="Vocational Graduate Certificate in Adult Language, Literacy and Numeracy Practice">
+    <units>
+      <unit id="TAEASS505A" title="Lead and coordinate assessment systems and services"/>
+      <unit id="TAEDES502A" title="Design and develop learning resources"/>
+      <unit id="TAELLN501B" title="Support the development of adult language, literacy and numeracy skills"/>
+      <unit id="TAELLN701A" title="Analyse and apply adult literacy teaching practices"/>
+      <unit id="TAELLN702A" title="Analyse and apply adult numeracy teaching practices"/>
+      <unit id="TAELLN703A" title="Develop English language skills of adult learners"/>
+      <unit id="TAELLN704A" title="Implement and evaluate delivery of adult language, literacy and numeracy skills"/>
+      <unit id="TAELLN705A" title="Design and conduct pre-training assessment of adult language, literacy and numeracy skills"/>
+      <unit id="TAELLN706A" title="Lead the delivery of adult language, literacy and numeracy support services"/>
+    </units>
+  </qualification>
+  <qualification id="TAE70210" title="Vocational Graduate Certificate in Management (Learning)">
+    <units>
+      <unit id="BSBFIM701A" title="Manage financial resources"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBITB701A" title="Implement advanced electronic technologies"/>
+      <unit id="BSBLED701A" title="Lead personal and strategic transformation"/>
+      <unit id="BSBLED702A" title="Lead learning strategy implementation"/>
+      <unit id="BSBLED705A" title="Plan and implement a mentoring program"/>
+      <unit id="BSBLED706A" title="Plan and implement a coaching strategy"/>
+      <unit id="BSBLED707A" title="Establish career development services"/>
+      <unit id="BSBLED708A" title="Conduct a career development session"/>
+      <unit id="BSBLED709A" title="Identify and communicate trends in career development"/>
+      <unit id="BSBLED710A" title="Develop human capital"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="PSPHR616A" title="Manage performance management system"/>
+      <unit id="PSPMNGT614A" title="Facilitate knowledge management"/>
+      <unit id="TAELED703A" title="Implement improved learning practice"/>
+      <unit id="TAELED704A" title="Review enterprise e-learning systems and solutions implementation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TAE80312" title="Vocational Graduate Certificate in Digital Education">
+    <units>
+      <unit id="BSBRES801A" title="Initiate and lead applied research"/>
+      <unit id="ICAICT705A" title="Direct ICT procurement"/>
+      <unit id="TAEASS801A" title="Analyse, implement and evaluate e-assessment"/>
+      <unit id="TAEDEL801A" title="Evaluate, implement and use ICT-based educational platforms"/>
+      <unit id="TAEDEL802A" title="Use e-learning with social media"/>
+      <unit id="TAELED703A" title="Implement improved learning practice"/>
+      <unit id="TAELED704A" title="Review enterprise e-learning systems and solutions implementation"/>
+      <unit id="TAELED801A" title="Design pedagogy for e-learning"/>
+      <unit id="TAELED802A" title="Investigate the application of ICT content knowledge"/>
+    </units>
+  </qualification>
+  <qualification id="TAE70311" title="Vocational Graduate Certificate in International Education Services">
+    <units/>
+  </qualification>
+  <qualification id="TAE80210" title="Vocational Graduate Diploma of Management (Learning)">
+    <units>
+      <unit id="BSBFIM701A" title="Manage financial resources"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBITB701A" title="Implement advanced electronic technologies"/>
+      <unit id="BSBLED701A" title="Lead personal and strategic transformation"/>
+      <unit id="BSBLED702A" title="Lead learning strategy implementation"/>
+      <unit id="BSBLED705A" title="Plan and implement a mentoring program"/>
+      <unit id="BSBLED706A" title="Plan and implement a coaching strategy"/>
+      <unit id="BSBLED707A" title="Establish career development services"/>
+      <unit id="BSBLED708A" title="Conduct a career development session"/>
+      <unit id="BSBLED709A" title="Identify and communicate trends in career development"/>
+      <unit id="BSBLED710A" title="Develop human capital"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBRES801A" title="Initiate and lead applied research"/>
+      <unit id="PSPHR616A" title="Manage performance management system"/>
+      <unit id="PSPMNGT614A" title="Facilitate knowledge management"/>
+      <unit id="TAELED703A" title="Implement improved learning practice"/>
+      <unit id="TAELED704A" title="Review enterprise e-learning systems and solutions implementation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="TAE80110" title="Vocational Graduate Diploma of Adult Language, Literacy and Numeracy Leadership">
+    <units>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBRES801A" title="Initiate and lead applied research"/>
+      <unit id="TAELED704A" title="Review enterprise e-learning systems and solutions implementation"/>
+      <unit id="TAELLN701A" title="Analyse and apply adult literacy teaching practices"/>
+      <unit id="TAELLN702A" title="Analyse and apply adult numeracy teaching practices"/>
+      <unit id="TAELLN703A" title="Develop English language skills of adult learners"/>
+      <unit id="TAELLN801A" title="Analyse policy and formulate strategic language, literacy and numeracy response"/>
+      <unit id="TAELLN802A" title="Research and implement new adult language, literacy and numeracy practices"/>
+      <unit id="TAELLN803A" title="Formulate workplace strategy for adult language, literacy and numeracy skill development"/>
+      <unit id="TAELLN804A" title="Design programs to develop adult language, literacy and numeracy skills"/>
+      <unit id="TAELLN805A" title="Formulate strategy for adult language, literacy and numeracy skill development in a community program"/>
+      <unit id="TAELLN806A" title="Initiate, develop and evaluate adult language, literacy and numeracy resources"/>
+      <unit id="TAELLN807A" title="Design, implement and evaluate an adult language, literacy and numeracy professional development program"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

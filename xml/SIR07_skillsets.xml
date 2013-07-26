@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<skillsets class="SIR07">
+  <skillset id="SIRSS00001" title="Coaching and Mentoring">
+    <units>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+  </skillset>
+  <skillset id="SIRSS00003" title="Community Pharmacy Management">
+    <units>
+      <unit id="SIRCCPM501" title="Lead and develop pharmacy teams"/>
+      <unit id="SIRCCPM502" title="Manage pharmacy sales and service delivery"/>
+      <unit id="SIRCCPM503" title="Manage pharmacy premises and equipment"/>
+      <unit id="SIRCCPM504" title="Investigate new front-of-pharmacy products and services"/>
+    </units>
+  </skillset>
+  <skillset id="SIRSS00004" title="Management">
+    <units>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXMGT005A" title="Set strategic plans"/>
+      <unit id="SIRXMGT006A" title="Initiate and implement change"/>
+      <unit id="SIRXSLS009A" title="Manage sales teams"/>
+    </units>
+  </skillset>
+  <skillset id="SIRSS00005" title="Marketing">
+    <units>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXMPR007A" title="Devise a strategic marketing plan"/>
+      <unit id="SIRXSLS009A" title="Manage sales teams"/>
+    </units>
+  </skillset>
+  <skillset id="SIRSS00006" title="Operations">
+    <units>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXINV404" title="Manage retail merchandise"/>
+      <unit id="SIRXSLS009A" title="Manage sales teams"/>
+    </units>
+  </skillset>
+  <skillset id="SIRSS00007" title="Sales">
+    <units>
+      <unit id="SIRRMER517" title="Develop and apply strategies for merchandising and corporate presentation"/>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXSLS008A" title="Develop a sales strategy"/>
+      <unit id="SIRXSLS009A" title="Manage sales teams"/>
+    </units>
+  </skillset>
+</skillsets>

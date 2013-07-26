@@ -1,0 +1,771 @@
+<?xml version="1.0"?>
+<qualifications class="LGA04">
+  <qualification id="LGA10104" title="Certificate I in Local Government">
+    <units>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+    </units>
+  </qualification>
+  <qualification id="LGA10204" title="Certificate I in Local Government (Operational Works)">
+    <units>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAWORK201A" title="Control traffic at a work site"/>
+      <unit id="LGAWORK205A" title="Operate and maintain equipment"/>
+    </units>
+  </qualification>
+  <qualification id="LGA20104" title="Certificate II in Local Government">
+    <units>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAEHRR202B" title="Provide animal care and control"/>
+      <unit id="LGAEHRR203B" title="Support maintenance of public behaviour in areas under council control"/>
+      <unit id="LGAGOVA201B" title="Issue permits"/>
+      <unit id="LGAGOVA202B" title="Process infringement notices"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LGA20204" title="Certificate II in Local Government (Operational Works)">
+    <units>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAEHRW201A" title="Collect waste refuse or recyclables"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+      <unit id="LGAWORK201A" title="Control traffic at a work site"/>
+      <unit id="LGAWORK204A" title="Plan daily work routines"/>
+      <unit id="LGAWORK205A" title="Operate and maintain equipment"/>
+      <unit id="LGAWORK206A" title="Measure and calculate civil materials"/>
+      <unit id="LGAWORK208A" title="Perform field support duties in the construction and maintenance of water reticulation systems"/>
+      <unit id="LGAWORK209A" title="Perform field support duties in the construction and maintenance of sewerage collection systems"/>
+      <unit id="LGAWORK210A" title="Perform field support duties in concrete construction"/>
+      <unit id="LGAWORK211A" title="Perform field support duties in the construction and maintenance of drainage systems"/>
+      <unit id="LGAWORK212A" title="Perform field support duties in a roadwork environment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LGA30104" title="Certificate III in Local Government">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+    </units>
+  </qualification>
+  <qualification id="LGA30304" title="Certificate III in Local Government (Operational Works)">
+    <units>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+      <unit id="LGAWORK301A" title="Evaluate works maintenance needs and priorities"/>
+      <unit id="LGAWORK302A" title="Oversee traffic control plan around a work site"/>
+      <unit id="LGAWORK303A" title="Prepare site for new operational works"/>
+      <unit id="LGAWORK304A" title="Construct and maintain drainage systems"/>
+      <unit id="LGAWORK305A" title="Construct and maintain concrete structures"/>
+      <unit id="LGAWORK306A" title="Construct roads and pavements"/>
+      <unit id="LGAWORK307A" title="Maintain reticulated services"/>
+      <unit id="LGAWORK308A" title="Lead a team"/>
+      <unit id="LGAWORK309A" title="Coordinate the work activities of a team"/>
+      <unit id="LGAWORK310A" title="Maintain roads and pavements"/>
+      <unit id="LGAWORK311A" title="Maintain bridges"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LGA30208" title="Certificate III in Local Government (Health and Environment)">
+    <units>
+      <unit id="AHCCOM303A" title="Operate a compost bagging process"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBOHS405B" title="Contribute to the implementation of emergency procedures"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FPIHAR2206B" title="Operate a mobile chipper/mulcher"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAEHRH302B" title="Undertake water sampling and routine reporting"/>
+      <unit id="LGAEHRH303A" title="Undertake vector control duties"/>
+      <unit id="LGAEHRH304A" title="Perform weed control duties"/>
+      <unit id="LGAEHRH305A" title="Present environmental health education information"/>
+      <unit id="LGAEHRR303B" title="Monitor areas under council jurisdiction"/>
+      <unit id="LGAEHRW201A" title="Collect waste refuse or recyclables"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+      <unit id="LGAREGS303B" title="Enforce legislation to achieve compliance"/>
+      <unit id="NWP208A" title="Perform basic wastewater tests"/>
+      <unit id="NWP218B" title="Perform and record sampling"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA30404" title="Certificate III in Local Government (Regulatory Services)">
+    <units>
+      <unit id="LGACOMP007A" title="Participate in policy development"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE101B" title="Access learning and career development opportunities"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGAGOVA303B" title="Coordinate production of communication materials"/>
+      <unit id="LGAREGS301A" title="Implement parking controls"/>
+      <unit id="LGAREGS302A" title="Operate and maintain council parking facilities"/>
+      <unit id="LGAREGS303B" title="Enforce legislation to achieve compliance"/>
+      <unit id="LGAREGS304A" title="Apply regulatory powers"/>
+      <unit id="LGAREGS305A" title="Undertake animal or reptile control duties"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LGA40404" title="Certificate IV in Local Government (Operational Works)">
+    <units>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGACOM402A" title="Arrange contracts"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM406A" title="Investigate alleged breaches of legislation and prepare documentation"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAWORK401A" title="Develop works maintenance schedule"/>
+      <unit id="LGAWORK402A" title="Prepare for operational works"/>
+      <unit id="LGAWORK403A" title="Manage civil plant and resources"/>
+      <unit id="LGAWORK404A" title="Manage a civil works project"/>
+      <unit id="LGAWORK405A" title="Plan and supervise roadworks"/>
+      <unit id="LGAWORK406A" title="Supervise concrete works"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40708" title="Certificate IV in Local Government (Planning)">
+    <units>
+      <unit id="BCGBC4012A" title="Read and interpret plans and specifications"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM411A" title="Interpret and apply authority to act"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGALAND401A" title="Apply the principles of ecologically sustainable development to council decisions"/>
+      <unit id="LGALAND403A" title="Assess applications for the use of land in council care, control and management"/>
+      <unit id="LGALAND404A" title="Undertake research of the natural and built environment"/>
+      <unit id="LGAPLEM404A" title="Prepare and present geographic information systems data"/>
+      <unit id="LGAPLEM405C" title="Provide assistance in carrying out building inspections"/>
+      <unit id="LGAPLEM406B" title="Analyse the natural and built environment"/>
+      <unit id="LGAPLEM407A" title="Read and interpret titles, covenants and the local planning scheme"/>
+      <unit id="LGAPLEM408A" title="Process building permits"/>
+      <unit id="LGAPLEM409A" title="Draft planning permits and conditions"/>
+      <unit id="LGAPLEM410A" title="Provide service and information in preparing a development application"/>
+      <unit id="LGAPLEM411A" title="Conduct initial assessments of minor planning applications"/>
+      <unit id="LGAPLEM412A" title="Support the planning application, notification and appeals process"/>
+      <unit id="LGAPLEM413A" title="Conduct site inspections to check accuracy of plan and application documentation"/>
+      <unit id="LGAREGS303B" title="Enforce legislation to achieve compliance"/>
+      <unit id="LGAREGS402B" title="Provide evidence in court"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40308" title="Certificate IV in Local Government (Health and Environment)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM411A" title="Interpret and apply authority to act"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAEHRH302B" title="Undertake water sampling and routine reporting"/>
+      <unit id="LGAEHRH403A" title="Operate waste transfer, collection station or landfill facility"/>
+      <unit id="LGAEHRH404A" title="Coordinate and support the delivery of health services"/>
+      <unit id="LGAEHRH405A" title="Conduct routine inspections of food premises"/>
+      <unit id="LGAEHRR301B" title="Monitor and control standards of accommodation"/>
+      <unit id="LGAEHRR302B" title="Monitor and control standards of public swimming pools"/>
+      <unit id="LGAEHRR401A" title="Conduct routine inspections of non-food premises"/>
+      <unit id="LGAEHRR504C" title="Implement public environmental health education programs"/>
+      <unit id="LGAEHRW505B" title="Implement strategies to minimise the impact of waste on the environment"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAREGS402B" title="Provide evidence in court"/>
+      <unit id="LGAREGS406A" title="Support programs to enforce compliance"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL972001A" title="Conduct routine site measurements"/>
+      <unit id="NWP315B" title="Investigate and report on breaches of water industry legislation"/>
+      <unit id="NWP429B" title="Coordinate, implement and report on trade waste monitoring procedures"/>
+      <unit id="NWP430A" title="Evaluate, implement and monitor standard low risk trade waste discharge approvals"/>
+      <unit id="NWP431A" title="Investigate, rectify and report on trade waste incidents"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40204" title="Certificate IV in Local Government Administration">
+    <units>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGACOM402A" title="Arrange contracts"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="LGACOM410A" title="Prepare response to tenders"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGADMIN417A" title="Conduct community consultations"/>
+      <unit id="LGADMIN419A" title="Implement and facilitate community development strategies and programs"/>
+      <unit id="LGADMIN420A" title="Contribute to policy development"/>
+      <unit id="LGADMIN421A" title="Participate in negotiations"/>
+      <unit id="LGADMIN422A" title="Develop and maintain supplier relationships"/>
+      <unit id="LGADMIN423A" title="Provide induction and orientation for new employees"/>
+      <unit id="LGADMIN424A" title="Provide staff development programs"/>
+      <unit id="LGADMIN425A" title="Develop a communication plan"/>
+      <unit id="LGAGOVA401B" title="Administer the electoral roll"/>
+      <unit id="LGAGOVA402A" title="Allocate property address"/>
+      <unit id="LGAGOVA403A" title="Arrange and supervise polling places"/>
+      <unit id="LGAGOVA404B" title="Establish purchasing networks to ensure council is resource effective"/>
+      <unit id="LGAGOVA405A" title="Implement debt recovery procedures"/>
+      <unit id="LGAGOVA406A" title="Implement marketing plan"/>
+      <unit id="LGAGOVA407A" title="Implement rehabilitation systems"/>
+      <unit id="LGAGOVA408B" title="Implement systems to promote a safe and healthy environment for the public and employees"/>
+      <unit id="LGAGOVA409A" title="Maintain property rates and records"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAGOVA411A" title="Prepare accounts for rates"/>
+      <unit id="LGAGOVA412A" title="Prepare council for legal proceedings"/>
+      <unit id="LGAGOVA413B" title="Promote and maintain positive employee relations"/>
+      <unit id="LGAGOVA505B" title="Prepare rate notice forms"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40504" title="Certificate IV in Local Government (Regulatory Services)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM406A" title="Investigate alleged breaches of legislation and prepare documentation"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM408A" title="Represent council at legal proceedings"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAEHRR303B" title="Monitor areas under council jurisdiction"/>
+      <unit id="LGAEHRR304B" title="Operate council pound facilities"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAREGS402B" title="Provide evidence in court"/>
+      <unit id="LGAREGS403A" title="Monitor public behaviour in council areas"/>
+      <unit id="LGAREGS404A" title="Undertake appointed animal control duties and responsibilities"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40604" title="Certificate IV in Local Government (Land Management)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGALAND401A" title="Apply the principles of ecologically sustainable development to council decisions"/>
+      <unit id="LGALAND402A" title="Prepare plans of land management for land in council care, control and management"/>
+      <unit id="LGALAND403A" title="Assess applications for the use of land in council care, control and management"/>
+      <unit id="LGALAND404A" title="Undertake research of the natural and built environment"/>
+      <unit id="LGALAND405A" title="Implement strategies to minimise environmental pollution"/>
+      <unit id="LGALAND406A" title="Respond to native title determination applications"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA40104" title="Certificate IV in Local Government">
+    <units>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGENE401A" title="Monitor council's internal controls"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50208" title="Diploma of Local Government (Health and Environment)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM411A" title="Interpret and apply authority to act"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAEHRH502B" title="Implement immunisation programs"/>
+      <unit id="LGAEHRH506B" title="Monitor premises to minimise the spread of infectious diseases"/>
+      <unit id="LGAEHRH510A" title="Contribute to public health emergency management plan"/>
+      <unit id="LGAEHRH604B" title="Develop and implement environmental health education promotion and awareness strategies"/>
+      <unit id="LGAEHRR402A" title="Respond to environmental health complaints"/>
+      <unit id="LGAEHRR501C" title="Implement council's responsibilities in food safety"/>
+      <unit id="LGAEHRR509A" title="Undertake environmental and nuisance controls"/>
+      <unit id="LGAEHRW503B" title="Implement programs for disposal and containment of waste"/>
+      <unit id="LGAEHRW507A" title="Plan and coordinate a waste collection or recycling service"/>
+      <unit id="LGAEHRW508A" title="Undertake education programs to achieve reduction, reuse and recycling of waste"/>
+      <unit id="LGAEHRW601B" title="Conduct waste management audits and assess needs"/>
+      <unit id="LGAEHRW603B" title="Coordinate the implementation of council's waste management strategy"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="PSPGOV517A" title="Coordinate risk management"/>
+      <unit id="PUAEMR008A" title="Contribute to an emergency risk management process"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50712" title="Diploma of Local Government">
+    <units>
+      <unit id="BSBATSIL503C" title="Manage conflict"/>
+      <unit id="BSBATSIL509B" title="Manage self as a Board member"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CPCCSV5001A" title="Assess the construction of domestic scale buildings"/>
+      <unit id="CPCCSV5004A" title="Apply legislation to urban development and building controls"/>
+      <unit id="CPCCSV5008A" title="Apply building control legislation to building surveying"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5014A" title="Apply building surveying procedures to residential buildings"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM406A" title="Investigate alleged breaches of legislation and prepare documentation"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGADMIN421A" title="Participate in negotiations"/>
+      <unit id="LGADMIN422A" title="Develop and maintain supplier relationships"/>
+      <unit id="LGADMIN525A" title="Undertake business planning"/>
+      <unit id="LGADMIN527A" title="Manage policy development"/>
+      <unit id="LGADMIN529A" title="Manage finances"/>
+      <unit id="LGAGCM701A" title="Govern councils"/>
+      <unit id="LGAGCM708A" title="Develop, lead and build community capacity"/>
+      <unit id="LGAGENE302A" title="Contribute to effective decision making"/>
+      <unit id="LGAGENE303A" title="Contribute to council teams"/>
+      <unit id="LGAGENE304A" title="Conduct effective council meetings"/>
+      <unit id="LGAGENE501A" title="Undertake councillor roles and responsibilities"/>
+      <unit id="LGAGENE503" title="Perform the role of an elected member"/>
+      <unit id="LGAGOVA301B" title="Assist customers with rate enquiries"/>
+      <unit id="LGAGOVA401B" title="Administer the electoral roll"/>
+      <unit id="LGAGOVA404B" title="Establish purchasing networks to ensure council is resource effective"/>
+      <unit id="LGAGOVA405A" title="Implement debt recovery procedures"/>
+      <unit id="LGAGOVA409A" title="Maintain property rates and records"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAGOVA411A" title="Prepare accounts for rates"/>
+      <unit id="LGAGOVA505B" title="Prepare rate notice forms"/>
+      <unit id="LGAGOVA508A" title="Recommend rates and charges"/>
+      <unit id="LGAGOVA618A" title="Resolve valuation and property services disputes"/>
+      <unit id="LGALAND501A" title="Identify environmental assets and prioritise environmental issues"/>
+      <unit id="LGALAND502A" title="Identify native title issues relevant to local government context and functions"/>
+      <unit id="LGALAND503A" title="Develop agreements with native title holders_traditional owners"/>
+      <unit id="LGALAND504A" title="Undertake effective consultation with Indigenous people on matters of cultural heritage"/>
+      <unit id="LGAPLEM405C" title="Provide assistance in carrying out building inspections"/>
+      <unit id="LGAPLEM410A" title="Provide service and information in preparing a development application"/>
+      <unit id="LGAPLEM411A" title="Conduct initial assessments of minor planning applications"/>
+      <unit id="LGAPLEM412A" title="Support the planning application, notification and appeals process"/>
+      <unit id="LGAPLEM602B" title="Assist in developing an environmental management system for the organisation"/>
+      <unit id="LGAPLEM606B" title="Develop ecologically sustainable land management systems"/>
+      <unit id="LGAPLEM609B" title="Manage council parking system"/>
+      <unit id="LGAPLEM612B" title="Protect heritage and cultural assets"/>
+      <unit id="LGAREGS303B" title="Enforce legislation to achieve compliance"/>
+      <unit id="PSPPROC505A" title="Manage procurement risk"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="PSPPROC507A" title="Plan for procurement outcomes"/>
+      <unit id="PSPPROC508A" title="Make procurement decisions"/>
+      <unit id="PSPPROC509A" title="Participate in budget and procurement review processes"/>
+      <unit id="PSPPROC510A" title="Conduct and manage coordinated procurement"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50104" title="Diploma of Local Government Administration">
+    <units>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM601A" title="Acquire and dispose of assets"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGADMIN525A" title="Undertake business planning"/>
+      <unit id="LGADMIN526A" title="Coordinate policy development"/>
+      <unit id="LGADMIN527A" title="Manage policy development"/>
+      <unit id="LGADMIN528A" title="Provide advocacy and representation"/>
+      <unit id="LGADMIN529A" title="Manage finances"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAGOVA501B" title="Contribute to advice to council on legislation"/>
+      <unit id="LGAGOVA502B" title="Develop a marketing strategy"/>
+      <unit id="LGAGOVA503A" title="Implement recruitment systems"/>
+      <unit id="LGAGOVA504A" title="Prepare a council for elections"/>
+      <unit id="LGAGOVA506B" title="Conduct council elections"/>
+      <unit id="LGAGOVA507A" title="Provide advice to council on human resources policies and procedures"/>
+      <unit id="LGAGOVA508A" title="Recommend rates and charges"/>
+      <unit id="LGAGOVA602B" title="Manage the recording and updating of data on council's assets"/>
+      <unit id="LGAGOVA603B" title="Develop a risk management strategy for council assets"/>
+      <unit id="LGAGOVA605A" title="Develop an asset management strategy for the council"/>
+      <unit id="LGAGOVA606B" title="Develop and maintain a community cultural plan"/>
+      <unit id="LGAGOVA607A" title="Develop, implement and monitor a programmed maintenance system of council's assets"/>
+      <unit id="LGAGOVA608A" title="Establish an annual budget that supports council's management and operational plans"/>
+      <unit id="LGAGOVA609A" title="Establish, maintain and evaluate the organisation's OHS system"/>
+      <unit id="LGAGOVA610B" title="Implement computerised asset management systems"/>
+      <unit id="LGAGOVA611B" title="Implement disciplinary and termination procedures"/>
+      <unit id="LGAGOVA612B" title="Implement employee performance management systems"/>
+      <unit id="LGAGOVA613B" title="Measure cost of providing and maintaining council's assets"/>
+      <unit id="LGAGOVA614B" title="Monitor and maintain quality of asset management system"/>
+      <unit id="LGAGOVA615A" title="Provide information on asset management programs and practices"/>
+      <unit id="LGAGOVA616A" title="Provide property asset management services"/>
+      <unit id="LGAGOVA617A" title="Report on assets in accordance with statutory and public reporting requirements"/>
+      <unit id="LGAGOVA618A" title="Resolve valuation and property services disputes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50404" title="Diploma of Local Government (Operational Works)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAWORK501A" title="Prepare preliminary design for operational works"/>
+      <unit id="LGAWORK502A" title="Prepare detailed works project documentation"/>
+      <unit id="LGAWORK503A" title="Undertake project investigation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50604" title="Diploma of Local Government (Regulatory Services)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGACPRV501A" title="Assess crime prevention needs within community groups or geographic areas"/>
+      <unit id="LGACPRV502A" title="Design a crime prevention initiative"/>
+      <unit id="LGACPRV503A" title="Manage and evaluate crime prevention initiatives"/>
+      <unit id="LGACPRV504A" title="Build the capacity of individuals, organisations and communities to support crime prevention"/>
+      <unit id="LGACPRV505A" title="Promote evidence-based approaches to support crime prevention initiatives"/>
+      <unit id="LGACPRV506A" title="Support the mainstreaming of crime prevention principles and practices"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA50508" title="Diploma of Local Government (Planning)">
+    <units>
+      <unit id="CPCCSV5001A" title="Assess the construction of domestic scale buildings"/>
+      <unit id="CPCCSV5004A" title="Apply legislation to urban development and building controls"/>
+      <unit id="CPCCSV5008A" title="Apply building control legislation to building surveying"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5012A" title="Assess timber-framed designs for one and two storey buildings"/>
+      <unit id="CPCCSV5014A" title="Apply building surveying procedures to residential buildings"/>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM411A" title="Interpret and apply authority to act"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGALAND501A" title="Identify environmental assets and prioritise environmental issues"/>
+      <unit id="LGALAND502A" title="Identify native title issues relevant to local government context and functions"/>
+      <unit id="LGAPLAN511A" title="Manage council's development assessment system"/>
+      <unit id="LGAPLAN512A" title="Integrate land use and transport planning"/>
+      <unit id="LGAPLEM501A" title="Achieve an efficient and sustainable use of natural resources"/>
+      <unit id="LGAPLEM503B" title="Conserve and re-establish natural systems"/>
+      <unit id="LGAPLEM504A" title="Develop strategies and approaches to minimise environmental pollution"/>
+      <unit id="LGAPLEM506A" title="Improve community knowledge and skills in environmental management practices"/>
+      <unit id="LGAPLEM507A" title="Maintain spatial database"/>
+      <unit id="LGAPLEM508A" title="Manipulate and analyse data within geographic information systems"/>
+      <unit id="LGAPLEM509A" title="Plan facilities for the users of public transport"/>
+      <unit id="LGAPLEM510A" title="Plan for the safe movement of cyclists"/>
+      <unit id="LGAPLEM511A" title="Plan for the safe movement of pedestrians"/>
+      <unit id="LGAPLEM512A" title="Provide geographic information systems data"/>
+      <unit id="LGAPLEM513A" title="Conduct planning scheme research"/>
+      <unit id="LGAPLEM603B" title="Coordinate information gathering and geographic information systems development in council"/>
+      <unit id="LGAPLEM610A" title="Manage data within council's geographic information system"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA60104" title="Advanced Diploma of Local Government (Operational Works)">
+    <units>
+      <unit id="LGACOM403B" title="Conduct public educational presentations"/>
+      <unit id="LGACOM404B" title="Establish cooperative arrangements with other organisations"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGACOM407B" title="Manage finances within a budget"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGACOM503B" title="Prepare a budget"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACOM603B" title="Develop, implement and review policies and procedures"/>
+      <unit id="LGACOMP024A" title="Develop community relations"/>
+      <unit id="LGACOMP025A" title="Manage a local government project"/>
+      <unit id="LGACOMP026A" title="Provide team leadership"/>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+      <unit id="LGACORE501B" title="Provide quality and timely advice to council"/>
+      <unit id="LGACORE601B" title="Develop, implement and review operational plans"/>
+      <unit id="LGACORE602B" title="Promote and facilitate organisational performance"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+      <unit id="LGAWORK601A" title="Monitor and finalise works projects"/>
+      <unit id="LGAWORK602A" title="Supervise establishment of works projects"/>
+      <unit id="LGAWORK603A" title="Determine and prioritise a council works program"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LGA70108" title="Vocational Graduate Certificate in Local Government Management">
+    <units>
+      <unit id="LGAGCM701A" title="Govern councils"/>
+      <unit id="LGAGCM702A" title="Manage the human resources process in local government"/>
+      <unit id="LGAGCM703A" title="Lead and develop local government staff"/>
+      <unit id="LGAGCM704A" title="Lead the strategic planning process for local government"/>
+      <unit id="LGAGCM705A" title="Manage and improve the organisation's processes"/>
+      <unit id="LGAGCM706A" title="Develop risk management systems"/>
+      <unit id="LGAGCM707A" title="Use financial and economic information for strategic decision making"/>
+      <unit id="LGAGCM708A" title="Develop, lead and build community capacity"/>
+      <unit id="LGAGCM709A" title="Build business opportunities and community initiatives"/>
+      <unit id="LGAGCM710A" title="Manage contracts and contractors"/>
+      <unit id="LGAGCM711A" title="Manage complex projects"/>
+      <unit id="LGAGCM712A" title="Develop and manage an asset management plan"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

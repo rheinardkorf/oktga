@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<qualifications class="UEE06">
+  <qualification id="UEE10106" title="Certificate I in ElectroComms Skills">
+    <units/>
+  </qualification>
+  <qualification id="UEE22006" title="Certificate II in Electrotechnology (Career Start)">
+    <units/>
+  </qualification>
+  <qualification id="UEE20106" title="Certificate II in Air-conditioning Split Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE20706" title="Certificate II in Data and Voice Communications">
+    <units/>
+  </qualification>
+  <qualification id="UEE20606" title="Certificate II in Custom Electronics Assembly and Setup">
+    <units/>
+  </qualification>
+  <qualification id="UEE20506" title="Certificate II in Computer Assembly and Repair">
+    <units/>
+  </qualification>
+  <qualification id="UEE21106" title="Certificate II in Gaming Machines Servicing">
+    <units/>
+  </qualification>
+  <qualification id="UEE20406" title="Certificate II in Winding and Assembly">
+    <units/>
+  </qualification>
+  <qualification id="UEE21806" title="Certificate II in Appliance Servicing - Refrigerants">
+    <units/>
+  </qualification>
+  <qualification id="UEE20906" title="Certificate II in Electronic Assembly">
+    <units/>
+  </qualification>
+  <qualification id="UEE21506" title="Certificate II in Renewable Energy">
+    <units/>
+  </qualification>
+  <qualification id="UEE21606" title="Certificate II in Security Assembly and Setup">
+    <units/>
+  </qualification>
+  <qualification id="UEE21706" title="Certificate II in Technical Support">
+    <units/>
+  </qualification>
+  <qualification id="UEE21406" title="Certificate II in Remote Area Power Supply Maintenance">
+    <units/>
+  </qualification>
+  <qualification id="UEE20206" title="Certificate II in Business Equipment Servicing">
+    <units/>
+  </qualification>
+  <qualification id="UEE22106" title="Certificate II in Sustainable Energy (Career Start)">
+    <units/>
+  </qualification>
+  <qualification id="UEE21005" title="Certificate II in Fire Alarms Servicing">
+    <units/>
+  </qualification>
+  <qualification id="UEE21306" title="Certificate II in Remote Area Essential Service">
+    <units/>
+  </qualification>
+  <qualification id="UEE21906" title="Certificate II in Electronics">
+    <units/>
+  </qualification>
+  <qualification id="UEE21206" title="Certificate II in Antennae Equipment">
+    <units/>
+  </qualification>
+  <qualification id="UEE31806" title="Certificate III in Hazardous areas - Instrumentation">
+    <units/>
+  </qualification>
+  <qualification id="UEE31006" title="Certificate III in Fire Protection Control">
+    <units/>
+  </qualification>
+  <qualification id="UEE30706" title="Certificate III in Switchgear and Control Gear">
+    <units/>
+  </qualification>
+  <qualification id="UEE30306" title="Certificate III in Custom Electronics Installations">
+    <units/>
+  </qualification>
+  <qualification id="UEE30206" title="Certificate III in Computer Equipment">
+    <units/>
+  </qualification>
+  <qualification id="UEE30906" title="Certificate III in Electronics and Communications">
+    <units/>
+  </qualification>
+  <qualification id="UEE31906" title="Certificate III in Explosion-protected equipment overhaul">
+    <units/>
+  </qualification>
+  <qualification id="UEE30106" title="Certificate III in Business Equipment">
+    <units/>
+  </qualification>
+  <qualification id="UEE30606" title="Certificate III in Electrical Machine Repair">
+    <units/>
+  </qualification>
+  <qualification id="UEE30406" title="Certificate III in Data and Voice Communications">
+    <units/>
+  </qualification>
+  <qualification id="UEE30806" title="Certificate III in Electrotechnology Electrician">
+    <units/>
+  </qualification>
+  <qualification id="UEE31206" title="Certificate III in Instrumentation and Control">
+    <units/>
+  </qualification>
+  <qualification id="UEE31306" title="Certificate III in Refrigeration and Air-Conditioning">
+    <units/>
+  </qualification>
+  <qualification id="UEE31706" title="Certificate III in Hazardous areas - Electrician">
+    <units/>
+  </qualification>
+  <qualification id="UEE31106" title="Certificate III in Gaming Electronics">
+    <units/>
+  </qualification>
+  <qualification id="UEE31506" title="Certificate III in Rail - Communications and Networks">
+    <units/>
+  </qualification>
+  <qualification id="UEE31406" title="Certificate III in Security Equipment">
+    <units/>
+  </qualification>
+  <qualification id="UEE30506" title="Certificate III in Appliance Servicing">
+    <units/>
+  </qualification>
+  <qualification id="UEE40906" title="Certificate IV in Industrial Electronics and Control">
+    <units/>
+  </qualification>
+  <qualification id="UEE41206" title="Certificate IV in Electrical - Rail Signalling">
+    <units/>
+  </qualification>
+  <qualification id="UEE40506" title="Certificate IV in Electrical - Air-Conditioning Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE41006" title="Certificate IV in Energy Management and Control">
+    <units/>
+  </qualification>
+  <qualification id="UEE40106" title="Certificate IV in Computer Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE41106" title="Certificate IV in Electrical - Lift Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE40206" title="Certificate IV in Electrical - Data and Voice Communications">
+    <units/>
+  </qualification>
+  <qualification id="UEE41806" title="Certificate IV in Hazardous areas">
+    <units/>
+  </qualification>
+  <qualification id="UEE41606" title="Certificate IV in Renewable Energy">
+    <units/>
+  </qualification>
+  <qualification id="UEE41506" title="Certificate IV in Video and Audio Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE40706" title="Certificate IV in Electronics and Communications">
+    <units/>
+  </qualification>
+  <qualification id="UEE40806" title="Certificate IV in Electrical - Fire Protection Control Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE40406" title="Certificate IV in Electrical - Instrumentation">
+    <units/>
+  </qualification>
+  <qualification id="UEE40306" title="Certificate IV in Electrical Installation Inspection and Audits">
+    <units/>
+  </qualification>
+  <qualification id="UEE41306" title="Certificate IV in Refrigeration and Air-Conditioning Servicing">
+    <units/>
+  </qualification>
+  <qualification id="UEE41406" title="Certificate IV in Refrigeration and Air-Conditioning Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE41706" title="Certificate IV in Rail - Communications and Network Systems">
+    <units/>
+  </qualification>
+  <qualification id="UEE40606" title="Certificate IV in Electrotechnology - Systems Electrician">
+    <units/>
+  </qualification>
+  <qualification id="UEE50106" title="Diploma of Computer Systems Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50606" title="Diploma of Refrigeration and Air-Conditioning Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50406" title="Diploma of Electrical Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50506" title="Diploma of Electronics and Communications Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50806" title="Diploma of Research and Development">
+    <units/>
+  </qualification>
+  <qualification id="UEE50306" title="Diploma of Electrical and Refrigeration and Air-Conditioning">
+    <units/>
+  </qualification>
+  <qualification id="UEE50706" title="Diploma of Renewable Energy Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50906" title="Diploma of Industrial Electronics and Control Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE50206" title="Diploma of Electrical and Instrumentation">
+    <units/>
+  </qualification>
+  <qualification id="UEE60406" title="Advanced Diploma of Computer Systems Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE61206" title="Advanced Diploma of Engineering - Explosion protection">
+    <units/>
+  </qualification>
+  <qualification id="UEE60806" title="Advanced Diploma of Refrigeration and Air-Conditioning - Technology">
+    <units/>
+  </qualification>
+  <qualification id="UEE61006" title="Advanced Diploma of Renewable Energy - Technology">
+    <units/>
+  </qualification>
+  <qualification id="UEE60306" title="Advanced Diploma of Electrical/Electronic - Technology">
+    <units/>
+  </qualification>
+  <qualification id="UEE60106" title="Advanced Diploma of Electrical Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE61106" title="Advanced Diploma of Automated Systems Maintenance Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE60506" title="Advanced Diploma of Computer Systems - Technology">
+    <units/>
+  </qualification>
+  <qualification id="UEE60906" title="Advanced Diploma of Renewable Energy Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE60606" title="Advanced Diploma of Industrial Electronics and Control Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE60706" title="Advanced Diploma of Refrigeration and Air-Conditioning Engineering">
+    <units/>
+  </qualification>
+  <qualification id="UEE60206" title="Advanced Diploma of Electronics and Communications Engineering">
+    <units/>
+  </qualification>
+</qualifications>

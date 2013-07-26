@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<skillsets class="MEA07">
+  <skillset id="MEASS00001" title="Aircraft audio and visual system and reproducer repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA288A" title="Repair or overhaul aircraft audio and visual systems and reproducers"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00002" title="Aircraft display, control and distribution system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA252B" title="Test, align and troubleshoot aircraft synchro and servo system components"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA283A" title="Repair or overhaul aircraft display, control and distribution system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00003" title="Aircraft egress system maintenance">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105B" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA601A" title="Maintain aircraft egress systems"/>
+      <unit id="PUADEFEO101C" title="Work safely with explosive ordnance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00004" title="Aircraft pulse system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA285A" title="Repair or overhaul aircraft radio frequency communication and navigation system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00005" title="Aircraft radio frequency communication and navigation system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA285A" title="Repair or overhaul aircraft radio frequency communication and navigation system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00006" title="Airframe - B1 Licence Exclusion E10 Removal">
+    <units>
+      <unit id="MEA359A" title="Inspect and repair aircraft wooden structures"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00007" title="Airframe - B1 Licence Exclusion E13 Removal">
+    <units>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00008" title="Airframe - B1 Licence Exclusion E14 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA362A" title="Maintain aircraft vapour cycle air conditioning systems"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00009" title="Airframe - B1 Licence Exclusion E9 Removal">
+    <units>
+      <unit id="MEA357A" title="Inspect, test and repair aircraft fabric surfaces"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00010" title="Airframe - B1.1 Licence Exclusion E15 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA303C" title="Remove and install aircraft pneumatic system components"/>
+      <unit id="MEA310C" title="Inspect, test and troubleshoot aircraft pneumatic systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00011" title="Airframe - B1.1 Licence Exclusion E16 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA208C" title="Remove and install aircraft pressurisation control system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA219C" title="Inspect, test and troubleshoot aircraft pressurisation control systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA303C" title="Remove and install aircraft pneumatic system components"/>
+      <unit id="MEA310C" title="Inspect, test and troubleshoot aircraft pneumatic systems and components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA323B" title="Perform advanced troubleshooting in aircraft mechanical maintenance"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MEASS00012" title="Airframe - B1.1 Licence Exclusion E2 Removal">
+    <units>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA303C" title="Remove and install aircraft pneumatic system components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA317C" title="Remove and install pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA318B" title="Inspect aircraft hydro-mechanical, mechanical, gaseous and landing gear systems and components"/>
+      <unit id="MEA319B" title="Inspect gas turbine engine systems and components"/>
+      <unit id="MEA320B" title="Test and troubleshoot aircraft hydro-mechanical, mechanical, gaseous and landing gear systems and components"/>
+      <unit id="MEA321B" title="Test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA322B" title="Test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA323B" title="Perform advanced troubleshooting in aircraft mechanical maintenance"/>
+      <unit id="MEA325B" title="Weigh aircraft and perform aircraft weight and balance calculations as a result of modifications"/>
+      <unit id="MEA328C" title="Maintain and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA339B" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MEASS00013" title="Airframe - B1.2 Licence Exclusion E16 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA356A" title="Maintain light piston engine aircraft pressurisation systems"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00014" title="Airframe - B1.2 Licence Exclusion E2 Removal">
+    <units>
+      <unit id="MEA302C" title="Remove and install aircraft hydro-mechanical and landing gear system components"/>
+      <unit id="MEA304C" title="Remove and install non-pressurised aircraft structural and non-structural components"/>
+      <unit id="MEA305C" title="Remove and install aircraft fixed wing flight control system components"/>
+      <unit id="MEA309C" title="Inspect, test and troubleshoot aircraft hydro-mechanical and landing gear systems and components"/>
+      <unit id="MEA312C" title="Inspect, test and troubleshoot aircraft fixed wing flight control systems and components"/>
+      <unit id="MEA325B" title="Weigh aircraft and perform aircraft weight and balance calculations as a result of modifications"/>
+      <unit id="MEA328C" title="Maintain and_or repair aircraft mechanical components or parts"/>
+      <unit id="MEA339B" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA354A" title="Maintain light aircraft pneumatic systems"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00015" title="Airframe - B1.2 Licence Exclusion E2 Removal (when competencies are being gained on basic light aircraft)">
+    <units>
+      <unit id="MEA351A" title="Maintain airframe systems of basic light fixed wing aircraft"/>
+      <unit id="MEA363A" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00016" title="Airframe - B1.4 Licence Exclusion E2 Removal (when competencies are being gained on basic helicopters)">
+    <units>
+      <unit id="MEA352A" title="Maintain basic rotary wing aircraft systems"/>
+      <unit id="MEA363A" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00018" title="Airframe - B11 Licence Exclusion E2 Removal (when competencies are being gained on basic light aircraft with gas turbine engine)">
+    <units>
+      <unit id="MEA351A" title="Maintain airframe systems of basic light fixed wing aircraft"/>
+      <unit id="MEA363A" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA364A" title="Maintain and_or repair small aircraft mechanical components or parts"/>
+      <unit id="MEA365A" title="Assess structural repair/modification requirements and evaluate structural repairs and modifications"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00020" title="Airframe_Engine - B1.1 and 1.2 Licence Exclusion E12 Removal">
+    <units>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00021" title="Borescope inspection approval">
+    <units>
+      <unit id="MEA366A" title="Perform borescope inspections"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00022" title="Composite structure maintenance">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105B" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA401B" title="Inspect aircraft structures"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00023" title="Electrical - B1.1 Licence Exclusions E1 and E4 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA223C" title="Inspect aircraft electrical systems and components"/>
+      <unit id="MEA227C" title="Test and troubleshoot aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00024" title="Electrical - B1.2, B1.3 or B1.4 Licence Exclusions E1 and E4 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00025" title="Electrical - B2 Licence Exclusion E32 Removal">
+    <units>
+      <unit id="MEA202C" title="Remove and install basic aircraft electrical system components"/>
+      <unit id="MEA210C" title="Inspect, test and troubleshoot basic aircraft electrical systems and components"/>
+      <unit id="MEA277A" title="Maintain twin engine aircraft electrical systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00026" title="Electrical - B2 Licence Exclusions E1 and E4 Removal">
+    <units>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA223C" title="Inspect aircraft electrical systems and components"/>
+      <unit id="MEA227C" title="Test and troubleshoot aircraft electrical systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00027" title="Electrical - B2 Licence Exclusions E1 and E4 Removal (when competencies are being gained on basic light aircraft or helicopters)">
+    <units>
+      <unit id="MEA202C" title="Remove and install basic aircraft electrical system components"/>
+      <unit id="MEA210C" title="Inspect, test and troubleshoot basic aircraft electrical systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00028" title="Electrical component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA286A" title="Repair or overhaul aircraft electrical_electro-mechanical components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00029" title="Electro- hydraulic component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA380A" title="Repair and_or overhaul aircraft hydraulic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00030" title="Electro-pneumatic component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA381A" title="Repair and_or overhaul aircraft pneumatic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00031" title="Engine - B1.2 or 1.4 Licence Exclusion E33 Removal">
+    <units>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00032" title="Fuel system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA382A" title="Repair and_or overhaul aircraft fuel system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00033" title="Gas turbine engine air inlet and compressor module_component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA383A" title="Repair and/or overhaul gas turbine engine air inlet and compressor components and/or modules"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00034" title="Gas turbine engine ancillary section module_component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA386A" title="Repair and_or overhaul gas turbine engine ancillary section components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00035" title="Gas turbine engine combustion section module_component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA384A" title="Repair and/or overhaul gas turbine engine combustion section components and/or modules"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00036" title="Gas turbine engine turbine and exhaust module_component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA385A" title="Repair and/or overhaul gas turbine engine turbine and exhaust section components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00037" title="Hydraulic system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA380A" title="Repair and_or overhaul aircraft hydraulic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00038" title="In-flight entertainment system maintenance">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105B" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA264A" title="Remove and install aircraft electrical/avionic components during line maintenance"/>
+      <unit id="MEA265A" title="Remove and install general aircraft electrical hardware"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00039" title="Instrument - B1 Licence Exclusions E5 and E7 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA343B" title="Remove and install avionic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00040" title="Instrument - B2 Licence Exclusion E27 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA291A" title="Inspect, test and troubleshoot fixed wing single axis autopilot systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00041" title="Instrument - B2 Licence Exclusion E28 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA217C" title="Inspect, test and troubleshoot fixed wing autopilot systems and components"/>
+      <unit id="MEA218C" title="Inspect, test and troubleshoot rotary wing autopilot systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00042" title="Instrument - B2 Licence Exclusion E29 Removal">
+    <units>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA213C" title="Inspect, test and troubleshoot advanced aircraft instrument systems"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00043" title="Instrument - B2 Licence Exclusion E30 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA233C" title="Inspect, test and troubleshoot aircraft inertial navigation and reference systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00044" title="Instrument - B2 Licence Exclusion E31 Removal">
+    <units>
+      <unit id="MEA208C" title="Remove and install aircraft pressurisation control system components"/>
+      <unit id="MEA219C" title="Inspect, test and troubleshoot aircraft pressurisation control systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00045" title="Instrument - B2 Licence Exclusions E5 and E7 Removal">
+    <units>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA224B" title="Inspect aircraft instrument systems and components"/>
+      <unit id="MEA225B" title="Inspect fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA226C" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA228C" title="Test and troubleshoot aircraft instrument systems and components"/>
+      <unit id="MEA230B" title="Test and troubleshoot fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA231B" title="Inspect, test and troubleshoot rotary wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA235B" title="Perform advanced troubleshooting in aircraft avionic maintenance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00046" title="Instrument and Radio - B1 Licence Exclusion E6 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA343B" title="Remove and install avionic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00047" title="Instrument and Radio - B2 Licence Exclusion E6 Removal">
+    <units>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA224B" title="Inspect aircraft instrument systems and components"/>
+      <unit id="MEA225B" title="Inspect fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA226C" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA228C" title="Test and troubleshoot aircraft instrument systems and components"/>
+      <unit id="MEA229C" title="Test and troubleshoot aircraft radio frequency navigation and communications systems and components"/>
+      <unit id="MEA230B" title="Test and troubleshoot fixed wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA231B" title="Inspect, test and troubleshoot rotary wing aircraft automatic flight control systems and components"/>
+      <unit id="MEA232B" title="Test and troubleshoot aircraft pulse systems and components"/>
+      <unit id="MEA235B" title="Perform advanced troubleshooting in aircraft avionic maintenance"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MEASS00048" title="Instrument and Radio - B2 Licence Exclusion E6 Removal (Non-Type Rated Aircraft and Helicopters Only)">
+    <units>
+      <unit id="MEA205C" title="Remove and install advanced aircraft instrument system components"/>
+      <unit id="MEA213C" title="Inspect, test and troubleshoot advanced aircraft instrument systems"/>
+      <unit id="MEA289A" title="Maintain basic light aircraft avionic systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00049" title="Mechanical and electro-mechanical instrument component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA252B" title="Test, align and troubleshoot aircraft synchro and servo system components"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA284A" title="Repair or overhaul aircraft instrument system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00050" title="Mechanical system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA391A" title="Repair and_or overhaul aircraft mechanical system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00051" title="Mechanical system component repair_overhaul_2">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA391A" title="Repair and_or overhaul aircraft mechanical system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00052" title="Oxygen system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA287A" title="Repair or overhaul aircraft oxygen system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00053" title="Piston engine repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA388A" title="Repair and_or overhaul piston engines"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00054" title="Pneumatic system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA381A" title="Repair and_or overhaul aircraft pneumatic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00055" title="Power Plant - B1.1 Licence Exclusion E3 Removal">
+    <units>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA307C" title="Remove and install propeller systems and components"/>
+      <unit id="MEA315C" title="Inspect, test and troubleshoot propeller systems and components"/>
+      <unit id="MEA319B" title="Inspect gas turbine engine systems and components"/>
+      <unit id="MEA322B" title="Test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA323B" title="Perform advanced troubleshooting in aircraft mechanical maintenance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00056" title="Power Plant - B1.2 Licence Exclusion E3 Removal">
+    <units>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00057" title="Power Plant - B1.2 Licence Exclusion E3 Removal (when competencies are being gained on basic light aircraft)">
+    <units>
+      <unit id="MEA353A" title="Maintain basic light aircraft engines and propellers"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00058" title="Power Plant - B1.3 Licence Exclusion E3 Removal">
+    <units>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA319B" title="Inspect gas turbine engine systems and components"/>
+      <unit id="MEA322B" title="Test and troubleshoot gas turbine engine systems and components"/>
+      <unit id="MEA323B" title="Perform advanced troubleshooting in aircraft mechanical maintenance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00059" title="Power Plant - B1.4 Licence Exclusion E3 Removal">
+    <units>
+      <unit id="MEA306C" title="Remove and install engines and engine system components"/>
+      <unit id="MEA313C" title="Inspect, test and troubleshoot piston engine systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00060" title="Power Plant - B1.4 Licence Exclusion E3 Removal (when competencies are being gained on basic helicopters)">
+    <units>
+      <unit id="MEA353A" title="Maintain basic light aircraft engines and propellers"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00061" title="Propeller repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA389A" title="Repair and_or overhaul propellers"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00062" title="Radio - B1 Licence Exclusion E8 Removal">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA203C" title="Remove and install advanced aircraft electrical system components"/>
+      <unit id="MEA211C" title="Inspect, test and troubleshoot advanced aircraft electrical systems and components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA343B" title="Remove and install avionic system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00063" title="Radio - B1.2 and 1.4 Licence Exclusion E8 Removal (when competencies are being gained on basic light aircraft or helicopters)">
+    <units>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA276A" title="Maintain basic aircraft communication and radio navigation systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00064" title="Radio - B2 Licence Exclusion E11 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA215C" title="Inspect, test and troubleshoot advanced aircraft communications systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00065" title="Radio - B2 Licence Exclusion E18 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA214C" title="Inspect, test and troubleshoot aircraft basic communication and radio navigation systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00066" title="Radio - B2 Licence Exclusion E19 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA214C" title="Inspect, test and troubleshoot aircraft basic communication and radio navigation systems and components"/>
+      <unit id="MEA226C" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA229C" title="Test and troubleshoot aircraft radio frequency navigation and communications systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00067" title="Radio - B2 Licence Exclusion E20 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA216C" title="Inspect, test and troubleshoot instrument landing systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00068" title="Radio - B2 Licence Exclusion E21 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA220C" title="Inspect, test and troubleshoot aircraft primary radar systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00069" title="Radio - B2 Licence Exclusion E22 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00070" title="Radio - B2 Licence Exclusion E23 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00071" title="Radio - B2 Licence Exclusion E24 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00072" title="Radio - B2 Licence Exclusion E25 Removal">
+    <units>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA221C" title="Inspect, test and troubleshoot aircraft secondary radar systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00073" title="Radio - B2 Licence Exclusion E26 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA234C" title="Inspect, test and troubleshoot aircraft global navigation systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00074" title="Radio - B2 Licence Exclusion E8 Removal">
+    <units>
+      <unit id="MEA206C" title="Remove and install aircraft basic radio communication and navigation system components"/>
+      <unit id="MEA207C" title="Remove and install aircraft electronic system components"/>
+      <unit id="MEA226C" title="Inspect aircraft electronic systems and components"/>
+      <unit id="MEA229C" title="Test and troubleshoot aircraft radio frequency navigation and communications systems and components"/>
+      <unit id="MEA232B" title="Test and troubleshoot aircraft pulse systems and components"/>
+      <unit id="MEA235B" title="Perform advanced troubleshooting in aircraft avionic maintenance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00075" title="Radio - B2 Licence Exclusion E8 Removal (when competencies are being gained on non-type rated aircraft and helicopters)">
+    <units>
+      <unit id="MEA289A" title="Maintain basic light aircraft avionic systems and components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00076" title="Rotary wing dynamic component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA390A" title="Repair and_or overhaul rotary wing dynamic components"/>
+    </units>
+  </skillset>
+</skillsets>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<qualifications class="TDT02">
+  <qualification id="TDT10202" title="Certificate I in Transport And Distribution (Road Transport)">
+    <units/>
+  </qualification>
+  <qualification id="TDT10302" title="Certificate I in Transport and Distribution (Stevedoring)">
+    <units/>
+  </qualification>
+  <qualification id="TDT10702" title="Certificate I in Transport and Distribution (Rail Infrastructure)">
+    <units/>
+  </qualification>
+  <qualification id="TDT10402" title="Certificate I in Transport and Distribution (Rail Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT11102" title="Certificate I in Transport and Distribution (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="TDT10102" title="Certificate I in Transport and Distribution (Warehousing and Storage)">
+    <units/>
+  </qualification>
+  <qualification id="TDT20302" title="Certificate II in Transport and Distribution (Stevedoring)">
+    <units/>
+  </qualification>
+  <qualification id="TDT20202" title="Certificate II in Transport and Distribution (Road Transport)">
+    <units/>
+  </qualification>
+  <qualification id="TDT20702" title="Certificate II in Transport and Distribution (Rail Infrastructure)">
+    <units/>
+  </qualification>
+  <qualification id="TDT21102" title="Certificate II in Transport and Distribution (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="TDT20402" title="Certificate II in Transport and Distribution (Rail Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT20102" title="Certificate II in Transport and Distribution (Warehousing and Storage)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30102" title="Certificate III in Transport and Distribution (Warehousing and Storage)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30702" title="Certificate III in Transport and Distribution (Rail Infrastructure)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30302" title="Certificate III in Transport and Distribution (Stevedoring)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30202" title="Certificate III in Transport and Distribution (Road Transport)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30802" title="Certificate III in Transport and Distribution (Cash in Transit)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30902" title="Certificate III in Transport and Distribution (Mobile Cranes Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT31102" title="Certificate III in Transport and Distribution (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="TDT30402" title="Certificate III in Transport and Distribution (Rail Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40102" title="Certificate IV in Transport and Distribution (Warehousing and Storage)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40902" title="Certificate IV in Transport and Distribution (Mobile Cranes Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40402" title="Certificate IV in Transport and Distribution (Rail Operations)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40302" title="Certificate IV in Transport and Distribution (Stevedoring)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40202" title="Certificate IV in Transport and Distribution (Road Transport)">
+    <units/>
+  </qualification>
+  <qualification id="TDT40702" title="Certificate IV in Transport and Distribution (Rail Infrastructure)">
+    <units/>
+  </qualification>
+  <qualification id="TDT41102" title="Certificate IV in Transport and Distribution (Administration)">
+    <units/>
+  </qualification>
+  <qualification id="TDT51002" title="Diploma of Logistics Management">
+    <units/>
+  </qualification>
+  <qualification id="TDT61002" title="Advanced Diploma of Logistics Management">
+    <units/>
+  </qualification>
+</qualifications>

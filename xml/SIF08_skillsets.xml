@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<skillsets class="SIF08">
+  <skillset id="SIFSS00001" title="Safe Gravedigging Skill Set">
+    <units>
+      <unit id="SIFBCR017A" title="Prepare for gravedigging"/>
+      <unit id="SIFBCR018A" title="Backfill and make good graves"/>
+      <unit id="SIFBCR020A" title="Dig a grave manually"/>
+      <unit id="SIFBCR021A" title="Consolidate collapsed graves"/>
+      <unit id="SIFBCR023A" title="Dig a grave using machinery"/>
+      <unit id="SIFBCR025A" title="Exhume a burial site"/>
+      <unit id="SIFOHS001A" title="Follow OHS procedures"/>
+      <unit id="SIFOHS004A" title="Work in confined spaces"/>
+      <unit id="SIFOHS007A" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+    </units>
+  </skillset>
+</skillsets>

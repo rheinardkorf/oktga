@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<qualifications class="PRD01">
+  <qualification id="PRD30201" title="Certificate III in Property (Livestock Services)">
+    <units/>
+  </qualification>
+  <qualification id="PRD30301" title="Certificate III in Spatial Information Services">
+    <units/>
+  </qualification>
+  <qualification id="PRD30101" title="Certificate III in Property (Real Estate)">
+    <units/>
+  </qualification>
+  <qualification id="PRD30504" title="Certificate III in Property (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRD40403" title="Certificate IV in Property (Business Broking)">
+    <units/>
+  </qualification>
+  <qualification id="PRD40201" title="Certificate IV in Property (Stock and Station Agency)">
+    <units/>
+  </qualification>
+  <qualification id="PRD40504" title="Certificate IV in Property (Operations)">
+    <units>
+      <unit id="PRDPOD411A" title="Contribute to the development of a tenancy mix strategy"/>
+      <unit id="PRDPOD412A" title="Participate in research of property investment"/>
+      <unit id="PRDPOD413A" title="Contribute to lifecycle maintenance strategy"/>
+      <unit id="PRDPOD414A" title="Facilitate meetings"/>
+      <unit id="PRDPOD415A" title="Arrange the lease of space"/>
+      <unit id="PRDPOD416A" title="Monitor space use"/>
+      <unit id="PRDPOD417A" title="Monitor service requirements"/>
+      <unit id="PRDPOD418A" title="Advise on performance of asset"/>
+      <unit id="PRDPOD419A" title="Occupy space"/>
+      <unit id="PRDPOD420A" title="Coordinate fit-out of property and facilities"/>
+      <unit id="PRDPOD421A" title="Coordinate construction contracts"/>
+      <unit id="PRDPOD422A" title="Maintain asset management system"/>
+      <unit id="PRDPOD423A" title="Arrange valuation of facilities and assets"/>
+      <unit id="PRDPOD424A" title="Promote process improvement"/>
+      <unit id="PRDPOD425A" title="Select and appoint contractors"/>
+      <unit id="PRDPOD426A" title="Manage conflict and disputes"/>
+      <unit id="PRDPOD427A" title="Assess and implement strata /community management agreement"/>
+      <unit id="PRDRE28A" title="Maintain trust account"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PRD40605" title="Certificate IV in Property (Access Consulting)">
+    <units/>
+  </qualification>
+  <qualification id="PRD40101" title="Certificate IV in Property (Real Estate)">
+    <units/>
+  </qualification>
+  <qualification id="PRD50101" title="Diploma of Property (Real Estate)">
+    <units>
+      <unit id="BSAORG501B" title="Manage meetings to achieve identified team/section goals"/>
+      <unit id="PRDRE17A" title="Effectively manage property and account to landlord"/>
+      <unit id="PRDRE21A" title="Provide property development and marketing services"/>
+    </units>
+  </qualification>
+  <qualification id="PRD50504" title="Diploma of Property, Asset and Facility Management">
+    <units>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT507A" title="Manage environmental performance"/>
+      <unit id="PRDPOD501A" title="Coordinate risk management system"/>
+      <unit id="PRDPOD502A" title="Develop a marketing and sales strategy"/>
+      <unit id="PRDPOD503A" title="Coordinate customer service activities"/>
+      <unit id="PRDPOD504A" title="Determine needs of customer populations"/>
+      <unit id="PRDPOD505A" title="Manage projects"/>
+      <unit id="PRDPOD506A" title="Manage client relationships and networks"/>
+      <unit id="PRDPOD507A" title="Ensure a safe workplace"/>
+      <unit id="PRDPOD508A" title="Prepare tender documentation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PRD50403" title="Diploma of Property (Business Broking)">
+    <units>
+      <unit id="BSBADM501A" title="Manage the establishment and maintenance of a workgroup network"/>
+      <unit id="BSBADM502A" title="Manage meetings"/>
+      <unit id="BSBFLM502A" title="Provide leadership in the workplace"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="FNBACC01B" title="Provide financial and business performance information"/>
+      <unit id="FNBACC30A" title="Provide management accounting information"/>
+    </units>
+  </qualification>
+  <qualification id="PRD50605" title="Diploma of Property (Access Consulting)">
+    <units/>
+  </qualification>
+  <qualification id="PRD50301" title="Diploma of Spatial Information Services">
+    <units/>
+  </qualification>
+  <qualification id="PRD50201" title="Diploma of Property (Stock and Station Agency)">
+    <units/>
+  </qualification>
+  <qualification id="PRD60504" title="Advanced Diploma of Property, Asset and Facility Management">
+    <units>
+      <unit id="BSBMGT601A" title="Contribute to strategic direction"/>
+      <unit id="BSBMGT602A" title="Contribute to the development and implementation of strategic plans"/>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT604A" title="Manage business operations"/>
+      <unit id="BSBMGT605A" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT606A" title="Manage customer focus"/>
+      <unit id="BSBMGT607A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT608A" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT609A" title="Manage risk"/>
+      <unit id="BSBMGT610A" title="Manage environmental management systems"/>
+      <unit id="PRDPOD601A" title="Prepare project design brief and documentation"/>
+      <unit id="PRDPOD602A" title="Develop strategic facilities/asset management plan"/>
+      <unit id="PRDPOD603A" title="Manage facilities portfolio"/>
+      <unit id="PRDPOD604A" title="Develop lifecycle asset management plan"/>
+      <unit id="PRDPOD605A" title="Determine performance of assets and facilities"/>
+      <unit id="PRDPOD606A" title="Develop facilities procurement system"/>
+      <unit id="PRDPOD607A" title="Determine asset regeneration options"/>
+      <unit id="PRDPOD608A" title="Develop a property investment strategy"/>
+      <unit id="PRDPOD609A" title="Contract to invest in property"/>
+      <unit id="PRDPOD610A" title="Plan property portfolio management"/>
+      <unit id="PRDPOD611A" title="Manage performance of property investment"/>
+      <unit id="PRDPOD612A" title="Negotiate partnership arrangements"/>
+      <unit id="PRDPOD613A" title="Conduct a property investment feasibility study"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRD60301" title="Advanced Diploma of Spatial Information Services">
+    <units/>
+  </qualification>
+</qualifications>

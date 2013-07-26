@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<skillsets class="SIB10">
+  <skillset id="SIBSS00001" title="Cosmetic Tanning">
+    <units>
+      <unit id="SIBBCCS301A" title="Apply the principles of skin biology to beauty treatments"/>
+      <unit id="SIBBSKS302A" title="Apply cosmetic tanning products"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+    </units>
+  </skillset>
+  <skillset id="SIBSS00002" title="Small Business Financial Management (imported from BSB07)">
+    <units>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+    </units>
+  </skillset>
+</skillsets>

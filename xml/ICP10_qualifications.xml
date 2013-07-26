@@ -1,0 +1,1728 @@
+<?xml version="1.0"?>
+<qualifications class="ICP10">
+  <qualification id="ICP20710" title="Certificate II in Printing and Graphic Arts (Sacks and Bags)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF2101C" title="Set up and run machine for sewing"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF297C" title="Clean sack and bag machines"/>
+      <unit id="ICPCF298C" title="Run and monitor sack and bag machines"/>
+      <unit id="ICPCF3100C" title="Run and monitor in-line tube making machine for sack or bag manufacture"/>
+      <unit id="ICPCF3101C" title="Run and monitor in-line bottom making machine for sack or bag manufacture"/>
+      <unit id="ICPSU120C" title="Pack product"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU280C" title="Enter data into electronic system"/>
+      <unit id="ICPSU357C" title="Apply quick changeover procedures"/>
+      <unit id="ICPSU389C" title="Undertake basic root cause analysis"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20610" title="Certificate II in Printing and Graphic Arts (Converting, Binding and Finishing)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF2101C" title="Set up and run machine for sewing"/>
+      <unit id="ICPCF220C" title="Produce basic converted or finished product"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF222C" title="Set up and operate in-line cutter"/>
+      <unit id="ICPCF223C" title="Set up machine for cutting (trimming)"/>
+      <unit id="ICPCF224C" title="Produce cut (trimmed) product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF226C" title="Produce basic flat-bed die cut or embossed product"/>
+      <unit id="ICPCF227C" title="Set up machine for basic rotary die cutting or embossing"/>
+      <unit id="ICPCF228C" title="Produce basic rotary die cut or embossed product"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPCF232C" title="Produce basic flat-bed cut product"/>
+      <unit id="ICPCF235C" title="Set up machine for basic rotary cutting"/>
+      <unit id="ICPCF236C" title="Produce basic rotary cut product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF243C" title="Set up machine for basic collating or inserting (sheet_section)"/>
+      <unit id="ICPCF244C" title="Produce basic collated or inserted (sheet_section) product"/>
+      <unit id="ICPCF261C" title="Set up machine for basic adhesive, mechanical or thermal fastening"/>
+      <unit id="ICPCF262C" title="Produce basic adhesive, mechanical or thermal fastened product"/>
+      <unit id="ICPCF263C" title="Set up and produce hand-fastened product"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF282C" title="Produce basic laminated product"/>
+      <unit id="ICPCF294C" title="Set up profile cutting for envelope manufacture"/>
+      <unit id="ICPSU120C" title="Pack product"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU208C" title="Operate and monitor machines (basic)"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU212C" title="Prepare coatings and adhesives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU243C" title="Reconcile process outputs"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU271C" title="Provide basic instruction for a task"/>
+      <unit id="ICPSU280C" title="Enter data into electronic system"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20810" title="Certificate II in Printing and Graphic Arts (Cartons)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF2104C" title="Set up single-faced web"/>
+      <unit id="ICPCF2106C" title="Set up double-faced web"/>
+      <unit id="ICPCF2108C" title="Produce basic folded and glued cartons"/>
+      <unit id="ICPCF220C" title="Produce basic converted or finished product"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPCF232C" title="Produce basic flat-bed cut product"/>
+      <unit id="ICPCF235C" title="Set up machine for basic rotary cutting"/>
+      <unit id="ICPCF236C" title="Produce basic rotary cut product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF261C" title="Set up machine for basic adhesive, mechanical or thermal fastening"/>
+      <unit id="ICPCF262C" title="Produce basic adhesive, mechanical or thermal fastened product"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF282C" title="Produce basic laminated product"/>
+      <unit id="ICPCF3105C" title="Produce single-faced web"/>
+      <unit id="ICPCF3107C" title="Produce double-faced web"/>
+      <unit id="ICPCF311C" title="Prepare for cutting forme and stripper making"/>
+      <unit id="ICPCF312C" title="Set cutting forme and strippers"/>
+      <unit id="ICPPP268C" title="Make photopolymer plates (flexographic)"/>
+      <unit id="ICPPP281C" title="Design basic carton"/>
+      <unit id="ICPPR211C" title="Mount and proof flexographic plates for basic printing"/>
+      <unit id="ICPPR261C" title="Set up for foil stamping"/>
+      <unit id="ICPPR262C" title="Produce foil stamped product"/>
+      <unit id="ICPPR271C" title="Set up for basic coating"/>
+      <unit id="ICPPR272C" title="Produce basic coated product"/>
+      <unit id="ICPPR313C" title="Set up for basic flexographic printing"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU208C" title="Operate and monitor machines (basic)"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU212C" title="Prepare coatings and adhesives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU271C" title="Provide basic instruction for a task"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20910" title="Certificate II in Printing and Graphic Arts (Corrugating)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF2104C" title="Set up single-faced web"/>
+      <unit id="ICPCF2106C" title="Set up double-faced web"/>
+      <unit id="ICPCF3105C" title="Produce single-faced web"/>
+      <unit id="ICPCF3107C" title="Produce double-faced web"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU208C" title="Operate and monitor machines (basic)"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU271C" title="Provide basic instruction for a task"/>
+      <unit id="ICPSU280C" title="Enter data into electronic system"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20510" title="Certificate II in Printing and Graphic Arts (Screen Printing)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP223C" title="Photograph a line image"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP231C" title="Manually combine spot colour and basic four-colour images"/>
+      <unit id="ICPPP232C" title="Electronically combine and assemble data"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP283C" title="Prepare artwork for screen printing"/>
+      <unit id="ICPPP286A" title="Scan images for reproduction"/>
+      <unit id="ICPPR242C" title="Produce basic pad printed product"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR341C" title="Set up for basic pad printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPSP211C" title="Reclaim screen automatically"/>
+      <unit id="ICPSP215C" title="Prepare screen"/>
+      <unit id="ICPSP221C" title="Prepare substrate"/>
+      <unit id="ICPSP222C" title="Prepare and cut screen print substrate"/>
+      <unit id="ICPSP270C" title="Manually prepare and produce screen prints"/>
+      <unit id="ICPSP271C" title="Manually produce basic screen prints"/>
+      <unit id="ICPSP273C" title="Semi-automatically produce basic screen prints"/>
+      <unit id="ICPSP275C" title="Automatically produce basic screen prints"/>
+      <unit id="ICPSP281C" title="Finish screen print products"/>
+      <unit id="ICPSP282A" title="Prepare film for basic screen printing"/>
+      <unit id="ICPSP311C" title="Reclaim screen manually"/>
+      <unit id="ICPSP383A" title="Prepare film for complex screen printing"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU212C" title="Prepare coatings and adhesives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20410" title="Certificate II in Printing and Graphic Arts (Print Production Support)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF222C" title="Set up and operate in-line cutter"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF244C" title="Produce basic collated or inserted (sheet_section) product"/>
+      <unit id="ICPCF262C" title="Produce basic adhesive, mechanical or thermal fastened product"/>
+      <unit id="ICPCF263C" title="Set up and produce hand-fastened product"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF282C" title="Produce basic laminated product"/>
+      <unit id="ICPCF341C" title="Set up machine for complex sequenced or multiple folding"/>
+      <unit id="ICPPR271C" title="Set up for basic coating"/>
+      <unit id="ICPPR272C" title="Produce basic coated product"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU208C" title="Operate and monitor machines (basic)"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU280C" title="Enter data into electronic system"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU357C" title="Apply quick changeover procedures"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20110" title="Certificate II in Printing and Graphic Arts (General)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF202C" title="Handline mail"/>
+      <unit id="ICPCF203C" title="Collate and insert mail manually"/>
+      <unit id="ICPCF204C" title="Operate addressing machine"/>
+      <unit id="ICPCF208C" title="Set up and operate a cheque mailer machine"/>
+      <unit id="ICPCF209C" title="Set up and operate in-line mail machine"/>
+      <unit id="ICPCF2101C" title="Set up and run machine for sewing"/>
+      <unit id="ICPCF2104C" title="Set up single-faced web"/>
+      <unit id="ICPCF2106C" title="Set up double-faced web"/>
+      <unit id="ICPCF220C" title="Produce basic converted or finished product"/>
+    </units>
+  </qualification>
+  <qualification id="ICP20310" title="Certificate II in Printing and Graphic Arts (Digital Printing)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF243C" title="Set up machine for basic collating or inserting (sheet_section)"/>
+      <unit id="ICPCF244C" title="Produce basic collated or inserted (sheet_section) product"/>
+      <unit id="ICPCF245C" title="Set up and produce hand-collated or -inserted product"/>
+      <unit id="ICPCF261C" title="Set up machine for basic adhesive, mechanical or thermal fastening"/>
+      <unit id="ICPCF262C" title="Produce basic adhesive, mechanical or thermal fastened product"/>
+      <unit id="ICPCF263C" title="Set up and produce hand-fastened product"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP286A" title="Scan images for reproduction"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR283A" title="Use digital media consumables"/>
+      <unit id="ICPPR284A" title="Introduction to colour management"/>
+      <unit id="ICPPR285A" title="Use digital workflow"/>
+      <unit id="ICPPR286A" title="Finish a digital product"/>
+      <unit id="ICPPR287A" title="Use digital processes"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP20210" title="Certificate II in Printing and Graphic Arts (Desktop Publishing)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP225C" title="Produce graphics using a graphics application"/>
+      <unit id="ICPPP232C" title="Electronically combine and assemble data"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP260C" title="Proof images"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP286A" title="Scan images for reproduction"/>
+      <unit id="ICPPP321C" title="Produce a typographic image"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP21010" title="Certificate II in Printing and Graphic Arts (Mail House)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF105C" title="Operate in-line mail machine"/>
+      <unit id="ICPCF202C" title="Handline mail"/>
+      <unit id="ICPCF203C" title="Collate and insert mail manually"/>
+      <unit id="ICPCF204C" title="Operate addressing machine"/>
+      <unit id="ICPCF208C" title="Set up and operate a cheque mailer machine"/>
+      <unit id="ICPCF223C" title="Set up machine for cutting (trimming)"/>
+      <unit id="ICPCF224C" title="Produce cut (trimmed) product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPCF232C" title="Produce basic flat-bed cut product"/>
+      <unit id="ICPCF245C" title="Set up and produce hand-collated or -inserted product"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPSU120C" title="Pack product"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU243C" title="Reconcile process outputs"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU280C" title="Enter data into electronic system"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="TLIA2043A" title="Consolidate mail"/>
+      <unit id="TLIA2047A" title="Stream mail"/>
+      <unit id="TLIW3006A" title="Operate computerised mail and parcels sorting equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP21110" title="Certificate II in Printing and Graphic Arts (Ink Manufacture)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPIM211C" title="Select and prepare materials for production"/>
+      <unit id="ICPIM221C" title="Blend chemicals"/>
+      <unit id="ICPIM251C" title="Filter and pack product"/>
+      <unit id="ICPIM331C" title="Manufacture inks and coatings"/>
+      <unit id="ICPIM335C" title="Manufacture varnish and resin"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU222C" title="Pack and dispatch solid waste"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU261C" title="Follow OHS practices and identify environmental hazards"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30312" title="Certificate III in Printing and Graphic Arts (Multimedia)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFDIG404A" title="Apply scripting language in authoring"/>
+      <unit id="ICANWK414A" title="Create a common gateway interface script"/>
+      <unit id="ICAWEB409A" title="Develop cascading style sheets"/>
+      <unit id="ICAWEB410A" title="Apply web authoring tool to convert client data for websites"/>
+      <unit id="ICAWEB418A" title="Use development software and IT tools to build a basic website"/>
+      <unit id="ICAWEB421A" title="Ensure website content meets technical protocols and standards"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICAWEB510A" title="Analyse information and assign meta-tags"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="ICPMM296C" title="Create and test a CD-ROM_DVD"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPMM344C" title="Manipulate and incorporate audio into multimedia presentations"/>
+      <unit id="ICPMM346C" title="Incorporate video into multimedia presentations"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP225C" title="Produce graphics using a graphics application"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP311C" title="Develop a detailed design concept"/>
+      <unit id="ICPPP324C" title="Create pages using a page layout application"/>
+      <unit id="ICPPP325C" title="Create graphics using a graphics application"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP386C" title="Undertake digital proofing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="ICPSU456C" title="Control production"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30712" title="Certificate III in Printing and Graphic Arts (Print Finishing)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF243C" title="Set up machine for basic collating or inserting (sheet_section)"/>
+      <unit id="ICPCF244C" title="Produce basic collated or inserted (sheet_section) product"/>
+      <unit id="ICPCF3103C" title="Run and monitor envelope manufacturing machines"/>
+      <unit id="ICPCF3105C" title="Produce single-faced web"/>
+      <unit id="ICPCF3107C" title="Produce double-faced web"/>
+      <unit id="ICPCF311C" title="Prepare for cutting forme and stripper making"/>
+      <unit id="ICPCF312C" title="Set cutting forme and strippers"/>
+      <unit id="ICPCF320C" title="Produce complex converted or finished product"/>
+      <unit id="ICPCF321C" title="Set up and produce complex guillotined product"/>
+      <unit id="ICPCF326C" title="Undertake pre make-ready for die cutting"/>
+      <unit id="ICPCF327C" title="Set up machine for complex rotary die cutting or embossing"/>
+      <unit id="ICPCF341C" title="Set up machine for complex sequenced or multiple folding"/>
+      <unit id="ICPCF342C" title="Produce complex sequenced or multiple folded product"/>
+      <unit id="ICPCF343C" title="Set up machine for complex collating or inserting (sheet_section_reel)"/>
+      <unit id="ICPCF344C" title="Produce complex collated or inserted (sheet_section_reel) product"/>
+      <unit id="ICPCF361C" title="Set up machine for complex adhesive, mechanical or sewn fastening"/>
+      <unit id="ICPCF362C" title="Produce complex adhesive, mechanical or sewn fastened product"/>
+      <unit id="ICPCF369C" title="Set up and produce hand-made box"/>
+      <unit id="ICPCF371C" title="Decorate paper"/>
+      <unit id="ICPCF381C" title="Set up machine for complex laminating"/>
+      <unit id="ICPCF382C" title="Produce complex laminated product"/>
+      <unit id="ICPCF391C" title="Use electronic monitoring systems (converting and finishing)"/>
+      <unit id="ICPCF392C" title="Produce product on window gluer"/>
+      <unit id="ICPCF393C" title="Set up machine for envelope manufacture"/>
+      <unit id="ICPCF395C" title="Set up and operate folder gluer machine"/>
+      <unit id="ICPCF396C" title="Set up in-line scoring, folding and gluing machine for envelope manufacture"/>
+      <unit id="ICPCF465C" title="Set up and produce hand-bound book"/>
+      <unit id="ICPKN313C" title="Apply knowledge and requirements of the converting, binding and finishing sector"/>
+      <unit id="ICPPR261C" title="Set up for foil stamping"/>
+      <unit id="ICPPR262C" title="Produce foil stamped product"/>
+      <unit id="ICPPR271C" title="Set up for basic coating"/>
+      <unit id="ICPPR272C" title="Produce basic coated product"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU207C" title="Prepare machine for operation (basic)"/>
+      <unit id="ICPSU208C" title="Operate and monitor machines (basic)"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU321C" title="Pack and dispatch (advanced)"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU352C" title="Plan operational processes"/>
+      <unit id="ICPSU357C" title="Apply quick changeover procedures"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU554C" title="Manage teams"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30512" title="Certificate III in Printing and Graphic Arts (Printing)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF226C" title="Produce basic flat-bed die cut or embossed product"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPCF232C" title="Produce basic flat-bed cut product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+    </units>
+  </qualification>
+  <qualification id="ICP30912" title="Certificate III in Printing and Graphic Arts (Cartons and Corrugating)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF220C" title="Produce basic converted or finished product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF3106C" title="Set up machine for basic carton folding and gluing"/>
+      <unit id="ICPCF3109C" title="Produce complex folded and glued cartons"/>
+      <unit id="ICPCF320C" title="Produce complex converted or finished product"/>
+      <unit id="ICPCF321C" title="Set up and produce complex guillotined product"/>
+      <unit id="ICPCF326C" title="Undertake pre make-ready for die cutting"/>
+      <unit id="ICPCF327C" title="Set up machine for complex rotary die cutting or embossing"/>
+      <unit id="ICPCF328C" title="Produce complex rotary die cut or embossed product"/>
+      <unit id="ICPCF341C" title="Set up machine for complex sequenced or multiple folding"/>
+      <unit id="ICPCF342C" title="Produce complex sequenced or multiple folded product"/>
+      <unit id="ICPCF361C" title="Set up machine for complex adhesive, mechanical or sewn fastening"/>
+      <unit id="ICPCF362C" title="Produce complex adhesive, mechanical or sewn fastened product"/>
+      <unit id="ICPCF392C" title="Produce product on window gluer"/>
+      <unit id="ICPCF410C" title="Set up machine for complex carton folding and gluing"/>
+      <unit id="ICPCF426C" title="Produce complex flat-bed die cut or embossed product"/>
+      <unit id="ICPKN319C" title="Apply knowledge and processes of converting paper-based products"/>
+      <unit id="ICPPP281C" title="Design basic carton"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP481C" title="Design complex carton"/>
+      <unit id="ICPPR313C" title="Set up for basic flexographic printing"/>
+      <unit id="ICPPR314C" title="Produce complex flexographic printed product"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30812" title="Certificate III in Printing and Graphic Arts (Sacks and Bags)">
+    <units>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF261C" title="Set up machine for basic adhesive, mechanical or thermal fastening"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF298C" title="Run and monitor sack and bag machines"/>
+      <unit id="ICPCF3100C" title="Run and monitor in-line tube making machine for sack or bag manufacture"/>
+      <unit id="ICPCF398C" title="Set up in-line bottom making machine for sack or bag manufacture"/>
+      <unit id="ICPKN319C" title="Apply knowledge and processes of converting paper-based products"/>
+      <unit id="ICPPR313C" title="Set up for basic flexographic printing"/>
+      <unit id="ICPSU201C" title="Prepare, load and unload reels and cores on and off machine"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU221C" title="Pack and dispatch product"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU352C" title="Plan operational processes"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU456C" title="Control production"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30112" title="Certificate III in Printing and Graphic Arts (Graphic Design Production)">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CUVACD101A" title="Use basic drawing techniques"/>
+      <unit id="CUVACD201A" title="Develop drawing skills to communicate ideas"/>
+      <unit id="CUVACD401A" title="Integrate colour theory and design processes"/>
+      <unit id="CUVGRD302A" title="Use typography techniques"/>
+      <unit id="ICPKN311C" title="Apply knowledge of the graphic pre-press sector"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP225C" title="Produce graphics using a graphics application"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP260C" title="Proof images"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP286A" title="Scan images for reproduction"/>
+      <unit id="ICPPP311C" title="Develop a detailed design concept"/>
+      <unit id="ICPPP324C" title="Create pages using a page layout application"/>
+      <unit id="ICPPP325C" title="Create graphics using a graphics application"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP386C" title="Undertake digital proofing"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP411C" title="Undertake a complex design brief"/>
+      <unit id="ICPPP421C" title="Compose and evaluate typography"/>
+      <unit id="ICPPP423C" title="Apply colour to design brief"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP435C" title="Generate complex imposition"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="ICPSU456C" title="Control production"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30412" title="Certificate III in Printing and Graphic Arts (Digital Printing)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF226C" title="Produce basic flat-bed die cut or embossed product"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPCF232C" title="Produce basic flat-bed cut product"/>
+      <unit id="ICPCF241C" title="Set up machine for basic single or continuous folding"/>
+      <unit id="ICPCF242C" title="Produce basic single or continuous folded product"/>
+      <unit id="ICPCF243C" title="Set up machine for basic collating or inserting (sheet_section)"/>
+      <unit id="ICPCF244C" title="Produce basic collated or inserted (sheet_section) product"/>
+      <unit id="ICPCF281C" title="Set up machine for basic laminating"/>
+      <unit id="ICPCF282C" title="Produce basic laminated product"/>
+      <unit id="ICPCF381C" title="Set up machine for complex laminating"/>
+      <unit id="ICPCF382C" title="Produce complex laminated product"/>
+      <unit id="ICPKN321A" title="Apply knowledge and requirements of digital production"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP266C" title="Produce relief plates"/>
+      <unit id="ICPPP268C" title="Make photopolymer plates (flexographic)"/>
+      <unit id="ICPPP269C" title="Produce photopolymer plates for pad printing"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP370C" title="Produce multiple image plates"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPR271C" title="Set up for basic coating"/>
+      <unit id="ICPPR272C" title="Produce basic coated product"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR385A" title="Apply software applications to digital production"/>
+      <unit id="ICPPR386A" title="Troubleshoot digital media"/>
+      <unit id="ICPPR387A" title="Use colour management for production"/>
+      <unit id="ICPPR388A" title="Preflight and import complex images for digital devices"/>
+      <unit id="ICPPR389A" title="Manage digital files"/>
+      <unit id="ICPPR390A" title="Generate a proof for digital production"/>
+      <unit id="ICPPR392A" title="Set up and produce specialised digital print"/>
+      <unit id="ICPPR471C" title="Set up for complex coating"/>
+      <unit id="ICPPR472C" title="Produce complex coated product"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPSP215C" title="Prepare screen"/>
+      <unit id="ICPSP222C" title="Prepare and cut screen print substrate"/>
+      <unit id="ICPSP270C" title="Manually prepare and produce screen prints"/>
+      <unit id="ICPSP273C" title="Semi-automatically produce basic screen prints"/>
+      <unit id="ICPSP275C" title="Automatically produce basic screen prints"/>
+      <unit id="ICPSP311C" title="Reclaim screen manually"/>
+      <unit id="ICPSP351C" title="Prepare machine and drying_curing unit"/>
+      <unit id="ICPSP374C" title="Operate a semi-automatic screen printing machine"/>
+      <unit id="ICPSP382C" title="Produce computer image for screen printing"/>
+      <unit id="ICPSP383A" title="Prepare film for complex screen printing"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30212" title="Certificate III in Printing and Graphic Arts (Graphic Pre-press)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CUFANM301A" title="Create 2D digital animations"/>
+      <unit id="ICAWEB410A" title="Apply web authoring tool to convert client data for websites"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPKN311C" title="Apply knowledge of the graphic pre-press sector"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="ICPMM296C" title="Create and test a CD-ROM_DVD"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPMM344C" title="Manipulate and incorporate audio into multimedia presentations"/>
+      <unit id="ICPMM346C" title="Incorporate video into multimedia presentations"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP225C" title="Produce graphics using a graphics application"/>
+      <unit id="ICPPP231C" title="Manually combine spot colour and basic four-colour images"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP266C" title="Produce relief plates"/>
+      <unit id="ICPPP267C" title="Produce offset lithographic plates"/>
+      <unit id="ICPPP268C" title="Make photopolymer plates (flexographic)"/>
+      <unit id="ICPPP269C" title="Produce photopolymer plates for pad printing"/>
+      <unit id="ICPPP272C" title="Produce gravure cylinders manually"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP321C" title="Produce a typographic image"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP324C" title="Create pages using a page layout application"/>
+      <unit id="ICPPP325C" title="Create graphics using a graphics application"/>
+      <unit id="ICPPP331C" title="Manually combine complex four-colour images"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP370C" title="Produce multiple image plates"/>
+      <unit id="ICPPP372C" title="Produce gravure cylinders electronically"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP386C" title="Undertake digital proofing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR284A" title="Introduction to colour management"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR387A" title="Use colour management for production"/>
+      <unit id="ICPPR388A" title="Preflight and import complex images for digital devices"/>
+      <unit id="ICPPR389A" title="Manage digital files"/>
+      <unit id="ICPPR495A" title="Set up and use complex colour management for production"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP31012" title="Certificate III in Printing and Graphic Arts (Mail House)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPCF294C" title="Set up profile cutting for envelope manufacture"/>
+      <unit id="ICPCF3103C" title="Run and monitor envelope manufacturing machines"/>
+      <unit id="ICPCF326C" title="Undertake pre make-ready for die cutting"/>
+      <unit id="ICPCF327C" title="Set up machine for complex rotary die cutting or embossing"/>
+      <unit id="ICPCF341C" title="Set up machine for complex sequenced or multiple folding"/>
+      <unit id="ICPCF342C" title="Produce complex sequenced or multiple folded product"/>
+      <unit id="ICPCF396C" title="Set up in-line scoring, folding and gluing machine for envelope manufacture"/>
+      <unit id="ICPCF406C" title="Set up and load in-line smart card machine"/>
+      <unit id="ICPCF407C" title="Operate a smart card machine and pack product"/>
+      <unit id="ICPKN318C" title="Apply knowledge and requirements of mail house operations"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR288A" title="Produce basic relief printed product"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR393A" title="Set up for basic relief printing"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU212C" title="Prepare coatings and adhesives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU235C" title="Lift loads mechanically"/>
+      <unit id="ICPSU236C" title="Shift loads mechanically"/>
+      <unit id="ICPSU243C" title="Reconcile process outputs"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU271C" title="Provide basic instruction for a task"/>
+      <unit id="ICPSU321C" title="Pack and dispatch (advanced)"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU352C" title="Plan operational processes"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="ICPSU488C" title="Ensure process improvements are sustained"/>
+      <unit id="ICPSU554C" title="Manage teams"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TLIA2041A" title="Manually sort mail and parcels"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP31112" title="Certificate III in Printing and Graphic Arts (Ink Manufacture)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPIM211C" title="Select and prepare materials for production"/>
+      <unit id="ICPIM221C" title="Blend chemicals"/>
+      <unit id="ICPIM331C" title="Manufacture inks and coatings"/>
+      <unit id="ICPKN317C" title="Apply knowledge and requirements of the ink manufacturing sector"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU271C" title="Provide basic instruction for a task"/>
+      <unit id="ICPSU321C" title="Pack and dispatch (advanced)"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="ICPSU417C" title="Perform laboratory quality tests of materials and finished product"/>
+      <unit id="ICPSU554C" title="Manage teams"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP30612" title="Certificate III in Printing and Graphic Arts (Screen Printing)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICPCF220C" title="Produce basic converted or finished product"/>
+      <unit id="ICPCF221C" title="Set up and produce basic guillotined product"/>
+      <unit id="ICPCF225C" title="Set up machine for basic flat-bed die cutting or embossing"/>
+      <unit id="ICPCF231C" title="Set up machine for basic flat-bed cutting"/>
+      <unit id="ICPKN314C" title="Apply knowledge and requirements of the screen printing sector"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP223C" title="Photograph a line image"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP231C" title="Manually combine spot colour and basic four-colour images"/>
+      <unit id="ICPPP232C" title="Electronically combine and assemble data"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP283C" title="Prepare artwork for screen printing"/>
+      <unit id="ICPPP286A" title="Scan images for reproduction"/>
+      <unit id="ICPPP311C" title="Develop a detailed design concept"/>
+      <unit id="ICPPP321C" title="Produce a typographic image"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP323C" title="Photograph and produce halftone images"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP382C" title="Produce computer image for screen printing"/>
+      <unit id="ICPPP422C" title="Digitise complex images for reproduction"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPR342C" title="Produce complex pad printed product"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPPR441C" title="Set up for complex pad printing"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPSP211C" title="Reclaim screen automatically"/>
+      <unit id="ICPSP215C" title="Prepare screen"/>
+      <unit id="ICPSP221C" title="Prepare substrate"/>
+      <unit id="ICPSP233C" title="Manually prepare direct emulsion stencil"/>
+      <unit id="ICPSP235C" title="Prepare stencil using photographic indirect method"/>
+      <unit id="ICPSP271C" title="Manually produce basic screen prints"/>
+      <unit id="ICPSP273C" title="Semi-automatically produce basic screen prints"/>
+      <unit id="ICPSP275C" title="Automatically produce basic screen prints"/>
+      <unit id="ICPSP281C" title="Finish screen print products"/>
+      <unit id="ICPSP282A" title="Prepare film for basic screen printing"/>
+      <unit id="ICPSP311C" title="Reclaim screen manually"/>
+      <unit id="ICPSP333C" title="Automatically prepare direct emulsion stencil"/>
+      <unit id="ICPSP337D" title="Prepare stencil using photographic capillary method"/>
+      <unit id="ICPSP339C" title="Prepare stencil using direct projection method"/>
+      <unit id="ICPSP341C" title="Prepare stencil using direct electronic imaging method"/>
+      <unit id="ICPSP351C" title="Prepare machine and drying_curing unit"/>
+      <unit id="ICPSP371C" title="Manually produce complex screen prints"/>
+      <unit id="ICPSP373C" title="Semi-automatically produce complex screen prints"/>
+      <unit id="ICPSP374C" title="Operate a semi-automatic screen printing machine"/>
+      <unit id="ICPSP376C" title="Operate an automatic screen printing machine"/>
+      <unit id="ICPSP383A" title="Prepare film for complex screen printing"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU211C" title="Prepare ink and additives"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU241C" title="Undertake warehouse or stores materials processing"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU263C" title="Perform basic industry calculations"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="ICPSU311C" title="Prepare ink and additives (advanced)"/>
+      <unit id="ICPSU321C" title="Pack and dispatch (advanced)"/>
+      <unit id="ICPSU323C" title="Dispose of waste"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU352C" title="Plan operational processes"/>
+      <unit id="ICPSU362C" title="Communicate as part of a work team"/>
+      <unit id="ICPSU381C" title="Operate and maintain computer resources"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40710" title="Certificate IV in Printing and Graphic Arts (Process Leadership)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICPCF391C" title="Use electronic monitoring systems (converting and finishing)"/>
+      <unit id="ICPKN311C" title="Apply knowledge of the graphic pre-press sector"/>
+      <unit id="ICPKN312C" title="Apply knowledge of printing machining"/>
+      <unit id="ICPKN313C" title="Apply knowledge and requirements of the converting, binding and finishing sector"/>
+      <unit id="ICPKN314C" title="Apply knowledge and requirements of the screen printing sector"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="ICPKN316C" title="Apply knowledge and requirements of paper and printing processes"/>
+      <unit id="ICPKN317C" title="Apply knowledge and requirements of the ink manufacturing sector"/>
+      <unit id="ICPKN318C" title="Apply knowledge and requirements of mail house operations"/>
+      <unit id="ICPKN319C" title="Apply knowledge and processes of converting paper-based products"/>
+      <unit id="ICPKN320C" title="Apply knowledge and requirements of information technology systems in the printing industry"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPR491C" title="Use on-press monitoring of print quality"/>
+      <unit id="ICPPR492C" title="Use on-press print control devices"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU389C" title="Undertake basic root cause analysis"/>
+      <unit id="ICPSU455C" title="Supervise and schedule work of others"/>
+      <unit id="ICPSU456C" title="Control production"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU482C" title="Troubleshoot and optimise materials and machinery"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU486C" title="Mistake proof a production process"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="ICPSU488C" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40610" title="Certificate IV in Printing and Graphic Arts (Management_Sales)">
+    <units>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICPKN311C" title="Apply knowledge of the graphic pre-press sector"/>
+      <unit id="ICPKN312C" title="Apply knowledge of printing machining"/>
+      <unit id="ICPKN313C" title="Apply knowledge and requirements of the converting, binding and finishing sector"/>
+      <unit id="ICPKN314C" title="Apply knowledge and requirements of the screen printing sector"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="ICPKN316C" title="Apply knowledge and requirements of paper and printing processes"/>
+      <unit id="ICPKN317C" title="Apply knowledge and requirements of the ink manufacturing sector"/>
+      <unit id="ICPKN318C" title="Apply knowledge and requirements of mail house operations"/>
+      <unit id="ICPKN319C" title="Apply knowledge and processes of converting paper-based products"/>
+      <unit id="ICPKN320C" title="Apply knowledge and requirements of information technology systems in the printing industry"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPR491C" title="Use on-press monitoring of print quality"/>
+      <unit id="ICPPR492C" title="Use on-press print control devices"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU345C" title="Purchase materials and schedule deliveries"/>
+      <unit id="ICPSU455C" title="Supervise and schedule work of others"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40510" title="Certificate IV in Printing and Graphic Arts (Mail House)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICPCF3103C" title="Run and monitor envelope manufacturing machines"/>
+      <unit id="ICPCF341C" title="Set up machine for complex sequenced or multiple folding"/>
+      <unit id="ICPCF343C" title="Set up machine for complex collating or inserting (sheet_section_reel)"/>
+      <unit id="ICPCF391C" title="Use electronic monitoring systems (converting and finishing)"/>
+      <unit id="ICPCF392C" title="Produce product on window gluer"/>
+      <unit id="ICPCF393C" title="Set up machine for envelope manufacture"/>
+      <unit id="ICPCF395C" title="Set up and operate folder gluer machine"/>
+      <unit id="ICPCF396C" title="Set up in-line scoring, folding and gluing machine for envelope manufacture"/>
+      <unit id="ICPCF406C" title="Set up and load in-line smart card machine"/>
+      <unit id="ICPKN318C" title="Apply knowledge and requirements of mail house operations"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPSU202C" title="Prepare, load and unload product on and off machine"/>
+      <unit id="ICPSU203C" title="Prepare and maintain the work area"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU224C" title="Perform basic machine maintenance"/>
+      <unit id="ICPSU225C" title="Perform small machine maintenance"/>
+      <unit id="ICPSU243C" title="Reconcile process outputs"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU342C" title="Undertake inventory procedures"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU352C" title="Plan operational processes"/>
+      <unit id="ICPSU357C" title="Apply quick changeover procedures"/>
+      <unit id="ICPSU389C" title="Undertake basic root cause analysis"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU482C" title="Troubleshoot and optimise materials and machinery"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TLIA2041A" title="Manually sort mail and parcels"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40410" title="Certificate IV in Printing and Graphic Arts (Print Finishing)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="ICPCF3103C" title="Run and monitor envelope manufacturing machines"/>
+      <unit id="ICPCF391C" title="Use electronic monitoring systems (converting and finishing)"/>
+      <unit id="ICPCF406C" title="Set up and load in-line smart card machine"/>
+      <unit id="ICPCF407C" title="Operate a smart card machine and pack product"/>
+      <unit id="ICPCF465C" title="Set up and produce hand-bound book"/>
+      <unit id="ICPCF467C" title="Restore books"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR491C" title="Use on-press monitoring of print quality"/>
+      <unit id="ICPPR492C" title="Use on-press print control devices"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU456C" title="Control production"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU482C" title="Troubleshoot and optimise materials and machinery"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU486C" title="Mistake proof a production process"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="ICPSU488C" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40310" title="Certificate IV in Printing and Graphic Arts (Printing)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP311C" title="Develop a detailed design concept"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPP485C" title="Develop a digital data template"/>
+      <unit id="ICPPR284A" title="Introduction to colour management"/>
+      <unit id="ICPPR385A" title="Apply software applications to digital production"/>
+      <unit id="ICPPR387A" title="Use colour management for production"/>
+      <unit id="ICPPR411C" title="Mount and demount flexographic plates for complex printing"/>
+      <unit id="ICPPR413C" title="Set up for complex flexographic printing"/>
+      <unit id="ICPPR414C" title="Produce specialised flexographic printed product"/>
+      <unit id="ICPPR421C" title="Set up for complex gravure printing"/>
+      <unit id="ICPPR422C" title="Produce specialised gravure printed product"/>
+      <unit id="ICPPR431C" title="Set up for complex lithographic printing"/>
+      <unit id="ICPPR432C" title="Produce specialised lithographic printed product"/>
+      <unit id="ICPPR441C" title="Set up for complex pad printing"/>
+      <unit id="ICPPR442C" title="Produce specialised pad printed product"/>
+      <unit id="ICPPR451C" title="Set up for complex relief printing"/>
+      <unit id="ICPPR452C" title="Produce specialised relief printed product"/>
+      <unit id="ICPPR471C" title="Set up for complex coating"/>
+      <unit id="ICPPR472C" title="Produce complex coated product"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPPR491C" title="Use on-press monitoring of print quality"/>
+      <unit id="ICPPR492C" title="Use on-press print control devices"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPPR494A" title="Apply advanced software applications to digital production"/>
+      <unit id="ICPPR495A" title="Set up and use complex colour management for production"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPPR513C" title="Set up for specialised flexographic printing"/>
+      <unit id="ICPPR521C" title="Set up for specialised gravure printing"/>
+      <unit id="ICPPR531C" title="Set up for specialised lithographic printing"/>
+      <unit id="ICPPR541C" title="Set up for specialised pad printing"/>
+      <unit id="ICPPR551C" title="Set up for specialised relief printing"/>
+      <unit id="ICPSU389C" title="Undertake basic root cause analysis"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU482C" title="Troubleshoot and optimise materials and machinery"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU486C" title="Mistake proof a production process"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40110" title="Certificate IV in Printing and Graphic Arts (Graphic Pre-press)">
+    <units>
+      <unit id="AUM4012A" title="Apply quality assurance techniques"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="ICAWEB409A" title="Develop cascading style sheets"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPMM492D" title="Create an extensible style sheet"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP311C" title="Develop a detailed design concept"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP411C" title="Undertake a complex design brief"/>
+      <unit id="ICPPP421C" title="Compose and evaluate typography"/>
+      <unit id="ICPPP422C" title="Digitise complex images for reproduction"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP435C" title="Generate complex imposition"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPP485C" title="Develop a digital data template"/>
+      <unit id="ICPPR387A" title="Use colour management for production"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPSU482C" title="Troubleshoot and optimise materials and machinery"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP40210" title="Certificate IV in Printing and Graphic Arts (Multimedia)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBIPR601A" title="Develop and implement strategies for intellectual property management"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFANM401A" title="Prepare 3D digital models for production"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFDIG403A" title="Create user interfaces"/>
+      <unit id="CUFDIG501A" title="Coordinate the testing of interactive media products"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG504A" title="Design games"/>
+      <unit id="CUFDIG505A" title="Design information architecture"/>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICANWK414A" title="Create a common gateway interface script"/>
+      <unit id="ICAWEB419A" title="Develop guidelines for uploading information to a website"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICAWEB502A" title="Create dynamic web pages"/>
+      <unit id="ICAWEB510A" title="Analyse information and assign meta-tags"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="ICPMM263C" title="Access and use the Internet"/>
+      <unit id="ICPMM491D" title="Create an extensible document"/>
+      <unit id="ICPMM492D" title="Create an extensible style sheet"/>
+      <unit id="ICPPP211C" title="Develop a basic design concept"/>
+      <unit id="ICPPP221C" title="Select and apply type"/>
+      <unit id="ICPPP224C" title="Produce pages using a page layout application"/>
+      <unit id="ICPPP225C" title="Produce graphics using a graphics application"/>
+      <unit id="ICPPP252C" title="Output images"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP435C" title="Generate complex imposition"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPP485C" title="Develop a digital data template"/>
+      <unit id="ICPPP494C" title="Develop document content and structure"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP50110" title="Diploma of Printing and Graphic Arts (Digital Production)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPCF381C" title="Set up machine for complex laminating"/>
+      <unit id="ICPCF382C" title="Produce complex laminated product"/>
+      <unit id="ICPCF391C" title="Use electronic monitoring systems (converting and finishing)"/>
+      <unit id="ICPKN320C" title="Apply knowledge and requirements of information technology systems in the printing industry"/>
+      <unit id="ICPKN321A" title="Apply knowledge and requirements of digital production"/>
+      <unit id="ICPMM491D" title="Create an extensible document"/>
+      <unit id="ICPMM492D" title="Create an extensible style sheet"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP370C" title="Produce multiple image plates"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP422C" title="Digitise complex images for reproduction"/>
+      <unit id="ICPPP430C" title="Manage colour"/>
+      <unit id="ICPPP435C" title="Generate complex imposition"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPP485C" title="Develop a digital data template"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR471C" title="Set up for complex coating"/>
+      <unit id="ICPPR472C" title="Produce complex coated product"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPPR491C" title="Use on-press monitoring of print quality"/>
+      <unit id="ICPPR492C" title="Use on-press print control devices"/>
+      <unit id="ICPPR493C" title="Set up and monitor in-line printing operations"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPPR552A" title="Manage digital production workflow"/>
+      <unit id="ICPSP351C" title="Prepare machine and drying_curing unit"/>
+      <unit id="ICPSP374C" title="Operate a semi-automatic screen printing machine"/>
+      <unit id="ICPSP382C" title="Produce computer image for screen printing"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU455C" title="Supervise and schedule work of others"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU488C" title="Ensure process improvements are sustained"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="ICPSU583C" title="Troubleshoot and optimise the production process"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSACMT621A" title="Develop a Just in Time (JIT) system"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP50410" title="Diploma of Printing and Graphic Arts (Management_Sales)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBPMG401A" title="Apply project scope management techniques"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="ICPKN316C" title="Apply knowledge and requirements of paper and printing processes"/>
+      <unit id="ICPKN320C" title="Apply knowledge and requirements of information technology systems in the printing industry"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU455C" title="Supervise and schedule work of others"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU464C" title="Provide customer service and education"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="ICPSU684C" title="Determine and improve process capability"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="SIRXCCS005A" title="Manage business customers"/>
+      <unit id="SIRXCCS006A" title="Maintain business to business relationships"/>
+      <unit id="SIRXSLS008A" title="Develop a sales strategy"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP50310" title="Diploma of Printing and Graphic Arts (Printing)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICPCF381C" title="Set up machine for complex laminating"/>
+      <unit id="ICPCF382C" title="Produce complex laminated product"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP334C" title="Prepare an imposition format for printing processes"/>
+      <unit id="ICPPP352C" title="Output complex images"/>
+      <unit id="ICPPP370C" title="Produce multiple image plates"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP396A" title="Generate high-end PDF files"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="ICPPP452C" title="Output complex images direct to plate or press"/>
+      <unit id="ICPPP484C" title="Set up and operate automated workflow"/>
+      <unit id="ICPPR382C" title="Produce and manage complex digital print"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR384A" title="Set up and produce basic digital print"/>
+      <unit id="ICPPR414C" title="Produce specialised flexographic printed product"/>
+      <unit id="ICPPR422C" title="Produce specialised gravure printed product"/>
+      <unit id="ICPPR432C" title="Produce specialised lithographic printed product"/>
+      <unit id="ICPPR442C" title="Produce specialised pad printed product"/>
+      <unit id="ICPPR452C" title="Produce specialised relief printed product"/>
+      <unit id="ICPPR471C" title="Set up for complex coating"/>
+      <unit id="ICPPR472C" title="Produce complex coated product"/>
+      <unit id="ICPPR484C" title="Prepare for variable data printing"/>
+      <unit id="ICPPR496A" title="Set up and produce complex digital print"/>
+      <unit id="ICPPR513C" title="Set up for specialised flexographic printing"/>
+      <unit id="ICPPR521C" title="Set up for specialised gravure printing"/>
+      <unit id="ICPPR531C" title="Set up for specialised lithographic printing"/>
+      <unit id="ICPPR541C" title="Set up for specialised pad printing"/>
+      <unit id="ICPPR551C" title="Set up for specialised relief printing"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU351C" title="Undertake basic production scheduling"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU516C" title="Set and apply quality standards"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="ICPSU583C" title="Troubleshoot and optimise the production process"/>
+      <unit id="ICPSU684C" title="Determine and improve process capability"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP50510" title="Diploma of Printing and Graphic Arts (Process Improvement)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU485C" title="Implement a Just-in-Time (JIT) system"/>
+      <unit id="ICPSU487C" title="Analyse manual handling processes"/>
+      <unit id="ICPSU516C" title="Set and apply quality standards"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="ICPSU554C" title="Manage teams"/>
+      <unit id="ICPSU561C" title="Implement and monitor OHS"/>
+      <unit id="ICPSU583C" title="Troubleshoot and optimise the production process"/>
+      <unit id="ICPSU684C" title="Determine and improve process capability"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSACMT621A" title="Develop a Just in Time (JIT) system"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICP50210" title="Diploma of Printing and Graphic Arts (Multimedia)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFANM401A" title="Prepare 3D digital models for production"/>
+      <unit id="CUFANM403A" title="Create titles for screen productions"/>
+      <unit id="CUFANM503A" title="Design animation and digital visual effects"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="CUFDIG302A" title="Author interactive sequences"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFDIG503A" title="Design e-learning resources"/>
+      <unit id="CUFDIG504A" title="Design games"/>
+      <unit id="CUFDIG505A" title="Design information architecture"/>
+      <unit id="ICADBS504A" title="Integrate database with a website"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="ICAWEB510A" title="Analyse information and assign meta-tags"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="ICPKN320C" title="Apply knowledge and requirements of information technology systems in the printing industry"/>
+      <unit id="ICPMM491D" title="Create an extensible document"/>
+      <unit id="ICPMM492D" title="Create an extensible style sheet"/>
+      <unit id="ICPMM581C" title="Manage multimedia production"/>
+      <unit id="ICPMM582C" title="Manage multimedia projects"/>
+      <unit id="ICPPP284B" title="Produce PDF files for online or screen display"/>
+      <unit id="ICPPP385C" title="Operate a database for digital printing"/>
+      <unit id="ICPPP485C" title="Develop a digital data template"/>
+      <unit id="ICPPP494C" title="Develop document content and structure"/>
+      <unit id="ICPSU216C" title="Inspect quality against required standards"/>
+      <unit id="ICPSU260C" title="Maintain a safe work environment"/>
+      <unit id="ICPSU262C" title="Communicate in the workplace"/>
+      <unit id="ICPSU455C" title="Supervise and schedule work of others"/>
+      <unit id="ICPSU458C" title="Monitor production workflow"/>
+      <unit id="ICPSU553C" title="Prepare production costing estimates"/>
+      <unit id="MSACMC410A" title="Lead change in a manufacturing environment"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

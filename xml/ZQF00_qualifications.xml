@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<qualifications class="ZQF00">
+  <qualification id="ZQF20300" title="Certificate II in Airline Operations (Airport Ramp Services)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF20400" title="Certificate II in Airline Operations (Cabin Crew)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF20100" title="Certificate II in Airline Operations (Customer and Business Focus)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF30100" title="Certificate III in Airline Operations (Cabin Crew)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF40200" title="Certificate IV in Airline Operations (Cabin Crew)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF40100" title="Certificate IV in Airline Operations (Leadership and Management)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF50200" title="Diploma of Airline Operations (Cabin Crew)">
+    <units/>
+  </qualification>
+  <qualification id="ZQF50100" title="Diploma of Airline Operations (Leadership and Management)">
+    <units/>
+  </qualification>
+</qualifications>

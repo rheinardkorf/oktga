@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<qualifications class="THC99">
+  <qualification id="THC10199" title="Certificate I in Caravan Park Operations">
+    <units/>
+  </qualification>
+  <qualification id="THC20499" title="Certificate II in Caravan Park Operations">
+    <units/>
+  </qualification>
+  <qualification id="THC20299" title="Certificate II in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC20399" title="Certificate II in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC20199" title="Certificate II in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC30399" title="Certificate III in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC30499" title="Certificate III in Caravan Park Operations">
+    <units/>
+  </qualification>
+  <qualification id="THC30199" title="Certificate III in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC30299" title="Certificate III in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC40199" title="Certificate IV in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC40499" title="Certificate IV in Caravan Park Supervision">
+    <units/>
+  </qualification>
+  <qualification id="THC40399" title="Certificate IV in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC40299" title="Certificate IV in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC50199" title="Diploma of Caravan Park Management">
+    <units/>
+  </qualification>
+</qualifications>

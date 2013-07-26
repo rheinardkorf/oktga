@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<qualifications class="HLT02">
+  <qualification id="HLT21005" title="Certificate II in Indigenous Environmental Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT20905" title="Certificate II in Population Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT20202" title="Certificate II in Health Support Services (General Transport Support)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20102" title="Certificate II in Health Support Services (Stores)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20802" title="Certificate II in Health Support Services (Cleaning Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20302" title="Certificate II in Health Support Services (Laundry Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20402" title="Certificate II in Health Support Services (Grounds Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20502" title="Certificate II in Health Support Services (General Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20702" title="Certificate II in Health Support Services (Client/Patient Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT20602" title="Certificate II in Health Support Services (Food Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT30602" title="Certificate III in Health Support Services (General Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31902" title="Certificate III in Ambulance Communications (Call Taking)">
+    <units/>
+  </qualification>
+  <qualification id="HLT30402" title="Certificate III in Health Support Services (Laundry Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31602" title="Certificate III in Health Service Assistance (Client/Patient Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT32002" title="Certificate III in Mortuary Practice">
+    <units/>
+  </qualification>
+  <qualification id="HLT32305" title="Certificate III in Indigenous Environmental Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT31102" title="Certificate III in Health service Assistance (Sterilisation Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT32205" title="Certificate III in Population Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT31302" title="Certificate III in Health Service Assistance (Operating Theatre Support)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31702" title="Certificate III in Health Service Assistance (Allied Health Assistance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31402" title="Certificate III in Health Service Assistance (Hospital and Community Health Pharmacy Assistance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT30102" title="Certificate III in Pathology Specimen Collection">
+    <units/>
+  </qualification>
+  <qualification id="HLT31202" title="Certificate III in Health Service Assistance (Pathology Assistance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT32102" title="Certificate III in Prosthetic/Orthotic Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT30802" title="Certificate III in Health Support Services (Client/Patient Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT30502" title="Certificate III in Health Support Services (Grounds Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT30202" title="Certificate III in Non-Emergency Patient Transport">
+    <units/>
+  </qualification>
+  <qualification id="HLT30902" title="Certificate III in Health Support Services (Cleaning Support Services)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31502" title="Certificate III in Health Service Assistance (Nutrition and Dietetic Support)">
+    <units/>
+  </qualification>
+  <qualification id="HLT31002" title="Certificate III in Health Support Services">
+    <units/>
+  </qualification>
+  <qualification id="HLT31802" title="Certificate III in Dental Assisting">
+    <units/>
+  </qualification>
+  <qualification id="HLT40202" title="Certificate IV in Shiatsu">
+    <units/>
+  </qualification>
+  <qualification id="HLT40802" title="Certificate IV in Dental Assisting (Assistance during General Anaesthesia and Conscious Sedation)">
+    <units/>
+  </qualification>
+  <qualification id="HLT41702" title="Certificate IV in Neurophysiology Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT41102" title="Certificate IV in Ambulance Communications (Despatch)">
+    <units/>
+  </qualification>
+  <qualification id="HLT40502" title="Certificate IV in Health Service Assistance (Hospital and Community Health Pharmacy Technician)">
+    <units/>
+  </qualification>
+  <qualification id="HLT42102" title="Certificate IV in Cardiac Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT42305" title="Certificate IV in Population Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT40602" title="Certificate IV in Dental Assisting (Oral Health Education)">
+    <units/>
+  </qualification>
+  <qualification id="HLT41502" title="Certificate IV in Hyperbaric Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT41602" title="Certificate IV in Mortuary Practice">
+    <units/>
+  </qualification>
+  <qualification id="HLT42202" title="Certificate IV in Health Services (Supervision)">
+    <units/>
+  </qualification>
+  <qualification id="HLT41802" title="Certificate IV in Pathology Specimen Collection">
+    <units/>
+  </qualification>
+  <qualification id="HLT41202" title="Certificate IV in Ayurvedic Lifestyle Consultation">
+    <units/>
+  </qualification>
+  <qualification id="HLT40102" title="Certificate IV in Traditional Chinese Medicine Remedial Massage (An Mo Tui Na)">
+    <units/>
+  </qualification>
+  <qualification id="HLT41902" title="Certificate IV in Sleep Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT41402" title="Certificate IV in Cast Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT40302" title="Certificate IV in Massage">
+    <units/>
+  </qualification>
+  <qualification id="HLT42002" title="Certificate IV in Health Service Assistance (Operating Theatre Technical Support)">
+    <units/>
+  </qualification>
+  <qualification id="HLT42405" title="Certificate IV in Indigenous Environmental Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT41002" title="Certificate IV in Basic Emergency Care">
+    <units/>
+  </qualification>
+  <qualification id="HLT40702" title="Certificate IV in Dental Assisting (Dental Radiography)">
+    <units/>
+  </qualification>
+  <qualification id="HLT40902" title="Certificate IV in Complementary and Alternative Health Care Assistance">
+    <units/>
+  </qualification>
+  <qualification id="HLT41302" title="Certificate IV in Audiometry">
+    <units/>
+  </qualification>
+  <qualification id="HLT40402" title="Certificate IV in Health Support Services (Supervision)">
+    <units/>
+  </qualification>
+  <qualification id="HLT50802" title="Diploma of Health Technology (Prosthetics/Orthotics)">
+    <units/>
+  </qualification>
+  <qualification id="HLT50502" title="Diploma of Dental Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT51005" title="Diploma of Population Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT50702" title="Diploma of Hyperbaric Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT50602" title="Diploma of Anaesthetic Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT50402" title="Diploma of Paramedical Science (Ambulance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT50102" title="Diploma of Traditional Chinese Medicine Remedial Massage (An Mo Tui Na)">
+    <units/>
+  </qualification>
+  <qualification id="HLT50302" title="Diploma of Remedial Massage">
+    <units/>
+  </qualification>
+  <qualification id="HLT50202" title="Diploma of Shiatsu and Oriental Therapies">
+    <units/>
+  </qualification>
+  <qualification id="HLT50902" title="Diploma of Sleep Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT51105" title="Diploma of Indigenous Environmental Health">
+    <units/>
+  </qualification>
+  <qualification id="HLT60702" title="Advanced Diploma of Ayurveda">
+    <units/>
+  </qualification>
+  <qualification id="HLT60502" title="Advanced Diploma of Naturopathy">
+    <units/>
+  </qualification>
+  <qualification id="HLT60302" title="Advanced Diploma of Paramedical Science (Ambulance)">
+    <units/>
+  </qualification>
+  <qualification id="HLT60402" title="Advanced Diploma of Dental Prosthetics">
+    <units/>
+  </qualification>
+  <qualification id="HLT60802" title="Advanced Diploma of Neurophysiology Technology">
+    <units/>
+  </qualification>
+  <qualification id="HLT60102" title="Advanced Diploma of Western Herbal Medicine">
+    <units/>
+  </qualification>
+  <qualification id="HLT60202" title="Advanced Diploma of Paramedical Science (Supervision)">
+    <units/>
+  </qualification>
+  <qualification id="HLT60602" title="Advanced Diploma of Homoeopathy">
+    <units/>
+  </qualification>
+</qualifications>

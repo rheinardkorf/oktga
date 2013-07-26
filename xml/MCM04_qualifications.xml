@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<qualifications class="MCM04">
+  <qualification id="MCM20105" title="Certificate II in Manufacturing Technology">
+    <units/>
+  </qualification>
+  <qualification id="MCM20205" title="Certificate II in Competitive Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="MCM30204" title="Certificate III in Manufacturing Technology">
+    <units/>
+  </qualification>
+  <qualification id="MCM30104" title="Certificate III in Competitive Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="MCM40204" title="Certificate IV in Manufacturing Technology">
+    <units/>
+  </qualification>
+  <qualification id="MCM40104" title="Certificate IV in Competitive Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="MCM50104" title="Diploma of Competitive Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="MCM60104" title="Advanced Diploma of Competitive Manufacturing">
+    <units/>
+  </qualification>
+</qualifications>

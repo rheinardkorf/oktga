@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<qualifications class="FNA98">
+  <qualification id="FNA20298" title="Certificate II in Finance (Credit Management)">
+    <units/>
+  </qualification>
+  <qualification id="FNA20198" title="Certificate II in Finance (Retail Financial Services)">
+    <units/>
+  </qualification>
+  <qualification id="FNA30198" title="Certificate III in Finance (Retail Financial Services)">
+    <units/>
+  </qualification>
+  <qualification id="FNA30298" title="Certificate III in Finance (Mercantile Agents)">
+    <units/>
+  </qualification>
+  <qualification id="FNA30498" title="Certificate III in Finance (Personal Trust Administration)">
+    <units/>
+  </qualification>
+  <qualification id="FNA30398" title="Certificate III in Finance (Credit Management)">
+    <units/>
+  </qualification>
+  <qualification id="FNA40298" title="Certificate IV in Finance (Credit Management/Mercantile Agents)">
+    <units/>
+  </qualification>
+  <qualification id="FNA40398" title="Certificate IV in Finance (Personal Trust Administration)">
+    <units/>
+  </qualification>
+  <qualification id="FNA40198" title="Certificate IV in Finance (Retail Financial Services)">
+    <units/>
+  </qualification>
+  <qualification id="FNA50298" title="Diploma of Finance (Credit Management)">
+    <units/>
+  </qualification>
+  <qualification id="FNA50398" title="Diploma of Finance (Personal Trust Administration)">
+    <units/>
+  </qualification>
+  <qualification id="FNA50198" title="Diploma of Finance (Retail Financial Services)">
+    <units/>
+  </qualification>
+</qualifications>

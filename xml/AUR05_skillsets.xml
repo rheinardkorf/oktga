@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<skillsets class="AUR05">
+  <skillset id="AURSS00001" title="Battery Electric Vehicle Diagnosis and Repair Skill Set">
+    <units>
+      <unit id="AURETH4004" title="Diagnose and repair traction motor speed control device in battery electric vehicles"/>
+      <unit id="AURETH4005" title="Diagnose and repair high voltage traction motors in battery electric vehicles"/>
+      <unit id="AURETH4006" title="Diagnose and repair auxiliary motors and associated components in battery electric vehicles"/>
+      <unit id="AURETH4008" title="Diagnose and repair high voltage cabin heating and cooling systems in battery electric vehicles"/>
+      <unit id="AURETH4009" title="Diagnose and repair DC to DC converters in battery electric vehicles"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00002" title="Battery Electric Vehicle Inspection and Servicing Skill Set">
+    <units>
+      <unit id="AURETH3001" title="Depower battery electric vehicles"/>
+      <unit id="AURETH3002" title="Service and maintain battery electric vehicles"/>
+      <unit id="AURETH4003" title="Test and repair high voltage battery systems in battery electric vehicles"/>
+      <unit id="AURETH4007" title="Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles"/>
+    </units>
+  </skillset>
+  <skillset id="AURSS00003" title="Hybrid Electric Vehicle Inspection and Servicing Skill Set">
+    <units>
+      <unit id="AURETH4010" title="Test high voltage batteries in hybrid electric vehicles"/>
+      <unit id="AURETH4011" title="Deactivate and reinitialise power supply in hybrid electric vehicles"/>
+      <unit id="AURETH4012" title="Service and maintain electrical components in hybrid electric vehicles"/>
+    </units>
+  </skillset>
+</skillsets>

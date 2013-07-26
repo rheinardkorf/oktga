@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<qualifications class="PMA02">
+  <qualification id="PMA10102" title="Certificate I in Process Plant Skills">
+    <units/>
+  </qualification>
+  <qualification id="PMA10202" title="Certificate I in Process Support">
+    <units/>
+  </qualification>
+  <qualification id="PMA20202" title="Certificate II in Process Support">
+    <units/>
+  </qualification>
+  <qualification id="PMA20102" title="Certificate II in Process Plant Operations">
+    <units/>
+  </qualification>
+  <qualification id="PMA30102" title="Certificate III in Process Plant Operations">
+    <units/>
+  </qualification>
+  <qualification id="PMA30202" title="Certificate III in Process Support">
+    <units/>
+  </qualification>
+  <qualification id="PMA40102" title="Certificate IV in Process Plant Technology">
+    <units/>
+  </qualification>
+  <qualification id="PMA50102" title="Diploma of Process Plant Technology">
+    <units/>
+  </qualification>
+  <qualification id="PMA60102" title="Advanced Diploma of Process Plant Technology">
+    <units/>
+  </qualification>
+</qualifications>

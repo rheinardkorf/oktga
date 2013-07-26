@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<qualifications class="CUS01">
+  <qualification id="CUS10101" title="Certificate I in Music Industry (Foundation)">
+    <units>
+      <unit id="CUSMGE08A" title="Use the internet to access and modify music"/>
+      <unit id="CUSMPF01A" title="Develop basic technical skills for playing or singing music"/>
+      <unit id="CUSSOU01A" title="Move and set up instruments and equipment"/>
+      <unit id="CUSSOU02A" title="Operate portable audio recorder"/>
+      <unit id="CUSSOU03A" title="Transfer sound"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+    </units>
+  </qualification>
+  <qualification id="CUS20101" title="Certificate II in Music Industry (Foundation)">
+    <units>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUETGE1A" title="Undertake simple lighting/sound/audiovisual activities"/>
+      <unit id="CUETGE2A" title="Assist with staging"/>
+      <unit id="CULMS413A" title="Use information technology"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN02A" title="Work in a culturally diverse environment"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMGE06A" title="Read music"/>
+      <unit id="CUSMGE08A" title="Use the internet to access and modify music"/>
+      <unit id="CUSMGE09A" title="Use MIDI devices or software to perform music"/>
+      <unit id="CUSMPF02A" title="Develop technical skills for playing or singing music"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSOU01A" title="Move and set up instruments and equipment"/>
+      <unit id="CUSSOU02A" title="Operate portable audio recorder"/>
+      <unit id="CUSSOU03A" title="Transfer sound"/>
+      <unit id="CUSSOU04A" title="Record sound"/>
+      <unit id="CUSSOU06A" title="Lay soundtracks"/>
+      <unit id="CUSSOU07A" title="Edit sound using analogue systems"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS30301" title="Certificate III in Music Industry (Music Business)">
+    <units>
+      <unit id="CUEAUD3A" title="Operate audiovisual equipment"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUEFOH6A" title="Manage front of house"/>
+      <unit id="CUELGT1A" title="Repair and maintain lighting equipment"/>
+      <unit id="CUELGT3A" title="Operate follow spots"/>
+      <unit id="CUELGT4A" title="Operate floor electrics"/>
+      <unit id="CUELGT5A" title="Operate lighting"/>
+      <unit id="CUESMT1A" title="Assist in stage managing the production"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CULMS413A" title="Use information technology"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSBAD03A" title="Administer operations for performances and rehearsals"/>
+      <unit id="CUSBAD06A" title="Source and secure appropriate performance venues"/>
+      <unit id="CUSBGE01A" title="Develop and update music industry knowledge"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBMA04A" title="Develop and promote image"/>
+      <unit id="CUSBMA05A" title="Promote the act to obtain deals"/>
+      <unit id="CUSBMA07A" title="Assess the feasibility of an act for promotion"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN02A" title="Work in a culturally diverse environment"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMCP02A" title="Compose a simple song or tune"/>
+      <unit id="CUSMCP03A" title="Create a simple accompaniment for a song or tune"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE06A" title="Read music"/>
+      <unit id="CUSMGE09A" title="Use MIDI devices or software to perform music"/>
+      <unit id="CUSMGE12A" title="Maintain and expand music knowledge and critical listening skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF06A" title="Extend technical skills in performance"/>
+      <unit id="CUSMPF07A" title="Plan, prepare and perform for a demo recording"/>
+      <unit id="CUSMPF08A" title="Contribute to backup accompaniment for a performance"/>
+      <unit id="CUSMPF10A" title="Develop and practise improvisation"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU04A" title="Record sound"/>
+      <unit id="CUSSOU05A" title="Install, align and test sound equipment"/>
+      <unit id="CUSSOU06A" title="Lay soundtracks"/>
+      <unit id="CUSSOU07A" title="Edit sound using analogue systems"/>
+      <unit id="CUSSOU08A" title="Operate sound reinforcement system"/>
+      <unit id="CUSSOU09A" title="Mix sound sources"/>
+      <unit id="CUSSOU10A" title="De-noise soundtracks"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU13A" title="Set up, operate and de-rig portable sound recording equipment"/>
+      <unit id="CUSSOU14A" title="Breakdown soundtrack"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS30201" title="Certificate III in Music Industry (Technical Production)">
+    <units>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSBGE01A" title="Develop and update music industry knowledge"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+    </units>
+  </qualification>
+  <qualification id="CUS30101" title="Certificate III in Music">
+    <units>
+      <unit id="CUEAUD3A" title="Operate audiovisual equipment"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUEFOH6A" title="Manage front of house"/>
+      <unit id="CUELGT1A" title="Repair and maintain lighting equipment"/>
+      <unit id="CUELGT3A" title="Operate follow spots"/>
+      <unit id="CUELGT4A" title="Operate floor electrics"/>
+      <unit id="CUELGT5A" title="Operate lighting"/>
+      <unit id="CUESMT1A" title="Assist in stage managing the production"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CULMS413A" title="Use information technology"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSBAD03A" title="Administer operations for performances and rehearsals"/>
+      <unit id="CUSBAD06A" title="Source and secure appropriate performance venues"/>
+      <unit id="CUSBGE01A" title="Develop and update music industry knowledge"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBMA04A" title="Develop and promote image"/>
+      <unit id="CUSBMA05A" title="Promote the act to obtain deals"/>
+      <unit id="CUSBMA07A" title="Assess the feasibility of an act for promotion"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN02A" title="Work in a culturally diverse environment"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMCP02A" title="Compose a simple song or tune"/>
+      <unit id="CUSMCP03A" title="Create a simple accompaniment for a song or tune"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE06A" title="Read music"/>
+      <unit id="CUSMGE09A" title="Use MIDI devices or software to perform music"/>
+      <unit id="CUSMGE12A" title="Maintain and expand music knowledge and critical listening skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF06A" title="Extend technical skills in performance"/>
+      <unit id="CUSMPF07A" title="Plan, prepare and perform for a demo recording"/>
+      <unit id="CUSMPF08A" title="Contribute to backup accompaniment for a performance"/>
+      <unit id="CUSMPF10A" title="Develop and practise improvisation"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU04A" title="Record sound"/>
+      <unit id="CUSSOU05A" title="Install, align and test sound equipment"/>
+      <unit id="CUSSOU06A" title="Lay soundtracks"/>
+      <unit id="CUSSOU07A" title="Edit sound using analogue systems"/>
+      <unit id="CUSSOU08A" title="Operate sound reinforcement system"/>
+      <unit id="CUSSOU09A" title="Mix sound sources"/>
+      <unit id="CUSSOU10A" title="De-noise soundtracks"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU13A" title="Set up, operate and de-rig portable sound recording equipment"/>
+      <unit id="CUSSOU14A" title="Breakdown soundtrack"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS40101" title="Certificate IV in Music">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEAUD3A" title="Operate audiovisual equipment"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUEEVT2A" title="Tour the show"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+      <unit id="CUEOHS1A" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUESMT1A" title="Assist in stage managing the production"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETEM2A" title="Manage systems"/>
+      <unit id="CUETEM3A" title="Establish and manage resources and technical requirements"/>
+      <unit id="CUSADM02A" title="Coordinate the purchase or hire of equipment/supplies"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSBAD03A" title="Administer operations for performances and rehearsals"/>
+      <unit id="CUSBAD06A" title="Source and secure appropriate performance venues"/>
+      <unit id="CUSBAD13A" title="Assess performing and recording deals"/>
+      <unit id="CUSBFI12A" title="Calculate, collect and distribute publishing income"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA04A" title="Develop and promote image"/>
+      <unit id="CUSBMA05A" title="Promote the act to obtain deals"/>
+      <unit id="CUSBMA07A" title="Assess the feasibility of an act for promotion"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMCP02A" title="Compose a simple song or tune"/>
+      <unit id="CUSMCP03A" title="Create a simple accompaniment for a song or tune"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE10A" title="Use MIDI devices and/or software to compose music"/>
+      <unit id="CUSMGE12A" title="Maintain and expand music knowledge and critical listening skills"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF03A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF05A" title="Rehearse music for performance"/>
+      <unit id="CUSMPF07A" title="Plan, prepare and perform for a demo recording"/>
+      <unit id="CUSMPF08A" title="Contribute to backup accompaniment for a performance"/>
+      <unit id="CUSMPF09A" title="Evaluate and extend performance technique"/>
+      <unit id="CUSMPF10A" title="Develop and practise improvisation"/>
+      <unit id="CUSMPF11A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU05A" title="Install, align and test sound equipment"/>
+      <unit id="CUSSOU08A" title="Operate sound reinforcement system"/>
+      <unit id="CUSSOU09A" title="Mix sound sources"/>
+      <unit id="CUSSOU10A" title="De-noise soundtracks"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU13A" title="Set up, operate and de-rig portable sound recording equipment"/>
+      <unit id="CUSSOU14A" title="Breakdown soundtrack"/>
+      <unit id="CUSSOU23A" title="Specify sound systems"/>
+      <unit id="CUSTGE01A" title="Supervise technical operations"/>
+      <unit id="THHGLE05A" title="Roster staff"/>
+      <unit id="THHGLE06A" title="Monitor staff performance"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE16A" title="Manage physical assets"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS40301" title="Certificate IV in Music Industry (Business)">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEAUD3A" title="Operate audiovisual equipment"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUEEVT2A" title="Tour the show"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+      <unit id="CUEOHS1A" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUESMT1A" title="Assist in stage managing the production"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETEM2A" title="Manage systems"/>
+      <unit id="CUETEM3A" title="Establish and manage resources and technical requirements"/>
+      <unit id="CUSADM02A" title="Coordinate the purchase or hire of equipment/supplies"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSBAD03A" title="Administer operations for performances and rehearsals"/>
+      <unit id="CUSBAD06A" title="Source and secure appropriate performance venues"/>
+      <unit id="CUSBAD13A" title="Assess performing and recording deals"/>
+      <unit id="CUSBFI12A" title="Calculate, collect and distribute publishing income"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA04A" title="Develop and promote image"/>
+      <unit id="CUSBMA05A" title="Promote the act to obtain deals"/>
+      <unit id="CUSBMA07A" title="Assess the feasibility of an act for promotion"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMCP02A" title="Compose a simple song or tune"/>
+      <unit id="CUSMCP03A" title="Create a simple accompaniment for a song or tune"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE10A" title="Use MIDI devices and/or software to compose music"/>
+      <unit id="CUSMGE12A" title="Maintain and expand music knowledge and critical listening skills"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF03A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF05A" title="Rehearse music for performance"/>
+      <unit id="CUSMPF07A" title="Plan, prepare and perform for a demo recording"/>
+      <unit id="CUSMPF08A" title="Contribute to backup accompaniment for a performance"/>
+      <unit id="CUSMPF09A" title="Evaluate and extend performance technique"/>
+      <unit id="CUSMPF10A" title="Develop and practise improvisation"/>
+      <unit id="CUSMPF11A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU05A" title="Install, align and test sound equipment"/>
+      <unit id="CUSSOU08A" title="Operate sound reinforcement system"/>
+      <unit id="CUSSOU09A" title="Mix sound sources"/>
+      <unit id="CUSSOU10A" title="De-noise soundtracks"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU13A" title="Set up, operate and de-rig portable sound recording equipment"/>
+      <unit id="CUSSOU14A" title="Breakdown soundtrack"/>
+      <unit id="CUSSOU23A" title="Specify sound systems"/>
+      <unit id="CUSTGE01A" title="Supervise technical operations"/>
+      <unit id="THHGLE05A" title="Roster staff"/>
+      <unit id="THHGLE06A" title="Monitor staff performance"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE16A" title="Manage physical assets"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS40201" title="Certificate IV in Music Industry">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEAUD3A" title="Operate audiovisual equipment"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUEEVT2A" title="Tour the show"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+      <unit id="CUEOHS1A" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUESMT1A" title="Assist in stage managing the production"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETEM2A" title="Manage systems"/>
+      <unit id="CUETEM3A" title="Establish and manage resources and technical requirements"/>
+      <unit id="CUSADM02A" title="Coordinate the purchase or hire of equipment/supplies"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSBAD03A" title="Administer operations for performances and rehearsals"/>
+      <unit id="CUSBAD06A" title="Source and secure appropriate performance venues"/>
+      <unit id="CUSBAD13A" title="Assess performing and recording deals"/>
+      <unit id="CUSBFI12A" title="Calculate, collect and distribute publishing income"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA04A" title="Develop and promote image"/>
+      <unit id="CUSBMA05A" title="Promote the act to obtain deals"/>
+      <unit id="CUSBMA07A" title="Assess the feasibility of an act for promotion"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP01A" title="Contribute creative music ideas to a project"/>
+      <unit id="CUSMCP02A" title="Compose a simple song or tune"/>
+      <unit id="CUSMCP03A" title="Create a simple accompaniment for a song or tune"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE10A" title="Use MIDI devices and/or software to compose music"/>
+      <unit id="CUSMGE12A" title="Maintain and expand music knowledge and critical listening skills"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF03A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF05A" title="Rehearse music for performance"/>
+      <unit id="CUSMPF07A" title="Plan, prepare and perform for a demo recording"/>
+      <unit id="CUSMPF08A" title="Contribute to backup accompaniment for a performance"/>
+      <unit id="CUSMPF09A" title="Evaluate and extend performance technique"/>
+      <unit id="CUSMPF10A" title="Develop and practise improvisation"/>
+      <unit id="CUSMPF11A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU05A" title="Install, align and test sound equipment"/>
+      <unit id="CUSSOU08A" title="Operate sound reinforcement system"/>
+      <unit id="CUSSOU09A" title="Mix sound sources"/>
+      <unit id="CUSSOU10A" title="De-noise soundtracks"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU13A" title="Set up, operate and de-rig portable sound recording equipment"/>
+      <unit id="CUSSOU14A" title="Breakdown soundtrack"/>
+      <unit id="CUSSOU23A" title="Specify sound systems"/>
+      <unit id="CUSTGE01A" title="Supervise technical operations"/>
+      <unit id="THHGLE05A" title="Roster staff"/>
+      <unit id="THHGLE06A" title="Monitor staff performance"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE16A" title="Manage physical assets"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS50301" title="Diploma of Music Industry (Business)">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEEVT2A" title="Tour the show"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+      <unit id="CUEOHS1A" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUESMT6A" title="Follow scores"/>
+      <unit id="CUSADM02A" title="Coordinate the purchase or hire of equipment/supplies"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUSADM10A" title="Establish and manage contracts"/>
+      <unit id="CUSBAD13A" title="Assess performing and recording deals"/>
+      <unit id="CUSBAD15A" title="Manage risk and crises for an act or show"/>
+      <unit id="CUSBAD18A" title="Manage artists and their careers"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSBRA19A" title="Develop artists and repertoire"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSLRN01A" title="Provide musical leadership in performance"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP04A" title="Compose songs or tunes in a range of styles"/>
+      <unit id="CUSMCP06A" title="Compose music for screen using electronic media"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMCP08A" title="Arrange music for a brief"/>
+      <unit id="CUSMCP10A" title="Interpret, confirm and create music for a brief"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE02A" title="Develop self as artist"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE04A" title="Analyse music"/>
+      <unit id="CUSMGE07A" title="Analyse harmony"/>
+      <unit id="CUSMGE10A" title="Use MIDI devices and/or software to compose music"/>
+      <unit id="CUSMGE13A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF03A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF05A" title="Rehearse music for performance"/>
+      <unit id="CUSMPF11A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF13A" title="Plan and prepare a program for performance"/>
+      <unit id="CUSMPF14A" title="Perform accompaniment"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF16A" title="Perform improvisation for audience"/>
+      <unit id="CUSMPF17A" title="Develop technical skills and expand repertoire"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU15A" title="Create a final sound balance"/>
+      <unit id="CUSSOU16A" title="Develop sound design"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="CUSSOU23A" title="Specify sound systems"/>
+      <unit id="CUSTGE01A" title="Supervise technical operations"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+      <unit id="THHGLE06A" title="Monitor staff performance"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE16A" title="Manage physical assets"/>
+      <unit id="THTSMA01A" title="Co-ordinate the production of brochures and marketing materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS50101" title="Diploma of Music">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEEVT2A" title="Tour the show"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+      <unit id="CUEOHS1A" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUESMT6A" title="Follow scores"/>
+      <unit id="CUSADM02A" title="Coordinate the purchase or hire of equipment/supplies"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM07A" title="Establish and maintain work and contractual relationships"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUSADM10A" title="Establish and manage contracts"/>
+      <unit id="CUSBAD13A" title="Assess performing and recording deals"/>
+      <unit id="CUSBAD15A" title="Manage risk and crises for an act or show"/>
+      <unit id="CUSBAD18A" title="Manage artists and their careers"/>
+      <unit id="CUSBGE11A" title="Plan a career in music"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA09A" title="Promote own artistic work"/>
+      <unit id="CUSBMA10A" title="Determine publicity opportunities for an artistic event"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSBRA19A" title="Develop artists and repertoire"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSGEN04A" title="Participate in negotiations"/>
+      <unit id="CUSGEN05A" title="Make presentations"/>
+      <unit id="CUSLRN01A" title="Provide musical leadership in performance"/>
+      <unit id="CUSMAR01A" title="Promote products and services"/>
+      <unit id="CUSMCP04A" title="Compose songs or tunes in a range of styles"/>
+      <unit id="CUSMCP06A" title="Compose music for screen using electronic media"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMCP08A" title="Arrange music for a brief"/>
+      <unit id="CUSMCP10A" title="Interpret, confirm and create music for a brief"/>
+      <unit id="CUSMGE01A" title="Maintain self or group in music"/>
+      <unit id="CUSMGE02A" title="Develop self as artist"/>
+      <unit id="CUSMGE03A" title="Use instruments, equipment and/or electronic technology for making music"/>
+      <unit id="CUSMGE04A" title="Analyse music"/>
+      <unit id="CUSMGE07A" title="Analyse harmony"/>
+      <unit id="CUSMGE10A" title="Use MIDI devices and/or software to compose music"/>
+      <unit id="CUSMGE13A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF03A" title="Develop and maintain stagecraft skills"/>
+      <unit id="CUSMPF04A" title="Prepare self for performance"/>
+      <unit id="CUSMPF05A" title="Rehearse music for performance"/>
+      <unit id="CUSMPF11A" title="Perform music as part of a group"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF13A" title="Plan and prepare a program for performance"/>
+      <unit id="CUSMPF14A" title="Perform accompaniment"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF16A" title="Perform improvisation for audience"/>
+      <unit id="CUSMPF17A" title="Develop technical skills and expand repertoire"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU11A" title="Operate sound mixing console"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="CUSSOU15A" title="Create a final sound balance"/>
+      <unit id="CUSSOU16A" title="Develop sound design"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="CUSSOU23A" title="Specify sound systems"/>
+      <unit id="CUSTGE01A" title="Supervise technical operations"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+      <unit id="THHGLE06A" title="Monitor staff performance"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE16A" title="Manage physical assets"/>
+      <unit id="THTSMA01A" title="Co-ordinate the production of brochures and marketing materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS50201" title="Diploma of Music Industry (Technical Production)">
+    <units/>
+  </qualification>
+  <qualification id="CUS60301" title="Advanced Diploma of Music Industry (Business)">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="CUEEVT1A" title="Plan and manage events"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEFIN3A" title="Obtain sponsorship"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+      <unit id="CUEOHS2A" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="CUESMT6A" title="Follow scores"/>
+      <unit id="CUESOU6A" title="Design sound systems"/>
+      <unit id="CUSADM04A" title="Manage a major project"/>
+      <unit id="CUSADM05A" title="Develop and implement a business/strategic plan"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUSADM10A" title="Establish and manage contracts"/>
+      <unit id="CUSBAD15A" title="Manage risk and crises for an act or show"/>
+      <unit id="CUSBAD18A" title="Manage artists and their careers"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSBRA19A" title="Develop artists and repertoire"/>
+      <unit id="CUSFIN01A" title="Finance a project"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSLRN01A" title="Provide musical leadership in performance"/>
+      <unit id="CUSLRN02A" title="Provide instrumental/vocal tuition"/>
+      <unit id="CUSLRN03A" title="Provide tuition for composition"/>
+      <unit id="CUSLRN04A" title="Prepare for and lead a music rehearsal"/>
+      <unit id="CUSLRN05A" title="Direct or conduct music in performance"/>
+      <unit id="CUSMCP05A" title="Create original music"/>
+      <unit id="CUSMCP06A" title="Compose music for screen using electronic media"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMCP08A" title="Arrange music for a brief"/>
+      <unit id="CUSMCP09A" title="Arrange music for screen"/>
+      <unit id="CUSMCP10A" title="Interpret, confirm and create music for a brief"/>
+      <unit id="CUSMCP11A" title="Compose music for screen"/>
+      <unit id="CUSMGE02A" title="Develop self as artist"/>
+      <unit id="CUSMGE04A" title="Analyse music"/>
+      <unit id="CUSMGE05A" title="Write music copy, articles, criticism and/or program notes"/>
+      <unit id="CUSMGE07A" title="Analyse harmony"/>
+      <unit id="CUSMGE13A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF13A" title="Plan and prepare a program for performance"/>
+      <unit id="CUSMPF14A" title="Perform accompaniment"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF16A" title="Perform improvisation for audience"/>
+      <unit id="CUSMPF18A" title="Refine performance technique and expand repertoire"/>
+      <unit id="CUSMPF19A" title="Use private practice to refine performance technique"/>
+      <unit id="CUSMPF20A" title="Plan, prepare and present a recital performance"/>
+      <unit id="CUSRAD02A" title="Conduct research"/>
+      <unit id="CUSSOU15A" title="Create a final sound balance"/>
+      <unit id="CUSSOU16A" title="Develop sound design"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU18A" title="Manage production for sound design"/>
+      <unit id="CUSSOU19A" title="Manage production for sound recording"/>
+      <unit id="CUSSOU20A" title="Prepare and compile music for a soundtrack"/>
+      <unit id="CUSSOU21A" title="Direct a final audio master"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE12A" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE15A" title="Manage financial operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS60101" title="Advanced Diploma of Music">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="CUEEVT1A" title="Plan and manage events"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEFIN3A" title="Obtain sponsorship"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+      <unit id="CUEOHS2A" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="CUESMT6A" title="Follow scores"/>
+      <unit id="CUESOU6A" title="Design sound systems"/>
+      <unit id="CUSADM04A" title="Manage a major project"/>
+      <unit id="CUSADM05A" title="Develop and implement a business/strategic plan"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUSADM10A" title="Establish and manage contracts"/>
+      <unit id="CUSBAD15A" title="Manage risk and crises for an act or show"/>
+      <unit id="CUSBAD18A" title="Manage artists and their careers"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSBRA19A" title="Develop artists and repertoire"/>
+      <unit id="CUSFIN01A" title="Finance a project"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSLRN01A" title="Provide musical leadership in performance"/>
+      <unit id="CUSLRN02A" title="Provide instrumental/vocal tuition"/>
+      <unit id="CUSLRN03A" title="Provide tuition for composition"/>
+      <unit id="CUSLRN04A" title="Prepare for and lead a music rehearsal"/>
+      <unit id="CUSLRN05A" title="Direct or conduct music in performance"/>
+      <unit id="CUSMCP05A" title="Create original music"/>
+      <unit id="CUSMCP06A" title="Compose music for screen using electronic media"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMCP08A" title="Arrange music for a brief"/>
+      <unit id="CUSMCP09A" title="Arrange music for screen"/>
+      <unit id="CUSMCP10A" title="Interpret, confirm and create music for a brief"/>
+      <unit id="CUSMCP11A" title="Compose music for screen"/>
+      <unit id="CUSMGE02A" title="Develop self as artist"/>
+      <unit id="CUSMGE04A" title="Analyse music"/>
+      <unit id="CUSMGE05A" title="Write music copy, articles, criticism and/or program notes"/>
+      <unit id="CUSMGE07A" title="Analyse harmony"/>
+      <unit id="CUSMGE13A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF13A" title="Plan and prepare a program for performance"/>
+      <unit id="CUSMPF14A" title="Perform accompaniment"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF16A" title="Perform improvisation for audience"/>
+      <unit id="CUSMPF18A" title="Refine performance technique and expand repertoire"/>
+      <unit id="CUSMPF19A" title="Use private practice to refine performance technique"/>
+      <unit id="CUSMPF20A" title="Plan, prepare and present a recital performance"/>
+      <unit id="CUSRAD02A" title="Conduct research"/>
+      <unit id="CUSSAF02A" title="Follow health, safety and security procedures in the music industry"/>
+      <unit id="CUSSOU15A" title="Create a final sound balance"/>
+      <unit id="CUSSOU16A" title="Develop sound design"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU18A" title="Manage production for sound design"/>
+      <unit id="CUSSOU19A" title="Manage production for sound recording"/>
+      <unit id="CUSSOU20A" title="Prepare and compile music for a soundtrack"/>
+      <unit id="CUSSOU21A" title="Direct a final audio master"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE12A" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE15A" title="Manage financial operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUS60201" title="Advanced Diploma of Music Industry">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="CUEEVT1A" title="Plan and manage events"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEFIN3A" title="Obtain sponsorship"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+      <unit id="CUEOHS2A" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="CUESMT6A" title="Follow scores"/>
+      <unit id="CUESOU6A" title="Design sound systems"/>
+      <unit id="CUSADM04A" title="Manage a major project"/>
+      <unit id="CUSADM05A" title="Develop and implement a business/strategic plan"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUSADM10A" title="Establish and manage contracts"/>
+      <unit id="CUSBAD15A" title="Manage risk and crises for an act or show"/>
+      <unit id="CUSBAD18A" title="Manage artists and their careers"/>
+      <unit id="CUSBGE16A" title="Maintain self or group in business"/>
+      <unit id="CUSBGE17A" title="Maintain and apply music industry knowledge"/>
+      <unit id="CUSBMA14A" title="Manage, promote and negotiate licensing on published works"/>
+      <unit id="CUSBRA19A" title="Develop artists and repertoire"/>
+      <unit id="CUSFIN01A" title="Finance a project"/>
+      <unit id="CUSGEN03A" title="Collaborate with colleagues in planning and producing a project"/>
+      <unit id="CUSLRN01A" title="Provide musical leadership in performance"/>
+      <unit id="CUSLRN02A" title="Provide instrumental/vocal tuition"/>
+      <unit id="CUSLRN03A" title="Provide tuition for composition"/>
+      <unit id="CUSLRN04A" title="Prepare for and lead a music rehearsal"/>
+      <unit id="CUSLRN05A" title="Direct or conduct music in performance"/>
+      <unit id="CUSMCP05A" title="Create original music"/>
+      <unit id="CUSMCP06A" title="Compose music for screen using electronic media"/>
+      <unit id="CUSMCP07A" title="Prepare compositions for performance/ publishing"/>
+      <unit id="CUSMCP08A" title="Arrange music for a brief"/>
+      <unit id="CUSMCP09A" title="Arrange music for screen"/>
+      <unit id="CUSMCP10A" title="Interpret, confirm and create music for a brief"/>
+      <unit id="CUSMCP11A" title="Compose music for screen"/>
+      <unit id="CUSMGE02A" title="Develop self as artist"/>
+      <unit id="CUSMGE04A" title="Analyse music"/>
+      <unit id="CUSMGE05A" title="Write music copy, articles, criticism and/or program notes"/>
+      <unit id="CUSMGE07A" title="Analyse harmony"/>
+      <unit id="CUSMGE13A" title="Apply music knowledge and artistic judgement"/>
+      <unit id="CUSMGE14A" title="Read music for performance and analysis"/>
+      <unit id="CUSMPF12A" title="Plan, prepare and present a live audition program"/>
+      <unit id="CUSMPF13A" title="Plan and prepare a program for performance"/>
+      <unit id="CUSMPF14A" title="Perform accompaniment"/>
+      <unit id="CUSMPF15A" title="Perform music as a soloist"/>
+      <unit id="CUSMPF16A" title="Perform improvisation for audience"/>
+      <unit id="CUSMPF18A" title="Refine performance technique and expand repertoire"/>
+      <unit id="CUSMPF19A" title="Use private practice to refine performance technique"/>
+      <unit id="CUSMPF20A" title="Plan, prepare and present a recital performance"/>
+      <unit id="CUSRAD02A" title="Conduct research"/>
+      <unit id="CUSSOU15A" title="Create a final sound balance"/>
+      <unit id="CUSSOU16A" title="Develop sound design"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU18A" title="Manage production for sound design"/>
+      <unit id="CUSSOU19A" title="Manage production for sound recording"/>
+      <unit id="CUSSOU20A" title="Prepare and compile music for a soundtrack"/>
+      <unit id="CUSSOU21A" title="Direct a final audio master"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="THHGLE07A" title="Recruit and select staff"/>
+      <unit id="THHGLE12A" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE15A" title="Manage financial operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

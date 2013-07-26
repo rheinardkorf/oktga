@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<skillsets class="FPI05">
+  <skillset id="FPISS00001" title="Skill set for a boom delimber operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3208B" title="Conduct boom delimber operations"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00002" title="Skill set for a crawler_dozer operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPIHAR3216A" title="Conduct forestry operations using crawler tractor"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00003" title="Skill set for a feller buncher operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00004" title="Skill set for a forwarder operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00005" title="Skill set for a heavy production mobile chipper operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00006" title="Skill set for a loader operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3218A" title="Conduct loader operations"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00007" title="Skill set for a mechanical processor operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00008" title="Skill set for a single grip harvester operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00009" title="Skill set for a skidder operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3217A" title="Conduct skidder operations"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00010" title="Skill set for an excavator operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3219A" title="Conduct excavator operations with grabs"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+    </units>
+  </skillset>
+</skillsets>

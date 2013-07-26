@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<qualifications class="SFI04">
+  <qualification id="SFI10204" title="Certificate I in Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI10104" title="Certificate I in Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI10504" title="Certificate I in Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20204" title="Certificate II in Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20104" title="Certificate II in Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20504" title="Certificate II in Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20604" title="Certificate II in Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20404" title="Certificate II in Seafood Industry (Fisheries Compliance Support)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30604" title="Certificate III in Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI32204" title="Certificate III in Seafood Industry (Fishing Operations - Marine Engine Driver II)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30404" title="Certificate III in Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30705" title="Certificate III in Seafood Industry (Environmental Management Support)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30104" title="Certificate III in Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30504" title="Certificate III in Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30304" title="Certificate III in Seafood Industry (Fishing Charter Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI33204" title="Certificate III in Seafood Industry (Fishing Operations - Master 5/Skipper 3)">
+    <units/>
+  </qualification>
+  <qualification id="SFI31204" title="Certificate III in Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40504" title="Certificate IV in Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40104" title="Certificate IV in Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40705" title="Certificate IV in Seafood Industry (Environmental Management)">
+    <units/>
+  </qualification>
+  <qualification id="SFI41204" title="Certificate IV in Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40404" title="Certificate IV in Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40604" title="Certificate IV in Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI42204" title="Certificate IV in Seafood Industry (Fishing Operations - Marine Engine Driver I)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50204" title="Diploma of Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50504" title="Diploma of Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50304" title="Diploma of Seafood Industry (Fishing Charter Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50104" title="Diploma of Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50404" title="Diploma of Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+</qualifications>

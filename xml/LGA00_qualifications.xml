@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<qualifications class="LGA00">
+  <qualification id="LGA10100" title="Certificate I in Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA10201" title="Certificate I in Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA20100" title="Certificate II in Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA20301" title="Certificate II in Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA20200" title="Certificate II in Local Government (Environmental Health and Regulation)">
+    <units/>
+  </qualification>
+  <qualification id="LGA30301" title="Certificate III in Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA30100" title="Certificate III in Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA30200" title="Certificate III in Local Government (Environmental Health and Regulation)">
+    <units/>
+  </qualification>
+  <qualification id="LGA40301" title="Certificate IV in Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA40100" title="Certificate IV in Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA40200" title="Certificate IV in Local Government (Planning and Management of the Physical Environment)">
+    <units/>
+  </qualification>
+  <qualification id="LGA50401" title="Diploma of Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA50200" title="Diploma of Local Government (Planning and Management of the Physical Environment)">
+    <units/>
+  </qualification>
+  <qualification id="LGA50300" title="Diploma of Local Government (Environmental Health and regulation)">
+    <units/>
+  </qualification>
+  <qualification id="LGA50100" title="Diploma of Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA60401" title="Advanced Diploma of Local Government (Operational Works)">
+    <units/>
+  </qualification>
+  <qualification id="LGA60200" title="Advanced Diploma of Local Government (Planning and Management of the Physical Environment)">
+    <units/>
+  </qualification>
+  <qualification id="LGA60100" title="Advanced Diploma of Local Government (Governance and Administration)">
+    <units/>
+  </qualification>
+  <qualification id="LGA60300" title="Advanced Diploma of Local Government (Environmental Health and Regulation)">
+    <units/>
+  </qualification>
+</qualifications>

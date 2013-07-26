@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<qualifications class="CUL04">
+  <qualification id="CUL20104" title="Certificate II in Library-Information Services">
+    <units>
+      <unit id="BSBCMN205A" title="Use business technology"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUFSAF01B" title="Follow health, safety and security procedures"/>
+      <unit id="CULLB001B" title="Develop and apply knowledge of the library/information services industry"/>
+      <unit id="CULLB004B" title="Process information resource orders"/>
+      <unit id="CULLB203C" title="Develop and use information literacy skills"/>
+      <unit id="CULLB205C" title="Process and maintain information resources"/>
+      <unit id="CULLB206C" title="Assist with circulation services"/>
+      <unit id="CULMS207C" title="Assist with the presentation of public activities and events"/>
+      <unit id="CUSGEN02B" title="Work in a culturally diverse environment"/>
+      <unit id="THHGCS01B" title="Develop and update local knowledge"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL20204" title="Certificate II in Museum Practice">
+    <units>
+      <unit id="CUECOR02C" title="Work with others"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUFSAF01B" title="Follow health, safety and security procedures"/>
+      <unit id="CULMS201C" title="Develop and apply knowledge of the museum industry"/>
+      <unit id="CULMS202C" title="Provide visitors with venue information and assistance"/>
+      <unit id="CULMS205C" title="Observe and report basic condition of collection"/>
+      <unit id="CULMS207C" title="Assist with the presentation of public activities and events"/>
+    </units>
+  </qualification>
+  <qualification id="CUL30204" title="Certificate III in Museum Practice">
+    <units>
+      <unit id="BCGCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="CUECOR02C" title="Work with others"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUFSAF01B" title="Follow health, safety and security procedures"/>
+      <unit id="CULMS003B" title="Move_store cultural material"/>
+      <unit id="CULMS201C" title="Develop and apply knowledge of the museum industry"/>
+      <unit id="CULMS205C" title="Observe and report basic condition of collection"/>
+      <unit id="CULMS207C" title="Assist with the presentation of public activities and events"/>
+      <unit id="CULMS406C" title="Deliver information, activities and events"/>
+      <unit id="CULMS407C" title="Install and dismantle exhibition elements"/>
+      <unit id="CULMS411C" title="Prepare display accommodation for cultural material"/>
+      <unit id="CULMS412C" title="Record and maintain collection information"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="THTFAT03B" title="Provide a site briefing or scripted commentary"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL30104" title="Certificate III in Library-Information Services">
+    <units>
+      <unit id="BSBCMN205A" title="Use business technology"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUECOR04B" title="Deal with conflict and resolve complaints"/>
+      <unit id="CUFSAF01B" title="Follow health, safety and security procedures"/>
+      <unit id="CULLB001B" title="Develop and apply knowledge of the library/information services industry"/>
+      <unit id="CULLB004B" title="Process information resource orders"/>
+      <unit id="CULLB203C" title="Develop and use information literacy skills"/>
+      <unit id="CULLB205C" title="Process and maintain information resources"/>
+      <unit id="CULLB206C" title="Assist with circulation services"/>
+      <unit id="CULLB302C" title="Use cataloguing tools"/>
+      <unit id="CULLB307C" title="Use multimedia"/>
+      <unit id="CULLB401C" title="Assist customers to access information"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL40204" title="Certificate IV in Museum Practice">
+    <units>
+      <unit id="BCGCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBFLM412A" title="Promote team effectiveness"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUECOR04B" title="Deal with conflict and resolve complaints"/>
+      <unit id="CUEFIN02C" title="Manage a budget"/>
+      <unit id="CUEIND03B" title="Integrate accessibility principles into work practices"/>
+      <unit id="CUEOHS01C" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CULMS003B" title="Move_store cultural material"/>
+      <unit id="CULMS005B" title="Research and generate ideas for exhibition concepts"/>
+      <unit id="CULMS007B" title="Design and develop interpretive displays"/>
+      <unit id="CULMS009B" title="Implement preventive conservation activities"/>
+      <unit id="CULMS011B" title="Develop a disaster preparedness plan"/>
+      <unit id="CULMS201C" title="Develop and apply knowledge of the museum industry"/>
+      <unit id="CULMS202C" title="Provide visitors with venue information and assistance"/>
+      <unit id="CULMS205C" title="Observe and report basic condition of collection"/>
+      <unit id="CULMS406C" title="Deliver information, activities and events"/>
+      <unit id="CULMS407C" title="Install and dismantle exhibition elements"/>
+      <unit id="CULMS411C" title="Prepare display accommodation for cultural material"/>
+      <unit id="CULMS412C" title="Record and maintain collection information"/>
+      <unit id="CULMS502C" title="Acquire_dispose of cultural material"/>
+      <unit id="CULMS504C" title="Organise and monitor exhibition installation_dismantling"/>
+      <unit id="CULMS506C" title="Plan and develop activities, events and programs"/>
+      <unit id="CULMS605C" title="Develop and implement procedures for the movement and storage of cultural material"/>
+      <unit id="CULMS610C" title="Research, describe and document cultural material"/>
+      <unit id="CUSGEN02B" title="Work in a culturally diverse environment"/>
+      <unit id="CUVADM12B" title="Work with arts professionals in an arts organisation"/>
+      <unit id="CUVADM13B" title="Research and critique cultural work(s)"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="TAADEL404B" title="Facilitate work-based learning"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+      <unit id="THTTCO01B" title="Develop and update tourism industry knowledge"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUL40104" title="Certificate IV in Library-Information Services">
+    <units>
+      <unit id="BSBADM403A" title="Develop and use complex databases"/>
+      <unit id="BSBCMN406A" title="Maintain business technology"/>
+      <unit id="BSBFLM412A" title="Promote team effectiveness"/>
+      <unit id="CUEOHS01C" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUFMEM12A" title="Update web pages"/>
+      <unit id="CULLB001B" title="Develop and apply knowledge of the library/information services industry"/>
+      <unit id="CULLB002B" title="Obtain information from external and networked sources to meet customer needs"/>
+      <unit id="CULLB003B" title="Research and analyse information to meet customer needs"/>
+      <unit id="CULLB005B" title="Search databases"/>
+      <unit id="CULLB302C" title="Use cataloguing tools"/>
+      <unit id="CULLB401C" title="Assist customers to access information"/>
+      <unit id="CULLB412C" title="Undertake cataloguing activities"/>
+      <unit id="CULLB602C" title="Use, evaluate and extend own information literacy skills"/>
+      <unit id="CULMS406C" title="Deliver information, activities and events"/>
+      <unit id="ICAU2006B" title="Operate computing packages"/>
+      <unit id="TAADEL301B" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL50104" title="Diploma of Library-Information Services">
+    <units>
+      <unit id="BSBADM306A" title="Create electronic presentations"/>
+      <unit id="BSBADM403A" title="Develop and use complex databases"/>
+      <unit id="BSBFLM503B" title="Manage effective workplace relationships"/>
+      <unit id="BSBRKG501A" title="Determine business or records system specifications"/>
+      <unit id="BSBRKG502A" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRKG503A" title="Develop and maintain a classification scheme"/>
+      <unit id="CUEFIN02C" title="Manage a budget"/>
+      <unit id="CUEFIN03C" title="Obtain sponsorship"/>
+      <unit id="CUEIND03B" title="Integrate accessibility principles into work practices"/>
+      <unit id="CUEOHS01C" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CUFIMA01A" title="Produce and manipulate digital images"/>
+      <unit id="CUFMEM12A" title="Update web pages"/>
+      <unit id="CULLB001B" title="Develop and apply knowledge of the library/information services industry"/>
+      <unit id="CULLB002B" title="Obtain information from external and networked sources to meet customer needs"/>
+      <unit id="CULLB003B" title="Research and analyse information to meet customer needs"/>
+      <unit id="CULLB412C" title="Undertake cataloguing activities"/>
+      <unit id="CULLB506C" title="Catalogue and classify material"/>
+      <unit id="CULLB508C" title="Monitor and enhance information access"/>
+      <unit id="CULLB509C" title="Select and acquire information materials"/>
+      <unit id="CULLB510C" title="Develop and maintain community_stakeholder relationships"/>
+      <unit id="CULLB602C" title="Use, evaluate and extend own information literacy skills"/>
+      <unit id="CULMS406C" title="Deliver information, activities and events"/>
+      <unit id="CUSADM03A" title="Manage a project"/>
+      <unit id="CUVADM05B" title="Plan and develop information management systems"/>
+      <unit id="CUVICS03B" title="Develop innovative ideas at work"/>
+      <unit id="ICAB4169B" title="Use development software and IT tools to build a basic website"/>
+      <unit id="ICAU3126B" title="Use advanced features of computer applications"/>
+      <unit id="PSPETHC501B" title="Promote the values and ethos of public service"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="TAADEL301B" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="THHGHS03B" title="Provide first aid"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUL50204" title="Diploma of Museum Practice">
+    <units>
+      <unit id="BSBFLM503B" title="Manage effective workplace relationships"/>
+      <unit id="CUEFIN01C" title="Develop a budget"/>
+      <unit id="CUEFIN02C" title="Manage a budget"/>
+      <unit id="CUEOHS02C" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="CULLB510C" title="Develop and maintain community_stakeholder relationships"/>
+      <unit id="CULMS009B" title="Implement preventive conservation activities"/>
+      <unit id="CULMS011B" title="Develop a disaster preparedness plan"/>
+      <unit id="CULMS201C" title="Develop and apply knowledge of the museum industry"/>
+      <unit id="CULMS502C" title="Acquire_dispose of cultural material"/>
+      <unit id="CULMS506C" title="Plan and develop activities, events and programs"/>
+      <unit id="CULMS605C" title="Develop and implement procedures for the movement and storage of cultural material"/>
+      <unit id="CULMS609C" title="Develop policies and strategies"/>
+      <unit id="CULMS610C" title="Research, describe and document cultural material"/>
+      <unit id="CULMS611C" title="Lend_borrow cultural material"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE22A" title="Manage risk"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL60104" title="Advanced Diploma of Library-Information Services">
+    <units>
+      <unit id="BSBFLM503B" title="Manage effective workplace relationships"/>
+      <unit id="CUEFIN01C" title="Develop a budget"/>
+      <unit id="CUEFIN02C" title="Manage a budget"/>
+      <unit id="CUEOHS01C" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CULLB001B" title="Develop and apply knowledge of the library/information services industry"/>
+      <unit id="CULLB003B" title="Research and analyse information to meet customer needs"/>
+      <unit id="CULLB505C" title="Analyse and describe information materials"/>
+      <unit id="CULLB506C" title="Catalogue and classify material"/>
+      <unit id="CULLB508C" title="Monitor and enhance information access"/>
+      <unit id="CULLB510C" title="Develop and maintain community_stakeholder relationships"/>
+      <unit id="CULLB701C" title="Analyse and describe specialist_complex material"/>
+      <unit id="CULLB708C" title="Manage information access"/>
+      <unit id="CULMS506C" title="Plan and develop activities, events and programs"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUVADM05B" title="Plan and develop information management systems"/>
+      <unit id="CUVICS06B" title="Create an innovative work environment"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="THHGLE22A" title="Manage risk"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUL60204" title="Advanced Diploma of Museum Practice">
+    <units>
+      <unit id="BSBFLM503B" title="Manage effective workplace relationships"/>
+      <unit id="CUEFIN01C" title="Develop a budget"/>
+      <unit id="CUEFIN02C" title="Manage a budget"/>
+      <unit id="CUEOHS02C" title="Establish and maintain a safe and secure workplace"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CULLB510C" title="Develop and maintain community_stakeholder relationships"/>
+      <unit id="CULMS201C" title="Develop and apply knowledge of the museum industry"/>
+      <unit id="CULMS502C" title="Acquire_dispose of cultural material"/>
+      <unit id="CULMS605C" title="Develop and implement procedures for the movement and storage of cultural material"/>
+      <unit id="CULMS609C" title="Develop policies and strategies"/>
+      <unit id="CULMS611C" title="Lend_borrow cultural material"/>
+      <unit id="CUSADM04A" title="Manage a major project"/>
+      <unit id="CUSADM05A" title="Develop and implement a business/strategic plan"/>
+      <unit id="CUSADM06A" title="Develop and implement an operational plan"/>
+      <unit id="CUSADM08A" title="Address copyright requirements"/>
+      <unit id="CUSADM09A" title="Address legal and administrative requirements"/>
+      <unit id="CUVADM08B" title="Develop and manage public relations strategies"/>
+      <unit id="CUVCON06B" title="Develop concepts for arts organisations or projects"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+      <unit id="THHGLE22A" title="Manage risk"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

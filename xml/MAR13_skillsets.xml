@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<skillsets class="MAR13">
+  <skillset id="MARSS00001" title="Coxswain Grade 1 and Grade 2 Skill Set">
+    <units>
+      <unit id="MARB2001A" title="Perform basic servicing and maintenance of main propulsion unit and auxiliary systems"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+      <unit id="MARH2001A" title="Plan and navigate a passage for a vessel up to 12 metres"/>
+    </units>
+  </skillset>
+  <skillset id="MARSS00002" title="Safety Training Certification Skill Set">
+    <units>
+      <unit id="MARF1003A" title="Follow vessel security procedures"/>
+      <unit id="MARF3002A" title="Observe personal safety and social responsibility"/>
+      <unit id="MARF3005A" title="Prevent and fight fires on board a vessel"/>
+      <unit id="MARF3006A" title="Survive at sea in the event of vessel abandonment"/>
+    </units>
+  </skillset>
+  <skillset id="MARSS00003" title="Shipboard Safety Skill Set">
+    <units>
+      <unit id="MARF1001A" title="Apply basic survival skills in the event of vessel abandonment"/>
+      <unit id="MARF1002A" title="Follow procedures to minimise and fight fires on board a vessel"/>
+      <unit id="MARF1005A" title="Meet work health and safety requirements"/>
+      <unit id="MARF1006A" title="Survive at sea using survival craft"/>
+    </units>
+  </skillset>
+</skillsets>

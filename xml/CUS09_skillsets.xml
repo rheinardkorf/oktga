@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<skillsets class="CUS09">
+  <skillset id="CUSSS00001" title="Music tutor skill set">
+    <units>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="CUSIND401A" title="Develop specialist expertise in the music industry"/>
+      <unit id="CUSLED501A" title="Provide instrumental or vocal tuition"/>
+      <unit id="TAADEL403B" title="Facilitate individual learning"/>
+    </units>
+  </skillset>
+</skillsets>

@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<qualifications class="WFS02">
+  <qualification id="WFS10202" title="Certificate I in Funeral Services">
+    <units/>
+  </qualification>
+  <qualification id="WFS10102" title="Certificate I in Funeral Services (Coffin and Casket Manufacture)">
+    <units/>
+  </qualification>
+  <qualification id="WFS20202" title="Certificate II in Funeral Services (Funeral Operations)">
+    <units/>
+  </qualification>
+  <qualification id="WFS20402" title="Certificate II in Funeral Services (Grounds and Maintenance)">
+    <units/>
+  </qualification>
+  <qualification id="WFS20302" title="Certificate II in Funeral Services (Cemetery/Crematoria Operations)">
+    <units>
+      <unit id="BSBCMN105A" title="Use business equipment"/>
+      <unit id="BSBCMN205A" title="Use business technology"/>
+      <unit id="BSBCMN206A" title="Process and maintain workplace information"/>
+      <unit id="BSBCMN207A" title="Prepare and process financial/business documents"/>
+      <unit id="BSBCMN212A" title="Handle mail"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="CHCT3A" title="Apply safe food hygiene practices"/>
+      <unit id="TDTC197A" title="Drive vehicle (Core skills)"/>
+      <unit id="TDTJ197A" title="Apply quality procedures"/>
+      <unit id="THHBFB09A" title="Provide responsible service of alcohol"/>
+      <unit id="THHBFB10A" title="Prepare and serve non alcoholic beverages"/>
+      <unit id="WFSBCR201A" title="Carry out the transfer of coffins and caskets"/>
+      <unit id="WFSBCR202A" title="Carry out burials"/>
+      <unit id="WFSBCR203A" title="Carry out chapel operation procedures"/>
+      <unit id="WFSBGM203A" title="Carry out signage construction"/>
+      <unit id="WFSBGM204A" title="Carry out general maintenance activities"/>
+      <unit id="WFSCCR202A" title="Deliver services using telecommunications technology"/>
+      <unit id="WFSCCR203A" title="Prepare and present finger food"/>
+      <unit id="WFSCCR204A" title="Display products"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+      <unit id="WFSTVM203A" title="Inspect and maintain vehicles and equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WFS20102" title="Certificate II in Funeral Services (Coffin and Casket Manufacture)">
+    <units>
+      <unit id="MTMS40A" title="Drive forklift"/>
+      <unit id="WFSCCM203A" title="Set up, operate and maintain basic static machines for coffin and casket manufacture"/>
+      <unit id="WFSCCM204A" title="Carry out coffin assembly"/>
+      <unit id="WFSCCM205A" title="Carry out casket assembly"/>
+      <unit id="WFSCCM206A" title="Prepare coffin and casket surfaces for finishing"/>
+      <unit id="WFSCCM207A" title="Apply surface coatings to coffins and caskets by mechanical methods"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+    </units>
+  </qualification>
+  <qualification id="WFS30202" title="Certificate III in Funeral Services (Funeral Operations)">
+    <units>
+      <unit id="BSBCMN306A" title="Produce business documents"/>
+      <unit id="BSBCMN308A" title="Maintain financial records"/>
+      <unit id="BSBRKG301A" title="Control records"/>
+      <unit id="BSBRKG303A" title="Retrieve information from records"/>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="SRXEME003A" title="Respond to emergency situations"/>
+      <unit id="WFSABO301A" title="Perform goods control procedures"/>
+      <unit id="WFSABO302A" title="Store and handle hazardous and dangerous substances"/>
+      <unit id="WFSABO303A" title="Conduct internal quality audits"/>
+      <unit id="WFSBCR202A" title="Carry out burials"/>
+      <unit id="WFSCCR301A" title="Provide grief care advice"/>
+      <unit id="WFSCCR302A" title="Perform community liaison"/>
+      <unit id="WFSCCR303A" title="Coordinate interaction with customers"/>
+      <unit id="WFSCCR304A" title="Implement marketing and promotional activities"/>
+      <unit id="WFSCCR305A" title="Provide funeral and burial sales services"/>
+      <unit id="WFSCCR306A" title="Provide pre-need sales services"/>
+      <unit id="WFSFNL301A" title="Perform general funeral arrangements"/>
+      <unit id="WFSMWK201A" title="Encoffin the deceased person"/>
+      <unit id="WFSMWK202A" title="Perform engraving"/>
+      <unit id="WFSMWK205A" title="Sterilise mortuary items and equipment"/>
+      <unit id="WFSMWK301A" title="Perform mortuary procedures"/>
+      <unit id="WFSMWK302A" title="Prepare to perform body preparation"/>
+      <unit id="WFSMWK303A" title="Cleanse and disinfect deceased bodies"/>
+      <unit id="WFSMWK304A" title="Set facial features"/>
+      <unit id="WFSMWK305A" title="Perform minor body restoration work"/>
+      <unit id="WFSMWK306A" title="Perform head treatment on autopsied cases"/>
+      <unit id="WFSMWK307A" title="Perform eye restoration and setting after eye donation"/>
+      <unit id="WFSMWK308A" title="Perform cosmetic body preparation"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+      <unit id="WFSPCS203A" title="Carry out mortuary OHS procedures"/>
+      <unit id="WFSPCS301A" title="Participate in industry networks"/>
+      <unit id="WFSPCS302A" title="Implement and monitor infection and contamination control practices"/>
+      <unit id="WFSPCS303A" title="Implement and monitor OHS procedures"/>
+      <unit id="WFSPMG301A" title="Coordinate a team"/>
+      <unit id="WFSPMG302A" title="Coordinate staff"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WFS30402" title="Certificate III in Funeral Services (Gravedigging, Grounds and Maintenance)">
+    <units>
+      <unit id="BCC3012A" title="Conduct dump truck operations"/>
+      <unit id="BCG2008A" title="Use explosive power tools (EPT)"/>
+      <unit id="BCG2009A" title="Carry out concrete work"/>
+      <unit id="RUHHRT203A" title="Plant trees and shrubs"/>
+      <unit id="RUHHRT208A" title="Prune shrubs and small trees"/>
+      <unit id="RUHHRT226A" title="Undertake irrigation systems maintenance activities"/>
+      <unit id="RUHHRT312A" title="Install drainage systems"/>
+      <unit id="RUHHRT315A" title="Operate irrigation systems"/>
+      <unit id="RUHHRT345A" title="Install metal structures and features"/>
+      <unit id="WFSABO101A" title="Process funeral services industry documentation"/>
+      <unit id="WFSABO301A" title="Perform goods control procedures"/>
+      <unit id="WFSABO303A" title="Conduct internal quality audits"/>
+      <unit id="WFSBCR303A" title="Perform cremations"/>
+      <unit id="WFSBCR305A" title="Perform the memorialisation of cremated remains"/>
+      <unit id="WFSBCR306A" title="Manufacture vault lids"/>
+      <unit id="WFSBCR307A" title="Perform vault installation"/>
+      <unit id="WFSBCR308A" title="Prepare vaults/crypts for burials"/>
+      <unit id="WFSBCR309A" title="Reinstate vaults/crypts"/>
+      <unit id="WFSBCR310A" title="Perform grave probes"/>
+      <unit id="WFSBCR311A" title="Prepare for gravedigging"/>
+      <unit id="WFSBCR312A" title="Perform manual gravedigging"/>
+      <unit id="WFSBCR313A" title="Perform gravedigging using machinery"/>
+      <unit id="WFSBCR314A" title="Backfill and make good graves"/>
+      <unit id="WFSBCR315A" title="Perform a grave collapse consolidation"/>
+      <unit id="WFSBCR316A" title="Re-open a grave"/>
+      <unit id="WFSBCR317A" title="Perform exhumations"/>
+      <unit id="WFSBGM201A" title="Provide general grounds care"/>
+      <unit id="WFSBGM202A" title="Carry out pest and disease control"/>
+      <unit id="WFSBGM204A" title="Carry out general maintenance activities"/>
+      <unit id="WFSBGM301A" title="Install cemetery/crematoria irrigation systems"/>
+      <unit id="WFSBGM302A" title="Install brick or block structures and features"/>
+      <unit id="WFSBGM303A" title="Carry out plaster work"/>
+      <unit id="WFSBGM304A" title="Carry out masonry work"/>
+      <unit id="WFSCCR201A" title="Provide service to customers"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+      <unit id="WFSTVM301A" title="Operate a backhoe/front-end loader/excavator"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WFS30102" title="Certificate III in Funeral Services (Coffin and Casket Manufacture)">
+    <units>
+      <unit id="MTMS40A" title="Drive forklift"/>
+      <unit id="WFSABO301A" title="Perform goods control procedures"/>
+      <unit id="WFSABO302A" title="Store and handle hazardous and dangerous substances"/>
+      <unit id="WFSCCM203A" title="Set up, operate and maintain basic static machines for coffin and casket manufacture"/>
+      <unit id="WFSCCM204A" title="Carry out coffin assembly"/>
+      <unit id="WFSCCM205A" title="Carry out casket assembly"/>
+      <unit id="WFSCCM206A" title="Prepare coffin and casket surfaces for finishing"/>
+      <unit id="WFSCCM207A" title="Apply surface coatings to coffins and caskets by mechanical methods"/>
+      <unit id="WFSCCM301A" title="Set up and operate computer numerically controlled equipment for coffin and casket manufacture"/>
+      <unit id="WFSCCM302A" title="Program computer numerically controlled wood working equipment for coffin and casket manufacture"/>
+      <unit id="WFSCCM303A" title="Construct jigs and fixtures for coffin and casket manufacture"/>
+      <unit id="WFSCCM304A" title="Perform coffin manufacture"/>
+      <unit id="WFSCCM305A" title="Perform casket manufacture"/>
+      <unit id="WFSCCM306A" title="Dismantle/re-assemble coffins and caskets"/>
+      <unit id="WFSCCM307A" title="Remove coffin and casket surface coatings"/>
+      <unit id="WFSCCM308A" title="Apply surface coatings to coffins and caskets by hand"/>
+      <unit id="WFSCCM309A" title="Construct and apply decorative treatments and finishes to coffins and caskets"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WFS30302" title="Certificate III in Funeral Services (Cemetery/Crematoria Operations)">
+    <units>
+      <unit id="BSBCMN306A" title="Produce business documents"/>
+      <unit id="BSBCMN308A" title="Maintain financial records"/>
+      <unit id="BSBRKG301A" title="Control records"/>
+      <unit id="BSBRKG303A" title="Retrieve information from records"/>
+      <unit id="BSBRKG304A" title="Maintain business records"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="MEM181AB" title="Use hand tools"/>
+      <unit id="RUHHRT203A" title="Plant trees and shrubs"/>
+      <unit id="SRXEME003A" title="Respond to emergency situations"/>
+      <unit id="WFSABO301A" title="Perform goods control procedures"/>
+      <unit id="WFSABO303A" title="Conduct internal quality audits"/>
+      <unit id="WFSABO304A" title="Maintain and care for historical records"/>
+      <unit id="WFSBCR202A" title="Carry out burials"/>
+      <unit id="WFSBCR301A" title="Schedule burials/cremations"/>
+      <unit id="WFSBCR302A" title="Coordinate burial site preparation and reinstatement"/>
+      <unit id="WFSBCR303A" title="Perform cremations"/>
+      <unit id="WFSBCR304A" title="Coordinate the collection or memorialisation of cremated remains"/>
+      <unit id="WFSBCR305A" title="Perform the memorialisation of cremated remains"/>
+      <unit id="WFSCCR301A" title="Provide grief care advice"/>
+      <unit id="WFSCCR302A" title="Perform community liaison"/>
+      <unit id="WFSCCR303A" title="Coordinate interaction with customers"/>
+      <unit id="WFSCCR304A" title="Implement marketing and promotional activities"/>
+      <unit id="WFSCCR305A" title="Provide funeral and burial sales services"/>
+      <unit id="WFSCCR306A" title="Provide pre-need sales services"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+      <unit id="WFSPCS301A" title="Participate in industry networks"/>
+      <unit id="WFSPCS303A" title="Implement and monitor OHS procedures"/>
+      <unit id="WFSPMG301A" title="Coordinate a team"/>
+      <unit id="WFSPMG302A" title="Coordinate staff"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WFS40102" title="Certificate IV in Funeral Services">
+    <units>
+      <unit id="BSBADM404A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBCMN406A" title="Maintain business technology"/>
+      <unit id="BSBRKG402A" title="Provide information from and about records"/>
+      <unit id="BSBRKG403A" title="Set up a business or records system for a small office"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="BSZ405A" title="Plan and promote a training program"/>
+      <unit id="FNBACC03A" title="Prepare budgets and forecasts"/>
+      <unit id="FNBFIN71A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="RUHHRT325A" title="Supervise work site activities"/>
+      <unit id="TDTL1698A" title="Implement and monitor quality improvement systems and processes"/>
+      <unit id="TDTQ898A" title="Negotiate a contract"/>
+      <unit id="TDTR298A" title="Source goods/services and evaluate contractors"/>
+      <unit id="WFSABO303A" title="Conduct internal quality audits"/>
+      <unit id="WFSABO401A" title="Monitor contracted services and supplies"/>
+      <unit id="WFSBCR401A" title="Oversee burials"/>
+      <unit id="WFSBCR402A" title="Arrange and oversee viewings of cremations"/>
+      <unit id="WFSBCR403A" title="Oversee cremations"/>
+      <unit id="WFSBCR404A" title="Supervise exhumations"/>
+      <unit id="WFSBCR405A" title="Oversee burial works"/>
+      <unit id="WFSBCR406A" title="Oversee monument installations"/>
+      <unit id="WFSBGM401A" title="Evaluate building and grounds maintenance and development needs"/>
+      <unit id="WFSBGM402A" title="Coordinate building and grounds maintenance and development activities"/>
+      <unit id="WFSCCR302A" title="Perform community liaison"/>
+      <unit id="WFSCCR401A" title="Manage grief and trauma issues"/>
+      <unit id="WFSCCR402A" title="Prepare tours"/>
+      <unit id="WFSCCR403A" title="Conduct tours"/>
+      <unit id="WFSCCR404A" title="Perform media liaison"/>
+      <unit id="WFSCCR405A" title="Develop marketing strategies and activities"/>
+      <unit id="WFSCCR406A" title="Lead a sales team"/>
+      <unit id="WFSFNL204A" title="Lead a funeral procession on foot"/>
+      <unit id="WFSFNL401A" title="Coordinate full funeral arrangements"/>
+      <unit id="WFSFNL402A" title="Arrange and oversee viewings"/>
+      <unit id="WFSFNL403A" title="Arrange intrastate/interstate repatriations"/>
+      <unit id="WFSFNL404A" title="Arrange international repatriations"/>
+      <unit id="WFSFNL405A" title="Conduct a funeral"/>
+      <unit id="WFSFNL406A" title="Coordinate funeral operations"/>
+      <unit id="WFSFNL407A" title="Perform general funeral celebrancy"/>
+      <unit id="WFSPCS301A" title="Participate in industry networks"/>
+      <unit id="WFSPCS302A" title="Implement and monitor infection and contamination control practices"/>
+      <unit id="WRRPM1B" title="Administer human resources policy"/>
+      <unit id="WRRPM2B" title="Recruit and select personnel"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WFS40202" title="Certificate IV in Funeral Services (Embalming)">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="BSZ405A" title="Plan and promote a training program"/>
+      <unit id="SRXEME003A" title="Respond to emergency situations"/>
+      <unit id="TDTJ197A" title="Apply quality procedures"/>
+      <unit id="TDTL1698A" title="Implement and monitor quality improvement systems and processes"/>
+      <unit id="WFSABO301A" title="Perform goods control procedures"/>
+      <unit id="WFSABO302A" title="Store and handle hazardous and dangerous substances"/>
+      <unit id="WFSABO303A" title="Conduct internal quality audits"/>
+      <unit id="WFSABO401A" title="Monitor contracted services and supplies"/>
+      <unit id="WFSCCR201A" title="Provide service to customers"/>
+      <unit id="WFSCCR302A" title="Perform community liaison"/>
+      <unit id="WFSCCR402A" title="Prepare tours"/>
+      <unit id="WFSCCR403A" title="Conduct tours"/>
+      <unit id="WFSCCR405A" title="Develop marketing strategies and activities"/>
+      <unit id="WFSMWK202A" title="Perform engraving"/>
+      <unit id="WFSMWK203A" title="Maintain linen supplies"/>
+      <unit id="WFSMWK204A" title="Clean reusable mortuary items and equipment"/>
+      <unit id="WFSMWK301A" title="Perform mortuary procedures"/>
+      <unit id="WFSPCS202A" title="Provide first aid in the workplace"/>
+      <unit id="WFSPCS301A" title="Participate in industry networks"/>
+      <unit id="WFSPCS302A" title="Implement and monitor infection and contamination control practices"/>
+      <unit id="WFSPMG301A" title="Coordinate a team"/>
+      <unit id="WFSPMG401A" title="Supervise staff"/>
+      <unit id="WRRO3B" title="Provide a safe working environment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

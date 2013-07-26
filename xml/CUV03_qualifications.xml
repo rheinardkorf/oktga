@@ -1,0 +1,545 @@
+<?xml version="1.0"?>
+<qualifications class="CUV03">
+  <qualification id="CUV10203" title="Certificate I in Aboriginal or Torres Strait Islander Cultural Arts">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUFRES201A" title="Collect and organise content for broadcast or publication"/>
+      <unit id="CUVCOR01B" title="Source concept for own work"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVPRP02B" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="CUVVSP34B" title="Apply techniques to produce paintings"/>
+    </units>
+  </qualification>
+  <qualification id="CUV10103" title="Certificate I in Visual Arts and Contemporary Craft">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUFRES201A" title="Collect and organise content for broadcast or publication"/>
+      <unit id="CUVCOR01B" title="Source concept for own work"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="CUVVSP34B" title="Apply techniques to produce paintings"/>
+    </units>
+  </qualification>
+  <qualification id="CUV20103" title="Certificate II in Visual Arts and Contemporary Craft">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUECOR02B" title="Work with others"/>
+      <unit id="CUVCOR02B" title="Develop and articulate concept for own work"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVCOR11B" title="Source information on history and theory and apply to own area of work"/>
+      <unit id="CUVCRS13B" title="Store finished work"/>
+      <unit id="CUVVSP04B" title="Apply techniques to produce ceramics"/>
+      <unit id="CUVVSP26B" title="Apply techniques to produce jewellery"/>
+      <unit id="CUVVSP50B" title="Apply techniques to produce sculpture"/>
+      <unit id="CUVVSP54B" title="Apply techniques to produce textile/fibre work"/>
+      <unit id="WRRCS2B" title="Apply point of sale handling procedures"/>
+      <unit id="WRRS01B" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV20303" title="Certificate II in Opal Cutting and Polishing">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUECOR02B" title="Work with others"/>
+      <unit id="CUVOPA01B" title="Identify and describe opal"/>
+      <unit id="CUVOPA02B" title="Handle and store rough and cut opal"/>
+      <unit id="CUVOPA03B" title="Complete precutting processes for solid opals"/>
+      <unit id="CUVOPA04B" title="Cut and polish an opal solid"/>
+      <unit id="CUVOPA05B" title="Complete pre-cutting processes for opal doublets and triplets"/>
+      <unit id="CUVOPA06B" title="Cut and polish an opal doublet/triplet"/>
+      <unit id="CUVOPA11B" title="Obtain opal"/>
+      <unit id="CUVOPA14B" title="Undertake operational maintenance of machinery"/>
+      <unit id="FNSICGEN305A" title="Maintain daily financial/business records"/>
+      <unit id="WRRS01B" title="Sell products and services"/>
+      <unit id="WRWSL201A" title="Sell products and services to business customers"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV20203" title="Certificate II in Aboriginal or Torres Strait Islander Cultural Arts">
+    <units>
+      <unit id="BSBITU102A" title="Develop keyboard skills"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUECOR02B" title="Work with others"/>
+      <unit id="CUVADM11B" title="Work within an arts organisation context"/>
+      <unit id="CUVCOR02B" title="Develop and articulate concept for own work"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVCOR11B" title="Source information on history and theory and apply to own area of work"/>
+      <unit id="CUVCRS13B" title="Store finished work"/>
+      <unit id="CUVPRP02B" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVVSP04B" title="Apply techniques to produce ceramics"/>
+      <unit id="CUVVSP26B" title="Apply techniques to produce jewellery"/>
+      <unit id="CUVVSP50B" title="Apply techniques to produce sculpture"/>
+      <unit id="CUVVSP54B" title="Apply techniques to produce textile/fibre work"/>
+      <unit id="WRRCS2B" title="Apply point of sale handling procedures"/>
+      <unit id="WRRS01B" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV30103" title="Certificate III in Visual Arts and Contemporary Craft">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUEMAR01B" title="Assist with marketing"/>
+      <unit id="CULMS410A" title="Provide research assistance"/>
+      <unit id="CUVCOR03B" title="Develop, refine and communicate concept for own work"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCOR12B" title="Review history and theory for application to artistic practice"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVCRS14B" title="Prepare, store and maintain finished work"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVPRP01B" title="Develop self as artist"/>
+      <unit id="CUVVSP05B" title="Produce ceramics"/>
+      <unit id="CUVVSP07B" title="Apply techniques in wheel-formed ceramics"/>
+      <unit id="CUVVSP15B" title="Produce drawings"/>
+      <unit id="CUVVSP35B" title="Produce paintings"/>
+      <unit id="CUVVSP45B" title="Produce prints"/>
+      <unit id="CUVVSP51B" title="Produce sculpture"/>
+      <unit id="PMCOPS221A" title="Operate manual glazing equipment"/>
+      <unit id="PMCOPS224A" title="Hand mould ceramics"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV30203" title="Certificate III in Aboriginal or Torres Strait Islander Cultural Arts">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUEMAR01B" title="Assist with marketing"/>
+      <unit id="CULMS410A" title="Provide research assistance"/>
+      <unit id="CUVCOR03B" title="Develop, refine and communicate concept for own work"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCOR12B" title="Review history and theory for application to artistic practice"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVCRS14B" title="Prepare, store and maintain finished work"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVPRP01B" title="Develop self as artist"/>
+      <unit id="CUVPRP02B" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVPRP03B" title="Develop and apply knowledge of Aboriginal or Torres Strait Islander Cultural Arts"/>
+      <unit id="CUVVSP05B" title="Produce ceramics"/>
+      <unit id="CUVVSP07B" title="Apply techniques in wheel-formed ceramics"/>
+      <unit id="CUVVSP15B" title="Produce drawings"/>
+      <unit id="CUVVSP35B" title="Produce paintings"/>
+      <unit id="CUVVSP45B" title="Produce prints"/>
+      <unit id="CUVVSP51B" title="Produce sculpture"/>
+      <unit id="PMCOPS221A" title="Operate manual glazing equipment"/>
+      <unit id="PMCOPS224A" title="Hand mould ceramics"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV30303" title="Certificate III in Design Fundamentals">
+    <units>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES304A" title="Source and apply design industry knowledge"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUVCOR03B" title="Develop, refine and communicate concept for own work"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS16B" title="Prepare text and graphic files for print processing"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVVSP12B" title="Produce digital images"/>
+      <unit id="CUVVSP19B" title="Produce video art"/>
+      <unit id="CUVVSP27B" title="Produce jewellery"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV30403" title="Certificate III in Arts Administration">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUECOR02B" title="Work with others"/>
+      <unit id="CUEFOH08B" title="Process incoming customer orders"/>
+      <unit id="CUEFOH09B" title="Provide venue information and assistance"/>
+      <unit id="CUEIND01B" title="Source and apply entertainment industry knowledge"/>
+      <unit id="CUEMAR01B" title="Assist with marketing"/>
+      <unit id="CULMS202A" title="Assist clients to access services and facilities"/>
+      <unit id="CUVADM11B" title="Work within an arts organisation context"/>
+      <unit id="CUVADM12B" title="Work with arts professionals in an arts organisation"/>
+      <unit id="THHGFA02B" title="Maintain financial records"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CUV40503" title="Certificate IV in Arts Administration">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CUEFIN02B" title="Manage a budget"/>
+      <unit id="CUEIND03B" title="Integrate accessibility principles into work practices"/>
+      <unit id="CUEMAR02B" title="Undertake market research"/>
+      <unit id="CUEMAR03B" title="Undertake marketing activities"/>
+      <unit id="CUEOHS01B" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CULMS504B" title="Organise and monitor exhibition installation/dismantling"/>
+      <unit id="CUVADM01B" title="Develop and implement arts administration systems and procedures"/>
+      <unit id="CUVADM10B" title="Research and utilise revenue and funding opportunities"/>
+      <unit id="CUVADM11B" title="Work within an arts organisation context"/>
+      <unit id="CUVADM12B" title="Work with arts professionals in an arts organisation"/>
+      <unit id="THTFME03A" title="Develop and update event industry knowledge"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="THTSMA01B" title="Coordinate the production of brochures and marketing materials"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV40103" title="Certificate IV in Visual Arts and Contemporary Craft">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUEMAR03B" title="Undertake marketing activities"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUVCOR04B" title="Originate concept for own work and conduct critical discourse"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCOR13B" title="Research and critically analyse history and theory to inform artistic practice"/>
+      <unit id="CUVCRS02B" title="Select sites and plan work"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVCRS14B" title="Prepare, store and maintain finished work"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVPRP01B" title="Develop self as artist"/>
+      <unit id="CUVVSP13B" title="Research and experiment with techniques for digital image enhancement and manipulation"/>
+      <unit id="CUVVSP22B" title="Research and experiment with techniques to produce glass work"/>
+      <unit id="CUVVSP24B" title="Research and experiment with techniques to produce installation"/>
+      <unit id="CUVVSP36B" title="Research and experiment with techniques to produce paintings"/>
+      <unit id="CUVVSP46B" title="Research and experiment with techniques to produce prints"/>
+      <unit id="CUVVSP48B" title="Research and experiment with techniques to produce public art"/>
+      <unit id="CUVVSP52B" title="Research and experiment with techniques to produce sculpture"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV40303" title="Certificate IV in Design">
+    <units>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES304A" title="Source and apply design industry knowledge"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUVCOR04B" title="Originate concept for own work and conduct critical discourse"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVCRS05B" title="Use typography techniques for design work"/>
+      <unit id="CUVCRS16B" title="Prepare text and graphic files for print processing"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVDSP07B" title="Research and apply techniques for graphic design"/>
+      <unit id="CUVDSP11B" title="Research and apply techniques for illustrative work"/>
+      <unit id="CUVDSP14B" title="Research and apply techniques for the design of products"/>
+      <unit id="CUVVSP02B" title="Research and experiment with techniques to produce calligraphy"/>
+      <unit id="CUVVSP59B" title="Research and experiment with techniques to produce wood objects"/>
+      <unit id="LMFDN4001A" title="Produce drawings from design concepts"/>
+      <unit id="LMFDN4002A" title="Produce line and component production drawings"/>
+      <unit id="LMFDN4003A" title="Produce patterns and/or templates"/>
+      <unit id="LMFDN4005A" title="Work within a furniture design team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV40603" title="Certificate IV in Opal Cutting and Polishing">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CUFDIG201A" title="Maintain interactive content"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUVCOR03B" title="Develop, refine and communicate concept for own work"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVDSP13B" title="Research and apply techniques for the design of wearable objects"/>
+      <unit id="CUVOPA01B" title="Identify and describe opal"/>
+      <unit id="CUVOPA02B" title="Handle and store rough and cut opal"/>
+      <unit id="CUVOPA03B" title="Complete precutting processes for solid opals"/>
+      <unit id="CUVOPA04B" title="Cut and polish an opal solid"/>
+      <unit id="CUVOPA05B" title="Complete pre-cutting processes for opal doublets and triplets"/>
+      <unit id="CUVOPA06B" title="Cut and polish an opal doublet/triplet"/>
+      <unit id="CUVOPA07B" title="Use opal carving tools"/>
+      <unit id="CUVOPA08B" title="Production cut and polish opal"/>
+      <unit id="CUVOPA09B" title="Use a faceting machine"/>
+      <unit id="CUVOPA10B" title="Cut opal spheres and beads"/>
+      <unit id="CUVOPA11B" title="Obtain opal"/>
+      <unit id="CUVOPA12B" title="Identify the requirements for establishing an opal-cutting workshop"/>
+      <unit id="CUVOPA13B" title="Apply advanced pre-cutting processes to complex opals"/>
+      <unit id="CUVOPA14B" title="Undertake operational maintenance of machinery"/>
+      <unit id="CUVPHI04B" title="Apply photoimaging lighting techniques"/>
+      <unit id="CUVPHI05B" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="CUVVSP26B" title="Apply techniques to produce jewellery"/>
+      <unit id="CUVVSP28B" title="Research and experiment with techniques to produce jewellery"/>
+      <unit id="FNSICGEN305A" title="Maintain daily financial/business records"/>
+      <unit id="FNSICGEN402B" title="Participate in negotiations"/>
+      <unit id="ICPMM321A" title="Capture a digital image"/>
+      <unit id="MEM5.6AA" title="Perform brazing and/or silver soldering"/>
+      <unit id="TDTA997B" title="Complete and check import/export documentation"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRS01B" title="Sell products and services"/>
+      <unit id="WRRSS3B" title="Recommend jewellery products and services"/>
+      <unit id="WRWSL201A" title="Sell products and services to business customers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV40403" title="Certificate IV in Photoimaging">
+    <units>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUECOR02B" title="Work with others"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUVCRS01B" title="Plan work for a nominated site"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVCRS14B" title="Prepare, store and maintain finished work"/>
+      <unit id="CUVCRS16B" title="Prepare text and graphic files for print processing"/>
+      <unit id="CUVDSP07B" title="Research and apply techniques for graphic design"/>
+      <unit id="CUVPHI01B" title="Source and apply photoimaging industry knowledge"/>
+      <unit id="CUVPHI02B" title="Develop self for photoimaging industry"/>
+      <unit id="CUVPHI03B" title="Research and apply information on the traditions which inform photoimaging practice"/>
+      <unit id="CUVPHI04B" title="Apply photoimaging lighting techniques"/>
+      <unit id="CUVPHI06B" title="Plan and carry out image capture in response to a brief"/>
+      <unit id="CUVPHI07B" title="Process photoimages to work print/file stage"/>
+      <unit id="CUVPHI08B" title="Enhance, manipulate and output photoimages"/>
+      <unit id="CUVPHI09B" title="Use colour materials, processing and printing techniques in a wet darkroom context"/>
+      <unit id="CUVVSP12B" title="Produce digital images"/>
+      <unit id="CUVVSP13B" title="Research and experiment with techniques for digital image enhancement and manipulation"/>
+      <unit id="ICPMM321A" title="Capture a digital image"/>
+      <unit id="WRRCS2B" title="Apply point of sale handling procedures"/>
+      <unit id="WRRF1B" title="Balance register/terminal"/>
+      <unit id="WRRI5A" title="Maintain and order stock"/>
+      <unit id="WRRLP5B" title="Apply store security systems and procedures"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRS4B" title="Build relationships with customers"/>
+      <unit id="WRRSS8B" title="Recommend cameras, photographic equipment and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV40203" title="Certificate IV in Aboriginal or Torres Strait Islander Cultural Arts">
+    <units>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUEMAR03B" title="Undertake marketing activities"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUVCOR04B" title="Originate concept for own work and conduct critical discourse"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCOR13B" title="Research and critically analyse history and theory to inform artistic practice"/>
+      <unit id="CUVCRS02B" title="Select sites and plan work"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVCRS14B" title="Prepare, store and maintain finished work"/>
+      <unit id="CUVCRS16B" title="Prepare text and graphic files for print processing"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVPRP01B" title="Develop self as artist"/>
+      <unit id="CUVPRP02B" title="Develop understanding of own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVPRP03B" title="Develop and apply knowledge of Aboriginal or Torres Strait Islander Cultural Arts"/>
+      <unit id="CUVPRP04B" title="Produce work which expresses own Aboriginal or Torres Strait Islander identity"/>
+      <unit id="CUVVSP13B" title="Research and experiment with techniques for digital image enhancement and manipulation"/>
+      <unit id="CUVVSP22B" title="Research and experiment with techniques to produce glass work"/>
+      <unit id="CUVVSP24B" title="Research and experiment with techniques to produce installation"/>
+      <unit id="CUVVSP36B" title="Research and experiment with techniques to produce paintings"/>
+      <unit id="CUVVSP46B" title="Research and experiment with techniques to produce prints"/>
+      <unit id="CUVVSP48B" title="Research and experiment with techniques to produce public art"/>
+      <unit id="CUVVSP52B" title="Research and experiment with techniques to produce sculpture"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV50407" title="Diploma of Photoimaging">
+    <units>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG403A" title="Analyse market data"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRKG501A" title="Determine business or records system specifications"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUFDIG401A" title="Author interactive media"/>
+      <unit id="CUFDIG402A" title="Design user interfaces"/>
+      <unit id="CUFDIG403A" title="Create user interfaces"/>
+      <unit id="CUFDIG502A" title="Design web environments"/>
+      <unit id="CUFIND401A" title="Provide services on a freelance basis"/>
+      <unit id="CUFPOS402A" title="Manage media assets"/>
+      <unit id="CULMS008A" title="Conceive, develop and realise exhibition designs"/>
+      <unit id="CULMS009A" title="Implement preventive conservation activities"/>
+      <unit id="CULMS010A" title="Contribute to the preservation of cultural material"/>
+      <unit id="CULMS412B" title="Record and maintain collection information"/>
+      <unit id="CULMS610B" title="Research, describe and document cultural material"/>
+      <unit id="CUVPHI02B" title="Develop self for photoimaging industry"/>
+      <unit id="CUVPHI09B" title="Use colour materials, processing and printing techniques in a wet darkroom context"/>
+      <unit id="CUVPHI501A" title="Research role and use of the photoimage in visual communication"/>
+      <unit id="CUVPHI502A" title="Research and exploit photoimaging trends"/>
+      <unit id="CUVPHI503A" title="Explore the descriptive and emotive nature of photo lighting"/>
+      <unit id="CUVPHI504A" title="Investigate and exploit innovative imaging options"/>
+      <unit id="CUVPHI505A" title="Produce an innovative presentation of professional work"/>
+      <unit id="CUVPHI506A" title="Produce commercial photoimages"/>
+      <unit id="CUVPHI507A" title="Provide domestic portrait services"/>
+      <unit id="CUVPHI508A" title="Produce media photoimages"/>
+      <unit id="CUVPHI509A" title="Make wedding photoimaging products"/>
+      <unit id="CUVPHI510A" title="Plan, capture and exploit visual art photoimages"/>
+      <unit id="CUVPHI511A" title="Produce technical photoimages"/>
+      <unit id="CUVPHI512A" title="Make illustrative images for publication and display"/>
+      <unit id="CUVPHI513A" title="Plan, capture and exploit stock photoimages"/>
+      <unit id="CUVPHI514A" title="Employ colour management in a digital imaging workplace"/>
+      <unit id="CUVPHI515A" title="Prepare digital images for pre-press printing"/>
+      <unit id="CUVVSP13B" title="Research and experiment with techniques for digital image enhancement and manipulation"/>
+      <unit id="CUVVSP46B" title="Research and experiment with techniques to produce prints"/>
+      <unit id="HLTCOM408B" title="Use specific health terminology to communicate effectively"/>
+      <unit id="HLTDA417A" title="Take a clinical photograph"/>
+      <unit id="HLTHIR403B" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTOPD401A" title="Work effectively in the ophthalmic industry"/>
+      <unit id="ICAS5199A" title="Manage business websites and servers"/>
+      <unit id="ICAS5203A" title="Evaluate and select a web hosting service"/>
+      <unit id="ICAT4221A" title="Locate equipment, system and software faults"/>
+      <unit id="PMLTEST409A" title="Capture and manage scientific images"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="PSPPM405A" title="Administer simple projects"/>
+      <unit id="TAATAS503B" title="Manage contracted work"/>
+      <unit id="THHGLE16B" title="Manage physical assets"/>
+      <unit id="WRRVM15A" title="Style merchandise for photography"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV60103" title="Advanced Diploma of Arts Management">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG601A" title="Direct the integration of projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="CUEFIN01B" title="Develop a budget"/>
+      <unit id="CUEFIN02B" title="Manage a budget"/>
+      <unit id="CUEOHS01B" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CUETEM09B" title="Manage diversity"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CULMS506B" title="Plan and develop activities, events and programs"/>
+      <unit id="CULMS605B" title="Develop and implement procedures for the movement/storage of cultural material"/>
+      <unit id="CUVADM01B" title="Develop and implement arts administration systems and procedures"/>
+      <unit id="CUVADM05A" title="Plan and develop information management systems"/>
+      <unit id="CUVADM05B" title="Plan and develop information management systems"/>
+      <unit id="CUVADM12B" title="Work with arts professionals in an arts organisation"/>
+      <unit id="CUVCON06B" title="Develop concepts for arts organisations or projects"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="THHGLE12B" title="Develop and manage marketing strategies"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUV60307" title="Advanced Diploma of Creative Product Development">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="BSBDIV701A" title="Develop cross cultural communication and negotiation strategies"/>
+      <unit id="BSBFIM601A" title="Manage finances"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG603B" title="Manage the marketing process"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG601A" title="Direct the integration of projects"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBRES801A" title="Initiate and lead applied research"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="CUEFIN03B" title="Obtain sponsorship"/>
+      <unit id="CUFANM503A" title="Design animation and digital visual effects"/>
+      <unit id="CUFCMP501A" title="Manage and exploit copyright arrangements"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUFLGT501A" title="Conceive and develop lighting designs"/>
+      <unit id="CUVADM10B" title="Research and utilise revenue and funding opportunities"/>
+      <unit id="CUVADM13B" title="Research and critique cultural work(s)"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVDES601A" title="Design innovative products"/>
+      <unit id="CUVIND501A" title="Maintain and apply creative arts industry knowledge"/>
+      <unit id="CUVPHI501A" title="Research role and use of the photoimage in visual communication"/>
+      <unit id="CUVPHI505A" title="Produce an innovative presentation of professional work"/>
+      <unit id="MCMC614A" title="Develop a communications strategy to support production"/>
+      <unit id="MCMS600A" title="Develop a competitive manufacturing system"/>
+      <unit id="MCMT675A" title="Facilitate the development of a new product"/>
+      <unit id="PSPPROC602B" title="Direct the management of contracts"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

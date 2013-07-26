@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<qualifications class="SIF">
+  <qualification id="SIF10113" title="Certificate I in Funeral Services">
+    <units>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="SIFXIND001" title="Plan a career in the funeral services industry"/>
+    </units>
+  </qualification>
+  <qualification id="SIF20113" title="Certificate II in Funeral Operations">
+    <units>
+      <unit id="AHCPGD201A" title="Plant trees and shrubs"/>
+      <unit id="AHCPGD203A" title="Prune shrubs and small trees"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="SIFCBCR001" title="Bury coffins and caskets"/>
+      <unit id="SIFCBCR002" title="Backfill and make good graves"/>
+      <unit id="SIFCBCR003" title="Dig graves manually"/>
+      <unit id="SIFCBGM001" title="Provide general grounds care"/>
+      <unit id="SIFCBGM002" title="Maintain property and structures"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFEMWK001" title="Encoffin deceased persons"/>
+      <unit id="SIFEMWK002" title="Clean and sterilise mortuary items and equipment"/>
+      <unit id="SIFEWHS001" title="Follow mortuary work health and safety procedures"/>
+      <unit id="SIFFFNL001" title="Assist with the conduct of funerals"/>
+      <unit id="SIFFFNL002" title="Transfer deceased persons"/>
+      <unit id="SIFFFNL003" title="Transfer coffins and caskets"/>
+      <unit id="SIFXCSS001" title="Provide service to clients"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+      <unit id="SIFXVHC001" title="Drive funeral vehicles"/>
+      <unit id="SIFXVHC002" title="Inspect and maintain vehicles and equipment"/>
+      <unit id="SIFXWHS001" title="Follow work health and safety procedures"/>
+      <unit id="SIFXWHS002" title="Follow infection and contamination control procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIF30113" title="Certificate III in Cemetery and Crematorium Operations">
+    <units>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="SIFCBCR001" title="Bury coffins and caskets"/>
+      <unit id="SIFCBCR004" title="Cremate coffins and caskets"/>
+      <unit id="SIFCBCR005" title="Memorialise cremated remains"/>
+      <unit id="SIFCCAC001" title="Coordinate burial site preparation and reinstatement"/>
+      <unit id="SIFCCAC002" title="Schedule burials or cremations"/>
+      <unit id="SIFCCAC003" title="Coordinate the collection or memorialisation of cremated remains"/>
+      <unit id="SIFCCAC004" title="Maintain and care for historical records"/>
+      <unit id="SIFCCAC005" title="Coordinate chapel operations"/>
+      <unit id="SIFCCAC006" title="Manage lift and reposition or deepen operations"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFXADQ001" title="Control and order goods"/>
+      <unit id="SIFXADQ002" title="Conduct internal quality audits"/>
+      <unit id="SIFXCSS001" title="Provide service to clients"/>
+      <unit id="SIFXCSS002" title="Advise on funeral and burial products and services"/>
+      <unit id="SIFXCSS003" title="Advise on pre-need funeral and burial products and services"/>
+      <unit id="SIFXCSS004" title="Coordinate interaction with clients"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+      <unit id="SIFXIND004" title="Participate in industry networks"/>
+      <unit id="SIFXMGT001" title="Coordinate teams"/>
+      <unit id="SIFXMGT002" title="Coordinate staff"/>
+      <unit id="SIFXMPR001" title="Implement marketing and promotional activities"/>
+      <unit id="SIFXMPR002" title="Make presentations to community groups"/>
+      <unit id="SIFXWHS003" title="Implement and monitor work health and safety procedures"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIF30313" title="Certificate III in Funeral Operations">
+    <units>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="SIFCBCR010" title="Exhume burial sites"/>
+      <unit id="SIFCCAC005" title="Coordinate chapel operations"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFCWHS002" title="Work in confined spaces"/>
+      <unit id="SIFEMWK001" title="Encoffin deceased persons"/>
+      <unit id="SIFEMWK002" title="Clean and sterilise mortuary items and equipment"/>
+      <unit id="SIFEMWK003" title="Determine body preparation requirements"/>
+      <unit id="SIFEMWK004" title="Coordinate mortuary operations"/>
+      <unit id="SIFEMWK005" title="Cleanse and disinfect deceased persons"/>
+      <unit id="SIFEMWK006" title="Set facial features"/>
+      <unit id="SIFEMWK007" title="Treat abdominal and thoracic cavities"/>
+      <unit id="SIFEMWK008" title="Dress the deceased and apply cosmetics"/>
+      <unit id="SIFEWHS001" title="Follow mortuary work health and safety procedures"/>
+      <unit id="SIFFFNL003" title="Transfer coffins and caskets"/>
+      <unit id="SIFFFNL004" title="Arrange and oversee viewings"/>
+      <unit id="SIFFFNL005" title="Arrange funerals"/>
+      <unit id="SIFFFNL006" title="Arrange intrastate and interstate repatriations"/>
+      <unit id="SIFFFNL007" title="Arrange international repatriations"/>
+      <unit id="SIFXADQ001" title="Control and order goods"/>
+      <unit id="SIFXADQ002" title="Conduct internal quality audits"/>
+      <unit id="SIFXCSS001" title="Provide service to clients"/>
+      <unit id="SIFXCSS002" title="Advise on funeral and burial products and services"/>
+      <unit id="SIFXCSS003" title="Advise on pre-need funeral and burial products and services"/>
+      <unit id="SIFXCSS004" title="Coordinate interaction with clients"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+      <unit id="SIFXIND004" title="Participate in industry networks"/>
+      <unit id="SIFXMGT001" title="Coordinate teams"/>
+      <unit id="SIFXMGT002" title="Coordinate staff"/>
+      <unit id="SIFXMPR001" title="Implement marketing and promotional activities"/>
+      <unit id="SIFXMPR002" title="Make presentations to community groups"/>
+      <unit id="SIFXWHS001" title="Follow work health and safety procedures"/>
+      <unit id="SIFXWHS002" title="Follow infection and contamination control procedures"/>
+      <unit id="SIFXWHS003" title="Implement and monitor work health and safety procedures"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIF30213" title="Certificate III in Gravedigging, Grounds and Maintenance">
+    <units>
+      <unit id="AHCIRG305A" title="Operate pressurised irrigation systems"/>
+      <unit id="AHCLSC203A" title="Install aggregate paths"/>
+      <unit id="AHCLSC303A" title="Construct brick and/or block structures and features"/>
+      <unit id="AHCLSC308A" title="Install metal structures and features"/>
+      <unit id="AHCMOM205A" title="Operate vehicles"/>
+      <unit id="AHCPGD201A" title="Plant trees and shrubs"/>
+      <unit id="AHCPGD203A" title="Prune shrubs and small trees"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="ICAICT211A" title="Identify and use basic current industry-specific technologies"/>
+      <unit id="SIFCBCR002" title="Backfill and make good graves"/>
+      <unit id="SIFCBCR003" title="Dig graves manually"/>
+      <unit id="SIFCBCR005" title="Memorialise cremated remains"/>
+      <unit id="SIFCBCR006" title="Prepare for gravedigging"/>
+      <unit id="SIFCBCR007" title="Dig graves using machinery"/>
+      <unit id="SIFCBCR008" title="Consolidate collapsed graves"/>
+      <unit id="SIFCBCR009" title="Remove ledgers and concrete lids"/>
+      <unit id="SIFCBCR010" title="Exhume burial sites"/>
+      <unit id="SIFCBCR011" title="Manufacture vault lids"/>
+      <unit id="SIFCBCR012" title="Install burial vaults"/>
+      <unit id="SIFCBCR013" title="Prepare vaults or crypts for burials"/>
+      <unit id="SIFCBCR014" title="Reinstate vaults or crypts"/>
+      <unit id="SIFCBCR015" title="Operate a backhoe, front-end loader or excavator"/>
+      <unit id="SIFCBGM001" title="Provide general grounds care"/>
+      <unit id="SIFCBGM002" title="Maintain property and structures"/>
+      <unit id="SIFCBGM003" title="Clean and maintain public conveniences and amenities"/>
+      <unit id="SIFCBGM004" title="Install basic masonry structures"/>
+      <unit id="SIFCBGM005" title="Place and finish concrete for cemetery or crematorium structures"/>
+      <unit id="SIFCBGM006" title="Construct signs"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFCWHS002" title="Work in confined spaces"/>
+      <unit id="SIFFFNL003" title="Transfer coffins and caskets"/>
+      <unit id="SIFXADQ001" title="Control and order goods"/>
+      <unit id="SIFXCSS001" title="Provide service to clients"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+      <unit id="SIFXVHC002" title="Inspect and maintain vehicles and equipment"/>
+      <unit id="SIFXWHS001" title="Follow work health and safety procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIF40113" title="Certificate IV in Funeral Services">
+    <units>
+      <unit id="AHCWRK305A" title="Coordinate work site activities"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIFCBGM007" title="Evaluate building and grounds maintenance and development needs"/>
+      <unit id="SIFCBGM008" title="Coordinate building and grounds maintenance and development"/>
+      <unit id="SIFCCAC002" title="Schedule burials or cremations"/>
+      <unit id="SIFCCAC005" title="Coordinate chapel operations"/>
+      <unit id="SIFCCAC006" title="Manage lift and reposition or deepen operations"/>
+      <unit id="SIFCCAC007" title="Arrange and oversee viewings of cremations"/>
+      <unit id="SIFCCAC008" title="Coordinate burial works"/>
+      <unit id="SIFCCAC009" title="Coordinate monument installations"/>
+      <unit id="SIFCCAC010" title="Supervise burials"/>
+      <unit id="SIFCCAC011" title="Supervise cremations"/>
+      <unit id="SIFCCAC012" title="Supervise exhumations"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFEWHS002" title="Review and develop mortuary work health and safety policies and procedures"/>
+      <unit id="SIFFFNL004" title="Arrange and oversee viewings"/>
+      <unit id="SIFFFNL005" title="Arrange funerals"/>
+      <unit id="SIFFFNL006" title="Arrange intrastate and interstate repatriations"/>
+      <unit id="SIFFFNL007" title="Arrange international repatriations"/>
+      <unit id="SIFFFNL008" title="Coordinate funeral operations"/>
+      <unit id="SIFFFNL009" title="Conduct funerals"/>
+      <unit id="SIFFFNL010" title="Plan and conduct funeral ceremonies"/>
+      <unit id="SIFXADQ001" title="Control and order goods"/>
+      <unit id="SIFXADQ002" title="Conduct internal quality audits"/>
+      <unit id="SIFXADQ003" title="Monitor contracted services and supplies"/>
+      <unit id="SIFXCSS002" title="Advise on funeral and burial products and services"/>
+      <unit id="SIFXCSS003" title="Advise on pre-need funeral and burial products and services"/>
+      <unit id="SIFXCSS005" title="Lead customer service teams"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+      <unit id="SIFXIND004" title="Participate in industry networks"/>
+      <unit id="SIFXMGT001" title="Coordinate teams"/>
+      <unit id="SIFXMGT003" title="Supervise staff"/>
+      <unit id="SIFXMPR002" title="Make presentations to community groups"/>
+      <unit id="SIFXMPR003" title="Prepare and conduct tours"/>
+      <unit id="SIFXMPR004" title="Liaise with the media"/>
+      <unit id="SIFXMPR005" title="Develop marketing strategies and activities"/>
+      <unit id="SIFXWHS003" title="Implement and monitor work health and safety procedures"/>
+      <unit id="SIFXWHS004" title="Implement and monitor infection and contamination control practices"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SITXEVT504" title="Organise event infrastructure"/>
+      <unit id="SITXEVT505" title="Manage on-site event operations"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIF50113" title="Diploma of Funeral Services Management">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="SIFXADQ003" title="Monitor contracted services and supplies"/>
+      <unit id="SIFXMGT004" title="Support people dealing with grief and trauma"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXWHS403" title="Provide a safe work environment"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

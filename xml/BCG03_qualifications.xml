@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<qualifications class="BCG03">
+  <qualification id="BCG10103" title="Certificate I in General Construction">
+    <units>
+      <unit id="BCGVE1001B" title="Handle construction materials"/>
+      <unit id="BCGVE1002B" title="Undertake a basic construction project"/>
+      <unit id="BCGVE1003B" title="Undertake a basic computer design project"/>
+      <unit id="BCGVE1004B" title="Undertake basic estimation and costing"/>
+      <unit id="BCGVE2001B" title="Produce construction drawings"/>
+      <unit id="BSBCMN209A" title="Provide information to clients"/>
+    </units>
+  </qualification>
+  <qualification id="BCG20306" title="Certificate II in Concreting">
+    <units/>
+  </qualification>
+  <qualification id="BCG20206" title="Certificate II in Steel Fixing">
+    <units/>
+  </qualification>
+  <qualification id="BCG20103" title="Certificate II in General Construction">
+    <units>
+      <unit id="BCCCM2009B" title="Work in confined spaces"/>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="BCGCA2003B" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="BCGCM2002B" title="Carry out excavation"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO3007B" title="Cut and core concrete"/>
+      <unit id="BCGPD2003B" title="Remove and replace doors and door and window furniture"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGSP2003B" title="Prepare surfaces for plastering"/>
+      <unit id="BCGWC2004B" title="Complete penetrations and flashings"/>
+      <unit id="BCGWP2003B" title="Prepare for construction process (Waterproofing)"/>
+      <unit id="BCGWP2004B" title="Prepare surfaces for waterproofing application"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG20406" title="Certificate II in Stonemasonry">
+    <units/>
+  </qualification>
+  <qualification id="BCG30903" title="Certificate III in Scaffolding">
+    <units>
+      <unit id="BCCCM3003B" title="Implement traffic management plan"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCM3002B" title="Operate a truck mounted loading crane"/>
+      <unit id="BCGDO3001B" title="Perform dogging"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGSF2003B" title="Cut and bend materials using Oxy/LPG equipment"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+  </qualification>
+  <qualification id="BCG30203" title="Certificate III in Carpentry">
+    <units>
+      <unit id="BCF3006A" title="Assemble and install stairs"/>
+      <unit id="BCF3009A" title="Setting out of windows and doors"/>
+      <unit id="BCF3010A" title="Manufacture components for door and window frames, doors and sashes"/>
+      <unit id="BCF3011A" title="Assemble (door/windows)"/>
+      <unit id="BCGCA2003B" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="BCGCA3003B" title="Install flooring systems"/>
+      <unit id="BCGCA3006B" title="Erect roof trusses"/>
+      <unit id="BCGCA3008B" title="Construct eaves"/>
+      <unit id="BCGCA3009B" title="Construct advanced roofs"/>
+      <unit id="BCGCA3011B" title="Refurbish timber sashes to window frames"/>
+      <unit id="BCGCA3012B" title="Frame and fit wet area fixtures"/>
+      <unit id="BCGCA3013B" title="Install lining, panelling and moulding"/>
+      <unit id="BCGCA3014B" title="Construct bulkheads"/>
+      <unit id="BCGCA3015B" title="Assemble partitions"/>
+      <unit id="BCGCA3016B" title="Construct timber external stairs"/>
+      <unit id="BCGCA3017B" title="Install exterior cladding"/>
+      <unit id="BCGCA3018B" title="Construct, erect and dismantle formwork for stairs and ramps"/>
+      <unit id="BCGCA3019B" title="Erect and dismantle formwork to suspended slabs, columns, beams and walls"/>
+      <unit id="BCGCA3020B" title="Erect and dismantle jump form formwork"/>
+      <unit id="BCGCA3021B" title="Erect and dismantle slip form formwork"/>
+      <unit id="BCGCA3022B" title="Install curtain walling"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGSF2003B" title="Cut and bend materials using Oxy/LPG equipment"/>
+      <unit id="BCGSF2004B" title="Place and fix reinforcement materials"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="LMFFM3006A" title="Install furnishing products"/>
+      <unit id="LMFGG2008A" title="Glaze/reglaze residential windows and doors"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG31303" title="Certificate III in Wall and Floor Tiling">
+    <units>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGWF3005B" title="Carry out decorative tiling"/>
+      <unit id="BCGWF3008B" title="Tile domestic pools and spas"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+  </qualification>
+  <qualification id="BCG31203" title="Certificate III in Wall and Ceiling Lining">
+    <units>
+      <unit id="BCGCA3004B" title="Construct wall frames"/>
+      <unit id="BCGCA3017B" title="Install exterior cladding"/>
+      <unit id="BCGCA3023B" title="Carry out levelling operations"/>
+      <unit id="BCGCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGSP3003B" title="Apply trowelled texture coat finishes"/>
+      <unit id="BCGSP3005B" title="Install pre-cast decorative mouldings"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCGWC3007B" title="Install suspended ceilings"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG31403" title="Certificate III in Waterproofing (General Construction)">
+    <units>
+      <unit id="BCGCA3012B" title="Frame and fit wet area fixtures"/>
+      <unit id="BCGCM2002B" title="Carry out excavation"/>
+      <unit id="BCGCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM2009B" title="Carry out basic demolition"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGWP3001B" title="Apply waterproofing process to below ground level wet areas"/>
+      <unit id="BCGWP3002B" title="Apply waterproofing process to internal wet areas"/>
+      <unit id="BCGWP3003B" title="Apply waterproofing process to external wet areas"/>
+      <unit id="BCGWP3004B" title="Apply waterproofing remedial processes"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG31506" title="Certificate III in Formwork/Falsework">
+    <units>
+      <unit id="BCGCA2001B" title="Handle carpentry materials"/>
+      <unit id="BCGCA2002B" title="Use carpentry tools and equipment"/>
+      <unit id="BCGCA2003B" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="BCGCA3001B" title="Carry out general demolition to minor building structures"/>
+      <unit id="BCGCA3002B" title="Carry out setting out"/>
+      <unit id="BCGCA3018B" title="Construct, erect and dismantle formwork for stairs and ramps"/>
+      <unit id="BCGCA3019B" title="Erect and dismantle formwork to suspended slabs, columns, beams and walls"/>
+      <unit id="BCGCA3020B" title="Erect and dismantle jump form formwork"/>
+      <unit id="BCGCA3021B" title="Erect and dismantle slip form formwork"/>
+      <unit id="BCGCA3023B" title="Carry out levelling operations"/>
+      <unit id="BCGCM1001B" title=" Follow OHS policies and procedures"/>
+      <unit id="BCGCM1002B" title="Work effectively in the General Construction industry"/>
+      <unit id="BCGCM1003B" title="Plan and organise work"/>
+      <unit id="BCGCM1004B" title="Conduct workplace communication"/>
+      <unit id="BCGCM1005B" title="Carry out measurements and calculations"/>
+      <unit id="BCGCM1006A" title="Work safely at heights"/>
+      <unit id="BCGCM2001B" title="Read and interpret plans and specifications"/>
+      <unit id="BCGCM2002B" title="Carry out excavation"/>
+      <unit id="BCGWC3005B" title="Install dry wall passive fire-rated systems"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG30103" title="Certificate III in Bricklaying/Blocklaying">
+    <units>
+      <unit id="BCGBL3001B" title="Lay paving"/>
+      <unit id="BCGBL3007B" title="Install glass block work"/>
+      <unit id="BCGBL3008B" title="Install aerated autoclaved concrete (AAC) products"/>
+      <unit id="BCGBL3012B" title="Construct fireplaces and chimneys"/>
+      <unit id="BCGBL3013B" title="Construct masonry structural systems"/>
+      <unit id="BCGBL3015B" title="Construct decorative brickwork"/>
+      <unit id="BCGBL3016B" title="Construct battered masonry walls and piers"/>
+      <unit id="BCGBL3017B" title="Carry out tuck pointing to brickwork"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGSF2004B" title="Place and fix reinforcement materials"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG31606" title="Certificate III in Wall &amp; Ceiling Lining (Plasterboard)">
+    <units>
+      <unit id="BCGCA3014B" title="Construct bulkheads"/>
+      <unit id="BCGCA3015B" title="Assemble partitions"/>
+      <unit id="BCGCM2006B" title="Apply basic levelling procedures"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGPB3013A" title="Plan travel routes"/>
+      <unit id="BCGPB3014A" title="Install batt insulation products"/>
+      <unit id="BCGPB3015A" title="Set up, move and dismantle scaffolding up to 4 metres"/>
+      <unit id="BCGPB3016A" title="Install and finish columns"/>
+      <unit id="BCGPB3017A" title="Rectify faults in plaster applications"/>
+      <unit id="BCGPB3018A" title="Use vacuum/electric sanding equipment to finish plaster work"/>
+      <unit id="BCGPB3019A" title="Install PartiWall plaster products"/>
+      <unit id="BCGPB3020A" title="Match, mitre and install cast ornamental cornice"/>
+      <unit id="BCGPB3021A" title="Install and fix residential acoustic plaster products"/>
+      <unit id="BCGPB3022A" title="Use mechanical jointing equipment to finish joints"/>
+      <unit id="BCGPB3023A" title="Load and unload plaster and plaster related products"/>
+      <unit id="BCGPB3024A" title="Use manual handling equipment to manoeuvre plaster products"/>
+      <unit id="BCGPB3025A" title="Store plasterboard and related products"/>
+      <unit id="BCGPB3026A" title="Erect and maintain trestle and plank systems"/>
+      <unit id="BCGPB3027A" title="Inspect equipment for serviceability"/>
+      <unit id="BCGWC3002B" title="Install and finish plasterboard and fibre cement sheeting to curved walls and ceilings"/>
+      <unit id="BCGWC3005B" title="Install dry wall passive fire-rated systems"/>
+      <unit id="BCGWC3007B" title="Install suspended ceilings"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG30303" title="Certificate III in Concreting">
+    <units>
+      <unit id="BCCCM2004B" title="Drain and dewater site"/>
+      <unit id="BCCCM3003B" title="Implement traffic management plan"/>
+      <unit id="BCCFW3001B" title="Construct underpinning"/>
+      <unit id="BCGCA2003B" title="Erect and dismantle formwork for footings and slabs on ground"/>
+      <unit id="BCGCA3001B" title="Carry out general demolition to minor building structures"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCO3004B" title="Carry out decorative finishes to concrete"/>
+      <unit id="BCGCO3005B" title="Resurface concrete"/>
+      <unit id="BCGCO3006B" title="Carry out repair and rectification of concrete"/>
+      <unit id="BCGCO3007B" title="Cut and core concrete"/>
+      <unit id="BCGCO3008B" title="Carry out tilt panel construction"/>
+      <unit id="BCGCO3009B" title="Apply and finish sprayed concrete"/>
+      <unit id="BCGCO3010B" title="Carry out high performance concreting"/>
+      <unit id="BCGCO3011B" title="Off form vertical concrete"/>
+      <unit id="BCGCO3012B" title="Conduct concrete boom delivery operations"/>
+      <unit id="BCGCO3013B" title="Slump test concrete"/>
+      <unit id="BCGCO3014B" title="Conduct concrete agitator truck operations"/>
+      <unit id="BCGSF2003B" title="Cut and bend materials using Oxy/LPG equipment"/>
+      <unit id="BCGSF2004B" title="Place and fix reinforcement materials"/>
+      <unit id="BCGSF3001B" title="Apply reinforcement schedule"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG30503" title="Certificate III in Dogging">
+    <units>
+      <unit id="BCCCM3003B" title="Implement traffic management plan"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGDO3002B" title="Perform crane scheduling"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGSC2002B" title="Erect and dismantle scaffolding - basic"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+  </qualification>
+  <qualification id="BCG30603" title="Certificate III in Painting and Decorating">
+    <units>
+      <unit id="BCGPD3009B" title="Remove graffiti and apply protective coatings"/>
+      <unit id="BCGPD3010B" title="Apply protective paint coating systems"/>
+      <unit id="BCGPD3012B" title="Apply advanced wallpaper techniques"/>
+      <unit id="BCGSP3003B" title="Apply trowelled texture coat finishes"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="LMFGG2008A" title="Glaze/reglaze residential windows and doors"/>
+      <unit id="MEM812AA" title="Prepare surfaces by abrasive blasting (basic)"/>
+      <unit id="MEM813AA" title="Prepare surfaces by abrasive blasting (advanced)"/>
+    </units>
+  </qualification>
+  <qualification id="BCG30703" title="Certificate III in Rigging">
+    <units>
+      <unit id="BCCCM3003B" title="Implement traffic management plan"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3002B" title="Operate a truck mounted loading crane"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGRI3004B" title="Perform advanced structural steel erection"/>
+      <unit id="BCGRI3005B" title="Perform advanced tilt slab erection"/>
+      <unit id="BCGRI3006B" title="Perform advanced tower crane erection"/>
+      <unit id="BCGSC2002B" title="Erect and dismantle scaffolding - basic"/>
+      <unit id="BCGSF2003B" title="Cut and bend materials using Oxy/LPG equipment"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG31103" title="Certificate III in Steel Fixing">
+    <units>
+      <unit id="BCCCM2009B" title="Work in confined spaces"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCO2004B" title="Carry out concrete work"/>
+      <unit id="BCGSF2007B" title="Splice and anchor using mechanical methods"/>
+      <unit id="BCGSF3002B" title="Carry out monostrand post tensioning"/>
+      <unit id="BCGSF3003B" title="Carry out multistrand post tensioning"/>
+      <unit id="BCGSF3004B" title="Carry out stressbar post tensioning"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+  </qualification>
+  <qualification id="BCG31003" title="Certificate III in Solid Plastering">
+    <units>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGSP3003B" title="Apply trowelled texture coat finishes"/>
+      <unit id="BCGSP3005B" title="Install pre-cast decorative mouldings"/>
+      <unit id="BCGSP3006B" title="Install cast plaster blockwork"/>
+      <unit id="BCGSP3007B" title="Apply plaster by projection machine"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+  </qualification>
+  <qualification id="BCG31706" title="Certificate III in Low Rise Structural Framing">
+    <units>
+      <unit id="BCGCA3001B" title="Carry out general demolition to minor building structures"/>
+      <unit id="BCGCA3003B" title="Install flooring systems"/>
+      <unit id="BCGCA3005B" title="Construct ceiling frames"/>
+      <unit id="BCGCA3007B" title="Construct a pitched roof"/>
+      <unit id="BCGCA3009B" title="Construct advanced roofs"/>
+      <unit id="BCGCA3010B" title="Install and replace windows and doors"/>
+      <unit id="BCGCA3012B" title="Frame and fit wet area fixtures"/>
+      <unit id="BCGCA3013B" title="Install lining, panelling and moulding"/>
+      <unit id="BCGCA3014B" title="Construct bulkheads"/>
+      <unit id="BCGCA3016B" title="Construct timber external stairs"/>
+      <unit id="BCGCA3017B" title="Install exterior cladding"/>
+      <unit id="BCGCM2002B" title="Carry out excavation"/>
+      <unit id="BCGCM2004B" title="Handle construction materials"/>
+      <unit id="BCGCM2005B" title="Use construction tools and equipment"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCG30803" title="Certificate III in Roof Tiling">
+    <units>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGPD3010B" title="Apply protective paint coating systems"/>
+      <unit id="BCGRT3003B" title="Repair and replace valleys, valley irons and flashings"/>
+      <unit id="BCGRT3005B" title="Slate a roof"/>
+      <unit id="BCGRT3006B" title="Fix shingles to roofs and facades"/>
+      <unit id="BCGSC2002B" title="Erect and dismantle scaffolding - basic"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+  </qualification>
+  <qualification id="BCG30403" title="Certificate III in Demolition (General Construction)">
+    <units>
+      <unit id="BCCCM2013B" title="Control traffic with a stop-slow bat"/>
+      <unit id="BCCCM3001B" title="Construct and dismantle fences and gates"/>
+      <unit id="BCGCM2007B" title="Use explosive power tools (EPT)"/>
+      <unit id="BCGCO3007B" title="Cut and core concrete"/>
+      <unit id="BCGDE3002B" title="Encapsulate and remove asbestos"/>
+      <unit id="BCGDE3003B" title="Operate crushing plant"/>
+      <unit id="BCGDO3001B" title="Perform dogging"/>
+      <unit id="BCGRI3002B" title="Perform rigging - basic"/>
+      <unit id="BCGRI3003B" title="Perform rigging - intermediate"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+    </units>
+  </qualification>
+  <qualification id="BCG40506" title="Certificate IV in Building and Construction (Site Management)">
+    <units>
+      <unit id="BCGBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="BCGBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="BCGBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="BCGBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="BCGBC4018A" title="Apply site surveys and set out procedures to building and construction projects"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4023A" title="Plan and undertake the site inspection and assessment of asbestos products and materials"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BCGBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="BCGBC4028A" title="Prepare design brief for construction works"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN310A" title="Deliver and Monitor a Service to Customers"/>
+      <unit id="BSBCMN419A" title="Manage projects"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM403B" title="Implement effective workplace relationships"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBPM407A" title="Apply risk management techniques"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40706" title="Certificate IV in Building and Construction (Trade Contracting)">
+    <units>
+      <unit id="BCGBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="BCGBC4007A" title="Plan building or construction work"/>
+      <unit id="BCGBC4010A" title="Apply structural principles to residential low-rise constructions"/>
+      <unit id="BCGBC4011A" title="Apply structural principles to commercial low-rise constructions"/>
+      <unit id="BCGBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="BCGBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4023A" title="Plan and undertake the site inspection and assessment of asbestos products and materials"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BCGBC4031A" title="Process client requirements"/>
+      <unit id="BCGBC4032A" title="Apply contract law to sales processes"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN419A" title="Manage projects"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBPM407A" title="Apply risk management techniques"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40106" title="Certificate IV in Building and Construction (Building)">
+    <units>
+      <unit id="BCGBC4012A" title="Read and interpret plans and specifications"/>
+      <unit id="BCGBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="BCGBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="BCGBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="BCGBC4016A" title="Administer a construction contract"/>
+      <unit id="BCGBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="BCGBC4018A" title="Apply site surveys and set out procedures to building and construction projects"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4022A" title="Supervise tilt-up work"/>
+      <unit id="BCGBC4023A" title="Plan and undertake the site inspection and assessment of asbestos products and materials"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BCGBC4026A" title="Arrange building applications and approvals"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN419A" title="Manage projects"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM403A" title="Manage effective workplace relationships"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBPM407A" title="Apply risk management techniques"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="TAADEL404A" title="Facilitate work-based learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40606" title="Certificate IV in Building and Construction (Specialist Trades)">
+    <units>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4023A" title="Plan and undertake the site inspection and assessment of asbestos products and materials"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BCGBC4041A" title="Undertake preparations for refractory work"/>
+      <unit id="BCGBC4042A" title="Construct a fire brick wall and arch using refractory materials"/>
+      <unit id="BCGBC4043A" title="Operate a self erecting tower crane"/>
+      <unit id="BCGBC4044A" title="Operate a tower crane"/>
+      <unit id="BCGBC4045A" title="Perform rigging - advanced"/>
+      <unit id="BCGBC4046A" title="Erect and dismantle scaffolding - advanced"/>
+      <unit id="BCGBC4047A" title="Quality assure fire rated lining systems"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN310A" title="Deliver and Monitor a Service to Customers"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBPM407A" title="Apply risk management techniques"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40406" title="Certificate IV in Building and Construction (Sales)">
+    <units>
+      <unit id="BCGBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="BCGBC4016A" title="Administer a construction contract"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN414A" title="Undertake marketing activities"/>
+      <unit id="BSBCMN418A" title="Address customer needs"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBEBUS401A" title="Conduct online research"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSLS303A" title="Present a sales solution"/>
+      <unit id="BSBSLS304A" title="Secure prospect commitment"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="PRDRE14A" title="Market property"/>
+      <unit id="PRDRE15A" title="Undertake property sale by private treaty"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40306" title="Certificate IV in Building and Construction (Estimating)">
+    <units>
+      <unit id="BCGBC4003A" title="Select and prepare a construction contract"/>
+      <unit id="BCGBC4006A" title="Select, procure and store construction materials for low-rise projects"/>
+      <unit id="BCGBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="BCGBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="BCGBC4016A" title="Administer a construction contract"/>
+      <unit id="BCGBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4023A" title="Plan and undertake the site inspection and assessment of asbestos products and materials"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BCGBC4028A" title="Prepare design brief for construction works"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN310A" title="Deliver and Monitor a Service to Customers"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBOHS404A" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG40206" title="Certificate IV in Building and Construction (Contract Administration)">
+    <units>
+      <unit id="BCGBC4001A" title="Apply building codes and standards to the construction process for low-rise building projects"/>
+      <unit id="BCGBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="BCGBC4007A" title="Plan building or construction work"/>
+      <unit id="BCGBC4013A" title="Prepare and evaluate tender documentation"/>
+      <unit id="BCGBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="BCGBC4017A" title="Arrange resources and prepare for the building or construction project"/>
+      <unit id="BCGBC4019A" title="Apply sustainable building design principles to water management systems"/>
+      <unit id="BCGBC4020A" title="Build thermally efficient and sustainable structures"/>
+      <unit id="BCGBC4021A" title="Minimise waste on the building and construction site"/>
+      <unit id="BCGBC4024A" title="Resolve business disputes"/>
+      <unit id="BCGBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBADM305A" title="Create and use databases"/>
+      <unit id="BSBCMN213A" title="Produce simple word-processed documents"/>
+      <unit id="BSBCMN214A" title="Create and use simple spreadsheets"/>
+      <unit id="BSBCMN419A" title="Manage projects"/>
+      <unit id="BSBCMN420A" title="Write complex documents"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM409B" title="Implement continuous improvement"/>
+      <unit id="BSBPM404A" title="Apply quality management techniques"/>
+      <unit id="BSBPM407A" title="Apply risk management techniques"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG50103" title="Diploma of Building Surveying">
+    <units/>
+  </qualification>
+  <qualification id="BCG50306" title="Diploma of Building and Construction (Management)">
+    <units>
+      <unit id="BCGBC5001A" title="Apply building codes and standards to the construction process for medium-rise building projects"/>
+      <unit id="BCGBC5002A" title="Monitor building or construction costing systems on medium-rise building and construction projects"/>
+      <unit id="BCGBC5003A" title="Supervise the planning of on-site medium-rise building or construction work"/>
+      <unit id="BCGBC5004A" title="Supervise and apply quality standards to the selection of building and construction materials"/>
+      <unit id="BCGBC5005A" title="Select and manage building and construction contractors"/>
+      <unit id="BCGBC5006A" title="Apply site surveys and set out procedures to medium-rise building projects"/>
+      <unit id="BCGBC5007A" title="Administer the legal obligations of a building or construction contract"/>
+      <unit id="BCGBC5008A" title="Apply structural principles to the construction of medium-rise buildings"/>
+      <unit id="BCGBC5009A" title="Identify services layout and connection methods to medium-rise construction projects"/>
+      <unit id="BCGBC5010A" title="Manage construction work/projects"/>
+      <unit id="BCGBC5011A" title="Manage building or construction, environmental management practices and processes"/>
+      <unit id="BCGBC5012A" title="Manage the application and monitoring of energy conservation and management practices and processes"/>
+      <unit id="BCGBC5013A" title="Develop professional technical and legal reports on building and construction projects"/>
+      <unit id="BSBADM402A" title="Produce complex business documents"/>
+      <unit id="BSBADM403A" title="Develop and use complex databases"/>
+      <unit id="BSBADM404A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBFLM501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM507B" title="Manage quality customer service"/>
+      <unit id="BSBFLM510B" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBHR508A" title="Manage work/life skills"/>
+      <unit id="BSBHR509A" title="Manage rehabilitation/return to work programs"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBPM504A" title="Manage project costs"/>
+      <unit id="BSBPM505A" title="Manage project quality"/>
+      <unit id="BSBPM507A" title="Manage project communications"/>
+      <unit id="BSBPM508A" title="Manage project risk"/>
+      <unit id="BSBSLS401A" title="Lead a sales team"/>
+      <unit id="PRDPOD518A" title="Implement asset management plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG50206" title="Diploma of Building and Construction (Building)">
+    <units>
+      <unit id="BCGBC5002A" title="Monitor building or construction costing systems on medium-rise building and construction projects"/>
+      <unit id="BCGBC5004A" title="Supervise and apply quality standards to the selection of building and construction materials"/>
+      <unit id="BCGBC5005A" title="Select and manage building and construction contractors"/>
+      <unit id="BCGBC5006A" title="Apply site surveys and set out procedures to medium-rise building projects"/>
+      <unit id="BCGBC5007A" title="Administer the legal obligations of a building or construction contract"/>
+      <unit id="BCGBC5009A" title="Identify services layout and connection methods to medium-rise construction projects"/>
+      <unit id="BCGBC5010A" title="Manage construction work/projects"/>
+      <unit id="BCGBC5011A" title="Manage building or construction, environmental management practices and processes"/>
+      <unit id="BCGBC5012A" title="Manage the application and monitoring of energy conservation and management practices and processes"/>
+      <unit id="BCGBC5013A" title="Develop professional technical and legal reports on building and construction projects"/>
+      <unit id="BSBADM402A" title="Produce complex business documents"/>
+      <unit id="BSBADM403A" title="Develop and use complex databases"/>
+      <unit id="BSBADM404A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBFLM501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM505B" title="Manage operational plan"/>
+      <unit id="BSBFLM507B" title="Manage quality customer service"/>
+      <unit id="BSBFLM510B" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM512A" title="Ensure team effectiveness"/>
+      <unit id="BSBHR508A" title="Manage work/life skills"/>
+      <unit id="BSBHR509A" title="Manage rehabilitation/return to work programs"/>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT508A" title="Manage risk management system"/>
+      <unit id="BSBSLS401A" title="Lead a sales team"/>
+      <unit id="PRDPOD518A" title="Implement asset management plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCG60103" title="Advanced Diploma of Building Surveying">
+    <units/>
+  </qualification>
+  <qualification id="BCG60206" title="Advanced Diploma of Building and Construction Management">
+    <units>
+      <unit id="BCGBC6002A" title="Generate and direct the development of new projects"/>
+      <unit id="BCGBC6005A" title="Manage tender developments for major projects"/>
+      <unit id="BCGBC6006A" title="Manage the procurement and acquisition of resources for building or construction projects"/>
+      <unit id="BCGBC6007A" title="Develop, plan and implement appropriate building or construction, environmental management practices"/>
+      <unit id="BCGBC6008A" title="Develop and implement an appropriate estimating and tendering system"/>
+      <unit id="BCGBC6009A" title="Develop, plan and implement an appropriate building or construction planning process"/>
+      <unit id="BCGBC6010A" title="Plan, develop and implement building or construction, energy conservation and management practices and processes"/>
+      <unit id="BCGBC6011A" title="Establish systems for the development and monitoring of building and construction costs"/>
+      <unit id="BCGBC6012A" title="Manage and administer development of documentation for building or construction projects"/>
+      <unit id="BCGBC6013A" title="Evaluate materials for multi-storey buildings"/>
+      <unit id="BCGBC6014A" title="Apply structural principles to the construction of large, high rise and complex buildings"/>
+      <unit id="BCGBC6015A" title="Apply building surveying procedures"/>
+      <unit id="BCGBC6016A" title="Assess construction faults in large building projects"/>
+      <unit id="BCGBC6017A" title="Evaluate services layout and connection methods for the planning of large building projects"/>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT604A" title="Manage business operations"/>
+      <unit id="BSBMGT606A" title="Manage customer focus"/>
+      <unit id="BSBMGT611A" title="Develop risk management strategy"/>
+      <unit id="BSBMKG602A" title="Develop a marketing plan"/>
+      <unit id="PRDPOD602A" title="Develop strategic facilities/asset management plan"/>
+      <unit id="PRDPOD613A" title="Conduct a property investment feasibility study"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

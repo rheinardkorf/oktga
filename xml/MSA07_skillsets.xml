@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<skillsets class="MSA07">
+  <skillset id="MSASS00001" title="Confined space work team">
+    <units>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00002" title="High pressure water jetting assistant">
+    <units>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMWJ201A" title="Use high pressure water jetting equipment"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00003" title="High pressure water jetting operator">
+    <units>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMWJ301A" title="Operate a high pressure water jetting system"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00004" title="Leading Hand_Supervisor">
+    <units>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00005" title="License to operate a standard boiler">
+    <units>
+      <unit id="MSABLIC001" title="License to operate a standard boiler"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00006" title="License to operate an advanced boiler">
+    <units>
+      <unit id="MSABLIC002" title="License to operate an advanced boiler"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00007" title="Trade Measurement Verification (Complex Measuring Instrument)">
+    <units>
+      <unit id="MSATMREF301A" title="Use and maintain reference standards"/>
+      <unit id="MSATMVER501A" title="Verify a complex measuring instrument"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00008" title="Trade Measurement Verification (Limited Weighing Instrument)">
+    <units>
+      <unit id="MSATMREF301A" title="Use and maintain reference standards"/>
+      <unit id="MSATMVER401A" title="Verify a limited weighing instrument"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00009" title="Trade Measurement Verification (Liquid Measuring Instrument Using Volume Measures)">
+    <units>
+      <unit id="MSATMREF301A" title="Use and maintain reference standards"/>
+      <unit id="MSATMVER402A" title="Verify a liquid measuring instrument using volume measures"/>
+    </units>
+  </skillset>
+  <skillset id="MSASS00010" title="Trade Measurement Verification (Simple Measuring Instrument)">
+    <units>
+      <unit id="MSATMREF301A" title="Use and maintain reference standards"/>
+      <unit id="MSATMVER302A" title="Verify a simple measuring instrument"/>
+    </units>
+  </skillset>
+</skillsets>

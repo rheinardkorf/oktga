@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<skillsets class="MEA11">
+  <skillset id="MEASS00077" title="Aeronautical product component parts - metal spinning lathe operations">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEM07030C" title="Perform metal spinning lathe operations (basic)"/>
+      <unit id="MEM07031C" title="Perform metal spinning lathe operations (complex)"/>
+      <unit id="MEM07032B" title="Use workshop machines for basic operations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00078" title="Aircraft audio and visual system and reproducer repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA288A" title="Repair or overhaul aircraft audio and visual systems and reproducers"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00079" title="Aircraft composite structure repair_modification using cold bonding only">
+    <units>
+      <unit id="MEA339C" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA363B" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA367A" title="Repair_modify aircraft composite structure using cold bonding"/>
+      <unit id="MEA401C" title="Inspect aircraft structures"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00080" title="Aircraft composite structure repair_modification using hot and cold bonding">
+    <units>
+      <unit id="MEA339C" title="Inspect, repair and maintain aircraft structures"/>
+      <unit id="MEA363B" title="Inspect, repair and maintain structures and related components of non-pressurised small aircraft"/>
+      <unit id="MEA401C" title="Inspect aircraft structures"/>
+      <unit id="MEA405B" title="Repair_modify aircraft composite material structure_components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00081" title="Aircraft display, control and distribution system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA252B" title="Test, align and troubleshoot aircraft synchro and servo system components"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA283A" title="Repair or overhaul aircraft display, control and distribution system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00082" title="Aircraft egress system maintenance">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA103B" title="Plan and organise aviation maintenance work activities"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA601A" title="Maintain aircraft egress systems"/>
+      <unit id="PUADEFEO101D" title="Work safely with explosive ordnance"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00083" title="Aircraft pulse system component repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA282A" title="Repair or overhaul aircraft pulse system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00084" title="Aircraft radio frequency communication and navigation system comonent repair_overhaul">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="MEA201B" title="Remove and install miscellaneous aircraft electrical hardware_components"/>
+      <unit id="MEA246C" title="Fabricate and_or repair aircraft electrical hardware or parts"/>
+      <unit id="MEA260B" title="Use electrical test equipment"/>
+      <unit id="MEA261C" title="Use electronic test equipment"/>
+      <unit id="MEA262B" title="Modify_repair aircraft component single layer printed circuit boards"/>
+      <unit id="MEA285A" title="Repair or overhaul aircraft radio frequency communication and navigation system components"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00085" title="Aircraft tyre retreading (advanced)">
+    <units>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA145A" title="Conversion from allied trades for employment in aviation maintenance workshops"/>
+      <unit id="PMBPROD324B" title="Inspect tyres for retreading"/>
+      <unit id="PMBPROD325B" title="Lay on tyre retreads"/>
+      <unit id="PMBPROD326B" title="Inspect tyres"/>
+    </units>
+  </skillset>
+  <skillset id="MEASS00086" title="Aircraft tyre retreading (basic)">
+    <units>
+      <unit id="PMBPROD262B" title="Operate tyre curing equipment"/>
+      <unit id="PMBPROD263B" title="Operate retread curing equipment"/>
+      <unit id="PMBPROD264C" title="Check recycle wash process"/>
+      <unit id="PMBPROD265C" title="Operate portable vulcanising equipment"/>
+      <unit id="PMBPROD266B" title="Prepare tyre casings for retreading"/>
+    </units>
+  </skillset>
+</skillsets>

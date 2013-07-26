@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<qualifications class="CUL11">
+  <qualification id="CUL20111" title="Certificate II in in Information and Cultural Services">
+    <units>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBRKG301B" title="Control records"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CUEMAR01C" title="Assist with marketing"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CULCNM201A" title="Monitor collections for changes in condition"/>
+      <unit id="CULEVP201A" title="Assist with the presentation of public activities and events"/>
+      <unit id="CULEVP202A" title="Provide visitors with venue information and assistance"/>
+      <unit id="CULIND201A" title="Develop and apply knowledge of information and cultural services"/>
+      <unit id="CULINS201A" title="Assist with circulation services"/>
+      <unit id="CULINS202A" title="Process information resource orders"/>
+      <unit id="CUVPRP202A" title="Participate in planning work for nominated sites"/>
+      <unit id="CUVPRP203A" title="Store finished creative work"/>
+      <unit id="ICAICT104A" title="Use digital devices"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT204A" title="Operate a digital media technology package"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="PSPGOV208A" title="Write routine workplace materials"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITTGDE001B" title="Work as a guide"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTIND001B" title="Develop and update tourism industry knowledge"/>
+      <unit id="SITXCCS001B" title="Provide visitor information"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUL30111" title="Certificate III in Information and Cultural Services">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBOHS301B" title="Apply knowledge of OHS legislation in the workplace"/>
+      <unit id="BSBRKG301B" title="Control records"/>
+      <unit id="BSBRKG302B" title="Undertake disposal"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRKG305A" title="Review recordkeeping functions"/>
+      <unit id="BSBRKG401B" title="Review the status of a record"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="CUAIND301A" title="Work effectively in the creative arts industry"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CULCNM301A" title="Catalogue objects into collections"/>
+      <unit id="CULCNM302A" title="Develop and apply knowledge of archives"/>
+      <unit id="CULCNM303A" title="Move and store collection material"/>
+      <unit id="CULDMT301A" title="Provide multimedia support"/>
+      <unit id="CULEVP201A" title="Assist with the presentation of public activities and events"/>
+      <unit id="CULIND201A" title="Develop and apply knowledge of information and cultural services"/>
+      <unit id="CULINL301A" title="Develop and use information literacy skills"/>
+      <unit id="CULINM301A" title="Use established cataloguing tools"/>
+      <unit id="CULINS201A" title="Assist with circulation services"/>
+      <unit id="CULINS202A" title="Process information resource orders"/>
+      <unit id="CULINS301A" title="Process and maintain information resources"/>
+      <unit id="CUVATS301A" title="Develop and apply knowledge of Aboriginal or Torres Strait Islander cultural arts"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT204A" title="Operate a digital media technology package"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="ICPMM321C" title="Capture a digital image"/>
+      <unit id="ICPMM322C" title="Edit a digital image"/>
+      <unit id="ICPPP322C" title="Digitise images for reproduction"/>
+      <unit id="ICPPP397A" title="Transfer digital files"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SITTGDE009A" title="Interpret aspects of local Australian Indigenous culture"/>
+      <unit id="SITTVAF002A" title="Provide a briefing or scripted commentary"/>
+      <unit id="SITXCOM002A" title="Work in a socially diverse environment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUL40111" title="Certificate IV in Library, Information and Cultural Services">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBIPR401A" title="Use and respect copyright"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUECOR03B" title="Provide quality service to customers"/>
+      <unit id="CUEOHS01C" title="Implement workplace health, safety and security procedures"/>
+      <unit id="CULCNM301A" title="Catalogue objects into collections"/>
+      <unit id="CULCNM302A" title="Develop and apply knowledge of archives"/>
+      <unit id="CULCNM401A" title="Assess the significance of collection objects"/>
+      <unit id="CULCNM402A" title="Prepare display mounts for collection material"/>
+      <unit id="CULCNM403A" title="Record and maintain collection information"/>
+      <unit id="CULCNM404A" title="Work with cultural material"/>
+      <unit id="CULDMT301A" title="Provide multimedia support"/>
+      <unit id="CULEVP401A" title="Present information on activities, events and public programs"/>
+      <unit id="CULEVP402A" title="Design and develop interpretive displays"/>
+      <unit id="CULEVP403A" title="Install and dismantle exhibition elements"/>
+      <unit id="CULIND401A" title="Consolidate and maintain industry knowledge"/>
+      <unit id="CULINM301A" title="Use established cataloguing tools"/>
+      <unit id="CULINM401A" title="Complete a range of cataloguing activities"/>
+      <unit id="CULINM402A" title="Use integrated library management systems"/>
+      <unit id="CULINS201A" title="Assist with circulation services"/>
+      <unit id="CULINS301A" title="Process and maintain information resources"/>
+      <unit id="CULINS401A" title="Assist customers to access information"/>
+      <unit id="CULINS402A" title="Obtain information from external and networked sources"/>
+      <unit id="CULINS403A" title="Search library and information databases"/>
+      <unit id="CULPRE401A" title="Implement preventive conservation activities"/>
+      <unit id="ICAICT104A" title="Use digital devices"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="ICAWEB420A" title="Write content for web pages"/>
+      <unit id="ICPPP422C" title="Digitise complex images for reproduction"/>
+      <unit id="ICPPR386A" title="Troubleshoot digital media"/>
+      <unit id="SISXFAC303A" title="Implement facility maintenance programs"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE007A" title="Develop and maintain the general and regional knowledge required by guides"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITXMPR001A" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUL50111" title="Diploma of Library and Information Services">
+    <units>
+      <unit id="BSBCON601A" title="Develop and maintain business continuity plans"/>
+      <unit id="BSBCUS501B" title="Manage quality customer service"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="BSBRKG601B" title="Define recordkeeping framework"/>
+      <unit id="BSBRKG608B" title="Plan management of records over time"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CHCCS405A" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="CHCLLN403A" title="Identify clients with language, literacy and numeracy needs and respond effectively"/>
+      <unit id="CHCORG525C" title="Recruit and coordinate volunteers"/>
+      <unit id="CULATS501A" title="Work with Aboriginal and Torres Strait Islander cultural material"/>
+      <unit id="CULCNM501A" title="Assess the significance of collections"/>
+      <unit id="CULCNM502A" title="Manage lending and borrowing processes for collections"/>
+      <unit id="CULCNM503A" title="Manage the development of collections"/>
+      <unit id="CULCNM601A" title="Research and document collection material"/>
+      <unit id="CULCNM602A" title="Develop and monitor procedures for the movement and storage of collection material"/>
+      <unit id="CULDMT301A" title="Provide multimedia support"/>
+      <unit id="CULEVP403A" title="Install and dismantle exhibition elements"/>
+      <unit id="CULEVP501A" title="Coordinate the installation and dismantling of exhibitions"/>
+      <unit id="CULEVP502A" title="Develop and implement exhibition interpretive strategies"/>
+      <unit id="CULEVP503A" title="Develop and promote activities, events and public programs"/>
+      <unit id="CULEVP504A" title="Develop exhibition concepts"/>
+      <unit id="CULICM501A" title="Maintain digital repositories"/>
+      <unit id="CULICM601A" title="Contribute to collection management"/>
+      <unit id="CULICM602A" title="Manage collection maintenance and preservation procedures"/>
+      <unit id="CULIND401A" title="Consolidate and maintain industry knowledge"/>
+      <unit id="CULINL501A" title="Promote literature and reading"/>
+      <unit id="CULINL601A" title="Extend own information literacy skills to locate information"/>
+      <unit id="CULINM301A" title="Use established cataloguing tools"/>
+      <unit id="CULINM401A" title="Complete a range of cataloguing activities"/>
+      <unit id="CULINM501A" title="Analyse and describe information resources"/>
+      <unit id="CULINM502A" title="Provide subject access and classify material"/>
+      <unit id="CULINM503A" title="Use and monitor advanced functions of integrated library management systems"/>
+      <unit id="CULINM601A" title="Analyse and describe specialist and complex material"/>
+      <unit id="CULINS402A" title="Obtain information from external and networked sources"/>
+      <unit id="CULINS403A" title="Search library and information databases"/>
+      <unit id="CULINS501A" title="Research and analyse information to meet customer needs"/>
+      <unit id="CULPRE501A" title="Develop disaster management plans"/>
+      <unit id="CULREL501A" title="Develop and maintain community and stakeholder relationships"/>
+      <unit id="CULRSK501A" title="Monitor compliance with copyright and licence requirements"/>
+      <unit id="CUVFIM401A" title="Obtain revenue to support operations"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+      <unit id="FNSPIM412A" title="Participate in formal communication processes"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICASAS410A" title="Identify and resolve client IT problems"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+      <unit id="ICAWEB417A" title="Integrate social web technologies"/>
+      <unit id="ICAWEB418A" title="Use development software and IT tools to build a basic website"/>
+      <unit id="ICAWEB420A" title="Write content for web pages"/>
+      <unit id="SITTGDE006A" title="Prepare and present tour commentaries or activities"/>
+      <unit id="SITTGDE012A" title="Prepare specialised interpretive content on cultural and heritage environments"/>
+      <unit id="SITXHRM003A" title="Roster staff"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

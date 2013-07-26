@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<qualifications class="RUV04">
+  <qualification id="RUV10104" title="Certificate I in Animal Studies">
+    <units/>
+  </qualification>
+  <qualification id="RUV20104" title="Certificate II in Animal Studies">
+    <units>
+      <unit id="RTC2704A" title="Provide basic first aid"/>
+      <unit id="RUV2106A" title="Assist with food preparation"/>
+      <unit id="RUV2107A" title="Provide basic first aid for animals"/>
+      <unit id="RUV2108A" title="Rescue animals and apply basic animal care"/>
+      <unit id="RUV2401A" title="Prepare for and conduct a tour or presentation"/>
+      <unit id="RUV2501A" title="Provide information on companion animals, products and services"/>
+      <unit id="RUV2601A" title="Carry out veterinary reception duties"/>
+      <unit id="RUV2602A" title="Carry out daily clinic routines"/>
+      <unit id="RUV2603A" title="Assist with surgery preparations"/>
+    </units>
+  </qualification>
+  <qualification id="RUV30204" title="Certificate III in Captive Animals">
+    <units>
+      <unit id="RTD3125A" title="Respond to wildlife emergencies"/>
+      <unit id="RUV3401A" title="Rehabilitate and release native wildlife"/>
+      <unit id="RUV3405A" title="Develop an institutional husbandry manual"/>
+      <unit id="RUV3407A" title="Maintain exhibits and assist with their design"/>
+      <unit id="RUV3411A" title="Care for young animals"/>
+      <unit id="RUV3413A" title="Condition animals"/>
+    </units>
+  </qualification>
+  <qualification id="RUV30104" title="Certificate III in Animal Technology">
+    <units>
+      <unit id="PMLMAIN300A" title="Maintain the laboratory fit for purpose"/>
+      <unit id="PMLTEST300A" title="Perform basic tests"/>
+      <unit id="PMLTEST301A" title="Perform biological laboratory procedures"/>
+      <unit id="PMLTEST303A" title="Prepare working solutions"/>
+      <unit id="RTC3310A" title="Operate specialised machinery and equipment"/>
+      <unit id="RUV2603A" title="Assist with surgery preparations"/>
+    </units>
+  </qualification>
+  <qualification id="RUV30304" title="Certificate III in Companion Animal Services">
+    <units>
+      <unit id="BSBCMN305A" title="Organise workplace information"/>
+      <unit id="BSBFLM304A" title="Participate in work teams"/>
+      <unit id="BSBFLM309A" title="Support continuous improvement systems and processes"/>
+      <unit id="RUV2101A" title="Work in the animal care industry"/>
+      <unit id="RUV2102A" title="Follow OHS procedures in an animal care environment"/>
+      <unit id="RUV2103A" title="Assist with general animal care"/>
+      <unit id="RUV2104A" title="Provide food and water for animals"/>
+      <unit id="RUV2105A" title="Participate in workplace communications"/>
+      <unit id="RUV2107A" title="Provide basic first aid for animals"/>
+      <unit id="RUV3101A" title="Carry out workplace OHS procedures"/>
+      <unit id="RUV3501A" title="Provide advice on companion animal selection and general care"/>
+      <unit id="RUV3502A" title="Provide advice on selection and care of aquatic animals"/>
+      <unit id="RUV3503A" title="Work effectively in the companion animal industry"/>
+      <unit id="RUV3504A" title="Monitor and maintain health of companion animals"/>
+      <unit id="RUV3505A" title="Provide enrichment for companion animals"/>
+      <unit id="RUV3506A" title="Capture, handle and transport companion animals"/>
+      <unit id="RUV3507A" title="Carry out companion animal breeding procedures"/>
+      <unit id="RUV3508A" title="Prepare companion animal diets and monitor feeding"/>
+      <unit id="RUV3509A" title="Maintain aquascapes and aquatic animals"/>
+      <unit id="WRRCA1B" title="Operate retail equipment"/>
+      <unit id="WRRCA5B" title="Operate retail information technology systems"/>
+      <unit id="WRRCS2B" title="Apply point of sale handling procedures"/>
+      <unit id="WRRF1B" title="Balance register/terminal"/>
+      <unit id="WRRI1B" title="Perform stock control procedures"/>
+      <unit id="WRRM3B" title="Co-ordinate merchandise presentation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RUV40104" title="Certificate IV in Animal Control and Regulation">
+    <units>
+      <unit id="LGAEHRR304A" title="Operate and maintain council pound facilities"/>
+      <unit id="LGAPLEM405A" title="Provide assistance in carrying out building inspections"/>
+      <unit id="PSPGOV404A" title="Develop and implement work unit plans"/>
+      <unit id="PSPPM401A" title="Develop a project"/>
+      <unit id="RTD2101A" title="Apply animal trapping techniques"/>
+      <unit id="RTD4402A" title="Define the pest problem in a local area"/>
+      <unit id="RTD4406A" title="Implement pest management action plans"/>
+      <unit id="RUV4205A" title="Euthanase sick, injured or unwanted pound animals"/>
+      <unit id="RUV4207A" title="Conduct community awareness programs"/>
+      <unit id="RUV4208A" title="Coordinate seizure of animals"/>
+    </units>
+  </qualification>
+  <qualification id="RUV40204" title="Certificate IV in Captive Animals">
+    <units>
+      <unit id="BSBCMN405A" title="Analyse and present research information"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="RUV3101A" title="Carry out workplace OHS procedures"/>
+      <unit id="RUV3402A" title="Work within a captive animal institution"/>
+      <unit id="RUV3403A" title="Prepare and present information to the public"/>
+      <unit id="RUV3404A" title="Assist with collection management"/>
+      <unit id="RUV3406A" title="Prepare and maintain animal housing"/>
+      <unit id="RUV3408A" title="Prepare animal diets and monitor feeding"/>
+      <unit id="RUV3409A" title="Monitor and maintain animal health"/>
+      <unit id="RUV3410A" title="Capture, restrain and assist in moving animals"/>
+      <unit id="RUV3412A" title="Monitor animal reproduction"/>
+      <unit id="RUV3414A" title="Identify behavioural needs and implement improved husbandry"/>
+      <unit id="RUV4101A" title="Implement and monitor the organisation's OHS program"/>
+      <unit id="RUV4401A" title="Design and evaluate interpretive and learning programs"/>
+      <unit id="RUV4402A" title="Implement collection management"/>
+      <unit id="RUV4403A" title="Manage enclosures and exhibits"/>
+      <unit id="RUV4404A" title="Develop animal diets"/>
+      <unit id="RUV4405A" title="Assist in establishing and maintaining a plantation"/>
+      <unit id="RUV4406A" title="Develop, monitor and review behavioural management strategies"/>
+      <unit id="RUV5401A" title="Design and develop enclosures and exhibits"/>
+      <unit id="RUV5402A" title="Develop and monitor collection management"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RUV40404" title="Certificate IV in Veterinary Nursing">
+    <units>
+      <unit id="RUV2101A" title="Work in the animal care industry"/>
+      <unit id="RUV2102A" title="Follow OHS procedures in an animal care environment"/>
+      <unit id="RUV2103A" title="Assist with general animal care"/>
+      <unit id="RUV2104A" title="Provide food and water for animals"/>
+      <unit id="RUV2105A" title="Participate in workplace communications"/>
+      <unit id="RUV2601A" title="Carry out veterinary reception duties"/>
+      <unit id="RUV2602A" title="Carry out daily clinic routines"/>
+      <unit id="RUV2603A" title="Assist with surgery preparations"/>
+      <unit id="RUV4601A" title="Coordinate patient admission and discharge"/>
+      <unit id="RUV4602A" title="Apply radiographic routines"/>
+      <unit id="RUV4603A" title="Perform clinic pathology procedures"/>
+      <unit id="RUV4604A" title="Perform clinic office procedures"/>
+      <unit id="RUV4605A" title="Carry out surgical nursing routines"/>
+      <unit id="RUV4606A" title="Nurse animals"/>
+      <unit id="RUV4607A" title="Carry out medical nursing routines"/>
+      <unit id="RUV4608A" title="Coordinate and perform theatre routines"/>
+      <unit id="RUV4609A" title="Provide specific animal care advice"/>
+      <unit id="RUV4610A" title="Carry out veterinary dental nursing procedures"/>
+      <unit id="RUV4611A" title="Prepare, deliver and review animal care education programs"/>
+      <unit id="RUV4612A" title="Coordinate clinic promotional activities"/>
+      <unit id="RUV4613A" title="Develop and implement specific clinic policies"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RUV40304" title="Certificate IV in Companion Animal Services">
+    <units>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="RUV3101A" title="Carry out workplace OHS procedures"/>
+      <unit id="RUV3503A" title="Work effectively in the companion animal industry"/>
+      <unit id="RUV3504A" title="Monitor and maintain health of companion animals"/>
+      <unit id="RUV4101A" title="Implement and monitor the organisation's OHS program"/>
+      <unit id="RUV4203A" title="Identify and respond to animal behaviour"/>
+      <unit id="RUV4501A" title="Manage compliance in the companion animal industry"/>
+      <unit id="RUV4502A" title="Hand-rear companion animals"/>
+      <unit id="RUV4503A" title="Develop diets for companion animals"/>
+      <unit id="RUV4504A" title="Manage and maintain aviaries and bird rooms"/>
+      <unit id="RUV4505A" title="Design, construct and maintain aquascapes"/>
+      <unit id="RUV4506A" title="Develop enrichment strategies for companion animals"/>
+      <unit id="RUV4507A" title="Purchase companion animal livestock"/>
+      <unit id="RUV4508A" title="Manage companion animal breeding"/>
+      <unit id="RUV4509A" title="Provide professional companion animal grooming services"/>
+      <unit id="RUV4510A" title="Provide companion animal hydro-bathing services"/>
+      <unit id="RUV4511A" title="Provide training advice to companion animal owners"/>
+      <unit id="RUV4512A" title="Conduct companion animal training classes"/>
+      <unit id="RUV4611A" title="Prepare, deliver and review animal care education programs"/>
+      <unit id="WRRO1B" title="Manage merchandise and store presentation"/>
+      <unit id="WRRO5B" title="Control inventory"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RUV50304" title="Diploma of Veterinary Nursing (Dental)">
+    <units>
+      <unit id="RUV4601A" title="Coordinate patient admission and discharge"/>
+      <unit id="RUV4602A" title="Apply radiographic routines"/>
+      <unit id="RUV4603A" title="Perform clinic pathology procedures"/>
+      <unit id="RUV4604A" title="Perform clinic office procedures"/>
+      <unit id="RUV4605A" title="Carry out surgical nursing routines"/>
+      <unit id="RUV4606A" title="Nurse animals"/>
+      <unit id="RUV4607A" title="Carry out medical nursing routines"/>
+      <unit id="RUV4608A" title="Coordinate and perform theatre routines"/>
+      <unit id="RUV4609A" title="Provide specific animal care advice"/>
+      <unit id="RUV4610A" title="Carry out veterinary dental nursing procedures"/>
+      <unit id="RUV5603A" title="Produce veterinary dental oral cavity radiographs"/>
+      <unit id="RUV5604A" title="Provide veterinary dental nursing support for advanced veterinary dental surgery"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RUV50104" title="Diploma of Animal Technology">
+    <units>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="PMLDATA300A" title="Process and record data"/>
+      <unit id="PMLTEST305A" title="Perform aseptic techniques"/>
+      <unit id="RUV2104A" title="Provide food and water for animals"/>
+      <unit id="RUV2105A" title="Participate in workplace communications"/>
+      <unit id="RUV3301A" title="Carry out institution containment and exclusion procedures"/>
+      <unit id="RUV3302A" title="Conduct euthanasia of research animals"/>
+      <unit id="RUV3303A" title="Monitor and maintain animal health and wellbeing"/>
+      <unit id="RUV3304A" title="Provide behavioural enrichment for research animals"/>
+      <unit id="RUV3305A" title="Carry out simple breeding procedures"/>
+      <unit id="RUV3306A" title="Work within an animal technology institution"/>
+      <unit id="RUV3307A" title="Prepare for and monitor anaesthesia in animals"/>
+      <unit id="RUV5301A" title="Carry out breeding procedures"/>
+      <unit id="RUV5302A" title="Carry out post-mortem examination of a research animal"/>
+      <unit id="RUV5303A" title="Manage nutrition of research animals"/>
+      <unit id="RUV5304A" title="Manage compliance in animal technology"/>
+      <unit id="RUV5305A" title="Manage and maintain the health of research animals"/>
+      <unit id="RUV5306A" title="Plan an animal technology facility"/>
+      <unit id="RUV5307A" title="Manage laboratory procedures"/>
+      <unit id="RUV5308A" title="Administer anaesthesia and perform surgery on animals for scientific purposes"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RUV50404" title="Diploma of Veterinary Nursing (Emergency and Critical Care)">
+    <units>
+      <unit id="RUV4601A" title="Coordinate patient admission and discharge"/>
+      <unit id="RUV4602A" title="Apply radiographic routines"/>
+      <unit id="RUV4603A" title="Perform clinic pathology procedures"/>
+      <unit id="RUV4604A" title="Perform clinic office procedures"/>
+      <unit id="RUV4605A" title="Carry out surgical nursing routines"/>
+      <unit id="RUV4606A" title="Nurse animals"/>
+      <unit id="RUV4607A" title="Carry out medical nursing routines"/>
+      <unit id="RUV4608A" title="Coordinate and perform theatre routines"/>
+      <unit id="RUV4609A" title="Provide specific animal care advice"/>
+      <unit id="RUV4610A" title="Carry out veterinary dental nursing procedures"/>
+      <unit id="RUV5605A" title="Prepare for emergency response"/>
+      <unit id="RUV5606A" title="Perform emergency procedures to sustain life"/>
+      <unit id="RUV5607A" title="Provide nursing support for critical care surgery"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RUV50204" title="Diploma of Veterinary Nursing (Surgical)">
+    <units>
+      <unit id="RUV4601A" title="Coordinate patient admission and discharge"/>
+      <unit id="RUV4602A" title="Apply radiographic routines"/>
+      <unit id="RUV4603A" title="Perform clinic pathology procedures"/>
+      <unit id="RUV4604A" title="Perform clinic office procedures"/>
+      <unit id="RUV4605A" title="Carry out surgical nursing routines"/>
+      <unit id="RUV4606A" title="Nurse animals"/>
+      <unit id="RUV4607A" title="Carry out medical nursing routines"/>
+      <unit id="RUV4608A" title="Coordinate and perform theatre routines"/>
+      <unit id="RUV4609A" title="Provide specific animal care advice"/>
+      <unit id="RUV4610A" title="Carry out veterinary dental nursing procedures"/>
+      <unit id="RUV5601A" title="Manage nursing requirements for specialised surgical procedures"/>
+      <unit id="RUV5602A" title="Carry out postoperative nursing routines"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

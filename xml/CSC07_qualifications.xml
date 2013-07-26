@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<qualifications class="CSC07">
+  <qualification id="CSC20107" title="Certificate II in Justice Services">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CSCOFM201A" title="Support offender services"/>
+      <unit id="CSCOFM202A" title="Monitor people in care or custody"/>
+      <unit id="CSCOFM203A" title="Maintain the health, safety and welfare of offenders"/>
+      <unit id="CSCOHS201A" title="Use safe work practices"/>
+      <unit id="CSCORG201A" title="Contribute to achieving the goals of the organisation"/>
+      <unit id="CSCORG202A" title="Communicate effectively"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS202A" title="Screen access to and exit from premises"/>
+      <unit id="CSCSAS203A" title="Maintain the security of premises"/>
+      <unit id="CSCSAS204A" title="Maintain security of the environment"/>
+      <unit id="CSCSAS205A" title="Contain incidents that jeopardise safety and security"/>
+      <unit id="CSCSAS206A" title="Respond to medical emergencies"/>
+      <unit id="CSCSAS207A" title="Operate central monitoring station"/>
+      <unit id="CSCTRA201A" title="Maintain security during escort"/>
+      <unit id="CSCTRA202A" title="Operate security vehicles"/>
+      <unit id="CSCTRA203A" title="Navigate transport"/>
+      <unit id="HLTCPR201A" title="Perform CPR"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PSPGOV208A" title="Write routine workplace materials"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CSC30107" title="Certificate III in Correctional Practice">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CSCOFM203A" title="Maintain the health, safety and welfare of offenders"/>
+      <unit id="CSCOFM301A" title="Protect the safety and welfare of vulnerable offenders"/>
+      <unit id="CSCOFM302A" title="Protect the safety and welfare of Aboriginal and Torres Strait offenders"/>
+      <unit id="CSCOFM303A" title="Respond to offenders influenced by drugs or alcohol"/>
+      <unit id="CSCOFM304A" title="Protect the safety and welfare of young offenders"/>
+      <unit id="CSCOFM307A" title="Support offender to maintain positive relationships"/>
+      <unit id="CSCOFM308A" title="Promote cooperative behaviour"/>
+      <unit id="CSCOFM309A" title="Process offender induction"/>
+      <unit id="CSCORG201A" title="Contribute to achieving the goals of the organisation"/>
+      <unit id="CSCORG202A" title="Communicate effectively"/>
+      <unit id="CSCORG301A" title="Prepare reports"/>
+      <unit id="CSCORG302A" title="Prepare reports for justice agencies"/>
+      <unit id="CSCORG303A" title="Conduct interviews"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS206A" title="Respond to medical emergencies"/>
+      <unit id="CSCSAS303A" title="Conduct searches"/>
+      <unit id="CSCSAS305A" title="Supervise attendance at court"/>
+      <unit id="CSCSAS306A" title="Manage conflict through negotiation"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PRMPFES05B" title="Use portable fire fighting equipment"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CSC30207" title="Certificate III in Correctional Practice (Custodial)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CSCOFM203A" title="Maintain the health, safety and welfare of offenders"/>
+      <unit id="CSCOFM301A" title="Protect the safety and welfare of vulnerable offenders"/>
+      <unit id="CSCOFM302A" title="Protect the safety and welfare of Aboriginal and Torres Strait offenders"/>
+      <unit id="CSCOFM303A" title="Respond to offenders influenced by drugs or alcohol"/>
+      <unit id="CSCOFM304A" title="Protect the safety and welfare of young offenders"/>
+      <unit id="CSCOFM305A" title="Supervise offenders"/>
+      <unit id="CSCOFM308A" title="Promote cooperative behaviour"/>
+      <unit id="CSCOFM309A" title="Process offender induction"/>
+      <unit id="CSCORG201A" title="Contribute to achieving the goals of the organisation"/>
+      <unit id="CSCORG202A" title="Communicate effectively"/>
+      <unit id="CSCORG301A" title="Prepare reports"/>
+      <unit id="CSCORG303A" title="Conduct interviews"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS206A" title="Respond to medical emergencies"/>
+      <unit id="CSCSAS207A" title="Operate central monitoring station"/>
+      <unit id="CSCSAS301A" title="Maintain security system"/>
+      <unit id="CSCSAS302A" title="Control incidents using defensive tactics"/>
+      <unit id="CSCSAS303A" title="Conduct searches"/>
+      <unit id="CSCSAS305A" title="Supervise attendance at court"/>
+      <unit id="CSCSAS306A" title="Manage conflict through negotiation"/>
+      <unit id="CSCTRA201A" title="Maintain security during escort"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PRMPFES05B" title="Use portable fire fighting equipment"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CSC30307" title="Certificate III in Correctional Practice (Community)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CSCOFM203A" title="Maintain the health, safety and welfare of offenders"/>
+      <unit id="CSCOFM301A" title="Protect the safety and welfare of vulnerable offenders"/>
+      <unit id="CSCOFM302A" title="Protect the safety and welfare of Aboriginal and Torres Strait offenders"/>
+      <unit id="CSCOFM303A" title="Respond to offenders influenced by drugs or alcohol"/>
+      <unit id="CSCOFM304A" title="Protect the safety and welfare of young offenders"/>
+      <unit id="CSCOFM305A" title="Supervise offenders"/>
+      <unit id="CSCOFM306A" title="Supervise offenders in the community"/>
+      <unit id="CSCOFM307A" title="Support offender to maintain positive relationships"/>
+      <unit id="CSCOFM308A" title="Promote cooperative behaviour"/>
+      <unit id="CSCOFM309A" title="Process offender induction"/>
+      <unit id="CSCORG201A" title="Contribute to achieving the goals of the organisation"/>
+      <unit id="CSCORG202A" title="Communicate effectively"/>
+      <unit id="CSCORG301A" title="Prepare reports"/>
+      <unit id="CSCORG302A" title="Prepare reports for justice agencies"/>
+      <unit id="CSCORG303A" title="Conduct interviews"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS206A" title="Respond to medical emergencies"/>
+      <unit id="CSCSAS305A" title="Supervise attendance at court"/>
+      <unit id="CSCSAS306A" title="Manage conflict through negotiation"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PRMPFES05B" title="Use portable fire fighting equipment"/>
+      <unit id="PSPGOV301B" title="Work effectively in the organisation"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV312A" title="Use workplace communication strategies"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CSC40107" title="Certificate IV in Correctional Practice">
+    <units>
+      <unit id="BSBCMN412A" title="Promote innovation and change"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCAOD402A" title="Work effectively in the alcohol and other drugs sector"/>
+      <unit id="CHCAOD510A" title="Work effectively with clients with complex alcohol and/or other drugs issues"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CHCCM402D" title="Establish and monitor a case plan"/>
+      <unit id="CHCCS403B" title="Provide brief intervention"/>
+      <unit id="CHCDFV301A" title="Recognise and respond appropriately to domestic and family violence"/>
+      <unit id="CHCDFV402C" title="Manage own professional development in responding to domestic and family violence"/>
+      <unit id="CHCDFV509C" title="Work with users of violence to effect change"/>
+      <unit id="CHCDIS301A" title="Work effectively with people with a disability"/>
+      <unit id="CHCMH301A" title="Work effectively in mental health"/>
+      <unit id="CSCDH401A" title="Manage dogs for security purposes"/>
+      <unit id="CSCDH402A" title="Maintain the health and welfare of dogs"/>
+      <unit id="CSCDH403A" title="Prepare stimulus aids for use with dogs"/>
+      <unit id="CSCDH404A" title="Select dogs"/>
+      <unit id="CSCDH405A" title="Train detector dogs"/>
+      <unit id="CSCDH406A" title="Train dogs for response and control"/>
+      <unit id="CSCDH407A" title="Train dogs in agility work"/>
+      <unit id="CSCINT401A" title="Negotiate behaviour change"/>
+      <unit id="CSCINT402A" title="Assist offenders to change behaviour"/>
+      <unit id="CSCINT403A" title="Assist offenders to change drug and alcohol use"/>
+      <unit id="CSCINT404A" title="Assess offender risks and needs"/>
+      <unit id="CSCINT405A" title="Support group activities"/>
+      <unit id="CSCOFM203A" title="Maintain the health, safety and welfare of offenders"/>
+      <unit id="CSCOFM301A" title="Protect the safety and welfare of vulnerable offenders"/>
+      <unit id="CSCOFM302A" title="Protect the safety and welfare of Aboriginal and Torres Strait offenders"/>
+      <unit id="CSCOFM304A" title="Protect the safety and welfare of young offenders"/>
+      <unit id="CSCOFM307A" title="Support offender to maintain positive relationships"/>
+      <unit id="CSCOFM308A" title="Promote cooperative behaviour"/>
+      <unit id="CSCOFM309A" title="Process offender induction"/>
+      <unit id="CSCOFM401A" title="Implement planned approach to offender management"/>
+      <unit id="CSCOFM402A" title="Provide support to offenders in Aboriginal and Torres Strait communities"/>
+      <unit id="CSCOFM404A" title="Provide guidance and counsel"/>
+      <unit id="CSCOHS401A" title="Supervise occupational health and safety practices"/>
+      <unit id="CSCORG302A" title="Prepare reports for justice agencies"/>
+      <unit id="CSCORG303A" title="Conduct interviews"/>
+      <unit id="CSCORG402A" title="Gather and report complex information"/>
+      <unit id="CSCORG403A" title="Report to a formal inquiry"/>
+      <unit id="CSCORG404A" title="Organise and chair meetings"/>
+      <unit id="CSCORG405A" title="Establish and maintain networks"/>
+      <unit id="CSCORG406A" title="Manage activities to meet client requirements"/>
+      <unit id="CSCORG407A" title="Coordinate a work team"/>
+      <unit id="CSCSAS201A" title="Maintain security"/>
+      <unit id="CSCSAS304A" title="Monitor control room operations"/>
+      <unit id="CSCSAS305A" title="Supervise attendance at court"/>
+      <unit id="CSCSAS306A" title="Manage conflict through negotiation"/>
+      <unit id="CSCSAS401A" title="Monitor and review security systems"/>
+      <unit id="CSCSAS402B" title="Manage threatening behaviour"/>
+      <unit id="CSCSAS403A" title="Provide emergency response to dangerous incidents"/>
+      <unit id="CSCSAS404A" title="Use firearms"/>
+      <unit id="CSCTRA401A" title="Plan and monitor escorts"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="PSPCRT401C" title="Carry out court orderly functions"/>
+      <unit id="PSPGOV308B" title="Work effectively with diversity"/>
+      <unit id="PSPGOV414A" title="Provide workplace mentoring"/>
+      <unit id="PSPOHS301A" title="Contribute to workplace safety"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PUAEMR005B" title="Design and manage activities which exercise elements of emergency management"/>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAOPE001B" title="Supervise response"/>
+      <unit id="PUAPOL024B" title="Conduct investigations"/>
+      <unit id="PUAPOL034B" title="Analyse information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CSC50107" title="Diploma of Correctional Administration">
+    <units>
+      <unit id="BSBCMN419A" title="Manage projects"/>
+      <unit id="BSBFLM503B" title="Manage effective workplace relationships"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT516B" title="Facilitate continuous improvement"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="CHCCS521A" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CSCINT501A" title="Use therapeutic processes in groups to address offending behaviour"/>
+      <unit id="CSCINT502A" title="Use group processes to address offending behaviour"/>
+      <unit id="CSCOFM501A" title="Coordinate offender management processes"/>
+      <unit id="CSCOFM502A" title="Plan and review services to offenders"/>
+      <unit id="CSCOFM503A" title="Supervise offender management practices"/>
+      <unit id="CSCORG404A" title="Organise and chair meetings"/>
+      <unit id="CSCORG405A" title="Establish and maintain networks"/>
+      <unit id="CSCORG406A" title="Manage activities to meet client requirements"/>
+      <unit id="CSCORG501A" title="Use information to make critical decisions"/>
+      <unit id="CSCORG502A" title="Represent and promote the organisation"/>
+      <unit id="CSCORG503A" title="Coordinate resource allocation and usage"/>
+      <unit id="CSCORG504A" title="Coordinate the implementation of change"/>
+      <unit id="CSCORG505A" title="Manage a work unit"/>
+      <unit id="CSCORG506A" title="Manage teamwork through delegations"/>
+      <unit id="CSCORG507A" title="Manage projects in justice and offender services"/>
+      <unit id="CSCORG508A" title="Determine the effective use of financial resources"/>
+      <unit id="CSCSAS501A" title="Plan responses to incidents that jeopardise safety and security"/>
+      <unit id="CSCSAS502A" title="Determine response to security risks"/>
+      <unit id="PSPGOV505A" title="Promote diversity"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPGOV512A" title="Use complex workplace communication strategies"/>
+      <unit id="PSPGOV519A" title="Manage performance"/>
+      <unit id="PSPOHS501A" title="Monitor and maintain workplace safety"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+      <unit id="PSPPROC502A" title="Establish contract management arrangements"/>
+      <unit id="PSPREG501B" title="Conduct prosecutions"/>
+      <unit id="PSPSEC502A" title="Develop security risk management plans"/>
+      <unit id="PSPSEC503A" title="Implement and monitor security risk management plans"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CSC60107" title="Advanced Diploma of Correctional Management">
+    <units>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="CSCINT601A" title="Coordinate intervention strategies for offenders"/>
+      <unit id="CSCOFM601A" title="Establish offender management practices"/>
+      <unit id="CSCORG601A" title="Provide leadership in justice services"/>
+      <unit id="CSCORG602A" title="Plan and implement changes in justice services"/>
+      <unit id="CSCORG603A" title="Manage the delivery of a quality correctional service"/>
+      <unit id="CSCORG604A" title="Establish strategic guidance for correctional services"/>
+      <unit id="CSCORG605A" title="Research issues of concern in correctional services"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPHR615A" title="Manage human resource development strategies"/>
+      <unit id="PSPMNGT602B" title="Manage resources"/>
+      <unit id="PSPMNGT615A" title="Influence workforce effectiveness"/>
+      <unit id="PSPOHS601B" title="Establish and maintain a workplace safety system"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="PSPPROC602B" title="Direct the management of contracts"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

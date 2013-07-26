@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<skillsets class="PMA08">
+  <skillset id="PMASS00001" title="Confined space work team">
+    <units>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00002" title="Contractor induction">
+    <units>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00003" title="Emergency centre team">
+    <units>
+      <unit id="PMAOMIR317B" title="Facilitate search and rescue operations"/>
+      <unit id="PMAOMIR320B" title="Manage incident response information"/>
+      <unit id="PMAOMIR424B" title="Develop and maintain community relationships"/>
+      <unit id="PMAOMIR449B" title="Monitor legal compliance obligations during incidents"/>
+      <unit id="PMAOMIR523B" title="Manage corporate media requirements in a crisis"/>
+      <unit id="PMAOMIR575B" title="Coordinate welfare support activities in response to an incident"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00004" title="Hot work observer">
+    <units>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS212A" title="Undertake first response to fire incidents"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00005" title="Incident response commander">
+    <units>
+      <unit id="PMAOHS310B" title="Investigate incidents"/>
+      <unit id="PMAOHS511A" title="Manage emergency incidents"/>
+      <unit id="PMAOMIR320B" title="Manage incident response information"/>
+      <unit id="PMAOMIR418B" title="Coordinate incident response"/>
+      <unit id="PMAOMIR444B" title="Develop incident containment tactics"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00006" title="Incident response team leader">
+    <units>
+      <unit id="PMAOHS311B" title="Lead emergency teams"/>
+      <unit id="PMAOMIR317B" title="Facilitate search and rescue operations"/>
+      <unit id="PMAOMIR320B" title="Manage incident response information"/>
+      <unit id="PMAOMIR346B" title="Assess and secure an incident site"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00007" title="Incident response team member">
+    <units>
+      <unit id="MSAPMOHS205A" title="Control minor incidents"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOHS212A" title="Undertake first response to fire incidents"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="PMAOHS213B" title="Undertake fire control and emergency rescue"/>
+      <unit id="PMAOMIR301B" title="Undertake initial rescue"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00008" title="Offshore crane driver">
+    <units>
+      <unit id="MSAPMSUP205A" title="Transfer loads"/>
+      <unit id="PMASUP237B" title="Undertake crane, dogging and load transfer operations"/>
+      <unit id="PMASUP305A" title="Operate offshore cranes"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00009" title="Offshore incident response team member">
+    <units>
+      <unit id="MSAPMOHS205A" title="Control minor incidents"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOHS212A" title="Undertake first response to fire incidents"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="PMAOHS213B" title="Undertake fire control and emergency rescue"/>
+      <unit id="PMAOMIR301B" title="Undertake initial rescue"/>
+      <unit id="PMAOMIR302B" title="Respond to a helideck incident"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00010" title="Offshore operator safety induction">
+    <units>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS205A" title="Control minor incidents"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00011" title="Pipeline transmission">
+    <units>
+      <unit id="PMAOPS221B" title="Operate and monitor prime movers"/>
+      <unit id="PMAOPS222B" title="Operate and monitor pumping systems and equipment"/>
+      <unit id="PMAOPS223B" title="Operate and monitor valve systems"/>
+      <unit id="PMAOPS230B" title="Monitor, operate and maintain pipeline stations and equipment"/>
+    </units>
+  </skillset>
+  <skillset id="PMASS00012" title="Workplace assessor">
+    <units>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+  </skillset>
+</skillsets>

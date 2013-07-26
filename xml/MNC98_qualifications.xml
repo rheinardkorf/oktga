@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<qualifications class="MNC98">
+  <qualification id="MNC20198" title="Certificate II in Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC30198" title="Certificate III in Coal Operations">
+    <units/>
+  </qualification>
+  <qualification id="MNC40198" title="Certificate IV in Coal Operational Management">
+    <units/>
+  </qualification>
+  <qualification id="MNC40202" title="Certificate IV in Surface Coal Mining (Open Cut Examiner)">
+    <units/>
+  </qualification>
+  <qualification id="MNC50502" title="Diploma of Surface Coal Mining">
+    <units/>
+  </qualification>
+  <qualification id="MNC50202" title="Diploma of Mine Electrical Engineering (Surface)">
+    <units/>
+  </qualification>
+  <qualification id="MNC50198" title="Diploma of Coal Operational Management">
+    <units/>
+  </qualification>
+  <qualification id="MNC50602" title="Diploma of Mine Surveying">
+    <units/>
+  </qualification>
+  <qualification id="MNC50402" title="Diploma of Mine Mechanical Engineering">
+    <units/>
+  </qualification>
+  <qualification id="MNC50302" title="Diploma of Mine Electrical Engineering (Underground)">
+    <units/>
+  </qualification>
+  <qualification id="MNC60198" title="Advanced Diploma of Coal Operational Management">
+    <units/>
+  </qualification>
+  <qualification id="MNC60202" title="Advanced Diploma of Surface Coal Mining">
+    <units/>
+  </qualification>
+</qualifications>

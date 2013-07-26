@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<skillsets class="MTM11">
+  <skillset id="MTMSS00001" title="Animal Welfare Officer Skill Set">
+    <units>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP414A" title="Oversee humane handling of animals"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00002" title="Bandsaw Operator (Meat Retail) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMPR201C" title="Prepare and operate a bandsaw"/>
+      <unit id="MTMR320B" title="Locate, identify and assess meat cuts"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00003" title="Bandsaw Operator (Small Stock) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP3059C" title="Break carcase using a bandsaw"/>
+      <unit id="MTMPR201C" title="Prepare and operate a bandsaw"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00004" title="Basic Bandsaw Operator Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMPR201C" title="Prepare and operate a bandsaw"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00005" title="Basic Meat Industry Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00006" title="Carcase Trimming (Contamination Trim) Skill Set">
+    <units>
+      <unit id="MTMP2051C" title="Trim neck"/>
+      <unit id="MTMP2054C" title="Inspect hindquarter and remove contamination"/>
+      <unit id="MTMP2055C" title="Inspect forequarter and remove contamination"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00007" title="Carcase Trimming (Retain Rail) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2054C" title="Inspect hindquarter and remove contamination"/>
+      <unit id="MTMP2055C" title="Inspect forequarter and remove contamination"/>
+      <unit id="MTMP3045B" title="Undertake retain rail"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00008" title="Carcase Trimming (Specifications Trim - Knife) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2052C" title="Trim forequarter to specification"/>
+      <unit id="MTMP2053C" title="Trim hindquarter to specification"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00009" title="Carcase Trimming (Specifications Trim - Whizzard Knife) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2032C" title="Operate whizzard knife"/>
+      <unit id="MTMP2052C" title="Trim forequarter to specification"/>
+      <unit id="MTMP2053C" title="Trim hindquarter to specification"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00010" title="Carcase Trimming (SRM Removal) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2057B" title="Remove spinal cord"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00011" title="Cheek Meat Recovery Skill Set">
+    <units>
+      <unit id="MTMP2095C" title="Remove cheek meat"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00012" title="Cooked and Processed Meats for Meat Retail Product Range Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00013" title="Despatch Carcase from the Slaughter Floor Skill Set">
+    <units>
+      <unit id="MTMP2061C" title="Grade carcase"/>
+      <unit id="MTMP2062C" title="Weigh carcase"/>
+      <unit id="MTMP2063C" title="Operate semi-automatic tagging machine"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00014" title="Effective Stunning (Captive Bolt) Skill Set">
+    <units>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2005B" title="Restrain animal"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP3001D" title="Stun animal"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00015" title="Effective Stunning (Electrical Stunning) Skill Set">
+    <units>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP3001D" title="Stun animal"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00016" title="Effective Stunning (Gas Stunning) Skill Set">
+    <units>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP3001D" title="Stun animal"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00017" title="Fellmongering Skill Set">
+    <units>
+      <unit id="MTMP2161C" title="Overview fellmongering operations"/>
+      <unit id="MTMP2162C" title="Chemically treat skins for fellmongering process"/>
+      <unit id="MTMP2163C" title="Prepare chemicals for fellmongering process"/>
+      <unit id="MTMP2165C" title="Perform sweating operation on fellmongered skin"/>
+      <unit id="MTMP2166C" title="Perform skin fleshing operation"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00018" title="Game Harvester Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMG300A" title="Overview wild game meat industry"/>
+      <unit id="MTMG301A" title="Operate a game harvesting vehicle"/>
+      <unit id="MTMG302A" title="Eviscerate, inspect and tag wild game carcase in the field"/>
+      <unit id="MTMG306A" title="Use firearms to harvest wild game"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00019" title="Game Industry Depot Management Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMG300A" title="Overview wild game meat industry"/>
+      <unit id="MTMG303A" title="Receive and inspect wild game carcases from the field"/>
+      <unit id="MTMG305A" title="Store wild game carcases"/>
+      <unit id="MTMP2132C" title="Loadout meat product"/>
+      <unit id="MTMPS204C" title="Maintain production records"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00020" title="Game Pre-dressing Inspection Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMG300A" title="Overview wild game meat industry"/>
+      <unit id="MTMG304A" title="Receive and inspect wild game carcases at a processing plant"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00021" title="Green Offal Processing (Clean Tripe Room) Skill Set">
+    <units>
+      <unit id="MTMP2118B" title="Overview offal processing"/>
+      <unit id="MTMP2123C" title="Further process tripe"/>
+      <unit id="MTMP2124C" title="Trim processed tripe"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00022" title="Green Offal Processing (Maws Processing) Skill Set">
+    <units>
+      <unit id="MTMP2118B" title="Overview offal processing"/>
+      <unit id="MTMP2127B" title="Process maws"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00023" title="Green Offal Processing (Paunch Opening and Trim - Beef) Skill Set">
+    <units>
+      <unit id="MTMP2118B" title="Overview offal processing"/>
+      <unit id="MTMP2121C" title="Prepare and trim honeycomb"/>
+      <unit id="MTMP2122C" title="Recover mountain chain"/>
+      <unit id="MTMP2175C" title="Process paunch"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00024" title="Green Offal Processing (Paunch Opening and Trim - Sheep &amp; Goats) Skill Set">
+    <units>
+      <unit id="MTMP2118B" title="Overview offal processing"/>
+      <unit id="MTMP2125C" title="Process small stock tripe"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00026" title="Green Offal Processing (Runner Room) Skill Set">
+    <units>
+      <unit id="MTMP2117B" title="Process runners"/>
+      <unit id="MTMP2118B" title="Overview offal processing"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00027" title="Head Chain Operator Skill Set">
+    <units>
+      <unit id="MTMP2092C" title="Drop tongue"/>
+      <unit id="MTMP2093C" title="Wash head"/>
+      <unit id="MTMP2095C" title="Remove cheek meat"/>
+      <unit id="MTMP3042C" title="Prepare head for inspection"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00028" title="Humane Slaughter of Animals Skill Set">
+    <units>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP3002C" title="Stick and bleed animal"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00029" title="Knife Sharpening Skill Set">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00030" title="Lairage Supervisor Skill Set">
+    <units>
+      <unit id="AHCBIO302A" title="Identify and report unusual disease or plant pest signs"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR401C" title="Manage own work performance"/>
+      <unit id="MTMCOR403A" title="Participate in OH&amp;S risk control process"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+      <unit id="MTMP2011C" title="Identify animals using electronic systems"/>
+      <unit id="MTMP3003A" title="Handle animals humanely while conducting ante-mortem inspection"/>
+      <unit id="MTMP3071C" title="Perform ante-mortem inspection and make disposition"/>
+      <unit id="MTMP407B" title="Supervise new recruits"/>
+      <unit id="MTMP414A" title="Oversee humane handling of animals"/>
+      <unit id="MTMPS204C" title="Maintain production records"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MTMSS00031" title="Loadout Carcase Product Skill Set">
+    <units>
+      <unit id="MTMP2131C" title="Prepare and despatch meat product orders"/>
+      <unit id="MTMP2132C" title="Loadout meat product"/>
+      <unit id="MTMP2133C" title="Store carcase product"/>
+      <unit id="MTMP2135C" title="Locate storage areas and product"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00032" title="Loadout Carton Product Skill Set">
+    <units>
+      <unit id="MTMP2131C" title="Prepare and despatch meat product orders"/>
+      <unit id="MTMP2132C" title="Loadout meat product"/>
+      <unit id="MTMP2134C" title="Store carton product"/>
+      <unit id="MTMP2135C" title="Locate storage areas and product"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00033" title="Meat Hygiene Assesment (Carcase) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMP3074B" title="Perform carcase Meat Hygiene Assessment"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00034" title="Meat Hygiene Assessment (Carton Meat) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMP3076B" title="Perform boning room Meat Hygiene Assessment"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00035" title="Meat Hygiene Assessment (Offal Room) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMP3077B" title="Perform offal Meat Hygiene Assessment"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00036" title="Meat Hygiene Assessment (Process Monitoring) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMP3075B" title="Perform process monitoring for Meat Hygiene Assessment"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00037" title="Meat Hygiene Assessment Officer Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMP402B" title="Implement a Meat Hygiene Assessment program"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00038" title="Meat Industry Microbiological Testing Skill Set">
+    <units>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL925001A" title="Analyse data and report results"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933004A" title="Perform calibration checks on equipment and assist with its maintenance"/>
+      <unit id="MSL934003A" title="Maintain and control stocks"/>
+      <unit id="MSL935002A" title="Assist in the maintenance of reference materials"/>
+      <unit id="MSL935003A" title="Authorise the issue of test results"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL974004A" title="Perform food tests"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL975001A" title="Perform microbiological tests"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MTMSS00039" title="Meat Packer (Boning Room) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2071C" title="Inspect meat for defects"/>
+      <unit id="MTMP2074C" title="Identify cuts and specifications"/>
+      <unit id="MTMP2075C" title="Pack meat products"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00040" title="Meat Packer (Offal Room) Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2071C" title="Inspect meat for defects"/>
+      <unit id="MTMP2074C" title="Identify cuts and specifications"/>
+      <unit id="MTMP2075C" title="Pack meat products"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00041" title="Meat Processing Cleaner (Amenities) Skill Set">
+    <units>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2193B" title="Clean amenities and grounds"/>
+      <unit id="MTMP2196C" title="Overview cleaning program"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00042" title="Meat Processing Cleaner (Boning Room) Skill Set">
+    <units>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2196C" title="Overview cleaning program"/>
+      <unit id="MTMP2197C" title="Clean after operations - boning room"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00043" title="Meat Processing Cleaner (Chiller) Skill Set">
+    <units>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2196C" title="Overview cleaning program"/>
+      <unit id="MTMPS205C" title="Clean chillers"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00044" title="Meat Processing Cleaner (Slaughter Floor) Skill Set">
+    <units>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2196C" title="Overview cleaning program"/>
+      <unit id="MTMP2198C" title=" Clean after operations - slaughter floor"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00045" title="Meat Processing Core Skill Set">
+    <units>
+      <unit id="MTMCOR201A" title="Maintain personal equipment"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR203B" title="Comply with Quality Assurance and HACCP requirements"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR205A" title="Communicate in the workplace"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00046" title="Meat Processing Environmental Officer Skill Set">
+    <units>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMCOR206A" title="Overview the meat industry"/>
+      <unit id="MTMPSR202B" title="Apply environmentally sustainable work practices"/>
+      <unit id="NWP262A" title="Monitor and report wastewater treatment processes"/>
+      <unit id="NWP263A" title="Operate and maintain wastewater treatment plant and equipment"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00047" title="Meat Processing Livestock Handler Skill Set">
+    <units>
+      <unit id="AHCBIO302A" title="Identify and report unusual disease or plant pest signs"/>
+      <unit id="AHCLSK204A" title="Carry out regular livestock observation"/>
+      <unit id="AHCLSK205A" title="Handle livestock using basic techniques"/>
+      <unit id="MTMCOR204A" title="Follow safe work policies and procedures"/>
+      <unit id="MTMP2002C" title="Prepare animals for slaughter"/>
+      <unit id="MTMP2010A" title="Apply animal welfare and handling requirements"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00048" title="Pack Meat Products Skill Set">
+    <units>
+      <unit id="MTMP2071C" title="Inspect meat for defects"/>
+      <unit id="MTMP2074C" title="Identify cuts and specifications"/>
+      <unit id="MTMP2075C" title="Pack meat products"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00049" title="Prepare Head for Inspection Skill Set">
+    <units>
+      <unit id="MTMP3042C" title="Prepare head for inspection"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00050" title="Process Animal Covering Skill Set">
+    <units>
+      <unit id="MTMP2151C" title="Overview hide, pelt, skin processing"/>
+      <unit id="MTMP2152C" title="Trim hide or skin"/>
+      <unit id="MTMP2154C" title="Grade hide or skin"/>
+      <unit id="MTMP2155C" title="Despatch hide or skin"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00051" title="Produce Cooked Fermented Meat Products Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS301B" title="Cook, steam and cool product"/>
+      <unit id="MTMS314A" title="Ferment and mature product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="MTMSR303A" title="Smoke product"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="MTMSS00052" title="Produce Cooked Meat Products Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS301B" title="Cook, steam and cool product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00053" title="Produce Dried Meat Products Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS302B" title="Prepare dried meat"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00054" title="Produce Smoked Meat Products Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+      <unit id="MTMSR303A" title="Smoke product"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00055" title="Produce UCFM Products Skill Set">
+    <units>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPSR413A" title="Participate in ongoing development and implementation of a HACCP and Quality Assurance system"/>
+      <unit id="MTMR322A" title="Collect and prepare standard samples"/>
+      <unit id="MTMS213B" title="Slice product using simple machinery"/>
+      <unit id="MTMS314A" title="Ferment and mature product"/>
+      <unit id="MTMSR215A" title="Package meat and smallgoods for retail sale"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00056" title="Tongue Meat Recovery Skill Set">
+    <units>
+      <unit id="MTMP2092C" title="Drop tongue"/>
+      <unit id="MTMPSR203A" title="Sharpen knives"/>
+    </units>
+  </skillset>
+  <skillset id="MTMSS00057" title="Transport Livestock Skill Set">
+    <units>
+      <unit id="AHCLSK205A" title="Handle livestock using basic techniques"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="TLID3020A" title="Care for livestock in transit"/>
+    </units>
+  </skillset>
+</skillsets>

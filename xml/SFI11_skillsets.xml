@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<skillsets class="SFI11">
+  <skillset id="SFISS00012" title="Abalone Diver Environmental Management Skill Set">
+    <units>
+      <unit id="SFIDIVE302B" title="Perform diving operations using surface-supplied breathing apparatus"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00011" title="Deckhand Induction Skill Set">
+    <units>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIFISH214B" title="Contribute to at-sea processing of seafood"/>
+      <unit id="SFIFISH215B" title="Apply deckhand skills aboard a fishing vessel"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00001" title="Environment Management Systems Coordinator Skill Set">
+    <units>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00002" title="Extended Fishing Charter Operator Skill Set">
+    <units>
+      <unit id="SFIFCHA301C" title="Develop information and advice on fishing charter trips"/>
+      <unit id="SFIFCHA302C" title="Operate an inshore day charter"/>
+      <unit id="SFIFCHA501C" title="Plan and manage extended fishing charter trips"/>
+      <unit id="SFIFISH206C" title="Maintain, prepare, deploy and retrieve hand operated lines to land catch"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00010" title="Fish Processor Induction Skill Set">
+    <units>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00003" title="Fisheries Resource Management Observer Skill Set">
+    <units>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+      <unit id="SFIOBSV303B" title="Collect routine fishery management data"/>
+      <unit id="SFIOBSV304B" title="Analyse and report onboard observations"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00004" title="Fishing Operator Skill Set">
+    <units>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+      <unit id="SFIFISH402C" title="Manage and control fishing operations"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00005" title="Industry Leadership - Resource Management Group Membership Skill Set">
+    <units>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00006" title="Industry Leadership - Sector Representation Skill Set">
+    <units>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00007" title="Industry Leadership - Strategic Development Skill Set">
+    <units>
+      <unit id="SFILEAD501C" title="Develop and promote industry knowledge"/>
+      <unit id="SFILEAD502C" title="Shape strategic thinking"/>
+      <unit id="SFILEAD503C" title="Cultivate productive working relationships"/>
+      <unit id="SFILEAD504C" title="Plan and achieve change and results"/>
+      <unit id="SFILEAD505C" title="Communicate with influence"/>
+      <unit id="SFILEAD506C" title="Demonstrate personal drive and integrity"/>
+      <unit id="SFILEAD507C" title="Provide corporate leadership"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00008" title="Limited Fishing Charter Operator Skill Set">
+    <units>
+      <unit id="SFIFCHA301C" title="Develop information and advice on fishing charter trips"/>
+      <unit id="SFIFCHA302C" title="Operate an inshore day charter"/>
+      <unit id="SFIFISH206C" title="Maintain, prepare, deploy and retrieve hand operated lines to land catch"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+    </units>
+  </skillset>
+  <skillset id="SFISS00009" title="Net Construction and Repair Skill Set">
+    <units>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIFISH210C" title="Assemble and repair damaged netting"/>
+      <unit id="SFIFISH309B" title="Construct nets and customise design"/>
+    </units>
+  </skillset>
+</skillsets>

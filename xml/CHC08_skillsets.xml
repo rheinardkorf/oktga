@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<skillsets class="CHC08">
+  <skillset id="CHCSS00001" title="Alcohol and other drugs skill set">
+    <units>
+      <unit id="CHCAOD402B" title="Work effectively in the alcohol and other drugs sector"/>
+      <unit id="CHCAOD406E" title="Work with clients who are intoxicated"/>
+      <unit id="CHCAOD408B" title="Assess needs of clients with alcohol and-or other drugs issues"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00002" title="Assessment, Carer Support and Respite Coordination skill set">
+    <units>
+      <unit id="CHCRCP401A" title="Use telephone communication skills to assess caller's needs"/>
+      <unit id="CHCRCP402A" title="Conduct assessment of carer's needs"/>
+      <unit id="CHCRCP403A" title="Support carers to access information and services"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00003" title="Basic foot care skill set - community services focus">
+    <units>
+      <unit id="CHCICS301B" title="Provide support to meet personal care needs"/>
+      <unit id="CHCICS306B" title="Provide basic foot skin and nail care"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00004" title="Basic foot care skill set - health focus">
+    <units>
+      <unit id="CHCICS301B" title="Provide support to meet personal care needs"/>
+      <unit id="CHCICS306B" title="Provide basic foot skin and nail care"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00005" title="Career development practice skill set">
+    <units>
+      <unit id="CHCCAR501C" title="Conduct career guidance interview"/>
+      <unit id="CHCCDP401B" title="Deliver service consistent with a career development framework"/>
+      <unit id="CHCCDP402B" title="Assist clients to plan and access career pathways"/>
+      <unit id="CHCCDP403B" title="Analyse and apply education and training information"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCES411A" title="Collect, analyse and apply labour market information"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00006" title="Case management skill set">
+    <units>
+      <unit id="CHCCM503C" title="Develop, facilitate and monitor all aspects of case management"/>
+      <unit id="CHCCM504D" title="Promote high quality case management"/>
+      <unit id="CHCNET404B" title="Facilitate links with other services"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCORG506E" title="Coordinate the work environment"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00007" title="Chronic disease self management skill set">
+    <units>
+      <unit id="CHCICS406B" title="Support client self-management"/>
+      <unit id="CHCICS407B" title="Support positive lifestyle"/>
+      <unit id="CHCICS408B" title="Provide support to people with chronic disease"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00008" title="Community sector team leadership skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCORG406C" title="Supervise work"/>
+      <unit id="CHCORG423C" title="Maintain quality service delivery"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00009" title="Dementia support skill set - planning and coordination">
+    <units>
+      <unit id="CHCAC416A" title="Facilitate support responsive to the specific nature of dementia"/>
+      <unit id="CHCCS401C" title="Facilitate responsible behaviour"/>
+      <unit id="CHCICS404B" title="Plan and provide advanced behaviour support"/>
+      <unit id="HLTCSD306D" title="Respond effectively to behaviours of concern"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00010" title="Dementia support skill set - service delivery">
+    <units>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="CHCCS401C" title="Facilitate responsible behaviour"/>
+      <unit id="CHCICS404B" title="Plan and provide advanced behaviour support"/>
+      <unit id="HLTCSD306D" title="Respond effectively to behaviours of concern"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00011" title="Development and Humanitarian Assistance skill set - development assistance">
+    <units>
+      <unit id="CHCDHA401B" title="Work effectively in the development and-or humanitarian assistance sector"/>
+      <unit id="CHCDHA402B" title="Maintain well being in a field environment"/>
+      <unit id="CHCDHA404A" title="Develop and maintain positive relationships with key stakeholders"/>
+      <unit id="CHCDHA405B" title="Apply knowledge of development program work"/>
+      <unit id="CHCDHA410B" title="Adapt and apply technical knowledge in a development context"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00012" title="Development and Humanitarian Assistance skill set - humanitarian assistance">
+    <units>
+      <unit id="CHCDHA401B" title="Work effectively in the development and-or humanitarian assistance sector"/>
+      <unit id="CHCDHA402B" title="Maintain well being in a field environment"/>
+      <unit id="CHCDHA403B" title="Apply knowledge of humanitarian assistance project work"/>
+      <unit id="CHCDHA404A" title="Develop and maintain positive relationships with key stakeholders"/>
+      <unit id="CHCDHA410B" title="Adapt and apply technical knowledge in a development context"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00013" title="Disability work skill set - active support of clients with a disability">
+    <units>
+      <unit id="CHCDIS220B" title="Prepare for disability work"/>
+      <unit id="CHCDIS302A" title="Maintain an environment to empower people with disabilities"/>
+      <unit id="CHCDIS410A" title="Facilitate community participation and inclusion"/>
+      <unit id="CHCDIS509E" title="Maximise participation in work by people with disabilities"/>
+      <unit id="CHCICS406B" title="Support client self-management"/>
+      <unit id="CHCICS407B" title="Support positive lifestyle"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00014" title="Disability work skill set - behaviour support">
+    <units>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCDIS409B" title="Provide services to people with disabilities with complex needs"/>
+      <unit id="CHCDIS411A" title="Communicate using augmentative and alternative communication strategies"/>
+      <unit id="CHCICS404B" title="Plan and provide advanced behaviour support"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00015" title="Disability work skill set - disability advocacy">
+    <units>
+      <unit id="CHCAD401D" title="Advocate for clients"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS411C" title="Work effectively in the community sector"/>
+      <unit id="CHCDIS411A" title="Communicate using augmentative and alternative communication strategies"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00016" title="Disability work skill set - disability support in employment">
+    <units>
+      <unit id="CHCDIS408D" title="Support people with disabilities as workers"/>
+      <unit id="CHCDIS409B" title="Provide services to people with disabilities with complex needs"/>
+      <unit id="CHCDIS509E" title="Maximise participation in work by people with disabilities"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00017" title="Disability work skill set - people with a disability who are older">
+    <units>
+      <unit id="CHCAC412B" title="Provide services to older people with complex needs"/>
+      <unit id="CHCAC416A" title="Facilitate support responsive to the specific nature of dementia"/>
+      <unit id="CHCAC417A" title="Implement interventions with older people at risk of falls"/>
+      <unit id="CHCCS426B" title="Provide support and care relating to loss and grief"/>
+      <unit id="CHCDIS313A" title="Support people with disabilities who are ageing"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00018" title="Education support work skill set">
+    <units>
+      <unit id="CHCEDS301B" title="Comply with legislative, policy and industrial requirements in the education environment"/>
+      <unit id="CHCEDS312A" title="Work with diversity in the education environment"/>
+      <unit id="CHCEDS410A" title="Assist in facilitation of student learning"/>
+      <unit id="CHCEDS415A" title="Supervise students outside the classroom"/>
+      <unit id="CHCFC515A" title="Foster cognitive development in middle childhood"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00019" title="Employment services skill set - service coordination">
+    <units>
+      <unit id="CHCES311B" title="Work effectively in employment services"/>
+      <unit id="CHCES411A" title="Collect, analyse and apply labour market information"/>
+      <unit id="CHCES415A" title="Monitor and improve contracted employment services"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00020" title="Employment services skill set - service delivery">
+    <units>
+      <unit id="CHCES303C" title="Use labour market information"/>
+      <unit id="CHCES311B" title="Work effectively in employment services"/>
+      <unit id="CHCES312A" title="Deliver contracted employment services"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00021" title="Family support services work (Qld) skill set - coordination">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS404B" title="Facilitate family intervention strategies"/>
+      <unit id="CHCCS414A" title="Provide education and support on parenting, health and well being"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00022" title="Family support services work (Qld) skill set - provide support">
+    <units>
+      <unit id="CHCCHILD403B" title="Promote the safety, well being and welfare of children, young people and their families"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCRF402B" title="Provide intervention support to children and families"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00023" title="Financial literacy education skill set">
+    <units>
+      <unit id="CHCFLE301A" title="Work with clients needing financial literacy education"/>
+      <unit id="CHCFLE302A" title="Educate clients in fundamental financial literacy skills"/>
+      <unit id="CHCFLE303A" title="Educate clients to understand debt and consumer credit"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00024" title="Foster care skill set">
+    <units>
+      <unit id="CHCFC301A" title="Support the development of children"/>
+      <unit id="CHCFOS401A" title="Provide foster care as part of a team"/>
+      <unit id="CHCFOS402A" title="Promote positive development of children and young people in out of home care"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00025" title="Governance skill set">
+    <units>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="CHCADMIN604B" title="Manage the finances, accounts and resources of an organisation"/>
+      <unit id="CHCMGT601B" title="Contribute to effective governance in the community sector"/>
+      <unit id="CHCORG605B" title="Manage human resources in a community sector organisation"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00026" title="High support and complex care skill set - aged care">
+    <units>
+      <unit id="CHCAC412B" title="Provide services to older people with complex needs"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS424B" title="Administer and monitor medications"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00027" title="High support and complex care skill set - disability work">
+    <units>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS424B" title="Administer and monitor medications"/>
+      <unit id="CHCDIS409B" title="Provide services to people with disabilities with complex needs"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00028" title="Homelessness support work skill set">
+    <units>
+      <unit id="CHCCH301C" title="Work effectively in social housing"/>
+      <unit id="CHCCH427B" title="Work effectively with people experiencing or at risk of homelessness"/>
+      <unit id="CHCCS504B" title="Provide services to clients with complex needs"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00029" title="Leisure and recreation skill set - planning and delivery">
+    <units>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCRH401C" title="Work effectively in the leisure and health industry"/>
+      <unit id="CHCRH402B" title="Undertake leisure and health programming"/>
+      <unit id="CHCWHS312A" title="Follow WHS safety procedures for direct care work"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00030" title="Leisure and recreation skill set - program support">
+    <units>
+      <unit id="CHCGROUP302D" title="Support group activities"/>
+      <unit id="CHCRH401C" title="Work effectively in the leisure and health industry"/>
+      <unit id="CHCRH402B" title="Undertake leisure and health programming"/>
+      <unit id="HLTWHS200A" title="Participate in WHS processes"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00031" title="Literacy and numeracy tutor skill set">
+    <units>
+      <unit id="CHCCS427B" title="Facilitate adult learning and development"/>
+      <unit id="CHCLLN401A" title="Support adult language and literacy learning and development"/>
+      <unit id="CHCLLN402A" title="Support adult numeracy learning and development"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00032" title="Literacy tutor skill set">
+    <units>
+      <unit id="CHCCS427B" title="Facilitate adult learning and development"/>
+      <unit id="CHCLLN401A" title="Support adult language and literacy learning and development"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00034" title="Mediation skill set">
+    <units>
+      <unit id="CHCMED411B" title="Conduct a sound assessment of a dispute in preparation for mediation"/>
+      <unit id="CHCMED412B" title="Gather and clarify information for the mediation process"/>
+      <unit id="CHCMED413B" title="Manage communication processes to define the dispute"/>
+      <unit id="CHCMED414A" title="Facilitate mediation processes"/>
+      <unit id="CHCMED415A" title="Facilitate interaction between parties in mediation"/>
+      <unit id="CHCMED416C" title="Consolidate and conclude the mediation process"/>
+      <unit id="CHCMED417B" title="Reflect and improve upon professional mediation practice"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00035" title="Medication assistance skill set">
+    <units>
+      <unit id="CHCCS305C" title="Assist clients with medication"/>
+      <unit id="HLTAP301B" title="Recognise healthy body systems in a health care context"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00037" title="Mental health skill set - including recognise individuals at risk">
+    <units>
+      <unit id="CHCCS514B" title="Recognise and respond to individuals at risk"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+      <unit id="CHCMH402B" title="Apply understanding of mental health issues and recovery processes"/>
+      <unit id="CHCMH403A" title="Establish and maintain communication and relationships to support the recovery process"/>
+      <unit id="CHCMH404B" title="Conduct assessment and planning as part of the recovery process"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00038" title="Mental health skill set - including respond to risk of suicide">
+    <units>
+      <unit id="CHCCS521B" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+      <unit id="CHCMH402B" title="Apply understanding of mental health issues and recovery processes"/>
+      <unit id="CHCMH403A" title="Establish and maintain communication and relationships to support the recovery process"/>
+      <unit id="CHCMH404B" title="Conduct assessment and planning as part of the recovery process"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00039" title="Middle childhood development skill set">
+    <units>
+      <unit id="CHCFC512A" title="Foster physical development in middle childhood"/>
+      <unit id="CHCFC513A" title="Foster social development in middle childhood"/>
+      <unit id="CHCFC514A" title="Support emotional and psychological development in middle childhood"/>
+      <unit id="CHCFC515A" title="Foster cognitive development in middle childhood"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00040" title="Numeracy tutor skill set">
+    <units>
+      <unit id="CHCCS427B" title="Facilitate adult learning and development"/>
+      <unit id="CHCLLN402A" title="Support adult numeracy learning and development"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00041" title="Oral health care skill set">
+    <units>
+      <unit id="CHCOHC406B" title="Provide or assist with oral hygiene"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00042" title="Oral health care skill set - personal client support (community services)">
+    <units>
+      <unit id="CHCICS301B" title="Provide support to meet personal care needs"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406B" title="Provide or assist with oral hygiene"/>
+      <unit id="CHCWHS312A" title="Follow WHS safety procedures for direct care work"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00043" title="Oral health care skill set - to work with Aboriginal and_or Torres Strait Islander people">
+    <units>
+      <unit id="CHCOHC303B" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC404A" title="Recognise and respond to signs and symptoms that may indicate oral health issues"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00044" title="Oral health care skill set - to work with aged care clients">
+    <units>
+      <unit id="CHCAC318B" title="Work effectively with older people"/>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="CHCOHC303B" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406B" title="Provide or assist with oral hygiene"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00045" title="Oral health care skill set - to work with children's services">
+    <units>
+      <unit id="CHCIC301E" title="Interact effectively with children"/>
+      <unit id="CHCOHC303B" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00046" title="Oral health care skill set - to work with people with disability">
+    <units>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCOHC303B" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC406B" title="Provide or assist with oral hygiene"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00047" title="Oral health information skill set">
+    <units>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCOHC401A" title="Inform and encourage clients and groups to understand and achieve good oral health"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00048" title="Orientation skill set for managers new to the community sector">
+    <units>
+      <unit id="CHCCD516B" title="Work within organisation and government structures to enable community development outcomes"/>
+      <unit id="CHCCS502C" title="Maintain legal and ethical work practices"/>
+      <unit id="CHCCS513C" title="Maintain an effective community sector work environment"/>
+      <unit id="CHCORG423C" title="Maintain quality service delivery"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00049" title="Palliative approach skill set - plan and provide care">
+    <units>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCCS426B" title="Provide support and care relating to loss and grief"/>
+      <unit id="CHCPA402B" title="Plan for and provide care services using a palliative approach"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00050" title="Palliative approach skill set - provide support">
+    <units>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCCS426B" title="Provide support and care relating to loss and grief"/>
+      <unit id="CHCPA301B" title="Deliver care services using a palliative approach"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00051" title="Pastoral care skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS411C" title="Work effectively in the community sector"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCPAS401B" title="Undertake pastoral care work"/>
+      <unit id="CHCVOL201B" title="Be an effective volunteer"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00052" title="Problem gambling skill set">
+    <units>
+      <unit id="CHCGMB501A" title="Work effectively in the problem gambling sector"/>
+      <unit id="CHCGMB502A" title="Assess the needs of clients with problem gambling issues"/>
+      <unit id="CHCGMB503A" title="Provide counselling for clients with problem gambling issues"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00053" title="Quality systems skill set for aged and community care sector">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCINF403E" title="Coordinate information systems"/>
+      <unit id="CHCINF408C" title="Comply with information requirements of the aged care and community care sectors"/>
+      <unit id="CHCORG423C" title="Maintain quality service delivery"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00054" title="Social housing work skill set">
+    <units>
+      <unit id="CHCCH301C" title="Work effectively in social housing"/>
+      <unit id="CHCCH410B" title="Manage and maintain tenancy agreements and services"/>
+      <unit id="CHCCS504B" title="Provide services to clients with complex needs"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00055" title="Suicide bereavement support skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS417B" title="Provide support and care relating to suicide bereavement"/>
+      <unit id="CHCCS426B" title="Provide support and care relating to loss and grief"/>
+      <unit id="CHCCS521B" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CHCICS405B" title="Facilitate groups for individual outcomes"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00056" title="Workforce Planning Skill Set">
+    <units>
+      <unit id="BSBHRM504A" title="Manage workforce planning"/>
+      <unit id="CHCCDP403B" title="Analyse and apply education and training information"/>
+    </units>
+  </skillset>
+  <skillset id="CHCSS00057" title="Working with families skill set">
+    <units>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCYTH511B" title="Work effectively with young people and their families"/>
+    </units>
+  </skillset>
+</skillsets>

@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<qualifications class="PMC10">
+  <qualification id="PMC20110" title="Certificate II in Manufactured Mineral Products">
+    <units>
+      <unit id="MNMC205A" title="Conduct local risk assessment"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSACMT281A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS100A" title="Use equipment"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS200A" title="Operate equipment"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMPER200B" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER201A" title="Monitor and control work permits"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205B" title="Enter confined space"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP201A" title="Receive or despatch goods"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP230A" title="Monitor process operations"/>
+      <unit id="MSAPMSUP240A" title="Undertake minor maintenance"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP292A" title="Sample and test materials and product"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="PMAOPS101C" title="Read dials and indicators"/>
+      <unit id="PMAOPS105C" title="Select and prepare materials"/>
+      <unit id="PMAOPS216B" title="Operate local control system"/>
+      <unit id="PMBHAN103C" title="Shift materials safely by hand"/>
+      <unit id="PMC552002C" title="Operate equipment to blend_mix materials"/>
+      <unit id="PMC552003C" title="Operate grinding equipment"/>
+      <unit id="PMC552004C" title="Prepare for production"/>
+      <unit id="PMC552005C" title="Process greenware_green products"/>
+      <unit id="PMC552006C" title="Operate an autoclave"/>
+      <unit id="PMC552007B" title="Heat accelerate the curing of precast concrete"/>
+      <unit id="PMC552008B" title="Operate crushing equipment"/>
+      <unit id="PMC552010C" title="Operate a calcining kiln"/>
+      <unit id="PMC552020C" title="Operate slip casting equipment"/>
+      <unit id="PMC552021C" title="Operate manual glazing equipment"/>
+      <unit id="PMC552022C" title="Prepare materials for clay and ceramic production"/>
+      <unit id="PMC552023C" title="Finish products after firing"/>
+      <unit id="PMC552024C" title="Hand mould products"/>
+      <unit id="PMC552030C" title="Operate a firing kiln"/>
+      <unit id="PMC552031C" title="Operate extrusion equipment"/>
+      <unit id="PMC552032C" title="Operate pressing equipment"/>
+      <unit id="PMC552040C" title="Operate glass melting process"/>
+      <unit id="PMC552041C" title="Operate process ovens"/>
+      <unit id="PMC552042C" title="Operate blown insulation equipment"/>
+      <unit id="PMC552043C" title="Operate float forming equipment"/>
+      <unit id="PMC552044C" title="Operate fibre forming equipment"/>
+      <unit id="PMC552045C" title="Operate container forming equipment"/>
+      <unit id="PMC552046C" title="Operate glass printing equipment"/>
+      <unit id="PMC552047C" title="Operate primary annealing equipment"/>
+      <unit id="PMC552048C" title="Operate glass finishing equipment"/>
+      <unit id="PMC552049C" title="Operate on-line stacking and assembly equipment"/>
+      <unit id="PMC552050C" title="Schedule, cut and bend reinforcement"/>
+      <unit id="PMC552051C" title="Finish green concrete products"/>
+      <unit id="PMC552052C" title="Cast moulded concrete products"/>
+      <unit id="PMC552053C" title="Finish cured concrete products"/>
+      <unit id="PMC552054C" title="Spin concrete pipes"/>
+      <unit id="PMC552055C" title="Conduct benching operations"/>
+      <unit id="PMC552056B" title="Assemble, fabricate and place reinforcement"/>
+      <unit id="PMC552057B" title="Finish casting operation"/>
+      <unit id="PMC552058B" title="Demould concrete products"/>
+      <unit id="PMC552060C" title="Batch mix concrete"/>
+      <unit id="PMC552061C" title="Deliver concrete to site"/>
+      <unit id="PMC552065B" title="Prepare asphalt"/>
+      <unit id="PMC552070B" title="Operate forming equipment"/>
+      <unit id="PMC552071B" title="Operate wet and dry end equipment"/>
+      <unit id="PMC552072B" title="Produce fibrous plasterboard"/>
+      <unit id="PMC552090B" title="Use and maintain tools and equipment for refractory operations"/>
+      <unit id="PMC552091B" title="Prepare for, install and repair refractory brickwork_blockwork"/>
+      <unit id="PMC552092B" title="Prepare for and install mouldable refractory materials"/>
+      <unit id="PMC552093B" title="Prepare for and cast refractory materials"/>
+      <unit id="PMC552094B" title="Prepare for and apply shotcrete for installation"/>
+      <unit id="PMC552095B" title="Prepare for, install and repair ceramic fibre"/>
+      <unit id="PMC561072C" title="Store materials for production"/>
+      <unit id="PMC561080B" title="Organise self"/>
+      <unit id="PMC562070B" title="Move materials"/>
+      <unit id="PMC562071C" title="Operate bulk materials handling equipment"/>
+      <unit id="PMC562075B" title="Maintain kiln refractory"/>
+      <unit id="PMC562081B" title="Deliver customer service"/>
+      <unit id="PMC562083C" title="Allocate and complete team tasks"/>
+      <unit id="TLIC307C" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC407D" title="Drive heavy rigid vehicle"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC30110" title="Certificate III in Manufactured Mineral Products">
+    <units>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MNMC205A" title="Conduct local risk assessment"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+    </units>
+  </qualification>
+  <qualification id="PMC40110" title="Certificate IV in Manufactured Mineral Products">
+    <units>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MNMC205A" title="Conduct local risk assessment"/>
+      <unit id="MSACMC411A" title="Lead a competitive manufacturing team"/>
+      <unit id="MSACMC413A" title="Lead team culture improvement"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+    </units>
+  </qualification>
+  <qualification id="PMC50110" title="Diploma of Manufactured Mineral Products">
+    <units>
+      <unit id="LMTGN5004A" title="Manage installation and commissioning of equipment and systems"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MSACMC610A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSACMC611A" title="Manage people relationships"/>
+      <unit id="MSACMC612A" title="Manage workplace learning"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT481A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSACMT482A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSACMT640A" title="Manage 5S system in a manufacturing environment"/>
+      <unit id="MSACMT641A" title="Implement a continuous improvement system"/>
+      <unit id="MSACMT650A" title="Determine and improve process capability"/>
+      <unit id="MSACMT660A" title="Develop the application of enterprise systems in manufacturing"/>
+      <unit id="MSACMT661A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSACMT670A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSACMT681A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="PMAOPS500A" title="Optimise production systems"/>
+      <unit id="PMAOPS501A" title="Provide operational expertise to a project team"/>
+      <unit id="PMAOPS505A" title="Control the process during abnormal situations"/>
+      <unit id="PMAOPS511B" title="Determine energy transfer loads"/>
+      <unit id="PMAOPS512B" title="Determine mass transfer loads"/>
+      <unit id="PMAOPS520C" title="Manage utilities"/>
+      <unit id="PMAOPS521C" title="Plan plant shutdown"/>
+      <unit id="PMAOPS522A" title="Coordinate plant shut down"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMBTECH502B" title="Review and analyse production trials and specify retrials"/>
+      <unit id="PMC555030C" title="Analyse equipment performance"/>
+      <unit id="PMC555031B" title="Choose materials for an application"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC60110" title="Advanced Diploma of Manufactured Mineral Products">
+    <units>
+      <unit id="LMTGN5004A" title="Manage installation and commissioning of equipment and systems"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MSACMC610A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSACMC611A" title="Manage people relationships"/>
+      <unit id="MSACMC612A" title="Manage workplace learning"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT481A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSACMT482A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSACMT640A" title="Manage 5S system in a manufacturing environment"/>
+      <unit id="MSACMT641A" title="Implement a continuous improvement system"/>
+      <unit id="MSACMT650A" title="Determine and improve process capability"/>
+      <unit id="MSACMT660A" title="Develop the application of enterprise systems in manufacturing"/>
+      <unit id="MSACMT661A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSACMT670A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSACMT675A" title="Facilitate the development of a new product"/>
+      <unit id="MSACMT681A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSAENV272A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV672A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="PMAOPS500A" title="Optimise production systems"/>
+      <unit id="PMAOPS501A" title="Provide operational expertise to a project team"/>
+      <unit id="PMAOPS505A" title="Control the process during abnormal situations"/>
+      <unit id="PMAOPS511B" title="Determine energy transfer loads"/>
+      <unit id="PMAOPS512B" title="Determine mass transfer loads"/>
+      <unit id="PMAOPS520C" title="Manage utilities"/>
+      <unit id="PMAOPS521C" title="Plan plant shutdown"/>
+      <unit id="PMAOPS522A" title="Coordinate plant shut down"/>
+      <unit id="PMAOPS600C" title="Modify plant"/>
+      <unit id="PMAOPS601A" title="Debottleneck plant"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMBTECH502B" title="Review and analyse production trials and specify retrials"/>
+      <unit id="PMC555030C" title="Analyse equipment performance"/>
+      <unit id="PMC555031B" title="Choose materials for an application"/>
+      <unit id="PMC556031C" title="Design structural_mechanical components"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC70110" title="Vocational Graduate Certificate in Refractories Engineering">
+    <units>
+      <unit id="MSACMG700A" title="Review continuous improvement processes"/>
+      <unit id="MSACMG702A" title="Review manufacturing practice tools and techniques"/>
+      <unit id="MSACMG707A" title="Respond to a major non-conformance"/>
+      <unit id="MSACMG712A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="MSAENV672A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSL916005A" title="Manage complex projects"/>
+      <unit id="PMC557001A" title="Manage trials"/>
+      <unit id="PMC557090A" title="Select refractory materials for an application"/>
+      <unit id="PMC557091A" title="Design a refractory lining"/>
+      <unit id="PMC557092A" title="Specify and interpret refractory tests"/>
+      <unit id="PMC557093A" title="Design a refractory_ceramic component"/>
+      <unit id="PMC557094A" title="Investigate refractory failures"/>
+      <unit id="PMC557095A" title="Specify and monitor the installation of monolithic/castable refractories"/>
+      <unit id="PMC557096A" title="Specify and monitor the installation of block_precast refractories"/>
+      <unit id="PMC557097A" title="Specify and monitor repairs to refractory installations"/>
+      <unit id="PMC557098A" title="Specify refractory installation systems"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

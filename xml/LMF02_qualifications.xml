@@ -1,0 +1,1698 @@
+<?xml version="1.0"?>
+<qualifications class="LMF02">
+  <qualification id="LMF10108" title="Certificate I in Furnishing">
+    <units>
+      <unit id="BSBDES201A" title="Follow a design process"/>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFBA1001A" title="Construct a basic roll up blind"/>
+      <unit id="LMFBA2001A" title="Use blinds and awnings sector hand and power tools"/>
+      <unit id="LMFBA2002A" title="Set up, operate and maintain blinds and awnings sector static machines"/>
+      <unit id="LMFBA2004A" title="Select and apply blinds and awnings hardware and fixings"/>
+      <unit id="LMFBA2005A" title="Construct roll up and pull down style blinds and awnings"/>
+      <unit id="LMFBA2006A" title="Construct vertical style blinds"/>
+    </units>
+  </qualification>
+  <qualification id="LMF21108" title="Certificate II in Security Screens and Grills">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFGG2001C" title="Use glass and glazing sector hand and power tools"/>
+      <unit id="LMFGG2008C" title="Glaze reglaze residential windows and doors"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFSS2001A" title="Use security screens and grills hand and power tools"/>
+      <unit id="LMFSS2002A" title="Rectify faults in product"/>
+      <unit id="LMFSS2003A" title="Prepare product for Australian Standards testing"/>
+      <unit id="LMFSS2004A" title="Undertake surface preparation"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF20802" title="Certificate II in Upholstery">
+    <units>
+      <unit id="LMFUP2001B" title="Use upholstery sector hand and power tools"/>
+      <unit id="LMFUP2002B" title="Fit upholstery components"/>
+      <unit id="LMFUP2003B" title="Apply contemporary foundations to upholstered furniture"/>
+      <unit id="LMFUP2004B" title="Machine sew upholstery final cover materials (basic)"/>
+      <unit id="LMFUP2005B" title="Develop cutting plan and cut single layer upholstery fabric"/>
+      <unit id="LMFUP2006B" title="Dismantle_reassemble furniture for upholstering"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+  </qualification>
+  <qualification id="LMF20309" title="Certificate II in Furniture Making">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFF2006B" title="Apply surface coatings by spray gun"/>
+      <unit id="LMFFM2001B" title="Use furniture making sector hand and power tools"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2004B" title="Apply sheet laminates by hand"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2007B" title="Follow plans to assemble production furniture"/>
+      <unit id="LMFFM2008B" title="Bend and form cane"/>
+      <unit id="LMFFM2009B" title="Construct cane furniture"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2011B" title="Apply manufactured board conversion techniques"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFKB2001A" title="Prepare for cabinet installation"/>
+      <unit id="LMFKB2002A" title="Provide assistance in cabinet installation"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT220A" title="Apply quick changeover procedures"/>
+      <unit id="MSACMT221A" title="Apply Just in Time (JIT) procedures"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT261A" title="Use SCADA systems in manufacturing"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSACMT281A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP201A" title="Receive or despatch goods"/>
+      <unit id="MSAPMSUP240A" title="Undertake minor maintenance"/>
+      <unit id="MSAPMSUP273A" title="Handle goods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF21008" title="Certificate II in Blinds and Awnings">
+    <units>
+      <unit id="AHCLSC308A" title="Install metal structures and features"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="LMFBA2001A" title="Use blinds and awnings sector hand and power tools"/>
+      <unit id="LMFBA2002A" title="Set up, operate and maintain blinds and awnings sector static machines"/>
+      <unit id="LMFBA2004A" title="Select and apply blinds and awnings hardware and fixings"/>
+      <unit id="LMFBA2005A" title="Construct roll up and pull down style blinds and awnings"/>
+      <unit id="LMFBA2006A" title="Construct vertical style blinds"/>
+      <unit id="LMFBA2007A" title="Construct textiles for canopy style awnings"/>
+      <unit id="LMFBA2008A" title="Construct plastic and timber Venetian-style blinds"/>
+      <unit id="LMFBA2009A" title="Construct aluminium Venetian-style blinds"/>
+      <unit id="LMFBA2010A" title="Construct metal louvre and canopy hooded style awnings"/>
+      <unit id="LMFBA2011A" title="Construct aluminium roll up style awnings"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMTTF2009A" title="Identify and select canvas and sail materials"/>
+      <unit id="LMTTF2014A" title="Weld plastic materials"/>
+      <unit id="LMTTF2016A" title="Install products on and off site"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLIA1107C" title="Package goods"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF20202" title="Certificate II in Furniture Finishing">
+    <units>
+      <unit id="LMFFF2001B" title="Use furniture finishing sector hand and power tools"/>
+      <unit id="LMFFF2002B" title="Dismantle_re-assemble furniture"/>
+      <unit id="LMFFF2003B" title="Remove surface coatings"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFF2005B" title="Maintain spray equipment and booth"/>
+      <unit id="LMFFF2006B" title="Apply surface coatings by spray gun"/>
+      <unit id="LMFFF2007B" title="Apply stains, fillers and bleach"/>
+      <unit id="LMFFF2008B" title="Apply surface coatings by hand"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF20908" title="Certificate II in Flooring Technology">
+    <units>
+      <unit id="LMFFL2001A" title="Use flooring technology sector hand and power tools"/>
+      <unit id="LMFFL2002A" title="Receive and prepare floor covering materials for installation"/>
+      <unit id="LMFFL2003A" title="Select, operate and maintain floor covering cutting machine"/>
+      <unit id="LMFFL2004A" title="Moisture test timber and concrete floors"/>
+      <unit id="LMFFL2101A" title="Remove existing floor coverings"/>
+      <unit id="LMFFL2102A" title="Prepare, select and apply smoothing and patching compounds"/>
+      <unit id="LMFFL2103A" title="Select and apply appropriate compounds and additives"/>
+      <unit id="LMFFL2104A" title="Prepare concrete sub-floors using wet cleaning methods"/>
+      <unit id="LMFFL2105A" title="Select, prepare and apply moisture barriers and damp proof membranes to concrete sub-floors"/>
+      <unit id="LMFFL2106A" title="Prepare walls for coverings"/>
+      <unit id="LMFFL2107A" title="Select, operate and maintain grinding equipment"/>
+      <unit id="LMFFL2108A" title="Select, operate and maintain shot blasting equipment"/>
+      <unit id="LMFFL2109A" title="Select, operate and maintain demolition equipment"/>
+      <unit id="LMFFL2110A" title="Select, operate and maintain scarifying equipment"/>
+      <unit id="LMFFL2111A" title="Coarse sand timber flooring"/>
+      <unit id="LMFFL2112A" title="Install hard underlays"/>
+      <unit id="LMFFL2201A" title="Install carpet cushion_underlays and gripper accessories"/>
+      <unit id="LMFFL2202A" title="Install unpatterned tufted and bonded carpet floor coverings"/>
+      <unit id="LMFFL2203A" title="Install carpet tiles using standard installation procedures"/>
+      <unit id="LMFFL2204A" title="Install unpatterned tufted and bonded carpet floor coverings to stairs"/>
+      <unit id="LMFFL2301A" title="Install lay flat vinyl floor coverings"/>
+      <unit id="LMFFL2302A" title="Install resilient tiles using standard installation procedures"/>
+      <unit id="LMFFL2501A" title="Install laminate and engineered timber flooring"/>
+      <unit id="LMFFL2502A" title="Install impact and sound absorption underlay"/>
+      <unit id="LMFFL2503A" title="Nail strip timber flooring"/>
+      <unit id="LMFFL2504A" title="Install expansion joints"/>
+      <unit id="LMFFL2505A" title="Install mouldings and edge trims to timber flooring"/>
+      <unit id="LMFFL3101A" title="Inspect sub-floors"/>
+      <unit id="LMFFL3102A" title="Prepare, select and apply screed to concrete sub-floors"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF20702" title="Certificate II in Soft Furnishing">
+    <units>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMFSF2003B" title="Machine sew using specific techniques"/>
+      <unit id="LMFSF2004B" title="Hand sew soft furnishings"/>
+      <unit id="LMFSF2005B" title="Operate a steam press"/>
+      <unit id="LMFSF2006B" title="Calculate fabric quantities for window coverings"/>
+      <unit id="LMFSF2007B" title="Construct unlined curtains_drapes"/>
+      <unit id="LMFSF2008B" title="Construct lined curtains_drapes"/>
+      <unit id="LMFSF2009B" title="Construct padded pelmets"/>
+      <unit id="LMFSF2010B" title="Make up tracks for window coverings"/>
+      <unit id="LMFSF2011B" title="Fit and adjust curtain hardware"/>
+      <unit id="LMFSF2012B" title="Fit and adjust interior blinds"/>
+      <unit id="LMFSF2013B" title="Dress windows"/>
+      <unit id="LMFSF2014B" title="Use soft furnishing sector hand and power tools"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF20502" title="Certificate II in Mattress and Base Making">
+    <units>
+      <unit id="LMFMB2001B" title="Use mattress and base sector hand and power tools"/>
+      <unit id="LMFMB2002B" title="Prepare and assemble base unit"/>
+      <unit id="LMFMB2003B" title="Assemble mattress components"/>
+      <unit id="LMFMB2004B" title="Cut mattress and base fabrics"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+  </qualification>
+  <qualification id="LMF20602" title="Certificate II in Picture Framing">
+    <units>
+      <unit id="LMFPF2001B" title="Use picture framing sector hand and power tools"/>
+      <unit id="LMFPF2002B" title="Cut mouldings to length"/>
+      <unit id="LMFPF2003B" title="Join mouldings"/>
+      <unit id="LMFPF2004B" title="Mount artwork"/>
+      <unit id="LMFPF2005B" title="Cut mat boards"/>
+      <unit id="LMFPF2006B" title="Cut and handle glazing materials for framing"/>
+      <unit id="LMFPF2007B" title="Assemble artwork package (basic)"/>
+      <unit id="LMFPF2008B" title="Recognise and repair finishes of framing materials"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF21308" title="Certificate II in Coopering">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFCP2001A" title="Use coopering sector hand and power tools"/>
+      <unit id="LMFCP2002A" title="Produce barrels using non-fired processes"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2007B" title="Follow plans to assemble production furniture"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM06001B" title="Perform hand forging"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID207C" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF20411" title="Certificate II in Glass and Glazing">
+    <units>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGG2001C" title="Use glass and glazing sector hand and power tools"/>
+      <unit id="LMFGG2003C" title="Operate glass freefall rack and table"/>
+      <unit id="LMFGG2004C" title="Process thin glass by hand"/>
+      <unit id="LMFGG2005C" title="Move glass sheets by hand"/>
+      <unit id="LMFGG2006C" title="Move single glass sheets by mechanical means"/>
+      <unit id="LMFGG2007C" title="Process glass by basic machines"/>
+      <unit id="LMFGG2008C" title="Glaze reglaze residential windows and doors"/>
+      <unit id="LMFGG2009C" title="Fabricate and assemble metal frames"/>
+      <unit id="LMFGG2010C" title="Fabricate and install insect and security screens"/>
+      <unit id="LMFGG2011A" title="Use, handle and store glass and glazing products and consumables"/>
+      <unit id="LMFGG3013C" title="Construct and repair leadlight panels"/>
+      <unit id="LMFGG3020A" title="Use static machines for aluminium and uPVC chloride fabrication"/>
+      <unit id="LMFSL2001B" title="Assemble leadlight and stained glass components"/>
+      <unit id="LMFSS2004A" title="Undertake surface preparation"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF30302" title="Certificate III in Furniture Making">
+    <units>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFM2001B" title="Use furniture making sector hand and power tools"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2004B" title="Apply sheet laminates by hand"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2007B" title="Follow plans to assemble production furniture"/>
+      <unit id="LMFFM2008B" title="Bend and form cane"/>
+      <unit id="LMFFM2009B" title="Construct cane furniture"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2011B" title="Apply manufactured board conversion techniques"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFFM3001B" title="Construct chair and couch frames"/>
+      <unit id="LMFFM3002B" title="Construct furniture using leg and rail method"/>
+      <unit id="LMFFM3003B" title="Produce angled and curved furniture using manufactured board"/>
+      <unit id="LMFFM3004B" title="Produce angled and curved furniture using solid timber"/>
+      <unit id="LMFFM3005B" title="Fabricate custom furniture"/>
+      <unit id="LMFFM3006B" title="Install furnishing"/>
+      <unit id="LMFFM3007B" title="Prepare and apply decorative surfaces for furniture"/>
+      <unit id="LMFFM3010B" title="Select timbers for furniture production"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3012B" title="Prepare cutting list from plans and job specifications"/>
+      <unit id="LMFFM3013B" title="Measure and draw site layout for manufactured furniture products"/>
+      <unit id="LMFFM3020B" title="Set up, operate and maintain sawing machines"/>
+      <unit id="LMFFM3021B" title="Set up, operate and maintain drilling machines"/>
+      <unit id="LMFFM3022B" title="Set up, operate and maintain joining machines"/>
+      <unit id="LMFFM3023B" title="Set up, operate and maintain planing and finishing machines"/>
+      <unit id="LMFFM3024B" title="Set up, operate and maintain multi-head planing and moulding machines"/>
+      <unit id="LMFFM3025B" title="Set up, operate and maintain routing and shaping machines"/>
+      <unit id="LMFFM3026B" title="Set up, operate and maintain mechanical wood turning lathes"/>
+      <unit id="LMFFM3027B" title="Set up, operate and maintain automated edge banding machines"/>
+      <unit id="LMFFM3028B" title="Fabricate synthetic solid surface products"/>
+      <unit id="LMFFM3030B" title="Set up, operate and maintain CNC sizing machines"/>
+      <unit id="LMFFM3031B" title="Set up, operate and maintain CNC machining and processing centres"/>
+      <unit id="LMFFM3032B" title="Produce and maintain cutting tools"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31408" title="Certificate III in Musical Instrument Making and Repair">
+    <units>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVDES01A" title="Apply colour theory in response to a brief"/>
+      <unit id="CUVVSP01B" title="Produce calligraphy"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="CUVVSP15B" title="Produce drawings"/>
+      <unit id="LMFFF2001B" title="Use furniture finishing sector hand and power tools"/>
+      <unit id="LMFFF2007B" title="Apply stains, fillers and bleach"/>
+      <unit id="LMFFF2008B" title="Apply surface coatings by hand"/>
+      <unit id="LMFFF3003B" title="Apply plural component coatings"/>
+      <unit id="LMFFF3004B" title="Apply soft rubber techniques"/>
+      <unit id="LMFFF3005B" title="Enhance finishes"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFMI3001A" title="Assemble instrument components"/>
+      <unit id="LMFMI3002A" title="Construct and apply decorative treatments and finishes to musical instruments"/>
+      <unit id="LMFMI3003A" title="Manufacture acoustic guitars"/>
+      <unit id="LMFMI3004A" title="Manufacture brass instruments"/>
+      <unit id="LMFMI3005A" title="Manufacture electric guitars"/>
+      <unit id="LMFMI3006A" title="Manufacture percussion instruments"/>
+      <unit id="LMFMI3007A" title="Manufacture special stringed instruments"/>
+      <unit id="LMFMI3008A" title="Manufacture stringed instruments"/>
+      <unit id="LMFMI3009A" title="Repair brass instruments"/>
+      <unit id="LMFMI3010A" title="Repair percussion instruments"/>
+      <unit id="LMFMI3011A" title="Repair woodwind instruments"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID207C" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31608" title="Certificate III in Security Screens and Grills">
+    <units>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFGG2001C" title="Use glass and glazing sector hand and power tools"/>
+      <unit id="LMFGG2008C" title="Glaze reglaze residential windows and doors"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFSS2001A" title="Use security screens and grills hand and power tools"/>
+      <unit id="LMFSS2002A" title="Rectify faults in product"/>
+      <unit id="LMFSS2003A" title="Prepare product for Australian Standards testing"/>
+      <unit id="LMFSS2004A" title="Undertake surface preparation"/>
+      <unit id="LMFSS3001A" title="Install security screens and grills"/>
+      <unit id="LMFSS3002A" title="Apply patterns and designs to security screens and grills"/>
+      <unit id="LMFSS3003A" title="Resolve quality and compliance issues"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF30611" title="Certificate III in Glass and Glazing">
+    <units>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPCCCM2006A" title="Apply basic levelling procedures"/>
+      <unit id="CPCCCM2008A" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="CPCCCM2010A" title="Work safely at heights"/>
+      <unit id="CPCCCM3001B" title="Operate elevated work platforms"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVVSP01B" title="Produce calligraphy"/>
+      <unit id="CUVVSP14B" title="Apply techniques to produce drawings"/>
+      <unit id="CUVVSP15B" title="Produce drawings"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGG2001C" title="Use glass and glazing sector hand and power tools"/>
+      <unit id="LMFGG2003C" title="Operate glass freefall rack and table"/>
+      <unit id="LMFGG2004C" title="Process thin glass by hand"/>
+      <unit id="LMFGG2005C" title="Move glass sheets by hand"/>
+      <unit id="LMFGG2007C" title="Process glass by basic machines"/>
+      <unit id="LMFGG2008C" title="Glaze reglaze residential windows and doors"/>
+      <unit id="LMFGG2009C" title="Fabricate and assemble metal frames"/>
+      <unit id="LMFGG2010C" title="Fabricate and install insect and security screens"/>
+      <unit id="LMFGG2011A" title="Use, handle and store glass and glazing products and consumables"/>
+      <unit id="LMFGG3001C" title="Store and handle glass"/>
+      <unit id="LMFGG3002C" title="Assess glass and glazing requirements"/>
+      <unit id="LMFGG3003C" title="Move block bulk glass sheet by mechanical means"/>
+      <unit id="LMFGG3004C" title="Process thick glass "/>
+      <unit id="LMFGG3005C" title="Process glass by semi-automatic and automatic machines"/>
+      <unit id="LMFGG3006C" title="Apply and handle films and coated glass"/>
+      <unit id="LMFGG3007C" title="Form glass"/>
+      <unit id="LMFGG3008C" title="Apply patterns and designs to glass"/>
+      <unit id="LMFGG3009C" title="Set up and operate glass laminating equipment"/>
+      <unit id="LMFGG3010C" title="Set up and operate glass toughening equipment"/>
+      <unit id="LMFGG3011C" title="Set up and operate glass silvering equipment"/>
+      <unit id="LMFGG3012C" title="Set up and operate insulated glass unit manufacturing equipment"/>
+      <unit id="LMFGG3013C" title="Construct and repair leadlight panels"/>
+      <unit id="LMFGG3015C" title="Fabricate and install shower screens and wardrobe doors"/>
+      <unit id="LMFGG3016C" title="Fabricate and install residential windows and doors"/>
+      <unit id="LMFGG3017C" title="Fabricate and install commercial glazing"/>
+      <unit id="LMFGG3018C" title="Prepare and install architectural engineered glazing"/>
+      <unit id="LMFGG3019C" title="Conduct commercial and structural re-glazing"/>
+      <unit id="LMFGG3020A" title="Use static machines for aluminium and uPVC chloride fabrication"/>
+      <unit id="LMFGG3021A" title="Prepare and install mirrors and glass splashbacks"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFSL2001B" title="Assemble leadlight and stained glass components"/>
+      <unit id="LMFSL3001B" title="Apply product and material knowledge to leadlight and stained glass operations"/>
+      <unit id="LMFSL3004B" title="Protect stained glass and leadlighting"/>
+      <unit id="LMFSL3005B" title="Fabricate and install residential leadlight and stained glass windows and doors"/>
+      <unit id="LMFSL3006B" title="Prepare and install architectural engineered leadlight and stained glass "/>
+      <unit id="LMFSL3007A" title="Paint and fire glass"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09009C" title="Create 2D drawings using computer aided design system"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307D" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31308" title="Certificate III in Coopering">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFCP2001A" title="Use coopering sector hand and power tools"/>
+      <unit id="LMFCP2002A" title="Produce barrels using non-fired processes"/>
+      <unit id="LMFCP3001A" title="Apply product and material knowledge to coopering operations"/>
+      <unit id="LMFCP3002A" title="Select and season timber for coopering production"/>
+      <unit id="LMFCP3003A" title="Produce barrels using fired processes"/>
+      <unit id="LMFCP3004A" title="Maintain and repair barrels"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2007B" title="Follow plans to assemble production furniture"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFFM3020B" title="Set up, operate and maintain sawing machines"/>
+      <unit id="LMFFM3022B" title="Set up, operate and maintain joining machines"/>
+      <unit id="LMFFM3023B" title="Set up, operate and maintain planing and finishing machines"/>
+      <unit id="LMFFM3024B" title="Set up, operate and maintain multi-head planing and moulding machines"/>
+      <unit id="LMFFM3025B" title="Set up, operate and maintain routing and shaping machines"/>
+      <unit id="LMFFM3032B" title="Produce and maintain cutting tools"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM06001B" title="Perform hand forging"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31102" title="Certificate III in Production Upholstery">
+    <units>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFUP2001B" title="Use upholstery sector hand and power tools"/>
+      <unit id="LMFUP2002B" title="Fit upholstery components"/>
+      <unit id="LMFUP2003B" title="Apply contemporary foundations to upholstered furniture"/>
+      <unit id="LMFUP2004B" title="Machine sew upholstery final cover materials (basic)"/>
+      <unit id="LMFUP2005B" title="Develop cutting plan and cut single layer upholstery fabric"/>
+      <unit id="LMFUP2006B" title="Dismantle_reassemble furniture for upholstering"/>
+      <unit id="LMFUP3001B" title="Apply traditional foundations to upholstered furniture"/>
+      <unit id="LMFUP3002B" title="Fit and apply final cover materials to furniture using basic techniques"/>
+      <unit id="LMFUP3003B" title="Fit and apply final cover materials to furniture using decorative techniques"/>
+      <unit id="LMFUP3004B" title="Lay out patterns and cut leather"/>
+      <unit id="LMFUP3005B" title="Machine sew upholstery final cover materials (complex)"/>
+      <unit id="LMFUP3006B" title="Fit and apply leather to furniture"/>
+      <unit id="LMFUP3007B" title="Manufacture and fit loose covers"/>
+      <unit id="LMFUP3008B" title="Apply finishing techniques to upholstered furniture"/>
+      <unit id="LMFUP3009B" title="Develop cutting plan and cut multiple layer upholstery fabric"/>
+      <unit id="LMFUP3010B" title="Cut, sew and fit skirts to upholstered furniture"/>
+      <unit id="LMFUP3011B" title="Cut, sew and fit or fill cushions"/>
+      <unit id="LMFUP3012B" title="Apply marine sewing and installation techniques"/>
+      <unit id="LMFUP3013B" title="Cut and sew canvas and acrylics"/>
+      <unit id="LMFUP3014B" title="Set up, operate and maintain CNC cutting machines"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31908" title="Certificate III in Interior Decoration (Retail Services)">
+    <units>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="LMFBA3009A" title="Provide advice to customers on blinds and awnings"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFID3002A" title="Source and specify decoration products"/>
+      <unit id="LMFID3005A" title="Style a retail display"/>
+      <unit id="LMFSF2006B" title="Calculate fabric quantities for window coverings"/>
+      <unit id="LMFSF3011B" title="Advise customers on interior decoration"/>
+      <unit id="LMFSF3014B" title="Provide technical advice to customers"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="SIRRRPK010A" title="Recommend home and home improvement products and services"/>
+      <unit id="SIRXSLS004A" title="Build relationships with customers"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF30502" title="Certificate III in Furniture Making (Wood Machining)">
+    <units>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFM2001B" title="Use furniture making sector hand and power tools"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2004B" title="Apply sheet laminates by hand"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2007B" title="Follow plans to assemble production furniture"/>
+      <unit id="LMFFM2008B" title="Bend and form cane"/>
+      <unit id="LMFFM2009B" title="Construct cane furniture"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2011B" title="Apply manufactured board conversion techniques"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFFM3001B" title="Construct chair and couch frames"/>
+      <unit id="LMFFM3002B" title="Construct furniture using leg and rail method"/>
+      <unit id="LMFFM3003B" title="Produce angled and curved furniture using manufactured board"/>
+      <unit id="LMFFM3004B" title="Produce angled and curved furniture using solid timber"/>
+      <unit id="LMFFM3005B" title="Fabricate custom furniture"/>
+      <unit id="LMFFM3006B" title="Install furnishing"/>
+      <unit id="LMFFM3007B" title="Prepare and apply decorative surfaces for furniture"/>
+      <unit id="LMFFM3010B" title="Select timbers for furniture production"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3012B" title="Prepare cutting list from plans and job specifications"/>
+      <unit id="LMFFM3013B" title="Measure and draw site layout for manufactured furniture products"/>
+      <unit id="LMFFM3020B" title="Set up, operate and maintain sawing machines"/>
+      <unit id="LMFFM3021B" title="Set up, operate and maintain drilling machines"/>
+      <unit id="LMFFM3022B" title="Set up, operate and maintain joining machines"/>
+      <unit id="LMFFM3023B" title="Set up, operate and maintain planing and finishing machines"/>
+      <unit id="LMFFM3024B" title="Set up, operate and maintain multi-head planing and moulding machines"/>
+      <unit id="LMFFM3025B" title="Set up, operate and maintain routing and shaping machines"/>
+      <unit id="LMFFM3026B" title="Set up, operate and maintain mechanical wood turning lathes"/>
+      <unit id="LMFFM3027B" title="Set up, operate and maintain automated edge banding machines"/>
+      <unit id="LMFFM3028B" title="Fabricate synthetic solid surface products"/>
+      <unit id="LMFFM3030B" title="Set up, operate and maintain CNC sizing machines"/>
+      <unit id="LMFFM3031B" title="Set up, operate and maintain CNC machining and processing centres"/>
+      <unit id="LMFFM3032B" title="Produce and maintain cutting tools"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF30802" title="Certificate III in Picture Framing">
+    <units>
+      <unit id="LMFPF2001B" title="Use picture framing sector hand and power tools"/>
+      <unit id="LMFPF2002B" title="Cut mouldings to length"/>
+      <unit id="LMFPF2003B" title="Join mouldings"/>
+      <unit id="LMFPF2004B" title="Mount artwork"/>
+      <unit id="LMFPF2005B" title="Cut mat boards"/>
+      <unit id="LMFPF2006B" title="Cut and handle glazing materials for framing"/>
+      <unit id="LMFPF2007B" title="Assemble artwork package (basic)"/>
+      <unit id="LMFPF2008B" title="Recognise and repair finishes of framing materials"/>
+      <unit id="LMFPF3001B" title="Deframe artwork"/>
+      <unit id="LMFPF3002B" title="Decorate mat boards"/>
+      <unit id="LMFPF3003B" title="Set up and operate CNC machines"/>
+      <unit id="LMFPF3004B" title="Prepare textiles for framing"/>
+      <unit id="LMFPF3005B" title="Recognise and handle artwork for framing"/>
+      <unit id="LMFPF3006B" title="Prepare design requirements for framing"/>
+      <unit id="LMFPF3007B" title="Apply frame finishes"/>
+      <unit id="LMFPF3008B" title="Assemble artwork package (complex)"/>
+      <unit id="LMFPF3009B" title="Install artwork"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31208" title="Certificate III in Flooring Technology">
+    <units>
+      <unit id="LMFFF3001B" title="Match and make up colours"/>
+      <unit id="LMFFL2001A" title="Use flooring technology sector hand and power tools"/>
+      <unit id="LMFFL2002A" title="Receive and prepare floor covering materials for installation"/>
+      <unit id="LMFFL2003A" title="Select, operate and maintain floor covering cutting machine"/>
+      <unit id="LMFFL2004A" title="Moisture test timber and concrete floors"/>
+      <unit id="LMFFL2101A" title="Remove existing floor coverings"/>
+      <unit id="LMFFL2102A" title="Prepare, select and apply smoothing and patching compounds"/>
+      <unit id="LMFFL2103A" title="Select and apply appropriate compounds and additives"/>
+      <unit id="LMFFL2106A" title="Prepare walls for coverings"/>
+      <unit id="LMFFL2111A" title="Coarse sand timber flooring"/>
+      <unit id="LMFFL2112A" title="Install hard underlays"/>
+      <unit id="LMFFL2201A" title="Install carpet cushion_underlays and gripper accessories"/>
+      <unit id="LMFFL2202A" title="Install unpatterned tufted and bonded carpet floor coverings"/>
+      <unit id="LMFFL2203A" title="Install carpet tiles using standard installation procedures"/>
+      <unit id="LMFFL2204A" title="Install unpatterned tufted and bonded carpet floor coverings to stairs"/>
+      <unit id="LMFFL2301A" title="Install lay flat vinyl floor coverings"/>
+      <unit id="LMFFL2302A" title="Install resilient tiles using standard installation procedures"/>
+      <unit id="LMFFL2501A" title="Install laminate and engineered timber flooring"/>
+      <unit id="LMFFL2502A" title="Install impact and sound absorption underlay"/>
+      <unit id="LMFFL2503A" title="Nail strip timber flooring"/>
+      <unit id="LMFFL2504A" title="Install expansion joints"/>
+      <unit id="LMFFL2505A" title="Install mouldings and edge trims to timber flooring"/>
+      <unit id="LMFFL3002A" title="Establish and maintain a safe flooring technology work environment"/>
+      <unit id="LMFFL3101A" title="Inspect sub-floors"/>
+      <unit id="LMFFL3201A" title="Install carpet tiles using custom designs"/>
+      <unit id="LMFFL3202A" title="Install adhesive fixed carpet floor coverings"/>
+      <unit id="LMFFL3203A" title="Install commercial carpet floor coverings"/>
+      <unit id="LMFFL3204A" title="Install patterned carpet floor coverings"/>
+      <unit id="LMFFL3205A" title="Install custom design carpet and decorative finishes"/>
+      <unit id="LMFFL3206A" title="Install synthetic textile floor coverings to sports facilities"/>
+      <unit id="LMFFL3207A" title="Install carpet floor coverings to custom design stairs"/>
+      <unit id="LMFFL3301A" title="Install linoleum floor coverings"/>
+      <unit id="LMFFL3302A" title="Install commercial vinyl floor coverings"/>
+      <unit id="LMFFL3303A" title="Install resilient floor coverings using custom designs and decorative finishes"/>
+      <unit id="LMFFL3304A" title="Install resilient tiles using custom design and decorative finishes"/>
+      <unit id="LMFFL3305A" title="Install rubber floor coverings"/>
+      <unit id="LMFFL3306A" title="Install resilient sheet to walls"/>
+      <unit id="LMFFL3307A" title="Install resilient sheet to bench and counter tops"/>
+      <unit id="LMFFL3308A" title="Install anti-static resilient floor coverings"/>
+      <unit id="LMFFL3309A" title="Install conductive resilient floor coverings"/>
+      <unit id="LMFFL3310A" title="Cut and install resilient floor coverings to stairs"/>
+      <unit id="LMFFL3401A" title="Mix and apply epoxy and seamless floor coverings"/>
+      <unit id="LMFFL3402A" title="Apply solvent based coatings to timber flooring"/>
+      <unit id="LMFFL3403A" title="Apply water-based coatings to timber flooring"/>
+      <unit id="LMFFL3404A" title="Apply oil-based coatings to timber flooring"/>
+      <unit id="LMFFL3405A" title="Apply composite based coatings"/>
+      <unit id="LMFFL3406A" title="Apply emulsion wax"/>
+      <unit id="LMFFL3407A" title="Apply stains and fillers"/>
+      <unit id="LMFFL3501A" title="Adapt and apply custom designs to timber flooring"/>
+      <unit id="LMFFL3502A" title="Cut and install timber flooring materials to stairs"/>
+      <unit id="LMFFL3503A" title="Install direct stick timber flooring"/>
+      <unit id="LMFFL3504A" title="Inspect defective timber flooring"/>
+      <unit id="LMFFL3505A" title="Install block parquetry flooring"/>
+      <unit id="LMFFL3506A" title="Install cork tiles"/>
+      <unit id="LMFFL3507A" title="Install patterned parquetry flooring"/>
+      <unit id="LMFFL3508A" title="Install mosaic parquetry flooring"/>
+      <unit id="LMFFL3509A" title="Install sprung timber flooring"/>
+      <unit id="LMFFL3510A" title="Install strip timber flooring onto battens"/>
+      <unit id="LMFFL3511A" title="Install strip timber flooring onto plywood"/>
+      <unit id="LMFFL3512A" title="Repair timber flooring"/>
+      <unit id="LMFFL3513A" title="Maintain timber, laminate and engineered flooring"/>
+      <unit id="LMFFL3601A" title="Fine sand timber flooring"/>
+      <unit id="LMFFL3602A" title="Edge sand timber flooring"/>
+      <unit id="LMFFL3603A" title="Sand cork flooring"/>
+      <unit id="LMFFL3604A" title="Sand and fill parquetry flooring"/>
+      <unit id="LMFFL3605A" title="Apply finishes to cork flooring"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF30702" title="Certificate III in Mattress and Base Making">
+    <units>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFMB2001B" title="Use mattress and base sector hand and power tools"/>
+      <unit id="LMFMB2002B" title="Prepare and assemble base unit"/>
+      <unit id="LMFMB2003B" title="Assemble mattress components"/>
+      <unit id="LMFMB2004B" title="Cut mattress and base fabrics"/>
+      <unit id="LMFMB3001B" title="Assemble springs for mattresses"/>
+      <unit id="LMFMB3002B" title="Make springs for mattresses and bases"/>
+      <unit id="LMFMB3003B" title="Set up, operate and maintain a tape edging machine"/>
+      <unit id="LMFMB3004B" title="Set up, operate and maintain a quilting machine"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMF30902" title="Certificate III in Soft Furnishing">
+    <units>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMFSF2003B" title="Machine sew using specific techniques"/>
+      <unit id="LMFSF2004B" title="Hand sew soft furnishings"/>
+      <unit id="LMFSF2005B" title="Operate a steam press"/>
+      <unit id="LMFSF2006B" title="Calculate fabric quantities for window coverings"/>
+      <unit id="LMFSF2007B" title="Construct unlined curtains_drapes"/>
+      <unit id="LMFSF2008B" title="Construct lined curtains_drapes"/>
+      <unit id="LMFSF2009B" title="Construct padded pelmets"/>
+      <unit id="LMFSF2010B" title="Make up tracks for window coverings"/>
+      <unit id="LMFSF2011B" title="Fit and adjust curtain hardware"/>
+      <unit id="LMFSF2012B" title="Fit and adjust interior blinds"/>
+      <unit id="LMFSF2013B" title="Dress windows"/>
+      <unit id="LMFSF2014B" title="Use soft furnishing sector hand and power tools"/>
+      <unit id="LMFSF3001B" title="Operate drop cutting machines"/>
+      <unit id="LMFSF3002B" title="Use automated curtain pleating equipment"/>
+      <unit id="LMFSF3003B" title="Follow patterns to produce window toppings"/>
+      <unit id="LMFSF3004B" title="Construct roman style blinds"/>
+      <unit id="LMFSF3005B" title="Construct Austrian_festoon style blinds"/>
+      <unit id="LMFSF3006B" title="Chemically join textiles"/>
+      <unit id="LMFSF3007B" title="Lay out patterns and cut fabrics"/>
+      <unit id="LMFSF3008B" title="Measure up and calculate fabric quantities for window coverings"/>
+      <unit id="LMFSF3009B" title="Manufacture bedspreads"/>
+      <unit id="LMFSF3010B" title="Manufacture bed linen and table cloths"/>
+      <unit id="LMFSF3011B" title="Advise customers on interior decoration"/>
+      <unit id="LMFSF3012B" title="Install motorised curtains and blinds"/>
+      <unit id="LMFSF3013B" title="Follow patterns to produce soft furnishing accessories"/>
+      <unit id="LMFSF3014B" title="Provide technical advice to customers"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF32109" title="Certificate III in Cabinet Making">
+    <units>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFF2006B" title="Apply surface coatings by spray gun"/>
+      <unit id="LMFFM2001B" title="Use furniture making sector hand and power tools"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFFM2011B" title="Apply manufactured board conversion techniques"/>
+      <unit id="LMFFM2012B" title="Set up, operate and maintain pressure and clamping machines"/>
+      <unit id="LMFFM3001B" title="Construct chair and couch frames"/>
+      <unit id="LMFFM3002B" title="Construct furniture using leg and rail method"/>
+      <unit id="LMFFM3003B" title="Produce angled and curved furniture using manufactured board"/>
+      <unit id="LMFFM3004B" title="Produce angled and curved furniture using solid timber"/>
+      <unit id="LMFFM3005B" title="Fabricate custom furniture"/>
+      <unit id="LMFFM3006B" title="Install furnishing"/>
+      <unit id="LMFFM3007B" title="Prepare and apply decorative surfaces for furniture"/>
+      <unit id="LMFFM3010B" title="Select timbers for furniture production"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3012B" title="Prepare cutting list from plans and job specifications"/>
+      <unit id="LMFFM3013B" title="Measure and draw site layout for manufactured furniture products"/>
+      <unit id="LMFFM3020B" title="Set up, operate and maintain sawing machines"/>
+      <unit id="LMFFM3021B" title="Set up, operate and maintain drilling machines"/>
+      <unit id="LMFFM3022B" title="Set up, operate and maintain joining machines"/>
+      <unit id="LMFFM3023B" title="Set up, operate and maintain planing and finishing machines"/>
+      <unit id="LMFFM3024B" title="Set up, operate and maintain multi-head planing and moulding machines"/>
+      <unit id="LMFFM3025B" title="Set up, operate and maintain routing and shaping machines"/>
+      <unit id="LMFFM3026B" title="Set up, operate and maintain mechanical wood turning lathes"/>
+      <unit id="LMFFM3027B" title="Set up, operate and maintain automated edge banding machines"/>
+      <unit id="LMFFM3028B" title="Fabricate synthetic solid surface products"/>
+      <unit id="LMFFM3030B" title="Set up, operate and maintain CNC sizing machines"/>
+      <unit id="LMFFM3031B" title="Set up, operate and maintain CNC machining and processing centres"/>
+      <unit id="LMFFM3032B" title="Produce and maintain cutting tools"/>
+      <unit id="LMFFM3033B" title="Construct jigs and fixtures"/>
+      <unit id="LMFFT4001B" title="Coordinate on-site installation of furnishing products"/>
+      <unit id="LMFFT4007B" title="Sample, inspect and test products to specifications"/>
+      <unit id="LMFFT4008B" title="Interpret and use workplace information"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFKB2001A" title="Prepare for cabinet installation"/>
+      <unit id="LMFKB3001A" title="Identify processes in kitchen and bathroom projects"/>
+      <unit id="LMFKB3002A" title="Determine requirements for installation of cabinets"/>
+      <unit id="LMFKB3003A" title="Check and measure fit of cabinets"/>
+      <unit id="LMFKB3004A" title="Conduct on-site adjustments to cabinets and components"/>
+      <unit id="LMFKB3005A" title="Fabricate cabinets for the built-in environment"/>
+      <unit id="LMFKB3006A" title="Install fitted cabinets and components"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT220A" title="Apply quick changeover procedures"/>
+      <unit id="MSACMT221A" title="Apply Just in Time (JIT) procedures"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT261A" title="Use SCADA systems in manufacturing"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSACMT281A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS363A" title="Organise on site work"/>
+      <unit id="MSAPMPER200B" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31002" title="Certificate III in Upholstery">
+    <units>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFUP2001B" title="Use upholstery sector hand and power tools"/>
+      <unit id="LMFUP2002B" title="Fit upholstery components"/>
+      <unit id="LMFUP2003B" title="Apply contemporary foundations to upholstered furniture"/>
+      <unit id="LMFUP2004B" title="Machine sew upholstery final cover materials (basic)"/>
+      <unit id="LMFUP2005B" title="Develop cutting plan and cut single layer upholstery fabric"/>
+      <unit id="LMFUP2006B" title="Dismantle_reassemble furniture for upholstering"/>
+      <unit id="LMFUP3001B" title="Apply traditional foundations to upholstered furniture"/>
+      <unit id="LMFUP3002B" title="Fit and apply final cover materials to furniture using basic techniques"/>
+      <unit id="LMFUP3003B" title="Fit and apply final cover materials to furniture using decorative techniques"/>
+      <unit id="LMFUP3004B" title="Lay out patterns and cut leather"/>
+      <unit id="LMFUP3005B" title="Machine sew upholstery final cover materials (complex)"/>
+      <unit id="LMFUP3006B" title="Fit and apply leather to furniture"/>
+      <unit id="LMFUP3007B" title="Manufacture and fit loose covers"/>
+      <unit id="LMFUP3008B" title="Apply finishing techniques to upholstered furniture"/>
+      <unit id="LMFUP3009B" title="Develop cutting plan and cut multiple layer upholstery fabric"/>
+      <unit id="LMFUP3010B" title="Cut, sew and fit skirts to upholstered furniture"/>
+      <unit id="LMFUP3011B" title="Cut, sew and fit or fill cushions"/>
+      <unit id="LMFUP3012B" title="Apply marine sewing and installation techniques"/>
+      <unit id="LMFUP3013B" title="Cut and sew canvas and acrylics"/>
+      <unit id="LMFUP3014B" title="Set up, operate and maintain CNC cutting machines"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31508" title="Certificate III in Piano Technology">
+    <units>
+      <unit id="LMFFF2008B" title="Apply surface coatings by hand"/>
+      <unit id="LMFFF3006B" title="Repair and touch up surfaces"/>
+      <unit id="LMFFF3008B" title="Apply traditional French polishing techniques"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2006B" title="Hand make timber joints"/>
+      <unit id="LMFFM2010B" title="Set up, operate and maintain basic static machines"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFPT3001A" title="Develop knowledge of piano industry"/>
+      <unit id="LMFPT3002A" title="Select materials for piano repair and manufacture"/>
+      <unit id="LMFPT3003A" title="Repair upright and grand piano action, keys and pedals"/>
+      <unit id="LMFPT3004A" title="Rebuild upright and grand piano action, keys and pedals"/>
+      <unit id="LMFPT3005A" title="Re-string and re-pin a piano"/>
+      <unit id="LMFPT3006A" title="Regulate action, keys and pedals of upright pianos"/>
+      <unit id="LMFPT3007A" title="Regulate actions, keys and pedals of grand pianos"/>
+      <unit id="LMFPT3008A" title="Understand piano tuning theory and basic acoustics"/>
+      <unit id="LMFPT3009A" title="Develop control of tuning hammers"/>
+      <unit id="LMFPT3010A" title="Pitch raise"/>
+      <unit id="LMFPT3011A" title="Tune unisons aurally to a beatless condition"/>
+      <unit id="LMFPT3012A" title="Tune octaves aurally to appropriate stretch"/>
+      <unit id="LMFPT3013A" title="Tune a temperament octave to produce an equally tempered scale"/>
+      <unit id="LMFPT3014A" title="Tune a piano aurally and/or electronically within time and accuracy constraints"/>
+      <unit id="LMFPT3015A" title="Voice a piano"/>
+      <unit id="LMFPT3016A" title="Provide advice to customers on piano tuning and repair"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TDTD297B" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF32009" title="Certificate III in Kitchens and Bathrooms (Client Services)">
+    <units>
+      <unit id="BSBCCO304B" title="Provide sales solutions to customers"/>
+      <unit id="BSBCMM301A" title="Process customer complaints"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFID4009A" title="Research architectural styles and movements"/>
+      <unit id="LMFKB3001A" title="Identify processes in kitchen and bathroom projects"/>
+      <unit id="LMFKB3007A" title="Provide advice on cabinet design features"/>
+      <unit id="LMFKB3008A" title="Identify cabinet construction and installation methods"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMSUP201A" title="Receive or despatch goods"/>
+      <unit id="SIRRRPK010A" title="Recommend home and home improvement products and services"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXSLS004A" title="Build relationships with customers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF30202" title="Certificate III in Furniture Finishing">
+    <units>
+      <unit id="LMFFF2001B" title="Use furniture finishing sector hand and power tools"/>
+      <unit id="LMFFF2002B" title="Dismantle_re-assemble furniture"/>
+      <unit id="LMFFF2003B" title="Remove surface coatings"/>
+      <unit id="LMFFF2004B" title="Prepare surfaces for finishing"/>
+      <unit id="LMFFF2005B" title="Maintain spray equipment and booth"/>
+      <unit id="LMFFF2006B" title="Apply surface coatings by spray gun"/>
+      <unit id="LMFFF2007B" title="Apply stains, fillers and bleach"/>
+      <unit id="LMFFF2008B" title="Apply surface coatings by hand"/>
+      <unit id="LMFFF3001B" title="Match and make up colours"/>
+      <unit id="LMFFF3002B" title="Set up, operate and maintain mechanical coatings systems"/>
+      <unit id="LMFFF3003B" title="Apply plural component coatings"/>
+      <unit id="LMFFF3004B" title="Apply soft rubber techniques"/>
+      <unit id="LMFFF3005B" title="Enhance finishes"/>
+      <unit id="LMFFF3006B" title="Repair and touch up surfaces"/>
+      <unit id="LMFFF3007B" title="Apply graining and decorative finishes"/>
+      <unit id="LMFFF3008B" title="Apply traditional French polishing techniques"/>
+      <unit id="LMFFF3009B" title="Set up, operate and maintain CNC coating systems"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF31808" title="Certificate III in Blinds and Awnings">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="CPCCCM3001B" title="Operate elevated work platforms"/>
+      <unit id="LMFBA2001A" title="Use blinds and awnings sector hand and power tools"/>
+      <unit id="LMFBA2002A" title="Set up, operate and maintain blinds and awnings sector static machines"/>
+      <unit id="LMFBA2004A" title="Select and apply blinds and awnings hardware and fixings"/>
+      <unit id="LMFBA2005A" title="Construct roll up and pull down style blinds and awnings"/>
+      <unit id="LMFBA2006A" title="Construct vertical style blinds"/>
+      <unit id="LMFBA2007A" title="Construct textiles for canopy style awnings"/>
+      <unit id="LMFBA2008A" title="Construct plastic and timber Venetian-style blinds"/>
+      <unit id="LMFBA2009A" title="Construct aluminium Venetian-style blinds"/>
+      <unit id="LMFBA2010A" title="Construct metal louvre and canopy hooded style awnings"/>
+      <unit id="LMFBA2011A" title="Construct aluminium roll up style awnings"/>
+      <unit id="LMFBA3001A" title="Install interior blinds"/>
+      <unit id="LMFBA3002A" title="Install exterior blinds and awnings"/>
+      <unit id="LMFBA3003A" title="Install timber shutters"/>
+      <unit id="LMFBA3004A" title="Construct folding arm style awnings"/>
+      <unit id="LMFBA3005A" title="Construct framework for canopy- style awnings"/>
+      <unit id="LMFBA3006A" title="Construct pleated style blinds"/>
+      <unit id="LMFBA3007A" title="Construct wood weave style blinds"/>
+      <unit id="LMFBA3008A" title="Construct pelmets"/>
+      <unit id="LMFBA3009A" title="Provide advice to customers on blinds and awnings"/>
+      <unit id="LMFBA4001A" title="Assess suitability of blinds or awnings"/>
+      <unit id="LMFGN2002B" title="Move and store materials and products"/>
+      <unit id="LMFGN3001B" title="Read and interpret work documents"/>
+      <unit id="LMFGN3002B" title="Estimate and cost job"/>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMFSF2002B" title="Machine sew materials"/>
+      <unit id="LMFSF3004B" title="Construct roman style blinds"/>
+      <unit id="LMTTF3004A" title="Perform advanced welding of plastic materials"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="TLIA1107C" title="Package goods"/>
+      <unit id="TLIA1307C" title="Receive goods"/>
+      <unit id="TLIA1607C" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA2107C" title="Despatch stock"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+      <unit id="TLID207C" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID307E" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF40508" title="Certificate IV in Furniture Design and Technology">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="LMFFDT4001A" title="Apply finishing techniques to custom furniture"/>
+      <unit id="LMFFDT4002A" title="Assemble custom furniture"/>
+      <unit id="LMFFDT4003A" title="Assess and record the lifecycle of a product"/>
+      <unit id="LMFFDT4004A" title="Assess environmental impact of a design"/>
+      <unit id="LMFFDT4005A" title="Construct and evaluate furniture prototypes and samples"/>
+      <unit id="LMFFDT4006A" title="Establish and maintain a safe furniture making work environment"/>
+      <unit id="LMFFDT4007A" title="Establish the design brief"/>
+      <unit id="LMFFDT4008A" title="Determine occupational health and safety implications of designs"/>
+      <unit id="LMFFDT4009A" title="Prepare and present furniture design information"/>
+      <unit id="LMFFDT4010A" title="Produce and evaluate developmental furniture models to scale"/>
+      <unit id="LMFFDT4011A" title="Set up, operate and maintain basic static woodworking machines for furniture designs"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="LMFFDT4013A" title="Research and select furniture finishes"/>
+      <unit id="LMFFDT4014A" title="Research and select furniture materials and technology"/>
+      <unit id="LMFFDT4015A" title="Research furniture styles and movements"/>
+      <unit id="LMFFDT4016A" title="Select, use and maintain hand tools for the creation of custom furniture"/>
+      <unit id="LMFFDT4017A" title="Set up and operate a wood turning lathe to produce off-centre work"/>
+      <unit id="LMFFDT4018A" title="Produce templates and jigs for custom made furniture"/>
+      <unit id="LMFFM4005A" title="Hand carve wood to custom design"/>
+      <unit id="LMFFM4006A" title="Construct joints for custom furniture"/>
+      <unit id="LMFFM4007A" title="Produce curved and shaped components for custom furniture"/>
+      <unit id="LMFFM4008A" title="Produce timber veneered components for custom furniture"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="LMFFT4011B" title="Purchase materials and consumables"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16013A" title="Operate in a self-directed team"/>
+      <unit id="MEM30004A" title="Use CAD to create and display 3D models"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT430A" title="Improve cost factors in work practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF40308" title="Certificate IV in Musical Instrument Making and Repair">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CULMS010B" title="Contribute to the preservation of cultural material"/>
+      <unit id="CUVCOR04B" title="Originate concept for own work and conduct critical discourse"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVDSP07B" title="Research and apply techniques for graphic design"/>
+      <unit id="CUVICS04B" title="Originate and develop a concept"/>
+      <unit id="CUVVSP02B" title="Research and experiment with techniques to produce calligraphy"/>
+      <unit id="LMFDN4001B" title="Produce drawings from design concepts"/>
+      <unit id="LMFDN4002B" title="Produce line and component production drawings"/>
+      <unit id="LMFDN4003B" title="Produce patterns and_or templates"/>
+      <unit id="LMFDN5001B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="LMFFM4005A" title="Hand carve wood to custom design"/>
+      <unit id="LMFFM4006A" title="Construct joints for custom furniture"/>
+      <unit id="LMFFM4007A" title="Produce curved and shaped components for custom furniture"/>
+      <unit id="LMFFM4008A" title="Produce timber veneered components for custom furniture"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="LMFFT4011B" title="Purchase materials and consumables"/>
+      <unit id="LMFFT4012B" title="Prepare a tender submission"/>
+      <unit id="LMFFT5011B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="LMFMI4001A" title="Repair acoustic guitars"/>
+      <unit id="LMFMI4002A" title="Repair electric guitars"/>
+      <unit id="LMFMI4003A" title="Repair special stringed instruments"/>
+      <unit id="LMFMI4004A" title="Repair stringed instruments"/>
+      <unit id="LMFPF4002B" title="Determine and apply gilding techniques"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF40202" title="Certificate IV in Furnishing Technology">
+    <units>
+      <unit id="LMFAH4001A" title="Recommend security technology, hardware and services"/>
+      <unit id="LMFAH4002A" title="Prepare architectural door hardware schedules"/>
+      <unit id="LMFDN4001B" title="Produce drawings from design concepts"/>
+      <unit id="LMFDN4002B" title="Produce line and component production drawings"/>
+      <unit id="LMFDN4003B" title="Produce patterns and_or templates"/>
+      <unit id="LMFDN4004B" title="Design, construct and test jigs"/>
+      <unit id="LMFDN4005B" title="Work within a furniture design team"/>
+      <unit id="LMFFT4001B" title="Coordinate on-site installation of furnishing products"/>
+      <unit id="LMFFT4002B" title="Customise stock lines"/>
+      <unit id="LMFFT4003B" title="Organise production processes"/>
+      <unit id="LMFFT4004B" title="Establish and monitor production inventory requirements"/>
+      <unit id="LMFFT4005B" title="Install and commission CNC software"/>
+      <unit id="LMFFT4006B" title="Construct prototypes and samples"/>
+      <unit id="LMFFT4007B" title="Sample, inspect and test products to specifications"/>
+      <unit id="LMFFT4008B" title="Interpret and use workplace information"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="LMFFT4011B" title="Purchase materials and consumables"/>
+      <unit id="LMFFT4012B" title="Prepare a tender submission"/>
+      <unit id="LMFPF4001B" title="Design and construct ornamental frames"/>
+      <unit id="LMFPF4002B" title="Determine and apply gilding techniques"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF40609" title="Certificate IV in Design of Kitchens, Bathrooms and Interior Spaces">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCUS402A" title="Address customer needs"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CUVDSP15B" title="Research and apply techniques for application to spatial design"/>
+      <unit id="LMFDN4001B" title="Produce drawings from design concepts"/>
+      <unit id="LMFFDT4004A" title="Assess environmental impact of a design"/>
+      <unit id="LMFFM3011B" title="Produce manual and computer-aided production drawings"/>
+      <unit id="LMFFM3013B" title="Measure and draw site layout for manufactured furniture products"/>
+      <unit id="LMFFT4001B" title="Coordinate on-site installation of furnishing products"/>
+      <unit id="LMFFT4007B" title="Sample, inspect and test products to specifications"/>
+      <unit id="LMFFT4008B" title="Interpret and use workplace information"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFID4001A" title="Research, analyse and apply colour for interior spaces"/>
+      <unit id="LMFID4007A" title="Identify materials, construction techniques and methods used in building interiors"/>
+      <unit id="LMFID4008A" title="Assess interior light and recommend light fittings"/>
+      <unit id="LMFID4009A" title="Research architectural styles and movements"/>
+      <unit id="LMFID4011A" title="Determine occupational health and safety implications of interior effects"/>
+      <unit id="LMFID5005A" title="Explore and apply creative design methodology to interior space"/>
+      <unit id="LMFKB3001A" title="Identify processes in kitchen and bathroom projects"/>
+      <unit id="LMFKB3002A" title="Determine requirements for installation of cabinets"/>
+      <unit id="LMFKB3003A" title="Check and measure fit of cabinets"/>
+      <unit id="LMFKB3007A" title="Provide advice on cabinet design features"/>
+      <unit id="LMFKB3008A" title="Identify cabinet construction and installation methods"/>
+      <unit id="LMFKB4001A" title="Determine spatial planning considerations for kitchen design"/>
+      <unit id="LMFKB4002A" title="Research and recommend materials, components and finishes for kitchen designs"/>
+      <unit id="LMFKB4003A" title="Identify and document services required to support fitted furniture designs"/>
+      <unit id="LMFKB4004A" title="Determine spatial planning considerations for bathroom design"/>
+      <unit id="LMFKB4005A" title="Research and recommend materials, components and finishes for bathroom designs"/>
+      <unit id="LMFKB4006A" title="Prepare quotation and contract documentation for design project"/>
+      <unit id="LMFKB4007A" title="Design ancillary residential cabinetry"/>
+      <unit id="LMFKB4008A" title="Determine layout for laundry components"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF40408" title="Certificate IV in Interior Decoration">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVDSP11B" title="Research and apply techniques for illustrative work"/>
+      <unit id="CUVDSP15B" title="Research and apply techniques for application to spatial design"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="LMFID3002A" title="Source and specify decoration products"/>
+      <unit id="LMFID4001A" title="Research, analyse and apply colour for interior spaces"/>
+      <unit id="LMFID4002A" title="Decorate residential interiors"/>
+      <unit id="LMFID4003A" title="Prepare a materials board for client presentation"/>
+      <unit id="LMFID4004A" title="Research and recommend furniture and accessories"/>
+      <unit id="LMFID4005A" title="Research and recommend soft furnishings for interiors"/>
+      <unit id="LMFID4006A" title="Research and recommend hard materials and finishes for interiors"/>
+      <unit id="LMFID4007A" title="Identify materials, construction techniques and methods used in building interiors"/>
+      <unit id="LMFID4008A" title="Assess interior light and recommend light fittings"/>
+      <unit id="LMFID4009A" title="Research architectural styles and movements"/>
+      <unit id="LMFID4010A" title="Research interior decoration and design influences"/>
+      <unit id="LMFID4011A" title="Determine occupational health and safety implications of interior effects"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF50202" title="Diploma of Furnishing Technology">
+    <units>
+      <unit id="LMFDN4001B" title="Produce drawings from design concepts"/>
+      <unit id="LMFDN4002B" title="Produce line and component production drawings"/>
+      <unit id="LMFDN4003B" title="Produce patterns and_or templates"/>
+      <unit id="LMFDN4004B" title="Design, construct and test jigs"/>
+      <unit id="LMFDN4005B" title="Work within a furniture design team"/>
+      <unit id="LMFDN5001B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="LMFDN5006B" title="Manage furniture design"/>
+      <unit id="LMFFDT4015A" title="Research furniture styles and movements"/>
+      <unit id="LMFFT4001B" title="Coordinate on-site installation of furnishing products"/>
+      <unit id="LMFFT4002B" title="Customise stock lines"/>
+      <unit id="LMFFT4003B" title="Organise production processes"/>
+      <unit id="LMFFT4004B" title="Establish and monitor production inventory requirements"/>
+      <unit id="LMFFT4005B" title="Install and commission CNC software"/>
+      <unit id="LMFFT4006B" title="Construct prototypes and samples"/>
+      <unit id="LMFFT4007B" title="Sample, inspect and test products to specifications"/>
+      <unit id="LMFFT4008B" title="Interpret and use workplace information"/>
+      <unit id="LMFFT4009B" title="Match furnishing style_materials to customer requirements"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="LMFFT4011B" title="Purchase materials and consumables"/>
+      <unit id="LMFFT4012B" title="Prepare a tender submission"/>
+      <unit id="LMFFT5001B" title="Evaluate and select production materials and equipment"/>
+      <unit id="LMFFT5002B" title="Establish and develop production processes and area layout"/>
+      <unit id="LMFFT5003B" title="Manage installation and commissioning of equipment"/>
+      <unit id="LMFFT5004B" title="Develop and document procedures and specifications"/>
+      <unit id="LMFFT5005B" title="Organise enterprise maintenance programs"/>
+      <unit id="LMFFT5006B" title="Plan production"/>
+      <unit id="LMFFT5010B" title="Optimise CNC operations"/>
+      <unit id="LMFFT5011B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="LMFFT5012B" title="Determine production feasibility of designs"/>
+      <unit id="LMFFT5013B" title="Develop products and related processes"/>
+      <unit id="LMFFT5014B" title="Establish and monitor business information systems"/>
+      <unit id="LMFFT5015B" title="Establish and implement contracts for external goods or services"/>
+      <unit id="LMFFT5016B" title="Establish customer contracts"/>
+      <unit id="LMFPF4001B" title="Design and construct ornamental frames"/>
+      <unit id="LMFPF4002B" title="Determine and apply gilding techniques"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF50311" title="Diploma of Stained Glass and Leadlighting">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CULMS010B" title="Contribute to the preservation of cultural material"/>
+      <unit id="CUVCOR04B" title="Originate concept for own work and conduct critical discourse"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVDSP07B" title="Research and apply techniques for graphic design"/>
+      <unit id="CUVDSP15B" title="Research and apply techniques for application to spatial design"/>
+      <unit id="CUVICS04B" title="Originate and develop a concept"/>
+      <unit id="CUVVSP02B" title="Research and experiment with techniques to produce calligraphy"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="LMFDN4001B" title="Produce drawings from design concepts"/>
+      <unit id="LMFDN4002B" title="Produce line and component production drawings"/>
+      <unit id="LMFDN4003B" title="Produce patterns and_or templates"/>
+      <unit id="LMFDN5001B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="LMFGG2001C" title="Use glass and glazing sector hand and power tools"/>
+      <unit id="LMFGG3001C" title="Store and handle glass"/>
+      <unit id="LMFGG3002C" title="Assess glass and glazing requirements"/>
+      <unit id="LMFGG3013C" title="Construct and repair leadlight panels"/>
+      <unit id="LMFSL2001B" title="Assemble leadlight and stained glass components"/>
+      <unit id="LMFSL3004B" title="Protect stained glass and leadlighting"/>
+      <unit id="LMFSL3005B" title="Fabricate and install residential leadlight and stained glass windows and doors"/>
+      <unit id="LMFSL3006B" title="Prepare and install architectural engineered leadlight and stained glass "/>
+      <unit id="LMFSL5001B" title="Assess conservation requirements"/>
+      <unit id="LMFSL5002B" title="Remove heritage leadlight and stained glass"/>
+      <unit id="LMFSL5003B" title="Conserve heritage leadlight and stained glass"/>
+      <unit id="LMFSL5004B" title="Install heritage leadlight and stained glass"/>
+      <unit id="LMFSL5005B" title="Apply innovation in contemporary leadlight and stained glass"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF50408" title="Diploma of Interior Design and Decoration">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES304A" title="Source and apply design industry knowledge"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPCCBC4037A" title="Prepare drawings for heritage works"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVDSP11B" title="Research and apply techniques for illustrative work"/>
+      <unit id="CUVDSP15B" title="Research and apply techniques for application to spatial design"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="LMFFDT4015A" title="Research furniture styles and movements"/>
+      <unit id="LMFFDT5002A" title="Apply resources sustainably"/>
+      <unit id="LMFFDT5004A" title="Develop self as a furniture designer"/>
+      <unit id="LMFID3002A" title="Source and specify decoration products"/>
+      <unit id="LMFID4001A" title="Research, analyse and apply colour for interior spaces"/>
+      <unit id="LMFID4002A" title="Decorate residential interiors"/>
+      <unit id="LMFID4003A" title="Prepare a materials board for client presentation"/>
+      <unit id="LMFID4004A" title="Research and recommend furniture and accessories"/>
+      <unit id="LMFID4005A" title="Research and recommend soft furnishings for interiors"/>
+      <unit id="LMFID4006A" title="Research and recommend hard materials and finishes for interiors"/>
+      <unit id="LMFID4007A" title="Identify materials, construction techniques and methods used in building interiors"/>
+      <unit id="LMFID4008A" title="Assess interior light and recommend light fittings"/>
+      <unit id="LMFID4009A" title="Research architectural styles and movements"/>
+      <unit id="LMFID4010A" title="Research interior decoration and design influences"/>
+      <unit id="LMFID4011A" title="Determine occupational health and safety implications of interior effects"/>
+      <unit id="LMFID5001A" title="Design residential interiors"/>
+      <unit id="LMFID5002A" title="Develop a decoration proposal for a complex site"/>
+      <unit id="LMFID5003A" title="Evaluate site for interior design brief"/>
+      <unit id="LMFID5004A" title="Specify structural elements, systems and services for interior spaces"/>
+      <unit id="LMFID5005A" title="Explore and apply creative design methodology to interior space"/>
+      <unit id="LMFID5006A" title="Design interior lighting"/>
+      <unit id="LMFID5007A" title="Decorate for events"/>
+      <unit id="LMFID5008A" title="Design for people with disabilities and the elderly"/>
+      <unit id="LMFID5009A" title="Research and recommend colour and applied finishes"/>
+      <unit id="LMFID5010A" title="Provide interior styling service"/>
+      <unit id="LMFID5011A" title="Specify soft furnishings for complete interior solution"/>
+      <unit id="LMFID5012A" title="Research and recommend artwork"/>
+      <unit id="LMFID5013A" title="Design for small to medium scale commercial or institutional interiors"/>
+      <unit id="LMFID5014A" title="Use CAD applications to complete models and documentation for interior design projects"/>
+      <unit id="LMFID5015A" title="Decorate interiors for restoration projects"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRRMER009A" title="Produce perspective drawings, plans andelevations"/>
+      <unit id="SIRRMER020A" title="Create and implement exhibition space"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF50508" title="Diploma of Furniture Design and Technology">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="LMFDN5001B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="LMFFDT4001A" title="Apply finishing techniques to custom furniture"/>
+      <unit id="LMFFDT4002A" title="Assemble custom furniture"/>
+      <unit id="LMFFDT4003A" title="Assess and record the lifecycle of a product"/>
+      <unit id="LMFFDT4004A" title="Assess environmental impact of a design"/>
+      <unit id="LMFFDT4005A" title="Construct and evaluate furniture prototypes and samples"/>
+      <unit id="LMFFDT4006A" title="Establish and maintain a safe furniture making work environment"/>
+      <unit id="LMFFDT4007A" title="Establish the design brief"/>
+      <unit id="LMFFDT4008A" title="Determine occupational health and safety implications of designs"/>
+      <unit id="LMFFDT4009A" title="Prepare and present furniture design information"/>
+      <unit id="LMFFDT4010A" title="Produce and evaluate developmental furniture models to scale"/>
+      <unit id="LMFFDT4011A" title="Set up, operate and maintain basic static woodworking machines for furniture designs"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="LMFFDT4013A" title="Research and select furniture finishes"/>
+      <unit id="LMFFDT4014A" title="Research and select furniture materials and technology"/>
+      <unit id="LMFFDT4015A" title="Research furniture styles and movements"/>
+      <unit id="LMFFDT4016A" title="Select, use and maintain hand tools for the creation of custom furniture"/>
+      <unit id="LMFFDT4017A" title="Set up and operate a wood turning lathe to produce off-centre work"/>
+      <unit id="LMFFDT4018A" title="Produce templates and jigs for custom made furniture"/>
+      <unit id="LMFFDT5001A" title="Apply ergonomics, anthropometrics and proxemic considerations to a product"/>
+      <unit id="LMFFDT5002A" title="Apply resources sustainably"/>
+      <unit id="LMFFDT5003A" title="Assess and resolve technical integrity of a design"/>
+      <unit id="LMFFDT5004A" title="Develop self as a furniture designer"/>
+      <unit id="LMFFDT5005A" title="Construct custom furniture using advanced techniques"/>
+      <unit id="LMFFDT5007A" title="Design a batch or limited production item of furniture"/>
+      <unit id="LMFFDT5008A" title="Design a furniture product using high volume technology services (HVTS) in production"/>
+      <unit id="LMFFDT5009A" title="Design a one-off item of furniture"/>
+      <unit id="LMFFDT5010A" title="Research and recommend alternative manufacturing processes"/>
+      <unit id="LMFFDT5011A" title="Research and recommend machine technology"/>
+      <unit id="LMFFDT5013A" title="Evaluate furniture design proposals and concepts"/>
+      <unit id="LMFFM4005A" title="Hand carve wood to custom design"/>
+      <unit id="LMFFM4006A" title="Construct joints for custom furniture"/>
+      <unit id="LMFFM4007A" title="Produce curved and shaped components for custom furniture"/>
+      <unit id="LMFFM4008A" title="Produce timber veneered components for custom furniture"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="LMFFT5001B" title="Evaluate and select production materials and equipment"/>
+      <unit id="LMFFT5004B" title="Develop and document procedures and specifications"/>
+      <unit id="LMFFT5011B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="LMFFT5012B" title="Determine production feasibility of designs"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16013A" title="Operate in a self-directed team"/>
+      <unit id="MEM30001A" title="Use computer aided drafting systems to produce basic engineering drawings"/>
+      <unit id="MEM30004A" title="Use CAD to create and display 3D models"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT430A" title="Improve cost factors in work practices"/>
+      <unit id="MSACMT450A" title="Undertake process capability improvements"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT631A" title="Undertake value analysis of product costs in terms of customer requirements"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF60308" title="Advanced Diploma of Furniture Design and Technology">
+    <units>
+      <unit id="BSBADV512A" title="Develop an advertising strategy and brief"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT403A" title="Explore the history and social impact of creativity"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+    </units>
+  </qualification>
+  <qualification id="LMF60208" title="Advanced Diploma of Interior Design">
+    <units>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBDES303A" title="Explore and apply the creative design process to 3D forms"/>
+      <unit id="BSBDES304A" title="Source and apply design industry knowledge"/>
+      <unit id="BSBDES305A" title="Source and apply information on the history and theory of design"/>
+      <unit id="BSBDES401A" title="Generate design solutions"/>
+      <unit id="BSBDES403A" title="Develop and extend design skills and practice"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPCCBC4037A" title="Prepare drawings for heritage works"/>
+      <unit id="CUFANM302A" title="Create 3D digital animations"/>
+      <unit id="CUFANM303A" title="Create 3D digital models"/>
+      <unit id="CUFANM502A" title="Create 3D digital environments"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFDIG507A" title="Design digital simulations"/>
+      <unit id="CUVCOR08B" title="Produce drawings to represent and communicate the concept"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS04B" title="Produce technical drawings"/>
+      <unit id="CUVDSP11B" title="Research and apply techniques for illustrative work"/>
+      <unit id="CUVDSP15B" title="Research and apply techniques for application to spatial design"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="LMFFDT5002A" title="Apply resources sustainably"/>
+      <unit id="LMFFDT5004A" title="Develop self as a furniture designer"/>
+      <unit id="LMFFDT6003A" title="Evaluate and participate in design industry networks"/>
+      <unit id="LMFFDT6004A" title="Investigate legal requirements for design"/>
+      <unit id="LMFID3002A" title="Source and specify decoration products"/>
+      <unit id="LMFID4001A" title="Research, analyse and apply colour for interior spaces"/>
+      <unit id="LMFID4003A" title="Prepare a materials board for client presentation"/>
+      <unit id="LMFID4004A" title="Research and recommend furniture and accessories"/>
+      <unit id="LMFID4005A" title="Research and recommend soft furnishings for interiors"/>
+      <unit id="LMFID4006A" title="Research and recommend hard materials and finishes for interiors"/>
+      <unit id="LMFID4007A" title="Identify materials, construction techniques and methods used in building interiors"/>
+      <unit id="LMFID4008A" title="Assess interior light and recommend light fittings"/>
+      <unit id="LMFID4009A" title="Research architectural styles and movements"/>
+      <unit id="LMFID4010A" title="Research interior decoration and design influences"/>
+      <unit id="LMFID4011A" title="Determine occupational health and safety implications of interior effects"/>
+      <unit id="LMFID5001A" title="Design residential interiors"/>
+      <unit id="LMFID5002A" title="Develop a decoration proposal for a complex site"/>
+      <unit id="LMFID5003A" title="Evaluate site for interior design brief"/>
+      <unit id="LMFID5004A" title="Specify structural elements, systems and services for interior spaces"/>
+      <unit id="LMFID5005A" title="Explore and apply creative design methodology to interior space"/>
+      <unit id="LMFID5006A" title="Design interior lighting"/>
+      <unit id="LMFID5007A" title="Decorate for events"/>
+      <unit id="LMFID5008A" title="Design for people with disabilities and the elderly"/>
+      <unit id="LMFID5009A" title="Research and recommend colour and applied finishes"/>
+      <unit id="LMFID5010A" title="Provide interior styling service"/>
+      <unit id="LMFID5011A" title="Specify soft furnishings for complete interior solution"/>
+      <unit id="LMFID5012A" title="Research and recommend artwork"/>
+      <unit id="LMFID5013A" title="Design for small to medium scale commercial or institutional interiors"/>
+      <unit id="LMFID5014A" title="Use CAD applications to complete models and documentation for interior design projects"/>
+      <unit id="LMFID5015A" title="Decorate interiors for restoration projects"/>
+      <unit id="LMFID6001A" title="Resolve complex spatial design problems through modelling"/>
+      <unit id="LMFID6002A" title="Apply 3-D visualisation techniques to represent interior designs"/>
+      <unit id="LMFID6003A" title="Design for large scale commercial or institutional interiors"/>
+      <unit id="LMFID6004A" title="Design interiors for hospitality environments"/>
+      <unit id="LMFID6005A" title="Design for retail interiors"/>
+      <unit id="LMFID6006A" title="Design for conservation and restoration projects"/>
+      <unit id="LMFID6007A" title="Select and instruct consultants and contractors"/>
+      <unit id="LMFID6008A" title="Evaluate design project outcomes"/>
+      <unit id="LMFID6009A" title="Produce digital presentations for commercial projects"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="SIRRMER009A" title="Produce perspective drawings, plans andelevations"/>
+      <unit id="SIRRMER020A" title="Create and implement exhibition space"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMF60102" title="Advanced Diploma of Furnishing Management">
+    <units>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="LMFFT6001B" title="Research and evaluate products, materials and processes"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+    </units>
+  </qualification>
+</qualifications>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<qualifications class="CHC02">
+  <qualification id="CHC10102" title="Certificate I in Work Preparation (Community Services)">
+    <units/>
+  </qualification>
+  <qualification id="CHC20102" title="Certificate II in Community Services Support Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC20302" title="Certificate II in Community Services (First Point of Contact)">
+    <units/>
+  </qualification>
+  <qualification id="CHC20202" title="Certificate II in Community Services Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC30202" title="Certificate III in Home and Community Care">
+    <units/>
+  </qualification>
+  <qualification id="CHC30302" title="Certificate III in Disability Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC30902" title="Certificate III in Telephone Counselling Skills">
+    <units/>
+  </qualification>
+  <qualification id="CHC30802" title="Certificate III in Community Services Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC30102" title="Certificate III in Aged Care Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC30402" title="Certificate III in Children's Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC30702" title="Certificate III in Social Housing">
+    <units/>
+  </qualification>
+  <qualification id="CHC30502" title="Certificate III in Employment Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC30602" title="Certificate III in Youth Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC40402" title="Certificate IV in Out of School Hours Care">
+    <units/>
+  </qualification>
+  <qualification id="CHC41702" title="Certificate IV in Alcohol and Other Drugs Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC40702" title="Certificate IV in Youth Work (Juvenile Justice)">
+    <units/>
+  </qualification>
+  <qualification id="CHC40802" title="Certificate IV in Social Housing">
+    <units/>
+  </qualification>
+  <qualification id="CHC41502" title="Certificate IV in Marriage Celebrancy">
+    <units/>
+  </qualification>
+  <qualification id="CHC40202" title="Certificate IV in Service Co-ordination (Ageing and Disability)">
+    <units/>
+  </qualification>
+  <qualification id="CHC40302" title="Certificate IV in Disability Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC41602" title="Certificate IV in Community Services (Lifestyle and Leisure)">
+    <units/>
+  </qualification>
+  <qualification id="CHC42307" title="Certificate IV in Relationship Education">
+    <units/>
+  </qualification>
+  <qualification id="CHC42407" title="Certificate IV in Career Development">
+    <units/>
+  </qualification>
+  <qualification id="CHC40602" title="Certificate IV in Youth Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC40102" title="Certificate IV in Aged Care Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC41002" title="Certificate IV in Telephone Counselling Skills">
+    <units/>
+  </qualification>
+  <qualification id="CHC42002" title="Certificate IV in Community Services (Service Co-ordination)">
+    <units/>
+  </qualification>
+  <qualification id="CHC40902" title="Certificate IV in Community Services Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC41302" title="Certificate IV in Community Mediation">
+    <units/>
+  </qualification>
+  <qualification id="CHC41102" title="Certificate IV in Mental Health Work (Non-clinical)">
+    <units/>
+  </qualification>
+  <qualification id="CHC41202" title="Certificate IV in Community Services Advocacy">
+    <units/>
+  </qualification>
+  <qualification id="CHC42207" title="Certificate IV in Children's Contact service Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC40502" title="Certificate IV in Employment Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC41402" title="Certificate IV in Community Services (Information, Advice and Referral)">
+    <units/>
+  </qualification>
+  <qualification id="CHC41802" title="Certificate IV in Community Services (Protective Care)">
+    <units/>
+  </qualification>
+  <qualification id="CHC41902" title="Certificate IV in Community Development">
+    <units/>
+  </qualification>
+  <qualification id="CHC50102" title="Diploma of Disability Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC50702" title="Diploma of Community Welfare Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC51002" title="Diploma of Community Services (Financial Counselling)">
+    <units/>
+  </qualification>
+  <qualification id="CHC51907" title="Diploma of Relationship Education">
+    <units/>
+  </qualification>
+  <qualification id="CHC50302" title="Diploma of Children's Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC50602" title="Diploma of Social Housing">
+    <units/>
+  </qualification>
+  <qualification id="CHC50802" title="Diploma of Community Services (Lifestyle and Leisure)">
+    <units/>
+  </qualification>
+  <qualification id="CHC50902" title="Diploma of Community Services (Case Management)">
+    <units/>
+  </qualification>
+  <qualification id="CHC50202" title="Diploma of Out of School Hours Care">
+    <units/>
+  </qualification>
+  <qualification id="CHC51302" title="Diploma of Statutory Child Protection">
+    <units/>
+  </qualification>
+  <qualification id="CHC51402" title="Diploma of Community Development">
+    <units/>
+  </qualification>
+  <qualification id="CHC51102" title="Diploma of Alcohol and other Drugs Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC50502" title="Diploma of Youth Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC51807" title="Diploma of Children's Contact service Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC51707" title="Diploma of Family Intake and Support Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC51602" title="Diploma of Community Services Management">
+    <units/>
+  </qualification>
+  <qualification id="CHC51202" title="Diploma of Community Services (Protective Intervention)">
+    <units/>
+  </qualification>
+  <qualification id="CHC51502" title="Diploma of Community Education">
+    <units/>
+  </qualification>
+  <qualification id="CHC50402" title="Diploma of Employment Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC60302" title="Advanced Diploma of Community Services Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC60202" title="Advanced Diploma of Children's Services">
+    <units/>
+  </qualification>
+  <qualification id="CHC60102" title="Advanced Diploma of Disability Work">
+    <units/>
+  </qualification>
+  <qualification id="CHC60402" title="Advanced Diploma of Community Services Management">
+    <units/>
+  </qualification>
+  <qualification id="CHC80107" title="Vocational Graduate Diploma of Relationship Counselling">
+    <units/>
+  </qualification>
+  <qualification id="CHC80207" title="Vocational Graduate Diploma of Family Dispute Resolution">
+    <units/>
+  </qualification>
+</qualifications>

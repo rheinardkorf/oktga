@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<qualifications class="HLT">
+  <qualification id="HLT30113" title="Certificate III in Aboriginal and/or Torres Strait Islander Primary Health Care">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCOM406A" title="Conduct work within a compliance framework"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="CHCAOD201D" title="Prepare for alcohol and other drugs work"/>
+      <unit id="CHCAOD402B" title="Work effectively in the alcohol and other drugs sector"/>
+      <unit id="CHCAOD406E" title="Work with clients who are intoxicated"/>
+      <unit id="CHCAOD407E" title="Provide needle and syringe services"/>
+      <unit id="CHCCD413E" title="Work within specific communities"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CHCCM402E" title="Establish and monitor a case plan"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS401C" title="Facilitate responsible behaviour"/>
+      <unit id="CHCCS403C" title="Provide brief intervention"/>
+      <unit id="CHCCS426B" title="Provide support and care relating to loss and grief"/>
+      <unit id="CHCCS514B" title="Recognise and respond to individuals at risk"/>
+      <unit id="CHCDFV301A" title="Recognise and respond appropriately to domestic and family violence"/>
+      <unit id="CHCDFV404C" title="Promote community awareness of domestic and family violence"/>
+      <unit id="CHCDFV406C" title="Provide domestic and family violence support in Aboriginal and Torres Strait Islander communities"/>
+      <unit id="CHCDIS409B" title="Provide services to people with disabilities with complex needs"/>
+      <unit id="CHCLLN403A" title="Identify clients with language, literacy and numeracy needs and respond effectively"/>
+      <unit id="CHCMH301C" title="Work effectively in mental health"/>
+      <unit id="CHCMH402B" title="Apply understanding of mental health issues and recovery processes"/>
+      <unit id="CHCMH403A" title="Establish and maintain communication and relationships to support the recovery process"/>
+      <unit id="CHCMH411A" title="Work with people with mental health issues"/>
+      <unit id="CHCOHC303B" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC401A" title="Inform and encourage clients and groups to understand and achieve good oral health"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC404A" title="Recognise and respond to signs and symptoms that may indicate oral health issues"/>
+      <unit id="CHCOHC406B" title="Provide or assist with oral hygiene"/>
+      <unit id="CHCOHC407B" title="Apply and manage use of basic oral health products"/>
+      <unit id="CHCPOL301B" title="Participate in policy development"/>
+      <unit id="CHCPROM401C" title="Share health information"/>
+      <unit id="CHCPROM502B" title="Implement health promotion and community intervention"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+      <unit id="CHCTC403B" title="Provide telephone counselling in crisis situations"/>
+      <unit id="CHCTC404B" title="Provide competent suicide intervention in a telephone counselling context"/>
+      <unit id="HLTAHW005" title="Work in an Aboriginal and/or Torres Strait Islander primary health care context"/>
+      <unit id="HLTAHW006" title="Facilitate and advocate for the rights and needs of clients and community members"/>
+      <unit id="HLTAHW007" title="Undertake basic health assessments"/>
+      <unit id="HLTAHW008" title="Assist in planning and implementation of basic health care"/>
+      <unit id="HLTAHW009" title="Provide information about social and emotional support"/>
+      <unit id="HLTAHW010" title="Identify community health issues, needs and strategies"/>
+      <unit id="HLTAHW011" title="Assist with basic health screening, promotion and education services"/>
+      <unit id="HLTAHW012" title="Assist with prevention and minimisation of substance misuse"/>
+      <unit id="HLTAHW013" title="Respond to emergencies"/>
+      <unit id="HLTAHW014" title="Work with Elders in Aboriginal and/or Torres Strait Islander communities"/>
+      <unit id="HLTAHW015" title="Work under instructions to support the safe use of medication"/>
+      <unit id="HLTAHW021" title="Provide nutrition guidance for specific health care"/>
+      <unit id="HLTAHW023" title="Plan, develop and evaluate health promotion and community development programs"/>
+      <unit id="HLTAHW024" title="Work in alcohol, other drugs &amp;  mental health care w/ Aboriginal &amp;/or Torres Strait Islander Comm."/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAHW026" title="Provide information and strategies in sexual health for men"/>
+      <unit id="HLTAHW027" title="Provide information and strategies in sexual health for women"/>
+      <unit id="HLTAHW028" title="Provide information and strategies in chronic condition care"/>
+      <unit id="HLTAHW029" title="Provide information and strategies in maternal and infant health"/>
+      <unit id="HLTAHW031" title="Provide information/strategies to enhance capacities of Aboriginal/Torres Strait Islander families"/>
+      <unit id="HLTAHW033" title="Maintain community health profile"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAHW035" title="Provide information and support around cancer"/>
+      <unit id="HLTAHW036" title="Provide information and support to women with breast cancer"/>
+      <unit id="HLTAHW051" title="Respond to loss, grief and trauma"/>
+      <unit id="HLTAID003" title="Provide first aid"/>
+      <unit id="HLTCSD208D" title="Transport clients"/>
+      <unit id="HLTCSD306D" title="Respond effectively to behaviours of concern"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="HLTPH301C" title="Undertake pharmacy technician duties"/>
+      <unit id="HLTPH305A" title="Maintain pharmaceutical imprest stock"/>
+      <unit id="HLTPH312B" title="Procure, store and maintain pharmaceutical products"/>
+      <unit id="HLTPH316A" title="Assist with dispensing of prescriptions and medication orders"/>
+      <unit id="HLTPOP301C" title="Work effectively in the population health sector"/>
+      <unit id="HLTPOP302C" title="Contribute to working with the community to identify health needs"/>
+      <unit id="HLTPOP303C" title="Contribute to population health project planning"/>
+      <unit id="HLTPOP304C" title="Contribute to evaluating a population health project"/>
+      <unit id="HLTPOP307C" title="Provide information and support on environmental health issues"/>
+      <unit id="HLTPOP310C" title="Monitor and maintain dog health in the community"/>
+      <unit id="HLTPOP311C" title="Identify land care issues as they relate to health"/>
+      <unit id="HLTPOP402C" title="Assess readiness for and effect behaviour change"/>
+      <unit id="HLTPOP403C" title="Provide information on smoking and smoking cessation"/>
+      <unit id="HLTPOP404C" title="Provide interventions to clients who are nicotine dependent"/>
+      <unit id="HLTRAH301C" title="Undertake visits to remote communities"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+      <unit id="PSPPM402B" title="Manage simple projects"/>
+      <unit id="SIRCDIS301" title="Accept prescriptions and return dispensed medicines to customers"/>
+      <unit id="SIRPDIS002A" title="Deliver prescription medicines to customers outside the pharmacy"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="HLT40113" title="Certificate IV in Aboriginal and/or Torres Strait Islander Primary Health Care">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC511A" title="Plan and conduct a community meeting"/>
+      <unit id="BSBATSIW417C" title="Select and use technology"/>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO404A" title="Collect, analyse and record information"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCOM406A" title="Conduct work within a compliance framework"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+    </units>
+  </qualification>
+  <qualification id="HLT20113" title="Certificate II in Aboriginal and/or Torres Strait Islander Primary Health Care">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBMED305B" title="Apply the principles of confidentiality, privacy and security within the medical environment"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="CHCAOD201D" title="Prepare for alcohol and other drugs work"/>
+      <unit id="CHCCS403C" title="Provide brief intervention"/>
+      <unit id="HLTAHW001" title="Work with Aboriginal and/or Torres Strait Islander clients and communities"/>
+      <unit id="HLTAHW002" title="Support clients to obtain access to health services"/>
+      <unit id="HLTAHW003" title="Provide basic health information to clients"/>
+      <unit id="HLTAHW004" title="Perform work role in Aboriginal and/or Torres Strait Islander primary health care context"/>
+      <unit id="HLTAHW007" title="Undertake basic health assessments"/>
+      <unit id="HLTAHW009" title="Provide information about social and emotional support"/>
+      <unit id="HLTAHW021" title="Provide nutrition guidance for specific health care"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAID003" title="Provide first aid"/>
+      <unit id="HLTAID005" title="Provide first aid in remote situations"/>
+      <unit id="HLTCSD208D" title="Transport clients"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="HLTPOP402C" title="Assess readiness for and effect behaviour change"/>
+      <unit id="HLTPOP403C" title="Provide information on smoking and smoking cessation"/>
+      <unit id="HLTPOP404C" title="Provide interventions to clients who are nicotine dependent"/>
+      <unit id="HLTRAH301C" title="Undertake visits to remote communities"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+      <unit id="SIRCDIS301" title="Accept prescriptions and return dispensed medicines to customers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="HLT40213" title="Certificate IV in Aboriginal and/or Torres Strait Islander Primary Health Care Practice">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC511A" title="Plan and conduct a community meeting"/>
+      <unit id="BSBCCO404A" title="Collect, analyse and record information"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCOM406A" title="Conduct work within a compliance framework"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="CHCAOD402B" title="Work effectively in the alcohol and other drugs sector"/>
+    </units>
+  </qualification>
+  <qualification id="HLT50113" title="Diploma of Aboriginal and/or Torres Strait Islander Primary Health Care">
+    <units>
+      <unit id="AHCCCF402A" title="Report on project"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBATSIC511A" title="Plan and conduct a community meeting"/>
+      <unit id="BSBATSIM416A" title="Oversee organisational planning"/>
+      <unit id="BSBATSIM418A" title="Oversee financial management"/>
+      <unit id="BSBATSIM419A" title="Contribute to the development and implementation of organisational policies"/>
+      <unit id="BSBATSIM420A" title="Oversee asset management"/>
+      <unit id="BSBATSIM505C" title="Control organisational finances"/>
+      <unit id="BSBATSIM506C" title="Develop employment policies"/>
+    </units>
+  </qualification>
+  <qualification id="HLT50213" title="Diploma of Aboriginal and/or Torres Strait Islander Primary Health Care Practice">
+    <units>
+      <unit id="AHCCCF402A" title="Report on project"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBATSIC511A" title="Plan and conduct a community meeting"/>
+      <unit id="BSBATSIM416A" title="Oversee organisational planning"/>
+      <unit id="BSBATSIM418A" title="Oversee financial management"/>
+      <unit id="BSBATSIM419A" title="Contribute to the development and implementation of organisational policies"/>
+      <unit id="BSBATSIM420A" title="Oversee asset management"/>
+      <unit id="BSBATSIM505C" title="Control organisational finances"/>
+      <unit id="BSBATSIM506C" title="Develop employment policies"/>
+    </units>
+  </qualification>
+  <qualification id="HLT60113" title="Advanced Diploma of Aboriginal and/or Torres Strait Islander Health Care">
+    <units>
+      <unit id="AHCCCF402A" title="Report on project"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBATSIM414C" title="Oversee the organisation's annual budget"/>
+      <unit id="BSBATSIM416A" title="Oversee organisational planning"/>
+      <unit id="BSBATSIM418A" title="Oversee financial management"/>
+      <unit id="BSBATSIM419A" title="Contribute to the development and implementation of organisational policies"/>
+      <unit id="BSBATSIM420A" title="Oversee asset management"/>
+      <unit id="BSBATSIM421A" title="Support a positive and culturally appropriate workplace culture"/>
+      <unit id="BSBATSIM505C" title="Control organisational finances"/>
+      <unit id="BSBATSIM506C" title="Develop employment policies"/>
+      <unit id="BSBATSIM511C" title="Develop enterprise opportunities"/>
+      <unit id="BSBATSIW515C" title="Secure funding"/>
+      <unit id="BSBAUD503B" title="Lead a quality audit"/>
+      <unit id="BSBFLM513A" title="Manage budgets and financial plans within the work team"/>
+      <unit id="BSBFLM514A" title="Manage people"/>
+      <unit id="BSBHRM404A" title="Review human resources functions"/>
+      <unit id="BSBHRM405A" title="Support the recruitment, selection and induction of staff"/>
+      <unit id="BSBINN601A" title="Manage organisational change"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT604A" title="Manage business operations"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CHCAD603B" title="Provide systems advocacy services"/>
+      <unit id="CHCCD402B" title="Develop and provide community education projects"/>
+      <unit id="CHCCD615A" title="Develop and implement community development strategies"/>
+      <unit id="CHCCD619B" title="Establish and maintain community, government and business partnerships"/>
+      <unit id="CHCINF403E" title="Coordinate information systems"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="CHCPROM401C" title="Share health information"/>
+      <unit id="CHCPROM502B" title="Implement health promotion and community intervention"/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAHW032" title="Supervise individual workers"/>
+      <unit id="HLTAHW033" title="Maintain community health profile"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAHW043" title="Facilitate access to tertiary health services"/>
+      <unit id="HLTAHW050" title="Develop a healing framework for social and emotional wellbeing work"/>
+      <unit id="HLTAHW051" title="Respond to loss, grief and trauma"/>
+      <unit id="HLTAHW061" title="Engage in community health research"/>
+      <unit id="HLTAHW062" title="Supervise health care team"/>
+      <unit id="HLTAHW063" title="Implement office systems"/>
+      <unit id="HLTAHW064" title="Manage budgets"/>
+      <unit id="HLTAHW066" title="Manage the delivery of Aboriginal and/or Torres Strait Islander primary health care"/>
+      <unit id="HLTAHW067" title="Manage health education and promotion"/>
+      <unit id="HLTAHW068" title="Develop work plans"/>
+      <unit id="HLTAHW069" title="Develop health care policy"/>
+      <unit id="HLTAHW070" title="Manage human resources"/>
+      <unit id="HLTAHW072" title="Provide guidance in social and emotional wellbeing"/>
+      <unit id="HLTAHW073" title="Practise social and emotional wellbeing in a clinical setting"/>
+      <unit id="HLTAHW074" title="Provide closure on healing processes"/>
+      <unit id="HLTAHW075" title="Manage community health projects"/>
+      <unit id="HLTAHW076" title="Plan for community emergencies"/>
+      <unit id="HLTAHW077" title="Provide supervision for social and emotional wellbeing workers"/>
+      <unit id="HLTAHW078" title="Work within a narrative approach"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTIN504D" title="Manage the control of infection"/>
+      <unit id="HLTPM501B" title="Manage in a health care business"/>
+      <unit id="HLTPOP405C" title="Use media to disseminate information"/>
+      <unit id="HLTPOP501C" title="Apply a population health framework"/>
+      <unit id="HLTPOP502C" title="Work with the community to identify health needs"/>
+      <unit id="HLTPOP503C" title="Plan a population health project"/>
+      <unit id="HLTPOP504C" title="Evaluate a population health project"/>
+      <unit id="HLTPOP505C" title="Build capacity to promote health"/>
+      <unit id="HLTPOP523C" title="Develop a disaster plan"/>
+      <unit id="HLTWHS003" title="Maintain work health and safety"/>
+      <unit id="HLTWHS004" title="Manage work health and safety"/>
+      <unit id="SRXGOV004B" title="Work effectively with the Board of an organisation"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

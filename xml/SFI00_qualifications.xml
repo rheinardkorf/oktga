@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<qualifications class="SFI00">
+  <qualification id="SFI10100" title="Certificate I in the Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI10200" title="Certificate I in the Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI10500" title="Certificate I in the Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20200" title="Certificate II in the Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20100" title="Certificate II in the Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20600" title="Certificate II in the Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI20500" title="Certificate II in the Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30100" title="Certificate III in the Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30200" title="Certificate III in the Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30300" title="Certificate III in the Seafood Industry (Fishing Charter Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30500" title="Certificate III in the Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30600" title="Certificate III in the Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI30400" title="Certificate III in the Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40502" title="Certificate IV in Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40100" title="Certificate IV in the Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40200" title="Certificate IV in the Seafood Industries (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40400" title="Certificate IV in the Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+  <qualification id="SFI40600" title="Certificate IV in the Seafood Industry (Seafood Sales and Distribution)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50300" title="Diploma of the Seafood Industry (Fishing Charter Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50502" title="Diploma of Seafood Industry (Seafood Processing)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50400" title="Diploma of the Seafood Industry (Fisheries Compliance)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50200" title="Diploma of the Seafood Industry (Fishing Operations)">
+    <units/>
+  </qualification>
+  <qualification id="SFI50100" title="Diploma of the Seafood Industry (Aquaculture)">
+    <units/>
+  </qualification>
+</qualifications>

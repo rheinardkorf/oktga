@@ -1,0 +1,1249 @@
+<?xml version="1.0"?>
+<qualifications class="PUA12">
+  <qualification id="PUA20312" title="Certificate II in Public Safety (Police Liaison)">
+    <units>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUAPOLIM001A" title="Assist police with members of a culturally specific community"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+  </qualification>
+  <qualification id="PUA20613" title="Certificate II in Public Safety (Firefighting and Emergency Operations)">
+    <units>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAFIR203B" title="Respond to urban fire"/>
+      <unit id="PUAFIR204B" title="Respond to wildfire"/>
+      <unit id="PUAFIR205B" title="Respond to aviation incident (specialist)"/>
+      <unit id="PUAFIR206B" title="Check installed fire safety systems"/>
+      <unit id="PUAFIR207B" title="Operate breathing apparatus open circuit"/>
+      <unit id="PUAFIR208B" title="Participate in community safety activities"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="PUAFIR212B" title="Rappel from helicopter"/>
+      <unit id="PUAFIR215" title="Prevent injury"/>
+      <unit id="PUAFIR216" title="Undertake hover-exit operations from helicopter"/>
+      <unit id="PUAFIR217" title="Undertake helicopter winch operations"/>
+      <unit id="PUAFIR218" title="Respond to isolated structure fire"/>
+      <unit id="PUAFIR309B" title="Operate pumps"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASAR023A" title="Participate in an urban search and rescue Category 1"/>
+      <unit id="PUASAR033" title="Perform land based swiftwater and floodwater rescue and recovery"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA20713" title="Certificate II in Public Safety (Firefighting Operations)">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="FPICOT2236" title="Fall trees manually (basic)"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAFIR203B" title="Respond to urban fire"/>
+      <unit id="PUAFIR204B" title="Respond to wildfire"/>
+      <unit id="PUAFIR205B" title="Respond to aviation incident (specialist)"/>
+      <unit id="PUAFIR206B" title="Check installed fire safety systems"/>
+      <unit id="PUAFIR207B" title="Operate breathing apparatus open circuit"/>
+      <unit id="PUAFIR208B" title="Participate in community safety activities"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="PUAFIR212B" title="Rappel from helicopter"/>
+      <unit id="PUAFIR213" title="Assist with prescribed burning"/>
+      <unit id="PUAFIR214" title="Use Class A foam in wildfire operations and non-structural applications"/>
+      <unit id="PUAFIR215" title="Prevent injury"/>
+      <unit id="PUAFIR216" title="Undertake hover-exit operations from helicopter"/>
+      <unit id="PUAFIR217" title="Undertake helicopter winch operations"/>
+      <unit id="PUAFIR218" title="Respond to isolated structure fire"/>
+      <unit id="PUAFIR301B" title="Undertake community safety activities"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASAR023A" title="Participate in an urban search and rescue Category 1"/>
+      <unit id="PUASAR033" title="Perform land based swiftwater and floodwater rescue and recovery"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA20112" title="Certificate II in Public Safety (Aboriginal or Torres Strait Islander Community Policing)">
+    <units>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+      <unit id="PUAPOLGD005A" title="Use and maintain police operational equipment"/>
+      <unit id="PUAPOLGD007A" title="Manage persons in care or custody"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+  </qualification>
+  <qualification id="PUA21012" title="Certificate II in Public Safety (Aquatic Rescue)">
+    <units>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE009C" title="Navigate in an aquatic environment"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASAR012C" title="Apply surf awareness and self-rescue skills"/>
+      <unit id="PUASAR013A" title="Participate in an aquatic rescue operation"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU306A" title="Supervise clients at an aquatic facility or environment"/>
+      <unit id="SISCAQU312A" title="Assist participants with a disability during aquatic activities"/>
+      <unit id="TDMMC807B" title="MANOEUVRE A VESSEL WITHIN THE LIMITS OF RESPONSIBILITY OF A MASTER 5"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+      <unit id="TDMMF5607A" title="OBSERVE PERSONAL SAFETY AND SOCIAL RESPONSIBILITIES"/>
+      <unit id="TDMMF6207A" title="PREVENT, CONTROL AND FIGHT FIRES ON BOARD AN OCEAN-GOING VESSEL"/>
+      <unit id="TDMMR4307B" title="ASSIST IN MOORING AND ANCHOR HANDLING ACTIVITIES"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA21312" title="Certificate II in Public Safety (SES)">
+    <units>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA30312" title="Certificate III in Public Safety (Police Liaison)">
+    <units>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+      <unit id="PUAPOLGD005A" title="Use and maintain police operational equipment"/>
+      <unit id="PUAPOLGD006A" title="Facilitate effective communication in the policing environment"/>
+      <unit id="PUAPOLGD007A" title="Manage persons in care or custody"/>
+      <unit id="PUAPOLGD008A" title="Administer legislation to ensure compliance"/>
+      <unit id="PUAPOLGD010A" title="Perform police administrative duties"/>
+      <unit id="PUAPOLIM002A" title="Promote public safety objectives by liaison with a culturally specific community"/>
+      <unit id="PUAPOLIM003A" title="Provide interpreting and translating services"/>
+      <unit id="PUAPOLIM004A" title="Provide police services in an Aboriginal or Torres Strait Islander community"/>
+      <unit id="PUAPOLIM005A" title="Provide advanced information concerning an Aboriginal or Torres Strait Islander community"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA33112" title="Certificate III in Public Safety (Biosecurity Response Operations)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBIO301A" title="Work effectively in an emergency disease or plant pest response"/>
+      <unit id="AHCBIO302A" title="Identify and report unusual disease or plant pest signs"/>
+      <unit id="AHCBIO303A" title="Carry out emergency disease or plant pest control procedures at infected premises"/>
+      <unit id="AHCBIO304A" title="Carry out movement and security procedures"/>
+      <unit id="AHCBIO402A" title="Carry out field surveillance for a specific emergency disease or plant pest"/>
+      <unit id="AHCNAR302A" title="Collect and preserve biological samples"/>
+      <unit id="PSPGOV307B" title="Organise workplace information"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUAECO006A" title="Read and interpret maps"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE020A" title="Lead a crew"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA30512" title="Certificate III in Public Safety (SES Operations)">
+    <units>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM013B" title="Administer a local public safety group"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUASES010A" title="Plan, activate and maintain a communications network"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA33012" title="Certificate III in Public Safety (Emergency Communications Centre Operations)">
+    <units>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUAECO001A" title="Operate telephony systems"/>
+      <unit id="PUAECO002A" title="Process emergency incident calls and enquiries"/>
+      <unit id="PUAECO003A" title="Operate and control radio networks"/>
+      <unit id="PUAECO004A" title="Operate computer aided dispatch system"/>
+      <unit id="PUAECO005A" title="Dispatch resources from within an emergency communications centre"/>
+      <unit id="PUAECO006A" title="Read and interpret maps"/>
+      <unit id="PUAECO007A" title="Respond to and maintain monitored alarm systems"/>
+      <unit id="PUAECO008A" title="Receive and action notification of uncontrolled hazardous materials situations"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAFIR201B" title="Prevent injury"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA31312" title="Certificate III in Public Safety (Aquatic Search and Rescue)">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA302B" title="Provide first aid in remote situation"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA404C" title="Apply advanced resuscitation techniques"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="PMAOHS214B" title="Undertake helicopter safety and escape"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAEME003C" title="Administer oxygen in an emergency situation"/>
+      <unit id="PUAEME004A" title="Provide emergency care for suspected spinal injury"/>
+      <unit id="PUAEME005A" title="Provide pain management"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE009C" title="Navigate in an aquatic environment"/>
+      <unit id="PUAOPE010C" title="Operate an automated external defibrillator in an emergency"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUAOPE027A" title="Undertake beach safety management activities"/>
+      <unit id="PUAPOLIM002A" title="Promote public safety objectives by liaison with a culturally specific community"/>
+      <unit id="PUASAR011C" title="Search as a member of an aquatic search team"/>
+      <unit id="PUASAR014A" title="Operate and maintain a small powercraft and motor for rescue operations"/>
+      <unit id="PUASAR015A" title="Crew small powercraft in a rescue operation"/>
+      <unit id="PUASAR016A" title="Operate and maintain a personal water craft for rescue operations"/>
+      <unit id="PUASAR017A" title="Undertake advanced surf rescue"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU306A" title="Supervise clients at an aquatic facility or environment"/>
+      <unit id="SISCAQU307A" title="Perform advanced water rescues"/>
+      <unit id="SISCAQU312A" title="Assist participants with a disability during aquatic activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA31412" title="Certificate III in Public Safety (Community Safety)">
+    <units>
+      <unit id="AHCCCF413A" title="Service committees"/>
+      <unit id="CHCCD401E" title="Support community participation"/>
+      <unit id="CHCCD413E" title="Work within specific communities"/>
+      <unit id="CHCGROUP302D" title="Support group activities"/>
+      <unit id="CHCYTH301D" title="Work effectively with young people"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM014B" title="Contribute to community safety"/>
+      <unit id="PUACOM015B" title="Conduct community safety activities"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEME002C" title="Manage injuries at emergency incident"/>
+      <unit id="PUAEMR008B" title="Contribute to an emergency risk management process"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAFIR206B" title="Check installed fire safety systems"/>
+      <unit id="PUAFIR208B" title="Participate in community safety activities"/>
+      <unit id="PUAFIR301B" title="Undertake community safety activities"/>
+      <unit id="PUAFIR314B" title="Utilise installed fire safety systems"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALIO002B" title="Provide local community, cultural and geographic information to other agencies and tourists"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAPOLIM002A" title="Promote public safety objectives by liaison with a culturally specific community"/>
+      <unit id="PUAPOLIM003A" title="Provide interpreting and translating services"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+      <unit id="PUATEA005A" title="Manage own professional performance"/>
+      <unit id="PUAWER001B" title="Identify, prevent and report potential workplace emergency situations"/>
+      <unit id="PUAWER004B" title="Respond to workplace emergencies"/>
+      <unit id="PUAWER008B" title="Confine small workplace emergencies"/>
+      <unit id="SITXMPR402" title="Create a promotional display or stand"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA30613" title="Certificate III in Public Safety (Firefighting and Emergency Operations)">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA404C" title="Apply advanced resuscitation techniques"/>
+      <unit id="HLTFA412A" title="Apply advanced first aid"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUAFIR301B" title="Undertake community safety activities"/>
+      <unit id="PUAFIR302B" title="Suppress urban fire"/>
+      <unit id="PUAFIR303B" title="Suppress wildfire"/>
+      <unit id="PUAFIR304B" title="Respond to marine emergencies"/>
+      <unit id="PUAFIR305B" title="Respond to aviation incidents (general)"/>
+      <unit id="PUAFIR308B" title="Employ personal protection at a hazardous materials incident"/>
+      <unit id="PUAFIR309B" title="Operate pumps"/>
+      <unit id="PUAFIR311B" title="Dispatch rappel personnel and equipment from a helicopter"/>
+      <unit id="PUAFIR312B" title="Operate aerial ignition equipment in an aircraft"/>
+      <unit id="PUAFIR313B" title="Operate aviation support equipment"/>
+      <unit id="PUAFIR314B" title="Utilise installed fire safety systems"/>
+      <unit id="PUAFIR315B" title="Navigate from an aircraft"/>
+      <unit id="PUAFIR316" title="Identify, detect and monitor hazardous materials at an incident"/>
+      <unit id="PUAFIR317" title="Operate aerial appliance"/>
+      <unit id="PUAFIR318" title="Operate specialist appliance"/>
+      <unit id="PUAFIR320" title="Render hazardous materials incidents safe"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE020A" title="Lead a crew"/>
+      <unit id="PUASAR018A" title="Select and maintain canines to be part of a canine search team for USAR incidents"/>
+      <unit id="PUASAR019A" title="Train canines to work in a USAR environment"/>
+      <unit id="PUASAR020A" title="Develop a canine search team for USAR incidents"/>
+      <unit id="PUASAR021A" title="Search as part of a canine search team at USAR incidents"/>
+      <unit id="PUASAR024A" title="Undertake road crash rescue"/>
+      <unit id="PUASAR025A" title="Undertake confined space rescue"/>
+      <unit id="PUASAR026A" title="Undertake industrial and domestic rescue"/>
+      <unit id="PUASAR027A" title="Undertake land search rescue"/>
+      <unit id="PUASAR028A" title="Undertake rescue from a partial structural collapse"/>
+      <unit id="PUASAR029A" title="Undertake a complex transport rescue"/>
+      <unit id="PUASAR030A" title="Undertake trench rescue"/>
+      <unit id="PUASAR031A" title="Undertake an urban search and rescue Category 2"/>
+      <unit id="PUASAR032A" title="Undertake vertical rescue"/>
+      <unit id="PUASAR034" title="Undertake swiftwater and floodwater rescue and recovery"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA30112" title="Certificate III in Public Safety (Aboriginal or Torres Strait Islander Community Policing)">
+    <units>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAPOLGD006A" title="Facilitate effective communication in the policing environment"/>
+      <unit id="PUAPOLGD008A" title="Administer legislation to ensure compliance"/>
+      <unit id="PUAPOLGD010A" title="Perform police administrative duties"/>
+      <unit id="PUAPOLIM002A" title="Promote public safety objectives by liaison with a culturally specific community"/>
+      <unit id="PUAPOLIM004A" title="Provide police services in an Aboriginal or Torres Strait Islander community"/>
+      <unit id="PUAPOLIM005A" title="Provide advanced information concerning an Aboriginal or Torres Strait Islander community"/>
+    </units>
+  </qualification>
+  <qualification id="PUA30713" title="Certificate III in Public Safety (Firefighting Operations)">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPPSIS3011A" title="Apply map presentation principles"/>
+      <unit id="CPPSIS3015A" title="Collect spatial data"/>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="FPIFGM3212" title="Fall trees manually (intermediate)"/>
+      <unit id="FPIFGM3213" title="Fall trees manually (advanced)"/>
+      <unit id="FPIFGM3215" title="Perform complex 4x4 operations"/>
+      <unit id="HLTFA302C" title="Provide first aid in remote situation"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA404C" title="Apply advanced resuscitation techniques"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUAFIR301B" title="Undertake community safety activities"/>
+      <unit id="PUAFIR302B" title="Suppress urban fire"/>
+      <unit id="PUAFIR303B" title="Suppress wildfire"/>
+      <unit id="PUAFIR304B" title="Respond to marine emergencies"/>
+      <unit id="PUAFIR305B" title="Respond to aviation incidents (general)"/>
+      <unit id="PUAFIR308B" title="Employ personal protection at a hazardous materials incident"/>
+      <unit id="PUAFIR309B" title="Operate pumps"/>
+      <unit id="PUAFIR311B" title="Dispatch rappel personnel and equipment from a helicopter"/>
+      <unit id="PUAFIR312B" title="Operate aerial ignition equipment in an aircraft"/>
+      <unit id="PUAFIR313B" title="Operate aviation support equipment"/>
+      <unit id="PUAFIR314B" title="Utilise installed fire safety systems"/>
+      <unit id="PUAFIR315B" title="Navigate from an aircraft"/>
+      <unit id="PUAFIR316" title="Identify, detect and monitor hazardous materials at an incident"/>
+      <unit id="PUAFIR317" title="Operate aerial appliance"/>
+      <unit id="PUAFIR318" title="Operate specialist appliance"/>
+      <unit id="PUAFIR319" title="Take local weather observations"/>
+      <unit id="PUAFIR320" title="Render hazardous materials incidents safe"/>
+      <unit id="PUAFIR321" title="Operate heavy plant in fire control operations"/>
+      <unit id="PUAFIR322" title="Push trees with machines in forest fire control operations"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE020A" title="Lead a crew"/>
+      <unit id="PUASAR024A" title="Undertake road crash rescue"/>
+      <unit id="PUASAR025A" title="Undertake confined space rescue"/>
+      <unit id="PUASAR026A" title="Undertake industrial and domestic rescue"/>
+      <unit id="PUASAR028A" title="Undertake rescue from a partial structural collapse"/>
+      <unit id="PUASAR029A" title="Undertake a complex transport rescue"/>
+      <unit id="PUASAR030A" title="Undertake trench rescue"/>
+      <unit id="PUASAR031A" title="Undertake an urban search and rescue Category 2"/>
+      <unit id="PUASAR032A" title="Undertake vertical rescue"/>
+      <unit id="PUASAR034" title="Undertake swiftwater and floodwater rescue and recovery"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA30412" title="Certificate III in Public Safety (SES Rescue)">
+    <units>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="FPIFGM3212" title="Fall trees manually (intermediate)"/>
+      <unit id="FPIFGM3213" title="Fall trees manually (advanced)"/>
+      <unit id="HLTFA211A" title="Provide basic emergency life support"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="HLTFA404C" title="Apply advanced resuscitation techniques"/>
+      <unit id="PUAAMS001B" title="Work in an aviation environment"/>
+      <unit id="PUAAMS002B" title="Search as a member of an air search team"/>
+      <unit id="PUAAMS003B" title="Conduct stores dropping operations"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUASAR024A" title="Undertake road crash rescue"/>
+      <unit id="PUASAR027A" title="Undertake land search rescue"/>
+      <unit id="PUASAR028A" title="Undertake rescue from a partial structural collapse"/>
+      <unit id="PUASAR032A" title="Undertake vertical rescue"/>
+      <unit id="PUASES008A" title="Undertake storm and water damage operations"/>
+      <unit id="PUASES009A" title="Undertake inland floodboat operations"/>
+      <unit id="PUASES010A" title="Plan, activate and maintain a communications network"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUASES013A" title="Undertake storm and water damage operations performed at heights"/>
+      <unit id="PUASES014A" title="Apply flood and fast moving water safety techniques"/>
+      <unit id="PUASES015A" title="Operate over-snow vehicle"/>
+      <unit id="PUASES016A" title="Apply snowcraft skills when performing search operations"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA40212" title="Certificate IV in Public Safety (SES Leadership)">
+    <units>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM013B" title="Administer a local public safety group"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUASES010A" title="Plan, activate and maintain a communications network"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA42612" title="Certificate IV in Public Safety (Aquatic Search and Rescue Management)">
+    <units>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM013B" title="Administer a local public safety group"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE027A" title="Undertake beach safety management activities"/>
+      <unit id="PUASAR011C" title="Search as a member of an aquatic search team"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU304A" title="Maintain pool water quality"/>
+      <unit id="SISCAQU305A" title="Implement aquatic facility plant and equipment maintenance program"/>
+      <unit id="SISCAQU416A" title="Coordinate lifeguard service at an aquatic facility"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA41012" title="Certificate IV in Public Safety (Leadership)">
+    <units>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM013B" title="Administer a local public safety group"/>
+      <unit id="PUAEMR008B" title="Contribute to an emergency risk management process"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR029" title="Plan and implement a treatment measure"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAMAN007B" title="Manage financial resources"/>
+      <unit id="PUAMAN008B" title="Manage physical resources"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUASES010A" title="Plan, activate and maintain a communications network"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAVEH001B" title="Drive vehicles under operational conditions"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA42512" title="Certificate IV in Public Safety (Disaster Victim Identification Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PUA40112" title="Certificate IV in Public Safety (Aboriginal or Torres Strait Islander Community Policing)">
+    <units>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAPOLGD002A" title="Apply policing methods"/>
+      <unit id="PUAPOLGD003A" title="Undertake initial police investigation"/>
+      <unit id="PUAPOLGD009A" title="Manage involvement in the judicial process"/>
+      <unit id="PUAPOLGD011A" title="Manage personal and ethical performance"/>
+      <unit id="PUAPOLIM006A" title="Enhance status as a role model in an Aboriginal or Torres Strait Islander community"/>
+    </units>
+  </qualification>
+  <qualification id="PUA40313" title="Certificate IV in Public Safety (Firefighting Supervision)">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAEMR022" title="Establish context for emergency risk assessment"/>
+      <unit id="PUAFIR401B" title="Obtain incident intelligence"/>
+      <unit id="PUAFIR403B" title="Assess building plans"/>
+      <unit id="PUAFIR404B" title="Inspect dangerous goods facilities"/>
+      <unit id="PUAFIR405B" title="Collect, analyse and provide regulatory information"/>
+      <unit id="PUAFIR408B" title="Plan aircraft operations"/>
+      <unit id="PUAFIR409B" title="Develop air attack strategies"/>
+      <unit id="PUAFIR410A" title="Provide safety advice at a rural_land management incident"/>
+      <unit id="PUAFIR411A" title="Provide safety advice at an urban incident"/>
+      <unit id="PUAFIR412" title="Conduct simple prescribed burns"/>
+      <unit id="PUAFIR413" title="Develop simple prescribed burn plans"/>
+      <unit id="PUAFIR414" title="Interpret and analyse fire weather information"/>
+      <unit id="PUAFIR415" title="Supervise machinery use in wildfire operations"/>
+      <unit id="PUAFIR416" title="Supervise specialist response to aviation accidents and incidents"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA42712" title="Certificate IV in Public Safety (Emergency Communications Centre Operations)">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWHS510A" title="Contribute to implementing emergency procedures"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAECO009A" title="Coordinate emergency communications centre operations"/>
+      <unit id="PUAECO010A" title="Maintain standards of emergency service delivery"/>
+      <unit id="PUAECO011A" title="Support logistics in the field"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA42912" title="Certificate IV in Public Safety (Biosecurity Response Leadership)">
+    <units>
+      <unit id="AHCBIO401A" title="Supervise activities on infected premises"/>
+      <unit id="AHCBIO501A" title="Manage active operational emergency disease or plant pest sites"/>
+      <unit id="AHCOHS401A" title="Maintain occupational health and safety (OHS) processes"/>
+      <unit id="AHCPMG601A" title="Develop a plant pest survey strategy"/>
+      <unit id="AHCPMG602A" title="Develop a plant pest destruction strategy"/>
+      <unit id="BSBWOR403A" title="Manage stress in the workplace"/>
+      <unit id="PSPGOV417A" title="Identify and treat risks"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUAEMR014A" title="Deliver recovery services"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAOHS003B" title="Implement and monitor the organisation's occupational health and safety policies, procedures and programs"/>
+      <unit id="PUAOPE007B" title="Command agency personnel within a multi-agency emergency response"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUAOPE021A" title="Manage information function at an incident"/>
+      <unit id="PUAOPE022A" title="Manage logistics for a Level 2 incident"/>
+      <unit id="PUAOPE023A" title="Manage operations for a Level 2 incident"/>
+      <unit id="PUAOPE025A" title="Manage planning for a Level 2 incident"/>
+      <unit id="TLIG3002A" title="Lead a work team or group"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA41112" title="Certificate IV in Public Safety (Community Safety)">
+    <units>
+      <unit id="AHCCCF406A" title="Facilitate ongoing group development"/>
+      <unit id="AHCILM506A" title="Operate within community cultures and goals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="CHCDFV402C" title="Manage own professional development in responding to domestic and family violence"/>
+      <unit id="CHCDFV404C" title="Promote community awareness of domestic and family violence"/>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="CHCYTH301D" title="Work effectively with young people"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="PSPPOL401A" title="Contribute to policy development"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM006B" title="Plan and conduct a public awareness program"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM015B" title="Conduct community safety activities"/>
+      <unit id="PUAEMR008B" title="Contribute to an emergency risk management process"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAEMR029" title="Plan and implement a treatment measure"/>
+      <unit id="PUAFIR301B" title="Undertake community safety activities"/>
+      <unit id="PUAFIR403B" title="Assess building plans"/>
+      <unit id="PUAFIR404B" title="Inspect dangerous goods facilities"/>
+      <unit id="PUAFIR405B" title="Collect, analyse and provide regulatory information"/>
+      <unit id="PUAFIR507B" title="Inspect building fire safety systems"/>
+      <unit id="PUAFIR509B" title="Implement prevention strategies"/>
+      <unit id="PUAFIR510B" title="Inspect for legislative compliance"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAOPE011B" title="Inspect property and facilities"/>
+      <unit id="PUAPOL036B" title="Provide crime prevention advice through environmental design"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAWER005B" title="Operate as part of an emergency control organisation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+      <unit id="SISXRES402A" title="Support implementation of environmental management practices"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA50312" title="Diploma of Public Safety (Forensic Investigation)">
+    <units>
+      <unit id="PUAPOLFC002B" title="Maintain a safe forensic working environment"/>
+      <unit id="PUAPOLFC003B" title="Detect, record and collect physical evidence"/>
+      <unit id="PUAPOLFC004B" title="Evaluate and document cases and facilitate analyses"/>
+      <unit id="PUAPOLFC005B" title="Prepare and submit forensic documentation"/>
+      <unit id="PUAPOLFC006B" title="Contribute to and comply with quality systems"/>
+      <unit id="PUAPOLFC008B" title="Process and interpret comparative evidence"/>
+      <unit id="PUAPOLFC022A" title="Prepare and present specialist forensic evidence or opinion"/>
+      <unit id="PUAPOLFC029A" title="Use and maintain specialist forensic equipment"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+    </units>
+  </qualification>
+  <qualification id="PUA52112" title="Diploma of Public Safety (Police Intelligence Practice)">
+    <units/>
+  </qualification>
+  <qualification id="PUA52312" title="Diploma of Public Safety (Emergency Management)">
+    <units>
+      <unit id="BSBCON401A" title="Work effectively in a business continuity context"/>
+      <unit id="BSBCON601B" title="Develop and maintain business continuity plans"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAEMR008B" title="Contribute to an emergency risk management process"/>
+      <unit id="PUAEMR014A" title="Deliver recovery services"/>
+      <unit id="PUAEMR015A" title="Establish and manage a recovery centre"/>
+      <unit id="PUAEMR016A" title="Facilitate community involvement in recovery"/>
+      <unit id="PUAEMR017A" title="Manage recovery functions and services"/>
+      <unit id="PUAEMR018A" title="Work in an emergency management context"/>
+      <unit id="PUAEMR020A" title="Design activities which exercise elements of emergency management arrangements"/>
+      <unit id="PUAEMR021A" title="Facilitate emergency planning processes"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAMAN007B" title="Manage financial resources"/>
+      <unit id="PUAMAN008B" title="Manage physical resources"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAOPE019A" title="Control a Level 3 incident"/>
+      <unit id="PUAOPE024A" title="Manage operations for a Level 3 incident"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA50412" title="Diploma of Public Safety (SES Operations Management)">
+    <units>
+      <unit id="PUAAMS008B" title="Manage search and rescue operations"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUACOM011B" title="Develop community awareness networks"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUACOM013B" title="Administer a local public safety group"/>
+      <unit id="PUAEMR022" title="Establish context for emergency risk assessment"/>
+      <unit id="PUAEMR023" title="Assess emergency risk"/>
+      <unit id="PUAEMR025" title="Manage risk treatment implementation"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAMAN006B" title="Manage and facilitate change"/>
+      <unit id="PUAOHS003B" title="Implement and monitor the organisation's occupational health and safety policies, procedures and programs"/>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAOPE019A" title="Control a Level 3 incident"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUASES011A" title="Manage emergency operations"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL403A" title="Coordinate and facilitate distance-based learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAETAS401A" title="Maintain training and assessment information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA52412" title="Diploma of Public Safety (Biosecurity Response Management)">
+    <units>
+      <unit id="AHCBIO502A" title="Manage the implementation of an emergency disease or plant pest control program"/>
+      <unit id="AHCBIO601A" title="Plan and oversee an emergency disease or plant pest control program"/>
+      <unit id="PSPPA601A" title="Manage public affairs"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUAEMR017A" title="Manage recovery functions and services"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN004B" title="Manage procurement"/>
+      <unit id="PUAMAN007B" title="Manage financial resources"/>
+      <unit id="PUAMAN008B" title="Manage physical resources"/>
+      <unit id="PUAOHS004B" title="Establish and maintain the occupational health and safety system"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAOPE018A" title="Control a Level 2 incident"/>
+      <unit id="PUAOPE024A" title="Manage operations for a Level 3 incident"/>
+      <unit id="PUAOPE025A" title="Manage planning for a Level 2 incident"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA51912" title="Diploma of Public Safety (Mounted Policing)">
+    <units/>
+  </qualification>
+  <qualification id="PUA50212" title="Diploma of Public Safety (Policing)">
+    <units>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUAPOLGD001A" title="Maintain police operational safety"/>
+      <unit id="PUAPOLGD002A" title="Apply policing methods"/>
+      <unit id="PUAPOLGD003A" title="Undertake initial police investigation"/>
+      <unit id="PUAPOLGD004A" title="Gather, collate and record police information"/>
+      <unit id="PUAPOLGD005A" title="Use and maintain police operational equipment"/>
+      <unit id="PUAPOLGD006A" title="Facilitate effective communication in the policing environment"/>
+      <unit id="PUAPOLGD007A" title="Manage persons in care or custody"/>
+      <unit id="PUAPOLGD009A" title="Manage involvement in the judicial process"/>
+      <unit id="PUAPOLGD010A" title="Perform police administrative duties"/>
+      <unit id="PUAPOLGD011A" title="Manage personal and ethical performance"/>
+      <unit id="PUAPOLGD012A" title="Address customer needs"/>
+      <unit id="PUAPOLGD014A" title="Drive police vehicles"/>
+      <unit id="PUAPOLGD016A" title="Perform inter-jurisdictional police duties"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA50912" title="Diploma of Public Safety (Search and Rescue - Coordination)">
+    <units>
+      <unit id="LGAPLEM404A" title="Prepare and present geographic information systems data"/>
+      <unit id="PUAAMS003B" title="Conduct stores dropping operations"/>
+      <unit id="PUAAMS006B" title="Coordinate search and rescue resources"/>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAEMR027" title="Assess operational risk"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUAOPE006B" title="Control multi-agency emergency situations"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAPOLGD013A" title="Develop productive working relationships"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TDMMH807B" title="PLAN AND NAVIGATE AN OFFSHORE PASSAGE WITHIN THE LIMITS OF RESPONSIBILITY OF A MASTER 5"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA50112" title="Diploma of Public Safety (Police Search and Rescue - Coordination)">
+    <units>
+      <unit id="PUAAMS006B" title="Coordinate search and rescue resources"/>
+      <unit id="PUAAMS007B" title="Coordinate search and rescue operations"/>
+      <unit id="PUAOPE006B" title="Control multi-agency emergency situations"/>
+      <unit id="PUAOPE009C" title="Navigate in an aquatic environment"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAPOLGD013A" title="Develop productive working relationships"/>
+      <unit id="PUAPOLMG004A" title="Manage media requirements"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+    </units>
+  </qualification>
+  <qualification id="PUA50513" title="Diploma of Public Safety (Firefighting Management)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="CPPSIS4035A" title="Apply GIS software to problem-solving techniques"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUAEMR023" title="Assess emergency risk"/>
+      <unit id="PUAFIR501B" title="Conduct fire investigation and analysis activities"/>
+      <unit id="PUAFIR502B" title="Develop incident control strategies"/>
+      <unit id="PUAFIR503B" title="Coordinate human resource management activities"/>
+      <unit id="PUAFIR504B" title="Assist with formulation and implementation of plans and policies"/>
+      <unit id="PUAFIR505B" title="Administer cost centre's financial resources"/>
+      <unit id="PUAFIR506B" title="Conduct an assessment of a building's performance based design"/>
+      <unit id="PUAFIR507B" title="Inspect building fire safety systems"/>
+      <unit id="PUAFIR509B" title="Implement prevention strategies"/>
+      <unit id="PUAFIR510B" title="Inspect for legislative compliance"/>
+      <unit id="PUAFIR511" title="Conduct complex prescribed burns"/>
+      <unit id="PUAFIR512" title="Develop and analyse the behaviour and suppression options for a Level 2 wildfire"/>
+      <unit id="PUAFIR513" title="Develop complex prescribed burn plans"/>
+      <unit id="PUAFIR514" title="Assess and evaluate a facility&#x2019;s fire and incident safety management systems"/>
+      <unit id="PUAMAN004B" title="Manage procurement"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAMAN008B" title="Manage physical resources"/>
+      <unit id="PUAOHS003B" title="Implement and monitor the organisation's occupational health and safety policies, procedures and programs"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUAOPE018A" title="Control a Level 2 incident"/>
+      <unit id="PUAOPE021A" title="Manage information function at an incident"/>
+      <unit id="PUAOPE022A" title="Manage logistics for a Level 2 incident"/>
+      <unit id="PUAOPE023A" title="Manage operations for a Level 2 incident"/>
+      <unit id="PUAOPE025A" title="Manage planning for a Level 2 incident"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUASAR035" title="Develop plans for deployment of a USAR task force"/>
+      <unit id="PUASAR036" title="Implement and monitor USAR task force plans"/>
+      <unit id="PUASAR037" title="Review USAR task force plans implemented at an incident"/>
+      <unit id="TAEASS502B" title="Design and develop assessment tools"/>
+      <unit id="TAEDES502A" title="Design and develop learning resources"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA51812" title="Diploma of Public Safety (Human Source Management)">
+    <units/>
+  </qualification>
+  <qualification id="PUA51012" title="Diploma of Public Safety (Community Safety)">
+    <units>
+      <unit id="AHCCCF505A" title="Contribute to regional planning process"/>
+      <unit id="BSBADV507B" title="Develop a media plan"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="CHCNET503D" title="Develop new networks"/>
+      <unit id="CHCPOL505B" title="Manage research activities"/>
+      <unit id="CHCYTH505E" title="Support youth programs"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGAEHRH604B" title="Develop and implement environmental health education promotion and awareness strategies"/>
+      <unit id="LGAEHRR504C" title="Implement public environmental health education programs"/>
+      <unit id="LGAPLEM403A" title="Attend requests for building and planning information and advice"/>
+      <unit id="LGAPLEM501A" title="Achieve an efficient and sustainable use of natural resources"/>
+      <unit id="LGAPLEM506A" title="Improve community knowledge and skills in environmental management practices"/>
+      <unit id="NWP505B" title="Implement and manage environmental management policies, plans, procedures and programs"/>
+      <unit id="PSPREG403B" title="Assess compliance"/>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUAEMR008B" title="Contribute to an emergency risk management process"/>
+      <unit id="PUAEMR009B" title="Facilitate emergency risk assessment"/>
+      <unit id="PUAEMR012B" title="Determine treatment options"/>
+      <unit id="PUAEMR028" title="Develop emergency management plans"/>
+      <unit id="PUAEMR029" title="Plan and implement a treatment measure"/>
+      <unit id="PUAFIR403B" title="Assess building plans"/>
+      <unit id="PUAFIR404B" title="Inspect dangerous goods facilities"/>
+      <unit id="PUAFIR501B" title="Conduct fire investigation and analysis activities"/>
+      <unit id="PUAFIR504B" title="Assist with formulation and implementation of plans and policies"/>
+      <unit id="PUAFIR506B" title="Conduct an assessment of a building's performance based design"/>
+      <unit id="PUAFIR507B" title="Inspect building fire safety systems"/>
+      <unit id="PUAFIR508B" title="Assess and evaluate a facility's fire/incident safety management systems in hazardous materials"/>
+      <unit id="PUAFIR509B" title="Implement prevention strategies"/>
+      <unit id="PUAFIR602B" title="Manage the implementation of community safety strategies"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAOHS003B" title="Implement and monitor the organisation's occupational health and safety policies, procedures and programs"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUAPRS20529B" title="Manage marketing requirements"/>
+      <unit id="PUAWER002B" title="Ensure workplace emergency prevention procedures, systems and processes are implemented"/>
+      <unit id="PUAWER005B" title="Operate as part of an emergency control organisation"/>
+      <unit id="PUAWER006B" title="Lead an emergency control organisation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+      <unit id="PUAWER010B" title="Lead a workplace emergency initial response team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA60612" title="Advanced Diploma of Public Safety (Search and Rescue - Management)">
+    <units>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="LGAPLEM404A" title="Prepare and present geographic information systems data"/>
+      <unit id="PUAAMS008B" title="Manage search and rescue operations"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAEMR026" title="Treat operational risk"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN006B" title="Manage and facilitate change"/>
+      <unit id="PUAOHS003B" title="Implement and monitor the organisation's occupational health and safety policies, procedures and programs"/>
+      <unit id="PUAOPE006B" title="Control multi-agency emergency situations"/>
+      <unit id="PUAOPE007B" title="Command agency personnel within a multi-agency emergency response"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUAPOL033B" title="Manage intelligence information processes"/>
+      <unit id="PUAPOLMG007A" title="Contribute to policy formulation and revision"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="TDMMH807B" title="PLAN AND NAVIGATE AN OFFSHORE PASSAGE WITHIN THE LIMITS OF RESPONSIBILITY OF A MASTER 5"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA60312" title="Advanced Diploma of Public Safety (Police Investigation)">
+    <units>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUAPOLGD009A" title="Manage involvement in the judicial process"/>
+      <unit id="PUAPOLGD013A" title="Develop productive working relationships"/>
+      <unit id="PUAPOLGD015A" title="Employ media strategies"/>
+      <unit id="PUAPOLIV001A" title="Manage police investigations"/>
+      <unit id="PUAPOLIV002A" title="Conduct police investigations"/>
+      <unit id="PUAPOLIV003A" title="Manage incident scenes"/>
+      <unit id="PUAPOLIV004A" title="Conduct investigative interviews"/>
+      <unit id="PUAPOLIV009A" title="Manage physical evidence"/>
+      <unit id="PUAPOLIV011A" title="Manage information within specialised policing functions"/>
+    </units>
+  </qualification>
+  <qualification id="PUA61212" title="Advanced Diploma of Public Safety (Police Close Personal Protection)">
+    <units/>
+  </qualification>
+  <qualification id="PUA61712" title="Advanced Diploma of Public Safety (Forensic Investigation)">
+    <units/>
+  </qualification>
+  <qualification id="PUA60712" title="Advanced Diploma of Public Safety (Community Safety)">
+    <units>
+      <unit id="BSBADV602A" title="Develop an advertising campaign"/>
+      <unit id="BSBADV603A" title="Manage advertising production"/>
+      <unit id="BSBADV604A" title="Execute an advertising campaign"/>
+      <unit id="BSBADV605A" title="Evaluate campaign effectiveness"/>
+      <unit id="LGAPLEM606B" title="Develop ecologically sustainable land management systems"/>
+      <unit id="LGAPLEM608A" title="Identify and evaluate options to improve road safety"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PSPREG602B" title="Evaluate regulatory compliance"/>
+      <unit id="PSPWPI605B" title="Audit management systems"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUAEMR009B" title="Facilitate emergency risk assessment"/>
+      <unit id="PUAEMR012B" title="Determine treatment options"/>
+      <unit id="PUAEMR028" title="Develop emergency management plans"/>
+      <unit id="PUAEMR029" title="Plan and implement a treatment measure"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUAFIR509B" title="Implement prevention strategies"/>
+      <unit id="PUAFIR602B" title="Manage the implementation of community safety strategies"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAMAN006B" title="Manage and facilitate change"/>
+      <unit id="PUAMAN007B" title="Manage financial resources"/>
+      <unit id="PUAMAN008B" title="Manage physical resources"/>
+      <unit id="PUAOHS004B" title="Establish and maintain the occupational health and safety system"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+      <unit id="PUAPRS20529B" title="Manage marketing requirements"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+      <unit id="PUAWER003B" title="Manage and monitor workplace emergency procedures, equipment and other resources"/>
+      <unit id="PUAWER006B" title="Lead an emergency control organisation"/>
+      <unit id="PUAWER007B" title="Manage an emergency control organisation"/>
+      <unit id="PUAWER010B" title="Lead a workplace emergency initial response team"/>
+      <unit id="PUAWER011B" title="Manage workplace emergency initial response teams"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA60212" title="Advanced Diploma of Public Safety (Police Search &amp; Rescue - Management)">
+    <units>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="PUAAMS008B" title="Manage search and rescue operations"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUAOPE009C" title="Navigate in an aquatic environment"/>
+      <unit id="PUAOPE014A" title="Navigate to an incident"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAPOLIV011A" title="Manage information within specialised policing functions"/>
+      <unit id="PUAPOLMG007A" title="Contribute to policy formulation and revision"/>
+    </units>
+  </qualification>
+  <qualification id="PUA61012" title="Advanced Diploma of Public Safety (Disaster victim identification coordination)">
+    <units/>
+  </qualification>
+  <qualification id="PUA61812" title="Advanced Diploma of Public Safety (Police Supervision)">
+    <units/>
+  </qualification>
+  <qualification id="PUA60513" title="Advanced Diploma of Public Safety (Firefighting Management)">
+    <units>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="PUACOM004B" title="Manage organisational communication strategies"/>
+      <unit id="PUACOM010B" title="Promote the organisation's mission and services"/>
+      <unit id="PUAFIR601B" title="Develop and administer agency policy, procedures and practices"/>
+      <unit id="PUAFIR602B" title="Manage the implementation of community safety strategies"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN003B" title="Manage human resources"/>
+      <unit id="PUAMAN007B" title="Manage financial resources"/>
+      <unit id="PUAOHS004B" title="Establish and maintain the occupational health and safety system"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAOPE019A" title="Control a Level 3 incident"/>
+      <unit id="PUAOPE024A" title="Manage operations for a Level 3 incident"/>
+      <unit id="PUAOPE026A" title="Provide strategic safety advice at an incident"/>
+      <unit id="PUAPOLMG007A" title="Contribute to policy formulation and revision"/>
+      <unit id="PUAPRS20529B" title="Manage marketing requirements"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA60412" title="Advanced Diploma of Public Safety (Police Intelligence Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PUA60112" title="Advanced Diploma of Public Safety (Emergency Management)">
+    <units>
+      <unit id="BSBCON601B" title="Develop and maintain business continuity plans"/>
+      <unit id="BSBFLM511B" title="Develop a workplace learning environment"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="PSPCOM503A" title="Build and maintain community relationships"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPSOHS502A" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="PSPSOHS609A" title="Evaluate an organisation's OHS performance"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM008B" title="Develop and organise public safety awareness programs"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUAEMR009B" title="Facilitate emergency risk assessment"/>
+      <unit id="PUAEMR012B" title="Determine treatment options"/>
+      <unit id="PUAEMR014A" title="Deliver recovery services"/>
+      <unit id="PUAEMR015A" title="Establish and manage a recovery centre"/>
+      <unit id="PUAEMR016A" title="Facilitate community involvement in recovery"/>
+      <unit id="PUAEMR017A" title="Manage recovery functions and services"/>
+      <unit id="PUAEMR018A" title="Work in an emergency management context"/>
+      <unit id="PUAEMR021A" title="Facilitate emergency planning processes"/>
+      <unit id="PUAEMR030" title="Manage and evaluate emergency management exercises"/>
+      <unit id="PUAEMR031" title="Design emergency management exercises"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAMAN001B" title="Manage the organisation's public safety responsibilities"/>
+      <unit id="PUAMAN005B" title="Manage projects"/>
+      <unit id="PUAOHS004B" title="Establish and maintain the occupational health and safety system"/>
+      <unit id="PUAOPE017A" title="Coordinate resources for a multi-agency incident"/>
+      <unit id="PUAPRO001B" title="Promote a learning environment in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PUA61412" title="Advanced Diploma of Public Safety (Surveillance)">
+    <units/>
+  </qualification>
+  <qualification id="PUA60913" title="Advanced Diploma of Public Safety (Fire Investigation)">
+    <units>
+      <unit id="CPPSEC3028A" title="Compile investigative report"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PUACOM009B" title="Manage media requirements at major incident"/>
+      <unit id="PUAFIR603A" title="Determine origin and cause of wildfire"/>
+      <unit id="PUAFIR604A" title="Determine origin and cause of structure fire"/>
+      <unit id="PUAFIR605A" title="Determine origin and cause of mobile property fire"/>
+      <unit id="PUAFIR606A" title="Apply principles of combustion and fire dynamics to fire scene investigation"/>
+      <unit id="PUAFIR607A" title="Apply electrical_electronic knowledge to fire investigations"/>
+      <unit id="PUAFIR608A" title="Investigate fatal fires"/>
+      <unit id="PUAFIR609A" title="Collect, record and coordinate the analysis of physical evidence"/>
+      <unit id="PUAFIR610A" title="Manage imaging and electronic data"/>
+      <unit id="PUAFIR611A" title="Process and analyse fire scene data and laboratory results"/>
+      <unit id="PUAFIR612A" title="Undertake post-incident analysis"/>
+      <unit id="PUALAW003B" title="Give evidence in a judicial or quasi-judicial setting"/>
+      <unit id="PUALAW004B" title="Represent the organisation in a judicial or quasi-judicial setting"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUAPOLFC005B" title="Prepare and submit forensic documentation"/>
+      <unit id="PUAPOLFC006B" title="Contribute to and comply with quality systems"/>
+      <unit id="PUAPOLFC014A" title="Conduct investigations at a bomb-explosion scene"/>
+      <unit id="PUAPOLFC029A" title="Use and maintain specialist forensic equipment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PUA61912" title="Advanced Diploma of Public Safety (Police Witness Protection)">
+    <units/>
+  </qualification>
+  <qualification id="PUA61312" title="Advanced Diploma of Public Safety (Police Negotiations)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80312" title="Vocational Graduate Certificate in Public Safety (Police Investigation)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80112" title="Vocational Graduate Certificate in Public Safety (Forensic Firearms Examination)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80512" title="Vocational Graduate Certificate in Public Safety (Fingerprint Investigation)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80412" title="Vocational Graduate Certificate in Public Safety (Crime Scene Investigation)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80212" title="Vocational Graduate Certificate in Public Safety (Police Prosecution)">
+    <units/>
+  </qualification>
+  <qualification id="PUA80612" title="Vocational Graduate Certificate in Public Safety (Police Management)">
+    <units/>
+  </qualification>
+</qualifications>

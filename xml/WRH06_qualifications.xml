@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<qualifications class="WRH06">
+  <qualification id="WRH20109" title="Certificate II in Hairdressing">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="WRBCS201B" title="Conduct financial transactions"/>
+      <unit id="WRHCL201A" title="Apply temporary hair colour and remove residual colour products"/>
+      <unit id="WRHCR201A" title="Rinse and neutralise chemically curled or volumised hair"/>
+      <unit id="WRHCS201A" title="Prepare clients for salon services"/>
+      <unit id="WRHCS202B" title="Maintain tools and equipment"/>
+      <unit id="WRHCS203A" title="Hone and strop straight razors"/>
+      <unit id="WRHCS204A" title="Maintain and organise work areas"/>
+      <unit id="WRHCS205A" title="Follow personal health and safety routines at work"/>
+      <unit id="WRHCS206A" title="Perform head, neck and shoulder massage"/>
+      <unit id="WRHCS207A" title="Develop hairdressing industry knowledge"/>
+      <unit id="WRHHD201A" title="Dry hair to shape"/>
+      <unit id="WRHHD202A" title="Apply single, two and three strand braiding techniques"/>
+      <unit id="WRHWP201A" title="Assist colleagues providing multiple salon services as a team member"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRH30109" title="Certificate III in Hairdressing">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="WRBCS201B" title="Conduct financial transactions"/>
+      <unit id="WRBCS203B" title="Provide service to clients"/>
+      <unit id="WRHCL302B" title="Colour and lighten hair"/>
+      <unit id="WRHCL303B" title="Design and perform full and partial highlighting techniques"/>
+      <unit id="WRHCL304A" title="Perform colour correction"/>
+      <unit id="WRHCL305B" title="Perform on scalp full head and re-touch bleach services"/>
+      <unit id="WRHCR302B" title="Perform chemical curling and volumising services"/>
+      <unit id="WRHCR303B" title="Perform chemical straightening and relaxing services"/>
+      <unit id="WRHCR404B" title="Apply chemical reformation techniques to enhance hair designs"/>
+      <unit id="WRHCS201A" title="Prepare clients for salon services"/>
+      <unit id="WRHCS202B" title="Maintain tools and equipment"/>
+      <unit id="WRHCS203A" title="Hone and strop straight razors"/>
+      <unit id="WRHCS204A" title="Maintain and organise work areas"/>
+      <unit id="WRHCS205A" title="Follow personal health and safety routines at work"/>
+      <unit id="WRHCS308A" title="Plan services for special events"/>
+      <unit id="WRHHC301A" title="Design haircut structures"/>
+      <unit id="WRHHC302A" title="Apply one length_solid haircut structures"/>
+      <unit id="WRHHC303A" title="Apply graduated haircut structures"/>
+      <unit id="WRHHC304A" title="Apply layered haircut structures"/>
+      <unit id="WRHHC305A" title="Apply over-comb techniques"/>
+      <unit id="WRHHC306B" title="Combine haircut structures on women"/>
+      <unit id="WRHHC307B" title="Combine haircut structures for traditional and classic designs on men"/>
+      <unit id="WRHHC308B" title="Design and maintain beards and moustaches"/>
+      <unit id="WRHHC309A" title="Perform face and head shaves"/>
+      <unit id="WRHHD202A" title="Apply single, two and three strand braiding techniques"/>
+      <unit id="WRHHD303A" title="Design and apply short to medium-length hair design finishes"/>
+      <unit id="WRHHD304A" title="Design and apply long hair design finishes"/>
+      <unit id="WRHHS301A" title="Apply the principles of hairdressing science"/>
+      <unit id="WRHHS302A" title="Consult with clients and treat hair and scalp conditions"/>
+      <unit id="WRHWP302A" title="Operate effectively as a hairdresser in a salon work team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRH40209" title="Certificate IV in Trichology">
+    <units>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="HLTCOM404B" title="Communicate effectively with clients"/>
+      <unit id="HLTCOM405B" title="Administer a practice"/>
+      <unit id="HLTCOM406B" title="Make referrals to other health care professionals when appropriate"/>
+      <unit id="HLTCOM408B" title="Use specific health terminology to communicate effectively"/>
+      <unit id="HLTCOM502B" title="Develop professional expertise"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="WRHCS202B" title="Maintain tools and equipment"/>
+      <unit id="WRHCS204A" title="Maintain and organise work areas"/>
+      <unit id="WRHHS403A" title="Apply knowledge of hair and scalp problems to trichological consultations"/>
+      <unit id="WRHHS404A" title="Perform trichological assessments"/>
+      <unit id="WRHHS405A" title="Apply the principles of nutrition"/>
+      <unit id="WRHHS406A" title="Develop and apply scalp treatment therapies"/>
+      <unit id="WRHHS407A" title="Perform hair loss diagnosis"/>
+      <unit id="WRHHS408A" title="Design and provide nutritional therapies"/>
+      <unit id="WRHHS409A" title="Design and apply hair loss therapies"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRH40109" title="Certificate IV in Hairdressing">
+    <units>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CUVPHI05A" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIRXCCS003A" title="Coordinate interaction with customers"/>
+      <unit id="SIRXFIN001A" title="Balance point-of-sale terminal"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXOHS002A" title="Maintain store safety"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXSLS004A" title="Build relationships with customers"/>
+      <unit id="TAAASS301B" title="Contribute to assessment"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS403B" title="Develop assessment tools"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL401B" title="Plan and organise group-based delivery"/>
+      <unit id="WRBCS513B" title="Investigate new products and services"/>
+      <unit id="WRBFS202B" title="Design and apply make-up"/>
+      <unit id="WRBFS203B" title="Design and apply make-up for photography"/>
+      <unit id="WRHCL305B" title="Perform on scalp full head and re-touch bleach services"/>
+      <unit id="WRHCL406B" title="Solve complex colour problems"/>
+      <unit id="WRHCR404B" title="Apply chemical reformation techniques to enhance hair designs"/>
+      <unit id="WRHHC410B" title="Design and perform creative haircuts"/>
+      <unit id="WRHHD304A" title="Design and apply long hair design finishes"/>
+      <unit id="WRHHD405B" title="Select and apply hair extensions"/>
+      <unit id="WRHHD406B" title="Work as a session stylist"/>
+      <unit id="WRHHD407A" title="Apply and maintain wigs and hairpieces"/>
+      <unit id="WRHHD408A" title="Make wigs and hairpieces"/>
+      <unit id="WRHHS403A" title="Apply knowledge of hair and scalp problems to trichological consultations"/>
+      <unit id="WRHHS404A" title="Perform trichological assessments"/>
+      <unit id="WRHHS405A" title="Apply the principles of nutrition"/>
+      <unit id="WRHHS406A" title="Develop and apply scalp treatment therapies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRH50109" title="Diploma of Hairdressing Salon Management">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFRA501B" title="Establish a franchise operation"/>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="SIRXEBS004A" title="Select an e-business model"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXOHS003A" title="Provide a safe working environment"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="WRBCS513B" title="Investigate new products and services"/>
+      <unit id="WRHSM501A" title="Manage hairdressing services and sales delivery"/>
+      <unit id="WRHSM502B" title="PROMOTE A HAIRDRESSING BUSINESS"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

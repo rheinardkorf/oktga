@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<qualifications class="CHC">
+  <qualification id="CHC30213" title="Certificate III in Education Support">
+    <units>
+      <unit id="CHCCS312A" title="Use electronic learning materials"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCECE003" title="Provide care for children"/>
+      <unit id="CHCECE006" title="Support behaviour of children and young people"/>
+      <unit id="CHCECE026" title="Work in partnership with families to provide appropriate education and care for children"/>
+      <unit id="CHCEDS001" title="Comply with legislative, policy and industrial requirements in the education environment"/>
+      <unit id="CHCEDS002" title="Assist in implementation of planned educational programs"/>
+      <unit id="CHCEDS003" title="Contribute to student education in all developmental domains"/>
+      <unit id="CHCEDS004" title="Contribute to organisation and management of classroom or centre"/>
+      <unit id="CHCEDS005" title="Support the development of literacy and oral language skills"/>
+      <unit id="CHCEDS006" title="Support the development of numeracy skills"/>
+      <unit id="CHCEDS007" title="Work effectively with students and colleagues"/>
+      <unit id="CHCEDS008" title="Comply with school administrative requirements"/>
+      <unit id="CHCEDS009" title="Communicate with parents, students and colleagues in Aboriginal or Torres Strait Islander language"/>
+      <unit id="CHCEDS010" title="Work effectively as an Aboriginal or Torres Strait Islander education worker"/>
+      <unit id="CHCEDS011" title="Search and assess online information"/>
+      <unit id="CHCEDS012" title="Set up and sustain individual and small group learning areas"/>
+      <unit id="CHCEDS013" title="Use an e-learning management system"/>
+      <unit id="CHCEDS014" title="Support students with English as a second language"/>
+      <unit id="CHCEDS015" title="Support development of student research skills"/>
+      <unit id="CHCEDS016" title="Support learning for students with disabilities in a classroom environment"/>
+      <unit id="CHCEDS017" title="Contribute to the health and safety of students"/>
+      <unit id="CHCEDS018" title="Support students with additional needs in the classroom environment"/>
+      <unit id="CHCEDS024" title="Use educational strategies to support Aboriginal and/or Torres Strait Islander education"/>
+      <unit id="CHCEDS025" title="Facilitate learning for students with disabilities"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="HLTAID003" title="Provide first aid"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC30113" title="Certificate III in Early Childhood Education and Care">
+    <units>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCECE001" title="Develop cultural competence"/>
+      <unit id="CHCECE002" title="Ensure the health and safety of children"/>
+      <unit id="CHCECE003" title="Provide care for children"/>
+      <unit id="CHCECE004" title="Promote and provide healthy food and drinks"/>
+      <unit id="CHCECE005" title="Provide care for babies and toddlers"/>
+      <unit id="CHCECE006" title="Support behaviour of children and young people"/>
+      <unit id="CHCECE007" title="Develop positive and respectful relationships with children"/>
+      <unit id="CHCECE009" title="Use an approved learning framework to guide practice"/>
+      <unit id="CHCECE010" title="Support the holistic development of children in early childhood"/>
+      <unit id="CHCECE011" title="Provide experiences to support children&#x2019;s play and learning"/>
+      <unit id="CHCECE012" title="Support children to connect with their world"/>
+      <unit id="CHCECE013" title="Use information about children to inform practice"/>
+      <unit id="CHCECE014" title="Comply with family day care administration requirements"/>
+      <unit id="CHCECE015" title="Attend to daily functions in home based child care"/>
+      <unit id="CHCECE017" title="Foster the holistic development and wellbeing of the child in early childhood"/>
+      <unit id="CHCORG303C" title="Participate effectively in the work environment"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT003" title="Work collaboratively to maintain an environment safe for children and young people"/>
+      <unit id="CHCSAC004" title="Support the holistic development of children in school age care"/>
+      <unit id="HLTAID004" title="Provide an emergency first aid response in an education and care setting"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+      <unit id="SRCCRO008B" title="Interact positively with infants, toddlers and parents in a recreation environment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC40513" title="Certificate IV in Youth Justice">
+    <units>
+      <unit id="CHCAOD510B" title="Work effectively with clients with complex alcohol and-or other drugs issues"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS419C" title="Provide support services to clients"/>
+      <unit id="CHCCS521B" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CHCCW402C" title="Implement a case work strategy"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+      <unit id="CHCMH411A" title="Work with people with mental health issues"/>
+      <unit id="CHCNET404B" title="Facilitate links with other services"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+      <unit id="CHCPRT007" title="Provide supervision in the community"/>
+      <unit id="CHCPRT008" title="Provide supervision in a secure system"/>
+      <unit id="CHCPRT013" title="Support the progress and development of young people"/>
+      <unit id="CHCPRT016" title="Work in the youth justice environment"/>
+      <unit id="CHCPRT017" title="Support Aboriginal and/or Torres Strait Islander young people in youth justice system"/>
+      <unit id="CHCPRT018" title="Prepare young people for reintegration"/>
+      <unit id="CHCYTH003" title="Support young people to create opportunities in their lives"/>
+      <unit id="CHCYTH004" title="Respond to critical situations"/>
+      <unit id="CHCYTH006" title="Work with young people to establish support networks"/>
+      <unit id="CSCOFM304A" title="Protect the safety and welfare of young offenders"/>
+      <unit id="HLTCSD306D" title="Respond effectively to behaviours of concern"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC40313" title="Certificate IV in Child, Youth and Family Intervention">
+    <units>
+      <unit id="CHCCM402E" title="Establish and monitor a case plan"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCONS401C" title="Facilitate changeover"/>
+      <unit id="CHCCONS402C" title="Facilitate and monitor contact"/>
+      <unit id="CHCCONS403C" title="Support families to develop relationships"/>
+      <unit id="CHCCONS504C" title="Assist families to self manage contact"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS401C" title="Facilitate responsible behaviour"/>
+      <unit id="CHCCS404B" title="Facilitate family intervention strategies"/>
+      <unit id="CHCCS414A" title="Provide education and support on parenting, health and well being"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCDEV001" title="Confirm client developmental status"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT003" title="Work collaboratively to maintain an environment safe for children and young people"/>
+      <unit id="CHCPRT005" title="Work within a practice framework"/>
+      <unit id="CHCPRT009" title="Provide primary residential care"/>
+      <unit id="CHCPW404A" title="Work effectively in trauma informed care"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CHC40213" title="Certificate IV in Education Support">
+    <units>
+      <unit id="CHCCD413E" title="Work within specific communities"/>
+      <unit id="CHCDIS405A" title="Facilitate skills development and maintenance"/>
+      <unit id="CHCDIS411A" title="Communicate using augmentative and alternative communication strategies"/>
+      <unit id="CHCECE006" title="Support behaviour of children and young people"/>
+      <unit id="CHCEDS001" title="Comply with legislative, policy and industrial requirements in the education environment"/>
+      <unit id="CHCEDS013" title="Use an e-learning management system"/>
+      <unit id="CHCEDS019" title="Support students&#x2019; mathematics learning"/>
+      <unit id="CHCEDS020" title="Support students&#x2019; literacy learning"/>
+      <unit id="CHCEDS021" title="Assist in facilitation of student learning"/>
+      <unit id="CHCEDS022" title="Work with students in need of additional support"/>
+      <unit id="CHCEDS023" title="Supervise students outside the classroom"/>
+      <unit id="CHCEDS024" title="Use educational strategies to support Aboriginal and/or Torres Strait Islander education"/>
+      <unit id="CHCEDS025" title="Facilitate learning for students with disabilities"/>
+      <unit id="CHCEDS026" title="Deliver elements of teaching and learning programs"/>
+      <unit id="CHCEDS027" title="Support flexible learning in an education environment"/>
+      <unit id="CHCEDS028" title="Assist in production of language resources"/>
+      <unit id="CHCEDS029" title="Assist teacher to develop Aboriginal and/or Torres Strait Islander language and culture lessons"/>
+      <unit id="CHCEDS030" title="Coordinate e-learning programs"/>
+      <unit id="CHCEDS031" title="Provide support to students with autism spectrum disorder"/>
+      <unit id="CHCEDS032" title="Support learning and implementation of responsible behaviour"/>
+      <unit id="CHCLLN403A" title="Identify clients with language, literacy and numeracy needs and respond effectively"/>
+      <unit id="CHCNET402B" title="Establish and maintain effective networks"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="HLTAID003" title="Provide first aid"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC40413" title="Certificate IV in Youth Work">
+    <units>
+      <unit id="CHCAOD402B" title="Work effectively in the alcohol and other drugs sector"/>
+      <unit id="CHCAOD408B" title="Assess needs of clients with alcohol and-or other drugs issues"/>
+      <unit id="CHCCD401E" title="Support community participation"/>
+      <unit id="CHCCD412B" title="Work within a community development framework"/>
+      <unit id="CHCCED511A" title="Develop, implement and review sexual and reproductive health education programs"/>
+      <unit id="CHCCH301C" title="Work effectively in social housing"/>
+      <unit id="CHCCH427B" title="Work effectively with people experiencing or at risk of homelessness"/>
+      <unit id="CHCCH522B" title="Undertake outreach work"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CHCCM404A" title="Undertake case management for clients with complex needs"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS401C" title="Facilitate responsible behaviour"/>
+      <unit id="CHCCS411C" title="Work effectively in the community sector"/>
+      <unit id="CHCCS419C" title="Provide support services to clients"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCCS521B" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CHCDEV001" title="Confirm client developmental status"/>
+      <unit id="CHCDFV301A" title="Recognise and respond appropriately to domestic and family violence"/>
+      <unit id="CHCGROUP302D" title="Support group activities"/>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCGROUP410B" title="Deliver a structured program"/>
+      <unit id="CHCLLN403A" title="Identify clients with language, literacy and numeracy needs and respond effectively"/>
+      <unit id="CHCMH401A" title="Work effectively in mental health settings"/>
+      <unit id="CHCMH411A" title="Work with people with mental health issues"/>
+      <unit id="CHCNET404B" title="Facilitate links with other services"/>
+      <unit id="CHCORG405E" title="Maintain an effective work environment"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+      <unit id="CHCPRT004" title="Work effectively in child protection to support children, young people and families"/>
+      <unit id="CHCPRT009" title="Provide primary residential care"/>
+      <unit id="CHCPW404A" title="Work effectively in trauma informed care"/>
+      <unit id="CHCPW407A" title="Support self-directed physical health and wellbeing"/>
+      <unit id="CHCSW401A" title="Work effectively with forced migrants"/>
+      <unit id="CHCSW402B" title="Undertake bicultural work with forced migrants in Australia"/>
+      <unit id="CHCYTH001" title="Engage respectfully with young people"/>
+      <unit id="CHCYTH002" title="Work effectively with young people in the youth work context"/>
+      <unit id="CHCYTH003" title="Support young people to create opportunities in their lives"/>
+      <unit id="CHCYTH004" title="Respond to critical situations"/>
+      <unit id="CHCYTH010" title="Provide services for young people appropriate to their needs and circumstances"/>
+      <unit id="CHCYTH011" title="Work effectively with young people and their families"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC40113" title="Certificate IV in School Age Education and Care">
+    <units>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CHCCD420B" title="Work to empower Aboriginal and-or Torres Strait Islander communities"/>
+      <unit id="CHCCOM302D" title="Communicate appropriately with clients and colleagues"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCCS411C" title="Work effectively in the community sector"/>
+      <unit id="CHCCS421B" title="Undertake community sector work within own community"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCECE001" title="Develop cultural competence"/>
+      <unit id="CHCECE002" title="Ensure the health and safety of children"/>
+      <unit id="CHCECE004" title="Promote and provide healthy food and drinks"/>
+      <unit id="CHCECE006" title="Support behaviour of children and young people"/>
+      <unit id="CHCECE009" title="Use an approved learning framework to guide practice"/>
+      <unit id="CHCECE010" title="Support the holistic development of children in early childhood"/>
+      <unit id="CHCECE011" title="Provide experiences to support children&#x2019;s play and learning"/>
+      <unit id="CHCECE012" title="Support children to connect with their world"/>
+      <unit id="CHCECE021" title="Implement strategies for the inclusion of all children"/>
+      <unit id="CHCECE022" title="Promote children&#x2019;s agency"/>
+      <unit id="CHCECE025" title="Embed sustainable practices in service operations"/>
+      <unit id="CHCORG303C" title="Participate effectively in the work environment"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCORG502B" title="Work autonomously"/>
+      <unit id="CHCORG611C" title="Lead and develop others in a community sector workplace"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+      <unit id="CHCRH503B" title="Develop leisure and health programs for clients with special needs"/>
+      <unit id="CHCSAC001" title="Support children to participate in school age care"/>
+      <unit id="CHCSAC002" title="Develop and implement play and leisure experiences in school age care"/>
+      <unit id="CHCSAC003" title="Work collaboratively and respectfully with children in school age care"/>
+      <unit id="CHCSAC004" title="Support the holistic development of children in school age care"/>
+      <unit id="HLTAID004" title="Provide an emergency first aid response in an education and care setting"/>
+      <unit id="HLTFS207C" title="Follow basic food safety practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTNA303D" title="Plan and modify meals and menus according to nutrition care plans"/>
+      <unit id="HLTNA304D" title="Plan meals and menus to meet cultural and religious needs"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+      <unit id="SISCCRO301A" title="Assist with recreation games not requiring equipment"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXFAC409" title="Plan and provide sport, fitness and recreation services"/>
+      <unit id="SROABL002B" title="Facilitate adventure-based learning activities"/>
+      <unit id="SRXCAI005B" title="Conduct a sport and recreation session for participants"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC50113" title="Diploma of Early Childhood Education and Care">
+    <units>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CHCCS400C" title="Work within a relevant legal and ethical framework"/>
+      <unit id="CHCECE001" title="Develop cultural competence"/>
+      <unit id="CHCECE002" title="Ensure the health and safety of children"/>
+      <unit id="CHCECE003" title="Provide care for children"/>
+      <unit id="CHCECE004" title="Promote and provide healthy food and drinks"/>
+      <unit id="CHCECE005" title="Provide care for babies and toddlers"/>
+      <unit id="CHCECE007" title="Develop positive and respectful relationships with children"/>
+      <unit id="CHCECE009" title="Use an approved learning framework to guide practice"/>
+      <unit id="CHCECE016" title="Establish and maintain a safe and healthy environment for children"/>
+      <unit id="CHCECE017" title="Foster the holistic development and wellbeing of the child in early childhood"/>
+      <unit id="CHCECE018" title="Nurture creativity in children"/>
+      <unit id="CHCECE019" title="Facilitate compliance in an education and care service"/>
+      <unit id="CHCECE020" title="Establish and implement plans for developing cooperative behaviour"/>
+      <unit id="CHCECE021" title="Implement strategies for the inclusion of all children"/>
+      <unit id="CHCECE022" title="Promote children&#x2019;s agency"/>
+      <unit id="CHCECE023" title="Analyse information to inform learning"/>
+      <unit id="CHCECE024" title="Design and implement the curriculum to foster children&#x2019;s learning and development"/>
+      <unit id="CHCECE025" title="Embed sustainable practices in service operations"/>
+      <unit id="CHCECE026" title="Work in partnership with families to provide appropriate education and care for children"/>
+      <unit id="CHCINF407D" title="Meet information needs of the community"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCORG506E" title="Coordinate the work environment"/>
+      <unit id="CHCORG614C" title="Manage a community sector organisation"/>
+      <unit id="CHCORG624E" title="Provide leadership in community services delivery"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="CHCPOL504B" title="Develop and implement policy"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCSAC005" title="Foster the holistic development and wellbeing of the child in school age care"/>
+      <unit id="HLTAID004" title="Provide an emergency first aid response in an education and care setting"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS003" title="Maintain work health and safety"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC50313" title="Diploma of Child, Youth and Family Intervention">
+    <units>
+      <unit id="CHCAOD510B" title="Work effectively with clients with complex alcohol and-or other drugs issues"/>
+      <unit id="CHCCM503C" title="Develop, facilitate and monitor all aspects of case management"/>
+      <unit id="CHCCOM504B" title="Develop, implement and promote effective workplace communication"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCCS504B" title="Provide services to clients with complex needs"/>
+      <unit id="CHCCS513C" title="Maintain an effective community sector work environment"/>
+      <unit id="CHCCS601C" title="Work with clients with unique needs"/>
+      <unit id="CHCDEV003" title="Analyse client information for service planning and delivery"/>
+      <unit id="CHCDFV402C" title="Manage own professional development in responding to domestic and family violence"/>
+      <unit id="CHCDFV510D" title="Facilitate workplace debriefing and support processes"/>
+      <unit id="CHCFAM417B" title="Identify and use strengths-based practice"/>
+      <unit id="CHCINF505D" title="Meet statutory and organisation information requirements"/>
+      <unit id="CHCMH402B" title="Apply understanding of mental health issues and recovery processes"/>
+      <unit id="CHCPRT004" title="Work effectively in child protection to support children, young people and families"/>
+      <unit id="CHCPRT006" title="Build professional practice and sectoral expertise"/>
+      <unit id="CHCPRT010" title="Work with children and young people with complex trauma and attachment issues and needs"/>
+      <unit id="CHCPRT011" title="Develop and implement a multi-agency investigation and child risk assessment strategy"/>
+      <unit id="CHCPRT012" title="Undertake and implement planning with at-risk children and young people and their families"/>
+      <unit id="CHCPRT014" title="Interact with the legal system to protect children"/>
+      <unit id="HLTAID003" title="Provide first aid"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC50513" title="Diploma of Youth Justice">
+    <units>
+      <unit id="CHCAOD510B" title="Work effectively with clients with complex alcohol and-or other drugs issues"/>
+      <unit id="CHCCM401D" title="Undertake case management"/>
+      <unit id="CHCCM503C" title="Develop, facilitate and monitor all aspects of case management"/>
+      <unit id="CHCCOM504B" title="Develop, implement and promote effective workplace communication"/>
+      <unit id="CHCCS502C" title="Maintain legal and ethical work practices"/>
+      <unit id="CHCCS504B" title="Provide services to clients with complex needs"/>
+      <unit id="CHCCS506A" title="Promote and respond to workplace diversity"/>
+      <unit id="CHCCS513C" title="Maintain an effective community sector work environment"/>
+      <unit id="CHCCS521B" title="Assess and respond to individuals at risk of suicide"/>
+      <unit id="CHCCS601C" title="Work with clients with unique needs"/>
+      <unit id="CHCDFV505C" title="Counsel clients affected by domestic and family violence"/>
+      <unit id="CHCDFV510D" title="Facilitate workplace debriefing and support processes"/>
+      <unit id="CHCINF505D" title="Meet statutory and organisation information requirements"/>
+      <unit id="CHCMH411A" title="Work with people with mental health issues"/>
+      <unit id="CHCPRT014" title="Interact with the legal system to protect children"/>
+      <unit id="CHCPRT015" title="Respond to needs of youth justice clients"/>
+      <unit id="CHCPRT016" title="Work in the youth justice environment"/>
+      <unit id="CHCPRT017" title="Support Aboriginal and/or Torres Strait Islander young people in youth justice system"/>
+      <unit id="CHCPRT019" title="Develop and support youth justice team"/>
+      <unit id="CHCPW407A" title="Support self-directed physical health and wellbeing"/>
+      <unit id="CHCYTH012" title="Manage service response to young people in crisis"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC50213" title="Diploma of School Age Education and Care">
+    <units>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CHCDIS301C" title="Work effectively with people with a disability"/>
+      <unit id="CHCECE001" title="Develop cultural competence"/>
+      <unit id="CHCECE004" title="Promote and provide healthy food and drinks"/>
+      <unit id="CHCECE009" title="Use an approved learning framework to guide practice"/>
+      <unit id="CHCECE011" title="Provide experiences to support children&#x2019;s play and learning"/>
+      <unit id="CHCECE016" title="Establish and maintain a safe and healthy environment for children"/>
+      <unit id="CHCECE017" title="Foster the holistic development and wellbeing of the child in early childhood"/>
+      <unit id="CHCECE018" title="Nurture creativity in children"/>
+      <unit id="CHCECE019" title="Facilitate compliance in an education and care service"/>
+      <unit id="CHCECE020" title="Establish and implement plans for developing cooperative behaviour"/>
+      <unit id="CHCECE021" title="Implement strategies for the inclusion of all children"/>
+      <unit id="CHCECE022" title="Promote children&#x2019;s agency"/>
+      <unit id="CHCECE023" title="Analyse information to inform learning"/>
+      <unit id="CHCECE024" title="Design and implement the curriculum to foster children&#x2019;s learning and development"/>
+      <unit id="CHCECE025" title="Embed sustainable practices in service operations"/>
+      <unit id="CHCECE026" title="Work in partnership with families to provide appropriate education and care for children"/>
+      <unit id="CHCFAM503B" title="Work with a child focused approach"/>
+      <unit id="CHCORG428A" title="Reflect on and improve own professional practice"/>
+      <unit id="CHCORG624E" title="Provide leadership in community services delivery"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="CHCPOL504B" title="Develop and implement policy"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCSAC001" title="Support children to participate in school age care"/>
+      <unit id="CHCSAC002" title="Develop and implement play and leisure experiences in school age care"/>
+      <unit id="CHCSAC003" title="Work collaboratively and respectfully with children in school age care"/>
+      <unit id="CHCSAC005" title="Foster the holistic development and wellbeing of the child in school age care"/>
+      <unit id="HLTAID004" title="Provide an emergency first aid response in an education and care setting"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS003" title="Maintain work health and safety"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CHC50413" title="Diploma of Youth Work">
+    <units>
+      <unit id="CHCCD508D" title="Support community action"/>
+      <unit id="CHCCD509C" title="Support community leadership"/>
+      <unit id="CHCCD516B" title="Work within organisation and government structures to enable community development outcomes"/>
+      <unit id="CHCCED511A" title="Develop, implement and review sexual and reproductive health education programs"/>
+      <unit id="CHCCH522B" title="Undertake outreach work"/>
+      <unit id="CHCCM503C" title="Develop, facilitate and monitor all aspects of case management"/>
+      <unit id="CHCCOM504B" title="Develop, implement and promote effective workplace communication"/>
+      <unit id="CHCCS422B" title="Respond holistically to client issues and refer appropriately"/>
+      <unit id="CHCCS502C" title="Maintain legal and ethical work practices"/>
+      <unit id="CHCCS503B" title="Develop, implement and review services and programs to meet client needs"/>
+      <unit id="CHCCS601C" title="Work with clients with unique needs"/>
+      <unit id="CHCDEV002" title="Analyse impacts of sociological factors on clients in community work and services"/>
+      <unit id="CHCGROUP403D" title="Plan and conduct group activities"/>
+      <unit id="CHCMH411A" title="Work with people with mental health issues"/>
+      <unit id="CHCNET404B" title="Facilitate links with other services"/>
+      <unit id="CHCORG525D" title="Recruit and coordinate volunteers"/>
+      <unit id="CHCORG627B" title="Provide mentoring support to colleagues"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="CHCPOL504B" title="Develop and implement policy"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="CHCYTH001" title="Engage respectfully with young people"/>
+      <unit id="CHCYTH002" title="Work effectively with young people in the youth work context"/>
+      <unit id="CHCYTH005" title="Develop and implement procedures to enable young people to address their needs"/>
+      <unit id="CHCYTH006" title="Work with young people to establish support networks"/>
+      <unit id="CHCYTH007" title="Undertake youth work in specific communities"/>
+      <unit id="CHCYTH008" title="Support young people to take collective action"/>
+      <unit id="CHCYTH009" title="Support youth programs"/>
+      <unit id="CHCYTH010" title="Provide services for young people appropriate to their needs and circumstances"/>
+      <unit id="CHCYTH012" title="Manage service response to young people in crisis"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+      <unit id="HLTWHS001" title="Participate in workplace health and safety"/>
+      <unit id="PSPPM504A" title="Carry out complex project activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<qualifications class="MEM98">
+  <qualification id="MEM10198" title="Certificate I in Engineering">
+    <units/>
+  </qualification>
+  <qualification id="MEM10203" title="Certificate I in Boating Services">
+    <units/>
+  </qualification>
+  <qualification id="MEM20298" title="Certificate II in Engineering - Production Technology">
+    <units/>
+  </qualification>
+  <qualification id="MEM20198" title="Certificate II in Engineering - Production">
+    <units/>
+  </qualification>
+  <qualification id="MEM20303" title="Certificate II in Boating Services">
+    <units/>
+  </qualification>
+  <qualification id="MEM30598" title="Certificate III in Engineering - Technician">
+    <units/>
+  </qualification>
+  <qualification id="MEM30298" title="Certificate III in Engineering - Mechanical Trade">
+    <units/>
+  </qualification>
+  <qualification id="MEM30603" title="Certificate III in Marine Craft Construction">
+    <units/>
+  </qualification>
+  <qualification id="MEM30498" title="Certificate III in Engineering - Electrical/Electronic Trade">
+    <units/>
+  </qualification>
+  <qualification id="MEM30703" title="Certificate III in Boating Services">
+    <units/>
+  </qualification>
+  <qualification id="MEM30198" title="Certificate III in Engineering - Production Systems">
+    <units/>
+  </qualification>
+  <qualification id="MEM30803" title="Certificate III in Jewellery Manufacture">
+    <units/>
+  </qualification>
+  <qualification id="MEM30398" title="Certificate III in Engineering - Fabrication Trade">
+    <units/>
+  </qualification>
+  <qualification id="MEM40198" title="Certificate IV in Engineering - Higher Engineering Trade">
+    <units/>
+  </qualification>
+  <qualification id="MEM40103" title="Certificate IV in Engineering">
+    <units/>
+  </qualification>
+  <qualification id="MEM40203" title="Certificate IV in Boating Services">
+    <units/>
+  </qualification>
+  <qualification id="MEM50198" title="Diploma of Engineering">
+    <units/>
+  </qualification>
+</qualifications>

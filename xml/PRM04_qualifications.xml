@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<qualifications class="PRM04">
+  <qualification id="PRM10104" title="Certificate I in Asset Maintenance (Cleaning Operations)">
+    <units>
+      <unit id="PRMCL40A" title="Prepare for work in the cleaning industry"/>
+      <unit id="PRMCL41A" title="Apply basic communication skills"/>
+      <unit id="PRMCMN101A" title="Follow workplace safety arrangements"/>
+    </units>
+  </qualification>
+  <qualification id="PRM20104" title="Certificate II in Asset Maintenance (Cleaning Operations)">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTIN301A" title="Comply with infection control policies and procedures in health work"/>
+      <unit id="MTMP2192A" title="Clean carcase hanging equipment"/>
+      <unit id="MTMP2196B" title="Overview cleaning program"/>
+      <unit id="MTMP2197B" title="Clean after operations - boning room"/>
+      <unit id="MTMP2198B" title="Clean after operations - slaughter floor"/>
+      <unit id="MTMPS201B" title="Clean work area during operations"/>
+      <unit id="MTMPS205B" title="Clean chillers"/>
+      <unit id="PRMCC02A" title="Use bonnet cleaning"/>
+      <unit id="PRMCC07A" title="Perform basic stain removal"/>
+      <unit id="PRMCL01B" title="Maintain a hard floor surface"/>
+      <unit id="PRMCL02B" title="Restore a hard floor surface"/>
+      <unit id="PRMCL04B" title="Maintain a carpeted floor"/>
+      <unit id="PRMCL09B" title="Clean glass surfaces"/>
+      <unit id="PRMCL10B" title="Clean ceiling surfaces and fittings"/>
+      <unit id="PRMCL15B" title="Maintain furniture and fittings and room dressing"/>
+      <unit id="PRMCL17B" title="Clean a wet area"/>
+      <unit id="PRMCL19B" title="Remove waste"/>
+      <unit id="PRMCL33B" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="PRMCL35B" title="Maintain a cleaning storage area"/>
+      <unit id="PRMCL37A" title="Clean external surfaces"/>
+      <unit id="PRMCL38A" title="Clean a food handling area"/>
+      <unit id="PRMCMN201A" title="Participate in workplace safety arrangements"/>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+      <unit id="SITHACS005A" title="Prepare rooms for guests"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM20604" title="Certificate II in Asset Maintenance (Carpet Cleaning)">
+    <units>
+      <unit id="PRMCC01A" title="Use hot water extraction"/>
+      <unit id="PRMCC02A" title="Use bonnet cleaning"/>
+      <unit id="PRMCC03A" title="Use dry foam shampoo"/>
+      <unit id="PRMCC04A" title="Use dry absorbent compound"/>
+      <unit id="PRMCC05A" title="Use wet foam shampoo"/>
+      <unit id="PRMCC06A" title="Identify carpet fibre and construction"/>
+      <unit id="PRMCC07A" title="Perform basic stain removal"/>
+      <unit id="PRMCL33B" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="PRMCL35B" title="Maintain a cleaning storage area"/>
+      <unit id="PRMCMN201A" title="Participate in workplace safety arrangements"/>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PRM20509" title="Certificate II in Asset Maintenance (Waste Management)">
+    <units>
+      <unit id="BCCCM2002B" title="Use small plant and equipment"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PRMCMN201A" title="Participate in workplace safety arrangements"/>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+      <unit id="PRMWM02B" title="Carry out waste audit"/>
+      <unit id="PRMWM05B" title="Identify and segregate waste"/>
+      <unit id="PRMWM06B" title="Organise waste recovery"/>
+      <unit id="PRMWM101A" title="Prepare for work in the waste management industry"/>
+      <unit id="PRMWM11B" title="Respond to waste emergency"/>
+      <unit id="PRMWM13B" title="Receive waste"/>
+      <unit id="PRMWM14B" title="Manually sort waste"/>
+      <unit id="PRMWM15B" title="Move waste using load shifting equipment"/>
+      <unit id="PRMWM16B" title="Operate waste processing plant"/>
+      <unit id="PRMWM17B" title="Store waste"/>
+      <unit id="PRMWM18B" title="Dispatch processed waste"/>
+      <unit id="PRMWM19B" title="Prepare waste for re-use"/>
+      <unit id="PRMWM20B" title="Place and compact waste"/>
+      <unit id="PRMWM21B" title="Cover waste"/>
+      <unit id="PRMWM23B" title="Maintain disposal site"/>
+      <unit id="PRMWM34B" title="Maintain an equipment and consumables storage area"/>
+      <unit id="PRMWM37B" title="Conduct minor maintenance and repairs on waste processing plant/equipment"/>
+      <unit id="PRMWM38B" title="Process waste"/>
+      <unit id="PRMWM42B" title="Follow relevant environmental policies and procedures when transporting waste"/>
+      <unit id="PRMWM44B" title="Identify wastes and hazards"/>
+      <unit id="PRMWM51B" title="Dispose of waste water to sewer"/>
+      <unit id="PRMWM63A" title="Apply safe operational practices to vehicle contact with overhead wires"/>
+      <unit id="RTE2506A" title="Assess and receive raw materials for composting"/>
+      <unit id="RTE2507A" title="Recognise raw materials, production processes and products on a composting site"/>
+      <unit id="TLIB307C" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB407C" title="Carry out vehicle inspection"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+      <unit id="TLIC207C" title="Drive light rigid vehicle"/>
+      <unit id="TLIC307C" title="Drive medium rigid vehicle"/>
+      <unit id="TLID1607C" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2107C" title="Use specialised bulk transfer equipment (dry)"/>
+      <unit id="TLID307D" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID407C" title="Load and unload goods/cargo"/>
+      <unit id="TLIE707B" title="Use communication systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM20406" title="Certificate II in Asset Maintenance (Fire Protection Equipment)">
+    <units>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+      <unit id="PRMPFES03C" title="Safely move materials and loads in the workplace"/>
+      <unit id="PRMPFES04B" title="Identify fire protection equipment"/>
+      <unit id="PRMPFES05B" title="Use portable fire fighting equipment"/>
+      <unit id="PRMPFES06C" title="Prepare for installation and servicing operations"/>
+      <unit id="PRMPFES07B" title="Maintain quality of work and promote continuous improvement"/>
+      <unit id="PRMPFES09B" title="Service portable fire extinguishers and fire blankets in the field"/>
+      <unit id="PRMPFES10B" title="Inspect, test and replace fire hose reels in the field"/>
+      <unit id="PRMPFES11B" title="Install portable fire extinguishers, fire blankets and battery powered smoke alarms"/>
+      <unit id="PRMPFES14C" title="Service portable fire extinguishers in the workshop"/>
+      <unit id="PRMPFES15B" title="Service delivery lay flat fire hoses in the workshop"/>
+      <unit id="PRMPFES16B" title="Inspect and service delivery lay flat fire hoses and nozzles in the field"/>
+      <unit id="PRMPFES18B" title="Hydrostatic test portable and wheeled CO2 fire extinguishers"/>
+      <unit id="PRMPFES19B" title="Install and service portable foam liquid proportioning equipment"/>
+      <unit id="PRMPFES20B" title="Service wheeled fire extinguishers in the field"/>
+      <unit id="PRMPFES21C" title="Service wheeled fire extinguishers in the workshop"/>
+      <unit id="PRMPFES32A" title="Work effectively in the fire protection industry"/>
+      <unit id="PRMPFES33A" title="Identify fire and smoke doors"/>
+      <unit id="PRMPFES35A" title="Inspect and test hinged fire and smoke doors"/>
+      <unit id="PRMPFES36A" title="Identify passive fire and smoke containment products and systems"/>
+      <unit id="PRMPFES37A" title="Inspect and maintain fire hydrants"/>
+      <unit id="PRMPFES39A" title="Inspect and test passive fire and smoke containment products and systems"/>
+      <unit id="PRMPFES43A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="PRMPFES47A" title="Inspect and test control and indicating equipment"/>
+      <unit id="PRMPFES48A" title="Receive and dispatch ozone depleting substance and synthetic greenhouse gas containers"/>
+      <unit id="PRMPFES49A" title="Recover, reclaim and fill operations for ozone depleting substances and synthetic greenhouse gases"/>
+      <unit id="PRMPFES50A" title="Monitor storage operations for ozone depleting substances and synthetic greenhouse gases"/>
+      <unit id="PRMPFES53A" title="Participate in workplace safety arrangements"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM30104" title="Certificate III in Asset Maintenance (Cleaning Operations)">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTIN301A" title="Comply with infection control policies and procedures in health work"/>
+      <unit id="HLTIN403B" title="Implement and monitor infection control policy and procedures"/>
+      <unit id="MTMP2192A" title="Clean carcase hanging equipment"/>
+      <unit id="MTMP2196B" title="Overview cleaning program"/>
+      <unit id="MTMP2197B" title="Clean after operations - boning room"/>
+      <unit id="MTMP2198B" title="Clean after operations - slaughter floor"/>
+      <unit id="MTMPS201B" title="Clean work area during operations"/>
+      <unit id="MTMPS205B" title="Clean chillers"/>
+      <unit id="PRMCC01A" title="Use hot water extraction"/>
+      <unit id="PRMCC02A" title="Use bonnet cleaning"/>
+      <unit id="PRMCC03A" title="Use dry foam shampoo"/>
+      <unit id="PRMCC04A" title="Use dry absorbent compound"/>
+      <unit id="PRMCC05A" title="Use wet foam shampoo"/>
+      <unit id="PRMCC07A" title="Perform basic stain removal"/>
+      <unit id="PRMCL01B" title="Maintain a hard floor surface"/>
+      <unit id="PRMCL02B" title="Restore a hard floor surface"/>
+      <unit id="PRMCL03B" title="Replace a hard floor finish"/>
+      <unit id="PRMCL04B" title="Maintain a carpeted floor"/>
+      <unit id="PRMCL09B" title="Clean glass surfaces"/>
+      <unit id="PRMCL10B" title="Clean ceiling surfaces and fittings"/>
+      <unit id="PRMCL13B" title="Clean window coverings"/>
+      <unit id="PRMCL14B" title="Maintain a clean room' environment"/>
+      <unit id="PRMCL15B" title="Maintain furniture and fittings and room dressing"/>
+      <unit id="PRMCL16B" title="Wash furniture and fittings"/>
+      <unit id="PRMCL17B" title="Clean a wet area"/>
+      <unit id="PRMCL19B" title="Remove waste"/>
+      <unit id="PRMCL20B" title="Clean using pressure washing"/>
+      <unit id="PRMCL21B" title="Clean industrial machinery"/>
+      <unit id="PRMCL33B" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="PRMCL35B" title="Maintain a cleaning storage area"/>
+      <unit id="PRMCL36B" title="Clean at high levels"/>
+      <unit id="PRMCL37A" title="Clean external surfaces"/>
+      <unit id="PRMCL38A" title="Clean a food handling area"/>
+      <unit id="PRMCL39A" title="Support leadership in the workplace"/>
+      <unit id="PRMCMN201A" title="Participate in workplace safety arrangements"/>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+      <unit id="PRMCMN301A" title="Contribute to workplace safety arrangements"/>
+      <unit id="PRMCMN302A" title="Respond to client inquiries and complaints"/>
+      <unit id="SITHACS005A" title="Prepare rooms for guests"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM30604" title="Certificate III in Asset Maintenance (Carpet Cleaning)">
+    <units>
+      <unit id="PRMCC01A" title="Use hot water extraction"/>
+      <unit id="PRMCC02A" title="Use bonnet cleaning"/>
+      <unit id="PRMCC03A" title="Use dry foam shampoo"/>
+      <unit id="PRMCC04A" title="Use dry absorbent compound"/>
+      <unit id="PRMCC05A" title="Use wet foam shampoo"/>
+      <unit id="PRMCC06A" title="Identify carpet fibre and construction"/>
+      <unit id="PRMCC07A" title="Perform basic stain removal"/>
+      <unit id="PRMCC08A" title="Mitigate water damage"/>
+      <unit id="PRMCC09A" title="Restore smoke damaged carpet"/>
+      <unit id="PRMCC10A" title="Apply odour control"/>
+      <unit id="PRMCC11A" title="Perform carpet repair and reinstallation"/>
+      <unit id="PRMCC12A" title="Perform carpet colour repair and restoration"/>
+      <unit id="PRMCC13A" title="Clean leather upholstery"/>
+      <unit id="PRMCC14A" title="Clean fabric upholstery"/>
+      <unit id="PRMCC15A" title="Perform advanced stain removal"/>
+      <unit id="PRMCC16A" title="Apply topical treatments"/>
+      <unit id="PRMCC17A" title="Identify upholstery fibre and construction"/>
+      <unit id="PRMCL33B" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="PRMCL35B" title="Maintain a cleaning storage area"/>
+      <unit id="PRMCMN201A" title="Participate in workplace safety arrangements"/>
+      <unit id="PRMCMN202A" title="Provide effective client service"/>
+      <unit id="PRMCMN301A" title="Contribute to workplace safety arrangements"/>
+      <unit id="PRMCMN302A" title="Respond to client inquiries and complaints"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM30406" title="Certificate III in Asset Maintenance (Fire Protection Equipment)">
+    <units>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PRMCMN301A" title="Contribute to workplace safety arrangements"/>
+      <unit id="PRMCMN402A" title="Facilitate effective client relationships"/>
+      <unit id="PRMCMN403A" title="Facilitate effective teamwork"/>
+      <unit id="PRMCMN404A" title="Facilitate effective workplace relationships"/>
+      <unit id="PRMPFES03C" title="Safely move materials and loads in the workplace"/>
+      <unit id="PRMPFES04B" title="Identify fire protection equipment"/>
+      <unit id="PRMPFES05B" title="Use portable fire fighting equipment"/>
+      <unit id="PRMPFES06C" title="Prepare for installation and servicing operations"/>
+      <unit id="PRMPFES07B" title="Maintain quality of work and promote continuous improvement"/>
+      <unit id="PRMPFES17B" title="Contribute to the training and assessment needs of the team"/>
+      <unit id="PRMPFES22B" title="Oversee operations to meet safety and quality standards"/>
+      <unit id="PRMPFES24B" title="Inspect and maintain portable foam generating equipment"/>
+      <unit id="PRMPFES25C" title="Inspect, test and maintain gaseous fire suppression systems"/>
+      <unit id="PRMPFES26B" title="Inspect, test and maintain emergency/exit lighting systems"/>
+      <unit id="PRMPFES27B" title="Inspect, test and maintain pre-engineered aqueous fire suppression systems"/>
+      <unit id="PRMPFES28B" title="Install light vehicle foam fire suppression systems"/>
+      <unit id="PRMPFES29B" title="Inspect, test and maintain pre-engineered powder fire suppression systems"/>
+      <unit id="PRMPFES30B" title="Inspect, test and maintain pre-engineered wet chemical fire suppression systems"/>
+      <unit id="PRMPFES31B" title="Inspect, test and maintain pre-engineered water mist fire suppression systems"/>
+      <unit id="PRMPFES32A" title="Work effectively in the fire protection industry"/>
+      <unit id="PRMPFES34A" title="Install hinged fire and smoke doors"/>
+      <unit id="PRMPFES38A" title="Inspect and maintain portable fire monitors"/>
+      <unit id="PRMPFES40A" title="Install passive fire and smoke containment systems"/>
+      <unit id="PRMPFES41A" title="Install pre-engineered fixed plant fire suppression systems"/>
+      <unit id="PRMPFES42A" title="Install, inspect, test and maintain pre-engineered fire system for transportable equipment"/>
+      <unit id="PRMPFES44A" title="Interpret installation requirements for gaseous fire suppression systems"/>
+      <unit id="PRMPFES45A" title="Install gaseous agent containers and actuation devices"/>
+      <unit id="PRMPFES46A" title="Decommission gaseous agent containers and actuation devices"/>
+      <unit id="PRMPFES51A" title="Design gaseous fire suppression systems"/>
+      <unit id="PRMPFES52A" title="Prepare quotations for gaseous fire suppression system designs"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM30204" title="Certificate III in Asset Maintenance (Pest Management - Technical)">
+    <units>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="PRMCMN302A" title="Respond to client inquiries and complaints"/>
+      <unit id="PRMPM02B" title="Assess pest management options"/>
+      <unit id="PRMPM05B" title="Modify environment to manage pests"/>
+      <unit id="PRMPM06B" title="Apply pesticide to manage pests"/>
+      <unit id="PRMPM07B" title="Implement a pest management plan"/>
+      <unit id="PRMPM08B" title="Inspect and report on timber pests"/>
+      <unit id="PRMPM09B" title="Advise client on pest management options"/>
+      <unit id="PRMPM10B" title="Control timber pests"/>
+      <unit id="PRMPM11B" title="Conduct fumigation"/>
+      <unit id="PRMPM17B" title="Repair and maintain service equipment"/>
+      <unit id="PRMPM18B" title="Maintain an equipment and chemical storage area"/>
+      <unit id="PRMPM19B" title="Organise and monitor pest management operations"/>
+      <unit id="PRMPM26B" title="Select and obtain pest management equipment and materials"/>
+      <unit id="PRMPM28B" title="Organise and operate a pest management vehicle"/>
+      <unit id="PRMPM29B" title="Plan and schedule pest management operations"/>
+      <unit id="PRMPM42A" title="Install physical termite barriers"/>
+      <unit id="PRMPM43A" title="Prepare and present a pest management submission including quotation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PRM30509" title="Certificate III in Asset Maintenance (Waste Management)">
+    <units>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="LGAWORK302A" title="Oversee traffic control plan around a work site"/>
+      <unit id="PRMCMN301A" title="Contribute to workplace safety arrangements"/>
+      <unit id="PRMCMN302A" title="Respond to client inquiries and complaints"/>
+      <unit id="PRMWM07B" title="Implement waste management plan"/>
+      <unit id="PRMWM11B" title="Respond to waste emergency"/>
+      <unit id="PRMWM22B" title="Monitor disposal site"/>
+      <unit id="PRMWM25B" title="Monitor contained waste"/>
+      <unit id="PRMWM30B" title="Determine waste management services"/>
+      <unit id="PRMWM32B" title="Inform and educate clients on waste management issues"/>
+      <unit id="PRMWM44B" title="Identify wastes and hazards"/>
+      <unit id="PRMWM55A" title="Provide quotation"/>
+      <unit id="PRMWM56A" title="Implement landfill rehabilitation plan"/>
+      <unit id="RTE3323A" title="Dispatch materials and composted product"/>
+      <unit id="RTE3512A" title="Prepare raw materials and compost the feedstocks"/>
+      <unit id="RTE3513A" title="Prepare value-added compost-based products"/>
+      <unit id="RTE4519A" title="Develop a composting recipe"/>
+      <unit id="SIRXMER002A" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXSLS003A" title="Coordinate sales performance"/>
+      <unit id="TLIB607C" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC407D" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC507D" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC607C" title="Drive multi-combination vehicle"/>
+      <unit id="TLID2407C" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLIF1307C" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIH207D" title="Plan and navigate routes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM40109" title="Certificate IV in Asset Maintenance (Cleaning Management)">
+    <units>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="PRMCL22B" title="Organise and monitor cleaning operations"/>
+      <unit id="PRMCL24B" title="Control the supply of resources to the work site"/>
+      <unit id="PRMCL25B" title="Provide quotation for cleaning services"/>
+      <unit id="PRMCL42A" title="Implement and review risk management process"/>
+      <unit id="PRMCMN401A" title="Manage workplace safety arrangements"/>
+      <unit id="PRMCMN402A" title="Facilitate effective client relationships"/>
+      <unit id="PRMCMN403A" title="Facilitate effective teamwork"/>
+      <unit id="PRMCMN404A" title="Facilitate effective workplace relationships"/>
+    </units>
+  </qualification>
+  <qualification id="PRM40209" title="Certificate IV in Asset Maintenance (Pest Management)">
+    <units>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="PRMCMN302A" title="Respond to client inquiries and complaints"/>
+      <unit id="PRMCMN402A" title="Facilitate effective client relationships"/>
+      <unit id="PRMPM02B" title="Assess pest management options"/>
+      <unit id="PRMPM05B" title="Modify environment to manage pests"/>
+      <unit id="PRMPM06B" title="Apply pesticide to manage pests"/>
+      <unit id="PRMPM07B" title="Implement a pest management plan"/>
+      <unit id="PRMPM09B" title="Advise client on pest management options"/>
+      <unit id="PRMPM17B" title="Repair and maintain service equipment"/>
+      <unit id="PRMPM18B" title="Maintain an equipment and chemical storage area"/>
+      <unit id="PRMPM22B" title="Develop and review company policies and procedures"/>
+      <unit id="PRMPM26B" title="Select and obtain pest management equipment and materials"/>
+      <unit id="PRMPM27B" title="Manage pest management operations risk"/>
+      <unit id="PRMPM28B" title="Organise and operate a pest management vehicle"/>
+      <unit id="PRMPM29B" title="Plan and schedule pest management operations"/>
+      <unit id="PRMPM35B" title="Manage assets"/>
+      <unit id="PRMPM43A" title="Prepare and present a pest management submission including quotation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM40509" title="Certificate IV in Asset Maintenance (Waste Management)">
+    <units>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBHRM503A" title="Manage performance management systems"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="PRMCL42A" title="Implement and review risk management process"/>
+      <unit id="PRMCMN401A" title="Manage workplace safety arrangements"/>
+      <unit id="PRMCMN402A" title="Facilitate effective client relationships"/>
+      <unit id="PRMCMN403A" title="Facilitate effective teamwork"/>
+      <unit id="PRMCMN404A" title="Facilitate effective workplace relationships"/>
+      <unit id="PRMWM01B" title="Plan waste audit"/>
+      <unit id="PRMWM03B" title="Review, evaluate and document waste assessment findings"/>
+      <unit id="PRMWM04B" title="Develop waste management strategies"/>
+      <unit id="PRMWM27B" title="Select and obtain waste management plant, equipment and materials"/>
+      <unit id="PRMWM30B" title="Determine waste management services"/>
+      <unit id="PRMWM31B" title="Prepare detailed tender"/>
+      <unit id="PRMWM33B" title="Educate public on waste management issues"/>
+      <unit id="PRMWM35B" title="Undertake process audit"/>
+      <unit id="PRMWM36B" title="Develop a waste management plan"/>
+      <unit id="PRMWM43B" title="Develop an environmental management strategy"/>
+      <unit id="PRMWM45B" title="Develop site safety plan"/>
+      <unit id="PRMWM52A" title="Organise waste management operation"/>
+      <unit id="PRMWM53A" title="Conduct and monitor waste management operation"/>
+      <unit id="PRMWM57A" title="Develop landfill rehabilitation plan"/>
+      <unit id="PRMWM58A" title="Develop emergency response plan"/>
+      <unit id="PRMWM59A" title="Carry out waste assessment"/>
+      <unit id="PRMWM60A" title="Apply cleaner production techniques"/>
+      <unit id="PRMWM61A" title="Plan resource recovery"/>
+      <unit id="PRMWM62A" title="Apply waste avoidance techniques"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+      <unit id="TAADEL401B" title="Plan and organise group-based delivery"/>
+      <unit id="TAADEL402B" title="Facilitate group-based learning"/>
+      <unit id="TAADES402B" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PRM40704" title="Certificate IV in Asset Maintenance (Fire Safety Systems Inspection)">
+    <units>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="PRMFSSI01A" title="Communicate effectively with fire safety system personnel"/>
+      <unit id="PRMFSSI02A" title="Identify fire safety system inspection requirements"/>
+      <unit id="PRMFSSI03A" title="Review pre-installation fire safety system documentation"/>
+      <unit id="PRMFSSI04A" title="Assess fire safety system documentation for compliance"/>
+      <unit id="PRMFSSI05A" title="Identify, locate and match installed fire safety system to documentation"/>
+      <unit id="PRMFSSI06A" title="Follow on-site occupational health and safety requirements"/>
+      <unit id="PRMFSSI07A" title="Validate commissioning test data against performance documentation"/>
+      <unit id="PRMFSSI08A" title="Validate installation, testing and maintenance of fire safety systems"/>
+      <unit id="PRMFSSI09A" title="Negotiate and resolve issues regarding non-compliance of fire safety systems"/>
+      <unit id="PUAFIR314A" title="Utilise installed fire safety systems"/>
+      <unit id="PUAFIR404A" title="Inspect dangerous goods facilities"/>
+      <unit id="PUAFIR405A" title="Collect, analyse and provide regulatory information (adapted from PUACOM003A (Police))"/>
+      <unit id="PUAPOL016A" title="Manage risk"/>
+      <unit id="TAAASS401C" title="Plan and organise assessment"/>
+      <unit id="TAAASS402C" title="Assess competence"/>
+      <unit id="TAAASS404B" title="Participate in assessment validation"/>
+      <unit id="TAADEL301C" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

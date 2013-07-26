@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<skillsets class="TAE10">
+  <skillset id="TAESS00001" title="Assessor Skill Set">
+    <units>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00002" title="Enterprise and Industry Engagement Skill Set">
+    <units>
+      <unit id="TAEASS504A" title="Develop and implement recognition strategies"/>
+      <unit id="TAEICR501A" title="Work in partnership with industry, enterprises and community groups"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00008" title="Enterprise Trainer - Mentoring Skill Set">
+    <units>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00007" title="Enterprise Trainer - Presenting Skill Set">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00003" title="Enterprise trainer and assessor Skill Set">
+    <units>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00005" title="Sustainable practice Skill Set">
+    <units>
+      <unit id="TAESUS501A" title="Analyse and apply sustainability skills to learning programs"/>
+    </units>
+  </skillset>
+  <skillset id="TAESS00006" title="Workplace supervisor">
+    <units>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+  </skillset>
+</skillsets>

@@ -1,0 +1,1538 @@
+<?xml version="1.0"?>
+<qualifications class="FPI11">
+  <qualification id="FPI10111" title="Certificate I in Forest and Forest Products">
+    <units>
+      <unit id="AHCILM201A" title="Maintain cultural places"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPIFGM2201B" title="Collect seed"/>
+      <unit id="FPIFGM2214B" title="Maintain visitor sites"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FPI20511" title="Certificate II in Timber Manufactured Products">
+    <units>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2203B" title="Finish products"/>
+      <unit id="FPICOT2205B" title="Tail out materials"/>
+      <unit id="FPICOT2207B" title="Dress boards and timber"/>
+      <unit id="FPICOT2208B" title="Resaw boards and timber"/>
+      <unit id="FPICOT2209B" title="Produce finger jointed timber"/>
+      <unit id="FPICOT2210B" title="Tally material"/>
+      <unit id="FPICOT2211B" title="Produce pointed timber products"/>
+      <unit id="FPICOT2212B" title="Grade hardwood sawn and milled products"/>
+      <unit id="FPICOT2213B" title="Grade softwood sawn and milled products"/>
+      <unit id="FPICOT2214B" title="Grade cypress sawn and milled products"/>
+      <unit id="FPICOT2215B" title="Visually stress grade hardwood"/>
+      <unit id="FPICOT2216B" title="Visually stress grade softwood"/>
+      <unit id="FPICOT2217B" title="Visually stress grade cypress"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2222B" title="Produce laminated beams"/>
+      <unit id="FPICOT2224B" title="Band edges of panels"/>
+      <unit id="FPICOT2227B" title="Process orders and despatch products"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2229B" title="Dock material to length"/>
+      <unit id="FPICOT2230B" title="Assemble products"/>
+      <unit id="FPICOT2231B" title="Pack products"/>
+      <unit id="FPICOT2232B" title="Cut material to shape using a saw"/>
+      <unit id="FPICOT2240" title="Cut material with a pole saw"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPISAW2205B" title="Assemble materials using nail plates"/>
+      <unit id="FPITMM2201B" title="Cut material to length and angles"/>
+      <unit id="FPITMM2202B" title="Machine material"/>
+      <unit id="FPIWPP2203B" title="Repair veneer and ply"/>
+      <unit id="FPIWPP2204B" title="Repair veneer mechanically"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LMFGG2008C" title="Glaze reglaze residential windows and doors"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20611" title="Certificate II in Timber Merchandising">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2205B" title="Tail out materials"/>
+      <unit id="FPICOT2207B" title="Dress boards and timber"/>
+      <unit id="FPICOT2208B" title="Resaw boards and timber"/>
+      <unit id="FPICOT2212B" title="Grade hardwood sawn and milled products"/>
+      <unit id="FPICOT2213B" title="Grade softwood sawn and milled products"/>
+      <unit id="FPICOT2214B" title="Grade cypress sawn and milled products"/>
+      <unit id="FPICOT2215B" title="Visually stress grade hardwood"/>
+      <unit id="FPICOT2216B" title="Visually stress grade softwood"/>
+      <unit id="FPICOT2217B" title="Visually stress grade cypress"/>
+      <unit id="FPICOT2218B" title="Cross cut materials with a fixed saw"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2229B" title="Dock material to length"/>
+      <unit id="FPICOT2230B" title="Assemble products"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT2238A" title="Cut materials with a hand-held chainsaw"/>
+      <unit id="FPITMM2201B" title="Cut material to length and angles"/>
+      <unit id="FPITMM2202B" title="Machine material"/>
+      <unit id="FPIWPP2201B" title="Cut panels"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SIRXADM001A" title="Apply retail office procedures"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXFIN002A" title="Perform retail finance duties"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20311" title="Certificate II in Sawmilling and Processing">
+    <units>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCWRK203A" title="Operate in isolated and remote situations"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2201B" title="Stack and bind material"/>
+      <unit id="FPICOT2202B" title="Rack material"/>
+      <unit id="FPICOT2203B" title="Finish products"/>
+      <unit id="FPICOT2205B" title="Tail out materials"/>
+      <unit id="FPICOT2207B" title="Dress boards and timber"/>
+      <unit id="FPICOT2208B" title="Resaw boards and timber"/>
+      <unit id="FPICOT2209B" title="Produce finger jointed timber"/>
+      <unit id="FPICOT2210B" title="Tally material"/>
+      <unit id="FPICOT2211B" title="Produce pointed timber products"/>
+      <unit id="FPICOT2212B" title="Grade hardwood sawn and milled products"/>
+      <unit id="FPICOT2213B" title="Grade softwood sawn and milled products"/>
+      <unit id="FPICOT2214B" title="Grade cypress sawn and milled products"/>
+      <unit id="FPICOT2215B" title="Visually stress grade hardwood"/>
+      <unit id="FPICOT2216B" title="Visually stress grade softwood"/>
+      <unit id="FPICOT2217B" title="Visually stress grade cypress"/>
+      <unit id="FPICOT2218B" title="Cross cut materials with a fixed saw"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2222B" title="Produce laminated beams"/>
+      <unit id="FPICOT2225B" title="Chip or flake wood"/>
+      <unit id="FPICOT2226B" title="Debark logs mechanically"/>
+      <unit id="FPICOT2227B" title="Process orders and despatch products"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2229B" title="Dock material to length"/>
+      <unit id="FPICOT2230B" title="Assemble products"/>
+      <unit id="FPICOT2231B" title="Pack products"/>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT2238A" title="Cut materials with a hand-held chainsaw"/>
+      <unit id="FPICOT2240" title="Cut material with a pole saw"/>
+      <unit id="FPICOT3203B" title="Weigh loads"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPISAW2201B" title="Grade round poles and debarked logs"/>
+      <unit id="FPISAW2202B" title="Sort boards manually"/>
+      <unit id="FPISAW2203B" title="Sort boards mechanically"/>
+      <unit id="FPISAW2204B" title="Dock boards with mechanical feed"/>
+      <unit id="FPISAW2205B" title="Assemble materials using nail plates"/>
+      <unit id="FPISAW2206B" title="De-stack seasoning racks"/>
+      <unit id="FPISAW2207B" title="Round softwood logs"/>
+      <unit id="FPISAW2208B" title="Split wood products"/>
+      <unit id="FPISAW2209B" title="Dismantle, transport and assemble hand portable sawmill"/>
+      <unit id="FPISAW2210B" title="Prepare for timber treatment operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MEM18011C" title="Shut down and isolate machines/equipment"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20711" title="Certificate II in Timber Truss and Frame Design and Manufacture">
+    <units>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT2201B" title="Stack and bind material"/>
+      <unit id="FPICOT2210B" title="Tally material"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2227B" title="Process orders and despatch products"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2229B" title="Dock material to length"/>
+      <unit id="FPICOT2230B" title="Assemble products"/>
+      <unit id="FPICOT2232B" title="Cut material to shape using a saw"/>
+      <unit id="FPICOT2235A" title="Assess timber for manufacturing potential"/>
+      <unit id="FPICOT3214B" title="Take off material quantities"/>
+      <unit id="FPICOT3241B" title="Assemble timber wall frames"/>
+      <unit id="FPICOT3242B" title="Lay up timber roof trusses"/>
+      <unit id="FPICOT3243B" title="Operate a truss press"/>
+      <unit id="FPISAW2205B" title="Assemble materials using nail plates"/>
+      <unit id="FPITMM2201B" title="Cut material to length and angles"/>
+      <unit id="FPITMM2203A" title="Read and interpret timber truss, floor and/or frame fabrication plans"/>
+      <unit id="FPITMM3207A" title="Set up timber floor trusses"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20111" title="Certificate II in Forest Growing and Management">
+    <units>
+      <unit id="AHCARB204A" title="Undertake standard climbing techniques"/>
+      <unit id="AHCARB206A" title="Undertake stump removal"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCFIR201A" title="Assist with prescribed burning"/>
+      <unit id="AHCILM201A" title="Maintain cultural places"/>
+      <unit id="AHCINF202A" title="Install, maintain and repair fencing"/>
+      <unit id="AHCINF203A" title="Maintain properties and structures"/>
+      <unit id="AHCIRG204A" title="Lay irrigation and/or drainage pipes"/>
+      <unit id="AHCIRG206A" title="Maintain pressurised irrigation systems"/>
+      <unit id="AHCNSY201A" title="Pot up plants"/>
+      <unit id="AHCNSY202A" title="Tend nursery plants"/>
+      <unit id="AHCNSY203A" title="Undertake propagation activities"/>
+      <unit id="AHCNSY302A" title="Receive and dispatch nursery products"/>
+      <unit id="AHCPMG201A" title="Treat weeds"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="AHCWRK201A" title="Observe and report on weather"/>
+      <unit id="AHCWRK203A" title="Operate in isolated and remote situations"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2204B" title="Follow fire prevention procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2220B" title="Select trees for tending operations"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="FPICOT2236" title="Fall trees manually (basic)"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPIFGM2201B" title="Collect seed"/>
+      <unit id="FPIFGM2202B" title="Prepare seedbed"/>
+      <unit id="FPIFGM2203B" title="Plant trees by hand"/>
+      <unit id="FPIFGM2204B" title="Plant trees mechanically"/>
+      <unit id="FPIFGM2205B" title="Prune trees"/>
+      <unit id="FPIFGM2206B" title="Collect data or samples for assessment"/>
+      <unit id="FPIFGM2207B" title="Undertake brushcutting operations"/>
+      <unit id="FPIFGM2209B" title="Cut, sort and set cuttings"/>
+      <unit id="FPIFGM2210B" title="Implement animal pest control procedures"/>
+      <unit id="FPIFGM2211B" title="Detect fires"/>
+      <unit id="FPIFGM2212B" title="Graft cuttings"/>
+      <unit id="FPIFGM2213B" title="Process seed"/>
+      <unit id="FPIFGM2214B" title="Maintain visitor sites"/>
+      <unit id="FPIFGM2215B" title="Measure trees"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LGAWORK212A" title="Perform field support duties in a roadwork environment"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAFIR201B" title="Prevent injury"/>
+      <unit id="PUAFIR204B" title="Respond to wildfire"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20211" title="Certificate II in Harvesting and Haulage">
+    <units>
+      <unit id="AHCARB204A" title="Undertake standard climbing techniques"/>
+      <unit id="AHCARB206A" title="Undertake stump removal"/>
+      <unit id="AHCILM201A" title="Maintain cultural places"/>
+      <unit id="AHCWRK201A" title="Observe and report on weather"/>
+      <unit id="AHCWRK203A" title="Operate in isolated and remote situations"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2204B" title="Follow fire prevention procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2220B" title="Select trees for tending operations"/>
+      <unit id="FPICOT2223B" title="Segregate and sort logs"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="FPICOT2236" title="Fall trees manually (basic)"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPIHAR2203B" title="Hook up felled logs using cables (choker)"/>
+      <unit id="FPIHAR2204B" title="Perform landing duties (chaser)"/>
+      <unit id="FPIHAR2205B" title="Conduct mobile splitting operations"/>
+      <unit id="FPIHAR2206B" title="Operate a mobile chipper/mulcher"/>
+      <unit id="FPIHAR2207A" title="Trim and cut harvested trees"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAFIR201B" title="Prevent injury"/>
+      <unit id="PUAFIR204B" title="Respond to wildfire"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI20411" title="Certificate II in Wood Panel Products">
+    <units>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOR2207B" title="Maintain quality and product care"/>
+      <unit id="FPICOT2201B" title="Stack and bind material"/>
+      <unit id="FPICOT2202B" title="Rack material"/>
+      <unit id="FPICOT2203B" title="Finish products"/>
+      <unit id="FPICOT2205B" title="Tail out materials"/>
+      <unit id="FPICOT2207B" title="Dress boards and timber"/>
+      <unit id="FPICOT2210B" title="Tally material"/>
+      <unit id="FPICOT2213B" title="Grade softwood sawn and milled products"/>
+      <unit id="FPICOT2218B" title="Cross cut materials with a fixed saw"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2222B" title="Produce laminated beams"/>
+      <unit id="FPICOT2224B" title="Band edges of panels"/>
+      <unit id="FPICOT2225B" title="Chip or flake wood"/>
+      <unit id="FPICOT2226B" title="Debark logs mechanically"/>
+      <unit id="FPICOT2227B" title="Process orders and despatch products"/>
+      <unit id="FPICOT2228B" title="Store materials"/>
+      <unit id="FPICOT2230B" title="Assemble products"/>
+      <unit id="FPICOT2231B" title="Pack products"/>
+      <unit id="FPICOT2232B" title="Cut material to shape using a saw"/>
+      <unit id="FPICOT2237A" title="Maintain chainsaws"/>
+      <unit id="FPICOT2240" title="Cut material with a pole saw"/>
+      <unit id="FPIWPP2201B" title="Cut panels"/>
+      <unit id="FPIWPP2202B" title="Surface treat raw board"/>
+      <unit id="FPIWPP2203B" title="Repair veneer and ply"/>
+      <unit id="FPIWPP2204B" title="Repair veneer mechanically"/>
+      <unit id="FPIWPP2205B" title="Prepare chip or fibre blends"/>
+      <unit id="FPIWPP2206B" title="Prepare veneer for ply"/>
+      <unit id="FPIWPP2207B" title="Scarf edges of veneer"/>
+      <unit id="FPIWPP2208B" title="Cut veneer"/>
+      <unit id="FPIWPP2209B" title="Saw products from continuous ply"/>
+      <unit id="FPIWPP2210B" title="Cut panels to profile"/>
+      <unit id="FPIWPP2211B" title="Move material by transfer equipment"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MEM18011C" title="Shut down and isolate machines/equipment"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30211" title="Certificate III in Harvesting and Haulage">
+    <units>
+      <unit id="AHCARB307A" title="Undertake complex tree climbing"/>
+      <unit id="AHCEXP303A" title="Prepare and use explosives"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+      <unit id="AHCWRK304A" title="Respond to rescue incidents"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT3202B" title="Navigate in remote or trackless areas"/>
+      <unit id="FPICOT3221B" title="Rehabilitate tracks, quarries and landings"/>
+      <unit id="FPICOT3222B" title="Present forestry information and interpretations programs"/>
+      <unit id="FPICOT3223B" title="Grade and mark logs"/>
+      <unit id="FPICOT3224B" title="Plan and monitor equipment maintenance"/>
+      <unit id="FPICOT3226B" title="Shift forestry logs using trucks"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3252A" title="Use environmental care procedures to undertake fire salvage operations"/>
+      <unit id="FPICOT3253A" title="Convert timber residue into products for further use"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPICOT3255" title="Apply silvicultural principles"/>
+      <unit id="FPICOT3256" title="Apply biodiversity protection principles"/>
+      <unit id="FPICOT3257" title="Follow cultural heritage requirements"/>
+      <unit id="FPICOT3258" title="Comply with soil and water protection"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPICOT3260" title="Recover four wheel drive vehicles"/>
+      <unit id="FPIFGM3203B" title="Conduct an instrument survey"/>
+      <unit id="FPIFGM3214" title="Operate a four wheel drive in a towing situation"/>
+      <unit id="FPIFGM3215" title="Perform complex 4x4 operations"/>
+      <unit id="FPIHAR3201B" title="Monitor log recovery (rigging slinger)"/>
+      <unit id="FPIHAR3206C" title="Conduct forwarder operations"/>
+      <unit id="FPIHAR3207C" title="Conduct feller buncher operations"/>
+      <unit id="FPIHAR3208C" title="Conduct boom delimber operations"/>
+      <unit id="FPIHAR3210C" title="Conduct mechanical processor operations"/>
+      <unit id="FPIHAR3211B" title="Operate yarder"/>
+      <unit id="FPIHAR3213B" title="Conduct mechanically assisted tree falling operations"/>
+      <unit id="FPIHAR3214C" title="Operate a single grip harvester"/>
+      <unit id="FPIHAR3215C" title="Operate a heavy production mobile chipper"/>
+      <unit id="FPIHAR3216A" title="Conduct forestry operations using crawler tractor"/>
+      <unit id="FPIHAR3217A" title="Conduct skidder operations"/>
+      <unit id="FPIHAR3218A" title="Conduct loader operations"/>
+      <unit id="FPIHAR3219A" title="Conduct excavator operations with grabs"/>
+      <unit id="FPIHAR3220" title="Harvest trees manually (intermediate)"/>
+      <unit id="FPIHAR3221" title="Harvest trees manually (advanced)"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA302C" title="Provide first aid in remote situation"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="PUAFIR303B" title="Suppress wildfire"/>
+      <unit id="PUAFIR309B" title="Operate pumps"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="RIIMPO315A" title="Conduct tractor operations"/>
+      <unit id="RIIMPO317A" title="Conduct roller operations"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="RIIMPO323A" title="Conduct civil construction dozer operations"/>
+      <unit id="RIIMPO324A" title="Conduct civil construction grader operations"/>
+      <unit id="RIIVEH304B" title="Conduct tip truck operations"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC3063A" title="Operate vehicle carrying special loads"/>
+      <unit id="TLIC4006A" title="Drive multi-combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3033A" title="Operate a vehicle-mounted loading crane"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIH2001A" title="Interpret road maps and navigate pre-determined routes"/>
+      <unit id="TLILIC2016A" title="Licence to drive heavy rigid vehicle"/>
+      <unit id="TLILIC3017A" title="Licence to drive heavy combination vehicle"/>
+      <unit id="TLILIC3018A" title="Licence to drive multi-combination vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30911" title="Certificate III in Timber Truss and Frame Design and Manufacture">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCCM1005A" title="Carry out measurements and calculations"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT2235A" title="Assess timber for manufacturing potential"/>
+      <unit id="FPICOT3204B" title="Prepare and interpret sketches and drawings"/>
+      <unit id="FPICOT3214B" title="Take off material quantities"/>
+      <unit id="FPICOT3218B" title="Quote and interpret from manufactured timber product plans"/>
+      <unit id="FPICOT3220B" title="Quote and interpret from computerised timber manufactured product plans"/>
+      <unit id="FPICOT3234B" title="Cut material using CNC sizing machines"/>
+      <unit id="FPICOT3235B" title="Machine material using CNC machining and processing centres"/>
+      <unit id="FPICOT3236B" title="Coordinate stock control procedures"/>
+      <unit id="FPICOT3239B" title="Create drawings using computer aided design systems"/>
+      <unit id="FPICOT3241B" title="Assemble timber wall frames"/>
+      <unit id="FPICOT3242B" title="Lay up timber roof trusses"/>
+      <unit id="FPICOT3243B" title="Operate a truss press"/>
+      <unit id="FPICOT4202B" title="Design timber structures"/>
+      <unit id="FPICOT4203B" title="Plan and coordinate product assembly"/>
+      <unit id="FPICOT4204B" title="Schedule and coordinate load shifting"/>
+      <unit id="FPITMM2203A" title="Read and interpret timber truss, floor and/or frame fabrication plans"/>
+      <unit id="FPITMM3204A" title="Interpret designs to prepare timber roof truss drawings and documents using computers"/>
+      <unit id="FPITMM3205A" title="Interpret designs to prepare timber floor system drawings and documents using computers"/>
+      <unit id="FPITMM3206A" title="Interpret designs to prepare timber wall frame drawings and documents using computers"/>
+      <unit id="FPITMM3207A" title="Set up timber floor trusses"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30311" title="Certificate III in Sawmilling and Processing">
+    <units>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT2240" title="Cut material with a pole saw"/>
+      <unit id="FPICOT3201B" title="Hand sharpen knives and blades"/>
+      <unit id="FPICOT3202B" title="Navigate in remote or trackless areas"/>
+      <unit id="FPICOT3203B" title="Weigh loads"/>
+      <unit id="FPICOT3205B" title="Dress boards using multi-headed machines"/>
+      <unit id="FPICOT3206B" title="Cut material using high speed optimiser"/>
+      <unit id="FPICOT3207B" title="Set up, operate and maintain finger jointing operations"/>
+      <unit id="FPICOT3208B" title="Test strength of joints"/>
+      <unit id="FPICOT3209B" title="Set up, operate and maintain end matching operations"/>
+      <unit id="FPICOT3211B" title="Maintain sawdoctoring tools"/>
+      <unit id="FPICOT3212B" title="Replace saws, blades and guides"/>
+      <unit id="FPICOT3213B" title="Manufacture cutting tools"/>
+      <unit id="FPICOT3215B" title="Swage and shape saw blades"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT3224B" title="Plan and monitor equipment maintenance"/>
+      <unit id="FPICOT3225B" title="Mechanically stress grade timber"/>
+      <unit id="FPICOT3227B" title="Receive and measure logs"/>
+      <unit id="FPICOT3229B" title="Mechanically stress grade panels"/>
+      <unit id="FPICOT3230B" title="Operate automated stacking equipment"/>
+      <unit id="FPICOT3231B" title="Operate steam boiler"/>
+      <unit id="FPICOT3232B" title="Operate heat plant"/>
+      <unit id="FPICOT3233B" title="Sharpen and align blades and knives"/>
+      <unit id="FPICOT3234B" title="Cut material using CNC sizing machines"/>
+      <unit id="FPICOT3235B" title="Machine material using CNC machining and processing centres"/>
+      <unit id="FPICOT3236B" title="Coordinate stock control procedures"/>
+      <unit id="FPICOT3237B" title="Produce templates"/>
+      <unit id="FPICOT3240B" title="Grade heavy structural/engineered products"/>
+      <unit id="FPICOT3245B" title="Grade, sort and mark material"/>
+      <unit id="FPICOT3246B" title="Test heavy structural/engineered products"/>
+      <unit id="FPICOT3248A" title="Dry timber in solar assisted kilns"/>
+      <unit id="FPICOT3249A" title="Select timber preservation techniques"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3253A" title="Convert timber residue into products for further use"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPICOT3260" title="Recover four wheel drive vehicles"/>
+      <unit id="FPIFGM3214" title="Operate a four wheel drive in a towing situation"/>
+      <unit id="FPISAW3201B" title="Treat timber"/>
+      <unit id="FPISAW3202B" title="Produce sawn green boards"/>
+      <unit id="FPISAW3203B" title="Break down logs"/>
+      <unit id="FPISAW3204B" title="Saw flitches and cants"/>
+      <unit id="FPISAW3205B" title="Dry hardwood"/>
+      <unit id="FPISAW3206B" title="Dry softwood"/>
+      <unit id="FPISAW3207B" title="Sharpen band saws"/>
+      <unit id="FPISAW3208B" title="Sharpen circular saws"/>
+      <unit id="FPISAW3209B" title="Align sawing production systems"/>
+      <unit id="FPISAW3210B" title="File and set saws"/>
+      <unit id="FPISAW3211B" title="Recondition guides"/>
+      <unit id="FPISAW3212B" title="Sharpen tipped circular saws"/>
+      <unit id="FPISAW3213B" title="Level and tension circular saws"/>
+      <unit id="FPISAW3214B" title="Join band saw blades"/>
+      <unit id="FPISAW3215B" title="Screen wood chips"/>
+      <unit id="FPISAW3216B" title="Transfer wood chips"/>
+      <unit id="FPISAW3217B" title="Hard face saw teeth"/>
+      <unit id="FPISAW3218B" title="Replace tungsten tips"/>
+      <unit id="FPISAW3219B" title="Replace stellite tips"/>
+      <unit id="FPISAW3220B" title="Maintain wide band saw blades"/>
+      <unit id="FPISAW3221B" title="Profile saw blanks"/>
+      <unit id="FPISAW3222B" title="Recondition band mill wheels"/>
+      <unit id="FPISAW3223B" title="Assess wood chips"/>
+      <unit id="FPISAW3224B" title="Coordinate and monitor the wood chip stockpile"/>
+      <unit id="FPISAW3226B" title="Saw logs using CNC optimising systems"/>
+      <unit id="FPISAW3227B" title="Select and saw logs in multi-species operations"/>
+      <unit id="FPISAW3229B" title="Operate a portable sawmill"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="MEM18011C" title="Shut down and isolate machines/equipment"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="RIIMPO321B" title="Conduct civil construction wheeled front end loader operations"/>
+      <unit id="RIIMPO323A" title="Conduct civil construction dozer operations"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30611" title="Certificate III in Timber Merchandising">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT3203B" title="Weigh loads"/>
+      <unit id="FPICOT3204B" title="Prepare and interpret sketches and drawings"/>
+      <unit id="FPICOT3218B" title="Quote and interpret from manufactured timber product plans"/>
+      <unit id="FPICOT3236B" title="Coordinate stock control procedures"/>
+      <unit id="FPICOT3240B" title="Grade heavy structural/engineered products"/>
+      <unit id="FPICOT3246B" title="Test heavy structural/engineered products"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3251A" title="Promote the carbon benefits of wood products"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPITMM3203B" title="Estimate and cost job"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="SIRRRPK010A" title="Recommend home and home improvement products and services"/>
+      <unit id="SIRRRPK214" title="Recommend specialised products and services"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXICT303" title="Operate retail information technology systems"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER202" title="Plan, create and maintain displays"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER406" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXRSK003A" title="Apply store security systems and procedures"/>
+      <unit id="SIRXSLS303" title="Build relationships with customers"/>
+      <unit id="SIRXSLS304" title="Coordinate sales performance"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30711" title="Certificate III in Sawdoctoring">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOT3201B" title="Hand sharpen knives and blades"/>
+      <unit id="FPICOT3204B" title="Prepare and interpret sketches and drawings"/>
+      <unit id="FPICOT3210B" title="Sharpen cutting tools"/>
+      <unit id="FPICOT3211B" title="Maintain sawdoctoring tools"/>
+      <unit id="FPICOT3212B" title="Replace saws, blades and guides"/>
+      <unit id="FPICOT3213B" title="Manufacture cutting tools"/>
+      <unit id="FPICOT3215B" title="Swage and shape saw blades"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT3233B" title="Sharpen and align blades and knives"/>
+      <unit id="FPICOT3237B" title="Produce templates"/>
+      <unit id="FPICOT3247B" title="Select timber for forestry operations"/>
+      <unit id="FPISAW3207B" title="Sharpen band saws"/>
+      <unit id="FPISAW3208B" title="Sharpen circular saws"/>
+      <unit id="FPISAW3209B" title="Align sawing production systems"/>
+      <unit id="FPISAW3210B" title="File and set saws"/>
+      <unit id="FPISAW3211B" title="Recondition guides"/>
+      <unit id="FPISAW3212B" title="Sharpen tipped circular saws"/>
+      <unit id="FPISAW3213B" title="Level and tension circular saws"/>
+      <unit id="FPISAW3214B" title="Join band saw blades"/>
+      <unit id="FPISAW3217B" title="Hard face saw teeth"/>
+      <unit id="FPISAW3218B" title="Replace tungsten tips"/>
+      <unit id="FPISAW3219B" title="Replace stellite tips"/>
+      <unit id="FPISAW3220B" title="Maintain wide band saw blades"/>
+      <unit id="FPISAW3221B" title="Profile saw blanks"/>
+      <unit id="FPISAW3222B" title="Recondition band mill wheels"/>
+      <unit id="FPISAW3225B" title="Maintain frame saw blades"/>
+      <unit id="FPISAW3228B" title="Apply principles of blade design to sawing procedures"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM05049B" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30811" title="Certificate III in Woodmachining">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOT2205B" title="Tail out materials"/>
+      <unit id="FPICOT2207B" title="Dress boards and timber"/>
+      <unit id="FPICOT2208B" title="Resaw boards and timber"/>
+      <unit id="FPICOT2212B" title="Grade hardwood sawn and milled products"/>
+      <unit id="FPICOT2213B" title="Grade softwood sawn and milled products"/>
+      <unit id="FPICOT2214B" title="Grade cypress sawn and milled products"/>
+      <unit id="FPICOT2215B" title="Visually stress grade hardwood"/>
+      <unit id="FPICOT2216B" title="Visually stress grade softwood"/>
+      <unit id="FPICOT2217B" title="Visually stress grade cypress"/>
+      <unit id="FPICOT2219B" title="Use hand-held tools"/>
+      <unit id="FPICOT2224B" title="Band edges of panels"/>
+      <unit id="FPICOT2232B" title="Cut material to shape using a saw"/>
+      <unit id="FPICOT3201B" title="Hand sharpen knives and blades"/>
+      <unit id="FPICOT3204B" title="Prepare and interpret sketches and drawings"/>
+      <unit id="FPICOT3205B" title="Dress boards using multi-headed machines"/>
+      <unit id="FPICOT3206B" title="Cut material using high speed optimiser"/>
+      <unit id="FPICOT3207B" title="Set up, operate and maintain finger jointing operations"/>
+      <unit id="FPICOT3209B" title="Set up, operate and maintain end matching operations"/>
+      <unit id="FPICOT3210B" title="Sharpen cutting tools"/>
+      <unit id="FPICOT3212B" title="Replace saws, blades and guides"/>
+      <unit id="FPICOT3213B" title="Manufacture cutting tools"/>
+      <unit id="FPICOT3214B" title="Take off material quantities"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT3233B" title="Sharpen and align blades and knives"/>
+      <unit id="FPICOT3234B" title="Cut material using CNC sizing machines"/>
+      <unit id="FPICOT3235B" title="Machine material using CNC machining and processing centres"/>
+      <unit id="FPICOT3237B" title="Produce templates"/>
+      <unit id="FPICOT3239B" title="Create drawings using computer aided design systems"/>
+      <unit id="FPICOT3244B" title="Cut material to profile"/>
+      <unit id="FPICOT3247B" title="Select timber for forestry operations"/>
+      <unit id="FPISAW3208B" title="Sharpen circular saws"/>
+      <unit id="FPISAW3210B" title="File and set saws"/>
+      <unit id="FPISAW3213B" title="Level and tension circular saws"/>
+      <unit id="FPISAW3218B" title="Replace tungsten tips"/>
+      <unit id="FPISAW3226B" title="Saw logs using CNC optimising systems"/>
+      <unit id="FPISAW3228B" title="Apply principles of blade design to sawing procedures"/>
+      <unit id="FPITMM2202B" title="Machine material"/>
+      <unit id="FPITMM3201B" title="Convert timber"/>
+      <unit id="FPITMM3202B" title="Manufacture using joinery machines"/>
+      <unit id="FPITMM3203B" title="Estimate and cost job"/>
+      <unit id="FPITMM4203B" title="Install and commission CNC software"/>
+      <unit id="FPIWPP2210B" title="Cut panels to profile"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30511" title="Certificate III in Timber Manufactured Products">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT3204B" title="Prepare and interpret sketches and drawings"/>
+      <unit id="FPICOT3205B" title="Dress boards using multi-headed machines"/>
+      <unit id="FPICOT3206B" title="Cut material using high speed optimiser"/>
+      <unit id="FPICOT3207B" title="Set up, operate and maintain finger jointing operations"/>
+      <unit id="FPICOT3208B" title="Test strength of joints"/>
+      <unit id="FPICOT3209B" title="Set up, operate and maintain end matching operations"/>
+      <unit id="FPICOT3210B" title="Sharpen cutting tools"/>
+      <unit id="FPICOT3211B" title="Maintain sawdoctoring tools"/>
+      <unit id="FPICOT3212B" title="Replace saws, blades and guides"/>
+      <unit id="FPICOT3214B" title="Take off material quantities"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT3218B" title="Quote and interpret from manufactured timber product plans"/>
+      <unit id="FPICOT3219B" title="Produce standard truss or frame plans and details using computers"/>
+      <unit id="FPICOT3220B" title="Quote and interpret from computerised timber manufactured product plans"/>
+      <unit id="FPICOT3228B" title="Plane/sand panels"/>
+      <unit id="FPICOT3230B" title="Operate automated stacking equipment"/>
+      <unit id="FPICOT3234B" title="Cut material using CNC sizing machines"/>
+      <unit id="FPICOT3235B" title="Machine material using CNC machining and processing centres"/>
+      <unit id="FPICOT3236B" title="Coordinate stock control procedures"/>
+      <unit id="FPICOT3239B" title="Create drawings using computer aided design systems"/>
+      <unit id="FPICOT3240B" title="Grade heavy structural/engineered products"/>
+      <unit id="FPICOT3241B" title="Assemble timber wall frames"/>
+      <unit id="FPICOT3242B" title="Lay up timber roof trusses"/>
+      <unit id="FPICOT3243B" title="Operate a truss press"/>
+      <unit id="FPICOT3244B" title="Cut material to profile"/>
+      <unit id="FPICOT3246B" title="Test heavy structural/engineered products"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3253A" title="Convert timber residue into products for further use"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPISAW3226B" title="Saw logs using CNC optimising systems"/>
+      <unit id="FPITMM3201B" title="Convert timber"/>
+      <unit id="FPITMM3202B" title="Manufacture using joinery machines"/>
+      <unit id="FPITMM3203B" title="Estimate and cost job"/>
+      <unit id="FPIWPP3203B" title="Produce fibre from chips"/>
+      <unit id="FPIWPP3209B" title="Prepare resin and additives"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC3063A" title="Operate vehicle carrying special loads"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30411" title="Certificate III in Wood Panel Products">
+    <units>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="CPPSEC3007A" title="Maintain security of environment"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT2225B" title="Chip or flake wood"/>
+      <unit id="FPICOT2240" title="Cut material with a pole saw"/>
+      <unit id="FPICOT3203B" title="Weigh loads"/>
+      <unit id="FPICOT3206B" title="Cut material using high speed optimiser"/>
+      <unit id="FPICOT3212B" title="Replace saws, blades and guides"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT3224B" title="Plan and monitor equipment maintenance"/>
+      <unit id="FPICOT3227B" title="Receive and measure logs"/>
+      <unit id="FPICOT3228B" title="Plane/sand panels"/>
+      <unit id="FPICOT3229B" title="Mechanically stress grade panels"/>
+      <unit id="FPICOT3230B" title="Operate automated stacking equipment"/>
+      <unit id="FPICOT3231B" title="Operate steam boiler"/>
+      <unit id="FPICOT3232B" title="Operate heat plant"/>
+      <unit id="FPICOT3233B" title="Sharpen and align blades and knives"/>
+      <unit id="FPICOT3234B" title="Cut material using CNC sizing machines"/>
+      <unit id="FPICOT3235B" title="Machine material using CNC machining and processing centres"/>
+      <unit id="FPICOT3236B" title="Coordinate stock control procedures"/>
+      <unit id="FPICOT3245B" title="Grade, sort and mark material"/>
+      <unit id="FPICOT3248A" title="Dry timber in solar assisted kilns"/>
+      <unit id="FPICOT3249A" title="Select timber preservation techniques"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3253A" title="Convert timber residue into products for further use"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPISAW3226B" title="Saw logs using CNC optimising systems"/>
+      <unit id="FPIWPP2201B" title="Cut panels"/>
+      <unit id="FPIWPP3201B" title="Produce veneer from debarked logs"/>
+      <unit id="FPIWPP3202B" title="Paint panels"/>
+      <unit id="FPIWPP3203B" title="Produce fibre from chips"/>
+      <unit id="FPIWPP3204B" title="Form board"/>
+      <unit id="FPIWPP3205B" title="Match and join veneer"/>
+      <unit id="FPIWPP3206B" title="Laminate and veneer board surfaces"/>
+      <unit id="FPIWPP3207B" title="Clip veneer"/>
+      <unit id="FPIWPP3208B" title="Punch peg holes in panels"/>
+      <unit id="FPIWPP3209B" title="Prepare resin and additives"/>
+      <unit id="FPIWPP3210B" title="Laminate board"/>
+      <unit id="FPIWPP3211B" title="Maintain caul plates and screens"/>
+      <unit id="FPIWPP3212B" title="Dry material"/>
+      <unit id="FPIWPP3213B" title="Heat treat material"/>
+      <unit id="FPIWPP3214B" title="Treat paper"/>
+      <unit id="FPIWPP3215B" title="Cut paper"/>
+      <unit id="FPIWPP3216B" title="Press material using the daylight process"/>
+      <unit id="FPIWPP3217B" title="Process production effluent"/>
+      <unit id="FPIWPP3218B" title="Plan and coordinate machining of panels"/>
+      <unit id="FPIWPP3219B" title="Blend and test binding mixes"/>
+      <unit id="FPIWPP3220B" title="Plan and coordinate panel painting"/>
+      <unit id="FPIWPP3221B" title="Trim new panels to size"/>
+      <unit id="FPIWPP3222B" title="Press laminated ply"/>
+      <unit id="FPIWPP3223B" title="Immunise veneer"/>
+      <unit id="FPIWPP3224B" title="Profile sand products"/>
+      <unit id="FPIWPP3225B" title="Produce profile sanding shoes and wheels"/>
+      <unit id="FPIWPP3226B" title="Operate a continuous press"/>
+      <unit id="FPIWPP3227B" title="Vacuum paint"/>
+      <unit id="FPIWPP3228B" title="Dry Wood Flakes"/>
+      <unit id="FPIWPP3229B" title="Classify flake"/>
+      <unit id="FPIWPP3230B" title="Produce decorative veneers"/>
+      <unit id="FPIWPP3231B" title="Produce veneer from prepared flitches"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="MEM18011C" title="Shut down and isolate machines/equipment"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="RIIMPO323A" title="Conduct civil construction dozer operations"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLID2012A" title="Operate specialised load shifting equipment"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3043A" title="Shift loads using gantry equipment"/>
+      <unit id="TLIF1002B" title="Conduct housekeeping activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI30111" title="Certificate III in Forest Growing and Management">
+    <units>
+      <unit id="AHCARB307A" title="Undertake complex tree climbing"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCINF303A" title="Plan and construct conventional fencing"/>
+      <unit id="AHCIRG301A" title="Implement a maintenance program for an irrigation system"/>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="AHCLSC302A" title="Construct landscape features using concrete"/>
+      <unit id="AHCLSC304A" title="Erect timber structures and features"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCNSY301A" title="Maintain nursery plants"/>
+      <unit id="AHCNSY306A" title="Implement a propagation plan"/>
+      <unit id="AHCPMG301A" title="Control weeds"/>
+      <unit id="AHCPMG302A" title="Control plant pests, diseases and disorders"/>
+      <unit id="AHCSAW302A" title="Implement erosion and sediment control measures"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="FPICOR2201B" title="Work effectively in the forest and forest products industry"/>
+      <unit id="FPICOR2202B" title="Communicate and interact effectively in the workplace"/>
+      <unit id="FPICOR3201B" title="Implement safety, health and environment policies and procedures"/>
+      <unit id="FPICOR3202B" title="Conduct quality and product care procedures"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR3204B" title="Visually assess materials"/>
+      <unit id="FPICOT3202B" title="Navigate in remote or trackless areas"/>
+      <unit id="FPICOT3221B" title="Rehabilitate tracks, quarries and landings"/>
+      <unit id="FPICOT3222B" title="Present forestry information and interpretations programs"/>
+      <unit id="FPICOT3223B" title="Grade and mark logs"/>
+      <unit id="FPICOT3238B" title="Operate a pole saw"/>
+      <unit id="FPICOT3250A" title="Prepare timber to meet import/export compliance requirements"/>
+      <unit id="FPICOT3252A" title="Use environmental care procedures to undertake fire salvage operations"/>
+      <unit id="FPICOT3254A" title="Implement environmentally sustainable work practices in the work area/work site"/>
+      <unit id="FPICOT3255" title="Apply silvicultural principles"/>
+      <unit id="FPICOT3256" title="Apply biodiversity protection principles"/>
+      <unit id="FPICOT3257" title="Follow cultural heritage requirements"/>
+      <unit id="FPICOT3258" title="Comply with soil and water protection"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPICOT3260" title="Recover four wheel drive vehicles"/>
+      <unit id="FPIFGM3201B" title="Manage seed collection"/>
+      <unit id="FPIFGM3202B" title="Extract seed"/>
+      <unit id="FPIFGM3206B" title="Plan and implement non-commercial thinning operations"/>
+      <unit id="FPIFGM3207B" title="Coordinate stem improvement"/>
+      <unit id="FPIFGM3209B" title="Construct and maintain forest roads and tracks"/>
+      <unit id="FPIFGM3210B" title="Patrol forest"/>
+      <unit id="FPIFGM3211B" title="Manage coppice stems"/>
+      <unit id="FPIFGM3212" title="Fall trees manually (intermediate)"/>
+      <unit id="FPIFGM3213" title="Fall trees manually (advanced)"/>
+      <unit id="FPIFGM3214" title="Operate a four wheel drive in a towing situation"/>
+      <unit id="FPIFGM3215" title="Perform complex 4x4 operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="PUAFIR204B" title="Respond to wildfire"/>
+      <unit id="PUAFIR303B" title="Suppress wildfire"/>
+      <unit id="PUAFIR309B" title="Operate pumps"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUATEA002B" title="Work autonomously"/>
+      <unit id="RIIHAN308A" title="Load and unload plant"/>
+      <unit id="RIIMPO315A" title="Conduct tractor operations"/>
+      <unit id="RIIMPO317A" title="Conduct roller operations"/>
+      <unit id="RIIMPO318B" title="Conduct civil construction skid steer loader operations"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="RIIMPO320B" title="Conduct civil construction excavator operations"/>
+      <unit id="RIIMPO321B" title="Conduct civil construction wheeled front end loader operations"/>
+      <unit id="RIIMPO322A" title="Conduct civil construction tracked front end loader operations"/>
+      <unit id="RIIMPO324A" title="Conduct civil construction grader operations"/>
+      <unit id="RIIVEH304B" title="Conduct tip truck operations"/>
+      <unit id="RIIVEH305A" title="Operate and maintain a four wheel drive vehicle"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3014A" title="Load and unload vehicles carrying special loads"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI40411" title="Certificate IV in Timber Truss and Frame Design">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCCA3006A" title="Erect roof trusses"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUVDES405A" title="Research and apply techniques in spatial design"/>
+      <unit id="FPICOR4201B" title="Monitor safety, health and environment policies and procedures"/>
+      <unit id="FPICOR4203B" title="Monitor quality and product care procedures"/>
+      <unit id="FPICOT4202B" title="Design timber structures"/>
+      <unit id="FPICOT4203B" title="Plan and coordinate product assembly"/>
+      <unit id="FPITMM4201B" title="Construct prototypes and samples"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM4203B" title="Install and commission CNC software"/>
+      <unit id="FPITMM4205A" title="Prepare and advise on a broad range of timber roof truss details using computers"/>
+      <unit id="FPITMM4206A" title="Prepare and advise on a broad range of timber floor system details using computers"/>
+      <unit id="FPITMM4207A" title="Prepare and advise on a broad range of timber wall frame details using computers"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="MSACMT450A" title="Undertake process capability improvements"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI40311" title="Certificate IV Timber Truss and Frame Manufacture">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CPCCBC4001A" title="Apply building codes and standards to the construction process for low rise building projects"/>
+      <unit id="CPCCBC4004A" title="Identify and produce estimated costs for building and construction projects"/>
+      <unit id="CPCCBC4005A" title="Produce labour and material schedules for ordering"/>
+      <unit id="CPCCBC4024A" title="Resolve business disputes"/>
+      <unit id="CPCCCA3006A" title="Erect roof trusses"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCSUS4001A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CUVDES405A" title="Research and apply techniques in spatial design"/>
+      <unit id="FPICOR4201B" title="Monitor safety, health and environment policies and procedures"/>
+      <unit id="FPICOR4203B" title="Monitor quality and product care procedures"/>
+      <unit id="FPICOT3239B" title="Create drawings using computer aided design systems"/>
+      <unit id="FPICOT4202B" title="Design timber structures"/>
+      <unit id="FPICOT4203B" title="Plan and coordinate product assembly"/>
+      <unit id="FPITMM4201B" title="Construct prototypes and samples"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM4203B" title="Install and commission CNC software"/>
+      <unit id="FPITMM4205A" title="Prepare and advise on a broad range of timber roof truss details using computers"/>
+      <unit id="FPITMM4206A" title="Prepare and advise on a broad range of timber floor system details using computers"/>
+      <unit id="FPITMM4207A" title="Prepare and advise on a broad range of timber wall frame details using computers"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="MSACMT450A" title="Undertake process capability improvements"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI40211" title="Certificate IV in Timber Processing">
+    <units>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="FPICOR4201B" title="Monitor safety, health and environment policies and procedures"/>
+      <unit id="FPICOR4203B" title="Monitor quality and product care procedures"/>
+      <unit id="FPICOT3216B" title="Assess and maintain saw performance"/>
+      <unit id="FPICOT3217B" title="Assess and maintain cutter performance"/>
+      <unit id="FPICOT4201B" title="Produce complex truss and frame plans and details using computers"/>
+      <unit id="FPICOT4202B" title="Design timber structures"/>
+      <unit id="FPICOT4203B" title="Plan and coordinate product assembly"/>
+      <unit id="FPICOT4204B" title="Schedule and coordinate load shifting"/>
+      <unit id="FPICOT4205B" title="Coordinate log debarking operations"/>
+      <unit id="FPICOT4206B" title="Plan and coordinate boiler operations"/>
+      <unit id="FPICOT4207B" title="Plan and coordinate heat plant operations"/>
+      <unit id="FPISAW4201B" title="Plan and monitor timber treatment plant operations"/>
+      <unit id="FPISAW4202B" title="Plan and monitor saw log operations"/>
+      <unit id="FPISAW4203B" title="Coordinate timber drying operations"/>
+      <unit id="FPISAW4204B" title="Plan and monitor board conversion"/>
+      <unit id="FPITMM4201B" title="Construct prototypes and samples"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM4203B" title="Install and commission CNC software"/>
+      <unit id="FPITMM4204B" title="Sample and test products to specifications"/>
+      <unit id="FPIWPP4201B" title="Plan and coordinate panel production"/>
+      <unit id="FPIWPP4202B" title="Perform laboratory testing"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXSLS406" title="Manage sales and service delivery"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAEDES402A" title="Use training packages and accredited courses to meet client needs"/>
+      <unit id="TLIC4006A" title="Drive multi-combination vehicle"/>
+      <unit id="TLID4032A" title="Plan and conduct specialised lift"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI40111" title="Certificate IV in Forest Operations">
+    <units>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCILM401A" title="Protect places of cultural significance"/>
+      <unit id="AHCIRG406A" title="Plan on-site irrigation system installation and construction work"/>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="AHCNAR402A" title="Plan the implementation of revegetation works"/>
+      <unit id="AHCNSY402A" title="Plan a propagation program"/>
+      <unit id="AHCPMG402A" title="Develop a pest management action plan within a local area"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPMG408A" title="Apply contract and procurement procedures"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="FPICOR3203B" title="Evaluate fire potential and prevention"/>
+      <unit id="FPICOR4201B" title="Monitor safety, health and environment policies and procedures"/>
+      <unit id="FPICOR4202B" title="Monitor and review forestry operations"/>
+      <unit id="FPICOR4203B" title="Monitor quality and product care procedures"/>
+      <unit id="FPIFGM4201B" title="Implement a forest establishment plan"/>
+      <unit id="FPIFGM4202B" title="Manage stand health"/>
+      <unit id="FPIFGM4203B" title="Design plantations"/>
+      <unit id="FPIFGM4204B" title="Conduct a pests and diseases assessment"/>
+      <unit id="FPIFGM4205B" title="Monitor regeneration rates"/>
+      <unit id="FPIFGM4206B" title="Conduct a wood volume and yield assessment"/>
+      <unit id="FPIFGM4207B" title="Conduct a forest site assessment"/>
+      <unit id="FPIFGM4208B" title="Plan a quarry"/>
+      <unit id="FPIFGM4209B" title="Interpret and use aerial photographs for forest management"/>
+      <unit id="FPIFGM4210B" title="Prepare a tender"/>
+      <unit id="FPIHAR4201B" title="Apply tree jacking techniques"/>
+      <unit id="FPIHAR4202B" title="Coordinate log recovery (hook tender)"/>
+      <unit id="FPIHAR4203B" title="Design log landings and snig tracks"/>
+      <unit id="FPIHAR4204B" title="Plan and coordinate fire salvage operations"/>
+      <unit id="FPIHAR4205B" title="Implement harvesting plans"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA402C" title="Apply advanced first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="PUAFIR406B" title="Develop prescribed burning plans"/>
+      <unit id="PUAFIR407B" title="Conduct prescribed burning"/>
+      <unit id="PUALAW002B" title="Conduct initial investigation at incident scene"/>
+      <unit id="PUAOPE001B" title="Supervise response"/>
+      <unit id="SITTPPD005A" title="Plan and develop interpretive activities"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAEDES402A" title="Use training packages and accredited courses to meet client needs"/>
+      <unit id="TLIF4007A" title="Implement and coordinate accident-emergency procedures"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI50311" title="Diploma of Timber Truss and Frame Manufacture">
+    <units>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5012A" title="Assess timber-framed designs for one and two storey buildings"/>
+      <unit id="CPCCSV5015A" title="Assess structural requirements for domestic scale buildings"/>
+      <unit id="FPICOT5203B" title="Manage installation and commissioning of equipment"/>
+      <unit id="FPICOT5204B" title="Organise enterprise maintenance programs"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM5201B" title="Assess product feasibility of designs"/>
+      <unit id="FPITMM5202B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="FPITMM5203B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="FPITMM5204B" title="Manage product design"/>
+      <unit id="FPITMM5205B" title="Optimise CNC operations"/>
+      <unit id="FPITMM5206B" title="Plan production"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="MSACMT630A" title="Optimise cost of product"/>
+      <unit id="MSACMT631A" title="Undertake value analysis of product costs in terms of customer requirements"/>
+      <unit id="MSACMT675A" title="Facilitate the development of a new product"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI50411" title="Diploma of Timber Truss and Frame Design">
+    <units>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCSV5011A" title="Apply building codes and standards to residential buildings"/>
+      <unit id="CPCCSV5012A" title="Assess timber-framed designs for one and two storey buildings"/>
+      <unit id="CPCCSV5015A" title="Assess structural requirements for domestic scale buildings"/>
+      <unit id="FPICOT5203B" title="Manage installation and commissioning of equipment"/>
+      <unit id="FPICOT5204B" title="Organise enterprise maintenance programs"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM5201B" title="Assess product feasibility of designs"/>
+      <unit id="FPITMM5202B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="FPITMM5203B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="FPITMM5204B" title="Manage product design"/>
+      <unit id="FPITMM5205B" title="Optimise CNC operations"/>
+      <unit id="FPITMM5206B" title="Plan production"/>
+      <unit id="MSACMT630A" title="Optimise cost of product"/>
+      <unit id="MSACMT631A" title="Undertake value analysis of product costs in terms of customer requirements"/>
+      <unit id="MSACMT675A" title="Facilitate the development of a new product"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI50111" title="Diploma of Forest and Forest Products">
+    <units>
+      <unit id="AHCBUS502A" title="Market products and services"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCIRG503A" title="Design irrigation, drainage and water treatment systems"/>
+      <unit id="AHCNSY401A" title="Plan a growing-on program"/>
+      <unit id="AHCNSY402A" title="Plan a propagation program"/>
+      <unit id="AHCPGD402A" title="Plan a plant establishment program"/>
+      <unit id="AHCPHT503A" title="Manage a controlled growing environment"/>
+      <unit id="AHCPMG503A" title="Develop a strategy for the management of target pests"/>
+      <unit id="AHCWAT502A" title="Manage water systems"/>
+      <unit id="AHCWRK505A" title="Manage trial and/or research material"/>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK506A" title="Coordinate research and analysis"/>
+      <unit id="FPICOT4201B" title="Produce complex truss and frame plans and details using computers"/>
+      <unit id="FPICOT4202B" title="Design timber structures"/>
+      <unit id="FPICOT4204B" title="Schedule and coordinate load shifting"/>
+      <unit id="FPICOT4205B" title="Coordinate log debarking operations"/>
+      <unit id="FPICOT4206B" title="Plan and coordinate boiler operations"/>
+      <unit id="FPICOT4207B" title="Plan and coordinate heat plant operations"/>
+      <unit id="FPICOT5201B" title="Implement sustainable forestry practices"/>
+      <unit id="FPICOT5202B" title="Manage forestry information and interpretations programs"/>
+      <unit id="FPICOT5203B" title="Manage installation and commissioning of equipment"/>
+      <unit id="FPICOT5204B" title="Organise enterprise maintenance programs"/>
+      <unit id="FPICOT5205A" title="Develop biohazard contingency plans"/>
+      <unit id="FPICOT5206A" title="Implement Forestry Chain of Custody certification system"/>
+      <unit id="FPICOT5207A" title="Implement sustainability in the workplace"/>
+      <unit id="FPICOT5208A" title="Build and maintain community relationships"/>
+      <unit id="FPICOT5209A" title="Manage tree harvesting to minimise environmental impact"/>
+      <unit id="FPIFGM5201B" title="Plan and manage an inventory program"/>
+      <unit id="FPIFGM5208B" title="Manage road construction and maintenance"/>
+      <unit id="FPIFGM5210A" title="Manage tending operations in a native forest"/>
+      <unit id="FPIFGM5211A" title="Coordinate stand nutrition"/>
+      <unit id="FPIFGM5212A" title="Manage genetic resources"/>
+      <unit id="FPIFGM5213A" title="Coordinate plantation tending operations"/>
+      <unit id="FPIFGM5214A" title="Develop a native forest regeneration plan"/>
+      <unit id="FPIFGM5215A" title="Breed trees"/>
+      <unit id="FPIFGM5216A" title="Manage coupe planning"/>
+      <unit id="FPIFGM5217A" title="Promote plantations as a sustainable form of land use"/>
+      <unit id="FPIFGM5218A" title="Undertake carbon storage sampling of forests and plantations"/>
+      <unit id="FPIHAR5201B" title="Design harvesting plans"/>
+      <unit id="FPISAW4201B" title="Plan and monitor timber treatment plant operations"/>
+      <unit id="FPISAW4202B" title="Plan and monitor saw log operations"/>
+      <unit id="FPISAW4203B" title="Coordinate timber drying operations"/>
+      <unit id="FPISAW4204B" title="Plan and monitor board conversion"/>
+      <unit id="FPITMM4202B" title="Diagnose and calculate production costs"/>
+      <unit id="FPITMM4203B" title="Install and commission CNC software"/>
+      <unit id="FPITMM4204B" title="Sample and test products to specifications"/>
+      <unit id="FPITMM5201B" title="Assess product feasibility of designs"/>
+      <unit id="FPITMM5202B" title="Develop, trial and evaluate prototypes"/>
+      <unit id="FPITMM5203B" title="Generate and transfer complex computer-aided drawings and specifications"/>
+      <unit id="FPITMM5204B" title="Manage product design"/>
+      <unit id="FPITMM5205B" title="Optimise CNC operations"/>
+      <unit id="FPITMM5206B" title="Plan production"/>
+      <unit id="FPIWPP4201B" title="Plan and coordinate panel production"/>
+      <unit id="FPIWPP4202B" title="Perform laboratory testing"/>
+      <unit id="LGACOM401A" title="Administer contracts"/>
+      <unit id="LGACOM409A" title="Prepare tender documentation"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="LGAEHRR504C" title="Implement public environmental health education programs"/>
+      <unit id="LGAPLEM404A" title="Prepare and present geographic information systems data"/>
+      <unit id="LGAPLEM612B" title="Protect heritage and cultural assets"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="PUAFIR501B" title="Conduct fire investigation and analysis activities"/>
+      <unit id="PUAFIR509B" title="Implement prevention strategies"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOPE001B" title="Supervise response"/>
+      <unit id="PUAOPE005B" title="Manage a multi team response"/>
+      <unit id="PUAOPE007B" title="Command agency personnel within a multi-agency emergency response"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPI60111" title="Advanced Diploma of Forest Industry Sustainability">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBINN801A" title="Lead innovative thinking and practice"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK506A" title="Coordinate research and analysis"/>
+      <unit id="FPICOR6201A" title="Manage sustainability in the workplace"/>
+      <unit id="FPICOR6202A" title="Implement practices to maximise value from wood residues"/>
+      <unit id="FPICOT5201B" title="Implement sustainable forestry practices"/>
+      <unit id="FPICOT5202B" title="Manage forestry information and interpretations programs"/>
+      <unit id="FPICOT5205A" title="Develop biohazard contingency plans"/>
+      <unit id="FPICOT5206A" title="Implement Forestry Chain of Custody certification system"/>
+      <unit id="FPICOT5207A" title="Implement sustainability in the workplace"/>
+      <unit id="FPICOT5208A" title="Build and maintain community relationships"/>
+      <unit id="FPICOT5209A" title="Manage tree harvesting to minimise environmental impact"/>
+      <unit id="FPICOT6201A" title="Manage community engagement"/>
+      <unit id="FPICOT6202A" title="Develop and manage a Forestry Chain of Custody certification process for the workplace"/>
+      <unit id="FPICOT6203A" title="Develop engineered timber products to meet energy efficient building"/>
+      <unit id="FPICOT6204A" title="Use carbon accounting to estimate emissions in the workplace"/>
+      <unit id="FPICOT6205A" title="Prepare an enterprise carbon management report"/>
+      <unit id="FPICOT6207A" title="Develop forest management systems and processes"/>
+      <unit id="FPIFGM5217A" title="Promote plantations as a sustainable form of land use"/>
+      <unit id="FPIFGM5218A" title="Undertake carbon storage sampling of forests and plantations"/>
+      <unit id="FPIFGM6201A" title="Plan a biochar storage system for carbon capture and storage"/>
+      <unit id="FPIFGM6202A" title="Manage tree inventory for sustainable tree management"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="PSPGOV521A" title="Collect statistical data"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPMNGT604B" title="Manage change"/>
+      <unit id="PSPMNGT703A" title="Lead and influence change"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+      <unit id="PSPREG603A" title="Manage and lead inspection and monitoring programs"/>
+      <unit id="SIRXFIN004A" title="Manage financial resources"/>
+      <unit id="SIRXFIN005A" title="Manage operations to budget"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXMGT005A" title="Set strategic plans"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

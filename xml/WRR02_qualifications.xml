@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<qualifications class="WRR02">
+  <qualification id="WRR10102" title="Certificate I in Retail Operations">
+    <units/>
+  </qualification>
+  <qualification id="WRR20102" title="Certificate II in Retail Operations">
+    <units>
+      <unit id="WRRCA2B" title="Apply retail office procedures"/>
+      <unit id="WRRCA3B" title="Apply retail office keyboard skills"/>
+      <unit id="WRRF2B" title="Perform retail finance duties"/>
+      <unit id="WRRFM1B" title="Merchandise food products"/>
+      <unit id="WRRFM2B" title="Pack and display meat products"/>
+      <unit id="WRRFM3B" title="Prepare and display fast food items"/>
+      <unit id="WRRFM5B" title="Prepare and display bakery products"/>
+      <unit id="WRRFM6B" title="Prepare and display fresh, frozen and live seafood products"/>
+      <unit id="WRRFS1B" title="Advise on food products and services"/>
+      <unit id="WRRFS2B" title="Advise on meat products"/>
+      <unit id="WRRFS3B" title="Advise on fast food products"/>
+      <unit id="WRRFS5B" title="Advise on bakery products"/>
+      <unit id="WRRFS6B" title="Advise on seafood products"/>
+      <unit id="WRRM1B" title="Merchandise products"/>
+      <unit id="WRRS1B" title="Sell products and services"/>
+      <unit id="WRRS2B" title="Advise on products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRR30102" title="Certificate III in Retail Supervision">
+    <units>
+      <unit id="WRRF3B" title="Produce financial reports"/>
+      <unit id="WRRS3B" title="Coordinate sales performance"/>
+      <unit id="WRRSS10B" title="Recommend sporting products and services"/>
+      <unit id="WRRSS11B" title="Recommend toy products"/>
+      <unit id="WRRSS12B" title="Recommend and sell books and advise on reader services"/>
+      <unit id="WRRSS13B" title="Recommend newsagency products and services"/>
+      <unit id="WRRSS14B" title="Hire and sell video products and services"/>
+      <unit id="WRRSS19B" title="Recommend music/audio products and services"/>
+      <unit id="WRRSS8B" title="Recommend cameras, photographic equipment and services"/>
+      <unit id="WRRSS9B" title="Recommend computer products and services"/>
+    </units>
+  </qualification>
+  <qualification id="WRR30202" title="Certificate III in Retail Operations">
+    <units/>
+  </qualification>
+  <qualification id="WRR40102" title="Certificate IV in Retail Management">
+    <units>
+      <unit id="CUVDES01A" title="Apply colour theory in response to a brief"/>
+    </units>
+  </qualification>
+  <qualification id="WRR50204" title="Diploma of Visual Merchandising">
+    <units>
+      <unit id="CUFMEM06A" title="Design a multimedia product"/>
+    </units>
+  </qualification>
+  <qualification id="WRR50102" title="Diploma of Retail Management">
+    <units>
+      <unit id="BSBMGT502A" title="Manage people performance"/>
+      <unit id="WRRF4B" title="Prepare payroll"/>
+      <unit id="WRRI4B" title="Buy merchandise"/>
+    </units>
+  </qualification>
+</qualifications>

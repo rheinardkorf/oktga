@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<qualifications class="NWP01">
+  <qualification id="NWP10101" title="Certificate I in Water Industry Operations">
+    <units/>
+  </qualification>
+  <qualification id="NWP20101" title="Certificate II in Water Industry Operations">
+    <units/>
+  </qualification>
+  <qualification id="NWP30101" title="Certificate III in Water Industry Operations">
+    <units/>
+  </qualification>
+  <qualification id="NWP40101" title="Certificate IV in Water Industry Operations">
+    <units/>
+  </qualification>
+  <qualification id="NWP50101" title="Diploma of Water Industry Operations">
+    <units/>
+  </qualification>
+</qualifications>

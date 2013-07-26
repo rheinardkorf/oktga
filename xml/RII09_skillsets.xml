@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<skillsets class="RII09">
+  <skillset id="RIISS00001" title="Skill Set Explosion Protected Diesel Engine Systems Maintenance">
+    <units>
+      <unit id="RIIDES301" title="Inspect, test and maintain diesel engine systems and their ancillary systems"/>
+      <unit id="RIIDES302" title="Inspect, test and maintain joints on diesel engine systems"/>
+      <unit id="RIIDES303" title="Inspect, test and maintain cooling systems on diesel engine systems"/>
+      <unit id="RIIDES304" title="Inspect, test and maintain inlet systems on diesel engine systems"/>
+      <unit id="RIIDES305" title="Inspect, test and maintain exhaust systems on diesel engine systems"/>
+      <unit id="RIIDES306" title="Inspect, test and maintain safety shutdown systems on diesel engine systems"/>
+      <unit id="RIIDES307" title="Test, determine the cause and rectify excessive emission levels on diesel engine systems"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00002" title="Skill Set Leading Hand">
+    <units>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIOHS403A" title="Apply the mine occupational health and safety management plan"/>
+      <unit id="RIIOHS404A" title="Implement and monitor health and hygiene management systems"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00003" title="Skill Set Mine Surveying">
+    <units>
+      <unit id="RIICOM301B" title="Communicate information"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+      <unit id="RIISDM501A" title="Conduct mine surveying operations"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00004" title="Skill Set Rouseabout Off Shore Oil and Gas">
+    <units>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="RIIOGD201A" title="Assist in maintaining rig safety and emergency procedures"/>
+      <unit id="RIIOGD202A" title="Carry out equipment and basic rig maintenance"/>
+      <unit id="RIIOGF201A" title="Carry out deck operations"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00005" title="Skill Set Site Health and Safety Coordinator">
+    <units>
+      <unit id="BSBOHS402B" title="Contribute to the implementation of the OHS consultation process"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="RIIOHS301A" title="Conduct safety and health investigations"/>
+      <unit id="RIIOHS403A" title="Apply the mine occupational health and safety management plan"/>
+      <unit id="RIIOHS404A" title="Implement and monitor health and hygiene management systems"/>
+      <unit id="RIIRIS402A" title="Carry out the risk management processes"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00006" title="Skill Set Supervision of Indigenous Employees">
+    <units>
+      <unit id="RIILAT401A" title="Provide leadership in the supervision of Indigenous employees"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00007" title="Skill Set Surface Coal Mine Safety">
+    <units>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIERR302A" title="Respond to local emergencies and incidents"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00008" title="Skill Set Surface Shotfiring">
+    <units>
+      <unit id="RIIBLA201A" title="Support shotfiring operations"/>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIIBLA301A" title="Conduct surface shotfiring operations"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00009" title="Skill Set Underground Coal Mine Safety">
+    <units>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIERR203B" title="Escape from hazardous situation unaided"/>
+      <unit id="RIIERR205A" title="Apply initial response First Aid"/>
+      <unit id="RIIGOV201A" title="Comply with site work processes/procedures"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00010" title="Skill Set Underground Shotfiring - Coal">
+    <units>
+      <unit id="RIIBLA202B" title="Support underground shotfiring operations"/>
+      <unit id="RIIBLA302A" title="Conduct shotfiring operations in underground coal mines"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00011" title="Skill Set Underground Shotfiring - Metalliferous">
+    <units>
+      <unit id="RIIBLA205A" title="Store, handle and transport explosives"/>
+      <unit id="RIIBLA303A" title="Conduct underground development shotfiring"/>
+      <unit id="RIIBLA304A" title="Conduct underground production shotfiring"/>
+      <unit id="RIIBLA305A" title="Conduct secondary blasting"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00012" title="Skill Set Work Zone Traffic Control - Auditor_Inspector">
+    <units>
+      <unit id="RIICWD503A" title="Prepare work zone traffic management plan"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00013" title="Skill Set Work Zone Traffic Control - Implement Traffic Control Guidance Plan">
+    <units>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00014" title="Skill Set Work Zone Traffic Control - Road Labourer">
+    <units>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00015" title="Skill Set Work Zone Traffic Control - Supervisor">
+    <units>
+      <unit id="RIIBEF402A" title="Supervise on-site operations"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS302A" title="Implement traffic management plan"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00016" title="Skill Set Work Zone Traffic Control - Traffic Controller">
+    <units>
+      <unit id="RIICOM201A" title="Communicate in the workplace"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+    </units>
+  </skillset>
+  <skillset id="RIISS00017" title="Skill Set Work Zone Traffic Control Guidance Plan - Developer">
+    <units>
+      <unit id="RIICWD503A" title="Prepare work zone traffic management plan"/>
+      <unit id="RIIGOV401B" title="Apply, monitor and report on compliance systems"/>
+      <unit id="RIIOHS201A" title="Work safely and follow OHS policies and procedures"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+    </units>
+  </skillset>
+</skillsets>

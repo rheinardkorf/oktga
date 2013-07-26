@@ -1,0 +1,1389 @@
+<?xml version="1.0"?>
+<qualifications class="ICT10">
+  <qualification id="ICT20410" title="Certificate II in Telecommunications Digital Reception Technology">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI2015B" title="Install software applications"/>
+      <unit id="ICAS2014B" title="Connect hardware peripherals"/>
+      <unit id="ICTCBL2016A" title="Joint metallic conductor cable on customer premises"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTPMG2173A" title="Plan, organise and undertake work activities"/>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTSMB4160A" title="Set up and operate a contractor business"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20310" title="Certificate II in Telecommunications Cabling">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICTCBL2005A" title="Install customer cable support systems"/>
+      <unit id="ICTCBL2006A" title="Place and secure customer cable"/>
+      <unit id="ICTCBL2008A" title="Terminate metallic conductor customer cable"/>
+      <unit id="ICTCBL2012A" title="Install functional and protective telecommunications earthing system"/>
+      <unit id="ICTCBL2016A" title="Joint metallic conductor cable on customer premises"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2132A" title="Erect aerial cable supports"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2135A" title="Joint metallic conductor cable in access network"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2138A" title="Install, maintain and modify customer premises communications cabling: ACMA Lift Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTPMG2130A" title="Prepare site for support installation"/>
+      <unit id="ICTPMG2173A" title="Plan, organise and undertake work activities"/>
+      <unit id="ICTSMB4160A" title="Set up and operate a contractor business"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20513" title="Certificate II in Telecommunications Fixed Wireless and Rigging Installation">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICTCBL2005A" title="Install customer cable support systems"/>
+      <unit id="ICTCBL2006A" title="Place and secure customer cable"/>
+      <unit id="ICTCBL2008A" title="Terminate metallic conductor customer cable"/>
+      <unit id="ICTCBL2012A" title="Install functional and protective telecommunications earthing system"/>
+      <unit id="ICTCBL2016A" title="Joint metallic conductor cable on customer premises"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2132A" title="Erect aerial cable supports"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTPMG2130A" title="Prepare site for support installation"/>
+      <unit id="ICTPMG2173A" title="Plan, organise and undertake work activities"/>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTTCR2188A" title="Use rigging practices and systems on telecommunications network structures"/>
+      <unit id="ICTTCR2189A" title="Use operational safety in a telecommunications rigging environment"/>
+      <unit id="ICTTCR2190A" title="Use safe rigging practices to climb and perform rescues on telecommunications network structures"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWHS2081A" title="Work safely in a radio frequency electromagnetic radiation environment"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20210" title="Certificate II in Telecommunications">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI2015B" title="Install software applications"/>
+      <unit id="ICAS2014B" title="Connect hardware peripherals"/>
+      <unit id="ICTCBL2005A" title="Install customer cable support systems"/>
+      <unit id="ICTCBL2006A" title="Place and secure customer cable"/>
+      <unit id="ICTCBL2008A" title="Terminate metallic conductor customer cable"/>
+      <unit id="ICTCBL2016A" title="Joint metallic conductor cable on customer premises"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2132A" title="Erect aerial cable supports"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTPMG2130A" title="Prepare site for support installation"/>
+      <unit id="ICTPMG2173A" title="Plan, organise and undertake work activities"/>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN2207A" title="Install and configure a home or small office network"/>
+      <unit id="ICTTEN2208A" title="Install and configure a small to medium business network"/>
+      <unit id="ICTTEN2209A" title="Build and maintain a secure network"/>
+      <unit id="ICTTEN2218A" title="Operate new media software packages"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3074A" title="Recover customer premises equipment"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20110" title="Certificate II in Telecommunications Technology">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ICAI2015B" title="Install software applications"/>
+      <unit id="ICAS2014B" title="Connect hardware peripherals"/>
+      <unit id="ICTCBL2005A" title="Install customer cable support systems"/>
+      <unit id="ICTCBL2006A" title="Place and secure customer cable"/>
+      <unit id="ICTCBL2008A" title="Terminate metallic conductor customer cable"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN2207A" title="Install and configure a home or small office network"/>
+      <unit id="ICTTEN2208A" title="Install and configure a small to medium business network"/>
+      <unit id="ICTTEN2209A" title="Build and maintain a secure network"/>
+      <unit id="ICTTEN2218A" title="Operate new media software packages"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT20613" title="Certificate II in National Broadband Network Construction">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCMP2239A" title="Perform restricted customer premises broadband cabling work: ACMA Restricted Rule"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30310" title="Certificate III in Telecommunications Cabling">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI3020B" title="Install and optimise operating system software"/>
+      <unit id="ICAI3021B" title="Connect internal hardware components"/>
+      <unit id="ICAI3110C" title="Implement system software changes"/>
+      <unit id="ICAS3024B" title="Provide basic system administration"/>
+      <unit id="ICAS3031B" title="Provide advice to clients"/>
+      <unit id="ICAS3234B" title="Care for computer hardware"/>
+      <unit id="ICAT3025B" title="Run standard diagnostic tests"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTCBL3020A" title="Construct aerial cable supports"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTCBL3049A" title="Install systems and equipment on customer premises"/>
+      <unit id="ICTCBL3052A" title="Cut over new systems and equipment on customer premises"/>
+      <unit id="ICTCBL3067A" title="Modify and cut over cable"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTCBL3103A" title="Maintain cable network"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTDRE3165A" title="Install a complex digital reception system"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3054A" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTTEN3074A" title="Recover customer premises equipment"/>
+      <unit id="ICTTEN3075A" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN3104A" title="Maintain an electronic system"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3041A" title="Schedule resources"/>
+      <unit id="ICTWOR3093A" title="Manage spare parts"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+      <unit id="ICTWOR3231A" title="Resolve technical enquiries using multiple information systems"/>
+      <unit id="ICTWOR3232A" title="Collect and analyse technical information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30610" title="Certificate III in Broadband and Wireless Networks">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI3020B" title="Install and optimise operating system software"/>
+      <unit id="ICAI3021B" title="Connect internal hardware components"/>
+      <unit id="ICAS3031B" title="Provide advice to clients"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTCBL3020A" title="Construct aerial cable supports"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTCBL3049A" title="Install systems and equipment on customer premises"/>
+      <unit id="ICTCBL3067A" title="Modify and cut over cable"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTCBL3103A" title="Maintain cable network"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN3175A" title="Operate and maintain radio communications technical instruments and field equipment"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTTEN3074A" title="Recover customer premises equipment"/>
+      <unit id="ICTTEN3075A" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN3104A" title="Maintain an electronic system"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3041A" title="Schedule resources"/>
+      <unit id="ICTWOR3093A" title="Manage spare parts"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30713" title="Certificate III in National Broadband Network Construction">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTCBL3240A" title="Install ribbon fibre cable in the FTTX distribution network"/>
+      <unit id="ICTCMP2239A" title="Perform restricted customer premises broadband cabling work: ACMA Restricted Rule"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30210" title="Certificate III in Telecommunications">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI3020B" title="Install and optimise operating system software"/>
+      <unit id="ICAI3021B" title="Connect internal hardware components"/>
+      <unit id="ICAI3101B" title="Install and manage network protocols"/>
+      <unit id="ICAI3110C" title="Implement system software changes"/>
+      <unit id="ICAS3024B" title="Provide basic system administration"/>
+      <unit id="ICAS3031B" title="Provide advice to clients"/>
+      <unit id="ICAS3234B" title="Care for computer hardware"/>
+      <unit id="ICAT3025B" title="Run standard diagnostic tests"/>
+      <unit id="ICAU3019B" title="Migrate to new technology"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3049A" title="Install systems and equipment on customer premises"/>
+      <unit id="ICTCBL3052A" title="Cut over new systems and equipment on customer premises"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTDRE3165A" title="Install a complex digital reception system"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3070A" title="Install mobile telecommunications in motor vehicles"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN3155A" title="Construct and test a radio communications device"/>
+      <unit id="ICTRFN3175A" title="Operate and maintain radio communications technical instruments and field equipment"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3054A" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTTEN3074A" title="Recover customer premises equipment"/>
+      <unit id="ICTTEN3075A" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN3089A" title="Repair and replace telecommunications network hardware"/>
+      <unit id="ICTTEN3104A" title="Maintain an electronic system"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3041A" title="Schedule resources"/>
+      <unit id="ICTWOR3093A" title="Manage spare parts"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+      <unit id="ICTWOR3231A" title="Resolve technical enquiries using multiple information systems"/>
+      <unit id="ICTWOR3232A" title="Collect and analyse technical information"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30110" title="Certificate III in Broadband and Wireless Networks Technology">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAS3031B" title="Provide advice to clients"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="ICTCBL2131A" title="Install an above ground equipment enclosure"/>
+      <unit id="ICTCBL2132A" title="Erect aerial cable supports"/>
+      <unit id="ICTCBL2133A" title="Construct underground telecommunications infrastructure"/>
+      <unit id="ICTCBL2134A" title="Fix aerial cable"/>
+      <unit id="ICTCBL2135A" title="Joint metallic conductor cable in access network"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTCBL3020A" title="Construct aerial cable supports"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTCBL3067A" title="Modify and cut over cable"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTCBL3103A" title="Maintain cable network"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3041A" title="Schedule resources"/>
+      <unit id="ICTWOR3093A" title="Manage spare parts"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30410" title="Certificate III in Telecommunications Digital Reception Technology">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAI3020B" title="Install and optimise operating system software"/>
+      <unit id="ICAI3021B" title="Connect internal hardware components"/>
+      <unit id="ICAS3031B" title="Provide advice to clients"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL2162A" title="Install a cable lead-in"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTDRE3165A" title="Install a complex digital reception system"/>
+      <unit id="ICTDRE4166A" title="Integrate customer digital reception equipment"/>
+      <unit id="ICTDRE4167A" title="Integrate data delivery modes"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTRFN2163A" title="Install a satellite antenna"/>
+      <unit id="ICTRFN2164A" title="Install a terrestrial antenna"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTSMB4161A" title="Operate a contractor business with employees"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30813" title="Certificate III in Telecommunications Fixed Wireless Installation">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAICT303A" title="Connect internal hardware components"/>
+      <unit id="ICANWK305A" title="Install and manage network protocols"/>
+      <unit id="ICANWK417A" title="Build an enterprise wireless network"/>
+      <unit id="ICASAS301A" title="Run standard diagnostic tests"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICTBWN3082A" title="Perform tests on optical communication system and components"/>
+      <unit id="ICTBWN3088A" title="Install optical fibre splitters in fibre distribution hubs"/>
+      <unit id="ICTBWN3090A" title="Install lead-in module and cable for fibre to the premises"/>
+      <unit id="ICTBWN3100A" title="Work safely with live fibre to test and commission a fibre to the x installation"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2064A" title="Haul underground cable"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL3009A" title="Install, terminate and certify structured cabling installation"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3018A" title="Install underground enclosures and conduit"/>
+      <unit id="ICTCBL3019A" title="Install underground cable"/>
+      <unit id="ICTCBL3020A" title="Construct aerial cable supports"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTCBL3049A" title="Install systems and equipment on customer premises"/>
+      <unit id="ICTCBL3052A" title="Cut over new systems and equipment on customer premises"/>
+      <unit id="ICTCBL3067A" title="Modify and cut over cable"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTCMP2022A" title="Organise and monitor cabling to ensure compliance with regulatory and industry standards"/>
+      <unit id="ICTCMP2239A" title="Perform restricted customer premises broadband cabling work: ACMA Restricted Rule"/>
+      <unit id="ICTDRE3156A" title="Install digital reception equipment"/>
+      <unit id="ICTDRE3157A" title="Locate and rectify digital reception equipment faults"/>
+      <unit id="ICTDRE3165A" title="Install a complex digital reception system"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN3155A" title="Construct and test a radio communications device"/>
+      <unit id="ICTRFN3175A" title="Operate and maintain radio communications technical instruments and field equipment"/>
+      <unit id="ICTSMB4160A" title="Set up and operate a contractor business"/>
+      <unit id="ICTSMB4161A" title="Operate a contractor business with employees"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3054A" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTTEN3074A" title="Recover customer premises equipment"/>
+      <unit id="ICTTEN3075A" title="Refurbish customer premises equipment"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT30513" title="Certificate III in Telecommunications Rigging Installation">
+    <units>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLRG4001A" title="Licence to perform rigging advanced level"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL2017A" title="Alter services to existing cable system"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+      <unit id="ICTCBL2139A" title="Apply safe technical work practices for cabling registration"/>
+      <unit id="ICTCBL3010A" title="Install and terminate optical fibre cable on customer premises"/>
+      <unit id="ICTCBL3011A" title="Install and terminate coaxial cable"/>
+      <unit id="ICTCBL3013A" title="Perform cable and system test on customer premises"/>
+      <unit id="ICTCBL3014A" title="Hand over systems and equipment"/>
+      <unit id="ICTCBL3015A" title="Locate and identify cable system faults"/>
+      <unit id="ICTCBL3020A" title="Construct aerial cable supports"/>
+      <unit id="ICTCBL3021A" title="Install aerial cable"/>
+      <unit id="ICTCBL3049A" title="Install systems and equipment on customer premises"/>
+      <unit id="ICTCBL3052A" title="Cut over new systems and equipment on customer premises"/>
+      <unit id="ICTCBL3069A" title="Install network cable equipment"/>
+      <unit id="ICTCBL3103A" title="Maintain cable network"/>
+      <unit id="ICTEDU3053A" title="Train customers in new technology"/>
+      <unit id="ICTOHS2080A" title="Provide telecommunications services safely on roofs"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN3175A" title="Operate and maintain radio communications technical instruments and field equipment"/>
+      <unit id="ICTTCR2188A" title="Use rigging practices and systems on telecommunications network structures"/>
+      <unit id="ICTTCR2189A" title="Use operational safety in a telecommunications rigging environment"/>
+      <unit id="ICTTCR2190A" title="Use safe rigging practices to climb and perform rescues on telecommunications network structures"/>
+      <unit id="ICTTCR3062A" title="Build a telecommunications radio structure"/>
+      <unit id="ICTTCR3191A" title="Install radio plant and equipment on telecommunications structures"/>
+      <unit id="ICTTCR3192A" title="Protect against electromagnetic radiation and system hazards when working on telecommunications radio sites"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3054A" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3063A" title="Locate, identify and rectify recurrent network faults"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN3089A" title="Repair and replace telecommunications network hardware"/>
+      <unit id="ICTTEN3104A" title="Maintain an electronic system"/>
+      <unit id="ICTTEN3250A" title="Provide infrastructure for telecommunications customer equipment"/>
+      <unit id="ICTWHS2170A" title="Follow work health and safety and environmental policies and procedures"/>
+      <unit id="ICTWOR3028A" title="Organise resources"/>
+      <unit id="ICTWOR3035A" title="Organise material supply"/>
+      <unit id="ICTWOR3041A" title="Schedule resources"/>
+      <unit id="ICTWOR3093A" title="Manage spare parts"/>
+      <unit id="ICTWOR3127A" title="Supervise worksite activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40510" title="Certificate IV in Telecommunications Network Planning">
+    <units>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="ICTNPL4107A" title="Apply business acumen to network planning"/>
+      <unit id="ICTNPL4108A" title="Plan the deployment of access network architectures"/>
+      <unit id="ICTNPL4109A" title="Evaluate the capability of access networks"/>
+      <unit id="ICTNPL4110A" title="Evaluate the planning requirements for provisioning a telecommunications building facility"/>
+      <unit id="ICTNPL4111A" title="Develop provisioning of telecommunications building works project"/>
+      <unit id="ICTNPL4112A" title="Evaluate core network architectures"/>
+      <unit id="ICTNPL4113A" title="Plan the deployment of core network"/>
+      <unit id="ICTNPL4114A" title="Produce planning specifications for end to end service delivery"/>
+      <unit id="ICTNPL4150A" title="Apply knowledge of regulation and legislation for the telecommunications industry"/>
+      <unit id="ICTNPL4151A" title="Plan the telecommunications access network for an estate"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4085A" title="Monitor, analyse and action telecommunications network alarms"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICT40210" title="Certificate IV in Telecommunications Network Engineering">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAA4041C" title="Determine and confirm client business expectations and needs"/>
+      <unit id="ICAB4059B" title="Develop detailed technical design"/>
+      <unit id="ICAB4235B" title="Build basic perimeter security into a network"/>
+      <unit id="ICAB4236B" title="Build security into a virtual private network"/>
+      <unit id="ICAB4240C" title="Build an enterprise wireless network"/>
+      <unit id="ICAI4029C" title="Install network hardware to a network"/>
+      <unit id="ICAI4030B" title="Install software to networked computers"/>
+      <unit id="ICAT3025B" title="Run standard diagnostic tests"/>
+      <unit id="ICTCBL4002A" title="Prepare design drawings and specification for a cable installation"/>
+      <unit id="ICTCBL4004A" title="Schedule and supply cabling installation"/>
+      <unit id="ICTCBL4023A" title="Supervise cabling project"/>
+      <unit id="ICTCBL4057A" title="Test cable bearers"/>
+      <unit id="ICTCBL4099A" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTDRE4166A" title="Integrate customer digital reception equipment"/>
+      <unit id="ICTDRE4167A" title="Integrate data delivery modes"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOPN4115A" title="Install and test a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTOPN4117A" title="Prepare activity plans and specifications for a fibre to the x installation"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4158A" title="Select an antenna system for radio communications"/>
+      <unit id="ICTRFN4159A" title="Test and repair cellular network equipment"/>
+      <unit id="ICTRFN4174A" title="Undertake radio communications signals monitoring"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN4001A" title="Identify requirements for customer telecommunications equipment"/>
+      <unit id="ICTTEN4003A" title="Estimate and quote for customer telecommunications equipment installation"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4051A" title="Install configuration programs on PC based customer equipment"/>
+      <unit id="ICTTEN4072A" title="Effect changes to existing customer premises equipment systems and equipment"/>
+      <unit id="ICTTEN4073A" title="Cut over customer premises equipment major upgrades"/>
+      <unit id="ICTTEN4076A" title="Complete equipment and software upgrades"/>
+      <unit id="ICTTEN4078A" title="Commission an electronic system"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4085A" title="Monitor, analyse and action telecommunications network alarms"/>
+      <unit id="ICTTEN4086A" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTEN4087A" title="Undertake remote diagnosis and repair of network faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4211A" title="Design, install and configure an internetwork"/>
+      <unit id="ICTTEN4212A" title="Apply advanced routing protocols to network design"/>
+      <unit id="ICTTEN4213A" title="Configure and troubleshoot advanced network switching"/>
+      <unit id="ICTTEN4214A" title="Install and maintain a wide area network"/>
+      <unit id="ICTTEN4215A" title="Install and configure internet protocol TV in a service provider network"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40310" title="Certificate IV in Telecommunications Radio Communications">
+    <units>
+      <unit id="BSBCUS402A" title="Address customer needs"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPPSEC3034A" title="Operate information gathering equipment"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="ICAI4029C" title="Install network hardware to a network"/>
+      <unit id="ICTCBL2066A" title="Joint and terminate coaxial cable"/>
+      <unit id="ICTCBL4004A" title="Schedule and supply cabling installation"/>
+      <unit id="ICTCBL4099A" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTCMP5176A" title="Undertake radio communications site audit"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTRFN3055A" title="Install a radio communications antenna and feedline"/>
+      <unit id="ICTRFN3146A" title="Install WiMAX customer premises equipment broadband wireless access equipment"/>
+      <unit id="ICTRFN3155A" title="Construct and test a radio communications device"/>
+      <unit id="ICTRFN3175A" title="Operate and maintain radio communications technical instruments and field equipment"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4158A" title="Select an antenna system for radio communications"/>
+      <unit id="ICTRFN4159A" title="Test and repair cellular network equipment"/>
+      <unit id="ICTRFN4174A" title="Undertake radio communications signals monitoring"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTRFN5148A" title="Test and measure cellular phone and network equipment performance"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN3054A" title="Provide infrastructure for telecommunications network equipment"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN3077A" title="Commission an electronic unit"/>
+      <unit id="ICTTEN3089A" title="Repair and replace telecommunications network hardware"/>
+      <unit id="ICTTEN3104A" title="Maintain an electronic system"/>
+      <unit id="ICTTEN4001A" title="Identify requirements for customer telecommunications equipment"/>
+      <unit id="ICTTEN4003A" title="Estimate and quote for customer telecommunications equipment installation"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4051A" title="Install configuration programs on PC based customer equipment"/>
+      <unit id="ICTTEN4072A" title="Effect changes to existing customer premises equipment systems and equipment"/>
+      <unit id="ICTTEN4073A" title="Cut over customer premises equipment major upgrades"/>
+      <unit id="ICTTEN4076A" title="Complete equipment and software upgrades"/>
+      <unit id="ICTTEN4078A" title="Commission an electronic system"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4086A" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTEN4087A" title="Undertake remote diagnosis and repair of network faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4215A" title="Install and configure internet protocol TV in a service provider network"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+      <unit id="ICTWOR2141A" title="Work effectively in a telecommunications technology team"/>
+      <unit id="ICTWOR4032A" title="Undertake a civil site survey"/>
+      <unit id="ICTWOR4079A" title="Schedule equipment maintenance"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40110" title="Certificate IV in Optical Networks">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAA4041C" title="Determine and confirm client business expectations and needs"/>
+      <unit id="ICAB4059B" title="Develop detailed technical design"/>
+      <unit id="ICAB4235B" title="Build basic perimeter security into a network"/>
+      <unit id="ICAB4236B" title="Build security into a virtual private network"/>
+      <unit id="ICAB4240C" title="Build an enterprise wireless network"/>
+      <unit id="ICAI4029C" title="Install network hardware to a network"/>
+      <unit id="ICAI4030B" title="Install software to networked computers"/>
+      <unit id="ICTCBL4002A" title="Prepare design drawings and specification for a cable installation"/>
+      <unit id="ICTCBL4004A" title="Schedule and supply cabling installation"/>
+      <unit id="ICTCBL4023A" title="Supervise cabling project"/>
+      <unit id="ICTCBL4057A" title="Test cable bearers"/>
+      <unit id="ICTCBL4099A" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTDRE4166A" title="Integrate customer digital reception equipment"/>
+      <unit id="ICTDRE4167A" title="Integrate data delivery modes"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOPN4115A" title="Install and test a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTOPN4117A" title="Prepare activity plans and specifications for a fibre to the x installation"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4158A" title="Select an antenna system for radio communications"/>
+      <unit id="ICTRFN4159A" title="Test and repair cellular network equipment"/>
+      <unit id="ICTRFN4174A" title="Undertake radio communications signals monitoring"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN4001A" title="Identify requirements for customer telecommunications equipment"/>
+      <unit id="ICTTEN4003A" title="Estimate and quote for customer telecommunications equipment installation"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4051A" title="Install configuration programs on PC based customer equipment"/>
+      <unit id="ICTTEN4072A" title="Effect changes to existing customer premises equipment systems and equipment"/>
+      <unit id="ICTTEN4073A" title="Cut over customer premises equipment major upgrades"/>
+      <unit id="ICTTEN4076A" title="Complete equipment and software upgrades"/>
+      <unit id="ICTTEN4078A" title="Commission an electronic system"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4085A" title="Monitor, analyse and action telecommunications network alarms"/>
+      <unit id="ICTTEN4086A" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTEN4087A" title="Undertake remote diagnosis and repair of network faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4211A" title="Design, install and configure an internetwork"/>
+      <unit id="ICTTEN4212A" title="Apply advanced routing protocols to network design"/>
+      <unit id="ICTTEN4213A" title="Configure and troubleshoot advanced network switching"/>
+      <unit id="ICTTEN4214A" title="Install and maintain a wide area network"/>
+      <unit id="ICTTEN4215A" title="Install and configure internet protocol TV in a service provider network"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40610" title="Certificate IV in Telecommunications Networks Technology">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAA4041C" title="Determine and confirm client business expectations and needs"/>
+      <unit id="ICAB4059B" title="Develop detailed technical design"/>
+      <unit id="ICAB4235B" title="Build basic perimeter security into a network"/>
+      <unit id="ICAB4236B" title="Build security into a virtual private network"/>
+      <unit id="ICAB4240C" title="Build an enterprise wireless network"/>
+      <unit id="ICAI4029C" title="Install network hardware to a network"/>
+      <unit id="ICAI4030B" title="Install software to networked computers"/>
+      <unit id="ICAT3025B" title="Run standard diagnostic tests"/>
+      <unit id="ICTBWN3205A" title="Use optical and radio frequency measuring instruments"/>
+      <unit id="ICTCBL4002A" title="Prepare design drawings and specification for a cable installation"/>
+      <unit id="ICTCBL4004A" title="Schedule and supply cabling installation"/>
+      <unit id="ICTCBL4023A" title="Supervise cabling project"/>
+      <unit id="ICTCBL4057A" title="Test cable bearers"/>
+      <unit id="ICTCBL4099A" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTDRE4166A" title="Integrate customer digital reception equipment"/>
+      <unit id="ICTDRE4167A" title="Integrate data delivery modes"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTOPN4115A" title="Install and test a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTOPN4117A" title="Prepare activity plans and specifications for a fibre to the x installation"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4158A" title="Select an antenna system for radio communications"/>
+      <unit id="ICTRFN4159A" title="Test and repair cellular network equipment"/>
+      <unit id="ICTRFN4174A" title="Undertake radio communications signals monitoring"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN2007A" title="Use electrical skills in telecommunications work"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN2140A" title="Use hand and power tools"/>
+      <unit id="ICTTEN2209A" title="Build and maintain a secure network"/>
+      <unit id="ICTTEN3056A" title="Install telecommunications network equipment"/>
+      <unit id="ICTTEN4001A" title="Identify requirements for customer telecommunications equipment"/>
+      <unit id="ICTTEN4003A" title="Estimate and quote for customer telecommunications equipment installation"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4051A" title="Install configuration programs on PC based customer equipment"/>
+      <unit id="ICTTEN4072A" title="Effect changes to existing customer premises equipment systems and equipment"/>
+      <unit id="ICTTEN4073A" title="Cut over customer premises equipment major upgrades"/>
+      <unit id="ICTTEN4076A" title="Complete equipment and software upgrades"/>
+      <unit id="ICTTEN4078A" title="Commission an electronic system"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4085A" title="Monitor, analyse and action telecommunications network alarms"/>
+      <unit id="ICTTEN4086A" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTEN4087A" title="Undertake remote diagnosis and repair of network faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4211A" title="Design, install and configure an internetwork"/>
+      <unit id="ICTTEN4212A" title="Apply advanced routing protocols to network design"/>
+      <unit id="ICTTEN4213A" title="Configure and troubleshoot advanced network switching"/>
+      <unit id="ICTTEN4214A" title="Install and maintain a wide area network"/>
+      <unit id="ICTTEN4215A" title="Install and configure internet protocol TV in a service provider network"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT40410" title="Certificate IV in Radio Frequency Networks">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="ICAA4041C" title="Determine and confirm client business expectations and needs"/>
+      <unit id="ICAB4059B" title="Develop detailed technical design"/>
+      <unit id="ICAB4235B" title="Build basic perimeter security into a network"/>
+      <unit id="ICAB4236B" title="Build security into a virtual private network"/>
+      <unit id="ICAB4240C" title="Build an enterprise wireless network"/>
+      <unit id="ICAI4029C" title="Install network hardware to a network"/>
+      <unit id="ICAI4030B" title="Install software to networked computers"/>
+      <unit id="ICTCBL4002A" title="Prepare design drawings and specification for a cable installation"/>
+      <unit id="ICTCBL4004A" title="Schedule and supply cabling installation"/>
+      <unit id="ICTCBL4023A" title="Supervise cabling project"/>
+      <unit id="ICTCBL4057A" title="Test cable bearers"/>
+      <unit id="ICTCBL4099A" title="Remotely locate and identify cable network faults"/>
+      <unit id="ICTDRE4166A" title="Integrate customer digital reception equipment"/>
+      <unit id="ICTDRE4167A" title="Integrate data delivery modes"/>
+      <unit id="ICTOHS2153A" title="Work safely near power infrastructure"/>
+      <unit id="ICTOPN4115A" title="Install and test a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN4116A" title="Use advanced optical test equipment"/>
+      <unit id="ICTOPN4117A" title="Prepare activity plans and specifications for a fibre to the x installation"/>
+      <unit id="ICTPMG4048A" title="Schedule installation of customer premises equipment"/>
+      <unit id="ICTPMG4152A" title="Manage the delivery of network infrastructure"/>
+      <unit id="ICTRFN4095A" title="Conduct radio frequency measurements"/>
+      <unit id="ICTRFN4158A" title="Select an antenna system for radio communications"/>
+      <unit id="ICTRFN4159A" title="Test and repair cellular network equipment"/>
+      <unit id="ICTRFN4174A" title="Undertake radio communications signals monitoring"/>
+      <unit id="ICTRFN4177A" title="Install radio communications base station equipment"/>
+      <unit id="ICTRFN4178A" title="Maintain hybrid fibre coaxial broadband cable network"/>
+      <unit id="ICTSUS4183A" title="Install and test renewable energy system for ICT networks"/>
+      <unit id="ICTSUS4184A" title="Install and test power saving hardware"/>
+      <unit id="ICTSUS4185A" title="Install and test power management software"/>
+      <unit id="ICTSUS4186A" title="Install thin client applications for power over ethernet"/>
+      <unit id="ICTTEN4001A" title="Identify requirements for customer telecommunications equipment"/>
+      <unit id="ICTTEN4003A" title="Estimate and quote for customer telecommunications equipment installation"/>
+      <unit id="ICTTEN4040A" title="Assign a transmission path"/>
+      <unit id="ICTTEN4050A" title="Install and configure a wireless mesh network"/>
+      <unit id="ICTTEN4051A" title="Install configuration programs on PC based customer equipment"/>
+      <unit id="ICTTEN4072A" title="Effect changes to existing customer premises equipment systems and equipment"/>
+      <unit id="ICTTEN4073A" title="Cut over customer premises equipment major upgrades"/>
+      <unit id="ICTTEN4076A" title="Complete equipment and software upgrades"/>
+      <unit id="ICTTEN4078A" title="Commission an electronic system"/>
+      <unit id="ICTTEN4081A" title="Locate, diagnose and rectify faults"/>
+      <unit id="ICTTEN4085A" title="Monitor, analyse and action telecommunications network alarms"/>
+      <unit id="ICTTEN4086A" title="Undertake routine maintenance of the telecommunications network"/>
+      <unit id="ICTTEN4087A" title="Undertake remote diagnosis and repair of network faults"/>
+      <unit id="ICTTEN4102A" title="Repair telecommunication system faults"/>
+      <unit id="ICTTEN4126A" title="Install and configure internet protocol TV in a home network"/>
+      <unit id="ICTTEN4198A" title="Install, configure and test an internet protocol network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+      <unit id="ICTTEN4202A" title="Install and test a radio frequency identification system"/>
+      <unit id="ICTTEN4210A" title="Implement and troubleshoot enterprise routers and switches"/>
+      <unit id="ICTTEN4211A" title="Design, install and configure an internetwork"/>
+      <unit id="ICTTEN4212A" title="Apply advanced routing protocols to network design"/>
+      <unit id="ICTTEN4213A" title="Configure and troubleshoot advanced network switching"/>
+      <unit id="ICTTEN4214A" title="Install and maintain a wide area network"/>
+      <unit id="ICTTEN4215A" title="Install and configure internet protocol TV in a service provider network"/>
+      <unit id="ICTTEN4229A" title="Design, install and configure a customer smart grid network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50110" title="Diploma of Optical Networks">
+    <units>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAA5144B" title="Determine best-fit topology for a local network"/>
+      <unit id="ICAA5150C" title="Evaluate vendor products and equipment"/>
+      <unit id="ICTCMP5176A" title="Undertake radio communications site audit"/>
+      <unit id="ICTEDU5025A" title="Develop and deliver training associated with new and modified products"/>
+      <unit id="ICTITU5144A" title="Test telecommunications network using  virtual instruments"/>
+      <unit id="ICTOPN5118A" title="Plan and configure dense wavelength division multiplexing systems"/>
+      <unit id="ICTOPN5119A" title="Perform acceptance and commissioning tests on optical network"/>
+      <unit id="ICTOPN5120A" title="Plan for an optical system upgrade and cut over"/>
+      <unit id="ICTOPN5121A" title="Test and commission a dense wavelength division multiplexing transmission system"/>
+      <unit id="ICTOPN5122A" title="Test the performance of specialised optical devices"/>
+      <unit id="ICTOPN5123A" title="Analyse and integrate specialised optical devices in the network"/>
+      <unit id="ICTPMG5027A" title="Develop customer premises equipment installation project plans"/>
+      <unit id="ICTPMG5031A" title="Prepare a project brief"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+      <unit id="ICTPRO5026A" title="Develop training, marketing and sales resources for telecommunications products"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTTEN5037A" title="Design a telecommunications project"/>
+      <unit id="ICTTEN5038A" title="Design an electronic system for a telecommunications network"/>
+      <unit id="ICTTEN5058A" title="Acceptance test new systems and equipment"/>
+      <unit id="ICTTEN5059A" title="Commission telecommunications network equipment"/>
+      <unit id="ICTTEN5060A" title="Integrate new systems and equipment into the telecommunications network"/>
+      <unit id="ICTTEN5061A" title="Cut over new and replacement network equipment"/>
+      <unit id="ICTTEN5083A" title="Locate, diagnose and rectify complex faults"/>
+      <unit id="ICTTEN5084A" title="Provide expert advice and support on complex faults"/>
+      <unit id="ICTTEN5092A" title="Undertake planned outage management"/>
+      <unit id="ICTTEN5147A" title="Administer a data communications network"/>
+      <unit id="ICTTEN5168A" title="Design and implement an enterprise voice over internet protocol and a unified communications network"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+      <unit id="ICTTEN5203A" title="Dimension and design a radio frequency identification system"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+      <unit id="ICTTEN5217A" title="Plan a wireless mesh network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50410" title="Diploma of Radio Frequency Networks">
+    <units>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAA5144B" title="Determine best-fit topology for a local network"/>
+      <unit id="ICAA5150C" title="Evaluate vendor products and equipment"/>
+      <unit id="ICTCMP5176A" title="Undertake radio communications site audit"/>
+      <unit id="ICTEDU5025A" title="Develop and deliver training associated with new and modified products"/>
+      <unit id="ICTITU5144A" title="Test telecommunications network using  virtual instruments"/>
+      <unit id="ICTPMG5027A" title="Develop customer premises equipment installation project plans"/>
+      <unit id="ICTPMG5031A" title="Prepare a project brief"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+      <unit id="ICTPRO5026A" title="Develop training, marketing and sales resources for telecommunications products"/>
+      <unit id="ICTRFN5097A" title="Test cellular handset enhancements and international roaming agreements"/>
+      <unit id="ICTRFN5148A" title="Test and measure cellular phone and network equipment performance"/>
+      <unit id="ICTRFN5179A" title="Evaluate and analyse radio frequency signal coverage plots"/>
+      <unit id="ICTRFN6098A" title="Monitor the capacity of and recommend changes to the cellular mobile network"/>
+      <unit id="ICTRFN6171A" title="Produce and evaluate architecture designs for WiMAX networks"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTTEN5037A" title="Design a telecommunications project"/>
+      <unit id="ICTTEN5038A" title="Design an electronic system for a telecommunications network"/>
+      <unit id="ICTTEN5058A" title="Acceptance test new systems and equipment"/>
+      <unit id="ICTTEN5059A" title="Commission telecommunications network equipment"/>
+      <unit id="ICTTEN5060A" title="Integrate new systems and equipment into the telecommunications network"/>
+      <unit id="ICTTEN5061A" title="Cut over new and replacement network equipment"/>
+      <unit id="ICTTEN5083A" title="Locate, diagnose and rectify complex faults"/>
+      <unit id="ICTTEN5084A" title="Provide expert advice and support on complex faults"/>
+      <unit id="ICTTEN5092A" title="Undertake planned outage management"/>
+      <unit id="ICTTEN5147A" title="Administer a data communications network"/>
+      <unit id="ICTTEN5168A" title="Design and implement an enterprise voice over internet protocol and a unified communications network"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+      <unit id="ICTTEN5203A" title="Dimension and design a radio frequency identification system"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+      <unit id="ICTTEN5217A" title="Plan a wireless mesh network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50210" title="Diploma of Telecommunications Network Engineering">
+    <units>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="ICAA5144B" title="Determine best-fit topology for a local network"/>
+      <unit id="ICAA5150C" title="Evaluate vendor products and equipment"/>
+      <unit id="ICTCMP5176A" title="Undertake radio communications site audit"/>
+      <unit id="ICTEDU5025A" title="Develop and deliver training associated with new and modified products"/>
+      <unit id="ICTITU5144A" title="Test telecommunications network using  virtual instruments"/>
+      <unit id="ICTNPL5071A" title="Develop planning strategies for core network design"/>
+      <unit id="ICTNPL5096A" title="Develop planning strategies for access network design"/>
+      <unit id="ICTNPL5101A" title="Apply service measures and demand forecasting to products and services planning"/>
+      <unit id="ICTNPL5154A" title="Develop planning strategies for building environment design"/>
+      <unit id="ICTOPN5118A" title="Plan and configure dense wavelength division multiplexing systems"/>
+      <unit id="ICTOPN5119A" title="Perform acceptance and commissioning tests on optical network"/>
+      <unit id="ICTOPN5120A" title="Plan for an optical system upgrade and cut over"/>
+      <unit id="ICTOPN5121A" title="Test and commission a dense wavelength division multiplexing transmission system"/>
+      <unit id="ICTOPN5122A" title="Test the performance of specialised optical devices"/>
+      <unit id="ICTOPN5123A" title="Analyse and integrate specialised optical devices in the network"/>
+      <unit id="ICTPMG5027A" title="Develop customer premises equipment installation project plans"/>
+      <unit id="ICTPMG5031A" title="Prepare a project brief"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+      <unit id="ICTPRO5026A" title="Develop training, marketing and sales resources for telecommunications products"/>
+      <unit id="ICTRFN5097A" title="Test cellular handset enhancements and international roaming agreements"/>
+      <unit id="ICTRFN5148A" title="Test and measure cellular phone and network equipment performance"/>
+      <unit id="ICTRFN5179A" title="Evaluate and analyse radio frequency signal coverage plots"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTTEN5024A" title="Provide consultancy and technical support in the customer premises equipment sector"/>
+      <unit id="ICTTEN5037A" title="Design a telecommunications project"/>
+      <unit id="ICTTEN5038A" title="Design an electronic system for a telecommunications network"/>
+      <unit id="ICTTEN5058A" title="Acceptance test new systems and equipment"/>
+      <unit id="ICTTEN5059A" title="Commission telecommunications network equipment"/>
+      <unit id="ICTTEN5060A" title="Integrate new systems and equipment into the telecommunications network"/>
+      <unit id="ICTTEN5061A" title="Cut over new and replacement network equipment"/>
+      <unit id="ICTTEN5083A" title="Locate, diagnose and rectify complex faults"/>
+      <unit id="ICTTEN5084A" title="Provide expert advice and support on complex faults"/>
+      <unit id="ICTTEN5092A" title="Undertake planned outage management"/>
+      <unit id="ICTTEN5147A" title="Administer a data communications network"/>
+      <unit id="ICTTEN5168A" title="Design and implement an enterprise voice over internet protocol and a unified communications network"/>
+      <unit id="ICTTEN5200A" title="Install, configure and test a local area network switch"/>
+      <unit id="ICTTEN5201A" title="Install, configure and test a server"/>
+      <unit id="ICTTEN5203A" title="Dimension and design a radio frequency identification system"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+      <unit id="ICTTEN5217A" title="Plan a wireless mesh network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT50510" title="Diploma of Telecommunications Planning and Design">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSORG506A" title="Prepare financial forecasts and projections"/>
+      <unit id="ICTEDU5025A" title="Develop and deliver training associated with new and modified products"/>
+      <unit id="ICTNPL5071A" title="Develop planning strategies for core network design"/>
+      <unit id="ICTNPL5096A" title="Develop planning strategies for access network design"/>
+      <unit id="ICTNPL5101A" title="Apply service measures and demand forecasting to products and services planning"/>
+      <unit id="ICTNPL5154A" title="Develop planning strategies for building environment design"/>
+      <unit id="ICTNPL6029A" title="Plan the development and growth of the telecommunications network"/>
+      <unit id="ICTPMG5031A" title="Prepare a project brief"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+      <unit id="ICTPMG6033A" title="Develop a project management plan"/>
+      <unit id="ICTPRO5026A" title="Develop training, marketing and sales resources for telecommunications products"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTTEN5024A" title="Provide consultancy and technical support in the customer premises equipment sector"/>
+      <unit id="ICTTEN5217A" title="Plan a wireless mesh network"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICT50310" title="Diploma of Telecommunications Management">
+    <units>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSORG506A" title="Prepare financial forecasts and projections"/>
+      <unit id="ICAA5150C" title="Evaluate vendor products and equipment"/>
+      <unit id="ICTEDU5025A" title="Develop and deliver training associated with new and modified products"/>
+      <unit id="ICTNPL4107A" title="Apply business acumen to network planning"/>
+      <unit id="ICTNPL4150A" title="Apply knowledge of regulation and legislation for the telecommunications industry"/>
+      <unit id="ICTNPL5101A" title="Apply service measures and demand forecasting to products and services planning"/>
+      <unit id="ICTOHS2170A" title="Follow Occupational Health and Safety and environmental policy and procedures"/>
+      <unit id="ICTPMG5031A" title="Prepare a project brief"/>
+      <unit id="ICTPMG5039A" title="Prepare project specifications"/>
+      <unit id="ICTPMG6033A" title="Develop a project management plan"/>
+      <unit id="ICTPRO5026A" title="Develop training, marketing and sales resources for telecommunications products"/>
+      <unit id="ICTSUS5187A" title="Implement server virtualisation for a sustainable ICT system"/>
+      <unit id="ICTTEN2105A" title="Install and test an internet protocol device in convergence networks"/>
+      <unit id="ICTTEN5037A" title="Design a telecommunications project"/>
+      <unit id="ICTTEN5204A" title="Produce technical solutions from business specifications"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICT60110" title="Advanced Diploma of Optical Networks">
+    <units>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="ICAA5056B" title="Prepare disaster recovery and contingency plans"/>
+      <unit id="ICAA5145B" title="Identify best-fit topology for a wide area network"/>
+      <unit id="ICAA5241C" title="Design an enterprise wireless local area network"/>
+      <unit id="ICAB5237B" title="Build a high performance security perimeter"/>
+      <unit id="ICAB5238B" title="Build a highly secure firewall"/>
+      <unit id="ICAI5152B" title="Implement risk management processes"/>
+      <unit id="ICAI5196B" title="Implement secure encryption technologies"/>
+      <unit id="ICAI5197B" title="Install and maintain valid authentication processes"/>
+      <unit id="ICTNPL6029A" title="Plan the development and growth of the telecommunications network"/>
+      <unit id="ICTNPL6030A" title="Forecast service demand"/>
+      <unit id="ICTNPL6046A" title="Undertake network performance analysis"/>
+      <unit id="ICTOPN6124A" title="Manage optical ethernet transmission"/>
+      <unit id="ICTOPN6125A" title="Manage dense wavelength division multiplexing transmission system"/>
+      <unit id="ICTOPN6128A" title="Design a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN6129A" title="Analyse optical transmission systems"/>
+      <unit id="ICTPMG6033A" title="Develop a project management plan"/>
+      <unit id="ICTPMG6034A" title="Prepare a detailed design brief"/>
+      <unit id="ICTRFN6098A" title="Monitor the capacity of and recommend changes to the cellular mobile network"/>
+      <unit id="ICTRFN6171A" title="Produce and evaluate architecture designs for WiMAX networks"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTTEN6036A" title="Undertake qualification testing of new or enhanced equipment and systems"/>
+      <unit id="ICTTEN6042A" title="Undertake system administration"/>
+      <unit id="ICTTEN6043A" title="Undertake network traffic management"/>
+      <unit id="ICTTEN6044A" title="Coordinate fault rectification and restoration of service following network outages"/>
+      <unit id="ICTTEN6045A" title="Implement planned network changes with minimal impact to the customer"/>
+      <unit id="ICTTEN6047A" title="Manage a common channel signalling network"/>
+      <unit id="ICTTEN6091A" title="Analyse and organise repair of highly complex telecommunications network faults"/>
+      <unit id="ICTTEN6094A" title="Verify new software and hardware releases"/>
+      <unit id="ICTTEN6169A" title="Produce and evaluate architecture designs for convergent cellular mobile networks"/>
+      <unit id="ICTTEN6172A" title="Design and configure an IP-MPLS network with virtual private network tunnelling"/>
+      <unit id="ICTTEN6206A" title="Produce an ICT network architecture design"/>
+      <unit id="ICTTEN6216A" title="Design and manage internet protocol TV in a service provider network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT60210" title="Advanced Diploma of Telecommunications Network Engineering">
+    <units>
+      <unit id="BSBOHS505B" title="Manage hazards in the work environment"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="ICAA5056B" title="Prepare disaster recovery and contingency plans"/>
+      <unit id="ICAA5145B" title="Identify best-fit topology for a wide area network"/>
+      <unit id="ICAA5241C" title="Design an enterprise wireless local area network"/>
+      <unit id="ICAA6053B" title="Design system security and controls"/>
+      <unit id="ICAB5237B" title="Build a high performance security perimeter"/>
+      <unit id="ICAB5238B" title="Build a highly secure firewall"/>
+      <unit id="ICAI5152B" title="Implement risk management processes"/>
+      <unit id="ICAI5196B" title="Implement secure encryption technologies"/>
+      <unit id="ICAI5197B" title="Install and maintain valid authentication processes"/>
+      <unit id="ICTNPL6029A" title="Plan the development and growth of the telecommunications network"/>
+      <unit id="ICTNPL6030A" title="Forecast service demand"/>
+      <unit id="ICTNPL6046A" title="Undertake network performance analysis"/>
+      <unit id="ICTOPN6124A" title="Manage optical ethernet transmission"/>
+      <unit id="ICTOPN6125A" title="Manage dense wavelength division multiplexing transmission system"/>
+      <unit id="ICTOPN6128A" title="Design a dense wavelength division multiplexing system"/>
+      <unit id="ICTOPN6129A" title="Analyse optical transmission systems"/>
+      <unit id="ICTPMG6033A" title="Develop a project management plan"/>
+      <unit id="ICTPMG6034A" title="Prepare a detailed design brief"/>
+      <unit id="ICTRFN6098A" title="Monitor the capacity of and recommend changes to the cellular mobile network"/>
+      <unit id="ICTRFN6171A" title="Produce and evaluate architecture designs for WiMAX networks"/>
+      <unit id="ICTSUS6233A" title="Integrate sustainability in ICT planning and design projects"/>
+      <unit id="ICTSUS6234A" title="Establish a business case for sustainability and competitive advantage in ICT projects"/>
+      <unit id="ICTTEN6036A" title="Undertake qualification testing of new or enhanced equipment and systems"/>
+      <unit id="ICTTEN6042A" title="Undertake system administration"/>
+      <unit id="ICTTEN6043A" title="Undertake network traffic management"/>
+      <unit id="ICTTEN6044A" title="Coordinate fault rectification and restoration of service following network outages"/>
+      <unit id="ICTTEN6045A" title="Implement planned network changes with minimal impact to the customer"/>
+      <unit id="ICTTEN6047A" title="Manage a common channel signalling network"/>
+      <unit id="ICTTEN6091A" title="Analyse and organise repair of highly complex telecommunications network faults"/>
+      <unit id="ICTTEN6094A" title="Verify new software and hardware releases"/>
+      <unit id="ICTTEN6169A" title="Produce and evaluate architecture designs for convergent cellular mobile networks"/>
+      <unit id="ICTTEN6172A" title="Design and configure an IP-MPLS network with virtual private network tunnelling"/>
+      <unit id="ICTTEN6206A" title="Produce an ICT network architecture design"/>
+      <unit id="ICTTEN6216A" title="Design and manage internet protocol TV in a service provider network"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ICT70110" title="Vocational Graduate Certificate in Telecommunications Network Engineering">
+    <units>
+      <unit id="ICTITU7106A" title="Manage automated ICT system applications using unix"/>
+      <unit id="ICTPMG7145A" title="Undertake a telecommunications project"/>
+      <unit id="ICTPMG8142A" title="Manage a telecommunications workplace"/>
+      <unit id="ICTPMG8143A" title="Manage a telecommunications project"/>
+      <unit id="ICTRFN7182A" title="Produce a radio link budget"/>
+      <unit id="ICTSUS7235A" title="Use ICT to improve sustainability outcomes"/>
+      <unit id="ICTSUS7236A" title="Manage improvements in ICT sustainability"/>
+      <unit id="ICTTEN7193A" title="Plan a transmission network"/>
+      <unit id="ICTTEN7219A" title="Manage alignment of systems with product and technology strategy"/>
+      <unit id="ICTTEN7220A" title="Translate domain and solution architectures into platform requirements and designs"/>
+      <unit id="ICTTEN7221A" title="Manage end to end architectural solutions across multiple domains"/>
+      <unit id="ICTTEN7222A" title="Manage solution architecture and impacts in line with organisational processes"/>
+      <unit id="ICTTEN7223A" title="Manage application layer solutions"/>
+      <unit id="ICTTEN7224A" title="Manage voice, data and internet protocol network solutions"/>
+      <unit id="ICTTEN7225A" title="Manage network testing strategies"/>
+      <unit id="ICTTEN7226A" title="Manage development and application of testing artefacts"/>
+      <unit id="ICTTEN7227A" title="Analyse business specifications to produce technical solutions"/>
+      <unit id="ICTTEN7228A" title="Manage project requirements and process implementations"/>
+      <unit id="ICTTEN7230A" title="Scope project requirements and process solutions"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ICT80110" title="Vocational Graduate Diploma of Telecommunications Network Engineering">
+    <units>
+      <unit id="ICTPMG8142A" title="Manage a telecommunications workplace"/>
+      <unit id="ICTPMG8143A" title="Manage a telecommunications project"/>
+      <unit id="ICTPMG8149A" title="Evaluate and use telecommunications management networks"/>
+      <unit id="ICTRFN8180A" title="Analyse a cellular mobile network system"/>
+      <unit id="ICTRFN8181A" title="Analyse a satellite communications system"/>
+      <unit id="ICTSUS8237A" title="Lead applied research in ICT sustainability"/>
+      <unit id="ICTSUS8238A" title="Conduct and manage a life cycle assessment for sustainability"/>
+      <unit id="ICTTEN8194A" title="Investigate the application of cloud networks in telecommunications switching"/>
+      <unit id="ICTTEN8195A" title="Evaluate and apply network security"/>
+      <unit id="ICTTEN8196A" title="Evaluate and apply digital signal processing to communications system"/>
+      <unit id="ICTTEN8197A" title="Produce engineering solutions using numerical computations and simulation"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

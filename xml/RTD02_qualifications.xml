@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<qualifications class="RTD02">
+  <qualification id="RTD10102" title="Certificate I in Conservation and Land Management">
+    <units>
+      <unit id="RTC1006A" title="Support nursery work"/>
+      <unit id="RTC1201A" title="Maintain the workplace"/>
+      <unit id="RTC1202A" title="Support landscape work"/>
+      <unit id="RTC1301A" title="Operate basic machinery and equipment"/>
+      <unit id="RTC1302A" title="Assist with routine maintenance of machinery and equipment"/>
+      <unit id="RTC1701A" title="Follow basic chemical safety rules"/>
+      <unit id="RTC1801A" title="Prepare for work"/>
+      <unit id="RTD1501A" title="Support natural area conservation"/>
+    </units>
+  </qualification>
+  <qualification id="RTD20102" title="Certificate II in Conservation and Land Management">
+    <units>
+      <unit id="BSBCMN205A" title="Use business technology"/>
+      <unit id="BSBCMN206A" title="Process and maintain workplace information"/>
+      <unit id="FPIFGM023A" title="Store and dispatch seed"/>
+      <unit id="FPIFGM139A" title="Operate 4x4 vehicle in off-road conditions"/>
+      <unit id="FPIFGM162A" title="Collect, treat and store seed"/>
+      <unit id="FPIL2191516A" title="Reduce wildfire hazards"/>
+      <unit id="MNMOCC638A" title="Undertake direct seeding"/>
+      <unit id="MNQOP20A" title="Conduct grader operations"/>
+      <unit id="MNQOP21A" title="Conduct front end loader operations"/>
+      <unit id="MNQOP22A" title="Conduct shovel/excavator operations"/>
+      <unit id="MNQOP23A" title="Conduct haul truck operations"/>
+      <unit id="MNQOP24A" title="Conduct dozer operations"/>
+      <unit id="MNQOP25A" title="Conduct scraper operations"/>
+      <unit id="PUAFIR204A" title="Respond to wildfire"/>
+      <unit id="PUALAW001A" title="Protect and preserve incident scene"/>
+      <unit id="RTC2005A" title="Fell small trees"/>
+      <unit id="RTC2012A" title="Plant trees and shrubs"/>
+      <unit id="RTC2016A" title="Recognise plants"/>
+      <unit id="RTC2026A" title="Undertake propagation activities"/>
+      <unit id="RTC2203A" title="Conduct visual inspection of park facilities"/>
+      <unit id="RTC2209A" title="Install, maintain and repair fencing"/>
+      <unit id="RTC2210A" title="Maintain properties and structures"/>
+      <unit id="RTC2301A" title="Undertake operational maintenance of machinery"/>
+      <unit id="RTC2304A" title="Operate and maintain chainsaws"/>
+      <unit id="RTC2306A" title="Operate vehicles"/>
+      <unit id="RTC2307A" title="Operate machinery and equipment"/>
+      <unit id="RTC2309A" title="Operate tractors"/>
+      <unit id="RTC2401A" title="Treat weeds"/>
+      <unit id="RTC2404A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="RTC2701A" title="Follow OHS procedures"/>
+      <unit id="RTC2702A" title="Observe environmental work practices"/>
+      <unit id="RTC2704A" title="Provide basic first aid"/>
+      <unit id="RTC2705A" title="Work effectively in the industry"/>
+      <unit id="RTC2706A" title="Apply chemicals under supervision"/>
+      <unit id="RTC2801A" title="Participate in workplace communications"/>
+      <unit id="RTD2004A" title="Collect, prepare and preserve plant specimens"/>
+      <unit id="RTD2022A" title="Carry out natural area restoration works"/>
+      <unit id="RTD2101A" title="Apply animal trapping techniques"/>
+      <unit id="RTD2116A" title="Muster pest animals"/>
+      <unit id="RTD2125A" title="Use firearms to humanely destroy animals"/>
+      <unit id="RTD2126A" title="Recognise animals"/>
+      <unit id="RTD2202A" title="Conduct erosion and sediment control activities"/>
+      <unit id="RTD2206A" title="Install aggregate paths"/>
+      <unit id="RTD2312A" title="Inspect machinery for plant, animal and soil material"/>
+      <unit id="RTD2313A" title="Clean machinery of plant, animal and soil material"/>
+      <unit id="RTD2402A" title="Clear features that harbour pest animals"/>
+      <unit id="RTD2403A" title="Conduct vertebrate pest activities from aircraft"/>
+      <unit id="RTD2405A" title="Tag and locate Judas animals"/>
+      <unit id="RTD2501A" title="Maintain cultural places"/>
+      <unit id="RTD2502A" title="Maintain wildlife habitat refuges"/>
+      <unit id="RTD2703A" title="Operate in isolated and remote situations"/>
+      <unit id="RTD2802A" title="Record information about country"/>
+      <unit id="RTD2803A" title="Observe and report plants and/or animals"/>
+      <unit id="SFISHIP206A" title="Operate a small vessel"/>
+      <unit id="THTFAT01B" title="Provide on-site information and assistance"/>
+      <unit id="THTFTG01B" title="Work as a guide"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RTD30102" title="Certificate III in Conservation and Land Management">
+    <units>
+      <unit id="BSBADM308A" title="Process payroll"/>
+      <unit id="BSBCMN206A" title="Process and maintain workplace information"/>
+      <unit id="BSBCMN306A" title="Produce business documents"/>
+      <unit id="BSBCMN308A" title="Maintain financial records"/>
+      <unit id="FPIFGM006A" title="Extract seed"/>
+      <unit id="FPIFGM008A" title="Conduct seed collecting operations"/>
+      <unit id="FPIFGM147A" title="Read and interpret maps"/>
+      <unit id="FPINCR034A" title="Utilise burning for natural and cultural resource management"/>
+      <unit id="MEM161BA" title="Give formal presentations and take part in meetings"/>
+      <unit id="PUAFIR303A" title="Suppress wildfire"/>
+      <unit id="RTC2401A" title="Treat weeds"/>
+      <unit id="RTC2701A" title="Follow OHS procedures"/>
+      <unit id="RTC2702A" title="Observe environmental work practices"/>
+      <unit id="RTC2705A" title="Work effectively in the industry"/>
+      <unit id="RTC2801A" title="Participate in workplace communications"/>
+      <unit id="RTC3016A" title="Provide information on plants and their culture"/>
+      <unit id="RTC3201A" title="Conduct operational inspection of park facilities"/>
+      <unit id="RTC3206A" title="Erect timber structures and features"/>
+      <unit id="RTC3209A" title="Plan and construct conventional fencing"/>
+      <unit id="RTC3211A" title="Implement a maintenance program for an aquatic environment"/>
+      <unit id="RTC3213A" title="Implement property improvement, construction and repair"/>
+      <unit id="RTC3218A" title="Undertake a site assessment"/>
+      <unit id="RTC3310A" title="Operate specialised machinery and equipment"/>
+      <unit id="RTC3311A" title="Perform specialised machinery maintenance"/>
+      <unit id="RTC3401A" title="Control weeds"/>
+      <unit id="RTC3404A" title="Control plant pests, diseases and disorders"/>
+      <unit id="RTC3701A" title="Respond to emergencies"/>
+      <unit id="RTC3704A" title="Prepare and apply chemicals"/>
+      <unit id="RTC3705A" title="Transport, handle and store chemicals"/>
+      <unit id="RTC3805A" title="Coordinate work site activities"/>
+      <unit id="RTD3034A" title="Implement revegetation works"/>
+      <unit id="RTD3125A" title="Respond to wildlife emergencies"/>
+      <unit id="RTD3132A" title="Survey pest animals"/>
+      <unit id="RTD3202A" title="Construct access tracks"/>
+      <unit id="RTD3205A" title="Construct conservation earthworks"/>
+      <unit id="RTD3212A" title="Implement erosion and sediment control measures"/>
+      <unit id="RTD3315A" title="Transport machinery"/>
+      <unit id="RTD3405A" title="Monitor and evaluate the local pest management action plan"/>
+      <unit id="RTD3501A" title="Assist in the implementation of legislation"/>
+      <unit id="RTD3502A" title="Carry out inspection of designated area"/>
+      <unit id="RTD3505A" title="Maintain natural areas"/>
+      <unit id="RTD3507A" title="Undertake sampling and testing of water"/>
+      <unit id="RTD3508A" title="Perform diving for scientific purposes"/>
+      <unit id="RTD3509A" title="Collect and preserve biological samples"/>
+      <unit id="RTD3703A" title="Respond to rescue incidents"/>
+      <unit id="RTD3706A" title="Maintain biological cultures"/>
+      <unit id="RTD3707A" title="Release biological agents"/>
+      <unit id="RTD3709A" title="Handle and store explosives"/>
+      <unit id="RTD3710A" title="Identify and select explosive products"/>
+      <unit id="RTD3711A" title="Prepare and use explosives"/>
+      <unit id="RTD3802A" title="Provide appropriate information on cultural knowledge"/>
+      <unit id="RTD3804A" title="Supervise park visitor activities"/>
+      <unit id="RTD3811A" title="Coordinate board/committee elections"/>
+      <unit id="RTD3812A" title="Coordinate fund-raising activities"/>
+      <unit id="RTD3813A" title="Coordinate social events to support group purposes"/>
+      <unit id="RTD3814A" title="Present proposed courses of action to meeting"/>
+      <unit id="RTD3815A" title="Represent group at functions"/>
+      <unit id="RTD3816A" title="Service committees"/>
+      <unit id="RTD3817A" title="Propose appropriate uses of traditional customs"/>
+      <unit id="RTD3903A" title="Work in an Indigenous community or organisation"/>
+      <unit id="SRXTEM004A" title="Deal with conflict"/>
+      <unit id="THTFTG07B" title="Research and share general information on Australian indigenous cultures"/>
+      <unit id="THTFTG08B" title="Interpret aspects of local Australian indigenous culture"/>
+      <unit id="THTFTG14A" title="Prepare specialised interpretive content (cultural and heritage environments)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RTD40102" title="Certificate IV in Conservation and Land Management">
+    <units>
+      <unit id="BSBCMN405A" title="Analyse and present research information"/>
+      <unit id="BSBCMN408A" title="Report on financial activity"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="FPIFGM004A" title="Manage seed collection"/>
+      <unit id="PSPPM402A" title="Implement projects"/>
+      <unit id="PSPPOLI401A" title="Support policy implementation"/>
+      <unit id="PUACOM012A" title="Liaise with media at a local level"/>
+      <unit id="RTC4024A" title="Recommend plants and cultural practices"/>
+      <unit id="RTC4206A" title="Supervise landscape project works"/>
+      <unit id="RTC4306A" title="Supervise maintenance of machinery and equipment"/>
+      <unit id="RTC4701A" title="Implement and monitor the enterprise OHS program"/>
+      <unit id="RTC4702A" title="Minimise risks in the use of chemicals"/>
+      <unit id="RTC4703A" title="Plan and implement a chemical use program"/>
+      <unit id="RTC4905A" title="Cost a project"/>
+      <unit id="RTC4908A" title="Supervise work routines and staff performance"/>
+      <unit id="RTC4911A" title="Operate within a budget framework"/>
+      <unit id="RTD4020A" title="Plan the implementation of revegetation works"/>
+      <unit id="RTD4205A" title="Set out conservation earthworks"/>
+      <unit id="RTD4207A" title="Supervise on-site implementation of conservation earthworks"/>
+      <unit id="RTD4303A" title="Prepare safe operating procedures for calibration of equipment"/>
+      <unit id="RTD4402A" title="Define the pest problem in a local area"/>
+      <unit id="RTD4403A" title="Develop a pest management action plan within a local area"/>
+      <unit id="RTD4404A" title="Develop monitoring procedures for the local pest management strategy"/>
+      <unit id="RTD4405A" title="Coordinate the local pest management strategy"/>
+      <unit id="RTD4406A" title="Implement pest management action plans"/>
+      <unit id="RTD4407A" title="Investigate a reported pest treatment failure"/>
+      <unit id="RTD4501A" title="Contribute to the proposal for a negotiated outcome for a given area of country"/>
+      <unit id="RTD4502A" title="Implement land and sea management practices"/>
+      <unit id="RTD4503A" title="Inspect and monitor cultural places"/>
+      <unit id="RTD4504A" title="Monitor biodiversity"/>
+      <unit id="RTD4505A" title="Participate in assessments of project submissions"/>
+      <unit id="RTD4506A" title="Process applications for changes in land use"/>
+      <unit id="RTD4507A" title="Produce maps for land management purposes"/>
+      <unit id="RTD4508A" title="Protect places of cultural significance"/>
+      <unit id="RTD4509A" title="Report on place of potential cultural significance"/>
+      <unit id="RTD4510A" title="Supervise natural area restoration works"/>
+      <unit id="RTD4802A" title="Develop approaches to include cultural and human diversity"/>
+      <unit id="RTD4804A" title="Develop community networks"/>
+      <unit id="RTD4805A" title="Facilitate ongoing group development"/>
+      <unit id="RTD4806A" title="Obtain and manage sponsorship"/>
+      <unit id="RTD4807A" title="Obtain resources from community and group"/>
+      <unit id="RTD4808A" title="Promote community programs"/>
+      <unit id="RTD4809A" title="Record and document community history"/>
+      <unit id="RTD4810A" title="Support individuals in resource management change processes"/>
+      <unit id="RTD4811A" title="Provide information on environmental issues and policies"/>
+      <unit id="RTD4906A" title="Develop work practices to accommodate cultural identity"/>
+      <unit id="RTD4907A" title="Establish an office"/>
+      <unit id="RTD4909A" title="Prepare project acquittal"/>
+      <unit id="RTD4910A" title="Report on project"/>
+      <unit id="RTD4912A" title="Contribute to association governance"/>
+      <unit id="TDTR298B" title="Source goods/services and evaluate contractors"/>
+      <unit id="THTPPD05B" title="Plan and develop interpretive activities"/>
+      <unit id="THTPPD07B" title="Plan and develop culturally appropriate tourism operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RTD50102" title="Diploma of Conservation and Land Management">
+    <units>
+      <unit id="BSBADM502A" title="Manage meetings"/>
+      <unit id="BSBADM504A" title="Plan or review administration systems"/>
+      <unit id="BSBFLM501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBMGT503A" title="Prepare budgets and financial plans"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT506A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT507A" title="Manage environmental performance"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="CHCCD4A" title="Develop and implement community programs"/>
+      <unit id="FPIFGM137A" title="Manage road construction and maintenance"/>
+      <unit id="FPINCR033A" title="Plan burning activities natural and cultural resource management"/>
+      <unit id="LGACOM502A" title="Devise and conduct community consultation"/>
+      <unit id="PSPPM502A" title="Manage projects"/>
+      <unit id="PSPPM503A" title="Finalise projects"/>
+      <unit id="PSPPOLD501A" title="Develop organisation policy"/>
+      <unit id="PUAPRO001A" title="Promote a learning environment in the workplace"/>
+      <unit id="RTC5011A" title="Collect and classify plants"/>
+      <unit id="RTC5201A" title="Conduct comprehensive inspection of park facilities"/>
+      <unit id="RTC5303A" title="Manage machinery and equipment"/>
+      <unit id="RTC5504A" title="Develop a management plan for a designated area"/>
+      <unit id="RTC5519A" title="Conduct biological surveys"/>
+      <unit id="RTC5520A" title="Manage parks and reserves"/>
+      <unit id="RTC5701A" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="RTC5702A" title="Develop and manage a chemical use strategy"/>
+      <unit id="RTC5801A" title="Provide specialist advice to clients"/>
+      <unit id="RTC5908A" title="Prepare estimates, quotes and tenders"/>
+      <unit id="RTC5913A" title="Collect and manage data"/>
+      <unit id="RTC5914A" title="Prepare reports"/>
+      <unit id="RTD5003A" title="Manage natural area restoration programs"/>
+      <unit id="RTD5102A" title="Manage fauna populations"/>
+      <unit id="RTD5202A" title="Design control measures and structures"/>
+      <unit id="RTD5203A" title="Plan erosion and sediment control measures"/>
+      <unit id="RTD5204A" title="Plan conservation earthworks"/>
+      <unit id="RTD5401A" title="Define the pest problem in a regional or broader context"/>
+      <unit id="RTD5402A" title="Develop a strategy for the management of target pests"/>
+      <unit id="RTD5403A" title="Develop a system for monitoring the pest management strategy"/>
+      <unit id="RTD5404A" title="Coordinate the pest management strategy in a regional or broader context"/>
+      <unit id="RTD5405A" title="Evaluate the pest management strategy"/>
+      <unit id="RTD5501A" title="Assess applications for legislative compliance"/>
+      <unit id="RTD5502A" title="Conduct field research into natural and cultural resources"/>
+      <unit id="RTD5503A" title="Design a natural area restoration project"/>
+      <unit id="RTD5507A" title="Develop conservation strategies for cultural resources"/>
+      <unit id="RTD5508A" title="Develop strategies for Indigenous land or sea management"/>
+      <unit id="RTD5509A" title="Evaluate project submissions"/>
+      <unit id="RTD5510A" title="Implement plans of management"/>
+      <unit id="RTD5511A" title="Manage restoration of cultural places"/>
+      <unit id="RTD5512A" title="Manage the implementation of legislation"/>
+      <unit id="RTD5513A" title="Manage wildfire hazard reduction programs"/>
+      <unit id="RTD5517A" title="Propose a negotiated outcome for a given area of country"/>
+      <unit id="RTD5518A" title="Review assessments for legislative compliance"/>
+      <unit id="RTD5522A" title="Plan river restoration works"/>
+      <unit id="RTD5802A" title="Support group and community changes in resource management"/>
+      <unit id="RTD5803A" title="Operate within community cultures and goals"/>
+      <unit id="RTD5805A" title="Facilitate development of group goals and projects"/>
+      <unit id="RTD5806A" title="Promote group formation and development"/>
+      <unit id="RTD5904A" title="Map relationship of business enterprise to culture and country"/>
+      <unit id="RTD5907A" title="Plan for successful cultural practice at work"/>
+      <unit id="RTD5910A" title="Contribute to regional planning process"/>
+      <unit id="RTD5911A" title="Manage the incorporation of a group"/>
+      <unit id="RTD5915A" title="Investigate suspected breaches of NRM legislation"/>
+      <unit id="TDTR398B" title="Negotiate a contract"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RTD60102" title="Advanced Diploma of Conservation and Land Management">
+    <units>
+      <unit id="BSBHR604A" title="Manage employee relations"/>
+      <unit id="BSBMGT504A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT603A" title="Review and develop business plans"/>
+      <unit id="BSBMGT610A" title="Manage environmental management systems"/>
+      <unit id="PSPPOLI601A" title="Manage policy implementation"/>
+      <unit id="PUAFIR601A" title="Develop and administer agency policy, procedures and practices"/>
+      <unit id="RTD6502A" title="Review management plans and strategies"/>
+      <unit id="RTD6504A" title="Coordinate the preparation of a regional resource management plan"/>
+      <unit id="RTD6505A" title="Map regional issues and stakeholders"/>
+      <unit id="RTD6801A" title="Manage cultural processes in an Indigenous organisation"/>
+      <unit id="RTD6902A" title="Monitor projects in a program"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

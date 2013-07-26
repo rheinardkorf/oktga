@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<qualifications class="BSB01">
+  <qualification id="BSB10101" title="Certificate I in Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB20101" title="Certificate II in Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB30704" title="Certificate III in Business (Medical Administration)">
+    <units/>
+  </qualification>
+  <qualification id="BSB31606" title="Certificate III in Occupational Health and Safety">
+    <units/>
+  </qualification>
+  <qualification id="BSB30201" title="Certificate III in Business Administration">
+    <units/>
+  </qualification>
+  <qualification id="BSB30101" title="Certificate III in Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB30504" title="Certificate III in Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB30401" title="Certificate III in Business (Recordkeeping)">
+    <units/>
+  </qualification>
+  <qualification id="BSB30601" title="Certificate III in e-Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB30501" title="Certificate III in Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB30804" title="Certificate III in Business (International Trade)">
+    <units/>
+  </qualification>
+  <qualification id="BSB30301" title="Certificate III in Business (Sales)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40301" title="Certificate IV in Business (Recordkeeping)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40801" title="Certificate IV in Business (Human Resources)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40101" title="Certificate IV in Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB41604" title="Certificate IV in Occupational Health and Safety">
+    <units/>
+  </qualification>
+  <qualification id="BSB40201" title="Certificate IV in Business Administration">
+    <units/>
+  </qualification>
+  <qualification id="BSB40401" title="Certificate IV in Business (Small Business Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41301" title="Certificate IV in e-Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB42004" title="Certificate IV in Business (International Trade)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41004" title="Certificate IV in Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41504" title="Certificate IV in Project Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB40901" title="Certificate IV in Business (Governance)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41101" title="Certificate IV in Business Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB41904" title="Certificate IV in Business (Employment Services)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40601" title="Certificate IV in Business (Advertising)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41404" title="Certificate IV in Business (Purchasing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB41001" title="Certificate IV in Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40501" title="Certificate IV in Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB41201" title="Certificate IV in e-Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB41804" title="Certificate IV in Unionism">
+    <units/>
+  </qualification>
+  <qualification id="BSB41704" title="Certificate IV in Business (Franchising)">
+    <units/>
+  </qualification>
+  <qualification id="BSB40701" title="Certificate IV in Business (Marketing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB50501" title="Diploma of Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB51704" title="Diploma of Business (Franchising)">
+    <units/>
+  </qualification>
+  <qualification id="BSB50101" title="Diploma of Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB50201" title="Diploma of Business Administration">
+    <units/>
+  </qualification>
+  <qualification id="BSB51001" title="Diploma of Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB50301" title="Diploma of Business (Recordkeeping)">
+    <units/>
+  </qualification>
+  <qualification id="BSB51101" title="Diploma of e-Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB51201" title="Diploma of Strategic e-Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB51804" title="Diploma of Unionism">
+    <units/>
+  </qualification>
+  <qualification id="BSB50601" title="Diploma of Business (Advertising)">
+    <units/>
+  </qualification>
+  <qualification id="BSB50401" title="Diploma of Business Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB50701" title="Diploma of Business (Marketing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB51504" title="Diploma of Project Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB51604" title="Diploma of Occupational Health and Safety">
+    <units/>
+  </qualification>
+  <qualification id="BSB51301" title="Diploma of e-Learning">
+    <units/>
+  </qualification>
+  <qualification id="BSB51904" title="Diploma of Business (Quality Auditing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB51004" title="Diploma of Business (Frontline Management)">
+    <units/>
+  </qualification>
+  <qualification id="BSB50801" title="Diploma of Business (Human Resources)">
+    <units/>
+  </qualification>
+  <qualification id="BSB52004" title="Diploma of International Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB50901" title="Diploma of Business (Governance)">
+    <units/>
+  </qualification>
+  <qualification id="BSB51404" title="Diploma of Business (Purchasing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB60904" title="Advanced Diploma of Project Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB60301" title="Advanced Diploma of Business (Human Resources)">
+    <units/>
+  </qualification>
+  <qualification id="BSB60101" title="Advanced Diploma of Business (Recordkeeping)">
+    <units/>
+  </qualification>
+  <qualification id="BSB60701" title="Advanced Diploma of e-Business">
+    <units/>
+  </qualification>
+  <qualification id="BSB60201" title="Advanced Diploma of Business Management">
+    <units/>
+  </qualification>
+  <qualification id="BSB60601" title="Advanced Diploma of Business (Marketing)">
+    <units/>
+  </qualification>
+  <qualification id="BSB61004" title="Advanced Diploma of Occupational Health and Safety">
+    <units/>
+  </qualification>
+  <qualification id="BSB60801" title="Advanced Diploma of Strategic e-Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB60401" title="Advanced Diploma of Business Development">
+    <units/>
+  </qualification>
+  <qualification id="BSB60501" title="Advanced Diploma of Business (Advertising)">
+    <units/>
+  </qualification>
+</qualifications>

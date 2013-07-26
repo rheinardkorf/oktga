@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<skillsets class="PUA00">
+  <skillset id="PUASS00001" title="Air Search Observer">
+    <units>
+      <unit id="PUAAMS001A" title="Work in an aviation environment"/>
+      <unit id="PUAAMS002A" title="Search as a member of an air search team"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00002" title="Alpine Search and Survival Operations">
+    <units>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASAR027A" title="Undertake land search rescue"/>
+      <unit id="PUASES016A" title="Apply snowcraft skills when performing search operations"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="SRONAV003B" title="Navigate in unmodified landscapes in extreme environmental conditions"/>
+      <unit id="SROOPS006B" title="Use and maintain a temporary or overnight site"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00003" title="Basic Rescue">
+    <units>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00004" title="Basic Tree Operations">
+    <units>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00005" title="Beach Operations Management">
+    <units>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+      <unit id="PUASAR011C" title="Search as a member of an aquatic search team"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00006" title="Beach Safety and Risk Management">
+    <units>
+      <unit id="PUAEMR006B" title="Treat risk at an operational level"/>
+      <unit id="PUAEMR007B" title="Conduct risk assessment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00007" title="Beach Team Management">
+    <units>
+      <unit id="PUACOM003B" title="Manage information"/>
+      <unit id="PUAMAN002B" title="Administer work group resources"/>
+      <unit id="PUATEA003B" title="Lead, manage and develop teams"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00008" title="Combat Fitness Leader">
+    <units>
+      <unit id="PUADEFCM004B" title="Instruct a workplace physical training session in Defence"/>
+      <unit id="PUADEFPT001A" title="Conduct a group fitness appraisal within Defence"/>
+      <unit id="PUADEFPT002A" title="Develop a group fitness program within Defence"/>
+      <unit id="PUADEFPT003A" title="Conduct individual fitness assessments within Defence"/>
+      <unit id="SRFFIT005B" title="Apply basic exercise science to exercise instruction"/>
+      <unit id="SRSSPT005A" title="Conduct basic warm-up, stretching and cool-down programs"/>
+      <unit id="SRXGRO001A" title="Facilitate a group"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00009" title="Community Engagement">
+    <units>
+      <unit id="PUACOM005B" title="Foster a positive organisational image in the community"/>
+      <unit id="PUACOM007B" title="Liaise with other organisations"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00010" title="Field Kitchen Assistant">
+    <units>
+      <unit id="PUADEFCM305A" title="Assist with the establishment and operation of a field kitchen"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00011" title="Field Kitchen Manager">
+    <units>
+      <unit id="PUADEFCM304A" title="Establish and operate a field kitchen"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00012" title="Flood Response Operations">
+    <units>
+      <unit id="PUASES008A" title="Undertake storm and water damage operations"/>
+      <unit id="PUASES014A" title="Apply flood and fast moving water safety techniques"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00013" title="Floodboat Response Operations">
+    <units>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASES009A" title="Undertake inland floodboat operations"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00014" title="Incident Response Team Leader">
+    <units>
+      <unit id="PUAOPE012A" title="Control a Level 1 incident"/>
+      <unit id="PUAOPE015A" title="Conduct briefings and debriefings"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00015" title="Intermediate Tree Operations">
+    <units>
+      <unit id="FPICOT2239A" title="Trim and cut felled trees"/>
+      <unit id="FPIFGM3204A" title="Fall trees manually (intermediate)"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00016" title="Land Search Team">
+    <units>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASAR027A" title="Undertake land search rescue"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00017" title="Operational Leadership">
+    <units>
+      <unit id="PUAEMR018A" title="Work in an emergency management context"/>
+      <unit id="PUAOPE016A" title="Manage a multi-team sector"/>
+      <unit id="PUASES011A" title="Manage emergency operations"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00018" title="Operations Centre">
+    <units>
+      <unit id="ICAU1133B" title="Send and retrieve information using web browsers and email"/>
+      <unit id="ICAU2006B" title="Operate computing packages"/>
+      <unit id="PUAOPE013A" title="Operate communications systems and equipment"/>
+      <unit id="PUASES012A" title="Work as a team member in an emergency operations centre"/>
+      <unit id="TLIH107D" title="Interpret road maps and navigate pre-determined routes"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00019" title="Road Accident Rescue">
+    <units>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASAR024A" title="Undertake road crash rescue"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00020" title="SES First Aid and Safety">
+    <units>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00021" title="SES Induction">
+    <units>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM002B" title="Provide services to clients"/>
+      <unit id="PUAOHS001C" title="Follow defined occupational health and safety policies and procedures"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="PUATEA004D" title="Work effectively in a public safety organisation"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00022" title="Storm and Water Damage Response">
+    <units>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASES008A" title="Undertake storm and water damage operations"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00023" title="Storm and Water Damage Response at Height">
+    <units>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASES008A" title="Undertake storm and water damage operations"/>
+      <unit id="PUASES013A" title="Undertake storm and water damage operations performed at heights"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00024" title="Structural Collapse">
+    <units>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUALAW001B" title="Protect and preserve incident scene"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASAR023A" title="Participate in an urban search and rescue Category 1"/>
+      <unit id="PUASAR028A" title="Undertake rescue from a partial structural collapse"/>
+    </units>
+  </skillset>
+  <skillset id="PUASS00025" title="Vertical Rescue">
+    <units>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEQU001B" title="Prepare, maintain and test response equipment"/>
+      <unit id="PUAOHS002B" title="Maintain safety at an incident scene"/>
+      <unit id="PUASAR022A" title="Participate in a rescue operation"/>
+      <unit id="PUASAR032A" title="Undertake vertical rescue"/>
+    </units>
+  </skillset>
+</skillsets>

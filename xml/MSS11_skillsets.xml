@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<skillsets class="MSS11">
+  <skillset id="MSSSS00001" title="SS1 Audit energy usage for a work area">
+    <units>
+      <unit id="MSS014002A" title="Evaluate sustainability impact of a work or process area"/>
+      <unit id="MSS014006A" title="Contribute to sustainability related audits"/>
+    </units>
+  </skillset>
+  <skillset id="MSSSS00002" title="SS2 Determine energy usage">
+    <units>
+      <unit id="MSS015001A" title="Measure and report carbon footprint"/>
+      <unit id="MSS015011A" title="Conduct a sustainability energy audit"/>
+    </units>
+  </skillset>
+  <skillset id="MSSSS00003" title="SS3 Improve energy usage for a process or organisation">
+    <units>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+    </units>
+  </skillset>
+  <skillset id="MSSSS00004" title="SS4 Improve energy usage for a work area">
+    <units>
+      <unit id="MSS014002A" title="Evaluate sustainability impact of a work or process area"/>
+      <unit id="MSS014003A" title="Optimise sustainability of a process or plant area"/>
+    </units>
+  </skillset>
+  <skillset id="MSSSS00005" title="SS5 Recommend energy improvements">
+    <units>
+      <unit id="MSS017002A" title="Determine process loss through mass or energy balancing"/>
+    </units>
+  </skillset>
+  <skillset id="MSSSS00006" title="SS6 Reduce sustainability risk">
+    <units>
+      <unit id="MSS017001A" title="Analyse and determine organisational risk areas in sustainability "/>
+    </units>
+  </skillset>
+</skillsets>

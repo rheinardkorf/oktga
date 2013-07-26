@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<qualifications class="AGF07">
+  <qualification id="AGF10107" title="Certificate I in Agri-Food (Pathways)">
+    <units>
+      <unit id="AGFCMN101A" title="Adapt to work requirements in agri-food industry"/>
+      <unit id="AGFCMN102A" title="Apply effective work practices"/>
+      <unit id="AGFCMN103A" title="Demonstrate care and apply safe practices at work"/>
+      <unit id="AGFCMN201A" title="Contribute to animal care through work activities"/>
+      <unit id="AGFCMN202A" title="Contribute to work activities to produce food"/>
+      <unit id="RTE1001A" title="Support agricultural crop work"/>
+      <unit id="RTE1601A" title="Support irrigation work"/>
+      <unit id="RTE2029A" title="Assist agricultural crop maintenance"/>
+      <unit id="RTE2030A" title="Assist agricultural crop harvesting"/>
+      <unit id="RTE2114A" title="Monitor water supplies"/>
+      <unit id="RTF1004A" title="Support gardening work"/>
+      <unit id="RUV1101A" title="Prepare for animal care work"/>
+      <unit id="RUV1102A" title="Support animal care work"/>
+      <unit id="RUV1103A" title="Support animal care cleaning activities"/>
+      <unit id="RUV1104A" title="Maintain the animal care workplace"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

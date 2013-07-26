@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<skillsets class="BSB07">
+  <skillset id="BSBSS00001" title="Aspiring Supervisor Skill Set">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00002" title="Basic Contact Centre Operations Skill Set">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCCO205A" title="Prepare for work in a customer contact environment"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBWHS201A" title="Contribute to health and safety of self and others"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00003" title="Copyright Skill Set">
+    <units>
+      <unit id="BSBIPR401A" title="Use and respect copyright"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00004" title="Design Fundamentals Skill Set">
+    <units>
+      <unit id="BSBCRT101A" title="Apply critical thinking techniques"/>
+      <unit id="BSBDES201A" title="Follow a design process"/>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00005" title="Design Protection Skill Set">
+    <units>
+      <unit id="BSBIPR404A" title="Protect and use innovative designs"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00006" title="Franchising Skill Set">
+    <units>
+      <unit id="BSBFRA502B" title="Manage a franchise operation"/>
+      <unit id="BSBFRA504B" title="Manage relationships with franchisees"/>
+      <unit id="BSBFRA505B" title="Manage closure of a franchise"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00007" title="Governance Induction Skill Set">
+    <units>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV402A" title="Work within organisational structure"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00008" title="Innovation Leadership Skill Set">
+    <units>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00009" title="Innovation Practice Skill Set">
+    <units>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00010" title="Intellectual Property Strategic Management Skill Set">
+    <units>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBIPR601A" title="Develop and implement strategies for intellectual property management"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00011" title="Key Management Skill Set">
+    <units>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00012" title="Key Recordkeeping Skill Set">
+    <units>
+      <unit id="BSBRKG301B" title="Control records"/>
+      <unit id="BSBRKG302B" title="Undertake disposal"/>
+      <unit id="BSBRKG305A" title="Review recordkeeping functions"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00013" title="Legal Transcription Skill Set">
+    <units>
+      <unit id="BSBADM411A" title="Produce complex texts from audio transcription"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBLEG305A" title="Use legal terminology in order to carry out tasks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00014" title="Managing Innovation Skill Set">
+    <units>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBIPR402A" title="Protect and use new inventions and innovations"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00015" title="Medical Transcription Skill Set">
+    <units>
+      <unit id="BSBADM411A" title="Produce complex texts from audio transcription"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00016" title="Patent Skill Set">
+    <units>
+      <unit id="BSBIPR402A" title="Protect and use new inventions and innovations"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00017" title="Small Business Contracting Skill Set">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="PSPGOV407B" title="Provide a quotation"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00018" title="Small Business Financial Management Skill Set">
+    <units>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00019" title="Small Business Home Based Business Skill Set">
+    <units>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB306A" title="Plan a home based business"/>
+      <unit id="BSBSMB307A" title="Set up information and communications technology for the micro business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00020" title="Small Business Indigenous Corporate Governance Skill Set">
+    <units>
+      <unit id="BSBATSIM416A" title="Oversee organisational planning"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV402A" title="Work within organisational structure"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00021" title="Small Business Intellectual Property Skill Set">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBIPR405A" title="Protect and use intangible assets in small business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00022" title="Small Business Marketing Skill Set">
+    <units>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG414B" title="Undertake marketing activities"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00023" title="Small Business Operations Preparatory Skill Set">
+    <units>
+      <unit id="BSBIND201A" title="Work effectively in a business environment"/>
+      <unit id="BSBSMB201A" title="Identify suitability for micro business"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSFLT203A" title="Develop understanding of debt and consumer credit"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00024" title="Small Business Preparatory Skill Set">
+    <units>
+      <unit id="BSBADM101A" title="Use business equipment and resources"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="FNSFLT201A" title="Develop and use a personal budget"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00025" title="Trade Mark Skill Set">
+    <units>
+      <unit id="BSBIPR403A" title="Protect and use brands and business identity"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00026" title="Workforce Development Implementation Skill Set">
+    <units>
+      <unit id="BSBHRM602B" title="Manage human resources strategic planning"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+    </units>
+  </skillset>
+  <skillset id="BSBSS00027" title="Workforce Planning and Development Skill Set">
+    <units>
+      <unit id="BSBHRM513A" title="Manage workforce planning"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+    </units>
+  </skillset>
+</skillsets>

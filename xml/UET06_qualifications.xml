@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<qualifications class="UET06">
+  <qualification id="UET20206" title="Certificate II in ESI - Transmission Line Assembly">
+    <units/>
+  </qualification>
+  <qualification id="UET20106" title="Certificate II in ESI - Vegetation Control">
+    <units/>
+  </qualification>
+  <qualification id="UET30306" title="Certificate III in ESI - Rail Traction">
+    <units/>
+  </qualification>
+  <qualification id="UET30206" title="Certificate III in ESI - Distribution">
+    <units/>
+  </qualification>
+  <qualification id="UET30106" title="Certificate III in ESI - Transmission">
+    <units/>
+  </qualification>
+  <qualification id="UET30406" title="Certificate III in ESI - Cable Jointing">
+    <units/>
+  </qualification>
+  <qualification id="UET40306" title="Certificate IV in ESI - Network Infrastructure">
+    <units/>
+  </qualification>
+  <qualification id="UET40106" title="Certificate IV in ESI - Power Systems">
+    <units/>
+  </qualification>
+  <qualification id="UET40206" title="Certificate IV in ESI - Substation">
+    <units/>
+  </qualification>
+  <qualification id="UET50106" title="Diploma of ESI - Power Systems">
+    <units/>
+  </qualification>
+  <qualification id="UET60106" title="Advanced Diploma of ESI - Power Systems">
+    <units/>
+  </qualification>
+</qualifications>

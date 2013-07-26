@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<qualifications class="WRB04">
+  <qualification id="WRB20304" title="Certificate II in Retail Cosmetic Services">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="WRBBS201B" title="Provide manicure and pedicare services"/>
+      <unit id="WRBBS202A" title="Apply gel nail enhancement"/>
+      <unit id="WRBBS203A" title="Apply acrylic nail enhancement"/>
+      <unit id="WRBCS204A" title="Apply knowledge of nail science to nail services"/>
+      <unit id="WRBFS203B" title="Design and apply make-up for photography"/>
+      <unit id="WRBFS204B" title="Design and apply remedial camouflage"/>
+      <unit id="WRBSS201B" title="Pierce ears"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRLP2B" title="Minimise theft"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRB20204" title="Certificate II in Make-up Services">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="WRBBS201B" title="Provide manicure and pedicare services"/>
+      <unit id="WRBBS202A" title="Apply gel nail enhancement"/>
+      <unit id="WRBBS203A" title="Apply acrylic nail enhancement"/>
+      <unit id="WRBCS204A" title="Apply knowledge of nail science to nail services"/>
+      <unit id="WRBSS201B" title="Pierce ears"/>
+      <unit id="WRRCA1B" title="Operate retail equipment"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRI1B" title="Perform stock control procedures"/>
+      <unit id="WRRLP2B" title="Minimise theft"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRB20104" title="Certificate II in Nail Technology">
+    <units/>
+  </qualification>
+  <qualification id="WRB30204" title="Certificate III in Nail Technology">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBMKG404A" title="Forecast market and business needs"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="WRBBS306A" title="Apply airbrushed nail art"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRO3B" title="Provide a safe working environment"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="WRB30104" title="Certificate III in Beauty Services">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBMKG404A" title="Forecast market and business needs"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="WRBBS202A" title="Apply gel nail enhancement"/>
+      <unit id="WRBBS203A" title="Apply acrylic nail enhancement"/>
+      <unit id="WRBBS204B" title="Apply nail art"/>
+      <unit id="WRBBS305B" title="Use electrical equipment for nails"/>
+      <unit id="WRBBS306A" title="Apply airbrushed nail art"/>
+      <unit id="WRBFS201B" title="Demonstrate retail skin care products"/>
+      <unit id="WRBFS202B" title="Design and apply make-up"/>
+      <unit id="WRBFS203B" title="Design and apply make-up for photography"/>
+      <unit id="WRBFS204B" title="Design and apply remedial camouflage"/>
+      <unit id="WRBSS201B" title="Pierce ears"/>
+      <unit id="WRRCA1B" title="Operate retail equipment"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRI1B" title="Perform stock control procedures"/>
+      <unit id="WRRLP2B" title="Minimise theft"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRO3B" title="Provide a safe working environment"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRB40105" title="Certificate IV in Beauty Therapy">
+    <units/>
+  </qualification>
+  <qualification id="WRB40104" title="Certificate IV in Beauty Therapy">
+    <units/>
+  </qualification>
+  <qualification id="WRB50105" title="Diploma of Beauty Therapy">
+    <units>
+      <unit id="BSBEBUS301A" title="Search and assess online business information"/>
+      <unit id="BSBFLM505B" title="Manage operational plan"/>
+      <unit id="BSBFLM507A" title="Manage quality customer service"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBMKG404A" title="Forecast market and business needs"/>
+      <unit id="BSBSBM301A" title="Research business opportunities"/>
+      <unit id="BSBSBM401A" title="Establish business and legal requirements"/>
+      <unit id="BSBSBM402A" title="Undertake financial planning"/>
+      <unit id="BSBSBM403A" title="Promote the business"/>
+      <unit id="BSBSBM404A" title="Undertake business planning"/>
+      <unit id="BSBSBM405A" title="Monitor and manage business operations"/>
+      <unit id="BSBSBM406A" title="Manage finances"/>
+      <unit id="BSBSBM407A" title="Manage a small team"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUEMUP2A" title="Design, apply and remove period make-up"/>
+      <unit id="CUEMUP3A" title="Design, apply and remove specialised make-up"/>
+      <unit id="HLTREM6A" title="Provide the Massage treatment"/>
+      <unit id="HLTREM7A" title="Plan the Massage treatment"/>
+      <unit id="WRBBS408B" title="Provide aesthetic aromatic massage"/>
+      <unit id="WRBBS509A" title="Plan the spa program"/>
+      <unit id="WRBBS510A" title="Provide the spa program"/>
+      <unit id="WRBBS511A" title="Apply aromatic plant oil chemistry to beauty treatments"/>
+      <unit id="WRBBS512A" title="Blend a range of aromatic plant oils for beauty treatments"/>
+      <unit id="WRBBS513A" title="Use reflexology relaxation techniques in beauty treatments"/>
+      <unit id="WRBBS514A" title="Provide superficial lymph drainage massage"/>
+      <unit id="WRBFS203B" title="Design and apply make-up for photography"/>
+      <unit id="WRBFS204B" title="Design and apply remedial camouflage"/>
+      <unit id="WRBSS201B" title="Pierce ears"/>
+      <unit id="WRBSS503B" title="Provide permanent epilation"/>
+      <unit id="WRBSS504B" title="Perform diathermy service"/>
+      <unit id="WRBSS505B" title="Design and perform cosmetic tattooing/micropigmentation procedures"/>
+      <unit id="WRBSS506A" title="Provide upper body piercing"/>
+      <unit id="WRRCA1B" title="Operate retail equipment"/>
+      <unit id="WRRER2B" title="Coordinate work teams"/>
+      <unit id="WRRER3B" title="Maintain employee relations"/>
+      <unit id="WRRI1B" title="Perform stock control procedures"/>
+      <unit id="WRRLP2B" title="Minimise theft"/>
+      <unit id="WRRM1B" title="Merchandise products"/>
+      <unit id="WRRM2B" title="Perform routine housekeeping duties"/>
+      <unit id="WRRM5A" title="Monitor in-store visual merchandising display"/>
+      <unit id="WRRM6A" title="Create a display for a small business"/>
+      <unit id="WRRO3B" title="Provide a safe working environment"/>
+      <unit id="WRRO7A" title="Profile a retail market"/>
+      <unit id="WRRO8A" title="Develop innovative ideas at work"/>
+      <unit id="WRRPL3B" title="Initiate and implement change"/>
+      <unit id="WRRPM3B" title="Lead and manage people"/>
+      <unit id="WRRS4B" title="Build relationships with customers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRB50104" title="Diploma of Beauty Therapy">
+    <units/>
+  </qualification>
+</qualifications>

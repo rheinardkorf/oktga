@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<skillsets class="CUF07">
+  <skillset id="CUFSS00001" title="Community Broadcasting Administration Skill Set">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBRKG502B" title="Manage and monitor business or records systems"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00002" title="Community Broadcasting Committee Management Skill Set">
+    <units>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00003" title="Community Broadcasting Coordination Skill Set">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00004" title="Community Broadcasting Financial Management Skill Set">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00005" title="Community Broadcasting Management Skill Set">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00006" title="Community Broadcasting Marketing Skill Set">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUB503A" title="Manage fundraising and sponsorship activities"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00007" title="Community Broadcasting Program Management Skill Set">
+    <units>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CUFIND301B" title="Work effectively in the screen and media industries"/>
+      <unit id="CUFPPM501A" title="Develop and monitor program schedules"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+    </units>
+  </skillset>
+  <skillset id="CUFSS00008" title="Photographic Make up and Styling Skill Set">
+    <units>
+      <unit id="BSBCRT301A" title="Develop and extend critical and creative thinking skills"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="CUFDIG303A" title="Produce and prepare photo images"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="CUFMUP401A" title="Design, apply and remove make-up"/>
+      <unit id="CUFMUP402A" title="Maintain make-up and hair continuity"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="WRBFS203B" title="Design and apply make-up for photography"/>
+    </units>
+  </skillset>
+</skillsets>

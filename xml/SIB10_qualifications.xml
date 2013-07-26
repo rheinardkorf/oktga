@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<qualifications class="SIB10">
+  <qualification id="SIB20110" title="Certificate II in Retail Make-Up and Skin Care">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIBBFAS201A" title="Demonstrate retail skin care products"/>
+      <unit id="SIBBRES201A" title="Research and apply beauty industry information"/>
+      <unit id="SIBBSKS201A" title="Pierce ears"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIBXFAS201A" title="Design and apply make-up"/>
+      <unit id="SIBXFAS202A" title="Design and apply make-up for photography"/>
+      <unit id="SIRXCLM001A" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER003A" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIB20210" title="Certificate II in Nail Technology">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIBBNLS201A" title="Work in a nail services framework"/>
+      <unit id="SIBBNLS202A" title="Provide manicure and pedicare services"/>
+      <unit id="SIBBNLS203A" title="Apply ultraviolet gel nail enhancement"/>
+      <unit id="SIBBNLS204A" title="Apply acrylic nail enhancement"/>
+      <unit id="SIBBNLS205A" title="Apply nail art"/>
+      <unit id="SIBBNLS206A" title="Use electric file equipment for nails"/>
+      <unit id="SIBBNLS207A" title="Apply advanced nail art"/>
+      <unit id="SIBBRES201A" title="Research and apply beauty industry information"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXCLM001A" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIB30110" title="Certificate III in Beauty Services">
+    <units>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIBBCCS301A" title="Apply the principles of skin biology to beauty treatments"/>
+      <unit id="SIBBCCS302A" title="Advise on beauty services"/>
+      <unit id="SIBBFAS201A" title="Demonstrate retail skin care products"/>
+      <unit id="SIBBFAS302A" title="Provide lash and brow treatments"/>
+      <unit id="SIBBFAS303A" title="Design and apply remedial camouflage make-up"/>
+      <unit id="SIBBHRS301A" title="Perform waxing treatments"/>
+      <unit id="SIBBNLS201A" title="Work in a nail services framework"/>
+      <unit id="SIBBNLS202A" title="Provide manicure and pedicare services"/>
+      <unit id="SIBBNLS203A" title="Apply ultraviolet gel nail enhancement"/>
+      <unit id="SIBBNLS204A" title="Apply acrylic nail enhancement"/>
+      <unit id="SIBBNLS205A" title="Apply nail art"/>
+      <unit id="SIBBNLS206A" title="Use electric file equipment for nails"/>
+      <unit id="SIBBNLS207A" title="Apply advanced nail art"/>
+      <unit id="SIBBRES201A" title="Research and apply beauty industry information"/>
+      <unit id="SIBBSKS201A" title="Pierce ears"/>
+      <unit id="SIBBSKS302A" title="Apply cosmetic tanning products"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIBXFAS201A" title="Design and apply make-up"/>
+      <unit id="SIBXFAS202A" title="Design and apply make-up for photography"/>
+      <unit id="SIRXCLM001A" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER003A" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIB40110" title="Certificate IV in Beauty Therapy">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SIBBBOS401A" title="Perform body massage"/>
+      <unit id="SIBBBOS402A" title="Provide body treatments"/>
+      <unit id="SIBBBOS403A" title="Perform aromatherapy massage"/>
+      <unit id="SIBBCCS301A" title="Apply the principles of skin biology to beauty treatments"/>
+      <unit id="SIBBCCS302A" title="Advise on beauty services"/>
+      <unit id="SIBBCCS403A" title="Recognise body structures and systems in a beauty therapy context"/>
+      <unit id="SIBBCCS404A" title="Work in a skin therapies framework"/>
+      <unit id="SIBBCCS405A" title="Develop treatment plans"/>
+      <unit id="SIBBCCS406A" title="Use electricity in beauty therapy treatments"/>
+      <unit id="SIBBCCS407A" title="Interpret the chemical composition and physical actions of cosmetic products"/>
+      <unit id="SIBBCCS408A" title="Promote healthy nutritional options in a beauty therapy context"/>
+      <unit id="SIBBFAS201A" title="Demonstrate retail skin care products"/>
+      <unit id="SIBBFAS302A" title="Provide lash and brow treatments"/>
+      <unit id="SIBBFAS303A" title="Design and apply remedial camouflage make-up"/>
+      <unit id="SIBBFAS404A" title="Provide facial treatments"/>
+      <unit id="SIBBFAS405A" title="Provide advanced facial treatments"/>
+      <unit id="SIBBHRS301A" title="Perform waxing treatments"/>
+      <unit id="SIBBNLS201A" title="Work in a nail services framework"/>
+      <unit id="SIBBNLS202A" title="Provide manicure and pedicare services"/>
+      <unit id="SIBBNLS203A" title="Apply ultraviolet gel nail enhancement"/>
+      <unit id="SIBBNLS204A" title="Apply acrylic nail enhancement"/>
+      <unit id="SIBBNLS205A" title="Apply nail art"/>
+      <unit id="SIBBNLS206A" title="Use electric file equipment for nails"/>
+      <unit id="SIBBNLS207A" title="Apply advanced nail art"/>
+      <unit id="SIBBRES201A" title="Research and apply beauty industry information"/>
+      <unit id="SIBBSKS302A" title="Apply cosmetic tanning products"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIBXFAS201A" title="Design and apply make-up"/>
+      <unit id="SIBXFAS202A" title="Design and apply make-up for photography"/>
+      <unit id="SIRXCLM001A" title="Organise and maintain work areas"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER003A" title="Monitor in-store visual merchandising display"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS004A" title="Build relationships with customers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIB50210" title="Diploma of Salon Management">
+    <units>
+      <unit id="BSBFRA401B" title="Manage compliance with franchisee obligations and legislative requirements"/>
+      <unit id="BSBFRA402B" title="Establish a franchise"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBFRA404B" title="Manage a multiple site franchise"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB408B" title="Manage personal, family, cultural and business obligations"/>
+      <unit id="BSBSMB409A" title="Build and maintain relationships with small business stakeholders"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="SIBXPSM501A" title="Lead teams in a personal services environment"/>
+      <unit id="SIBXPSM502A" title="Manage treatment services and sales delivery"/>
+      <unit id="SIBXPSM503A" title="Promote a personal services business"/>
+      <unit id="SIBXRES501A" title="Investigate new products and services"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXOHS003A" title="Provide a safe working environment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIB50110" title="Diploma of Beauty Therapy">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTIN402B" title="Maintain infection control standards in office practice settings"/>
+      <unit id="SIBBBOS401A" title="Perform body massage"/>
+      <unit id="SIBBBOS402A" title="Provide body treatments"/>
+      <unit id="SIBBBOS403A" title="Perform aromatherapy massage"/>
+      <unit id="SIBBBOS504A" title="Apply aromatic plant oil chemistry to beauty treatments"/>
+      <unit id="SIBBBOS505A" title="Blend and apply a range of aromatic plant oils for beauty treatments"/>
+      <unit id="SIBBBOS506A" title="Use reflexology relaxation techniques in beauty treatments"/>
+      <unit id="SIBBCCS301A" title="Apply the principles of skin biology to beauty treatments"/>
+      <unit id="SIBBCCS302A" title="Advise on beauty services"/>
+      <unit id="SIBBCCS403A" title="Recognise body structures and systems in a beauty therapy context"/>
+      <unit id="SIBBCCS404A" title="Work in a skin therapies framework"/>
+      <unit id="SIBBCCS405A" title="Develop treatment plans"/>
+      <unit id="SIBBCCS406A" title="Use electricity in beauty therapy treatments"/>
+      <unit id="SIBBCCS407A" title="Interpret the chemical composition and physical actions of cosmetic products"/>
+      <unit id="SIBBCCS408A" title="Promote healthy nutritional options in a beauty therapy context"/>
+      <unit id="SIBBFAS302A" title="Provide lash and brow treatments"/>
+      <unit id="SIBBFAS303A" title="Design and apply remedial camouflage make-up"/>
+      <unit id="SIBBFAS404A" title="Provide facial treatments"/>
+      <unit id="SIBBFAS405A" title="Provide advanced facial treatments"/>
+      <unit id="SIBBHRS301A" title="Perform waxing treatments"/>
+      <unit id="SIBBHRS502A" title="Perform female intimate waxing treatments"/>
+      <unit id="SIBBHRS503A" title="Perform male intimate waxing treatments"/>
+      <unit id="SIBBHRS504A" title="Provide electrolysis treatments"/>
+      <unit id="SIBBNLS201A" title="Work in a nail services framework"/>
+      <unit id="SIBBNLS202A" title="Provide manicure and pedicare services"/>
+      <unit id="SIBBSKS503A" title="Provide diathermy treatments"/>
+      <unit id="SIBBSKS504A" title="Design and perform cosmetic tattooing"/>
+      <unit id="SIBBSKS505A" title="Provide upper body piercing"/>
+      <unit id="SIBBSKS506A" title="Apply micro-dermabrasion to improve skin appearance"/>
+      <unit id="SIBBSPA501A" title="Work in a spa therapies framework"/>
+      <unit id="SIBBSPA502A" title="Plan spa programs"/>
+      <unit id="SIBBSPA503A" title="Provide spa therapies"/>
+      <unit id="SIBBSPA504A" title="Provide stone therapy massage"/>
+      <unit id="SIBBSPA505A" title="Provide Indian head massage for relaxation"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIBXFAS201A" title="Design and apply make-up"/>
+      <unit id="SIBXFAS202A" title="Design and apply make-up for photography"/>
+      <unit id="SIBXRES501A" title="Investigate new products and services"/>
+      <unit id="SIRXCCS003A" title="Coordinate interaction with customers"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXSLS004A" title="Build relationships with customers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIB70110" title="Vocational Graduate Certificate in Intense Pulsed Light and Laser Hair Reduction">
+    <units>
+      <unit id="HLTIN402B" title="Maintain infection control standards in office practice settings"/>
+      <unit id="SIBBHRS705A" title="Apply intense pulsed light and laser safety protocols"/>
+      <unit id="SIBBHRS706A" title="Design intense pulsed light and laser hair reduction treatment programs"/>
+      <unit id="SIBBHRS707A" title="Provide intense pulsed light and laser hair reduction treatments"/>
+      <unit id="SIBBRES702A" title="Investigate developments in cosmetic treatments using light or laser systems"/>
+    </units>
+  </qualification>
+</qualifications>

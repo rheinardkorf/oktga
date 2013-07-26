@@ -1,0 +1,2713 @@
+<?xml version="1.0"?>
+<qualifications class="LMT07">
+  <qualification id="LMT11107" title="Certificate I in Textiles Clothing and Footwear">
+    <units>
+      <unit id="LMTCL1001B" title="Produce a simple garment"/>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTFP1001B" title="Embellish footwear"/>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="LMTML1001A" title="Make a simple headpiece"/>
+      <unit id="LMTML2001A" title="Identify materials used in millinery"/>
+      <unit id="LMTTX1001B" title="Produce a simple textile fabric or product"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMT20607" title="Certificate II in Clothing Production (Intermediate)">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2007B" title="Lay up, mark and cut uncomplicated fabrics and lays"/>
+      <unit id="LMTCL2008B" title="Finish garment production"/>
+      <unit id="LMTCL2009B" title="Despatch work"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2012B" title="Organise and plan own work in a home-based production environment"/>
+      <unit id="LMTCL2013B" title="Block and shape headwear by machine"/>
+      <unit id="LMTCL2014B" title="Pack, store, handle and despatch headwear"/>
+      <unit id="LMTCL2015B" title="Finish headwear"/>
+      <unit id="LMTCL2016B" title="Trim headwear"/>
+      <unit id="LMTCL2017B" title="Access and use information resources for clothing production operations"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20807" title="Certificate II in Millinery">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTML2001A" title="Identify materials used in millinery"/>
+      <unit id="LMTML2002A" title="Make flat patterns for millinery"/>
+      <unit id="LMTML2003A" title="Produce and attach millinery trims"/>
+      <unit id="LMTML2004A" title="Produce felt for millinery"/>
+      <unit id="LMTML2005A" title="Place and cut millinery patterns"/>
+      <unit id="LMTML2006A" title="Use millinery steaming and pressing equipment"/>
+      <unit id="LMTML2007A" title="Block and shape millinery by hand"/>
+      <unit id="LMTML2008A" title="Assemble simple blocked millinery components"/>
+      <unit id="LMTML2009A" title="Apply millinery sewing and adhesion techniques"/>
+      <unit id="LMTML2010A" title="Make millinery with flat pattern components"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21607" title="Certificate II in Technical Textiles and Non-wovens">
+    <units>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTTN2001B" title="Set up and operate a dry laid web forming machine"/>
+      <unit id="LMTTN2002B" title="Set up and operate a spun bond web forming machine"/>
+      <unit id="LMTTN2003B" title="Use basic recognition techniques to identify technical and non-woven textiles"/>
+      <unit id="LMTTN2004B" title="Undertake web bonding processes"/>
+      <unit id="LMTTN2005B" title="Undertake web conversion and finishing"/>
+      <unit id="LMTTN2006B" title="Identify purpose and performance outcomes of technical textile product"/>
+      <unit id="LMTTN2007B" title="Conduct technical textile mechanical finishing processes"/>
+      <unit id="LMTTN2008B" title="Conduct heat setting on technical textiles"/>
+      <unit id="LMTTN2009B" title="Apply surface coating to technical textiles"/>
+      <unit id="LMTTN2010B" title="Apply laminations and fusible interlinings to technical textiles"/>
+      <unit id="LMTTN2011B" title="Undertake fibre blending and feeding for nonwoven technical production processes"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX2003B" title="Perform spinning operations"/>
+      <unit id="LMTTX2005B" title="Perform creeling operations"/>
+      <unit id="LMTTX2006B" title="Operate a weaving loom"/>
+      <unit id="LMTTX2007B" title="Perform knitting operations"/>
+      <unit id="LMTTX2009B" title="Weigh and check textile materials and products"/>
+      <unit id="LMTTX2010B" title="Load and operate dyeing equipment"/>
+      <unit id="LMTTX2011B" title="Repair textile product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2013B" title="Conduct packaging or folding for textile production"/>
+      <unit id="LMTTX2014B" title="Use specialised machinery to assist textile production"/>
+      <unit id="LMTTX2019B" title="Undertake carding operations"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20507" title="Certificate II in Textile Fabrication">
+    <units>
+      <unit id="AHCLSC308A" title="Install metal structures and features"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="LMTTF2001A" title="Despatch products"/>
+      <unit id="LMTTF2003A" title="Package and handle products for despatch"/>
+      <unit id="LMTTF2004A" title="Add reinforcements and attachments"/>
+      <unit id="LMTTF2005A" title="Translate information into measurements or diagrams"/>
+      <unit id="LMTTF2006A" title="Measure and scale geometric shapes"/>
+      <unit id="LMTTF2007A" title="Produce patterns for 2D products"/>
+      <unit id="LMTTF2008A" title="Use adhesives"/>
+      <unit id="LMTTF2009A" title="Identify and select canvas and sail materials"/>
+      <unit id="LMTTF2010A" title="Lay out and mark out canvas or sail materials"/>
+      <unit id="LMTTF2011A" title="Cut and shape canvas or sail materials"/>
+      <unit id="LMTTF2012A" title="Stitch by hand"/>
+      <unit id="LMTTF2013A" title="Waterproof canvas products"/>
+      <unit id="LMTTF2014A" title="Weld plastic materials"/>
+      <unit id="LMTTF2016A" title="Install products on and off site"/>
+      <unit id="LMTTF2017A" title="Cut, bend and shape metal"/>
+      <unit id="LMTTF2018A" title="Use canvas and sail production tools"/>
+      <unit id="LMTTF2019A" title="Inspect canvas or sail product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20407" title="Certificate II in Cotton Ginning">
+    <units>
+      <unit id="LMTCG2001A" title="Identify cotton characteristics"/>
+      <unit id="LMTCG2002A" title="Gin Cotton"/>
+      <unit id="LMTCG2003A" title="Control bale or mote press operations"/>
+      <unit id="LMTCG3001A" title="Identify factors that impact on cotton quality"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21707" title="Certificate II in Applied Fashion Design and Technology">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTFD2001B" title="Design and produce a simple garment"/>
+      <unit id="LMTFD2002B" title="Apply printing techniques to produce indigenous textile designs"/>
+      <unit id="LMTFD2003B" title="Apply dyeing techniques to produce indigenous textile designs"/>
+      <unit id="LMTFD2004B" title="Work within an indigenous cultural framework"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMT21410" title="Certificate II in Laundry Operations">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTDC2001A" title="Provide customer service in a dry cleaning or laundry enterprise"/>
+      <unit id="LMTDC2007A" title="Receive and sort articles for cleaning"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTLA2001A" title="Conduct safe handling of laundry chemicals"/>
+      <unit id="LMTLA2002A" title="Operate washing machines"/>
+      <unit id="LMTLA2003A" title="Control washing extractor operation"/>
+      <unit id="LMTLA2004A" title="Perform linen rewash"/>
+      <unit id="LMTLA2005A" title="Operate hydro extractor"/>
+      <unit id="LMTLA2006A" title="Perform conditioning and drying processes"/>
+      <unit id="LMTLA2007A" title="Finish products for despatch"/>
+      <unit id="LMTLA2008A" title="Repair damaged laundry items"/>
+      <unit id="LMTLA2009A" title="Inspect, fold and pack theatre linen"/>
+      <unit id="LMTLA2010A" title="Prepare products for storage or despatch"/>
+      <unit id="LMTLA2011A" title="Apply infection control policies and procedures in laundry operations"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21207" title="Certificate II in Leather Production">
+    <units>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTHL2001A" title="Undertake receival, storage, handling and preservation of materials or products"/>
+      <unit id="LMTHL2002A" title="Perform fellmongering processes"/>
+      <unit id="LMTHL2003A" title="Operate machines to prepare hides or skins for tanning"/>
+      <unit id="LMTHL2004A" title="Prepare chemicals to a formula"/>
+      <unit id="LMTHL2006A" title="Use drum or vessel to prepare or tan hides or skins"/>
+      <unit id="LMTHL2007A" title="Operate machines to crust hides, skins or leather"/>
+      <unit id="LMTHL2008A" title="Use drum or vessel to crust hides, skins or leather"/>
+      <unit id="LMTHL2009A" title="Perform drying operations"/>
+      <unit id="LMTHL2010A" title="Finish hides, skins or leather"/>
+      <unit id="LMTHL2011A" title="Trim hides, skins or leather"/>
+      <unit id="LMTHL2012A" title="Sort, grade or class hides, skins or leather"/>
+      <unit id="LMTLG2000A" title="Skive leather pieces"/>
+      <unit id="LMTLG2001A" title="Cut by machine"/>
+      <unit id="LMTLG2002A" title="Sew leather by machine"/>
+      <unit id="LMTLG2003A" title="Perform table work"/>
+      <unit id="LMTLG2004A" title="Operate leather production machines"/>
+      <unit id="LMTLG2005A" title="Split leather pieces"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20107" title="Certificate II in Textile Production (Intermediate)">
+    <units>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX2003B" title="Perform spinning operations"/>
+      <unit id="LMTTX2004B" title="Perform tufting operations"/>
+      <unit id="LMTTX2005B" title="Perform creeling operations"/>
+      <unit id="LMTTX2006B" title="Operate a weaving loom"/>
+      <unit id="LMTTX2007B" title="Perform knitting operations"/>
+      <unit id="LMTTX2008B" title="Apply finishing processes to textile production"/>
+      <unit id="LMTTX2009B" title="Weigh and check textile materials and products"/>
+      <unit id="LMTTX2010B" title="Load and operate dyeing equipment"/>
+      <unit id="LMTTX2011B" title="Repair textile product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2013B" title="Conduct packaging or folding for textile production"/>
+      <unit id="LMTTX2014B" title="Use specialised machinery to assist textile production"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX2016B" title="Perform knotting for weaving operations"/>
+      <unit id="LMTTX2017B" title="Access and use information resources for textile production operations"/>
+      <unit id="LMTTX2018B" title="Restart machine after stoppage"/>
+      <unit id="LMTTX2019B" title="Undertake carding operations"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21510" title="Certificate II in Dry Cleaning Operations">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTDC2001A" title="Provide customer service in a dry cleaning or laundry enterprise"/>
+      <unit id="LMTDC2004A" title="Operate dry cleaning machines"/>
+      <unit id="LMTDC2005A" title="Operate wet cleaning machines"/>
+      <unit id="LMTDC2006A" title="Operate finishing equipment"/>
+      <unit id="LMTDC2007A" title="Receive and sort articles for cleaning"/>
+      <unit id="LMTDC2008A" title="Carry out final inspection of articles"/>
+      <unit id="LMTDC2009A" title="Prepare articles for storage or despatch"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTDC2011A" title="Identify pre- and post-spotting requirements"/>
+      <unit id="LMTDC2012A" title="Conduct safe handling of dry cleaning chemicals and solvents"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21107" title="Certificate II in Footwear Repair">
+    <units>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFR2001A" title="Assess and cost footwear repair job"/>
+      <unit id="LMTFR2002A" title="Supply and fit new heel block"/>
+      <unit id="LMTFR2003A" title="Attach non-slip sole or heel top piece"/>
+      <unit id="LMTFR2004A" title="Replace half leather sole"/>
+      <unit id="LMTFR2005A" title="Sew or patch by machine"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM19006B" title="Replace watch batteries"/>
+      <unit id="MEM20001A" title="Produce keys"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT21007" title=" Certificate II in Footwear Production (Complex or Multiple Processes)">
+    <units>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFP2002B" title="Perform stuff cutting"/>
+      <unit id="LMTFP2003B" title="Cut printed materials by machine"/>
+      <unit id="LMTFP2004B" title="Cut non-printed leather by machine"/>
+      <unit id="LMTFP2005B" title="Operate machine to sew upper"/>
+      <unit id="LMTFP2006B" title="Machine upper according to product requirements"/>
+      <unit id="LMTFP2007B" title="Last shoe by machine"/>
+      <unit id="LMTFP2008B" title="Perform moulding operations"/>
+      <unit id="LMTFP2009B" title="Perform footwear finishing operations"/>
+      <unit id="LMTFP2010B" title="Repair footwear product"/>
+      <unit id="LMTFP2011B" title="Perform table-based operations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20907" title="Certificate II in Footwear Production (Intermediate)">
+    <units>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFP2002B" title="Perform stuff cutting"/>
+      <unit id="LMTFP2003B" title="Cut printed materials by machine"/>
+      <unit id="LMTFP2004B" title="Cut non-printed leather by machine"/>
+      <unit id="LMTFP2005B" title="Operate machine to sew upper"/>
+      <unit id="LMTFP2006B" title="Machine upper according to product requirements"/>
+      <unit id="LMTFP2007B" title="Last shoe by machine"/>
+      <unit id="LMTFP2008B" title="Perform moulding operations"/>
+      <unit id="LMTFP2009B" title="Perform footwear finishing operations"/>
+      <unit id="LMTFP2010B" title="Repair footwear product"/>
+      <unit id="LMTFP2011B" title="Perform table-based operations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20707" title="Certificate II in Clothing Production (Complex or Multiple Processes)">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2007B" title="Lay up, mark and cut uncomplicated fabrics and lays"/>
+      <unit id="LMTCL2008B" title="Finish garment production"/>
+      <unit id="LMTCL2009B" title="Despatch work"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2012B" title="Organise and plan own work in a home-based production environment"/>
+      <unit id="LMTCL2013B" title="Block and shape headwear by machine"/>
+      <unit id="LMTCL2014B" title="Pack, store, handle and despatch headwear"/>
+      <unit id="LMTCL2015B" title="Finish headwear"/>
+      <unit id="LMTCL2016B" title="Trim headwear"/>
+      <unit id="LMTCL2017B" title="Access and use information resources for clothing production operations"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT20207" title="Certificate II in Textile Production (Complex or Multiple Processes)">
+    <units>
+      <unit id="LMTEW2001A" title="Blend and open greasy wool"/>
+      <unit id="LMTEW2002A" title="Press and dump wool"/>
+      <unit id="LMTEW2004A" title="Perform wool combing"/>
+      <unit id="LMTEW2005A" title="Perform wool preparation using gilling machines"/>
+      <unit id="LMTEW2006A" title="Perform wool finishing"/>
+      <unit id="LMTEW2007A" title="Perform wool pressing operations"/>
+      <unit id="LMTEW2008A" title="Perform wool backwash process"/>
+      <unit id="LMTEW2009A" title="Perform wool scouring"/>
+      <unit id="LMTEW2010A" title="Perform wool carbonising"/>
+      <unit id="LMTEW2011A" title="Perform wool superwash"/>
+      <unit id="LMTEW2012A" title="Perform tests to check wool quality"/>
+      <unit id="LMTEW2013A" title="Perform wool grease recovery and monitor waste disposal"/>
+      <unit id="LMTEW2014A" title="Perform machine setting and operational maintenance"/>
+      <unit id="LMTEW2015A" title="Perform wool store operations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX2003B" title="Perform spinning operations"/>
+      <unit id="LMTTX2004B" title="Perform tufting operations"/>
+      <unit id="LMTTX2005B" title="Perform creeling operations"/>
+      <unit id="LMTTX2006B" title="Operate a weaving loom"/>
+      <unit id="LMTTX2007B" title="Perform knitting operations"/>
+      <unit id="LMTTX2008B" title="Apply finishing processes to textile production"/>
+      <unit id="LMTTX2009B" title="Weigh and check textile materials and products"/>
+      <unit id="LMTTX2010B" title="Load and operate dyeing equipment"/>
+      <unit id="LMTTX2011B" title="Repair textile product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2013B" title="Conduct packaging or folding for textile production"/>
+      <unit id="LMTTX2014B" title="Use specialised machinery to assist textile production"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX2016B" title="Perform knotting for weaving operations"/>
+      <unit id="LMTTX2017B" title="Access and use information resources for textile production operations"/>
+      <unit id="LMTTX2018B" title="Restart machine after stoppage"/>
+      <unit id="LMTTX2019B" title="Undertake carding operations"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30507" title="Certificate III in Clothing Production">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2007B" title="Lay up, mark and cut uncomplicated fabrics and lays"/>
+      <unit id="LMTCL2008B" title="Finish garment production"/>
+      <unit id="LMTCL2009B" title="Despatch work"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2012B" title="Organise and plan own work in a home-based production environment"/>
+      <unit id="LMTCL2013B" title="Block and shape headwear by machine"/>
+      <unit id="LMTCL2014B" title="Pack, store, handle and despatch headwear"/>
+      <unit id="LMTCL2015B" title="Finish headwear"/>
+      <unit id="LMTCL2016B" title="Trim headwear"/>
+      <unit id="LMTCL2017B" title="Access and use information resources for clothing production operations"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3002B" title="Prepare and produce sewn garment"/>
+      <unit id="LMTCL3003B" title="Perform garment repairs and alterations"/>
+      <unit id="LMTCL3004B" title="Press whole garments"/>
+      <unit id="LMTCL3005B" title="Lay up and cut complicated fabrics and lays"/>
+      <unit id="LMTCL3006B" title="Assemble bra or swimwear"/>
+      <unit id="LMTCL3007B" title="Embellish garment by hand or machine"/>
+      <unit id="LMTCL3008B" title="Set and produce digital embroidery"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTCL3010B" title="Sew woven and stretch knit garments"/>
+      <unit id="LMTCL3011B" title="Contribute to garment production process improvements"/>
+      <unit id="LMTCL3012B" title="Make marker for complicated fabrics and lays"/>
+      <unit id="LMTCL3013B" title="Interpret patterns and apply pattern information"/>
+      <unit id="LMTCL3014B" title="Interact and communicate with garment production personnel"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTFD3003B" title="Prepare design concept for a simple garment"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT31210" title="Certificate III in Dry Cleaning Operations">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL3003B" title="Perform garment repairs and alterations"/>
+      <unit id="LMTCL3004B" title="Press whole garments"/>
+      <unit id="LMTDC2001A" title="Provide customer service in a dry cleaning or laundry enterprise"/>
+      <unit id="LMTDC2004A" title="Operate dry cleaning machines"/>
+      <unit id="LMTDC2005A" title="Operate wet cleaning machines"/>
+      <unit id="LMTDC2006A" title="Operate finishing equipment"/>
+      <unit id="LMTDC2007A" title="Receive and sort articles for cleaning"/>
+      <unit id="LMTDC2008A" title="Carry out final inspection of articles"/>
+      <unit id="LMTDC2009A" title="Prepare articles for storage or despatch"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTDC2011A" title="Identify pre- and post-spotting requirements"/>
+      <unit id="LMTDC2012A" title="Conduct safe handling of dry cleaning chemicals and solvents"/>
+      <unit id="LMTDC3002A" title="Dry clean garments with special treatment requirements"/>
+      <unit id="LMTDC3003A" title="Perform spotting function in dry cleaning operations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP382A" title="Provide coaching_mentoring in the workplace"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30307" title="Certificate III in Cotton Ginning">
+    <units>
+      <unit id="LMTCG2001A" title="Identify cotton characteristics"/>
+      <unit id="LMTCG2002A" title="Gin Cotton"/>
+      <unit id="LMTCG2003A" title="Control bale or mote press operations"/>
+      <unit id="LMTCG3001A" title="Identify factors that impact on cotton quality"/>
+      <unit id="LMTCG3002A" title="Perform advanced operational maintenance of cotton ginning machines and equipment"/>
+      <unit id="LMTCG3003A" title="Assist in overhauling or repairing cotton ginning fluid power equipment"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05008C" title="Perform advanced manual thermal cutting, gouging and shaping"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18049B" title="Disconnect/reconnect fixed wired equipment up to 1000 volts a.c./1500 volts d.c."/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT31807" title="Certificate III in Technical Textiles and Non-wovens">
+    <units>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTTN2001B" title="Set up and operate a dry laid web forming machine"/>
+      <unit id="LMTTN2002B" title="Set up and operate a spun bond web forming machine"/>
+      <unit id="LMTTN2003B" title="Use basic recognition techniques to identify technical and non-woven textiles"/>
+      <unit id="LMTTN2004B" title="Undertake web bonding processes"/>
+      <unit id="LMTTN2005B" title="Undertake web conversion and finishing"/>
+      <unit id="LMTTN2006B" title="Identify purpose and performance outcomes of technical textile product"/>
+      <unit id="LMTTN2007B" title="Conduct technical textile mechanical finishing processes"/>
+      <unit id="LMTTN2008B" title="Conduct heat setting on technical textiles"/>
+      <unit id="LMTTN2009B" title="Apply surface coating to technical textiles"/>
+      <unit id="LMTTN2010B" title="Apply laminations and fusible interlinings to technical textiles"/>
+      <unit id="LMTTN2011B" title="Undertake fibre blending and feeding for nonwoven technical production processes"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX2003B" title="Perform spinning operations"/>
+      <unit id="LMTTX2005B" title="Perform creeling operations"/>
+      <unit id="LMTTX2006B" title="Operate a weaving loom"/>
+      <unit id="LMTTX2007B" title="Perform knitting operations"/>
+      <unit id="LMTTX2009B" title="Weigh and check textile materials and products"/>
+      <unit id="LMTTX2010B" title="Load and operate dyeing equipment"/>
+      <unit id="LMTTX2011B" title="Repair textile product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2013B" title="Conduct packaging or folding for textile production"/>
+      <unit id="LMTTX2014B" title="Use specialised machinery to assist textile production"/>
+      <unit id="LMTTX2019B" title="Undertake carding operations"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3002B" title="Contribute to textile production process improvements"/>
+      <unit id="LMTTX3004B" title="Set up textile production machines for product change"/>
+      <unit id="LMTTX3005B" title="Organise and interpret tests"/>
+      <unit id="LMTTX3006B" title="Ensure efficient operation of textile machines"/>
+      <unit id="LMTTX3007B" title="Prepare dyes for textile production"/>
+      <unit id="LMTTX3008B" title="Select raw materials"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT32011" title="Certificate III in Digitising and Computerised Embroidery">
+    <units>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES302A" title="Explore and apply the creative design process to 2D forms"/>
+      <unit id="BSBSMB304A" title="Determine resource requirements for the micro business"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="CUFCMP301A" title="Implement copyright arrangements"/>
+      <unit id="ICPPR282C" title="Produce and manage basic digital print"/>
+      <unit id="ICPPR284A" title="Introduction to colour management"/>
+      <unit id="ICPPR383C" title="Prepare for personalised digital printing"/>
+      <unit id="ICPPR385A" title="Apply software applications to digital production"/>
+      <unit id="ICPPR386A" title="Troubleshoot digital media"/>
+      <unit id="ICPPR387A" title="Use colour management for production"/>
+      <unit id="ICPPR388A" title="Preflight and import complex images for digital devices"/>
+      <unit id="ICPPR389A" title="Manage digital files"/>
+      <unit id="ICPPR390A" title="Generate a proof for digital production"/>
+      <unit id="ICPPR392A" title="Set up and produce specialised digital print"/>
+      <unit id="ICPSU281C" title="Use computer systems"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2009B" title="Despatch work"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2012B" title="Organise and plan own work in a home-based production environment"/>
+      <unit id="LMTDE3001A" title="Apply hooping and fabric handling techniques"/>
+      <unit id="LMTDE3002A" title="Digitise artwork for computerised embroideries"/>
+      <unit id="LMTDE3003A" title="Apply advanced digitising techniques to produce computerised embroideries"/>
+      <unit id="LMTDE3004A" title="Generate artwork for computerised embroideries"/>
+      <unit id="LMTDE3005A" title="Replicate traditional hand craft techniques "/>
+      <unit id="LMTDE3006A" title="Digitise text to produce embroidered lettering"/>
+      <unit id="LMTDE3007A" title="Demonstrate features of digitised embroidery machines"/>
+      <unit id="LMTDE3008A" title="Produce embroidery from digitised images"/>
+      <unit id="LMTDE3009A" title="Maintain computerised embroidery machines"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTTX3017A" title="Set up, adjust and maintain industrial sewing machines"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP382A" title="Provide coaching_mentoring in the workplace"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT31110" title="Certificate III in Laundry Operations">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL3004B" title="Press whole garments"/>
+      <unit id="LMTDC2001A" title="Provide customer service in a dry cleaning or laundry enterprise"/>
+      <unit id="LMTDC2007A" title="Receive and sort articles for cleaning"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTLA2001A" title="Conduct safe handling of laundry chemicals"/>
+      <unit id="LMTLA2002A" title="Operate washing machines"/>
+      <unit id="LMTLA2003A" title="Control washing extractor operation"/>
+      <unit id="LMTLA2004A" title="Perform linen rewash"/>
+      <unit id="LMTLA2005A" title="Operate hydro extractor"/>
+      <unit id="LMTLA2006A" title="Perform conditioning and drying processes"/>
+      <unit id="LMTLA2007A" title="Finish products for despatch"/>
+      <unit id="LMTLA2008A" title="Repair damaged laundry items"/>
+      <unit id="LMTLA2009A" title="Inspect, fold and pack theatre linen"/>
+      <unit id="LMTLA2010A" title="Prepare products for storage or despatch"/>
+      <unit id="LMTLA2011A" title="Apply infection control policies and procedures in laundry operations"/>
+      <unit id="LMTLA3001A" title="Perform advanced laundry operations"/>
+      <unit id="LMTLA3002A" title="Determine linen rental requirements"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP382A" title="Provide coaching_mentoring in the workplace"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT31407" title="Certificate III in Applied Fashion Design and Technology">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3002B" title="Prepare and produce sewn garment"/>
+      <unit id="LMTCL3003B" title="Perform garment repairs and alterations"/>
+      <unit id="LMTCL3006B" title="Assemble bra or swimwear"/>
+      <unit id="LMTCL3007B" title="Embellish garment by hand or machine"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTFD2001B" title="Design and produce a simple garment"/>
+      <unit id="LMTFD2002B" title="Apply printing techniques to produce indigenous textile designs"/>
+      <unit id="LMTFD2003B" title="Apply dyeing techniques to produce indigenous textile designs"/>
+      <unit id="LMTFD2004B" title="Work within an indigenous cultural framework"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTFD3002B" title="Design and produce indigenous printed textiles to a brief"/>
+      <unit id="LMTFD3003B" title="Prepare design concept for a simple garment"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30907" title="Certificate III in Leather Production">
+    <units>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="LMTHL2001A" title="Undertake receival, storage, handling and preservation of materials or products"/>
+      <unit id="LMTHL2002A" title="Perform fellmongering processes"/>
+      <unit id="LMTHL2003A" title="Operate machines to prepare hides or skins for tanning"/>
+      <unit id="LMTHL2004A" title="Prepare chemicals to a formula"/>
+      <unit id="LMTHL2006A" title="Use drum or vessel to prepare or tan hides or skins"/>
+      <unit id="LMTHL2007A" title="Operate machines to crust hides, skins or leather"/>
+      <unit id="LMTHL2008A" title="Use drum or vessel to crust hides, skins or leather"/>
+      <unit id="LMTHL2009A" title="Perform drying operations"/>
+      <unit id="LMTHL2010A" title="Finish hides, skins or leather"/>
+      <unit id="LMTHL2011A" title="Trim hides, skins or leather"/>
+      <unit id="LMTHL2012A" title="Sort, grade or class hides, skins or leather"/>
+      <unit id="LMTHL3001A" title="Determine suitability of hide, skin and leather for leather goods"/>
+      <unit id="LMTHL3002A" title="Determine tanning requirements for hide, skin and leather"/>
+      <unit id="LMTLG2000A" title="Skive leather pieces"/>
+      <unit id="LMTLG2001A" title="Cut by machine"/>
+      <unit id="LMTLG2002A" title="Sew leather by machine"/>
+      <unit id="LMTLG2003A" title="Perform table work"/>
+      <unit id="LMTLG2004A" title="Operate leather production machines"/>
+      <unit id="LMTLG2005A" title="Split leather pieces"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="LMTLG3001A" title="Make a prototype"/>
+      <unit id="LMTLG3002A" title="Cut leather by hand"/>
+      <unit id="LMTLG3003A" title="Sew leather by hand"/>
+      <unit id="LMTLG3004A" title="Apply finishes to leather products"/>
+      <unit id="LMTLG3005A" title="Grade leather"/>
+      <unit id="LMTLG3006A" title="Apply pattern specifications to saddlery products"/>
+      <unit id="LMTLG3007A" title="Assemble saddle components"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30607" title="Certificate III in Millinery">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTML2001A" title="Identify materials used in millinery"/>
+      <unit id="LMTML2002A" title="Make flat patterns for millinery"/>
+      <unit id="LMTML2003A" title="Produce and attach millinery trims"/>
+      <unit id="LMTML2004A" title="Produce felt for millinery"/>
+      <unit id="LMTML2005A" title="Place and cut millinery patterns"/>
+      <unit id="LMTML2006A" title="Use millinery steaming and pressing equipment"/>
+      <unit id="LMTML2007A" title="Block and shape millinery by hand"/>
+      <unit id="LMTML2008A" title="Assemble simple blocked millinery components"/>
+      <unit id="LMTML2009A" title="Apply millinery sewing and adhesion techniques"/>
+      <unit id="LMTML2010A" title="Make millinery with flat pattern components"/>
+      <unit id="LMTML3001A" title="Make flat patterns from hat blocks"/>
+      <unit id="LMTML3002A" title="Block and shape complex millinery"/>
+      <unit id="LMTML3003A" title="Make millinery using patterns derived from hat block"/>
+      <unit id="LMTML3004A" title="Identify performance and handling requirements of millinery materials"/>
+      <unit id="LMTML3005A" title="Use skin, fur or leather in millinery products"/>
+      <unit id="LMTML3006A" title="Assemble complex blocked millinery components"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30107" title="Certificate III in Textile Production">
+    <units>
+      <unit id="LMTEW2001A" title="Blend and open greasy wool"/>
+      <unit id="LMTEW2002A" title="Press and dump wool"/>
+      <unit id="LMTEW2004A" title="Perform wool combing"/>
+      <unit id="LMTEW2005A" title="Perform wool preparation using gilling machines"/>
+      <unit id="LMTEW2006A" title="Perform wool finishing"/>
+      <unit id="LMTEW2007A" title="Perform wool pressing operations"/>
+      <unit id="LMTEW2008A" title="Perform wool backwash process"/>
+      <unit id="LMTEW2009A" title="Perform wool scouring"/>
+      <unit id="LMTEW2010A" title="Perform wool carbonising"/>
+      <unit id="LMTEW2011A" title="Perform wool superwash"/>
+      <unit id="LMTEW2012A" title="Perform tests to check wool quality"/>
+      <unit id="LMTEW2013A" title="Perform wool grease recovery and monitor waste disposal"/>
+      <unit id="LMTEW2014A" title="Perform machine setting and operational maintenance"/>
+      <unit id="LMTEW2015A" title="Perform wool store operations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX2003B" title="Perform spinning operations"/>
+      <unit id="LMTTX2004B" title="Perform tufting operations"/>
+      <unit id="LMTTX2005B" title="Perform creeling operations"/>
+      <unit id="LMTTX2006B" title="Operate a weaving loom"/>
+      <unit id="LMTTX2007B" title="Perform knitting operations"/>
+      <unit id="LMTTX2008B" title="Apply finishing processes to textile production"/>
+      <unit id="LMTTX2009B" title="Weigh and check textile materials and products"/>
+      <unit id="LMTTX2010B" title="Load and operate dyeing equipment"/>
+      <unit id="LMTTX2011B" title="Repair textile product"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2013B" title="Conduct packaging or folding for textile production"/>
+      <unit id="LMTTX2014B" title="Use specialised machinery to assist textile production"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX2016B" title="Perform knotting for weaving operations"/>
+      <unit id="LMTTX2017B" title="Access and use information resources for textile production operations"/>
+      <unit id="LMTTX2018B" title="Restart machine after stoppage"/>
+      <unit id="LMTTX2019B" title="Undertake carding operations"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3002B" title="Contribute to textile production process improvements"/>
+      <unit id="LMTTX3004B" title="Set up textile production machines for product change"/>
+      <unit id="LMTTX3005B" title="Organise and interpret tests"/>
+      <unit id="LMTTX3006B" title="Ensure efficient operation of textile machines"/>
+      <unit id="LMTTX3007B" title="Prepare dyes for textile production"/>
+      <unit id="LMTTX3008B" title="Select raw materials"/>
+      <unit id="LMTTX3009B" title="Operate in a complex textile production environment"/>
+      <unit id="LMTTX3010B" title="Monitor textile production processes"/>
+      <unit id="LMTTX3011A" title="Set up, adjust and maintain circular knitting machines"/>
+      <unit id="LMTTX3012A" title="Set up, adjust and maintain flat knitting machines"/>
+      <unit id="LMTTX3013A" title="Set up, adjust and maintain spinning machines"/>
+      <unit id="LMTTX3014A" title="Set up, adjust and maintain carding machines"/>
+      <unit id="LMTTX3015A" title="Set up, adjust and maintain tufting looms"/>
+      <unit id="LMTTX3016A" title="Set up, adjust and maintain domestic sewing machines"/>
+      <unit id="LMTTX3017A" title="Set up, adjust and maintain industrial sewing machines"/>
+      <unit id="LMTTX3018A" title="Undertake electronic fault finding on textile machinery"/>
+      <unit id="LMTTX3019A" title="Identify and correct mechanical faults in loom and other weaving equipment"/>
+      <unit id="LMTTX3020A" title="Identify and correct weaving process faults"/>
+      <unit id="LMTTX3021A" title="Apply knowledge of weaving processes to production requirements"/>
+      <unit id="LMTTX3022A" title="Set up and operate weaving looms for production"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30707" title="Certificate III in Footwear Production">
+    <units>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFP2002B" title="Perform stuff cutting"/>
+      <unit id="LMTFP2003B" title="Cut printed materials by machine"/>
+      <unit id="LMTFP2004B" title="Cut non-printed leather by machine"/>
+      <unit id="LMTFP2005B" title="Operate machine to sew upper"/>
+      <unit id="LMTFP2006B" title="Machine upper according to product requirements"/>
+      <unit id="LMTFP2007B" title="Last shoe by machine"/>
+      <unit id="LMTFP2008B" title="Perform moulding operations"/>
+      <unit id="LMTFP2009B" title="Perform footwear finishing operations"/>
+      <unit id="LMTFP2010B" title="Repair footwear product"/>
+      <unit id="LMTFP2011B" title="Perform table-based operations"/>
+      <unit id="LMTFP3001B" title="Cut leather by hand"/>
+      <unit id="LMTFP3002B" title="Hand last shoe"/>
+      <unit id="LMTFP3003B" title="Assemble shoe by hand"/>
+      <unit id="LMTFP3004B" title="Contribute to footwear production improvement processes"/>
+      <unit id="LMTFP3005B" title="Supervise footwear production operations"/>
+      <unit id="LMTFP3006B" title="Apply foot anatomy principles to footwear production"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTLG3005A" title="Grade leather"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30807" title="Certificate III in Footwear Repair">
+    <units>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFR2001A" title="Assess and cost footwear repair job"/>
+      <unit id="LMTFR2002A" title="Supply and fit new heel block"/>
+      <unit id="LMTFR2003A" title="Attach non-slip sole or heel top piece"/>
+      <unit id="LMTFR2004A" title="Replace half leather sole"/>
+      <unit id="LMTFR2005A" title="Sew or patch by machine"/>
+      <unit id="LMTFR3001A" title="Replace full sole and heel"/>
+      <unit id="LMTFR3002A" title="Operate sole stitcher"/>
+      <unit id="LMTFR3003A" title="Hand sew welt"/>
+      <unit id="LMTFR3004A" title="Re-cover footwear"/>
+      <unit id="LMTFR3005A" title="Dye footwear or leather product"/>
+      <unit id="LMTFR3006A" title="Undertake specialised footwear repair techniques"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM19006B" title="Replace watch batteries"/>
+      <unit id="MEM19014B" title="Perform hand engraving"/>
+      <unit id="MEM20001A" title="Produce keys"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT30407" title="Certificate III in Textile Fabrication">
+    <units>
+      <unit id="AHCLSC308A" title="Install metal structures and features"/>
+      <unit id="CPCCCM2002A" title="Carry out excavation"/>
+      <unit id="CPCCCO2013A" title="Carry out concreting to simple forms"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTLG2006A" title="Identify materials used in leather goods production"/>
+      <unit id="LMTLG3001A" title="Make a prototype"/>
+      <unit id="LMTTF2001A" title="Despatch products"/>
+      <unit id="LMTTF2003A" title="Package and handle products for despatch"/>
+      <unit id="LMTTF2004A" title="Add reinforcements and attachments"/>
+      <unit id="LMTTF2005A" title="Translate information into measurements or diagrams"/>
+      <unit id="LMTTF2006A" title="Measure and scale geometric shapes"/>
+      <unit id="LMTTF2007A" title="Produce patterns for 2D products"/>
+      <unit id="LMTTF2008A" title="Use adhesives"/>
+      <unit id="LMTTF2009A" title="Identify and select canvas and sail materials"/>
+      <unit id="LMTTF2010A" title="Lay out and mark out canvas or sail materials"/>
+      <unit id="LMTTF2011A" title="Cut and shape canvas or sail materials"/>
+      <unit id="LMTTF2012A" title="Stitch by hand"/>
+      <unit id="LMTTF2013A" title="Waterproof canvas products"/>
+      <unit id="LMTTF2014A" title="Weld plastic materials"/>
+      <unit id="LMTTF2016A" title="Install products on and off site"/>
+      <unit id="LMTTF2017A" title="Cut, bend and shape metal"/>
+      <unit id="LMTTF2018A" title="Use canvas and sail production tools"/>
+      <unit id="LMTTF2019A" title="Inspect canvas or sail product"/>
+      <unit id="LMTTF3001A" title="Identify customer requirements (on site)"/>
+      <unit id="LMTTF3002A" title="Gain customer acceptance of service proposal"/>
+      <unit id="LMTTF3003A" title="Produce patterns for 3D products"/>
+      <unit id="LMTTF3004A" title="Perform advanced welding of plastic materials"/>
+      <unit id="LMTTF3005A" title="Apply lofting skills to sail making"/>
+      <unit id="LMTTF3006A" title="Cut and join sail panels"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT31909" title="Certificate III in Engineering - TCF Mechanic">
+    <units>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2002B" title="Prepare yarn for textile manufacturing"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3002B" title="Contribute to textile production process improvements"/>
+      <unit id="LMTTX3011A" title="Set up, adjust and maintain circular knitting machines"/>
+      <unit id="LMTTX3012A" title="Set up, adjust and maintain flat knitting machines"/>
+      <unit id="LMTTX3013A" title="Set up, adjust and maintain spinning machines"/>
+    </units>
+  </qualification>
+  <qualification id="LMT41207" title="Certificate IV in Fashion and Textiles Merchandising">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINT301B" title="Apply knowledge of the international trade environment to complete work"/>
+      <unit id="BSBINT302B" title="Apply knowledge of legislation relevant to international trade to complete work"/>
+      <unit id="BSBINT305B" title="Prepare business documents for the international trade of goods"/>
+      <unit id="BSBINT306B" title="Apply knowledge of international finance and insurance to complete work requirements"/>
+      <unit id="BSBINT405B" title="Apply knowledge of import and export international conventions, laws and finance"/>
+      <unit id="BSBINT408B" title="Prepare business advice on the taxes and duties for international trade transactions"/>
+      <unit id="BSBINT409B" title="Plan for international trade"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBREL403A" title="Implement international client relationship strategies"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN4018A" title="Apply textile clothing and footwear market supply systems"/>
+      <unit id="LMTGN4019A" title="Analyse textiles, clothing and footwear merchandising and marketing principles"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT40107" title="Certificate IV in Textile Technology and Production">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3006B" title="Take responsibility for visitors and new employees"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN4001A" title="Coordinate or set up machines for product change"/>
+    </units>
+  </qualification>
+  <qualification id="LMT40810" title="Certificate IV in Laundry Operations and Supervision">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL3004B" title="Press whole garments"/>
+      <unit id="LMTDC2001A" title="Provide customer service in a dry cleaning or laundry enterprise"/>
+      <unit id="LMTDC2007A" title="Receive and sort articles for cleaning"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN4005A" title="Plan and implement production within a work area"/>
+      <unit id="LMTGN4006A" title="Evaluate equipment and systems"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTGN4011A" title="Coordinate the quality system and procedures"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTLA2001A" title="Conduct safe handling of laundry chemicals"/>
+      <unit id="LMTLA2002A" title="Operate washing machines"/>
+      <unit id="LMTLA2003A" title="Control washing extractor operation"/>
+      <unit id="LMTLA2004A" title="Perform linen rewash"/>
+      <unit id="LMTLA2005A" title="Operate hydro extractor"/>
+      <unit id="LMTLA2006A" title="Perform conditioning and drying processes"/>
+      <unit id="LMTLA2007A" title="Finish products for despatch"/>
+      <unit id="LMTLA2008A" title="Repair damaged laundry items"/>
+      <unit id="LMTLA2009A" title="Inspect, fold and pack theatre linen"/>
+      <unit id="LMTLA2010A" title="Prepare products for storage or despatch"/>
+      <unit id="LMTLA2011A" title="Apply infection control policies and procedures in laundry operations"/>
+      <unit id="LMTLA3001A" title="Perform advanced laundry operations"/>
+      <unit id="LMTLA3002A" title="Determine linen rental requirements"/>
+      <unit id="LMTLA4001A" title="Monitor compliance with industry standards and regulations"/>
+      <unit id="LMTLA4002A" title="Program and monitor commercial laundry machine control systems"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT40907" title="Certificate IV in Supply and Fitting of Pre-manufactured Medical Grade Footwear">
+    <units>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="LMTMF4001A" title="Select and adjust pre-fabricated footwear-related orthoses"/>
+      <unit id="LMTMF4002A" title="Conduct medical grade footwear assessments for clients with footwear-related medical conditions"/>
+      <unit id="LMTMF4003A" title="Modify medical grade footwear"/>
+      <unit id="LMTMF4004A" title="Select and adjust pre-fabricated medical grade footwear and accessories"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMT40207" title="Certificate IV in Cotton Ginning">
+    <units>
+      <unit id="FNSACC402A" title="Prepare operational budgets"/>
+      <unit id="LMTCG2001A" title="Identify cotton characteristics"/>
+      <unit id="LMTCG2002A" title="Gin Cotton"/>
+      <unit id="LMTCG2003A" title="Control bale or mote press operations"/>
+      <unit id="LMTCG3001A" title="Identify factors that impact on cotton quality"/>
+      <unit id="LMTCG3002A" title="Perform advanced operational maintenance of cotton ginning machines and equipment"/>
+      <unit id="LMTCG3003A" title="Assist in overhauling or repairing cotton ginning fluid power equipment"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05008C" title="Perform advanced manual thermal cutting, gouging and shaping"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM18005B" title="Perform fault diagnosis, installation and removal of bearings"/>
+      <unit id="MEM18006C" title="Repair and fit engineering components"/>
+      <unit id="MEM18008B" title="Balance equipment"/>
+      <unit id="MEM18009B" title="Perform levelling and alignment of machines and engineering components"/>
+      <unit id="MEM18018C" title="Maintain pneumatic system components"/>
+      <unit id="MEM18019B" title="Maintain pneumatic systems"/>
+      <unit id="MEM18049B" title="Disconnect/reconnect fixed wired equipment up to 1000 volts a.c./1500 volts d.c."/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT40707" title="Certificate IV in Millinery">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL2018B" title="Perform basic maintenance of headwear"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTML2001A" title="Identify materials used in millinery"/>
+      <unit id="LMTML2002A" title="Make flat patterns for millinery"/>
+      <unit id="LMTML2003A" title="Produce and attach millinery trims"/>
+      <unit id="LMTML2004A" title="Produce felt for millinery"/>
+      <unit id="LMTML2005A" title="Place and cut millinery patterns"/>
+      <unit id="LMTML2006A" title="Use millinery steaming and pressing equipment"/>
+      <unit id="LMTML2007A" title="Block and shape millinery by hand"/>
+      <unit id="LMTML2008A" title="Assemble simple blocked millinery components"/>
+      <unit id="LMTML2009A" title="Apply millinery sewing and adhesion techniques"/>
+      <unit id="LMTML2010A" title="Make millinery with flat pattern components"/>
+      <unit id="LMTML3001A" title="Make flat patterns from hat blocks"/>
+      <unit id="LMTML3002A" title="Block and shape complex millinery"/>
+      <unit id="LMTML3003A" title="Make millinery using patterns derived from hat block"/>
+      <unit id="LMTML3004A" title="Identify performance and handling requirements of millinery materials"/>
+      <unit id="LMTML3005A" title="Use skin, fur or leather in millinery products"/>
+      <unit id="LMTML3006A" title="Assemble complex blocked millinery components"/>
+      <unit id="LMTML4001A" title="Undertake specific millinery construction techniques"/>
+      <unit id="LMTML4002A" title="Rejuvenate millinery"/>
+      <unit id="LMTML4003A" title="Present and display millinery"/>
+      <unit id="LMTML4004A" title="Manage millinery procurement and cost millinery products"/>
+      <unit id="LMTML4005A" title="Undertake initial millinery consultation, subsequent fittings and finishing"/>
+      <unit id="LMTML4006A" title="Sketch and prepare millinery fashion designs"/>
+      <unit id="LMTML4007A" title="Make millinery patterns"/>
+      <unit id="LMTML4008A" title="Undertake couture millinery"/>
+      <unit id="LMTML4009A" title="Modify millinery blocks to make new shapes"/>
+      <unit id="LMTML4010A" title="Make couture trims"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT41007" title="Certificate IV in Applied Fashion Design and Technology">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3008B" title="Set and produce digital embroidery"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTCL3010B" title="Sew woven and stretch knit garments"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4001B" title="Apply design studio process"/>
+      <unit id="LMTFD4002B" title="Apply principles of colour theory to fashion design development"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4007B" title="Conduct quality assurance for patterns and garments"/>
+      <unit id="LMTFD4008B" title="Construct stock size block for garment to meet size and fit specifications"/>
+      <unit id="LMTFD4009B" title="Create and edit digital embroidery designs"/>
+      <unit id="LMTFD4010B" title="Create pattern to meet design specifications applying advanced pattern-making principles"/>
+      <unit id="LMTFD4011B" title="Cut fabrics for prototype designs"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4013B" title="Grade 2D patterns"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4015B" title="Create pattern from block to meet customer specifications"/>
+      <unit id="LMTFD4016B" title="Sew design prototypes"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4019B" title="Use colourisation techniques on fabrics"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTFD4021B" title="Drape fabrics to make patterns"/>
+      <unit id="LMTFD5003B" title="Analyse fit model"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT40407" title="Certificate IV in Custom-made Footwear">
+    <units>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFP2001B" title="Identify materials used in footwear production"/>
+      <unit id="LMTFP2002B" title="Perform stuff cutting"/>
+      <unit id="LMTFP2003B" title="Cut printed materials by machine"/>
+      <unit id="LMTFP2004B" title="Cut non-printed leather by machine"/>
+      <unit id="LMTFP2005B" title="Operate machine to sew upper"/>
+      <unit id="LMTFP2006B" title="Machine upper according to product requirements"/>
+      <unit id="LMTFP2007B" title="Last shoe by machine"/>
+      <unit id="LMTFP2008B" title="Perform moulding operations"/>
+      <unit id="LMTFP2009B" title="Perform footwear finishing operations"/>
+      <unit id="LMTFP2010B" title="Repair footwear product"/>
+      <unit id="LMTFP2011B" title="Perform table-based operations"/>
+      <unit id="LMTFP3001B" title="Cut leather by hand"/>
+      <unit id="LMTFP3002B" title="Hand last shoe"/>
+      <unit id="LMTFP3003B" title="Assemble shoe by hand"/>
+      <unit id="LMTFP3004B" title="Contribute to footwear production improvement processes"/>
+      <unit id="LMTFP3005B" title="Supervise footwear production operations"/>
+      <unit id="LMTFP3006B" title="Apply foot anatomy principles to footwear production"/>
+      <unit id="LMTFP4001A" title="Develop design for custom made footwear"/>
+      <unit id="LMTFP4002A" title="Make patterns for custom-made footwear"/>
+      <unit id="LMTFP4003A" title="Prepare, cut and sew custom-made shoe components"/>
+      <unit id="LMTFP4004A" title="Assemble and finish custom-made shoe"/>
+      <unit id="LMTFP4005A" title="Fit custom-made footwear"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2004B" title="Work in a team environment"/>
+      <unit id="LMTGN2005B" title="Perform minor maintenance"/>
+      <unit id="LMTGN2006B" title="Perform test or inspection to check product quality"/>
+      <unit id="LMTGN2007B" title="Select, transfer and remove materials and products"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN2010B" title="Perform tasks to support production"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTGN4001A" title="Coordinate or set up machines for product change"/>
+      <unit id="LMTGN4002A" title="Participate in product engineering"/>
+      <unit id="LMTGN4005A" title="Plan and implement production within a work area"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTGN4011A" title="Coordinate the quality system and procedures"/>
+      <unit id="LMTGN4012A" title="Fabricate or machine tooling"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="LMTLG2000A" title="Skive leather pieces"/>
+      <unit id="LMTLG3005A" title="Grade leather"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT41107" title="Certificate IV in Textile Design and Development">
+    <units>
+      <unit id="CUVDRA201A" title="Develop drawing skills"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTGN4008A" title="Analyse product and determine machine settings"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="LMTTD4001A" title="Produce knitted textile samples"/>
+      <unit id="LMTTD4003A" title="Produce woven textile samples"/>
+      <unit id="LMTTD4004A" title="Produce woven tapestry samples"/>
+      <unit id="LMTTD4005A" title="Produce screen printed textiles"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4010A" title="Apply manipulation techniques to create experimental textile samples"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTD4012A" title="Analyse use of colour in textiles"/>
+      <unit id="LMTTD4013A" title="Prepare stencils and screens for textile printing"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3008B" title="Select raw materials"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="LMTTX4004A" title="Select dyes and develop dye specification and recipe for production"/>
+      <unit id="LMTTX4005A" title="Undertake textile colouration and finishing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT40307" title="Certificate IV in Clothing Production">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2002B" title="Provide hand sewing and finishing support"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2005B" title="Use specialised machinery or processes to assist assembly production"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2007B" title="Lay up, mark and cut uncomplicated fabrics and lays"/>
+      <unit id="LMTCL2008B" title="Finish garment production"/>
+      <unit id="LMTCL2009B" title="Despatch work"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+    </units>
+  </qualification>
+  <qualification id="LMT50507" title="Diploma of Textile Design and Development">
+    <units>
+      <unit id="CUVACD301A" title="Produce drawings to communicate ideas"/>
+      <unit id="CUVDRA201A" title="Develop drawing skills"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTGN4008A" title="Analyse product and determine machine settings"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="LMTGN4019A" title="Analyse textiles, clothing and footwear merchandising and marketing principles"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5008A" title="Identify opportunities in the textiles, clothing and footwear market"/>
+      <unit id="LMTTD4001A" title="Produce knitted textile samples"/>
+      <unit id="LMTTD4003A" title="Produce woven textile samples"/>
+      <unit id="LMTTD4004A" title="Produce woven tapestry samples"/>
+      <unit id="LMTTD4005A" title="Produce screen printed textiles"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4010A" title="Apply manipulation techniques to create experimental textile samples"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTD4012A" title="Analyse use of colour in textiles"/>
+      <unit id="LMTTD4013A" title="Prepare stencils and screens for textile printing"/>
+      <unit id="LMTTD5001A" title="Design and produce knitted textile products"/>
+      <unit id="LMTTD5002A" title="Design and produce woven tapestry products"/>
+      <unit id="LMTTD5003A" title="Design and produce woven products"/>
+      <unit id="LMTTD5004A" title="Design and produce experimental textiles"/>
+      <unit id="LMTTD5005A" title="Design and Produce printed textiles"/>
+      <unit id="LMTTD5006A" title="Exhibit textile designs or products"/>
+      <unit id="LMTTD5007A" title="Develop textile designs using computer based design programs"/>
+      <unit id="LMTTD5008A" title="Develop textile designs and specifications"/>
+      <unit id="LMTTD5009A" title="Cost production of textile designs"/>
+      <unit id="LMTTD5010A" title="Produce computer aided textile design folios"/>
+      <unit id="LMTTD5011A" title="Produce printed designs on woven and non-woven substrates"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3008B" title="Select raw materials"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="LMTTX4004A" title="Select dyes and develop dye specification and recipe for production"/>
+      <unit id="LMTTX4005A" title="Undertake textile colouration and finishing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT50307" title="Diploma of Applied Fashion Design and Technology">
+    <units>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4001B" title="Apply design studio process"/>
+      <unit id="LMTFD4002B" title="Apply principles of colour theory to fashion design development"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4007B" title="Conduct quality assurance for patterns and garments"/>
+      <unit id="LMTFD4008B" title="Construct stock size block for garment to meet size and fit specifications"/>
+      <unit id="LMTFD4010B" title="Create pattern to meet design specifications applying advanced pattern-making principles"/>
+      <unit id="LMTFD4011B" title="Cut fabrics for prototype designs"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4013B" title="Grade 2D patterns"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4015B" title="Create pattern from block to meet customer specifications"/>
+      <unit id="LMTFD4016B" title="Sew design prototypes"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTFD4021B" title="Drape fabrics to make patterns"/>
+      <unit id="LMTFD5001B" title="Design bras and swimwear"/>
+      <unit id="LMTFD5002B" title="Develop and test patterns for bras and swimwear"/>
+      <unit id="LMTFD5003B" title="Analyse fit model"/>
+      <unit id="LMTFD5004B" title="Develop marketing plans for fashion products"/>
+      <unit id="LMTFD5005B" title="Manipulate fabrics to create new finishes"/>
+      <unit id="LMTFD5006B" title="Evaluate fashion designs against set criteria"/>
+      <unit id="LMTFD5007B" title="Analyse influences on contemporary fashion designs"/>
+      <unit id="LMTFD5008B" title="Conduct fashion design purchasing"/>
+      <unit id="LMTFD5009B" title="Cost design production"/>
+      <unit id="LMTFD5010B" title="Develop and present design concepts within specific guidelines"/>
+      <unit id="LMTFD5011B" title="Produce fashion illustrations"/>
+      <unit id="LMTFD5012B" title="Perform contour draping"/>
+      <unit id="LMTFD5013B" title="Develop merchandising plans for fashion products"/>
+      <unit id="LMTFD5014B" title="Construct complex blocks for fashion garments"/>
+      <unit id="LMTFD5015B" title="Develop patterns for complex fashion garments"/>
+      <unit id="LMTFD5016B" title="Grade shaped patterns"/>
+      <unit id="LMTFD5017B" title="Apply design studio processes to meet client brief"/>
+      <unit id="LMTFD5018B" title="Determine and specify advanced construction processes"/>
+      <unit id="LMTFD5019B" title="Analyse individual fit and make pattern alterations"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5003B" title="Work with international textiles, clothing and footwear supply chains"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT50407" title="Diploma of Textile Technology and Production Management">
+    <units>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTGN2002B" title="Apply quality standards"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3001B" title="Control production in a section of a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3005B" title="Plan tasks to assist production operations"/>
+      <unit id="LMTGN3006B" title="Take responsibility for visitors and new employees"/>
+      <unit id="LMTGN3009B" title="Supervise operations in a textiles, clothing and footwear enterprise"/>
+      <unit id="LMTGN4001A" title="Coordinate or set up machines for product change"/>
+    </units>
+  </qualification>
+  <qualification id="LMT50207" title="Diploma of Medical Grade Footwear">
+    <units>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="LMTMF4001A" title="Select and adjust pre-fabricated footwear-related orthoses"/>
+      <unit id="LMTMF4002A" title="Conduct medical grade footwear assessments for clients with footwear-related medical conditions"/>
+      <unit id="LMTMF4003A" title="Modify medical grade footwear"/>
+      <unit id="LMTMF4004A" title="Select and adjust pre-fabricated medical grade footwear and accessories"/>
+      <unit id="LMTMF5001A" title="Select, produce and adjust casts for accommodative orthoses"/>
+      <unit id="LMTMF5002A" title="Fit, trial and review medical grade footwear and orthoses (up to medium complexity and risk conditions)"/>
+      <unit id="LMTMF5003A" title="Produce accommodative orthoses"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMT50607" title="Diploma of Fashion and Textiles Merchandising">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINT301B" title="Apply knowledge of the international trade environment to complete work"/>
+      <unit id="BSBINT302B" title="Apply knowledge of legislation relevant to international trade to complete work"/>
+      <unit id="BSBINT305B" title="Prepare business documents for the international trade of goods"/>
+      <unit id="BSBINT306B" title="Apply knowledge of international finance and insurance to complete work requirements"/>
+      <unit id="BSBINT405B" title="Apply knowledge of import and export international conventions, laws and finance"/>
+      <unit id="BSBINT408B" title="Prepare business advice on the taxes and duties for international trade transactions"/>
+      <unit id="BSBINT409B" title="Plan for international trade"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBREL403A" title="Implement international client relationship strategies"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTFD5004B" title="Develop marketing plans for fashion products"/>
+      <unit id="LMTFD5006B" title="Evaluate fashion designs against set criteria"/>
+      <unit id="LMTFD5007B" title="Analyse influences on contemporary fashion designs"/>
+      <unit id="LMTFD5008B" title="Conduct fashion design purchasing"/>
+      <unit id="LMTFD5009B" title="Cost design production"/>
+      <unit id="LMTFD5010B" title="Develop and present design concepts within specific guidelines"/>
+      <unit id="LMTFD5013B" title="Develop merchandising plans for fashion products"/>
+      <unit id="LMTFD5018B" title="Determine and specify advanced construction processes"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN4018A" title="Apply textile clothing and footwear market supply systems"/>
+      <unit id="LMTGN4019A" title="Analyse textiles, clothing and footwear merchandising and marketing principles"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5003B" title="Work with international textiles, clothing and footwear supply chains"/>
+      <unit id="LMTGN5005A" title="Provide global operations support"/>
+      <unit id="LMTGN5008A" title="Identify opportunities in the textiles, clothing and footwear market"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTD5006A" title="Exhibit textile designs or products"/>
+      <unit id="LMTTD5007A" title="Develop textile designs using computer based design programs"/>
+      <unit id="LMTTD5008A" title="Develop textile designs and specifications"/>
+      <unit id="LMTTD5009A" title="Cost production of textile designs"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT60507" title="Advanced Diploma of Fashion and Textiles Merchandising">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINT301B" title="Apply knowledge of the international trade environment to complete work"/>
+      <unit id="BSBINT302B" title="Apply knowledge of legislation relevant to international trade to complete work"/>
+      <unit id="BSBINT305B" title="Prepare business documents for the international trade of goods"/>
+      <unit id="BSBINT306B" title="Apply knowledge of international finance and insurance to complete work requirements"/>
+      <unit id="BSBINT405B" title="Apply knowledge of import and export international conventions, laws and finance"/>
+      <unit id="BSBINT408B" title="Prepare business advice on the taxes and duties for international trade transactions"/>
+      <unit id="BSBINT409B" title="Plan for international trade"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG408B" title="Conduct market research"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBMKG415A" title="Research international markets"/>
+      <unit id="BSBMKG416A" title="Market goods and services internationally"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="BSBMKG606B" title="Manage international marketing programs"/>
+      <unit id="BSBMKG607B" title="Manage market research"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBREL403A" title="Implement international client relationship strategies"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTDC2010A" title="Identify fabric and garment cleaning requirements"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTFD5004B" title="Develop marketing plans for fashion products"/>
+      <unit id="LMTFD5006B" title="Evaluate fashion designs against set criteria"/>
+      <unit id="LMTFD5007B" title="Analyse influences on contemporary fashion designs"/>
+      <unit id="LMTFD5008B" title="Conduct fashion design purchasing"/>
+      <unit id="LMTFD5009B" title="Cost design production"/>
+      <unit id="LMTFD5010B" title="Develop and present design concepts within specific guidelines"/>
+      <unit id="LMTFD5013B" title="Develop merchandising plans for fashion products"/>
+      <unit id="LMTFD5018B" title="Determine and specify advanced construction processes"/>
+      <unit id="LMTFD6006B" title="Develop a fashion range"/>
+      <unit id="LMTFD6009B" title="Analyse fashion industry textiles to guide commercial development"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN4018A" title="Apply textile clothing and footwear market supply systems"/>
+      <unit id="LMTGN4019A" title="Analyse textiles, clothing and footwear merchandising and marketing principles"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5003B" title="Work with international textiles, clothing and footwear supply chains"/>
+      <unit id="LMTGN5005A" title="Provide global operations support"/>
+      <unit id="LMTGN5008A" title="Identify opportunities in the textiles, clothing and footwear market"/>
+      <unit id="LMTGN6001B" title="Develop and implement a sales or marketing plan"/>
+      <unit id="LMTGN6003B" title="Research and evaluate processes and products"/>
+      <unit id="LMTGN6004B" title="Negotiate and manage contracts to produce finished design products"/>
+      <unit id="LMTGN6006A" title="Map and establish textiles, clothing or footwear supply chain process"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTD5006A" title="Exhibit textile designs or products"/>
+      <unit id="LMTTD5007A" title="Develop textile designs using computer based design programs"/>
+      <unit id="LMTTD5008A" title="Develop textile designs and specifications"/>
+      <unit id="LMTTD5009A" title="Cost production of textile designs"/>
+      <unit id="LMTTD6001A" title="Research commercial development of textiles"/>
+      <unit id="LMTTD6002A" title="Apply electronic systems to textile design and production"/>
+      <unit id="LMTTD6003A" title="Develop a textile product range"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT60407" title="Advanced Diploma of Textile Design and Development">
+    <units>
+      <unit id="CUVACD301A" title="Produce drawings to communicate ideas"/>
+      <unit id="CUVDRA201A" title="Develop drawing skills"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTFD3001B" title="Market design product to local outlets"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD6009B" title="Analyse fashion industry textiles to guide commercial development"/>
+      <unit id="LMTGN2003B" title="Work in the Textiles, Clothing and Footwear industry"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN3002B" title="Organise and plan own work to achieve planned outcomes"/>
+      <unit id="LMTGN3008A" title="Draw 3D designs"/>
+      <unit id="LMTGN4008A" title="Analyse product and determine machine settings"/>
+      <unit id="LMTGN4010A" title="Implement and monitor OHS in the workplace"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="LMTGN4019A" title="Analyse textiles, clothing and footwear merchandising and marketing principles"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5008A" title="Identify opportunities in the textiles, clothing and footwear market"/>
+      <unit id="LMTGN6001B" title="Develop and implement a sales or marketing plan"/>
+      <unit id="LMTGN6003B" title="Research and evaluate processes and products"/>
+      <unit id="LMTGN6004B" title="Negotiate and manage contracts to produce finished design products"/>
+      <unit id="LMTGN6005A" title="Manage production processes"/>
+      <unit id="LMTTD4001A" title="Produce knitted textile samples"/>
+      <unit id="LMTTD4003A" title="Produce woven textile samples"/>
+      <unit id="LMTTD4004A" title="Produce woven tapestry samples"/>
+      <unit id="LMTTD4005A" title="Produce screen printed textiles"/>
+      <unit id="LMTTD4006A" title="Source textile materials and resources"/>
+      <unit id="LMTTD4007A" title="Analyse textile design influences"/>
+      <unit id="LMTTD4008A" title="Present and promote textile design concepts"/>
+      <unit id="LMTTD4009A" title="Assist in the development of textile designs"/>
+      <unit id="LMTTD4010A" title="Apply manipulation techniques to create experimental textile samples"/>
+      <unit id="LMTTD4011A" title="Estimate costs for development of textile designs"/>
+      <unit id="LMTTD4012A" title="Analyse use of colour in textiles"/>
+      <unit id="LMTTD4013A" title="Prepare stencils and screens for textile printing"/>
+      <unit id="LMTTD5001A" title="Design and produce knitted textile products"/>
+      <unit id="LMTTD5002A" title="Design and produce woven tapestry products"/>
+      <unit id="LMTTD5003A" title="Design and produce woven products"/>
+      <unit id="LMTTD5004A" title="Design and produce experimental textiles"/>
+      <unit id="LMTTD5005A" title="Design and Produce printed textiles"/>
+      <unit id="LMTTD5006A" title="Exhibit textile designs or products"/>
+      <unit id="LMTTD5007A" title="Develop textile designs using computer based design programs"/>
+      <unit id="LMTTD5008A" title="Develop textile designs and specifications"/>
+      <unit id="LMTTD5009A" title="Cost production of textile designs"/>
+      <unit id="LMTTD5010A" title="Produce computer aided textile design folios"/>
+      <unit id="LMTTD5011A" title="Produce printed designs on woven and non-woven substrates"/>
+      <unit id="LMTTD6001A" title="Research commercial development of textiles"/>
+      <unit id="LMTTD6002A" title="Apply electronic systems to textile design and production"/>
+      <unit id="LMTTD6003A" title="Develop a textile product range"/>
+      <unit id="LMTTD6004A" title="Create and produce textile designs for commercial production"/>
+      <unit id="LMTTX2001B" title="Identify fibres, yarns and textile materials and their uses in textile production"/>
+      <unit id="LMTTX2012B" title="Perform industrial sewing on textile products"/>
+      <unit id="LMTTX2015B" title="Handle and prepare chemicals, dyes and other substances used in textile production"/>
+      <unit id="LMTTX3001B" title="Identify quality and types of textile fibres, yarns and fabrics"/>
+      <unit id="LMTTX3008B" title="Select raw materials"/>
+      <unit id="LMTTX4001A" title="Interpret and apply textile calculations and specifications"/>
+      <unit id="LMTTX4002A" title="Understand and apply textile science"/>
+      <unit id="LMTTX4003A" title="Perform routine textile testing and analyse results"/>
+      <unit id="LMTTX4004A" title="Select dyes and develop dye specification and recipe for production"/>
+      <unit id="LMTTX4005A" title="Undertake textile colouration and finishing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="LMT60207" title="Advanced Diploma of Medical Grade Footwear">
+    <units>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="LMTCL2012B" title="Organise and plan own work in a home-based production environment"/>
+      <unit id="LMTGN3003B" title="Estimate and cost job"/>
+      <unit id="LMTGN6001B" title="Develop and implement a sales or marketing plan"/>
+      <unit id="LMTLG3005A" title="Grade leather"/>
+      <unit id="LMTMF5001A" title="Select, produce and adjust casts for accommodative orthoses"/>
+      <unit id="LMTMF6001A" title="Conduct comprehensive medical grade footwear assessments for clients with footwear-related medical conditions"/>
+      <unit id="LMTMF6002A" title="Design, evaluate and make patterns for medical grade custom-made footwear"/>
+      <unit id="LMTMF6004A" title="Produce negative and positive casts for lasts and corrective orthoses"/>
+      <unit id="LMTMF6005A" title="Produce custom-made medical grade footwear"/>
+      <unit id="LMTMF6006A" title="Fit, trial and review custom-made medical grade footwear and orthoses (high complexity and risk conditions)"/>
+      <unit id="LMTMF6007A" title="Produce corrective orthoses"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXSLS005A" title="Manage sales and service delivery"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="LMT60307" title="Advanced Diploma of Applied Fashion Design and Technology">
+    <units>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2004B" title="Sew components"/>
+      <unit id="LMTCL2010B" title="Modify patterns to create basic styles"/>
+      <unit id="LMTCL2011B" title="Draw and interpret a basic sketch"/>
+      <unit id="LMTCL3001B" title="Identify fabric performance and handling requirements"/>
+      <unit id="LMTCL3009B" title="Develop patterns from a block using basic patternmaking principles"/>
+      <unit id="LMTFD2005B" title="Identify design process for fashion designs"/>
+      <unit id="LMTFD3004B" title="Draw a trade drawing for fashion design"/>
+      <unit id="LMTFD4001B" title="Apply design studio process"/>
+      <unit id="LMTFD4002B" title="Apply principles of colour theory to fashion design development"/>
+      <unit id="LMTFD4003B" title="Assist in preparation of preliminary design concepts"/>
+      <unit id="LMTFD4004B" title="Calculate cost estimates for fashion products"/>
+      <unit id="LMTFD4005B" title="Communicate and sell design concepts"/>
+      <unit id="LMTFD4006B" title="Interact and network with fashion industry participants"/>
+      <unit id="LMTFD4007B" title="Conduct quality assurance for patterns and garments"/>
+      <unit id="LMTFD4008B" title="Construct stock size block for garment to meet size and fit specifications"/>
+      <unit id="LMTFD4010B" title="Create pattern to meet design specifications applying advanced pattern-making principles"/>
+      <unit id="LMTFD4011B" title="Cut fabrics for prototype designs"/>
+      <unit id="LMTFD4012B" title="Develop product specifications for fashion design"/>
+      <unit id="LMTFD4013B" title="Grade 2D patterns"/>
+      <unit id="LMTFD4014B" title="Identify influences on contemporary fashion designs and construction techniques"/>
+      <unit id="LMTFD4015B" title="Create pattern from block to meet customer specifications"/>
+      <unit id="LMTFD4016B" title="Sew design prototypes"/>
+      <unit id="LMTFD4017B" title="Source materials and resources for production of fashion designs"/>
+      <unit id="LMTFD4018B" title="Use and apply sizing systems appropriate for fashion design"/>
+      <unit id="LMTFD4020B" title="Use electronic fashion design tools"/>
+      <unit id="LMTFD4021B" title="Drape fabrics to make patterns"/>
+      <unit id="LMTFD5001B" title="Design bras and swimwear"/>
+      <unit id="LMTFD5002B" title="Develop and test patterns for bras and swimwear"/>
+      <unit id="LMTFD5003B" title="Analyse fit model"/>
+      <unit id="LMTFD5004B" title="Develop marketing plans for fashion products"/>
+      <unit id="LMTFD5005B" title="Manipulate fabrics to create new finishes"/>
+      <unit id="LMTFD5006B" title="Evaluate fashion designs against set criteria"/>
+      <unit id="LMTFD5007B" title="Analyse influences on contemporary fashion designs"/>
+      <unit id="LMTFD5008B" title="Conduct fashion design purchasing"/>
+      <unit id="LMTFD5009B" title="Cost design production"/>
+      <unit id="LMTFD5010B" title="Develop and present design concepts within specific guidelines"/>
+      <unit id="LMTFD5011B" title="Produce fashion illustrations"/>
+      <unit id="LMTFD5012B" title="Perform contour draping"/>
+      <unit id="LMTFD5013B" title="Develop merchandising plans for fashion products"/>
+      <unit id="LMTFD5014B" title="Construct complex blocks for fashion garments"/>
+      <unit id="LMTFD5015B" title="Develop patterns for complex fashion garments"/>
+      <unit id="LMTFD5016B" title="Grade shaped patterns"/>
+      <unit id="LMTFD5017B" title="Apply design studio processes to meet client brief"/>
+      <unit id="LMTFD5018B" title="Determine and specify advanced construction processes"/>
+      <unit id="LMTFD5019B" title="Analyse individual fit and make pattern alterations"/>
+      <unit id="LMTFD6001B" title="Evaluate commercial viability of designs"/>
+      <unit id="LMTFD6002B" title="Manage product development of fashion designs"/>
+      <unit id="LMTFD6003B" title="Manage fashion design process"/>
+      <unit id="LMTFD6004B" title="Manage advanced pattern making processes"/>
+      <unit id="LMTFD6005B" title="Drape structured over-garments"/>
+      <unit id="LMTFD6006B" title="Develop a fashion range"/>
+      <unit id="LMTFD6007B" title="Implement specialised pattern-making technologies"/>
+      <unit id="LMTFD6008B" title="Apply studio processes to create and produce designs for commercial production"/>
+      <unit id="LMTFD6009B" title="Analyse fashion industry textiles to guide commercial development"/>
+      <unit id="LMTGN2001B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LMTGN2009B" title="Operate computing technology in a textiles, clothing and footwear workplace"/>
+      <unit id="LMTGN5001B" title="Participate in production planning processes"/>
+      <unit id="LMTGN5002B" title="Coordinate quality assurance for textiles clothing and footwear products and services"/>
+      <unit id="LMTGN5003B" title="Work with international textiles, clothing and footwear supply chains"/>
+      <unit id="LMTGN6001B" title="Develop and implement a sales or marketing plan"/>
+      <unit id="LMTGN6003B" title="Research and evaluate processes and products"/>
+      <unit id="LMTGN6004B" title="Negotiate and manage contracts to produce finished design products"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

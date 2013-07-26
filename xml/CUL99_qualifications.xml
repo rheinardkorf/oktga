@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<qualifications class="CUL99">
+  <qualification id="CUL20299" title="Certificate II in Museum Practice">
+    <units/>
+  </qualification>
+  <qualification id="CUL20199" title="Certificate II in Library and Information Services">
+    <units/>
+  </qualification>
+  <qualification id="CUL30299" title="Certificate III in Museum Practice">
+    <units/>
+  </qualification>
+  <qualification id="CUL30199" title="Certificate III in Library and Information Services">
+    <units/>
+  </qualification>
+  <qualification id="CUL40299" title="Certificate IV in Museum Practice">
+    <units/>
+  </qualification>
+  <qualification id="CUL40199" title="Certificate IV in Library and Information Services">
+    <units/>
+  </qualification>
+  <qualification id="CUL50299" title="Diploma of Museum Practice">
+    <units/>
+  </qualification>
+  <qualification id="CUL50199" title="Diploma of Library and Information Services">
+    <units/>
+  </qualification>
+  <qualification id="CUL60199" title="Advanced Diploma of Library and Information Services">
+    <units/>
+  </qualification>
+  <qualification id="CUL60299" title="Advanced Diploma of Museum Practice">
+    <units/>
+  </qualification>
+</qualifications>

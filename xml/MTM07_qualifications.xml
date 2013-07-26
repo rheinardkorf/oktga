@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<qualifications class="MTM07">
+  <qualification id="MTM10107" title="Certificate I in Meat Processing (Smallgoods)">
+    <units/>
+  </qualification>
+  <qualification id="MTM10207" title="Certificate I in Meat Processing (Meat Retailing)">
+    <units/>
+  </qualification>
+  <qualification id="MTM20207" title="Certificate II in Meat Processing (Smallgoods)">
+    <units/>
+  </qualification>
+  <qualification id="MTM20407" title="Certificate II in Meat Processing (Food Services)">
+    <units/>
+  </qualification>
+  <qualification id="MTM20107" title="Certificate II in Meat Processing (Abattoirs)">
+    <units/>
+  </qualification>
+  <qualification id="MTM20307" title="Certificate II in Meat Processing (Meat Retailing)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30907" title="Certificate III in Meat Processing (Smallgoods - General)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30307" title="Certificate III in Meat Processing (Meat Safety)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30507" title="Certificate III in Meat Processing (Slaughtering)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30607" title="Certificate III in Meat Processing (General)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30107" title="Certificate III in Meat Processing (Boning Room)">
+    <units/>
+  </qualification>
+  <qualification id="MTM31007" title="Certificate III in Meat Processing (Smallgoods - Manufacture)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30207" title="Certificate III in Meat Processing (Food Services)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30407" title="Certificate III in Meat Processing (Rendering)">
+    <units/>
+  </qualification>
+  <qualification id="MTM30807" title="Certificate III in Meat Processing (Meat Retailing)">
+    <units/>
+  </qualification>
+  <qualification id="MTM40107" title="Certificate IV in Meat Processing (Leadership)">
+    <units/>
+  </qualification>
+  <qualification id="MTM40407" title="Certificate IV in Meat Processing (General)">
+    <units/>
+  </qualification>
+  <qualification id="MTM40207" title="Certificate IV in Meat Processing (Meat Safety)">
+    <units/>
+  </qualification>
+  <qualification id="MTM40307" title="Certificate IV in Meat Processing (Quality Assurance)">
+    <units/>
+  </qualification>
+  <qualification id="MTM50207" title="Diploma of Meat Processing (Meat Retailing)">
+    <units/>
+  </qualification>
+  <qualification id="MTM50107" title="Diploma of Meat Processing">
+    <units/>
+  </qualification>
+  <qualification id="MTM60107" title="Advanced Diploma of Meat Processing">
+    <units/>
+  </qualification>
+</qualifications>

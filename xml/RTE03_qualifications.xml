@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<qualifications class="RTE03">
+  <qualification id="RTE10103" title="Certificate I in Rural Operations">
+    <units/>
+  </qualification>
+  <qualification id="RTE20203" title="Certificate II in Irrigation">
+    <units/>
+  </qualification>
+  <qualification id="RTE20103" title="Certificate II in Agriculture">
+    <units/>
+  </qualification>
+  <qualification id="RTE20807" title="Certificate II in Commercial Composting">
+    <units/>
+  </qualification>
+  <qualification id="RTE20603" title="Certificate II in Production Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTE20703" title="Certificate II in Rural Operations">
+    <units/>
+  </qualification>
+  <qualification id="RTE20403" title="Certificate II in Shearing">
+    <units/>
+  </qualification>
+  <qualification id="RTE20503" title="Certificate II in Crutching">
+    <units/>
+  </qualification>
+  <qualification id="RTE20303" title="Certificate II in Wool Handling">
+    <units/>
+  </qualification>
+  <qualification id="RTE30503" title="Certificate III in Agriculture (Goat Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE31903" title="Certificate III in Rural Operations">
+    <units/>
+  </qualification>
+  <qualification id="RTE30903" title="Certificate III in Agriculture (Pig Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE31703" title="Certificate III in Rural Business">
+    <units/>
+  </qualification>
+  <qualification id="RTE30603" title="Certificate III in Agriculture (Grain Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE31003" title="Certificate III in Agriculture (Poultry Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE32107" title="Certificate III in Commercial Composting">
+    <units/>
+  </qualification>
+  <qualification id="RTE31803" title="Certificate III in Rural Merchandising">
+    <units/>
+  </qualification>
+  <qualification id="RTE31203" title="Certificate III in Agriculture (Sugar Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE32003" title="Certificate III in Advanced Wool Handling">
+    <units/>
+  </qualification>
+  <qualification id="RTE30102" title="Certificate III in Agriculture">
+    <units/>
+  </qualification>
+  <qualification id="RTE31403" title="Certificate III in Wool Clip Preparation">
+    <units/>
+  </qualification>
+  <qualification id="RTE31503" title="Certificate III in Shearing">
+    <units/>
+  </qualification>
+  <qualification id="RTE30203" title="Certificate III in Agriculture (Beef Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE30403" title="Certificate III in Agriculture (Dairy Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE31103" title="Certificate III in Agriculture (Sheep and Wool Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE30103" title="Certificate III in Agriculture">
+    <units/>
+  </qualification>
+  <qualification id="RTE31603" title="Certificate III in Production Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTE30303" title="Certificate III in Agriculture (Cotton Production)">
+    <units/>
+  </qualification>
+  <qualification id="RTE30803" title="Certificate III in Agriculture (Milk Harvesting)">
+    <units/>
+  </qualification>
+  <qualification id="RTE30703" title="Certificate III in Agriculture (Horse Breeding)">
+    <units/>
+  </qualification>
+  <qualification id="RTE31303" title="Certificate III in Irrigation">
+    <units/>
+  </qualification>
+  <qualification id="RTE40103" title="Certificate IV in Agriculture">
+    <units/>
+  </qualification>
+  <qualification id="RTE40503" title="Certificate IV in Production Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTE40203" title="Certificate IV in Irrigation">
+    <units/>
+  </qualification>
+  <qualification id="RTE40403" title="Certificate IV in Shearing">
+    <units/>
+  </qualification>
+  <qualification id="RTE40707" title="Certificate IV in Commercial Composting">
+    <units/>
+  </qualification>
+  <qualification id="RTE40303" title="Certificate IV in Wool Classing">
+    <units/>
+  </qualification>
+  <qualification id="RTE40603" title="Certificate IV in Rural Business">
+    <units/>
+  </qualification>
+  <qualification id="RTE50103" title="Diploma of Agriculture">
+    <units/>
+  </qualification>
+  <qualification id="RTE50403" title="Diploma of Rural Business Management">
+    <units/>
+  </qualification>
+  <qualification id="RTE50203" title="Diploma of Irrigation">
+    <units/>
+  </qualification>
+  <qualification id="RTE50507" title="Diploma of Commercial Composting">
+    <units/>
+  </qualification>
+  <qualification id="RTE50303" title="Diploma of Production Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTE60307" title="Advanced Diploma of Production Horticulture">
+    <units/>
+  </qualification>
+  <qualification id="RTE60203" title="Advanced Diploma of Rural Business Management">
+    <units/>
+  </qualification>
+  <qualification id="RTE60103" title="Advanced Diploma of Agriculture">
+    <units/>
+  </qualification>
+</qualifications>

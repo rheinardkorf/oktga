@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<qualifications class="AUM12">
+  <qualification id="AUM10112" title="Certificate I in Automotive Manufacturing">
+    <units>
+      <unit id="AUMAFA1001" title="Manage personal career goals"/>
+      <unit id="AUMAMA2001" title="Manage personal workplace"/>
+      <unit id="AUMAMA2002" title="Work effectively with others in teams"/>
+      <unit id="AUMATK1001" title="Select and use tools and equipment in an automotive manufacturing environment"/>
+      <unit id="AURC172003A" title="Identify environmental regulations and best practice in a workplace or business"/>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+  </qualification>
+  <qualification id="AUM20212" title="Certificate II in Automotive Manufacturing Production - Bus, Truck and Trailer">
+    <units>
+      <unit id="AUMAMA2001" title="Manage personal workplace"/>
+      <unit id="AUMAMA2002" title="Work effectively with others in teams"/>
+      <unit id="AUMASA2001" title="Monitor and maintain a safe workplace and environment"/>
+      <unit id="AUMATK2002" title="Prepare, use and operate equipment, tools and machinery"/>
+      <unit id="AUMATK3003" title="Monitor and maintain equipment, tools and machinery"/>
+      <unit id="AUMATS2001" title="Stamp and press parts"/>
+      <unit id="AUMFBM2001" title="Prepare and process materials and components"/>
+      <unit id="AUMFQM2001" title="Monitor and maintain continuous improvement of systems and processes"/>
+      <unit id="AUMGCA2001" title="Provide customer service"/>
+      <unit id="AUMGMM3001" title="Contribute to workplace relationships and processes"/>
+      <unit id="AUMGQA3001" title="Inspect work and apply organisation technical quality standards"/>
+      <unit id="AUMGTA2001" title="Read and interpret working drawings and work orders"/>
+      <unit id="AUMGTG3001" title="Install fixed and moveable glass components"/>
+      <unit id="AUMGTM2001" title="Assemble components"/>
+      <unit id="AUMGTM2004" title="Install and fit out components"/>
+      <unit id="AUMGTM3002" title="Assemble frame and axle"/>
+      <unit id="AUMGTM3003" title="Install or replace mechanical units and assemblies"/>
+      <unit id="AUMGTP3001" title="Finish surfaces for painting"/>
+      <unit id="AUMGTR3003" title="Perform minor modifications and repairs to electrical circuits and systems"/>
+      <unit id="AUMGTS3001" title="Prepare materials for fabrication using jigs and fixtures"/>
+      <unit id="AUMGTS3004" title="Fabricate parts for sub-assemblies"/>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AUMGTW3001" title="Conduct basic welding, thermal cutting, heating and gouging operations"/>
+      <unit id="AUMGTW3002" title="Conduct mechanical cutting operations"/>
+      <unit id="AUMGTY3001" title="Paint chassis or panels"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURE224008A" title="Carry out soldering of electrical wiring/circuits"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUM20112" title="Certificate II in Automotive Manufacturing Production - Passenger Motor Vehicle">
+    <units>
+      <unit id="AUMAFA2002" title="Maintain effective workplace relationships"/>
+      <unit id="AUMAMA2001" title="Manage personal workplace"/>
+      <unit id="AUMAMA2002" title="Work effectively with others in teams"/>
+      <unit id="AUMASA2001" title="Monitor and maintain a safe workplace and environment"/>
+      <unit id="AUMATK2002" title="Prepare, use and operate equipment, tools and machinery"/>
+      <unit id="AUMATK3003" title="Monitor and maintain equipment, tools and machinery"/>
+      <unit id="AUMFBK2001" title="Receive and dispatch materials, equipment and tools"/>
+      <unit id="AUMFBM2001" title="Prepare and process materials and components"/>
+      <unit id="AUMFQM2001" title="Monitor and maintain continuous improvement of systems and processes"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AUM30212" title="Certificate III in Automotive Manufacturing Technical Operations - Bus, Truck and Trailer">
+    <units>
+      <unit id="AUMABA3002" title="Operate load shifting equipment"/>
+      <unit id="AUMASA2001" title="Monitor and maintain a safe workplace and environment"/>
+      <unit id="AUMATK2002" title="Prepare, use and operate equipment, tools and machinery"/>
+      <unit id="AUMATK3003" title="Monitor and maintain equipment, tools and machinery"/>
+      <unit id="AUMGCA2001" title="Provide customer service"/>
+      <unit id="AUMGLM3001" title="Comply with heavy vehicle modification standards"/>
+      <unit id="AUMGMA3001" title="Participate in workplace productivity"/>
+      <unit id="AUMGMM3001" title="Contribute to workplace relationships and processes"/>
+      <unit id="AUMGQA3001" title="Inspect work and apply organisation technical quality standards"/>
+      <unit id="AUMGTA2001" title="Read and interpret working drawings and work orders"/>
+      <unit id="AUMGTA3002" title="Service after assembly"/>
+      <unit id="AUMGTB3001" title="Assemble and install braking system kit"/>
+      <unit id="AUMGTD3001" title="Perform wheel alignment operations"/>
+      <unit id="AUMGTG3001" title="Install fixed and moveable glass components"/>
+      <unit id="AUMGTM2001" title="Assemble components"/>
+      <unit id="AUMGTM2004" title="Install and fit out components"/>
+      <unit id="AUMGTM3002" title="Assemble frame and axle"/>
+      <unit id="AUMGTM3003" title="Install or replace mechanical units and assemblies"/>
+      <unit id="AUMGTM3005" title="Read and interpret engineering drawings and job specifications"/>
+      <unit id="AUMGTM3006" title="Assemble and install hydraulic system kit"/>
+      <unit id="AUMGTM3007" title="Assemble and install pneumatic system kit"/>
+      <unit id="AUMGTM3008" title="Bond and repair components using fibreglass reinforced plastic techniques"/>
+      <unit id="AUMGTN3001" title="Rectify and replace vehicle body panels and ancillary fittings"/>
+      <unit id="AUMGTP3001" title="Finish surfaces for painting"/>
+      <unit id="AUMGTP3002" title="Rework paint faults"/>
+      <unit id="AUMGTR3001" title="Install or replace electrical and electronic units and assemblies"/>
+      <unit id="AUMGTR3002" title="Manufacture or modify wiring harnesses"/>
+      <unit id="AUMGTR3003" title="Perform minor modifications and repairs to electrical circuits and systems"/>
+      <unit id="AUMGTS3001" title="Prepare materials for fabrication using jigs and fixtures"/>
+      <unit id="AUMGTS3002" title="Prepare materials for fabrication using manual processes"/>
+      <unit id="AUMGTS3003" title="Fabricate plugs"/>
+      <unit id="AUMGTS3004" title="Fabricate parts for sub-assemblies"/>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AUMGTW3001" title="Conduct basic welding, thermal cutting, heating and gouging operations"/>
+      <unit id="AUMGTW3002" title="Conduct mechanical cutting operations"/>
+      <unit id="AUMGTW3003" title="Perform manual metal arc welding operations"/>
+      <unit id="AUMGTW3004" title="Perform gas tungsten arc welding operations"/>
+      <unit id="AUMGTW3005" title="Perform gas metal arc welding operations"/>
+      <unit id="AUMGTW3006" title="Machine parts"/>
+      <unit id="AUMGTY3001" title="Paint chassis or panels"/>
+      <unit id="AUMGTY3002" title="Mount and install assembled component to chassis or frame"/>
+      <unit id="AUMGTY3003" title="Modify or rectify chassis and frame and associated components"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURT211170A" title="Inspect and service air braking systems"/>
+      <unit id="AURT216130A" title="Inspect suspension systems"/>
+      <unit id="AURT216170A" title="Inspect and service suspension systems"/>
+      <unit id="AURT311166A" title="Repair air braking systems"/>
+      <unit id="AURT411145A" title="Overhaul air braking systems/components"/>
+      <unit id="AURTH316166A" title="Repair suspension systems (heavy vehicle)"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUM30112" title="Certificate III in Automotive Manufacturing Technical Operations - Passenger Motor Vehicle">
+    <units>
+      <unit id="AUMAMM3001" title="Influence and lead work groups in an automotive manufacturing environment"/>
+      <unit id="AUMASM3001" title="Maintain a safe automotive manufacturing work environment"/>
+      <unit id="AUMATA3003" title="Rectify faults in vehicle metal components"/>
+      <unit id="AUMATA3004" title="Rectify mechanical faults on assembled vehicles"/>
+      <unit id="AUMATA3005" title="Rectify assembly faults in assembled vehicles"/>
+      <unit id="AUMATE3001" title="Rework production engines"/>
+      <unit id="AUMATN3001" title="Conduct structural rectification of vehicle bodies"/>
+      <unit id="AUMATP3001" title="Rectify paintwork"/>
+      <unit id="AUMATP3002" title="Control paint line production processes"/>
+      <unit id="AUMATR3001" title="Rectify electrical faults on assembled vehicles"/>
+      <unit id="AUMATW3001" title="Test welds ultrasonically"/>
+      <unit id="AUMFMM3001" title="Reduce cycle time in work processes"/>
+      <unit id="AUMFMM3002" title="Reduce waste in work processes"/>
+      <unit id="AUMFQM3002" title="Sustain quality standards"/>
+      <unit id="AUMFQM3003" title="Apply visual factory principles and practices to an automotive manufacturing environment"/>
+      <unit id="AUMFTA3002" title="Conduct die coating"/>
+      <unit id="AUMFTA3003" title="Conduct tool setting"/>
+      <unit id="AUMFTA3004" title="Monitor and maintain metals treatment plant operations"/>
+      <unit id="AUMFTE3001" title="Conduct engine hot test"/>
+      <unit id="AUMFTM3001" title="Undertake preliminary fault finding and machine reset"/>
+      <unit id="AUMGMA3001" title="Participate in workplace productivity"/>
+      <unit id="AUMGMM3001" title="Contribute to workplace relationships and processes"/>
+      <unit id="AUMGQA3001" title="Inspect work and apply organisation technical quality standards"/>
+      <unit id="AUMGTM3005" title="Read and interpret engineering drawings and job specifications"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMS200A" title="Apply competitive manufacturing practices"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT220A" title="Apply quick changeover procedures"/>
+      <unit id="MSACMT221A" title="Apply Just in Time (JIT) procedures"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT240A" title="Apply 5S procedures in a manufacturing environment"/>
+      <unit id="MSACMT482A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3023A" title="Coordinate stocktakes"/>
+      <unit id="TLIA4028A" title="Assess and monitor optimum stock levels"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUM40112" title="Certificate IV in Automotive Manufacturing">
+    <units>
+      <unit id="AUMABM4001" title="Control Stock"/>
+      <unit id="AUMAKM4001" title="Program and monitor computerised equipment"/>
+      <unit id="AUMAKM5002" title="Produce computer-aided drawings"/>
+      <unit id="AUMAMA4003" title="Prepare new product designs"/>
+      <unit id="AUMAMM3001" title="Influence and lead work groups in an automotive manufacturing environment"/>
+      <unit id="AUMANA3001" title="Prepare and document quotation"/>
+      <unit id="AUMAQA4001" title="Apply quality assurance techniques"/>
+      <unit id="AUMASA2001" title="Monitor and maintain a safe workplace and environment"/>
+      <unit id="AUMATA2001" title="Develop and produce documentation and procedures"/>
+      <unit id="AUMATA3002" title="Conduct final inspections and functional tests"/>
+      <unit id="AUMATA4006" title="Provide technical advice"/>
+      <unit id="AUMATA4007" title="Conduct simulated or road performance test"/>
+      <unit id="AUMATA5008" title="Produce drawings manually"/>
+      <unit id="AUMATK4004" title="Use measuring equipment"/>
+      <unit id="AUMATK4005" title="Calibrate measuring equipment in automotive development"/>
+      <unit id="AUMATK4006" title="Test plant, tooling, equipment, product or systems"/>
+      <unit id="AUMATK4007" title="Install plant, equipment or systems"/>
+      <unit id="AUMATK4008" title="Maintain plant, tooling, equipment or systems"/>
+      <unit id="AUMATK4009" title="Repair plant, tooling, equipment or systems"/>
+      <unit id="AUMATK4010" title="Manufacture or modify plant, tooling, equipment or systems"/>
+      <unit id="AUMATK4011" title="Interpret manuals, drawings and circuits for plant, tooling, equipment or systems"/>
+      <unit id="AUMATR4002" title="Use sensors to acquire motor vehicle data for development purposes"/>
+      <unit id="AUMATW4002" title="Conduct welding inspection"/>
+      <unit id="AUMFMM3003" title="Plan and organise production"/>
+      <unit id="AUMFTA3001" title="Document designs"/>
+      <unit id="AUMFTA4005" title="Analyse a test vehicle for research purposes"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURM441976B" title="Test engines using a dynamometer"/>
+      <unit id="AURT466208A" title="Carry out diagnosis of complex system faults"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="MSACMC210A" title="Manage the impact of change on own work"/>
+      <unit id="MSACMC411A" title="Lead a competitive manufacturing team"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMS400A" title="Implement a competitive manufacturing system"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT220A" title="Apply quick changeover procedures"/>
+      <unit id="MSACMT230A" title="Apply cost factors to work practices"/>
+      <unit id="MSACMT231A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSACMT250A" title="Monitor process capability"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT261A" title="Use SCADA systems in manufacturing"/>
+      <unit id="MSACMT280A" title="Undertake root cause analysis"/>
+      <unit id="MSACMT421A" title="Facilitate a Just in Time (JIT) system"/>
+      <unit id="MSACMT430A" title="Improve cost factors in work practices"/>
+      <unit id="MSACMT432A" title="Analyse manual handling processes"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSACMT441A" title="Facilitate continuous improvement in manufacturing"/>
+      <unit id="MSACMT451A" title="Mistake proof a production process"/>
+      <unit id="MSACMT452A" title="Apply statistics to processes in manufacturing"/>
+      <unit id="MSACMT453A" title="Use six sigma techniques"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUM50112" title="Diploma of Automotive Manufacturing">
+    <units>
+      <unit id="AUMAMA5004" title="Coordinate project activities"/>
+      <unit id="AUMFTA5006" title="Produce research reports"/>
+      <unit id="AUMFTA5007" title="Seek, evaluate, organise and prepare information"/>
+      <unit id="AUMFTK5001" title="Establish a test or trial for components of plant, tooling, equipment or systems"/>
+      <unit id="AUMFTM5002" title="Create new product designs"/>
+      <unit id="AUMFTM5003" title="Develop conceptual models and prototypes"/>
+      <unit id="AURT570093A" title="Analyse and evaluate light vehicle steering and suspension system faults"/>
+      <unit id="AURT570193A" title="Analyse and evaluate light vehicle driveline system faults"/>
+      <unit id="AURT570293A" title="Analyse and evaluate light vehicle engine and fuel system faults"/>
+      <unit id="AURT570393A" title="Analyse and evaluate light vehicle braking system faults"/>
+      <unit id="AURT575093A" title="Analyse and evaluate electrical and electronic faults in stability/steering/suspension systems"/>
+      <unit id="AURT575193A" title="Analyse and evaluate electrical and electronic faults in electric over hydraulic systems"/>
+      <unit id="AURT575293A" title="Analyse and evaluate electrical and electronic faults in engine management systems"/>
+      <unit id="AURT575393A" title="Analyse and evaluate electrical and electronic faults in transmission/driveline systems"/>
+      <unit id="AURT575493A" title="Analyse and evaluate electrical and electronic faults in braking systems"/>
+      <unit id="AURT575593A" title="Analyse and evaluate electrical and electronic faults in safety systems"/>
+      <unit id="AURT575693A" title="Analyse and evaluate electrical and electronic faults in monitoring/protection systems"/>
+      <unit id="AURT575893A" title="Analyse and evaluate electrical and electronic faults in convenience and entertainment systems"/>
+      <unit id="AURT575993A" title="Analyse and evaluate electrical and electronic faults in theft deterrent systems"/>
+      <unit id="AURT576093A" title="Analyse and evaluate electrical and electronic faults in electric and hybrid vehicle systems"/>
+      <unit id="AURT576193A" title="Analyse and evaluate electrical and electronic faults in climate control systems"/>
+      <unit id="AURT576520A" title="Develop and apply electrical systems modification"/>
+      <unit id="AURT576620A" title="Develop and apply electronic systems modification"/>
+      <unit id="AURT577120A" title="Develop and apply gas fuel systems modification"/>
+      <unit id="AURT577520A" title="Prepare technical reports"/>
+      <unit id="BSBOHS501B" title="Participate in the coordination and maintenance of a systematic approach to managing OHS"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBPMG504A" title="Manage project costs"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

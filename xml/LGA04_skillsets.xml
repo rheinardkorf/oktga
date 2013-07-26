@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<skillsets class="LGA04">
+  <skillset id="LGASS00002" title="Elected member skill set">
+    <units>
+      <unit id="LGAGENE302A" title="Contribute to effective decision making"/>
+      <unit id="LGAGENE501A" title="Undertake councillor roles and responsibilities"/>
+      <unit id="LGAGENE503" title="Perform the role of an elected member"/>
+    </units>
+  </skillset>
+  <skillset id="LGASS00003" title="Entrants' induction skill set">
+    <units>
+      <unit id="LGACORE102B" title="Follow defined OHS policies and procedures"/>
+      <unit id="LGACORE103B" title="Provide service to local government customers"/>
+      <unit id="LGACORE104B" title="Work effectively in local government"/>
+      <unit id="LGACORE105B" title="Work with others in local government"/>
+    </units>
+  </skillset>
+  <skillset id="LGASS00004" title="Local government compliance management skill set">
+    <units>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="LGACOMP008A" title="Apply conflict resolution strategies"/>
+      <unit id="LGACOMP009A" title="Implement effective communication techniques"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAEHRR504C" title="Implement public environmental health education programs"/>
+      <unit id="LGAGOVA410B" title="Monitor council procedures to ensure compliance with relevant legislation"/>
+    </units>
+  </skillset>
+</skillsets>

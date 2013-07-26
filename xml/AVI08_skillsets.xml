@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<skillsets class="AVI08">
+  <skillset id="AVISS00001" title="Aerobatic Pilot Skill Set">
+    <units>
+      <unit id="AVIY4061A" title="Perform aerobatic manoeuvres"/>
+      <unit id="AVIY4062A" title="Perform an aerobatic sequence"/>
+      <unit id="AVIY4066A" title="Control aircraft in advanced flight manoeuvres"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00002" title="Aerodrome Reporting Officer Skill Set">
+    <units>
+      <unit id="AVIB3001B" title="Inspect and report on an aerodrome"/>
+      <unit id="AVIB3002B" title="Inspect and report on aerodrome lighting systems"/>
+      <unit id="AVIB3003B" title="Inspect and report on the Obstacle Limitation Surfaces"/>
+      <unit id="AVIC2001A" title="Drive on the airside"/>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+      <unit id="AVIE3004B" title="Maintain radio communications as part of airport operations"/>
+      <unit id="AVIF3004B" title="Supervise the safety of aerodrome works and general access"/>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00003" title="Aerodrome Works Safety Officer working on Time Limited Works Skill Set">
+    <units>
+      <unit id="AVIC2001A" title="Drive on the airside"/>
+      <unit id="AVIE3004B" title="Maintain radio communications as part of airport operations"/>
+      <unit id="AVIF3004B" title="Supervise the safety of aerodrome works and general access"/>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00004" title="Aerodrome Works Safety Officer working with a Method of Works Plan (MOWP) Skill Set">
+    <units>
+      <unit id="AVIB3001B" title="Inspect and report on an aerodrome"/>
+      <unit id="AVIB3002B" title="Inspect and report on aerodrome lighting systems"/>
+      <unit id="AVIB3003B" title="Inspect and report on the Obstacle Limitation Surfaces"/>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00005" title="Airborne Rappelling Skill Set">
+    <units>
+      <unit id="AVIW2032A" title="Fast rope from a helicopter"/>
+      <unit id="AVIW2033A" title="Rappel from a helicopter"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00006" title="Airborne Rappelling Supervisor Skill Set">
+    <units>
+      <unit id="AVIY4055A" title="Conduct airborne extraction operations"/>
+      <unit id="AVIY4056A" title="Conduct airborne rappelling operations"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00007" title="Airborne Recovery Skill Set">
+    <units>
+      <unit id="AVIW2030A" title="Be airborne extracted by suspended rope"/>
+      <unit id="AVIW2031A" title="Be airborne extracted using suspended extraction equipment"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00008" title="Aircraft Underwater Escape Skill Set">
+    <units>
+      <unit id="AVIF2014A" title="Undertake aircraft underwater escape and survival"/>
+      <unit id="HLTFA201A" title="Provide basic emergency life support"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00009" title="Aviation Operator Skill Set">
+    <units>
+      <unit id="AVIZ1005B" title="Maintain basic situation awareness in the aviation workplace"/>
+      <unit id="PUAFIR209B" title="Work safely around aircraft"/>
+      <unit id="TLIE707B" title="Use communication systems"/>
+      <unit id="TLIO207D" title="Follow security procedures"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00010" title="Aviation Supervisory Cabin Crew Skill Set">
+    <units>
+      <unit id="AVIF3005B" title="Maintain the safety of people and aircraft"/>
+      <unit id="AVIF3006B" title="Respond to abnormal and emergency situations within the aircraft"/>
+      <unit id="HLTFA404A" title="Apply advanced resuscitation techniques"/>
+      <unit id="TLII107D" title="Coordinate quality customer service"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00011" title="Emergency Breathing System Skill Set">
+    <units>
+      <unit id="AVIF2015A" title="Utilise emergency breathing system"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00012" title="External Load Pilot Skill Set">
+    <units>
+      <unit id="AVIY4058A" title="Pilot a helicopter during external load operations"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00013" title="Formation Pilot Skill Set">
+    <units>
+      <unit id="AVIY4063A" title="Perform close formation flight"/>
+      <unit id="AVIY4064A" title="Lead an aircraft formation flight"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00014" title="Handle Dangerous Goods_Hazardous Substances Skill Set">
+    <units>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00015" title="Helicopter Wireman Skill Set">
+    <units>
+      <unit id="AVIW3024A" title="Perform wireman duties"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00016" title="Manual Handle Freight_Baggage in Aircraft Cargo Hold Confined Spaces Skill Set">
+    <units>
+      <unit id="AVID2006A" title="Load and secure aviation freight and baggage"/>
+      <unit id="AVID2007A" title="Unload aviation freight and baggage"/>
+      <unit id="AVIF2019A" title="Work in aircraft confined spaces"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00017" title="Marine Transfer Pilot Skill Set">
+    <units>
+      <unit id="AVIY4057A" title="Perform helicopter deck landing operations"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00018" title="Night Aided Vision Aviation Operations Skill Set">
+    <units>
+      <unit id="AVIW3026A" title="Conduct night aided vision aviation operations"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00019" title="Night Visual Flight Rules (NVFR) Pilot Skill Set">
+    <units>
+      <unit id="AVIH4012A" title="Plan a flight under Night Visual Flight Rules (NVFR)"/>
+      <unit id="AVIH4013A" title="Navigate aircraft - NVFR"/>
+      <unit id="AVIY5020A" title="Conduct full instrument panel manoeuvres"/>
+      <unit id="AVIY5021A" title="Conduct limited instrument panel manoeuvres"/>
+      <unit id="AVIY5024A" title="Operate aircraft in the traffic pattern at night"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00020" title="Notice to Airmen Skill Set">
+    <units>
+      <unit id="AVIE3003B" title="Complete a Notice to Airmen (NOTAM)"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00021" title="Rappelling and Winching Pilot Skill Set">
+    <units>
+      <unit id="AVIY4059A" title="Pilot a helicopter during roping operations"/>
+      <unit id="AVIY4060A" title="Pilot a helicopter during winching operations"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00022" title="Simulator Operator Skill Set">
+    <units>
+      <unit id="AVIM5001A" title="Operate a simulator"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00023" title="Simulator Operator_Trainer Skill Set">
+    <units>
+      <unit id="AVIM5001A" title="Operate a simulator"/>
+      <unit id="AVIM5004A" title="Facilitate training in a synthetic environment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00024" title="Simulator Trainer Skill Set">
+    <units>
+      <unit id="AVIM5004A" title="Facilitate training in a synthetic environment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </skillset>
+  <skillset id="AVISS00025" title="Use and Maintain Minor Mechanical Equipment Skill Set">
+    <units>
+      <unit id="TLIB2029B" title="Use and maintain minor mechanical equipment"/>
+    </units>
+  </skillset>
+</skillsets>

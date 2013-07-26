@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<qualifications class="SIH11">
+  <qualification id="SIH20111" title="Certificate II in Hairdressing">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIHHBAS201A" title="Perform shampoo and basin services"/>
+      <unit id="SIHHBAS202A" title="Perform head, neck and shoulder massage"/>
+      <unit id="SIHHCCS201A" title="Greet and prepare clients for salon services"/>
+      <unit id="SIHHCLS201A" title="Apply hair colour products"/>
+      <unit id="SIHHHDS201A" title="Dry hair to shape"/>
+      <unit id="SIHHHDS202A" title="Apply hair braiding techniques"/>
+      <unit id="SIHHHRS201A" title="Rinse and neutralise chemically restructured hair"/>
+      <unit id="SIHHIND201A" title="Maintain and organise tools, equipment and work areas"/>
+      <unit id="SIHHIND202A" title="Develop hairdressing industry knowledge"/>
+      <unit id="SIHHOHS201A" title="Apply salon safety procedures"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SIH30111" title="Certificate III in Hairdressing">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIBXCCS201A" title="Conduct financial transactions"/>
+      <unit id="SIBXCCS202A" title="Provide service to clients"/>
+      <unit id="SIHHBAS201A" title="Perform shampoo and basin services"/>
+      <unit id="SIHHBAS202A" title="Perform head, neck and shoulder massage"/>
+      <unit id="SIHHCCS302A" title="Perform a full client consultation"/>
+      <unit id="SIHHCCS303A" title="Respond to service related and technical problems"/>
+      <unit id="SIHHCCS304A" title="Plan services for special events"/>
+      <unit id="SIHHCLS302A" title="Colour and lighten hair"/>
+      <unit id="SIHHCLS303A" title="Design and perform full and partial highlighting techniques"/>
+      <unit id="SIHHCLS304A" title="Neutralise unwanted colours and tones"/>
+      <unit id="SIHHCLS305A" title="Perform on scalp full head and retouch bleach services"/>
+      <unit id="SIHHHCS301A" title="Design haircut structures"/>
+      <unit id="SIHHHCS302A" title="Apply one length or solid haircut structures"/>
+      <unit id="SIHHHCS303A" title="Apply graduated haircut structures"/>
+      <unit id="SIHHHCS304A" title="Apply layered haircut structures"/>
+      <unit id="SIHHHCS305A" title="Apply over-comb techniques"/>
+      <unit id="SIHHHCS306A" title="Combine structures for current haircut designs"/>
+      <unit id="SIHHHCS307A" title="Combine structures for traditional and classic men's haircut designs"/>
+      <unit id="SIHHHCS308A" title="Design and maintain beards and moustaches"/>
+      <unit id="SIHHHCS309A" title="Perform face and head shaves"/>
+      <unit id="SIHHHDS303A" title="Design and apply short to medium length hair design finishes"/>
+      <unit id="SIHHHDS304A" title="Design and apply classic long hair up styles"/>
+      <unit id="SIHHHDS305A" title="Select and apply hair extensions"/>
+      <unit id="SIHHHRS302A" title="Perform chemical curling and volumising services"/>
+      <unit id="SIHHHRS303A" title="Perform chemical straightening and relaxing services"/>
+      <unit id="SIHHHRS304A" title="Perform protein straightening and relaxing treatments"/>
+      <unit id="SIHHHSC301A" title="Apply the principles of hairdressing science"/>
+      <unit id="SIHHHSC302A" title="Identify and treat hair and scalp conditions"/>
+      <unit id="SIHHIND201A" title="Maintain and organise tools, equipment and work areas"/>
+      <unit id="SIHHIND303A" title="Co-ordinate clients and services"/>
+      <unit id="SIHHIND304A" title="Develop and expand a client base"/>
+      <unit id="SIHHIND305A" title="Hone and strop straight razors"/>
+      <unit id="SIHHIND306A" title="Participate in a session styling team"/>
+      <unit id="SIHHOHS201A" title="Apply salon safety procedures"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXRPK002A" title="Recommend hair, beauty and cosmetic products and services"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIH40111" title="Certificate IV in Hairdressing">
+    <units>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="SIBXFAS202A" title="Design and apply make-up for photography"/>
+      <unit id="SIHHCLS406A" title="Solve complex colour problems"/>
+      <unit id="SIHHCLS407A" title="Apply creative colouring and lightening techniques to enhance hair designs"/>
+      <unit id="SIHHHCS306A" title="Combine structures for current haircut designs"/>
+      <unit id="SIHHHCS410A" title="Design and perform creative haircuts"/>
+      <unit id="SIHHHDS304A" title="Design and apply classic long hair up styles"/>
+      <unit id="SIHHHDS305A" title="Select and apply hair extensions"/>
+      <unit id="SIHHHDS406A" title="Design and apply creative long hair designs"/>
+      <unit id="SIHHHDS407A" title="Apply and maintain wigs and hairpieces"/>
+      <unit id="SIHHHDS408A" title="Make wigs and hairpieces"/>
+      <unit id="SIHHHRS304A" title="Perform protein straightening and relaxing treatments"/>
+      <unit id="SIHHHRS405A" title="Apply chemical reformation techniques to enhance hair designs"/>
+      <unit id="SIHHHSC403A" title="Apply knowledge of hair and scalp problems to trichological consultations"/>
+      <unit id="SIHHHSC404A" title="Perform trichological assessments"/>
+      <unit id="SIHHHSC405A" title="Apply the principles of nutrition"/>
+      <unit id="SIHHHSC406A" title="Develop and apply scalp treatment therapies"/>
+      <unit id="SIHHTLS401A" title="Provide technical leadership within the hairdressing context"/>
+      <unit id="SIHHTLS402A" title="Research and utilise hairdressing trends to advance creative work"/>
+      <unit id="SIHHTLS403A" title="Work as a session stylist"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SIH70111" title="Vocational Graduate Certificate in Hairdressing Creative Leadership">
+    <units>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="SIHHTLS704A" title="Provide creative leadership to the hairdressing industry"/>
+      <unit id="SIHHTLS705A" title="Conceive, develop and realise innovative hairdressing concepts for media"/>
+      <unit id="SIHHTLS706A" title="Conceive, develop and realise innovative hairdressing concepts for events"/>
+      <unit id="SIHHTLS707A" title="Plan and deliver professional hairdressing presentations"/>
+      <unit id="SIHHTLS708A" title="Originate and refine hair design concepts"/>
+      <unit id="SIHHTLS709A" title="Establish, negotiate and refine hair design concepts for briefs"/>
+    </units>
+  </qualification>
+</qualifications>

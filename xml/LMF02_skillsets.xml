@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<skillsets class="LMF02">
+  <skillset id="LMFSS00003" title="SS1 Insulated Glass Unit (IGU) Manufacturing">
+    <units>
+      <unit id="LMFGG3001C" title="Store and handle glass"/>
+      <unit id="LMFGG3005C" title="Process glass by semi-automatic and automatic machines"/>
+      <unit id="LMFGG3012C" title="Set up and operate insulated glass unit manufacturing equipment"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+    </units>
+  </skillset>
+  <skillset id="LMFSS00004" title="SS2 Insulated Glass Unit (IGU) Installer_Fabricator">
+    <units>
+      <unit id="LMFGG2009C" title="Fabricate and assemble metal frames"/>
+      <unit id="LMFGG3001C" title="Store and handle glass"/>
+      <unit id="LMFGG3016C" title="Fabricate and install residential windows and doors"/>
+      <unit id="LMFGG3017C" title="Fabricate and install commercial glazing"/>
+      <unit id="MSACMT251A" title="Apply quality standards"/>
+    </units>
+  </skillset>
+</skillsets>

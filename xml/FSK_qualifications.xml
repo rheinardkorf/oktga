@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<qualifications class="FSK">
+  <qualification id="FSK10213" title="Certificate I in Skills for Vocational Pathways">
+    <units>
+      <unit id="FSKDIG02" title="Use digital technology for simple workplace tasks"/>
+      <unit id="FSKLRG08" title="Use simple strategies for work-related learning"/>
+      <unit id="FSKNUM08" title="Identify and use whole numbers and simple fractions, decimals and percentages for work"/>
+      <unit id="FSKNUM09" title="Identify , measure and estimate familiar quantities for work"/>
+      <unit id="FSKOCM03" title="Participate in simple spoken interactions at work"/>
+      <unit id="FSKRDG07" title="Read and respond to simple workplace information"/>
+      <unit id="FSKWTG06" title="Write simple workplace information"/>
+    </units>
+  </qualification>
+  <qualification id="FSK10113" title="Certificate I in Access to Vocational Pathways">
+    <units>
+      <unit id="FSKDIG01" title="Use digital technology for basic workplace tasks"/>
+      <unit id="FSKLRG04" title="Use basic strategies for work-related learning"/>
+      <unit id="FSKNUM03" title="Use whole numbers and money up to one thousand for work"/>
+      <unit id="FSKNUM04" title="Locate, compare and use highly familiar measurements for work"/>
+      <unit id="FSKOCM02" title="Engage in basic spoken exchanges at work"/>
+      <unit id="FSKRDG04" title="Read and respond to basic workplace information"/>
+      <unit id="FSKWTG03" title="Write basic workplace information"/>
+    </units>
+  </qualification>
+  <qualification id="FSK20113" title="Certificate II in Skills for Work and Vocational Pathways">
+    <units>
+      <unit id="FSKDIG03" title="Use digital technology for routine workplace tasks"/>
+      <unit id="FSKLRG09" title="Use strategies to respond to routine workplace problems"/>
+      <unit id="FSKLRG11" title="Use routine strategies for work-related learning"/>
+      <unit id="FSKNUM14" title="Calculate with whole numbers and familiar fractions, decimals and percentages for work"/>
+      <unit id="FSKNUM15" title="Estimate, measure and calculate with routine metric measurements for work"/>
+      <unit id="FSKOCM07" title="Interact effectively with others at work"/>
+      <unit id="FSKRDG10" title="Read and respond to routine workplace information"/>
+      <unit id="FSKWTG09" title="Write routine workplace texts"/>
+    </units>
+  </qualification>
+</qualifications>

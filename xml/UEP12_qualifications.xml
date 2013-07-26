@@ -1,0 +1,689 @@
+<?xml version="1.0"?>
+<qualifications class="UEP12">
+  <qualification id="UEP20112" title="Certificate II in ESI Generation - Operations Support">
+    <units>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="RIIMPO304B" title="Conduct wheel loader operations"/>
+      <unit id="RIIMPO308B" title="Conduct tracked dozer operations"/>
+      <unit id="RIIMPO309A" title="Conduct wheeled dozer operations"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEPMNT201A" title="Carry out routine work activities in an electricity supply industry generation environment"/>
+      <unit id="UEPOPS202B" title="Apply quality systems to work"/>
+      <unit id="UEPOPS203B" title="Operate and monitor communications system"/>
+      <unit id="UEPOPS204B" title="Maintain and utilise records"/>
+      <unit id="UEPOPS205B" title="Conduct minor mechanical maintenance"/>
+      <unit id="UEPOPS206B" title="Conduct minor electrical maintenance"/>
+      <unit id="UEPOPS207B" title="Perform plant lubrication"/>
+      <unit id="UEPOPS209B" title="Perform process plant inspections"/>
+      <unit id="UEPOPS210B" title="Conduct first response within a workplace team"/>
+      <unit id="UEPOPS211B" title="Clean plant and equipment"/>
+      <unit id="UEPOPS232B" title="Transport plant and equipment"/>
+      <unit id="UEPOPS237B" title="Perform tool store duties"/>
+      <unit id="UEPOPS238B" title="Maintain battery banks and cells"/>
+      <unit id="UEPOPS240B" title="Operate and monitor fuel supply (coal)"/>
+      <unit id="UEPOPS241B" title="Operate and monitor ash and dust disposal plant"/>
+      <unit id="UEPOPS242B" title="Operate and monitor dust collection plant"/>
+      <unit id="UEPOPS243B" title="Operate air conditioning plant"/>
+      <unit id="UEPOPS244B" title="Operate and monitor site services water systems"/>
+      <unit id="UEPOPS245B" title="Conduct chemical batching operations"/>
+      <unit id="UEPOPS246B" title="Operate waste and contaminated water plant"/>
+      <unit id="UEPOPS247B" title="Operate and monitor an internal combustion single fuel reciprocating engine"/>
+      <unit id="UEPOPS248B" title="Operate and monitor an internal combustion dual fuel reciprocating engine"/>
+      <unit id="UEPOPS249B" title="Liaise with stakeholders"/>
+      <unit id="UEPOPS251A" title="Conduct routine wind turbine maintenance"/>
+      <unit id="UEPOPS252A" title="Undertake local systems operations"/>
+      <unit id="UEPOPS356B" title="Apply environmental and sustainable energy procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP30112" title="Certificate III in ESI Generation - Systems Operations">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+    </units>
+  </qualification>
+  <qualification id="UEP30212" title="Certificate III in ESI Generation - Operations">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+    </units>
+  </qualification>
+  <qualification id="UEP40312" title="Certificate IV in ESI Generation Maintenance (Mechanical)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM07006C" title="Perform lathe operations"/>
+      <unit id="MEM07007C" title="Perform milling operations"/>
+      <unit id="MEM07008D" title="Perform grinding operations"/>
+      <unit id="MEM07011B" title="Perform complex milling operations"/>
+      <unit id="MEM07012B" title="Perform complex grinding operations"/>
+      <unit id="MEM07021B" title="Perform complex lathe operations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM09004B" title="Perform electrical/electronic detail drafting"/>
+      <unit id="MEM09005B" title="Perform basic engineering detail drafting"/>
+      <unit id="MEM09006B" title="Perform advanced engineering detail drafting"/>
+      <unit id="MEM12003B" title="Perform precision mechanical measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM18006C" title="Repair and fit engineering components"/>
+      <unit id="MEM18007B" title="Maintain and repair mechanical drives and mechanical transmission assemblies"/>
+      <unit id="MEM18009B" title="Perform levelling and alignment of machines and engineering components"/>
+      <unit id="MEM18010C" title="Perform equipment condition monitoring and recording"/>
+      <unit id="MEM18018C" title="Maintain pneumatic system components"/>
+      <unit id="MEM18019B" title="Maintain pneumatic systems"/>
+      <unit id="MEM18020B" title="Maintain hydraulic system components"/>
+      <unit id="MEM18021B" title="Maintain hydraulic systems"/>
+      <unit id="MEM18022B" title="Maintain fluid power controls"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="RIIHAN309A" title="Conduct telescopic materials handler operations"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEPMNT302B" title="Install and maintain industrial pipework"/>
+      <unit id="UEPMNT303B" title="Maintain mechanical valves"/>
+      <unit id="UEPMNT304B" title="Maintain mechanical pumps"/>
+      <unit id="UEPMNT305B" title="Maintain industrial fans"/>
+      <unit id="UEPMNT307B" title="Maintain industrial screens, strainers and filters"/>
+      <unit id="UEPMNT308B" title="Maintain conveyors and associated equipment"/>
+      <unit id="UEPMNT309B" title="Maintain material feeders"/>
+      <unit id="UEPMNT310B" title="Maintain material crushers"/>
+      <unit id="UEPMNT311B" title="Maintain fuel transport equipment"/>
+      <unit id="UEPMNT312B" title="Maintain industrial pressure vessels"/>
+      <unit id="UEPMNT313B" title="Maintain internal combustion engines"/>
+      <unit id="UEPMNT314B" title="Maintain hydro turbines"/>
+      <unit id="UEPMNT315B" title="Maintain wind turbines"/>
+      <unit id="UEPMNT317B" title="Diagnose and repair faults in mechanical equipment"/>
+      <unit id="UEPMNT318B" title="Conduct generator mechanical maintenance"/>
+      <unit id="UEPMNT320B" title="Inspect and repair_replace faults in mechanical equipment_components"/>
+      <unit id="UEPMNT339B" title="Perform sheet metal work"/>
+      <unit id="UEPMNT340B" title="Fabricate metal structures and components"/>
+      <unit id="UEPMNT367A" title="Install and commission stationary gas fuelled reciprocating engines"/>
+      <unit id="UEPMNT368A" title="Repair and maintain stationary gas fuelled reciprocating engines"/>
+      <unit id="UEPMNT401B" title="Install and maintain complex mechanical seals"/>
+      <unit id="UEPMNT402B" title="Conduct complex levelling and alignment"/>
+      <unit id="UEPMNT403B" title="Maintain complex mechanical valves"/>
+      <unit id="UEPMNT404B" title="Maintain complex mechanical pumps"/>
+      <unit id="UEPMNT406B" title="Install and maintain a steam turbine"/>
+      <unit id="UEPMNT407B" title="Install and maintain a gas turbine"/>
+      <unit id="UEPMNT408B" title="Install hydro turbines"/>
+      <unit id="UEPMNT419B" title="Perform civil drafting"/>
+      <unit id="UEPMNT421B" title="Conduct technical inspection of process plant and equipment"/>
+      <unit id="UEPMNT422B" title="Conduct performance testing on process plant and equipment"/>
+      <unit id="UEPMNT424B" title="Monitor efficiency of thermal steam cycle power plant"/>
+      <unit id="UEPOPS202B" title="Apply quality systems to work"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS337B" title="Maintain quality systems within the team"/>
+      <unit id="UEPOPS338B" title="Facilitate effective workplace communication"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS417B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="UEPOPS430B" title="Control permit to work operations"/>
+      <unit id="UEPOPS439B" title="Plan and organise work"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP40412" title="Certificate IV in ESI Generation Maintenance (Fabrication)">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05011D" title="Assemble fabricated components"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05015D" title="Weld using manual metal arc welding process"/>
+      <unit id="MEM05016C" title="Perform advanced welding using manual metal arc welding process"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05018C" title="Perform advanced welding using gas metal arc welding process"/>
+      <unit id="MEM05019D" title="Weld using gas tungsten arc welding process"/>
+      <unit id="MEM05020C" title="Perform advanced welding using gas tungsten arc welding process"/>
+      <unit id="MEM05022C" title="Perform advanced welding using oxy acetylene welding process"/>
+      <unit id="MEM05024B" title="Perform welding supervision"/>
+      <unit id="MEM05025C" title="Perform welding/fabrication inspection"/>
+      <unit id="MEM05026C" title="Apply welding principles"/>
+      <unit id="MEM05036C" title="Repair/replace/modify fabrications"/>
+      <unit id="MEM05042B" title="Perform welds to code standards using flux core arc welding process"/>
+      <unit id="MEM05043B" title="Perform welds to code standards using gas metal arc welding process"/>
+      <unit id="MEM05044B" title="Perform welds to code standards using gas tungsten arc welding process"/>
+      <unit id="MEM05045B" title="Perform pipe welds to code standards using manual metal arc welding process"/>
+      <unit id="MEM05046B" title="Perform welds to code standards using manual metal arc welding process"/>
+      <unit id="MEM05047B" title="Weld using flux core arc welding process"/>
+      <unit id="MEM05048B" title="Perform advanced welding using flux core arc welding process"/>
+      <unit id="MEM05049B" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12007D" title="Mark off/out structural fabrications and shapes"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="RIIHAN309A" title="Conduct telescopic materials handler operations"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEPMNT302B" title="Install and maintain industrial pipework"/>
+      <unit id="UEPMNT339B" title="Perform sheet metal work"/>
+      <unit id="UEPMNT340B" title="Fabricate metal structures and components"/>
+      <unit id="UEPMNT421B" title="Conduct technical inspection of process plant and equipment"/>
+      <unit id="UEPMNT422B" title="Conduct performance testing on process plant and equipment"/>
+      <unit id="UEPMNT424B" title="Monitor efficiency of thermal steam cycle power plant"/>
+      <unit id="UEPOPS202B" title="Apply quality systems to work"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS337B" title="Maintain quality systems within the team"/>
+      <unit id="UEPOPS338B" title="Facilitate effective workplace communication"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS417B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="UEPOPS430B" title="Control permit to work operations"/>
+      <unit id="UEPOPS439B" title="Plan and organise work"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP40612" title="Certificate IV in Large Scale Wind Generation - Electrical">
+    <units>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED101A" title="Use computer applications relevant to a workplace"/>
+      <unit id="UEENEEE009B" title="Comply with scheduled and preventative maintenance program processes"/>
+      <unit id="UEENEEE038B" title="Participate in development and follow a personal competency development plan"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEE185A" title="Write work activity reports"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF104A" title="Install and modify performance data communication copper cabling"/>
+      <unit id="UEENEEF107A" title="Set up and configure the wireless capabilities of communications and data storage devices"/>
+      <unit id="UEENEEF108A" title="Select and arrange equipment for wireless communication networks"/>
+      <unit id="UEENEEF111A" title="Test, report and rectify faults in data and voice installations"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG033A" title="Solve problems in single and three phase low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG063A" title="Arrange circuits, control and protection for general electrical installations"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UEENEEG108A" title="Trouble-shoot and repair faults in low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG109A" title="Develop and connect electrical control circuits"/>
+      <unit id="UEENEEG110A" title="Find and repair faults in LV d.c. electrical apparatus and circuits"/>
+      <unit id="UEENEEG111A" title="Carry out basic repairs to electrical components and equipment"/>
+      <unit id="UEENEEG116A" title="Diagnose and rectify faults in traction lift systems"/>
+      <unit id="UEENEEG129A" title="Overhaul and repair major switchgear and controlgear"/>
+      <unit id="UEENEEG157A" title="Conduct electrical tests on LV electrical machines"/>
+      <unit id="UEENEEG159A" title="Conduct mechanical tests on electrical machines and components"/>
+      <unit id="UEENEEG164A" title="Repair and maintain mechanical components of electrical machines"/>
+      <unit id="UEENEEG165A" title="Maintain and service traction lifts systems and equipment"/>
+      <unit id="UEENEEG199A" title="Conduct compliance and functional verification of electrical apparatus and existing circuits"/>
+      <unit id="UEENEEH102A" title="Repairs basic electronic apparatus faults by replacement of components"/>
+      <unit id="UEENEEH111A" title="Troubleshoot single phase input d.c. power supplies"/>
+      <unit id="UEENEEI101A" title="Use instrumentation drawings, specification, standards and equipment manuals"/>
+      <unit id="UEENEEI116A" title="Assemble, enter and verify operating instructions in microprocessor equipped devices"/>
+      <unit id="UEENEEI150A" title="Develop, enter and verify discrete control programs for programmable controllers"/>
+      <unit id="UEENEEK142A" title="Apply environmentally and sustainable procedures in the energy sector"/>
+      <unit id="UEENEEK145A" title="Implement and monitor energy sector environmental and sustainable policies and procedures"/>
+      <unit id="UEPMNT202A" title="Carry out routine work activities in an ESI large scale wind generation environment"/>
+      <unit id="UEPMNT369A" title="Monitor climatic conditions for renewable electricity generation"/>
+      <unit id="UEPMNT370A" title="Maintain and monitor wind farm civil assets"/>
+      <unit id="UEPMNT371A" title="Maintain large scale wind turbine generators"/>
+      <unit id="UEPMNT442A" title="Maintain wind turbine generator electrical systems"/>
+      <unit id="UEPMNT443A" title="Maintain wind turbine generator control systems"/>
+      <unit id="UEPMNT444A" title="Maintain wind turbine generator mechanical systems"/>
+      <unit id="UEPMNT445A" title="Diagnose and repair faults in large scale wind turbine generators"/>
+      <unit id="UEPMNT446A" title="Coordinate maintenance on a wind farm"/>
+      <unit id="UEPMNT447A" title="Diagnose and repair faults in wind turbine generator electrical systems"/>
+      <unit id="UEPMNT448A" title="Diagnose and repair faults in wind turbine generator control systems"/>
+      <unit id="UEPMNT449A" title="Diagnose and repair mechanical systems faults in wind turbine generators"/>
+      <unit id="UEPMNT450A" title="Test and commission wind turbine generators"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP40112" title="Certificate IV in ESI Generation - Systems Operations">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+    </units>
+  </qualification>
+  <qualification id="UEP40512" title="Certificate IV in ESI Generation Maintenance - Electrical Electronics">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC005B" title="Estimate electrotechnology projects"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED101A" title="Use computer applications relevant to a workplace"/>
+      <unit id="UEENEED104A" title="Use engineering applications software on personal computers"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF105A" title="Install and modify optical fibre performance data communication cabling"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG033A" title="Solve problems in single and three phase low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG063A" title="Arrange circuits, control and protection for general electrical installations"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UEENEEG108A" title="Trouble-shoot and repair faults in low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG109A" title="Develop and connect electrical control circuits"/>
+      <unit id="UEENEEI101A" title="Use instrumentation drawings, specification, standards and equipment manuals"/>
+      <unit id="UEENEEI107A" title="Install instrumentation and control cabling and tubing"/>
+      <unit id="UEENEEI108A" title="Install instrumentation and control apparatus and associated equipment"/>
+      <unit id="UEPMNT319B" title="Maintain and test fixed fire protection systems"/>
+      <unit id="UEPMNT345B" title="Install electronic equipment"/>
+      <unit id="UEPMNT346B" title="Maintain electrical equipment"/>
+      <unit id="UEPMNT347B" title="Maintain complex electrical equipment"/>
+      <unit id="UEPMNT348B" title="Maintain electrical electronic equipment"/>
+      <unit id="UEPMNT350B" title="Modify electrical equipment"/>
+      <unit id="UEPMNT351B" title="Test and commission electrical equipment"/>
+      <unit id="UEPMNT352B" title="Test and commission electronic electrical equipment"/>
+      <unit id="UEPMNT355B" title="Install complex_electronic instrumentation equipment"/>
+      <unit id="UEPMNT356B" title="Maintain instrumentation equipment"/>
+      <unit id="UEPMNT357B" title="Diagnose and repair faults in instrumentation equipment"/>
+      <unit id="UEPMNT358B" title="Modify instrumentation equipment"/>
+      <unit id="UEPMNT359B" title="Test and commission instrumentation equipment"/>
+      <unit id="UEPMNT362A" title="Maintain Wind Turbine Control Systems"/>
+      <unit id="UEPMNT366A" title="Maintain power plant inverter systems"/>
+      <unit id="UEPMNT410B" title="Diagnose and repair faults in electronic equipment"/>
+      <unit id="UEPMNT411B" title="Diagnose and repair faults in complex electrical equipment"/>
+      <unit id="UEPMNT412B" title="Modify complex electrical equipment"/>
+      <unit id="UEPMNT413B" title="Modify electronic electrical equipment"/>
+      <unit id="UEPMNT414B" title="Test and commission complex electrical equipment"/>
+      <unit id="UEPMNT415B" title="Diagnose and repair faults in complex refrigeration_air conditioning equipment"/>
+      <unit id="UEPMNT416B" title="Overhaul electrical generator"/>
+      <unit id="UEPMNT417B" title="Inspect electrical generators and diagnose faults"/>
+      <unit id="UEPMNT421B" title="Conduct technical inspection of process plant and equipment"/>
+      <unit id="UEPMNT422B" title="Conduct performance testing on process plant and equipment"/>
+      <unit id="UEPMNT424B" title="Monitor efficiency of thermal steam cycle power plant"/>
+      <unit id="UEPMNT425B" title="Maintain complex instrumentation equipment"/>
+      <unit id="UEPMNT426B" title="Maintain electronic instrumentation equipment"/>
+      <unit id="UEPMNT427B" title="Diagnose and repair faults in complex instrumentation equipment"/>
+      <unit id="UEPMNT428B" title="Modify complex instrumentation equipment"/>
+      <unit id="UEPMNT429B" title="Modify electronic instrumentation equipment"/>
+      <unit id="UEPMNT430B" title="Test and commission complex instrumentation equipment"/>
+      <unit id="UEPMNT431B" title="Test and commission electronic instrumentation equipment"/>
+      <unit id="UEPMNT432B" title="Write programs for control systems"/>
+      <unit id="UEPMNT433B" title="Conduct routine generator electrical maintenance"/>
+      <unit id="UEPMNT434A" title="Diagnose and Repair Faults in Wind Turbine Control Systems"/>
+      <unit id="UEPMNT436A" title="Test and Commission Wind Turbine Control Systems"/>
+      <unit id="UEPMNT440A" title="Diagnose and repair faults in power plant inverter systems"/>
+      <unit id="UEPMNT441A" title="Test and commission power plant inverter systems"/>
+      <unit id="UEPOPS202B" title="Apply quality systems to work"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS337B" title="Maintain quality systems within the team"/>
+      <unit id="UEPOPS338B" title="Facilitate effective workplace communication"/>
+      <unit id="UEPOPS371A" title="Carry out operational checks on in-service electrical plant"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS417B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="UEPOPS430B" title="Control permit to work operations"/>
+      <unit id="UEPOPS439B" title="Plan and organise work"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP40212" title="Certificate IV in ESI Generation - Operations">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+  </qualification>
+  <qualification id="UEP50212" title="Diploma of ESI Generation (Operations)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+  </qualification>
+  <qualification id="UEP50412" title="Diploma of ESI Generation Maintenance - Electrical Electronic">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="UEENEEC005B" title="Estimate electrotechnology projects"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG033A" title="Solve problems in single and three phase low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG063A" title="Arrange circuits, control and protection for general electrical installations"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UEENEEG108A" title="Trouble-shoot and repair faults in low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG109A" title="Develop and connect electrical control circuits"/>
+      <unit id="UEPMNT319B" title="Maintain and test fixed fire protection systems"/>
+      <unit id="UEPMNT345B" title="Install electronic equipment"/>
+      <unit id="UEPMNT346B" title="Maintain electrical equipment"/>
+      <unit id="UEPMNT347B" title="Maintain complex electrical equipment"/>
+      <unit id="UEPMNT348B" title="Maintain electrical electronic equipment"/>
+      <unit id="UEPMNT350B" title="Modify electrical equipment"/>
+      <unit id="UEPMNT351B" title="Test and commission electrical equipment"/>
+      <unit id="UEPMNT352B" title="Test and commission electronic electrical equipment"/>
+      <unit id="UEPMNT355B" title="Install complex_electronic instrumentation equipment"/>
+      <unit id="UEPMNT356B" title="Maintain instrumentation equipment"/>
+      <unit id="UEPMNT357B" title="Diagnose and repair faults in instrumentation equipment"/>
+      <unit id="UEPMNT358B" title="Modify instrumentation equipment"/>
+      <unit id="UEPMNT359B" title="Test and commission instrumentation equipment"/>
+      <unit id="UEPMNT361A" title="Maintain Wind Turbine Mechanical Systems"/>
+      <unit id="UEPMNT362A" title="Maintain Wind Turbine Control Systems"/>
+      <unit id="UEPMNT366A" title="Maintain power plant inverter systems"/>
+      <unit id="UEPMNT410B" title="Diagnose and repair faults in electronic equipment"/>
+      <unit id="UEPMNT411B" title="Diagnose and repair faults in complex electrical equipment"/>
+      <unit id="UEPMNT412B" title="Modify complex electrical equipment"/>
+      <unit id="UEPMNT413B" title="Modify electronic electrical equipment"/>
+      <unit id="UEPMNT414B" title="Test and commission complex electrical equipment"/>
+      <unit id="UEPMNT415B" title="Diagnose and repair faults in complex refrigeration_air conditioning equipment"/>
+      <unit id="UEPMNT416B" title="Overhaul electrical generator"/>
+      <unit id="UEPMNT417B" title="Inspect electrical generators and diagnose faults"/>
+      <unit id="UEPMNT421B" title="Conduct technical inspection of process plant and equipment"/>
+      <unit id="UEPMNT422B" title="Conduct performance testing on process plant and equipment"/>
+      <unit id="UEPMNT424B" title="Monitor efficiency of thermal steam cycle power plant"/>
+      <unit id="UEPMNT425B" title="Maintain complex instrumentation equipment"/>
+      <unit id="UEPMNT426B" title="Maintain electronic instrumentation equipment"/>
+      <unit id="UEPMNT427B" title="Diagnose and repair faults in complex instrumentation equipment"/>
+      <unit id="UEPMNT428B" title="Modify complex instrumentation equipment"/>
+      <unit id="UEPMNT429B" title="Modify electronic instrumentation equipment"/>
+      <unit id="UEPMNT430B" title="Test and commission complex instrumentation equipment"/>
+      <unit id="UEPMNT431B" title="Test and commission electronic instrumentation equipment"/>
+      <unit id="UEPMNT501B" title="Diagnose and repair faults in electrical and electronic systems"/>
+      <unit id="UEPMNT502B" title="Test and commission electronic electrical systems"/>
+      <unit id="UEPMNT503B" title="Diagnose and repair faults in instrumentation systems"/>
+      <unit id="UEPMNT504B" title="Test and commission instrumentation systems"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS337B" title="Maintain quality systems within the team"/>
+      <unit id="UEPOPS338B" title="Facilitate effective workplace communication"/>
+      <unit id="UEPOPS371A" title="Carry out operational checks on in-service electrical plant"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS417B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="UEPOPS430B" title="Control permit to work operations"/>
+      <unit id="UEPOPS439B" title="Plan and organise work"/>
+      <unit id="UEPOPS440B" title="Coordinate team activities"/>
+      <unit id="UEPOPS501B" title="Manage Occupational Health and Safety policy and procedures"/>
+      <unit id="UEPOPS507B" title="Conduct project management"/>
+      <unit id="UEPOPS508B" title="Manage commissioning decommissioning"/>
+      <unit id="UEPOPS509B" title="Manage quality control procedures"/>
+      <unit id="UEPOPS511B" title="Tune process plant and equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP50112" title="Diploma of ESI Generation - Systems Operations">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+  </qualification>
+  <qualification id="UEP50312" title="Diploma of ESI Generation (Maintenance)">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBWHS501A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05015D" title="Weld using manual metal arc welding process"/>
+      <unit id="MEM05016C" title="Perform advanced welding using manual metal arc welding process"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05018C" title="Perform advanced welding using gas metal arc welding process"/>
+      <unit id="MEM05024B" title="Perform welding supervision"/>
+      <unit id="MEM05026C" title="Apply welding principles"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM07006C" title="Perform lathe operations"/>
+      <unit id="MEM07007C" title="Perform milling operations"/>
+      <unit id="MEM07008D" title="Perform grinding operations"/>
+      <unit id="MEM07011B" title="Perform complex milling operations"/>
+      <unit id="MEM07012B" title="Perform complex grinding operations"/>
+      <unit id="MEM07021B" title="Perform complex lathe operations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12003B" title="Perform precision mechanical measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM18006C" title="Repair and fit engineering components"/>
+      <unit id="MEM18007B" title="Maintain and repair mechanical drives and mechanical transmission assemblies"/>
+      <unit id="MEM18009B" title="Perform levelling and alignment of machines and engineering components"/>
+      <unit id="MEM18010C" title="Perform equipment condition monitoring and recording"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEPMNT302B" title="Install and maintain industrial pipework"/>
+      <unit id="UEPMNT303B" title="Maintain mechanical valves"/>
+      <unit id="UEPMNT304B" title="Maintain mechanical pumps"/>
+      <unit id="UEPMNT305B" title="Maintain industrial fans"/>
+      <unit id="UEPMNT307B" title="Maintain industrial screens, strainers and filters"/>
+      <unit id="UEPMNT308B" title="Maintain conveyors and associated equipment"/>
+      <unit id="UEPMNT309B" title="Maintain material feeders"/>
+      <unit id="UEPMNT310B" title="Maintain material crushers"/>
+      <unit id="UEPMNT311B" title="Maintain fuel transport equipment"/>
+      <unit id="UEPMNT312B" title="Maintain industrial pressure vessels"/>
+      <unit id="UEPMNT313B" title="Maintain internal combustion engines"/>
+      <unit id="UEPMNT314B" title="Maintain hydro turbines"/>
+      <unit id="UEPMNT315B" title="Maintain wind turbines"/>
+      <unit id="UEPMNT317B" title="Diagnose and repair faults in mechanical equipment"/>
+      <unit id="UEPMNT318B" title="Conduct generator mechanical maintenance"/>
+      <unit id="UEPMNT401B" title="Install and maintain complex mechanical seals"/>
+      <unit id="UEPMNT402B" title="Conduct complex levelling and alignment"/>
+      <unit id="UEPMNT403B" title="Maintain complex mechanical valves"/>
+      <unit id="UEPMNT404B" title="Maintain complex mechanical pumps"/>
+      <unit id="UEPMNT406B" title="Install and maintain a steam turbine"/>
+      <unit id="UEPMNT407B" title="Install and maintain a gas turbine"/>
+      <unit id="UEPMNT408B" title="Install hydro turbines"/>
+      <unit id="UEPMNT419B" title="Perform civil drafting"/>
+      <unit id="UEPMNT421B" title="Conduct technical inspection of process plant and equipment"/>
+      <unit id="UEPMNT422B" title="Conduct performance testing on process plant and equipment"/>
+      <unit id="UEPMNT424B" title="Monitor efficiency of thermal steam cycle power plant"/>
+      <unit id="UEPMNT435A" title="Diagnose and Repair Faults in Wind Turbine Mechanical Systems"/>
+      <unit id="UEPOPS301B" title="Conduct single energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS337B" title="Maintain quality systems within the team"/>
+      <unit id="UEPOPS338B" title="Facilitate effective workplace communication"/>
+      <unit id="UEPOPS402B" title="Conduct multiple energy source isolation procedures for permit to work"/>
+      <unit id="UEPOPS416B" title="Monitor the implementation of the enterprise's production-maintenance quality control procedures"/>
+      <unit id="UEPOPS417B" title="Monitor and implement environmental plans and procedures"/>
+      <unit id="UEPOPS430B" title="Control permit to work operations"/>
+      <unit id="UEPOPS439B" title="Plan and organise work"/>
+      <unit id="UEPOPS440B" title="Coordinate team activities"/>
+      <unit id="UEPOPS501B" title="Manage Occupational Health and Safety policy and procedures"/>
+      <unit id="UEPOPS502B" title="Manage permit to work system"/>
+      <unit id="UEPOPS505B" title="Produce maintenance strategies for generation production plant"/>
+      <unit id="UEPOPS507B" title="Conduct project management"/>
+      <unit id="UEPOPS508B" title="Manage commissioning decommissioning"/>
+      <unit id="UEPOPS509B" title="Manage quality control procedures"/>
+      <unit id="UEPOPS510B" title="Monitor power generation plant reliability"/>
+      <unit id="UEPOPS511B" title="Tune process plant and equipment"/>
+      <unit id="UEPOPS512B" title="Manage the network system"/>
+      <unit id="UEPOPS513B" title="Manage operational crisis to maintain_restore power system integrity"/>
+      <unit id="UEPOPS515B" title="Coordinate power generation"/>
+      <unit id="UEPOPS520A" title="Evaluate cost estimations and initiate appropriate solutions"/>
+      <unit id="UEPOPS523A" title="Manage critical incidents"/>
+      <unit id="UEPOPS524A" title="Evaluate the scheduling of generation"/>
+      <unit id="UEPOPS525A" title="Coordinate and direct switching program"/>
+      <unit id="UEPOPS526A" title="Coordinate electrical energy production"/>
+      <unit id="UEPOPS527A" title="Manage first response team"/>
+      <unit id="UEPOPS528A" title="Manage environmental management systems"/>
+      <unit id="UEPOPS529A" title="Manage operational strategies for power production"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

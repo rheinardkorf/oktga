@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<qualifications class="FPP10">
+  <qualification id="FPP20210" title="Certificate II in Papermaking Operations">
+    <units>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBWRK402A" title="Empower workers"/>
+      <unit id="BSBWRK403A" title="Communicate with workers"/>
+      <unit id="BSBWRK409A" title="Prepare for and participate in dispute resolution"/>
+      <unit id="CPPSEC2011B" title="Control access to and exit from premises"/>
+      <unit id="CPPSEC2015A" title="Patrol premises"/>
+      <unit id="FPPCPP210A" title="Monitor and control coated paper processes"/>
+      <unit id="FPPCPR210A" title="Prepare chemical products"/>
+      <unit id="FPPCSK310A" title="Operate process control equipment"/>
+      <unit id="FPPDEO210A" title="Monitor and control dry end operations"/>
+      <unit id="FPPENV210A" title="Identify and monitor environmental discharges/emissions"/>
+      <unit id="FPPEPG210A" title="Monitor and control power generation system"/>
+      <unit id="FPPFCO210A" title="Monitor, control and shutdown finishing and converting operations"/>
+      <unit id="FPPMHV210A" title="Operate overhead crane"/>
+      <unit id="FPPNUM210A" title="Estimate and calculate basic data"/>
+      <unit id="FPPOHS210A" title="Participate in OHS processes"/>
+      <unit id="FPPOHS310A" title="Contribute to OHS processes"/>
+      <unit id="FPPPLN210A" title="Plan and undertake a routine task"/>
+      <unit id="FPPPRM210A" title="Undertake operator level preventative maintenance"/>
+      <unit id="FPPPRM220A" title="Perform lubrication"/>
+      <unit id="FPPPRS210A" title="Identify and rectify problems in the workplace"/>
+      <unit id="FPPPRV210A" title="Operate ancillary equipment"/>
+      <unit id="FPPPUL250A" title="Store and distribute pulped product"/>
+      <unit id="FPPQAS210A" title="Apply basic quality practices"/>
+      <unit id="FPPREC210A" title="Monitor and control chemical recovery operations"/>
+      <unit id="FPPREL210A" title="Contribute to effective working relationships"/>
+      <unit id="FPPRES260A" title="Receive materials"/>
+      <unit id="FPPRES270A" title="Unload materials"/>
+      <unit id="FPPSTM210A" title="Monitor and control boiler operation"/>
+      <unit id="FPPSUS210A" title="Apply sustainable work practices/policies"/>
+      <unit id="FPPWAR250A" title="Store product"/>
+      <unit id="FPPWAR255A" title="Prepare and dispatch product"/>
+      <unit id="FPPWAR280A" title="Warehouse product packaging"/>
+      <unit id="FPPWAS210A" title="Operate water systems"/>
+      <unit id="FPPWEO210A" title="Monitor and control wet end operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11016B" title="Order materials"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="PMAOHS211B" title="Prepare equipment for emergency response"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3024A" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPP20110" title="Certificate II in Pulping Operations">
+    <units>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBWRK402A" title="Empower workers"/>
+      <unit id="BSBWRK403A" title="Communicate with workers"/>
+      <unit id="BSBWRK409A" title="Prepare for and participate in dispute resolution"/>
+      <unit id="CPPSEC2011B" title="Control access to and exit from premises"/>
+      <unit id="CPPSEC2015A" title="Patrol premises"/>
+      <unit id="FPPCPR210A" title="Prepare chemical products"/>
+      <unit id="FPPCSK310A" title="Operate process control equipment"/>
+      <unit id="FPPENV210A" title="Identify and monitor environmental discharges/emissions"/>
+      <unit id="FPPEPG210A" title="Monitor and control power generation system"/>
+      <unit id="FPPHWP250A" title="Store and dispatch waste paper"/>
+      <unit id="FPPHWP260A" title="Receive waste paper"/>
+      <unit id="FPPHWP270A" title="Unload waste paper"/>
+      <unit id="FPPMHV210A" title="Operate overhead crane"/>
+      <unit id="FPPNUM210A" title="Estimate and calculate basic data"/>
+      <unit id="FPPOHS210A" title="Participate in OHS processes"/>
+      <unit id="FPPOHS310A" title="Contribute to OHS processes"/>
+      <unit id="FPPPLN210A" title="Plan and undertake a routine task"/>
+      <unit id="FPPPRM210A" title="Undertake operator level preventative maintenance"/>
+      <unit id="FPPPRM220A" title="Perform lubrication"/>
+      <unit id="FPPPRS210A" title="Identify and rectify problems in the workplace"/>
+      <unit id="FPPPRV210A" title="Operate ancillary equipment"/>
+      <unit id="FPPPUL210A" title="Monitor and control pulping operations"/>
+      <unit id="FPPPUL250A" title="Store and distribute pulped product"/>
+      <unit id="FPPQAS210A" title="Apply basic quality practices"/>
+      <unit id="FPPREC210A" title="Monitor and control chemical recovery operations"/>
+      <unit id="FPPREL210A" title="Contribute to effective working relationships"/>
+      <unit id="FPPRES210A" title="Prepare and operate the woodchip production system"/>
+      <unit id="FPPRES250A" title="Distribute woodchips"/>
+      <unit id="FPPRES260A" title="Receive materials"/>
+      <unit id="FPPRES270A" title="Unload materials"/>
+      <unit id="FPPSPR210A" title="Monitor and control stock preparation systems"/>
+      <unit id="FPPSTM210A" title="Monitor and control boiler operation"/>
+      <unit id="FPPSUS210A" title="Apply sustainable work practices/policies"/>
+      <unit id="FPPWAS210A" title="Operate water systems"/>
+      <unit id="FPPWPO210A" title="Monitor and control waste paper operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11016B" title="Order materials"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT270A" title="Use sustainable energy practices"/>
+      <unit id="MSACMT271A" title="Use sustainable environmental practices"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="PMAOHS211B" title="Prepare equipment for emergency response"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2022A" title="Participate in stocktakes"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2047A" title="Prepare cargo for transfer with slings"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLID3024A" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLID3031A" title="Rig load"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FPP30210" title="Certificate III in Papermaking Operations">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+    </units>
+  </qualification>
+  <qualification id="FPP30110" title="Certificate III in Pulping Operations">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+    </units>
+  </qualification>
+  <qualification id="FPP40110" title="Certificate IV in Pulping Operations">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBOHS401B" title="Contribute to the implementation of a systematic approach to managing OHS"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+    </units>
+  </qualification>
+  <qualification id="FPP40210" title="Certificate IV in Papermaking Operations">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBOHS401B" title="Contribute to the implementation of a systematic approach to managing OHS"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+    </units>
+  </qualification>
+  <qualification id="FPP50110" title="Diploma of Pulp and Paper Process Management">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBAUD501B" title="Initiate a quality audit"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT507A" title="Manage environmental performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBPMG522A" title="Undertake project work"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="BSBWRK506A" title="Coordinate research and analysis"/>
+      <unit id="FPICOR6201A" title="Manage sustainability in the workplace"/>
+      <unit id="FPICOT5207A" title="Implement sustainability in the workplace"/>
+      <unit id="FPICOT5208A" title="Build and maintain community relationships"/>
+      <unit id="FPICOT6201A" title="Manage community engagement"/>
+      <unit id="FPICOT6205A" title="Prepare an enterprise carbon management report"/>
+      <unit id="FPPNUM430A" title="Calculate and analyse production and financial performance"/>
+      <unit id="FPPOHS420A" title="Manage OHS processes"/>
+      <unit id="FPPPLN420A" title="Plan a complex activity"/>
+      <unit id="FPPQAS430A" title="Oversee quality assurance process"/>
+      <unit id="FPPSUS510A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAETAS501B" title="Undertake organisational training needs analysis"/>
+      <unit id="TLIE4006A" title="Collect, analyse and present workplace data and information"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

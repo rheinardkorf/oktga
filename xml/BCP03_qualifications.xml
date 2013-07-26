@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<qualifications class="BCP03">
+  <qualification id="BCP20303" title="Certificate II in Urban Irrigation">
+    <units>
+      <unit id="BCCPL3001B" title="Install water mains pipelines"/>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCPCM2007A" title="Carry out levelling"/>
+      <unit id="BCPCM2008A" title="Cut and join sheet metal"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPCM2012A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPWT3005A" title="Install water pump sets"/>
+      <unit id="BCPWT3007A" title="Connect irrigation systems from drinking water supply"/>
+      <unit id="BCPWT3008A" title="Install water service"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCP20203" title="Certificate II in Metal Roofing and Cladding">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPCM2012A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPDR2001A" title="Locate and clear blockages"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPRF2004A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="BCPRF3001A" title="Receive roofing materials"/>
+      <unit id="BCPRF3002A" title="Fabricate and install roof drainage components"/>
+      <unit id="BCPRF3003A" title="Fabricate and install external flashings"/>
+      <unit id="BCPRF3004A" title="Install roof components"/>
+      <unit id="BCPRF3005A" title="Install roof coverings to curved roof structures"/>
+      <unit id="BCPRF3006A" title="Install composite roof systems"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCP20103" title="Certificate II in Drainage">
+    <units>
+      <unit id="BCPCM2008A" title="Cut and join sheet metal"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPCM2012A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPDR2003A" title="Maintain effluent disinfection systems"/>
+      <unit id="BCPDR3001A" title="Plan the layout for a residential sanitary drainage system"/>
+      <unit id="BCPDR3004A" title="Install water mains pipe systems"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPSN3005A" title="Install pre-treatment facilities"/>
+    </units>
+  </qualification>
+  <qualification id="BCP30203" title="Certificate III in Plumbing (Mechanical Services)">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCPCM2008A" title="Cut and join sheet metal"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPDR2002A" title="Install domestic treatment plants"/>
+      <unit id="BCPDR2003A" title="Maintain effluent disinfection systems"/>
+      <unit id="BCPDR2004A" title="Install stormwater and sub-soil drainage systems"/>
+      <unit id="BCPDR2005A" title="Drain worksite"/>
+      <unit id="BCPDR2006A" title="Install pre-fabricated inspection openings and enclosures"/>
+      <unit id="BCPDR3002A" title="Install below ground sanitary drainage systems"/>
+      <unit id="BCPDR3003A" title="Install on-site disposal systems"/>
+      <unit id="BCPDR3004A" title="Install water mains pipe systems"/>
+      <unit id="BCPFS2001A" title="Connect static storage tanks"/>
+      <unit id="BCPFS2002A" title="Install portable fire equipment"/>
+      <unit id="BCPFS3003A" title="Fit-off sprinkler heads, controls and ancillary equipment"/>
+      <unit id="BCPFS3004A" title="Install control valve assemblies, actuating devices and local alarms"/>
+      <unit id="BCPFS3008A" title="Test and maintain fire hydrant and hose reel installations"/>
+      <unit id="BCPGS3005A" title="Install LP gas storage of aggregate capacity exceeding 500 litres and less than 8KL"/>
+      <unit id="BCPGS3010A" title="Install a Type B appliance flue"/>
+      <unit id="BCPGS3012A" title="Maintain Type A gas appliances"/>
+      <unit id="BCPGS3015A" title="Install subsidiary gas meters"/>
+      <unit id="BCPIG2001A" title="Design domestic urban irrigation systems"/>
+      <unit id="BCPIG3001A" title="Set out, install and commission irrigation systems"/>
+      <unit id="BCPIG3002A" title="Install and commission domestic irrigation pumps"/>
+      <unit id="BCPMS2001A" title="Assemble mechanical services components"/>
+      <unit id="BCPMS3001A" title="Fabricate and install steel pressure piping"/>
+      <unit id="BCPMS3002A" title="Select and fit insulation and sheathing"/>
+      <unit id="BCPMS3003A" title="Install small bore heating systems"/>
+      <unit id="BCPMS3004A" title="Install medical gas pipeline systems"/>
+      <unit id="BCPMS3005A" title="Install and test ducting systems"/>
+      <unit id="BCPMS3006A" title="Install air handling units"/>
+      <unit id="BCPMS3007A" title="Install split system air conditioning"/>
+      <unit id="BCPMS3008A" title="Install air conditioning control equipment"/>
+      <unit id="BCPMS3009A" title="Maintain mechanical services equipment"/>
+      <unit id="BCPMS3010A" title="Install and maintain evaporative air cooling systems"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPRF2004A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="BCPRF3003A" title="Fabricate and install external flashings"/>
+      <unit id="BCPSN3005A" title="Install pre-treatment facilities"/>
+      <unit id="BCPSN3006A" title="Install sewerage pump sets"/>
+      <unit id="BCPWT3004A" title="Install domestic water treatment equipment"/>
+      <unit id="BCPWT3008A" title="Install water service"/>
+      <unit id="MEM1010AA" title="Install pipework and pipework assemblies"/>
+      <unit id="MEM109AA" title="Install refrigeration and air conditioning plant and equipment"/>
+      <unit id="MEM1886AA" title="Test, evacuate and charge refrigeration systems"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+      <unit id="RTE3605A" title="Troubleshoot irrigation systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCP30103" title="Certificate III in Plumbing">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCPCM2008A" title="Cut and join sheet metal"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPDR2002A" title="Install domestic treatment plants"/>
+      <unit id="BCPDR2003A" title="Maintain effluent disinfection systems"/>
+      <unit id="BCPDR2004A" title="Install stormwater and sub-soil drainage systems"/>
+      <unit id="BCPDR2005A" title="Drain worksite"/>
+      <unit id="BCPDR2006A" title="Install pre-fabricated inspection openings and enclosures"/>
+      <unit id="BCPDR3002A" title="Install below ground sanitary drainage systems"/>
+      <unit id="BCPDR3003A" title="Install on-site disposal systems"/>
+      <unit id="BCPDR3004A" title="Install water mains pipe systems"/>
+      <unit id="BCPFS2001A" title="Connect static storage tanks"/>
+      <unit id="BCPFS2002A" title="Install portable fire equipment"/>
+      <unit id="BCPFS3003A" title="Fit-off sprinkler heads, controls and ancillary equipment"/>
+      <unit id="BCPFS3004A" title="Install control valve assemblies, actuating devices and local alarms"/>
+      <unit id="BCPFS3008A" title="Test and maintain fire hydrant and hose reel installations"/>
+      <unit id="BCPGS3005A" title="Install LP gas storage of aggregate capacity exceeding 500 litres and less than 8KL"/>
+      <unit id="BCPGS3010A" title="Install a Type B appliance flue"/>
+      <unit id="BCPGS3012A" title="Maintain Type A gas appliances"/>
+      <unit id="BCPGS3015A" title="Install subsidiary gas meters"/>
+      <unit id="BCPIG2001A" title="Design domestic urban irrigation systems"/>
+      <unit id="BCPIG3001A" title="Set out, install and commission irrigation systems"/>
+      <unit id="BCPIG3002A" title="Install and commission domestic irrigation pumps"/>
+      <unit id="BCPMS2001A" title="Assemble mechanical services components"/>
+      <unit id="BCPMS3001A" title="Fabricate and install steel pressure piping"/>
+      <unit id="BCPMS3002A" title="Select and fit insulation and sheathing"/>
+      <unit id="BCPMS3003A" title="Install small bore heating systems"/>
+      <unit id="BCPMS3004A" title="Install medical gas pipeline systems"/>
+      <unit id="BCPMS3005A" title="Install and test ducting systems"/>
+      <unit id="BCPMS3006A" title="Install air handling units"/>
+      <unit id="BCPMS3007A" title="Install split system air conditioning"/>
+      <unit id="BCPMS3008A" title="Install air conditioning control equipment"/>
+      <unit id="BCPMS3009A" title="Maintain mechanical services equipment"/>
+      <unit id="BCPMS3010A" title="Install and maintain evaporative air cooling systems"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPRF2004A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="BCPRF3003A" title="Fabricate and install external flashings"/>
+      <unit id="BCPSN3005A" title="Install pre-treatment facilities"/>
+      <unit id="BCPSN3006A" title="Install sewerage pump sets"/>
+      <unit id="BCPWT3004A" title="Install domestic water treatment equipment"/>
+      <unit id="BCPWT3008A" title="Install water service"/>
+      <unit id="MEM1010AA" title="Install pipework and pipework assemblies"/>
+      <unit id="MEM109AA" title="Install refrigeration and air conditioning plant and equipment"/>
+      <unit id="MEM1886AA" title="Test, evacuate and charge refrigeration systems"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+      <unit id="RTE3605A" title="Troubleshoot irrigation systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="BCP30403" title="Certificate III in Gas Fitting">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPCM3003A" title="Fabricate and install non-ferrous pressure piping"/>
+      <unit id="BCPGS3005A" title="Install LP gas storage of aggregate capacity exceeding 500 litres and less than 8KL"/>
+      <unit id="BCPGS3010A" title="Install a Type B appliance flue"/>
+      <unit id="BCPGS3015A" title="Install subsidiary gas meters"/>
+      <unit id="BCPMS2001A" title="Assemble mechanical services components"/>
+      <unit id="BCPMS3001A" title="Fabricate and install steel pressure piping"/>
+      <unit id="BCPMS3003A" title="Install small bore heating systems"/>
+      <unit id="BCPMS3005A" title="Install and test ducting systems"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCP30303" title="Certificate III in Roof Plumbing">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCPCM2009A" title="Cut with oxy-LPG/acetylene"/>
+      <unit id="BCPCM2012A" title="Weld using oxy-acetylene equipment"/>
+      <unit id="BCPCM2013A" title="Weld using arc welding equipment"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPCM3003A" title="Fabricate and install non-ferrous pressure piping"/>
+      <unit id="BCPDR2001A" title="Locate and clear blockages"/>
+      <unit id="BCPDR2004A" title="Install stormwater and sub-soil drainage systems"/>
+      <unit id="BCPDR2005A" title="Drain worksite"/>
+      <unit id="BCPDR2006A" title="Install pre-fabricated inspection openings and enclosures"/>
+      <unit id="BCPMS3002A" title="Select and fit insulation and sheathing"/>
+      <unit id="BCPRF2003A" title="Collect and store roof water"/>
+      <unit id="BCPRF2004A" title="Fabricate roof coverings for curved structures"/>
+      <unit id="BCPRF3005A" title="Install roof coverings to curved roof structures"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCP30503" title="Certificate III in Fire Protection">
+    <units>
+      <unit id="BCF2009A" title="Carry out load slinging of off-site materials"/>
+      <unit id="BCGCM2003B" title="Install trench support"/>
+      <unit id="BCGCM2008B" title="Erect and dismantle restricted height scaffolding"/>
+      <unit id="BCGCM3001B" title="Operate elevated work platforms"/>
+      <unit id="BCGCO2003B" title="Carry out concreting to simple forms"/>
+      <unit id="BCGRI3001B" title="Operate personnel and materials hoists"/>
+      <unit id="BCGWC3006B" title="Install acoustic and thermal environmental protection systems"/>
+      <unit id="BCPCM3001A" title="Flash penetrations through roofs and walls"/>
+      <unit id="BCPCM3002A" title="Weld polyethylene (PE) pipe using fusion method"/>
+      <unit id="BCPDR3004A" title="Install water mains pipe systems"/>
+      <unit id="BCPFS2002A" title="Install portable fire equipment"/>
+      <unit id="BCPRF2001A" title="Work safely on roofs"/>
+      <unit id="MEM549AA" title="Perform routine gas tungsten arc welding"/>
+      <unit id="MEM550AA" title="Perform routine gas metal arc welding"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="BCP40106" title="Certificate IV in Plumbing and Services">
+    <units>
+      <unit id="BCGBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="BCPCM4003A" title="Produce 2-D architectural drawings using CAD software"/>
+      <unit id="BSBCMN310A" title="Deliver and Monitor a Service to Customers"/>
+    </units>
+  </qualification>
+  <qualification id="BCP50106" title="Diploma of Plumbing and Services">
+    <units/>
+  </qualification>
+</qualifications>

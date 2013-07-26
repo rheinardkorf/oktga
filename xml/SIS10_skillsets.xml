@@ -1,0 +1,2009 @@
+<?xml version="1.0"?>
+<skillsets class="SIS10">
+  <skillset id="SISSS00001" title="Abseiling Guide Multi Pitch (Natural Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOABN303A" title="Apply single pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN304A" title="Establish ropes for single pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN305A" title="Guide abseiling on single pitch natural surfaces"/>
+      <unit id="SISOABN406A" title="Apply multi pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN407A" title="Establish ropes for multi pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN409A" title="Guide abseiling on multi pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOOPS407A" title="Apply search and rescue skills"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00002" title="Abseiling Guide Single Pitch  (Natural Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOABN303A" title="Apply single pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN304A" title="Establish ropes for single pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN305A" title="Guide abseiling on single pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00003" title="Abseiling Guide Single Pitch (Artificial Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABA302A" title="Apply single pitch abseiling skills on artificial surfaces"/>
+      <unit id="SISOABA303A" title="Establish ropes for abseiling on artificial surfaces"/>
+      <unit id="SISOABA304A" title="Guide abseiling on single pitch artificial surfaces"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00004" title="Abseiling Instructor Multi Pitch (Artificial Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABA302A" title="Apply single pitch abseiling skills on artificial surfaces"/>
+      <unit id="SISOABA303A" title="Establish ropes for abseiling on artificial surfaces"/>
+      <unit id="SISOABA304A" title="Guide abseiling on single pitch artificial surfaces"/>
+      <unit id="SISOABA406A" title="Instruct abseiling on single pitch artificial surfaces"/>
+      <unit id="SISOABA407A" title="Instruct abseiling on multi pitch artificial surfaces"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00005" title="Abseiling Instructor Multi Pitch (Natural Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOABN303A" title="Apply single pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN304A" title="Establish ropes for single pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN305A" title="Guide abseiling on single pitch natural surfaces"/>
+      <unit id="SISOABN406A" title="Apply multi pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN407A" title="Establish ropes for multi pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN408A" title="Instruct abseiling on single pitch natural surfaces"/>
+      <unit id="SISOABN409A" title="Guide abseiling on multi pitch natural surfaces"/>
+      <unit id="SISOABN510A" title="Instruct abseiling on multi pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00006" title="Abseiling Instructor Single Pitch  (Artificial Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABA302A" title="Apply single pitch abseiling skills on artificial surfaces"/>
+      <unit id="SISOABA303A" title="Establish ropes for abseiling on artificial surfaces"/>
+      <unit id="SISOABA304A" title="Guide abseiling on single pitch artificial surfaces"/>
+      <unit id="SISOABA406A" title="Instruct abseiling on single pitch artificial surfaces"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00007" title="Abseiling Instructor Single Pitch  (Natural Surfaces)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABN202A" title="Safeguard an abseiler using a single rope belay system"/>
+      <unit id="SISOABN303A" title="Apply single pitch abseiling skills on natural surfaces"/>
+      <unit id="SISOABN304A" title="Establish ropes for single pitch abseiling on natural surfaces"/>
+      <unit id="SISOABN305A" title="Guide abseiling on single pitch natural surfaces"/>
+      <unit id="SISOABN408A" title="Instruct abseiling on single pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00008" title="Advanced Coach">
+    <units>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSCO307" title="Provide nutrition information to athletes"/>
+      <unit id="SISSSCO308" title="Support athletes to adopt principles of sports psychology"/>
+      <unit id="SISSSCO410" title="Implement a talent identification program"/>
+      <unit id="SISSSCO512" title="Assist athletes to prevent and manage injury and illness"/>
+      <unit id="SISSSCO513" title="Plan and implement high performance training and recovery programs"/>
+      <unit id="SISXCAI305A" title="Conduct individualised long-term training programs"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+      <unit id="SISXRSK502A" title="Manage organisational risks"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00009" title="Advanced Officiating">
+    <units>
+      <unit id="SISSSOF305" title="Officiate in a high performance environment"/>
+      <unit id="SISSSOF306" title="Apply self-management to enhance high performance officiating"/>
+      <unit id="SISSSOF307" title="Coach officials"/>
+      <unit id="SISXIND408" title="Select and use technology for sport, fitness and recreation"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00011" title="Aquatic Technical Operator">
+    <units>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU303A" title="Operate aquatic facility plant and equipment"/>
+      <unit id="SISCAQU305A" title="Implement aquatic facility plant and equipment maintenance program"/>
+      <unit id="SISCAQU417A" title="Operate self-contained breathing apparatus in an aquatic facility"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00012" title="Bushwalk Specialist - Alpine">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG507A" title="Apply advanced bushwalking skills in alpine areas"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00013" title="Bushwalk Specialist - Arid">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG508A" title="Apply advanced bushwalking skills in arid areas"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00014" title="Bushwalk Specialist - Tropical">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG509A" title="Apply  advanced bushwalking skills in tropical areas"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00015" title="Bushwalking Guide  Controlled Environments">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG201A" title="Demonstrate bushwalking skills in a controlled environment"/>
+      <unit id="SISOBWG303A" title="Guide bushwalks in a controlled environment"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00016" title="Bushwalking Guide  Uncontrolled Environment">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG302A" title="Apply intermediate bushwalking skills"/>
+      <unit id="SISOBWG404A" title="Apply river crossing skills"/>
+      <unit id="SISOBWG405A" title="Guide intermediate bushwalks"/>
+      <unit id="SISOBWG406A" title="Apply bushwalking skills in uncontrolled landscapes"/>
+      <unit id="SISOBWG510A" title="Guide bushwalks in an uncontrolled environment"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00017" title="Bushwalking Guide Intermediate Environment">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOBWG302A" title="Apply intermediate bushwalking skills"/>
+      <unit id="SISOBWG405A" title="Guide intermediate bushwalks"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00018" title="Canoeing Guide Flat Water">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOCNE303A" title="Apply canoeing skills"/>
+      <unit id="SISOCNE305A" title="Guide canoeing trips on flat and undemanding water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00019" title="Canoeing Guide White Water  Grade 2">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE304A" title="Apply inland canoeing skills on Grade 2 water"/>
+      <unit id="SISOCNE307A" title="Guide canoeing trips on Grade 2 water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR302A" title="Demonstrate white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00020" title="Canoeing Guide White Water  Grade 3">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE408A" title="Apply inland canoeing skills on Grade 3 water"/>
+      <unit id="SISOCNE410A" title="Guide canoeing trips on Grade 3 water"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR302A" title="Demonstrate white water rescues and recoveries"/>
+      <unit id="SISOWWR403A" title="Perform complex white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00021" title="Canoeing Instructor Flat Water">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOCNE303A" title="Apply canoeing skills"/>
+      <unit id="SISOCNE305A" title="Guide canoeing trips on flat and undemanding water"/>
+      <unit id="SISOCNE306A" title="Instruct canoeing skills on flat and undemanding water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00022" title="Canoeing Instructor White Water Grade 2">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE304A" title="Apply inland canoeing skills on Grade 2 water"/>
+      <unit id="SISOCNE307A" title="Guide canoeing trips on Grade 2 water"/>
+      <unit id="SISOCNE409A" title="Instruct canoeing skills on Grade 2 water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR302A" title="Demonstrate white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00023" title="Canoeing Instructor White Water Grade 3">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE408A" title="Apply inland canoeing skills on Grade 3 water"/>
+      <unit id="SISOCNE410A" title="Guide canoeing trips on Grade 3 water"/>
+      <unit id="SISOCNE511A" title="Instruct canoeing skills on Grade 3 water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR403A" title="Perform complex white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00024" title="Canyoning Guide  (Multi Pitch)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISOCAY201A" title="Demonstrate horizontal canyoning skills"/>
+      <unit id="SISOCAY302A" title="Apply vertical canyoning skills"/>
+      <unit id="SISOCAY303A" title="Establish belays in canyons"/>
+      <unit id="SISOCAY304A" title="Guide single pitch canyoning trips"/>
+      <unit id="SISOCAY405A" title="Apply advanced vertical canyoning skills"/>
+      <unit id="SISOCAY406A" title="Establish complex belays in canyons"/>
+      <unit id="SISOCAY407A" title="Guide multi pitch canyoning trips"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00025" title="Canyoning Guide (Single Pitch)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISOCAY201A" title="Demonstrate horizontal canyoning skills"/>
+      <unit id="SISOCAY302A" title="Apply vertical canyoning skills"/>
+      <unit id="SISOCAY303A" title="Establish belays in canyons"/>
+      <unit id="SISOCAY304A" title="Guide single pitch canyoning trips"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00026" title="Canyoning Instructor (Single and Multi Pitch)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISOCAY201A" title="Demonstrate horizontal canyoning skills"/>
+      <unit id="SISOCAY302A" title="Apply vertical canyoning skills"/>
+      <unit id="SISOCAY303A" title="Establish belays in canyons"/>
+      <unit id="SISOCAY304A" title="Guide single pitch canyoning trips"/>
+      <unit id="SISOCAY405A" title="Apply advanced vertical canyoning skills"/>
+      <unit id="SISOCAY406A" title="Establish complex belays in canyons"/>
+      <unit id="SISOCAY407A" title="Guide multi pitch canyoning trips"/>
+      <unit id="SISOCAY508A" title="Instruct canyoning skills"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00027" title="Caving Guide - Multi Pitch">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCVE201A" title="Demonstrate caving skills"/>
+      <unit id="SISOCVE302A" title="Apply single pitch abseiling skills in caves"/>
+      <unit id="SISOCVE305A" title="Apply caving specific single rope techniques"/>
+      <unit id="SISOCVE409A" title="Rig ladders in complex situations"/>
+      <unit id="SISOCVE410A" title="Rig a complex pitch using caving specific techniques"/>
+      <unit id="SISOCVE411A" title="Apply vertical caving skills"/>
+      <unit id="SISOCVE412A" title="Rig multi pitches in complex vertical cave systems"/>
+      <unit id="SISOCVE414A" title="Guide vertical multi pitch caving trips"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00028" title="Caving Guide - Single Pitch">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCVE201A" title="Demonstrate caving skills"/>
+      <unit id="SISOCVE302A" title="Apply single pitch abseiling skills in caves"/>
+      <unit id="SISOCVE303A" title="Rig a ladder pitch"/>
+      <unit id="SISOCVE304A" title="Apply laddering skills"/>
+      <unit id="SISOCVE305A" title="Apply caving specific single rope techniques"/>
+      <unit id="SISOCVE306A" title="Rig ropes and establish belays in caves"/>
+      <unit id="SISOCVE307A" title="Guide vertical single pitch caving trips"/>
+      <unit id="SISOCVE308A" title="Guide horizontal caving trips"/>
+      <unit id="SISOCVE411A" title="Apply vertical caving skills"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00029" title="Caving Instructor - Multi Pitch">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCVE201A" title="Demonstrate caving skills"/>
+      <unit id="SISOCVE302A" title="Apply single pitch abseiling skills in caves"/>
+      <unit id="SISOCVE305A" title="Apply caving specific single rope techniques"/>
+      <unit id="SISOCVE307A" title="Guide vertical single pitch caving trips"/>
+      <unit id="SISOCVE409A" title="Rig ladders in complex situations"/>
+      <unit id="SISOCVE410A" title="Rig a complex pitch using caving specific techniques"/>
+      <unit id="SISOCVE411A" title="Apply vertical caving skills"/>
+      <unit id="SISOCVE412A" title="Rig multi pitches in complex vertical cave systems"/>
+      <unit id="SISOCVE522A" title="Instruct vertical multi pitch caving skills"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00030" title="Caving Instructor - Single Pitch">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCVE201A" title="Demonstrate caving skills"/>
+      <unit id="SISOCVE302A" title="Apply single pitch abseiling skills in caves"/>
+      <unit id="SISOCVE303A" title="Rig a ladder pitch"/>
+      <unit id="SISOCVE304A" title="Apply laddering skills"/>
+      <unit id="SISOCVE305A" title="Apply caving specific single rope techniques"/>
+      <unit id="SISOCVE306A" title="Rig ropes and establish belays in caves"/>
+      <unit id="SISOCVE307A" title="Guide vertical single pitch caving trips"/>
+      <unit id="SISOCVE411A" title="Apply vertical caving skills"/>
+      <unit id="SISOCVE417A" title="Instruct vertical single pitch caving skills"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00032" title="Challenge Ropes Course Conductor (High Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOCRP302A" title="Conduct a high ropes session"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00033" title="Challenge Ropes Course Conductor (Low Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOCRP301A" title="Conduct a low ropes session"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00034" title="Challenge Ropes Course Manager (High Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOABL402A" title="Facilitate adventure-based learning activities"/>
+      <unit id="SISOCRP302A" title="Conduct a high ropes session"/>
+      <unit id="SISOCRP404A" title="Supervise a high ropes session"/>
+      <unit id="SISOCRP506A" title="Manage a high ropes course"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00035" title="Challenge Ropes Course Manager (Low Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOABL402A" title="Facilitate adventure-based learning activities"/>
+      <unit id="SISOCRP301A" title="Conduct a low ropes session"/>
+      <unit id="SISOCRP403A" title="Supervise a low ropes session"/>
+      <unit id="SISOCRP505A" title="Manage a low ropes course"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00036" title="Challenge Ropes Course Supervisor (High Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOABL402A" title="Facilitate adventure-based learning activities"/>
+      <unit id="SISOCRP302A" title="Conduct a high ropes session"/>
+      <unit id="SISOCRP404A" title="Supervise a high ropes session"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00037" title="Challenge Ropes Course Supervisor (Low Ropes)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOABL301A" title="Assist in the facilitation of adventure-based learning activities"/>
+      <unit id="SISOABL402A" title="Facilitate adventure-based learning activities"/>
+      <unit id="SISOCRP301A" title="Conduct a low ropes session"/>
+      <unit id="SISOCRP403A" title="Supervise a low ropes session"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00039" title="Climbing Guide (Artificial Surfaces) Top Rope">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLA302A" title="Apply top rope climbing skills on artificial surfaces"/>
+      <unit id="SISOCLA303A" title="Establish belays for climbing on artificial surfaces"/>
+      <unit id="SISOCLA304A" title="Guide top rope climbing activities on artificial surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00040" title="Climbing Guide (Natural Surfaces) Multi Pitch Lead">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN405A" title="Apply single pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN406A" title="Apply multi pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN407A" title="Establish belays for multi pitch climbing on natural surfaces"/>
+      <unit id="SISOCLN410A" title="Guide lead climbing activities on multi pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00041" title="Climbing Guide (Natural Surfaces) Single Pitch Lead">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN405A" title="Apply single pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN408A" title="Guide lead climbing activities on single pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00042" title="Climbing Guide (Natural Surfaces) Top Rope">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN201A" title="Demonstrate top rope climbing skills on natural surfaces"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN304A" title="Guide top rope climbing activities on natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00046" title="Climbing Instructor (Artificial Surfaces) Top Rope">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLA302A" title="Apply top rope climbing skills on artificial surfaces"/>
+      <unit id="SISOCLA303A" title="Establish belays for climbing on artificial surfaces"/>
+      <unit id="SISOCLA304A" title="Guide top rope climbing activities on artificial surfaces"/>
+      <unit id="SISOCLA409A" title="Instruct lead climbing on single pitch artificial surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00047" title="Climbing Instructor (Natural Surfaces) Multi Pitch Lead">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN405A" title="Apply single pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN406A" title="Apply multi pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN407A" title="Establish belays for multi pitch climbing on natural surfaces"/>
+      <unit id="SISOCLN410A" title="Guide lead climbing activities on multi pitch natural surfaces"/>
+      <unit id="SISOCLN512A" title="Instruct lead climbing on multi pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR402A" title="Perform complex vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00048" title="Climbing Instructor (Natural Surfaces) Single Pitch Lead">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN405A" title="Apply single pitch lead climbing skills on natural surfaces"/>
+      <unit id="SISOCLN408A" title="Guide lead climbing activities on single pitch natural surfaces"/>
+      <unit id="SISOCLN411A" title="Instruct lead climbing on single pitch natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00049" title="Climbing Instructor (Natural Surfaces) Top Rope">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCLN302A" title="Apply climbing skills on natural surfaces"/>
+      <unit id="SISOCLN303A" title="Establish belays for climbing on natural surfaces"/>
+      <unit id="SISOCLN304A" title="Guide top rope climbing activities on natural surfaces"/>
+      <unit id="SISOCLN409A" title="Instruct top rope climbs on natural surfaces"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOVTR301A" title="Perform vertical rescues"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00050" title="Community Coach">
+    <units>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00051" title="Community Coach - Tennis">
+    <units>
+      <unit id="SISSSCO101" title="Develop and update knowledge of coaching practices"/>
+      <unit id="SISSSCO202" title="Coach beginner or novice participants to develop fundamental motor skills"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSTNS206" title="Develop and update knowledge of tennis development programs"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00052" title="Cycle Tour Guide On-Road (Day Tours)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOCYT303A" title="Apply on-road cycling skills"/>
+      <unit id="SISOCYT304A" title="Guide on-road cycle tours"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00053" title="Cycle Tour Guide On-Road (Overnight and Extended Tours)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOCYT303A" title="Apply on-road cycling skills"/>
+      <unit id="SISOCYT304A" title="Guide on-road cycle tours"/>
+      <unit id="SISOCYT405A" title="Apply overnight cycle touring skills"/>
+      <unit id="SISOCYT406A" title="Guide overnight and extended cycle tours"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00054" title="Cycle Tour Instructor On-Road (Overnight and Extended Tours)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOCYT303A" title="Apply on-road cycling skills"/>
+      <unit id="SISOCYT405A" title="Apply overnight cycle touring skills"/>
+      <unit id="SISOCYT406A" title="Guide overnight and extended cycle tours"/>
+      <unit id="SISOCYT407A" title="Instruct cycle touring skills"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00055" title="Four Wheel Driving Guide">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISODRV302A" title="Drive and recover a 4WD vehicle"/>
+      <unit id="SISODRV303A" title="Guide 4WD tours"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TLIB2003A" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00056" title="Four Wheel Driving Guide Advanced">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISODRV302A" title="Drive and recover a 4WD vehicle"/>
+      <unit id="SISODRV303A" title="Guide 4WD tours"/>
+      <unit id="SISODRV404A" title="Drive a 4WD vehicle in difficult terrain"/>
+      <unit id="SISODRV405A" title="Coordinate recovery of 4WD vehicles"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00058" title="Golf Officiating">
+    <units>
+      <unit id="SISSGLF202" title="Apply the A-Grade tactics and strategies of golf"/>
+      <unit id="SISSGLF316" title="Interpret and apply the rules of golf"/>
+      <unit id="SISSGLF512" title="Manage the structure and facilitation of golf competitions and tournaments"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00059" title="Horse Program Manager">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO303A" title="Conduct horse riding sessions in an arena"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO407A" title="Select horses for a program"/>
+      <unit id="SISOEQO408A" title="Determine nutritional requirements for horses"/>
+      <unit id="SISOEQO409A" title="Train and condition horses"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00060" title="Horse Riding Assistant Instructor">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00061" title="Horse Riding Instructor">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO303A" title="Conduct horse riding sessions in an arena"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISSEQS303A" title="Teach the fundamental skills of riding"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00062" title="Horse Riding Instructor - Senior">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR304A" title="Educate, ride and care for horses and equipment"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO303A" title="Conduct horse riding sessions in an arena"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO414A" title="Instruct horse riding and handling skills"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISSEQS303A" title="Teach the fundamental skills of riding"/>
+      <unit id="SISXCCS201A" title="Provide customer service"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00063" title="Intermediate Coach">
+    <units>
+      <unit id="SISSSCO303" title="Plan and deliver coaching programs"/>
+      <unit id="SISSSCO304" title="Customise coaching for athletes with specific needs"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSCO307" title="Provide nutrition information to athletes"/>
+      <unit id="SISSSCO308" title="Support athletes to adopt principles of sports psychology"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSCO411" title="Apply self-management to intermediate level coaching"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00064" title="Kayaking Guide Flat Water">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYK201A" title="Demonstrate simple kayaking skills"/>
+      <unit id="SISOKYK302A" title="Apply kayaking skills"/>
+      <unit id="SISOKYK304A" title="Guide kayaking trips on flat and undemanding water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00065" title="Kayaking Guide Grade 3 Water">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOKYK406A" title="Demonstrate inland kayaking skills on Grade 3 water"/>
+      <unit id="SISOKYK409A" title="Guide kayaking trips on Grade 3 water"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR403A" title="Perform complex white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00066" title="Kayaking Guide White Water Grade 2">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOKYK303A" title="Apply inland kayaking skills on Grade 2 water"/>
+      <unit id="SISOKYK305A" title="Guide kayaking trips on Grade 2 water"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR302A" title="Demonstrate white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00067" title="Kayaking Instructor Flat Water">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYK201A" title="Demonstrate simple kayaking skills"/>
+      <unit id="SISOKYK302A" title="Apply kayaking skills"/>
+      <unit id="SISOKYK304A" title="Guide kayaking trips on flat and undemanding water"/>
+      <unit id="SISOKYK407A" title="Instruct kayaking skills on flat and undemanding water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00068" title="Kayaking Instructor White Water Grade 2">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOKYK303A" title="Apply inland kayaking skills on Grade 2 water"/>
+      <unit id="SISOKYK305A" title="Guide kayaking trips on Grade 2 water"/>
+      <unit id="SISOKYK408A" title="Instruct kayaking skills on Grade 2 water"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR302A" title="Demonstrate white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00069" title="Kayaking Instructor White Water Grade 3">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOKYK406A" title="Demonstrate inland kayaking skills on Grade 3 water"/>
+      <unit id="SISOKYK409A" title="Guide kayaking trips on Grade 3 water"/>
+      <unit id="SISOKYK510A" title="Instruct kayaking skills on Grade 3 water"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOWWR201A" title="Demonstrate self rescue skills in white water"/>
+      <unit id="SISOWWR403A" title="Perform complex white water rescues and recoveries"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00070" title="Mountain Bike Guide (Controlled to Intermediate Environment)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOMBK201A" title="Demonstrate basic off-road cycling skills"/>
+      <unit id="SISOMBK303A" title="Guide off-road cycle tours"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00071" title="Mountain Bike Guide (Intermediate  Environment)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOMBK201A" title="Demonstrate basic off-road cycling skills"/>
+      <unit id="SISOMBK302A" title="Apply advanced off-road cycling skills"/>
+      <unit id="SISOMBK303A" title="Guide off-road cycle tours"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00072" title="Mountain Bike Instructor (Intermediate Environment)">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOCYT201A" title="Select, set up and maintain a bike"/>
+      <unit id="SISOCYT202A" title="Demonstrate basic cycling skills"/>
+      <unit id="SISOMBK201A" title="Demonstrate basic off-road cycling skills"/>
+      <unit id="SISOMBK302A" title="Apply advanced off-road cycling skills"/>
+      <unit id="SISOMBK303A" title="Guide off-road cycle tours"/>
+      <unit id="SISOMBK404A" title="Instruct off-road cycling skills"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00073" title="Officiating - Basketball Referee">
+    <units>
+      <unit id="SISSBSB205" title="Interpret and apply the rules of basketball"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00074" title="Officiating - Dynamic">
+    <units>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00075" title="Officiating - Static">
+    <units>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISSSOF101" title="Develop and update officiating knowledge"/>
+      <unit id="SISSSOF203" title="Judge competitive situations"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00076" title="Organisation Governance - Board">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00077" title="Organisation Governance - Committee">
+    <units>
+      <unit id="BSBGOV401A" title="Implement Board member responsibilities"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="SISSSDE201" title="Communicate effectively with others in a sport environment"/>
+      <unit id="SISXIND402" title="Analyse legal knowledge for organisation governance"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00078" title="Pool Lifeguard">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAEME001B" title="Provide emergency care"/>
+      <unit id="PUAEME003C" title="Administer oxygen in an emergency situation"/>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU306A" title="Supervise clients at an aquatic facility or environment"/>
+      <unit id="SISCAQU307A" title="Perform advanced water rescues"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00079" title="Rugby Union  Officiating">
+    <units>
+      <unit id="SISSRGU204A" title="Officiate junior level Rugby Union"/>
+      <unit id="SISSRGU205A" title="Officiate local or district level Rugby Union"/>
+      <unit id="SISSRGU410A" title="Officiate advanced level Rugby Union"/>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00080" title="Sea Kayaking Guide  Easy to Moderate Conditions">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYS302A" title="Demonstrate sea kayaking skills"/>
+      <unit id="SISOKYS303A" title="Guide sea kayaking trips in easy to moderate conditions"/>
+      <unit id="SISOKYS406A" title="Plan and navigate a sea kayaking inshore passage"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS303A" title="Interpret weather for marine environments"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00081" title="Sea Kayaking Guide Moderate to Difficult Conditions">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYS302A" title="Demonstrate sea kayaking skills"/>
+      <unit id="SISOKYS304A" title="Demonstrate sea kayaking skills in moderate to difficult conditions"/>
+      <unit id="SISOKYS408A" title="Guide sea kayaking trips in moderate to difficult conditions"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS303A" title="Interpret weather for marine environments"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00082" title="Sea Kayaking Instructor  Easy to Moderate Conditions">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYS302A" title="Demonstrate sea kayaking skills"/>
+      <unit id="SISOKYS303A" title="Guide sea kayaking trips in easy to moderate conditions"/>
+      <unit id="SISOKYS406A" title="Plan and navigate a sea kayaking inshore passage"/>
+      <unit id="SISOKYS407A" title="Instruct sea kayaking in easy to moderate conditions"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS303A" title="Interpret weather for marine environments"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00083" title="Sea Kayaking Instructor Moderate to Difficult Conditions">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="PUAOPE002B" title="Operate communications systems and equipment"/>
+      <unit id="SISOCNE202A" title="Perform deep water rescues"/>
+      <unit id="SISOKYS302A" title="Demonstrate sea kayaking skills"/>
+      <unit id="SISOKYS304A" title="Demonstrate sea kayaking skills in moderate to difficult conditions"/>
+      <unit id="SISOKYS408A" title="Guide sea kayaking trips in moderate to difficult conditions"/>
+      <unit id="SISOKYS409A" title="Instruct sea kayaking in moderate to difficult conditions"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS303A" title="Interpret weather for marine environments"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00084" title="Skiing Cross Country Instructor Advanced">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKT406A" title="Demonstrate advanced cross country skiing skills"/>
+      <unit id="SISOSKT411A" title="Instruct cross country skiing"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00085" title="Skiing Cross Country Instructor Intermediate">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKT305A" title="Apply snow craft skills for day touring"/>
+      <unit id="SISOSKT406A" title="Demonstrate advanced cross country skiing skills"/>
+      <unit id="SISOSKT408A" title="Apply snow craft skills for overnight touring"/>
+      <unit id="SISOSKT409A" title="Apply intermediate cross country skiing skills"/>
+      <unit id="SISOSKT410A" title="Guide overnight ski tours"/>
+      <unit id="SISOSKT411A" title="Instruct cross country skiing"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00086" title="Skiing Downhill Instructor">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKI402A" title="Alpine ski downhill on intermediate terrain"/>
+      <unit id="SISOSKI403A" title="Alpine ski downhill on advanced terrain"/>
+      <unit id="SISOSKI405A" title="Alpine free ski on all terrain"/>
+      <unit id="SISOSKI408A" title="Instruct alpine skiing skills"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00087" title="Skiing Guide Overnight Intermediate Ski Touring">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKT408A" title="Apply snow craft skills for overnight touring"/>
+      <unit id="SISOSKT410A" title="Guide overnight ski tours"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00088" title="Skiing Guide Overnight Ski Touring">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV403A" title="Navigate in uncontrolled environments"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS202A" title="Use and maintain a temporary or overnight site"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKT407A" title="Overnight ski tour in difficult terrain using advanced ski touring skills"/>
+      <unit id="SISOSKT408A" title="Apply snow craft skills for overnight touring"/>
+      <unit id="SISOSKT409A" title="Apply intermediate cross country skiing skills"/>
+      <unit id="SISOSKT410A" title="Guide overnight ski tours"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00090" title="Skiing Instructor Downhill Telemarking">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS509A" title="Interpret weather for mountain environments"/>
+      <unit id="SISOSKI406A" title="Telemark ski downhill on intermediate terrain"/>
+      <unit id="SISOSKI408A" title="Instruct alpine skiing skills"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00093" title="Sports Trainer Level 1">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISSSCO306" title="Provide drugs in sport information"/>
+      <unit id="SISSSPT302A" title="Provide initial management of sports injuries"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SISSSPT304A" title="Tape ankle, thumb and fingers"/>
+      <unit id="SISSSPT305A" title="Support sports injury management"/>
+      <unit id="SISSSPT306A" title="Deal with medical conditions in a sport setting"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00094" title="Surf Life Saving Officiating">
+    <units>
+      <unit id="SISSSCO409" title="Work collaboratively with support personnel"/>
+      <unit id="SISSSOF202" title="Officiate games or competitions"/>
+      <unit id="SISSSUR202A" title="Officiate beginner level surf life saving competitions"/>
+      <unit id="SISSSUR304A" title="Officiate intermediate level surf life saving competitions"/>
+      <unit id="SISSSUR406A" title="Officiate advanced level surf life saving competitions"/>
+      <unit id="SISXCAI101A" title="Provide equipment for activities"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXFAC207" title="Maintain sport, fitness and recreation equipment for activities"/>
+      <unit id="SISXIND404A" title="Promote compliance with laws and legal principles"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="SISXWHS101" title="Follow work health and safety policies"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00095" title="Swimming and Water Safety Teacher">
+    <units>
+      <unit id="SISCAQU202A" title="Perform basic water rescues"/>
+      <unit id="SISCAQU308A" title="Instruct water familiarisation, buoyancy and mobility skills"/>
+      <unit id="SISCAQU309A" title="Instruct clients in water safety and survival skills"/>
+      <unit id="SISCAQU310A" title="Instruct swimming strokes"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00098" title="Trail Bike Guide">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV201A" title="Demonstrate navigation skills in a controlled environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOTBR201A" title="Select, set up and maintain an off-highway motorcycle"/>
+      <unit id="SISOTBR303A" title="Apply advanced off-highway motorcycling skills"/>
+      <unit id="SISOTBR304A" title="Guide off-highway motorcycle tours"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00101" title="Trail Bike Riding Instruct Advanced Skills">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOODR404A" title="Manage risk in an outdoor activity"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISOTBR201A" title="Select, set up and maintain an off-highway motorcycle"/>
+      <unit id="SISOTBR303A" title="Apply advanced off-highway motorcycling skills"/>
+      <unit id="SISOTBR304A" title="Guide off-highway motorcycle tours"/>
+      <unit id="SISOTBR507A" title="Instruct advanced off-highway motorcycling skills"/>
+      <unit id="SISXCAI306A" title="Facilitate groups"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00103" title="Trail Boss - Day Rides">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO305A" title="Ride horses in tracked areas"/>
+      <unit id="SISOEQO306A" title="Guide day horse trail rides in tracked areas"/>
+      <unit id="SISOEQO407A" title="Select horses for a program"/>
+      <unit id="SISOEQO408A" title="Determine nutritional requirements for horses"/>
+      <unit id="SISOEQO409A" title="Train and condition horses"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00104" title="Trail Boss - Overnight Rides">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR302A" title="Carry out basic hoof care procedures"/>
+      <unit id="AHCHBR306A" title="Prevent and treat equine injury and disease"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="AHCLSK320A" title="Coordinate and monitor livestock transport"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO305A" title="Ride horses in tracked areas"/>
+      <unit id="SISOEQO306A" title="Guide day horse trail rides in tracked areas"/>
+      <unit id="SISOEQO407A" title="Select horses for a program"/>
+      <unit id="SISOEQO408A" title="Determine nutritional requirements for horses"/>
+      <unit id="SISOEQO409A" title="Train and condition horses"/>
+      <unit id="SISOEQO410A" title="Guide overnight horse trail rides in tracked areas"/>
+      <unit id="SISOEQO411A" title="Ride horses in remote areas"/>
+      <unit id="SISOEQO412A" title="Manage horse illness and injuries in remote areas"/>
+      <unit id="SISOEQO413A" title="Guide trail rides in remote areas"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXOHS402A" title="Implement and monitor  occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00105" title="Trail Guide  Assistant">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO305A" title="Ride horses in tracked areas"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+    </units>
+  </skillset>
+  <skillset id="SISSS00106" title="Trail Guide - Day Rides">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO305A" title="Ride horses in tracked areas"/>
+      <unit id="SISOEQO306A" title="Guide day horse trail rides in tracked areas"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00107" title="Trail Guide - Overnight Rides">
+    <units>
+      <unit id="AHCHBR201A" title="Monitor horse health and welfare"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR302A" title="Carry out basic hoof care procedures"/>
+      <unit id="AHCLSK207A" title="Load and unload livestock"/>
+      <unit id="AHCLSK301A" title="Administer medication to livestock"/>
+      <unit id="AHCLSK309A" title="Implement animal health control programs"/>
+      <unit id="AHCLSK320A" title="Coordinate and monitor livestock transport"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOEQO201A" title="Handle horses"/>
+      <unit id="SISOEQO202A" title="Demonstrate basic horse riding skills"/>
+      <unit id="SISOEQO304A" title="Apply first aid for horses"/>
+      <unit id="SISOEQO305A" title="Ride horses in tracked areas"/>
+      <unit id="SISOEQO306A" title="Guide day horse trail rides in tracked areas"/>
+      <unit id="SISOEQO410A" title="Guide overnight horse trail rides in tracked areas"/>
+      <unit id="SISONAV302A" title="Apply navigation skills in an intermediate environment"/>
+      <unit id="SISOODR302A" title="Plan outdoor recreation activities"/>
+      <unit id="SISOODR303A" title="Guide outdoor recreation sessions"/>
+      <unit id="SISOOPS201A" title="Minimise environmental impact"/>
+      <unit id="SISOOPS306A" title="Interpret weather conditions in the field"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+      <unit id="SISXRSK301A" title="Undertake risk analysis of activities"/>
+    </units>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SISSS00108" title="Wilderness First Aid">
+    <units>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="SISOOPS305A" title="Provide first aid in a remote location"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXOHS101A" title="Follow occupational health and safety policies"/>
+    </units>
+  </skillset>
+</skillsets>

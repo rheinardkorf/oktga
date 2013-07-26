@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<qualifications class="PMB07">
+  <qualification id="PMB20107" title="Certificate II in Polymer Processing">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+    </units>
+  </qualification>
+  <qualification id="PMB30107" title="Certificate III in Polymer Processing">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM11005B" title="Pick and process order"/>
+      <unit id="MEM11006B" title="Perform production packaging"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+    </units>
+  </qualification>
+  <qualification id="PMB40107" title="Certificate IV in Polymer Technology">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM11005B" title="Pick and process order"/>
+      <unit id="MEM11006B" title="Perform production packaging"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+    </units>
+  </qualification>
+  <qualification id="PMB50107" title="Diploma of Polymer Technology">
+    <units>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMOHS400A" title="Contribute to OHS management system"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP300A" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="PMBPREP304C" title="Set a die"/>
+      <unit id="PMBPROD247C" title="Hand lay up composites"/>
+      <unit id="PMBPROD347B" title="Produce composites using hand lamination"/>
+      <unit id="PMBPROD380B" title="Produce composites using chopper gun_depositor"/>
+      <unit id="PMBPROD430B" title="Trial a new die_tool"/>
+      <unit id="PMBPROD431B" title="Trial a new, advanced or complex mould"/>
+      <unit id="PMBTECH301B" title="Use material and process knowledge to solve problems"/>
+      <unit id="PMBTECH401B" title="Predict polymer properties and characteristics"/>
+      <unit id="PMBTECH402B" title="Set advanced or complex dies"/>
+      <unit id="PMBTECH403B" title="Test fibre-composites materials and laminates"/>
+      <unit id="PMBTECH404B" title="Mould chemical resistant and_or fire retardant fibre-composites"/>
+      <unit id="PMBTECH405B" title="Repair damaged fibre-composites structures"/>
+      <unit id="PMBTECH406A" title="Diagnose production equipment problems"/>
+      <unit id="PMBTECH501B" title="Analyse equipment performance"/>
+      <unit id="PMBTECH502B" title="Review and analyse production trials and specify retrials"/>
+      <unit id="PMBTECH503B" title="Determine rheology and output of plastics materials from processing equipment"/>
+      <unit id="PMBTECH504B" title="Determine heat transfer loads for processing equipment"/>
+      <unit id="PMBTECH505B" title="Choose polymer materials for an application"/>
+      <unit id="PMBTECH506B" title="Analyse the design of products and tools"/>
+      <unit id="PMBTECH507B" title="Develop fibre composite products using cored-laminate techniques"/>
+      <unit id="PMBTECH508A" title="Develop a new compound"/>
+      <unit id="PMBTECH509A" title="Modify an existing product"/>
+      <unit id="PMBTECH510A" title="Analyse failure in polymeric materials"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMB60107" title="Advanced Diploma of Polymer Technology">
+    <units>
+      <unit id="LMTGN5004A" title="Manage installation and commissioning of equipment and systems"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMOHS400A" title="Contribute to OHS management system"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS601A" title="Establish workplace OHS management system"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMOPS601A" title="Design equipment and system modifications"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP300A" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974005A" title="Perform physical tests"/>
+      <unit id="MSL974010A" title="Perform mechanical tests"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="PMBPREP304C" title="Set a die"/>
+      <unit id="PMBPROD247C" title="Hand lay up composites"/>
+      <unit id="PMBPROD347B" title="Produce composites using hand lamination"/>
+      <unit id="PMBPROD380B" title="Produce composites using chopper gun_depositor"/>
+      <unit id="PMBPROD430B" title="Trial a new die_tool"/>
+      <unit id="PMBPROD431B" title="Trial a new, advanced or complex mould"/>
+      <unit id="PMBTECH301B" title="Use material and process knowledge to solve problems"/>
+      <unit id="PMBTECH401B" title="Predict polymer properties and characteristics"/>
+      <unit id="PMBTECH402B" title="Set advanced or complex dies"/>
+      <unit id="PMBTECH403B" title="Test fibre-composites materials and laminates"/>
+      <unit id="PMBTECH404B" title="Mould chemical resistant and_or fire retardant fibre-composites"/>
+      <unit id="PMBTECH405B" title="Repair damaged fibre-composites structures"/>
+      <unit id="PMBTECH406A" title="Diagnose production equipment problems"/>
+      <unit id="PMBTECH501B" title="Analyse equipment performance"/>
+      <unit id="PMBTECH502B" title="Review and analyse production trials and specify retrials"/>
+      <unit id="PMBTECH503B" title="Determine rheology and output of plastics materials from processing equipment"/>
+      <unit id="PMBTECH504B" title="Determine heat transfer loads for processing equipment"/>
+      <unit id="PMBTECH505B" title="Choose polymer materials for an application"/>
+      <unit id="PMBTECH506B" title="Analyse the design of products and tools"/>
+      <unit id="PMBTECH507B" title="Develop fibre composite products using cored-laminate techniques"/>
+      <unit id="PMBTECH508A" title="Develop a new compound"/>
+      <unit id="PMBTECH509A" title="Modify an existing product"/>
+      <unit id="PMBTECH510A" title="Analyse failure in polymeric materials"/>
+      <unit id="PMBTECH601B" title="Develop a new product"/>
+      <unit id="PMBTECH602B" title="Develop a new die or tool"/>
+      <unit id="PMBTECH603B" title="Design structural_mechanical polymer components"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<qualifications class="PMC04">
+  <qualification id="PMC10104" title="Certificate I in Manufactured Mineral Products">
+    <units>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOPS105B" title="Select and prepare materials"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMCOPS103B" title="Operate equipment"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PMC20104" title="Certificate II in Manufactured Mineral Products">
+    <units>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOPS212A" title="Use enterprise data system"/>
+      <unit id="PMAOPS216A" title="Operate local control system"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS205B" title="Process greenware/green products"/>
+      <unit id="PMCOPS206B" title="Operate an autoclave"/>
+      <unit id="PMCOPS207A" title="Heat accelerate the curing of precast concrete"/>
+      <unit id="PMCOPS208A" title="Operate crushing equipment"/>
+      <unit id="PMCOPS210B" title="Operate a Calcining kiln"/>
+      <unit id="PMCOPS220B" title="Operate slip casting equipment"/>
+      <unit id="PMCOPS221B" title="Operate manual glazing equipment"/>
+      <unit id="PMCOPS222B" title="Prepare materials for clay and ceramic production"/>
+      <unit id="PMCOPS223B" title="Finish products after firing"/>
+      <unit id="PMCOPS224B" title="Hand mould products"/>
+      <unit id="PMCOPS230B" title="Operate a firing kiln"/>
+      <unit id="PMCOPS231B" title="Operate extrusion equipment"/>
+      <unit id="PMCOPS232B" title="Operate pressing equipment"/>
+      <unit id="PMCOPS240B" title="Operate melting process"/>
+      <unit id="PMCOPS241B" title="Operate process ovens"/>
+      <unit id="PMCOPS242B" title="Operate blown insulation equipment"/>
+      <unit id="PMCOPS243B" title="Operate float forming equipment"/>
+      <unit id="PMCOPS244B" title="Operate fibre forming equipment"/>
+      <unit id="PMCOPS245B" title="Operate container forming equipment"/>
+      <unit id="PMCOPS246B" title="Operate glass printing equipment"/>
+      <unit id="PMCOPS247B" title="Operate primary annealing equipment"/>
+      <unit id="PMCOPS248B" title="Operate glass finishing equipment"/>
+      <unit id="PMCOPS249B" title="Operate on-line stacking and assembly equipment"/>
+      <unit id="PMCOPS250B" title="Schedule, cut and bend reinforcement"/>
+      <unit id="PMCOPS251B" title="Finish green concrete products"/>
+      <unit id="PMCOPS252B" title="Cast moulded concrete products"/>
+      <unit id="PMCOPS253B" title="Finish cured concrete products"/>
+      <unit id="PMCOPS254B" title="Spin concrete pipes"/>
+      <unit id="PMCOPS255B" title="Conduct benching operations"/>
+      <unit id="PMCOPS256A" title="Assemble, fabricate and place reinforcement"/>
+      <unit id="PMCOPS257A" title="Finish casting operation"/>
+      <unit id="PMCOPS258A" title="Demould concrete products"/>
+      <unit id="PMCOPS260B" title="Batch mix concrete"/>
+      <unit id="PMCOPS261B" title="Deliver concrete to site"/>
+      <unit id="PMCOPS265A" title="Prepare asphalt"/>
+      <unit id="PMCOPS270A" title="Operate forming equipment"/>
+      <unit id="PMCOPS271A" title="Operate wet and dry end equipment"/>
+      <unit id="PMCOPS272A" title="Produce fibrous plasterboard"/>
+      <unit id="PMCOPS290A" title="Use and maintain tools and equipment for refractory operations"/>
+      <unit id="PMCOPS291A" title="Prepare for, install and repair refractory brickwork/blockwork"/>
+      <unit id="PMCOPS292A" title="Prepare for and install mouldable refractory materials"/>
+      <unit id="PMCOPS293A" title="Prepare for and cast refractory materials"/>
+      <unit id="PMCOPS294A" title="Prepare for and apply shotcrete for installation"/>
+      <unit id="PMCOPS295A" title="Prepare for, install and repair ceramic fibre"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC20204" title="Certificate II in Production Support">
+    <units>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAOPS212A" title="Use enterprise data system"/>
+      <unit id="PMAOPS216A" title="Operate local control system"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMBPROD230B" title="Monitor process operations"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS205B" title="Process greenware/green products"/>
+      <unit id="PMCOPS206B" title="Operate an autoclave"/>
+      <unit id="PMCOPS207A" title="Heat accelerate the curing of precast concrete"/>
+      <unit id="PMCOPS208A" title="Operate crushing equipment"/>
+      <unit id="PMCOPS210B" title="Operate a Calcining kiln"/>
+      <unit id="PMCOPS220B" title="Operate slip casting equipment"/>
+      <unit id="PMCOPS221B" title="Operate manual glazing equipment"/>
+      <unit id="PMCOPS222B" title="Prepare materials for clay and ceramic production"/>
+      <unit id="PMCOPS223B" title="Finish products after firing"/>
+      <unit id="PMCOPS224B" title="Hand mould products"/>
+      <unit id="PMCOPS230B" title="Operate a firing kiln"/>
+      <unit id="PMCOPS231B" title="Operate extrusion equipment"/>
+      <unit id="PMCOPS232B" title="Operate pressing equipment"/>
+      <unit id="PMCOPS240B" title="Operate melting process"/>
+      <unit id="PMCOPS241B" title="Operate process ovens"/>
+      <unit id="PMCOPS242B" title="Operate blown insulation equipment"/>
+      <unit id="PMCOPS243B" title="Operate float forming equipment"/>
+      <unit id="PMCOPS244B" title="Operate fibre forming equipment"/>
+      <unit id="PMCOPS245B" title="Operate container forming equipment"/>
+      <unit id="PMCOPS246B" title="Operate glass printing equipment"/>
+      <unit id="PMCOPS247B" title="Operate primary annealing equipment"/>
+      <unit id="PMCOPS248B" title="Operate glass finishing equipment"/>
+      <unit id="PMCOPS249B" title="Operate on-line stacking and assembly equipment"/>
+      <unit id="PMCOPS250B" title="Schedule, cut and bend reinforcement"/>
+      <unit id="PMCOPS251B" title="Finish green concrete products"/>
+      <unit id="PMCOPS252B" title="Cast moulded concrete products"/>
+      <unit id="PMCOPS253B" title="Finish cured concrete products"/>
+      <unit id="PMCOPS254B" title="Spin concrete pipes"/>
+      <unit id="PMCOPS255B" title="Conduct benching operations"/>
+      <unit id="PMCOPS256A" title="Assemble, fabricate and place reinforcement"/>
+      <unit id="PMCOPS257A" title="Finish casting operation"/>
+      <unit id="PMCOPS258A" title="Demould concrete products"/>
+      <unit id="PMCOPS260B" title="Batch mix concrete"/>
+      <unit id="PMCOPS261B" title="Deliver concrete to site"/>
+      <unit id="PMCOPS265A" title="Prepare asphalt"/>
+      <unit id="PMCOPS270A" title="Operate forming equipment"/>
+      <unit id="PMCOPS271A" title="Operate wet and dry end equipment"/>
+      <unit id="PMCOPS272A" title="Produce fibrous plasterboard"/>
+      <unit id="PMCOPS290A" title="Use and maintain tools and equipment for refractory operations"/>
+      <unit id="PMCOPS291A" title="Prepare for, install and repair refractory brickwork/blockwork"/>
+      <unit id="PMCOPS292A" title="Prepare for and install mouldable refractory materials"/>
+      <unit id="PMCOPS293A" title="Prepare for and cast refractory materials"/>
+      <unit id="PMCOPS294A" title="Prepare for and apply shotcrete for installation"/>
+      <unit id="PMCOPS295A" title="Prepare for, install and repair ceramic fibre"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC30204" title="Certificate III in Production Support">
+    <units>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+      <unit id="TDTC497C" title="Drive heavy rigid vehicle"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC30104" title="Certificate III in Manufactured Mineral Products">
+    <units>
+      <unit id="PMACOM300A" title="Contribute to the development of plant documentation"/>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAOHS300B" title="Implement and monitor OHS policies and procedures for a work group"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMAPER300C" title="Issue work permits"/>
+      <unit id="PMAPER302B" title="Issue work permits (hot work/confined space)"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMASUP300B" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="PMASUP320A" title="Implement and monitor environmental policies"/>
+      <unit id="PMASUP330B" title="Schedule production"/>
+      <unit id="PMASUP390A" title="Use structured problem solving tools"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS300B" title="Set up and tune a process"/>
+      <unit id="PMCOPS301B" title="Operate centralised process control systems"/>
+      <unit id="PMCOPS310B" title="Process raw meal into product"/>
+      <unit id="PMCOPS320B" title="Prepare moulds and dies"/>
+      <unit id="PMCOPS321B" title="Set up and tune glazing equipment"/>
+      <unit id="PMCOPS340B" title="Set up and optimise glass forming process"/>
+      <unit id="PMCOPS341B" title="Set up and optimise glass furnace process"/>
+      <unit id="PMCOPS342B" title="Set up and optimise secondary process"/>
+      <unit id="PMCOPS350B" title="Produce architectural precast concrete"/>
+      <unit id="PMCOPS351A" title="Produce structural precast concrete"/>
+      <unit id="PMCOPS370A" title="Design and construct moulds for fibrous plaster products"/>
+      <unit id="PMCOPS372A" title="Model fibrous plaster products"/>
+      <unit id="PMCOPS380A" title="Set up and optimise finishing process"/>
+      <unit id="PMCOPS390A" title="Test refractory materials"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+      <unit id="PMCSUP380B" title="Oversee team performance"/>
+      <unit id="PMCSUP382A" title="Provide coaching/mentoring in the workplace"/>
+      <unit id="PMCSUP391A" title="Collect and prepare standard samples"/>
+      <unit id="PMCSUP392A" title="Perform basic laboratory tests"/>
+      <unit id="PMCSUP393A" title="Perform instrumental analysis"/>
+      <unit id="TDTC497C" title="Drive heavy rigid vehicle"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC40104" title="Certificate IV in Manufactured Mineral Products">
+    <units>
+      <unit id="BSBCMN402A" title="Develop work priorities"/>
+      <unit id="BSBCMN404A" title="Develop teams and individuals"/>
+      <unit id="BSBCMN410A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCMN412A" title="Promote innovation and change"/>
+      <unit id="BSBFLM402A" title="Show leadership in the workplace"/>
+      <unit id="BSBFLM403A" title="Manage effective workplace relationships"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM405A" title="Implement operational plan"/>
+      <unit id="BSBFLM406A" title="Implement workplace information system"/>
+      <unit id="BSBFLM409A" title="Implement continuous improvement"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="PMACOM300A" title="Contribute to the development of plant documentation"/>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAOHS300B" title="Implement and monitor OHS policies and procedures for a work group"/>
+      <unit id="PMAOHS400B" title="Contribute to workplace OHS management system"/>
+      <unit id="PMAOHS401B" title="Assess risk"/>
+      <unit id="PMAOPS401B" title="Trial new process/product"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMAPER300C" title="Issue work permits"/>
+      <unit id="PMAPER302B" title="Issue work permits (hot work/confined space)"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMASUP300B" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="PMASUP320A" title="Implement and monitor environmental policies"/>
+      <unit id="PMASUP330B" title="Schedule production"/>
+      <unit id="PMASUP390A" title="Use structured problem solving tools"/>
+      <unit id="PMASUP420A" title="Minimise environmental impact of process"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS420C" title="Design and prepare models, moulds and dies"/>
+      <unit id="PMCOPS490A" title="Undertake simple refractory design"/>
+      <unit id="PMCOPS491A" title="Analyse refractory failures"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+      <unit id="PMCSUP380B" title="Oversee team performance"/>
+      <unit id="PMCSUP382A" title="Provide coaching/mentoring in the workplace"/>
+      <unit id="PMCSUP391A" title="Collect and prepare standard samples"/>
+      <unit id="PMCSUP392A" title="Perform basic laboratory tests"/>
+      <unit id="PMCSUP393A" title="Perform instrumental analysis"/>
+      <unit id="TDTC497C" title="Drive heavy rigid vehicle"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC50104" title="Diploma of Manufactured Mineral Products">
+    <units>
+      <unit id="BSBCMN402A" title="Develop work priorities"/>
+      <unit id="BSBCMN404A" title="Develop teams and individuals"/>
+      <unit id="BSBCMN410A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCMN412A" title="Promote innovation and change"/>
+      <unit id="BSBFLM402A" title="Show leadership in the workplace"/>
+      <unit id="BSBFLM403A" title="Manage effective workplace relationships"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM405A" title="Implement operational plan"/>
+      <unit id="BSBFLM406A" title="Implement workplace information system"/>
+      <unit id="BSBFLM409A" title="Implement continuous improvement"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM511A" title="Develop a workplace learning environment"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="PMACOM300A" title="Contribute to the development of plant documentation"/>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAOHS300B" title="Implement and monitor OHS policies and procedures for a work group"/>
+      <unit id="PMAOHS400B" title="Contribute to workplace OHS management system"/>
+      <unit id="PMAOHS401B" title="Assess risk"/>
+      <unit id="PMAOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="PMAOHS510B" title="Manage risk"/>
+      <unit id="PMAOPS511A" title="Determine energy transfer loads"/>
+      <unit id="PMAOPS512A" title="Determine mass transfer loads"/>
+      <unit id="PMAOPS520B" title="Manage utilities"/>
+      <unit id="PMAOPS521B" title="Plan plant shut down"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMAPER300C" title="Issue work permits"/>
+      <unit id="PMAPER302B" title="Issue work permits (hot work/confined space)"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMASUP300B" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="PMASUP320A" title="Implement and monitor environmental policies"/>
+      <unit id="PMASUP330B" title="Schedule production"/>
+      <unit id="PMASUP390A" title="Use structured problem solving tools"/>
+      <unit id="PMASUP420A" title="Minimise environmental impact of process"/>
+      <unit id="PMASUP520A" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMBPREP508A" title="Produce drawings"/>
+      <unit id="PMBTECH502A" title="Review and analyse production trials and specify retrials"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS530B" title="Analyse equipment performance"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+      <unit id="PMCSUP380B" title="Oversee team performance"/>
+      <unit id="PMCSUP382A" title="Provide coaching/mentoring in the workplace"/>
+      <unit id="PMCSUP391A" title="Collect and prepare standard samples"/>
+      <unit id="PMCSUP392A" title="Perform basic laboratory tests"/>
+      <unit id="PMCSUP393A" title="Perform instrumental analysis"/>
+      <unit id="PSPPM502A" title="Manage projects"/>
+      <unit id="TDTC497C" title="Drive heavy rigid vehicle"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMC60104" title="Advanced Diploma of Manufactured Mineral Products">
+    <units>
+      <unit id="BSBCMN402A" title="Develop work priorities"/>
+      <unit id="BSBCMN404A" title="Develop teams and individuals"/>
+      <unit id="BSBCMN410A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCMN412A" title="Promote innovation and change"/>
+      <unit id="BSBFLM402A" title="Show leadership in the workplace"/>
+      <unit id="BSBFLM403A" title="Manage effective workplace relationships"/>
+      <unit id="BSBFLM404A" title="Lead work teams"/>
+      <unit id="BSBFLM405A" title="Implement operational plan"/>
+      <unit id="BSBFLM406A" title="Implement workplace information system"/>
+      <unit id="BSBFLM409A" title="Implement continuous improvement"/>
+      <unit id="BSBFLM504A" title="Facilitate work teams"/>
+      <unit id="BSBFLM505A" title="Manage operational plan"/>
+      <unit id="BSBFLM509A" title="Promote continuous improvement"/>
+      <unit id="BSBFLM510A" title="Facilitate and capitalise on change and innovation"/>
+      <unit id="BSBFLM511A" title="Develop a workplace learning environment"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="LMTEMGN06A" title="Design equipment and system modifications"/>
+      <unit id="LMTEMGN07A" title="Manage installation and commissioning of equipment and systems"/>
+      <unit id="LMTPDHL06A" title="Manage product development projects"/>
+      <unit id="PMACOM300A" title="Contribute to the development of plant documentation"/>
+      <unit id="PMAOHS100B" title="Follow OHS procedures"/>
+      <unit id="PMAOHS110B" title="Respond to emergency situation"/>
+      <unit id="PMAOHS200B" title="Participate in workplace OHS procedures"/>
+      <unit id="PMAOHS300B" title="Implement and monitor OHS policies and procedures for a work group"/>
+      <unit id="PMAOHS400B" title="Contribute to workplace OHS management system"/>
+      <unit id="PMAOHS401B" title="Assess risk"/>
+      <unit id="PMAOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="PMAOHS510B" title="Manage risk"/>
+      <unit id="PMAOHS601A" title="Establish workplace OHS management system"/>
+      <unit id="PMAOPS600B" title="Modify plant"/>
+      <unit id="PMAPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="PMAPER201C" title="Monitor and control work permits"/>
+      <unit id="PMAPER205B" title="Enter confined space"/>
+      <unit id="PMAPER300C" title="Issue work permits"/>
+      <unit id="PMAPER302B" title="Issue work permits (hot work/confined space)"/>
+      <unit id="PMASUP100B" title="Apply workplace procedures"/>
+      <unit id="PMASUP110A" title="Relay and respond to information"/>
+      <unit id="PMASUP120A" title="Follow environmental work practices"/>
+      <unit id="PMASUP130B" title="Follow established work plan"/>
+      <unit id="PMASUP200B" title="Implement production efficiencies"/>
+      <unit id="PMASUP210A" title="Process and record information"/>
+      <unit id="PMASUP220A" title="Monitor and control environmental hazards"/>
+      <unit id="PMASUP300B" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="PMASUP320A" title="Implement and monitor environmental policies"/>
+      <unit id="PMASUP330B" title="Schedule production"/>
+      <unit id="PMASUP390A" title="Use structured problem solving tools"/>
+      <unit id="PMASUP420A" title="Minimise environmental impact of process"/>
+      <unit id="PMASUP520A" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMASUP620A" title="Manage environmental management system"/>
+      <unit id="PMCCOR102A" title="Clean plant and equipment"/>
+      <unit id="PMCOPS630B" title="Develop a new product"/>
+      <unit id="PMCOPS631B" title="Design structural/mechanical components"/>
+      <unit id="PMCSUP170B" title="Shift materials safely"/>
+      <unit id="PMCSUP171B" title="Pack finished products"/>
+      <unit id="PMCSUP172B" title="Store materials for production"/>
+      <unit id="PMCSUP180A" title="Organise self"/>
+      <unit id="PMCSUP181A" title="Work in a team"/>
+      <unit id="PMCSUP270A" title="Move materials"/>
+      <unit id="PMCSUP271B" title="Operate bulk materials handling equipment"/>
+      <unit id="PMCSUP272A" title="Identify and act upon hazards in the workplace"/>
+      <unit id="PMCSUP273A" title="Receive and despatch materials"/>
+      <unit id="PMCSUP274B" title="Undertake minor maintenance"/>
+      <unit id="PMCSUP275A" title="Maintain kiln refractory"/>
+      <unit id="PMCSUP280A" title="Manage conflict at work"/>
+      <unit id="PMCSUP281A" title="Deliver customer service"/>
+      <unit id="PMCSUP282A" title="Use computers and related programs in the workplace"/>
+      <unit id="PMCSUP283B" title="Allocate and complete team tasks"/>
+      <unit id="PMCSUP292A" title="Sample and test materials and product"/>
+      <unit id="PMCSUP380B" title="Oversee team performance"/>
+      <unit id="PMCSUP382A" title="Provide coaching/mentoring in the workplace"/>
+      <unit id="PMCSUP391A" title="Collect and prepare standard samples"/>
+      <unit id="PMCSUP392A" title="Perform basic laboratory tests"/>
+      <unit id="PMCSUP393A" title="Perform instrumental analysis"/>
+      <unit id="PSPPM502A" title="Manage projects"/>
+      <unit id="TDTC497C" title="Drive heavy rigid vehicle"/>
+      <unit id="TDTD1097B" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

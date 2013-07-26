@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<qualifications class="SRO03">
+  <qualification id="SRO10106" title="Certificate I in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO10103" title="Certificate I in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20303" title="Certificate II in Outdoor Recreation (Multiple activities)">
+    <units/>
+  </qualification>
+  <qualification id="SRO20203" title="Certificate II in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20306" title="Certificate II in Outdoor Recreation (Multiple Activities)">
+    <units/>
+  </qualification>
+  <qualification id="SRO20206" title="Certificate II in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20103" title="Certificate II in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20106" title="Certificate II in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30103" title="Certificate III in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30303" title="Certificate III in Outdoor Recreation (Multiple activities)">
+    <units/>
+  </qualification>
+  <qualification id="SRO30106" title="Certificate III in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30206" title="Certificate III in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30306" title="Certificate III in Outdoor Recreation (Multiple Activities)">
+    <units/>
+  </qualification>
+  <qualification id="SRO30203" title="Certificate III in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40206" title="Certificate IV in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40203" title="Certificate IV in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40106" title="Certificate IV in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40103" title="Certificate IV in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50103" title="Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50203" title="Diploma of Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50404" title="Diploma of Facility Management">
+    <units/>
+  </qualification>
+  <qualification id="SRO50206" title="Diploma of Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50106" title="Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50406" title="Diploma of Facility Management">
+    <units/>
+  </qualification>
+  <qualification id="SRO60106" title="Advanced Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO60103" title="Advanced Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+</qualifications>

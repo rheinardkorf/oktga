@@ -1,0 +1,571 @@
+<?xml version="1.0"?>
+<qualifications class="ACM10">
+  <qualification id="ACM10110" title="Certificate I in Animal Studies">
+    <units>
+      <unit id="ACMGAS101A" title="Investigate job opportunities in animal care and related industries"/>
+      <unit id="ACMGAS102A" title="Catch and handle a range of quiet animals"/>
+      <unit id="ACMGAS103A" title="Assist in the care of animals"/>
+      <unit id="ACMGAS202A" title="Participate in workplace communications"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+    </units>
+  </qualification>
+  <qualification id="ACM20110" title="Certificate II in Animal Studies">
+    <units>
+      <unit id="ACMGAS201A" title="Work in the animal care industry"/>
+      <unit id="ACMGAS202A" title="Participate in workplace communications"/>
+      <unit id="ACMGAS203A" title="Complete animal care hygiene routines"/>
+      <unit id="ACMGAS204A" title="Feed and water animals"/>
+      <unit id="ACMGAS205A" title="Assist in health care of animals"/>
+      <unit id="ACMGAS206A" title="Provide basic first aid for animals"/>
+      <unit id="ACMGAS207A" title="Provide reception services for an animal care facility"/>
+      <unit id="ACMGAS208A" title="Source information for animal care needs"/>
+      <unit id="ACMGAS209A" title="Provide information on companion animals, products and services"/>
+      <unit id="ACMGAS210A" title="Prepare for and conduct a tour or presentation"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ACMVET201A" title="Carry out veterinary nursing reception duties"/>
+      <unit id="ACMVET202A" title="Carry out daily clinic routines"/>
+      <unit id="ACMVET203A" title="Assist with surgery preparation"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30410" title="Certificate III in Companion Animal Services">
+    <units>
+      <unit id="ACMCAS301A" title="Work effectively in the companion animal industry"/>
+      <unit id="ACMCAS302A" title="Provide advice on companion animal selection and general care"/>
+      <unit id="ACMCAS303A" title="Provide advice on selection and care of aquatic animals"/>
+      <unit id="ACMCAS304A" title="Capture, handle and transport companion animals"/>
+      <unit id="ACMCAS305A" title="Maintain aquascapes and aquatic animals"/>
+      <unit id="ACMCAS306A" title="Provide grooming services for companion animal comfort"/>
+      <unit id="ACMCAS307A" title="Provide companion animal hydro-bathing services"/>
+      <unit id="ACMGAS203A" title="Complete animal care hygiene routines"/>
+      <unit id="ACMGAS207A" title="Provide reception services for an animal care facility"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMGAS304A" title="Carry out simple breeding procedures"/>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXICT303" title="Operate retail information technology systems"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30510" title="Certificate III in Farriery">
+    <units>
+      <unit id="ACMFAR301A" title="Handle horses safely in the provision of farriery services"/>
+      <unit id="ACMFAR302A" title="Work effectively as a farrier in the equine industries"/>
+      <unit id="ACMFAR303A" title="Perform routine day-to-day farriery activities"/>
+      <unit id="ACMFAR304A" title="Respond to emergencies and apply essential first aid in the equine industries"/>
+      <unit id="ACMFAR305A" title="Perform welding tasks using a forge"/>
+      <unit id="ACMFAR306A" title="Maintain, repair and manufacture hand tools used in farriery"/>
+      <unit id="ACMFAR307A" title="Make standard shoes for a range of horses"/>
+      <unit id="ACMFAR308A" title="Determine foot care and shoeing plans for horses"/>
+      <unit id="ACMFAR309A" title="Fit shoes for normal healthy horses"/>
+      <unit id="ACMFAR310A" title="Fit shoes to alleviate moderate faults and defects in horses"/>
+      <unit id="ACMFAR311A" title="Fit shoes to alleviate severe faults and defects in horses"/>
+      <unit id="ACMFAR312A" title="Accommodate special needs of particular horses through farriery techniques"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="AHCAGB301A" title="Keep records for a primary production business"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30612" title="Certificate III in Pet Grooming">
+    <units>
+      <unit id="ACMCAS301A" title="Work effectively in the companion animal industry"/>
+      <unit id="ACMCAS304A" title="Capture, handle and transport companion animals"/>
+      <unit id="ACMCAS306A" title="Provide grooming services for companion animal comfort"/>
+      <unit id="ACMCAS307A" title="Provide companion animal hydro-bathing services"/>
+      <unit id="ACMGAS203A" title="Complete animal care hygiene routines"/>
+      <unit id="ACMGAS206A" title="Provide basic first aid for animals"/>
+      <unit id="ACMGAS207A" title="Provide reception services for an animal care facility"/>
+      <unit id="ACMGAS209A" title="Provide information on companion animals, products and services"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS306A" title="Assist with conditioning animals"/>
+      <unit id="ACMGRM301A" title="Perform dog grooms on different coat types"/>
+      <unit id="ACMGRM302A" title="Perform a cross breed clip"/>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ACMWHS301A" title="Contribute to workplace health and safety processes"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30110" title="Certificate III in Animal Studies">
+    <units>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS202A" title="Participate in workplace communications"/>
+      <unit id="ACMGAS203A" title="Complete animal care hygiene routines"/>
+      <unit id="ACMGAS207A" title="Provide reception services for an animal care facility"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMGAS304A" title="Carry out simple breeding procedures"/>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30310" title="Certificate III in Captive Animals">
+    <units>
+      <unit id="ACMATE302A" title="Carry out institution containment and exclusion procedures"/>
+      <unit id="ACMCAN301A" title="Work within a captive animal facility"/>
+      <unit id="ACMCAN302A" title="Prepare and present information to the public"/>
+      <unit id="ACMCAN303A" title="Support collection management"/>
+      <unit id="ACMCAN304A" title="Prepare and maintain animal housing"/>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN306A" title="Monitor animal reproduction"/>
+      <unit id="ACMCAN307A" title="Rehabilitate native wildlife"/>
+      <unit id="ACMCAN308A" title="Release native animals to natural environment"/>
+      <unit id="ACMCAN309A" title="Develop institutional husbandry guidelines"/>
+      <unit id="ACMCAN310A" title="Assist with exhibit design and renovation planning"/>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMGAS305A" title="Rescue animals and apply basic first aid"/>
+      <unit id="ACMGAS306A" title="Assist with conditioning animals"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="AHCFAU301A" title="Respond to wildlife emergencies"/>
+      <unit id="AHCNAR202A" title="Maintain wildlife habitat refuges"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM30210" title="Certificate III in Animal Technology">
+    <units>
+      <unit id="ACMATE301A" title="Work within an animal technology facility"/>
+      <unit id="ACMATE302A" title="Carry out institution containment and exclusion procedures"/>
+      <unit id="ACMATE303A" title="Prepare for and monitor anaesthesia in animals"/>
+      <unit id="ACMATE304A" title="Conduct non-surgical procedures on animals"/>
+      <unit id="ACMATE305A" title="Conduct euthanasia of research animals"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMGAS304A" title="Carry out simple breeding procedures"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="ACMVET203A" title="Assist with surgery preparation"/>
+      <unit id="AHCMOM305A" title="Operate specialised machinery and equipment"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973008A" title="Perform histological procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM40512" title="Certificate IV in Equine Dentistry">
+    <units>
+      <unit id="ACMEQD401A" title="Work within an equine dental service provision framework"/>
+      <unit id="ACMEQD402A" title="Determine equine oral function efficiency"/>
+      <unit id="ACMEQD403A" title="Identify potential health impacts of equine oral conditions"/>
+      <unit id="ACMEQD404A" title="Conduct equine oral inspection and assessment and plan equine dental treatment"/>
+      <unit id="ACMEQD405A" title="Perform routine dental correction and oral care using manual instruments"/>
+      <unit id="ACMEQU401A" title="Relate equine anatomical and physiological features to equine health care requirements"/>
+      <unit id="ACMEQU402A" title="Determine nutritional needs in provision of horse health care"/>
+      <unit id="ACMEQU403A" title="Relate musculoskeletal structure to horse movement"/>
+      <unit id="ACMEQU404A" title="Evaluate fit of saddlery and equipment"/>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMOHS401A" title="Maintain occupational health and safety processes"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH308A" title="Provide first aid and emergency care for horses"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="ACM40412" title="Certificate IV in Veterinary Nursing">
+    <units>
+      <unit id="ACMEQU401A" title="Relate equine anatomical and physiological features to equine health care requirements"/>
+      <unit id="ACMEQU402A" title="Determine nutritional needs in provision of horse health care"/>
+      <unit id="ACMEQU405A" title="Maintain and monitor horse health and welfare"/>
+      <unit id="ACMGAS202A" title="Participate in workplace communications"/>
+      <unit id="ACMGAS204A" title="Feed and water animals"/>
+      <unit id="ACMGAS205A" title="Assist in health care of animals"/>
+      <unit id="ACMGAS208A" title="Source information for animal care needs"/>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMMIC401A" title="Implant microchip in cats and dogs"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET201A" title="Carry out veterinary nursing reception duties"/>
+      <unit id="ACMVET202A" title="Carry out daily clinic routines"/>
+      <unit id="ACMVET203A" title="Assist with surgery preparation"/>
+      <unit id="ACMVET401A" title="Coordinate patient admission and discharge"/>
+      <unit id="ACMVET402A" title="Apply imaging routines"/>
+      <unit id="ACMVET403A" title="Perform clinic pathology procedures"/>
+      <unit id="ACMVET404A" title="Perform clinic office procedures"/>
+      <unit id="ACMVET405A" title="Carry out surgical nursing routines"/>
+      <unit id="ACMVET406A" title="Nurse animals"/>
+      <unit id="ACMVET407A" title="Carry out medical nursing routines"/>
+      <unit id="ACMVET408A" title="Coordinate and perform theatre routines"/>
+      <unit id="ACMVET409A" title="Provide specific animal care advice"/>
+      <unit id="ACMVET410A" title="Carry out veterinary dental nursing procedures"/>
+      <unit id="ACMVET411A" title="Prepare, deliver and review animal care education programs"/>
+      <unit id="ACMVET412A" title="Coordinate clinic promotional activities"/>
+      <unit id="ACMVET413A" title="Develop and implement specific clinic policies"/>
+      <unit id="ACMVET414A" title="Nurse foals"/>
+      <unit id="ACMVET415A" title="Provide intensive foal care and nursing"/>
+      <unit id="ACMWHS301A" title="Contribute to workplace health and safety processes"/>
+      <unit id="AHCAIS401A" title="Supervise artificial breeding and/or embryo transfer programs"/>
+      <unit id="AHCHBR202A" title="Handle young horses"/>
+      <unit id="AHCHBR203A" title="Provide daily care for horses"/>
+      <unit id="AHCHBR303A" title="Carry out mare mating or artificial insemination procedures"/>
+      <unit id="AHCHBR305A" title="Handle and care for stallions"/>
+      <unit id="AHCLSK330A" title="Implement procedures for foaling down mares"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM40110" title="Certificate IV in Animal Control and Regulation">
+    <units>
+      <unit id="ACMACR401A" title="Comply with animal control and regulation requirements"/>
+      <unit id="ACMACR402A" title="Assess and impound animals"/>
+      <unit id="ACMACR403A" title="Identify and respond to animal behaviour"/>
+      <unit id="ACMACR404A" title="Manage conflict situations in an animal control and regulation environment"/>
+      <unit id="ACMACR405A" title="Euthanase sick, injured or unwanted pound animals"/>
+      <unit id="ACMACR406A" title="Carry out pound procedures"/>
+      <unit id="ACMACR407A" title="Conduct community awareness programs"/>
+      <unit id="ACMACR408A" title="Coordinate seizure of animals"/>
+      <unit id="ACMACR409A" title="Prepare and present animal control and regulation case"/>
+      <unit id="ACMOHS401A" title="Maintain occupational health and safety processes"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="AHCPMG401A" title="Define the pest problem in a local area"/>
+      <unit id="AHCPMG405A" title="Implement pest management action plans"/>
+      <unit id="AHCVPT306A" title="Apply animal trapping techniques"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="LGAEHRR304B" title="Operate council pound facilities"/>
+      <unit id="LGAPLEM405C" title="Provide assistance in carrying out building inspections"/>
+      <unit id="PSPGOV404B" title="Develop and implement work unit plans"/>
+      <unit id="PSPPM401B" title="Design simple projects"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG405B" title="Act on non-compliance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM40210" title="Certificate IV in Captive Animals">
+    <units>
+      <unit id="ACMCAN301A" title="Work within a captive animal facility"/>
+      <unit id="ACMCAN302A" title="Prepare and present information to the public"/>
+      <unit id="ACMCAN303A" title="Support collection management"/>
+      <unit id="ACMCAN304A" title="Prepare and maintain animal housing"/>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN306A" title="Monitor animal reproduction"/>
+      <unit id="ACMCAN401A" title="Implement collection management"/>
+      <unit id="ACMCAN402A" title="Manage enclosures and exhibits"/>
+      <unit id="ACMCAN403A" title="Develop animal diets"/>
+      <unit id="ACMCAN404A" title="Develop, monitor and review behavioural management strategies"/>
+      <unit id="ACMCAN405A" title="Design and evaluate interpretive and learning programs"/>
+      <unit id="ACMCAN406A" title="Assist in establishing and maintaining a plantation"/>
+      <unit id="ACMCAN501A" title="Contribute to enclosure and exhibit design or renovation projects"/>
+      <unit id="ACMCAN502A" title="Develop and monitor collection management"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMOHS401A" title="Maintain occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM40612" title="Certificate IV in Pet Styling">
+    <units>
+      <unit id="ACMCAS306A" title="Provide grooming services for companion animal comfort"/>
+      <unit id="ACMCAS307A" title="Provide companion animal hydro-bathing services"/>
+      <unit id="ACMCAS401A" title="Manage compliance in the companion animal industry"/>
+      <unit id="ACMCAS407A" title="Provide professional companion animal grooming services"/>
+      <unit id="ACMCAS408A" title="Manage the operation of a mobile hydro-bathing facility"/>
+      <unit id="ACMGAS206A" title="Provide basic first aid for animals"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS306A" title="Assist with conditioning animals"/>
+      <unit id="ACMGRM301A" title="Perform dog grooms on different coat types"/>
+      <unit id="ACMGRM401A" title="Carry out breed standard styling on Gun dog, Working dog and Hound dog breed groups"/>
+      <unit id="ACMGRM402A" title="Carry out breed standard styling on Non-sporting and Toy dog breed groups"/>
+      <unit id="ACMGRM403A" title="Carry out breed standard styling on Terrier and Utility dog groups"/>
+      <unit id="ACMGRM404A" title="Provide creative styling for dogs"/>
+      <unit id="ACMGRM405A" title="Carry out styling on cats of different breed and coat type"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMWHS401A" title="Maintain workplace health and safety processes"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SITXCCS002A" title="Provide quality customer service"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM40310" title="Certificate IV in Companion Animal Services">
+    <units>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMCAS401A" title="Manage compliance in the companion animal industry"/>
+      <unit id="ACMCAS402A" title="Manage and maintain aviaries and bird rooms"/>
+      <unit id="ACMCAS403A" title="Design, construct and maintain aquascapes"/>
+      <unit id="ACMCAS404A" title="Develop enrichment strategies for companion animals"/>
+      <unit id="ACMCAS405A" title="Purchase companion animal livestock"/>
+      <unit id="ACMCAS406A" title="Manage companion animal breeding"/>
+      <unit id="ACMCAS407A" title="Provide professional companion animal grooming services"/>
+      <unit id="ACMCAS408A" title="Manage the operation of a mobile hydro-bathing facility"/>
+      <unit id="ACMCAS409A" title="Provide training advice to companion animal owners"/>
+      <unit id="ACMCAS410A" title="Conduct companion animal training classes"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS306A" title="Assist with conditioning animals"/>
+      <unit id="ACMOHS401A" title="Maintain occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET411A" title="Prepare, deliver and review animal care education programs"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM50412" title="Diploma of Veterinary Nursing (Emergency and Critical Care)">
+    <units>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET505A" title="Prepare for emergency response"/>
+      <unit id="ACMVET506A" title="Perform emergency procedures to sustain life"/>
+      <unit id="ACMVET507A" title="Provide nursing support for critical care surgery"/>
+      <unit id="ACMVET508A" title="Support veterinary practice communication and professional development"/>
+      <unit id="ACMWHS501A" title="Manage workplace health and safety processes"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+  </qualification>
+  <qualification id="ACM50110" title="Diploma of Animal Technology">
+    <units>
+      <unit id="ACMATE301A" title="Work within an animal technology facility"/>
+      <unit id="ACMATE302A" title="Carry out institution containment and exclusion procedures"/>
+      <unit id="ACMATE303A" title="Prepare for and monitor anaesthesia in animals"/>
+      <unit id="ACMATE304A" title="Conduct non-surgical procedures on animals"/>
+      <unit id="ACMATE305A" title="Conduct euthanasia of research animals"/>
+      <unit id="ACMATE501A" title="Manage compliance in animal technology"/>
+      <unit id="ACMATE502A" title="Manage and maintain the health of research animals"/>
+      <unit id="ACMATE503A" title="Carry out post-mortem examination of a research animal"/>
+      <unit id="ACMATE504A" title="Administer anaesthesia and perform surgery on animals for scientific purposes"/>
+      <unit id="ACMATE505A" title="Carry out advanced breeding procedures"/>
+      <unit id="ACMATE507A" title="Manage the parturition of transgenic mice or rats"/>
+      <unit id="ACMCAN404A" title="Develop, monitor and review behavioural management strategies"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMGAS302A" title="Provide enrichment for animals"/>
+      <unit id="ACMGAS303A" title="Plan for and provide nutritional requirements for animals"/>
+      <unit id="ACMGAS304A" title="Carry out simple breeding procedures"/>
+      <unit id="ACMOHS501A" title="Manage occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+      <unit id="ACMSPE304A" title="Provide basic care of dogs"/>
+      <unit id="ACMSPE305A" title="Provide basic care of domestic cats"/>
+      <unit id="ACMSPE306A" title="Provide basic care of marine fish"/>
+      <unit id="ACMSPE307A" title="Provide basic care of freshwater fish"/>
+      <unit id="ACMSPE308A" title="Provide basic care of marine aquatic invertebrates"/>
+      <unit id="ACMSPE309A" title="Provide basic care of terrestrial and freshwater invertebrates"/>
+      <unit id="ACMSPE310A" title="Provide basic care of mammals"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+      <unit id="ACMSPE312A" title="Provide basic care of rodents and rabbits"/>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="MSL915002A" title="Schedule laboratory work for a small team"/>
+      <unit id="MSL916001A" title="Develop and maintain laboratory documentation"/>
+      <unit id="MSL916003A" title="Supervise laboratory operations in work_functional area"/>
+      <unit id="MSL916005A" title="Manage complex projects"/>
+      <unit id="MSL924001A" title="Process and interpret data"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974011A" title="Prepare tissue and cell cultures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="ACM50512" title="Diploma of Veterinary Nursing (General Practice)">
+    <units>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET509A" title="Manage veterinary nursing procedures"/>
+      <unit id="ACMVET510A" title="Apply veterinary nursing pathophysiology"/>
+      <unit id="ACMVET511A" title="Apply principles of animal behaviour"/>
+      <unit id="ACMWHS501A" title="Manage workplace health and safety processes"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+  </qualification>
+  <qualification id="ACM50312" title="Diploma of Veterinary Nursing (Dental)">
+    <units>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET503A" title="Produce veterinary dental oral cavity radiographs"/>
+      <unit id="ACMVET504A" title="Provide veterinary dental nursing support for advanced veterinary dental surgery"/>
+      <unit id="ACMVET508A" title="Support veterinary practice communication and professional development"/>
+      <unit id="ACMWHS501A" title="Manage workplace health and safety processes"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+    </units>
+  </qualification>
+  <qualification id="ACM50212" title="Diploma of Veterinary Nursing (Surgical)">
+    <units>
+      <unit id="ACMSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ACMVET509A" title="Manage veterinary nursing procedures"/>
+      <unit id="ACMVET510A" title="Apply veterinary nursing pathophysiology"/>
+      <unit id="ACMVET511A" title="Apply principles of animal behaviour"/>
+      <unit id="ACMWHS501A" title="Manage workplace health and safety processes"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+  </qualification>
+</qualifications>

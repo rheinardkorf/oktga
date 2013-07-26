@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<qualifications class="UEP06">
+  <qualification id="UEP20110" title="Certificate II in ESI Generation (Operations Support)">
+    <units>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="TLILIC108A" title="Licence to operate a forklift truck"/>
+      <unit id="UEPOPS201A" title="Comply with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS202A" title="Apply Quality Systems to Work"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS204A" title="Maintain and Utilise Records"/>
+      <unit id="UEPOPS205A" title="Conduct Minor Mechanical Maintenance"/>
+      <unit id="UEPOPS206A" title="Conduct Minor/Basic Electrical Maintenance"/>
+      <unit id="UEPOPS207A" title="Perform Plant Lubrication"/>
+      <unit id="UEPOPS208A" title="Operate Local Systems"/>
+      <unit id="UEPOPS209A" title="Perform Process Plant Inspections"/>
+      <unit id="UEPOPS210A" title="Conduct First Response within a Workplace Team"/>
+      <unit id="UEPOPS211A" title="Clean Plant and Equipment"/>
+      <unit id="UEPOPS212A" title="Perform Basic Rigging Work"/>
+      <unit id="UEPOPS213A" title="Perform Intermediate Rigging Work"/>
+      <unit id="UEPOPS214A" title="Perform Dogging Work"/>
+      <unit id="UEPOPS215A" title="Perform Basic Scaffolding"/>
+      <unit id="UEPOPS216A" title="Perform Intermediate Scaffolding"/>
+      <unit id="UEPOPS217A" title="Conduct Elevating Work Platform Operations"/>
+      <unit id="UEPOPS223A" title="Shift and Transfer Materials using a Telescopic Materials Handler-Loader"/>
+      <unit id="UEPOPS226A" title="Shift and Transfer Materials using Bobcats - Wheeled and Tracked"/>
+      <unit id="UEPOPS227A" title="Shift and Transfer Materials using Borers and related attachments"/>
+      <unit id="UEPOPS229A" title="Operate Lifting and Load Shifting Equipment for Loads less than 10 tonnes"/>
+      <unit id="UEPOPS230A" title="Operate Lifting and Load Shifting Equipment for Loads greater than ten tonnes"/>
+      <unit id="UEPOPS231A" title="Operate Explosive Powered Tool"/>
+      <unit id="UEPOPS232A" title="Transport Plant and Equipment"/>
+      <unit id="UEPOPS237A" title="Perform Tool Store Duties"/>
+      <unit id="UEPOPS238A" title="Maintain Battery Banks and Cells"/>
+      <unit id="UEPOPS239A" title="Conduct Minor/Basic Electrical Maintenance"/>
+      <unit id="UEPOPS240A" title="Operate and Monitor Fuel Supply (Coal)"/>
+      <unit id="UEPOPS241A" title="Operate and Monitor Ash and Dust Disposal Plant"/>
+      <unit id="UEPOPS242A" title="Operate and Monitor Dust Collection Plant"/>
+      <unit id="UEPOPS243A" title="Operate Air Conditioning Plant"/>
+      <unit id="UEPOPS244A" title="Operate and Monitor Site Services Water Systems"/>
+      <unit id="UEPOPS245A" title="Conduct Chemical Batching Operations"/>
+      <unit id="UEPOPS246A" title="Operate Waste and Contaminated Water Plant"/>
+      <unit id="UEPOPS247A" title="Operate and Monitor an Internal Combustion Single Fuel Reciprocating Engine"/>
+      <unit id="UEPOPS248A" title="Operate and Monitor an Internal Combustion Dual Fuel Reciprocating Engine"/>
+      <unit id="UEPOPS249A" title="Liaise with Stakeholders"/>
+      <unit id="UEPOPS250A" title="Perform Process Plant Inspections"/>
+      <unit id="UEPOPS356A" title="Apply Environmental and Sustainable Energy Procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEP30206" title="Certificate III in ESI Generation (Operations)">
+    <units>
+      <unit id="BSBCMN302A" title="Organise personal work priorities and development"/>
+      <unit id="UEPOPS201A" title="Comply with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS202A" title="Apply Quality Systems to Work"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS204A" title="Maintain and Utilise Records"/>
+      <unit id="UEPOPS301A" title="Conduct Single Energy Source Isolation Procedures for Permit to Work"/>
+      <unit id="UEPOPS338A" title="Facilitate Effective Workplace Communication"/>
+      <unit id="UEPOPS348A" title="Respond to Critical Incidents"/>
+      <unit id="UEPOPS352A" title="Conduct Operational Checks on In-service Mechanical Plant"/>
+      <unit id="UEPOPS353A" title="Conduct Operational Checks on In-service Electrical Plant"/>
+      <unit id="UEPOPS356A" title="Apply Environmental and Sustainable Energy Procedures"/>
+      <unit id="UEPOPS439A" title="Plan and Organise Work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP30106" title="Certificate III in ESI Generation (Systems Operations)">
+    <units>
+      <unit id="BSBCMN302A" title="Organise personal work priorities and development"/>
+      <unit id="UEPOPS201A" title="Comply with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS202A" title="Apply Quality Systems to Work"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS204A" title="Maintain and Utilise Records"/>
+      <unit id="UEPOPS208A" title="Operate Local Systems"/>
+      <unit id="UEPOPS301A" title="Conduct Single Energy Source Isolation Procedures for Permit to Work"/>
+      <unit id="UEPOPS317A" title="Operate and Monitor Fixed Fire Protection Systems"/>
+      <unit id="UEPOPS344A" title="Conduct Water Conveyance and Control"/>
+      <unit id="UEPOPS347A" title="Operate and Monitor Supervisory, Control and Data Acquisition Systems"/>
+      <unit id="UEPOPS356A" title="Apply Environmental and Sustainable Energy Procedures"/>
+      <unit id="UEPOPS439A" title="Plan and Organise Work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP40306" title="Certificate IV in ESI Generation Maintenance (Mechanical)">
+    <units>
+      <unit id="UEPMNT401A" title="Install and Maintain Complex Mechanical Seals"/>
+      <unit id="UEPMNT402A" title="Conduct Complex Levelling and Alignment"/>
+      <unit id="UEPMNT403A" title="Maintain Complex Mechanical Valves"/>
+      <unit id="UEPMNT404A" title="Maintain Complex Mechanical Pumps"/>
+      <unit id="UEPMNT421A" title="Conduct Technical Inspection of Process Plant and Equipment"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS338A" title="Facilitate Effective Workplace Communication"/>
+      <unit id="UEPOPS401A" title="Monitor Compliance with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS439A" title="Plan and Organise Work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP40206" title="Certificate IV in ESI Generation (Operations)">
+    <units>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS401A" title="Monitor Compliance with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS402A" title="Conduct Multiple Energy Source Isolation Procedures for Permit to Work"/>
+      <unit id="UEPOPS403A" title="Coordinate Permit to Work System"/>
+      <unit id="UEPOPS405A" title="Operate and Monitor AC Electrical Systems"/>
+      <unit id="UEPOPS406A" title="Operate and Monitor DC Electrical Systems"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS424A" title="Coordinate Local H.V. Networks"/>
+      <unit id="UEPOPS426A" title="Interpret and Analyse Multi-Operation Protection Devices"/>
+      <unit id="UEPOPS442A" title="Monitor and Coordinate the Operation of a Combined Cycle Gas Turbine Unit"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP40106" title="Certificate IV in ESI Generation (Systems Operations)">
+    <units>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS348A" title="Respond to Critical Incidents"/>
+      <unit id="UEPOPS401A" title="Monitor Compliance with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS420A" title="Coordinate the Network/System"/>
+      <unit id="UEPOPS423A" title="Plan a Scheduled Outage"/>
+      <unit id="UEPOPS426A" title="Interpret and Analyse Multi-Operation Protection Devices"/>
+      <unit id="UEPOPS428A" title="Develop H.V. Switching Programs"/>
+      <unit id="UEPOPS442A" title="Monitor and Coordinate the Operation of a Combined Cycle Gas Turbine Unit"/>
+    </units>
+  </qualification>
+  <qualification id="UEP40406" title="Certificate IV in ESI Generation Maintenance (Fabrication)">
+    <units>
+      <unit id="UEPMNT302A" title="Install and Maintain Industrial Pipework"/>
+      <unit id="UEPMNT409A" title="Conduct Welding Inspection/Supervision"/>
+      <unit id="UEPMNT421A" title="Conduct Technical Inspection of Process Plant and Equipment"/>
+      <unit id="UEPOPS201A" title="Comply with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS338A" title="Facilitate Effective Workplace Communication"/>
+      <unit id="UEPOPS401A" title="Monitor Compliance with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS439A" title="Plan and Organise Work"/>
+    </units>
+  </qualification>
+  <qualification id="UEP40506" title="Certificate IV in ESI Generation Maintenance (Electrical/Electronic)">
+    <units>
+      <unit id="UEPMNT410A" title="Diagnose and Repair Faults in Electronic Equipment"/>
+      <unit id="UEPMNT411A" title="Diagnose and Repair Faults in Complex Electrical Equipment"/>
+      <unit id="UEPMNT414A" title="Test and Commission Complex Electrical Equipment"/>
+      <unit id="UEPMNT427A" title="Diagnose and Repair Faults in Complex Instrumentation Equipment"/>
+      <unit id="UEPMNT430A" title="Test and Commission Complex Instrumentation Equipment"/>
+      <unit id="UEPMNT431A" title="Test and Commission Electronic Instrumentation Equipment"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS338A" title="Facilitate Effective Workplace Communication"/>
+      <unit id="UEPOPS353A" title="Conduct Operational Checks on In-service Electrical Plant"/>
+      <unit id="UEPOPS401A" title="Monitor Compliance with Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS439A" title="Plan and Organise Work"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP50206" title="Diploma of ESI Generation (Operations)">
+    <units>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS422A" title="Schedule Generation"/>
+      <unit id="UEPOPS501A" title="Manage Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS502A" title="Manage Permit to Work System"/>
+      <unit id="UEPOPS508A" title="Manage Commissioning/Decommissioning"/>
+      <unit id="UEPOPS509A" title="Manage Quality Control Procedures"/>
+      <unit id="UEPOPS511A" title="Tune Process Plant and Equipment"/>
+      <unit id="UEPOPS512A" title="Manage the Network/System"/>
+      <unit id="UEPOPS515A" title="Coordinate Power Generation"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP50306" title="Diploma of ESI Generation (Maintenance)">
+    <units>
+      <unit id="UEPMNT421A" title="Conduct Technical Inspection of Process Plant and Equipment"/>
+      <unit id="UEPMNT423A" title="Conduct Condition Monitoring"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS416A" title="Monitor the Implementation of the Enterprise's Production/Maintenance Quality Control Procedures"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS442A" title="Monitor and Coordinate the Operation of a Combined Cycle Gas Turbine Unit"/>
+      <unit id="UEPOPS501A" title="Manage Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS506A" title="Establish and Implement Operational Strategies for Power Production"/>
+      <unit id="UEPOPS509A" title="Manage Quality Control Procedures"/>
+      <unit id="UEPOPS510A" title="Monitor Power Generation Plant Reliability"/>
+      <unit id="UEPOPS512A" title="Manage the Network/System"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP50406" title="Diploma of ESI Generation (Electrical/Electronic)">
+    <units>
+      <unit id="UEPMNT501A" title="Diagnose and Repair Faults in Electrical and Electronic Systems"/>
+      <unit id="UEPMNT502A" title="Test and Commission Electronic Electrical Systems"/>
+      <unit id="UEPMNT503A" title="Diagnose and Repair Faults in Instrumentation Systems"/>
+      <unit id="UEPMNT504A" title="Test and Commission Instrumentation Systems"/>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS442A" title="Monitor and Coordinate the Operation of a Combined Cycle Gas Turbine Unit"/>
+      <unit id="UEPOPS501A" title="Manage Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS509A" title="Manage Quality Control Procedures"/>
+      <unit id="UEPOPS510A" title="Monitor Power Generation Plant Reliability"/>
+      <unit id="UEPOPS511A" title="Tune Process Plant and Equipment"/>
+      <unit id="UEPOPS513A" title="Manage Operational Crisis to Maintain/Restore Power System Integrity"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UEP50106" title="Diploma of ESI Generation (Systems Operations)">
+    <units>
+      <unit id="UEPOPS203A" title="Operate and Monitor Communications System"/>
+      <unit id="UEPOPS337A" title="Maintain Quality Systems Within the Team"/>
+      <unit id="UEPOPS350A" title="UEPOPS353A Develop Contingency Plans"/>
+      <unit id="UEPOPS404A" title="Coordinate First Response Team Operation"/>
+      <unit id="UEPOPS415A" title="Perform Cost Estimations"/>
+      <unit id="UEPOPS417A" title="Monitor and Implement Environmental Plans and Procedures"/>
+      <unit id="UEPOPS421A" title="Manage Critical Incidents"/>
+      <unit id="UEPOPS429A" title="Coordinate and Direct Switching Program"/>
+      <unit id="UEPOPS501A" title="Manage Occupational Health and Safety Policy and Procedures"/>
+      <unit id="UEPOPS514A" title="Control Hydro Generation/Pumping"/>
+      <unit id="UEPOPS515A" title="Coordinate Power Generation"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

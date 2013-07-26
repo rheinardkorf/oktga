@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<skillsets class="SIF">
+  <skillset id="SIFSS00003" title="Induction to the Funeral Services Industry">
+    <units>
+      <unit id="SIFXCSS001" title="Provide service to clients"/>
+      <unit id="SIFXIND002" title="Work effectively in the funeral services industry"/>
+      <unit id="SIFXIND003" title="Deal with grief responses"/>
+    </units>
+  </skillset>
+  <skillset id="SIFSS00005" title="Safe Exhumation of Burial Sites">
+    <units>
+      <unit id="SIFCBCR010" title="Exhume burial sites"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFCWHS002" title="Work in confined spaces"/>
+    </units>
+  </skillset>
+  <skillset id="SIFSS00004" title="Safe Gravedigging">
+    <units>
+      <unit id="SIFCBCR002" title="Backfill and make good graves"/>
+      <unit id="SIFCBCR003" title="Dig graves manually"/>
+      <unit id="SIFCBCR006" title="Prepare for gravedigging"/>
+      <unit id="SIFCBCR007" title="Dig graves using machinery"/>
+      <unit id="SIFCBCR008" title="Consolidate collapsed graves"/>
+      <unit id="SIFCBCR010" title="Exhume burial sites"/>
+      <unit id="SIFCWHS001" title="Identify hazards and assess risks in a cemetery or crematorium"/>
+      <unit id="SIFCWHS002" title="Work in confined spaces"/>
+      <unit id="SIFXWHS001" title="Follow work health and safety procedures"/>
+    </units>
+  </skillset>
+</skillsets>

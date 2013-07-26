@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<skillsets class="RGR08">
+  <skillset id="RGRSS00001" title="Greyhound Clerk of Scales Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRROP304A" title="Perform duties of clerk of scales at greyhound race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00002" title="Greyhound Lure Driver Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00003" title="Greyhound Race Club Kennel Attendant Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRROP202A" title="Perform duties of kennel attendant at race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00004" title="Greyhound Race Club Parade Official Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRROP203A" title="Perform duties of parade official at greyhound race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00005" title="Greyhound Race Day Attendant Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSG205A" title="Attend greyhounds at race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00006" title="Greyhound Training Operations Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSG402A" title="Manage greyhound health and welfare"/>
+      <unit id="RGRPSG404A" title="Trial and race greyhounds"/>
+      <unit id="RGRPSG405A" title="Operate a greyhound racing training business"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00007" title="Harness Mobile Start Driver Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRROP308A" title="Drive mobile start vehicle"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00008" title="Harness or Thoroughbred Clerk of Course Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRROP303A" title="Perform duties of clerk of course at harness or thoroughbred race meetings and trials"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00009" title="Harness or Thoroughbred Racing Handicapper Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00010" title="Harness or Thoroughbred Training Operations Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSH408A" title="Manage horse health and welfare"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00011" title="Harness Race Starter Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRROP406A" title="Perform duties of harness race starter"/>
+      <unit id="RGRSTD303A" title="Assess racing gear suitability and safety"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00012" title="Harness Trackwork Driver Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH305A" title="Develop driving skills for trackwork"/>
+      <unit id="RGRPSH402A" title="Drive horses in pacework and fast work"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00013" title="Race Meeting Farrier Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRROP403A" title="Perform duties of farrier at race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00014" title="Racing Biological Security Officer Skill Set">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBIO301A" title="Work effectively in an emergency disease or plant pest response"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00015" title="Racing Judge Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRROP411A" title="Perform duties of greyhound or horse race judge"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00016" title="Racing Licensing and Registration Clerk Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRROP312A" title="Perform duties of licensing or registration clerk"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00017" title="Racing Nominations and Acceptances Clerk Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00018" title="Racing Photo Finish Operator Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00019" title="Racing Swab Attendant Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRSWA301A" title="Collect non-blood samples from greyhounds or horses"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00020" title="Racing Timekeeper Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRROP315A" title="Perform duties of timekeeper at greyhound or horse race meetings"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00021" title="Thoroughbred Barrier Attendant Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRROP201A" title="Perform duties of barrier attendant at thoroughbred race meetings and trials"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00022" title="Thoroughbred Exercise Rider Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH306A" title="Develop basic trackwork riding skills"/>
+      <unit id="RGRPSH307A" title="Exercise horses in pacework"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00023" title="Thoroughbred Fast Work Rider Skill Set">
+    <units>
+      <unit id="RGRPSH404A" title="Ride horses at trackwork"/>
+    </units>
+  </skillset>
+  <skillset id="RGRSS00024" title="Thoroughbred Race Starter Skill Set">
+    <units>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRROP407A" title="Perform duties of thoroughbred race starter"/>
+      <unit id="RGRSTD303A" title="Assess racing gear suitability and safety"/>
+    </units>
+  </skillset>
+</skillsets>

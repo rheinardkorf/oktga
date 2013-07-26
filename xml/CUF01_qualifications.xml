@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<qualifications class="CUF01">
+  <qualification id="CUF10101" title="Certificate I in Media">
+    <units/>
+  </qualification>
+  <qualification id="CUF20301" title="Certificate II in Screen">
+    <units/>
+  </qualification>
+  <qualification id="CUF20401" title="Certificate II in Broadcasting (radio)">
+    <units>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+      <unit id="CUETGE7A" title="Carry out manual soldering and desoldering"/>
+      <unit id="CUETGE8A" title="Use hand tools"/>
+      <unit id="CUETGE9A" title="Use power tools/hand-held operation"/>
+      <unit id="CUFAIR01A" title="Develop and maintain the general knowledge required by presenters"/>
+      <unit id="CUFAIR03A" title="Present information on-air"/>
+      <unit id="CUFANM07A" title="Produce traced, photocopied or scanned cels/frames"/>
+      <unit id="CUFANM08A" title="Prepare and produce coloured cels/frames"/>
+      <unit id="CUFBRD01A" title="Communicate using a two way system"/>
+      <unit id="CUFCAM01A" title="Set up and operate a basic video camera"/>
+      <unit id="CUFCAM10A" title="Operate the clapperboard"/>
+      <unit id="CUFCOS04A" title="Modify, repair and maintain costumes"/>
+      <unit id="CUFCOS06A" title="Dress performers"/>
+      <unit id="CUFGEN01A" title="Develop and apply industry knowledge"/>
+      <unit id="CUFGEN02A" title="Identify industry laws and regulations and apply them to workplace activities"/>
+      <unit id="CUFIMA01A" title="Produce and manipulate digital images"/>
+      <unit id="CUFMAR01A" title="Sell products and services"/>
+      <unit id="CUFMEM01A" title="Use an authoring tool to create an interactive sequence"/>
+      <unit id="CUFMEM12A" title="Update web pages"/>
+      <unit id="CUFMEM13A" title="Incorporate, design and edit digital video"/>
+      <unit id="CUFMEM14A" title="Create, manipulate and incorporate 2D graphics"/>
+      <unit id="CUFPOP01A" title="Prepare and participate in an electronic media activity"/>
+      <unit id="CUFPRP04A" title="Repair, maintain and alter props"/>
+      <unit id="CUFSAF01A" title="Follow health, safety and security procedures"/>
+      <unit id="CUFSCE03A" title="Prepare and prime scenic art cloths"/>
+      <unit id="CUFSCE05A" title="Repair, maintain and alter scenic art"/>
+      <unit id="CUFSET04A" title="Repair, maintain and alter sets"/>
+      <unit id="CUFSOU01A" title="Operate the boom"/>
+      <unit id="CUFSOU02A" title="Operate a studio panel"/>
+      <unit id="CULMS413A" title="Use information technology"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN02A" title="Work in a culturally diverse environment"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSOU01A" title="Move and set up instruments and equipment"/>
+      <unit id="CUSSOU02A" title="Operate portable audio recorder"/>
+      <unit id="CUSSOU03A" title="Transfer sound"/>
+      <unit id="CUSSOU04A" title="Record sound"/>
+      <unit id="CUSSOU06A" title="Lay soundtracks"/>
+      <unit id="CUSSOU07A" title="Edit sound using analogue systems"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="ICAITU005B" title="Operate computer hardware"/>
+      <unit id="ICAITU006B" title="Operate computing packages"/>
+      <unit id="ICPMM11BA" title="Identify components of multimedia"/>
+      <unit id="ICPMM41CA" title="Incorporate text into multimedia presentations"/>
+      <unit id="ICPMM44CA" title="Incorporate audio into multimedia presentations"/>
+      <unit id="ICPMM63BA" title="Access the Internet"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+      <unit id="WRH12A" title="Dress (style) hair"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF20601" title="Certificate II in Multimedia">
+    <units/>
+  </qualification>
+  <qualification id="CUF20501" title="Certificate II in Broadcasting (television)">
+    <units>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+      <unit id="CUETGE7A" title="Carry out manual soldering and desoldering"/>
+      <unit id="CUETGE8A" title="Use hand tools"/>
+      <unit id="CUETGE9A" title="Use power tools/hand-held operation"/>
+      <unit id="CUFAIR01A" title="Develop and maintain the general knowledge required by presenters"/>
+      <unit id="CUFAIR03A" title="Present information on-air"/>
+      <unit id="CUFANM07A" title="Produce traced, photocopied or scanned cels/frames"/>
+      <unit id="CUFANM08A" title="Prepare and produce coloured cels/frames"/>
+      <unit id="CUFBRD01A" title="Communicate using a two way system"/>
+      <unit id="CUFCAM01A" title="Set up and operate a basic video camera"/>
+      <unit id="CUFCAM10A" title="Operate the clapperboard"/>
+      <unit id="CUFCOS04A" title="Modify, repair and maintain costumes"/>
+      <unit id="CUFCOS06A" title="Dress performers"/>
+      <unit id="CUFGEN01A" title="Develop and apply industry knowledge"/>
+      <unit id="CUFGEN02A" title="Identify industry laws and regulations and apply them to workplace activities"/>
+      <unit id="CUFIMA01A" title="Produce and manipulate digital images"/>
+      <unit id="CUFMAR01A" title="Sell products and services"/>
+      <unit id="CUFMEM01A" title="Use an authoring tool to create an interactive sequence"/>
+      <unit id="CUFMEM12A" title="Update web pages"/>
+      <unit id="CUFMEM13A" title="Incorporate, design and edit digital video"/>
+      <unit id="CUFMEM14A" title="Create, manipulate and incorporate 2D graphics"/>
+      <unit id="CUFPOP01A" title="Prepare and participate in an electronic media activity"/>
+      <unit id="CUFPRP04A" title="Repair, maintain and alter props"/>
+      <unit id="CUFSAF01A" title="Follow health, safety and security procedures"/>
+      <unit id="CUFSCE03A" title="Prepare and prime scenic art cloths"/>
+      <unit id="CUFSCE05A" title="Repair, maintain and alter scenic art"/>
+      <unit id="CUFSET04A" title="Repair, maintain and alter sets"/>
+      <unit id="CUFSOU01A" title="Operate the boom"/>
+      <unit id="CUFSOU02A" title="Operate a studio panel"/>
+      <unit id="CULMS413A" title="Use information technology"/>
+      <unit id="CUSADM01A" title="Purchase or hire equipment/supplies"/>
+      <unit id="CUSGEN01A" title="Use and adapt to changes in technology"/>
+      <unit id="CUSGEN02A" title="Work in a culturally diverse environment"/>
+      <unit id="CUSRAD01A" title="Collect and organise information"/>
+      <unit id="CUSSOU01A" title="Move and set up instruments and equipment"/>
+      <unit id="CUSSOU02A" title="Operate portable audio recorder"/>
+      <unit id="CUSSOU03A" title="Transfer sound"/>
+      <unit id="CUSSOU04A" title="Record sound"/>
+      <unit id="CUSSOU06A" title="Lay soundtracks"/>
+      <unit id="CUSSOU07A" title="Edit sound using analogue systems"/>
+      <unit id="CUSSOU12A" title="Edit sound using digital systems"/>
+      <unit id="ICAITU005B" title="Operate computer hardware"/>
+      <unit id="ICAITU006B" title="Operate computing packages"/>
+      <unit id="ICPMM11BA" title="Identify components of multimedia"/>
+      <unit id="ICPMM41CA" title="Incorporate text into multimedia presentations"/>
+      <unit id="ICPMM44CA" title="Incorporate audio into multimedia presentations"/>
+      <unit id="ICPMM63BA" title="Access the Internet"/>
+      <unit id="THHGHS03A" title="Provide first aid"/>
+      <unit id="WRH12A" title="Dress (style) hair"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF20201" title="Certificate II in Screen (art and construction)">
+    <units>
+      <unit id="CUFPRP04A" title="Repair, maintain and alter props"/>
+      <unit id="CUFSCE03A" title="Prepare and prime scenic art cloths"/>
+      <unit id="CUFSCE05A" title="Repair, maintain and alter scenic art"/>
+      <unit id="CUFSET04A" title="Repair, maintain and alter sets"/>
+    </units>
+  </qualification>
+  <qualification id="CUF20101" title="Certificate II in Costume">
+    <units/>
+  </qualification>
+  <qualification id="CUF30601" title="Certificate III in Multimedia">
+    <units/>
+  </qualification>
+  <qualification id="CUF30501" title="Certificate III in Broadcasting (remote area operations)">
+    <units>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUEMUP5A" title="Dress (style) wigs"/>
+      <unit id="CUERIG1A" title="Undertake rigging"/>
+      <unit id="CUERIG2A" title="Lower and dismantle rigging equipment"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+    </units>
+  </qualification>
+  <qualification id="CUF30201" title="Certificate III in Screen (laboratory)">
+    <units>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUEMUP5A" title="Dress (style) wigs"/>
+      <unit id="CUERIG1A" title="Undertake rigging"/>
+      <unit id="CUERIG2A" title="Lower and dismantle rigging equipment"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+    </units>
+  </qualification>
+  <qualification id="CUF30301" title="Certificate III in Broadcasting (radio)">
+    <units>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUEMUP5A" title="Dress (style) wigs"/>
+      <unit id="CUERIG1A" title="Undertake rigging"/>
+      <unit id="CUERIG2A" title="Lower and dismantle rigging equipment"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+    </units>
+  </qualification>
+  <qualification id="CUF30401" title="Certificate III in Broadcasting (television)">
+    <units/>
+  </qualification>
+  <qualification id="CUF30101" title="Certificate III in Screen">
+    <units>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECLE1A" title="Undertake general administrative procedures"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUEMUP5A" title="Dress (style) wigs"/>
+      <unit id="CUERIG1A" title="Undertake rigging"/>
+      <unit id="CUERIG2A" title="Lower and dismantle rigging equipment"/>
+      <unit id="CUESOU1A" title="Repair and maintain sound equipment"/>
+      <unit id="CUETGE10A" title="Perform routine manual metal arc and/or gas metal arc welding"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40601" title="Certificate IV in Broadcasting (radio)">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40203" title="Certificate IV in Make-up">
+    <units/>
+  </qualification>
+  <qualification id="CUF40301" title="Certificate IV in Screen (art and construction)">
+    <units/>
+  </qualification>
+  <qualification id="CUF40101" title="Certificate IV in Costume">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40201" title="Certificate IV in Make-up">
+    <units/>
+  </qualification>
+  <qualification id="CUF40401" title="Certificate IV in Screen">
+    <units/>
+  </qualification>
+  <qualification id="CUF40701" title="Certificate IV in Broadcasting (television)">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40801" title="Certificate IV in Multimedia">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+    </units>
+  </qualification>
+  <qualification id="CUF40501" title="Certificate IV in Screen (laboratory)">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOR1A" title="Manage own work and learning"/>
+      <unit id="CUECOR2A" title="Work with others"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUEMAR3A" title="Undertake marketing activities"/>
+    </units>
+  </qualification>
+  <qualification id="CUF50501" title="Diploma of Broadcasting">
+    <units/>
+  </qualification>
+  <qualification id="CUF50203" title="Diploma of Make-up">
+    <units/>
+  </qualification>
+  <qualification id="CUF50201" title="Diploma of Make-up">
+    <units/>
+  </qualification>
+  <qualification id="CUF50101" title="Diploma of Costume">
+    <units/>
+  </qualification>
+  <qualification id="CUF50301" title="Diploma of Screen (art and construction)">
+    <units/>
+  </qualification>
+  <qualification id="CUF50601" title="Diploma of Broadcast Engineering">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOS2A" title="Apply art finishing"/>
+      <unit id="CUECOS5A" title="Make millinery"/>
+      <unit id="CUECOS7A" title="Construct hard and soft sculptured accessories, specialised costumes and costume jewellery"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+    </units>
+  </qualification>
+  <qualification id="CUF50401" title="Diploma of Screen">
+    <units/>
+  </qualification>
+  <qualification id="CUF50701" title="Diploma of Multimedia">
+    <units/>
+  </qualification>
+  <qualification id="CUF60101" title="Advanced Diploma of Screen">
+    <units>
+      <unit id="CUECOS7A" title="Construct hard and soft sculptured accessories, specialised costumes and costume jewellery"/>
+      <unit id="CUEMUP4A" title="Design, apply and remove special effects make-up"/>
+      <unit id="CUESOU6A" title="Design sound systems"/>
+      <unit id="CUETGE6A" title="Prepare, install and operate pyrotechnic effects"/>
+      <unit id="CUFAIR02A" title="Conduct an interview"/>
+      <unit id="CUFANM01A" title="Develop and implement designs for animation"/>
+      <unit id="CUFANM02A" title="Coordinate the production of animation"/>
+      <unit id="CUFANM03A" title="Produce storyboard for animation"/>
+      <unit id="CUFANM12A" title="Prepare camera-ready animation"/>
+      <unit id="CUFCAM02A" title="Develop and implement a camera plan"/>
+      <unit id="CUFCAM03A" title="Compose camera shots and operate a camera"/>
+      <unit id="CUFCAM04A" title="Operate a camera under special conditions"/>
+      <unit id="CUFCOS01A" title="Develop and implement costume designs"/>
+      <unit id="CUFCOS02A" title="Coordinate costume manufacture"/>
+      <unit id="CUFCOS05A" title="Operate an off site wardrobe department"/>
+      <unit id="CUFCOS07A" title="Make character and period costumes"/>
+      <unit id="CUFDRT01A" title="Read and interpret the script"/>
+      <unit id="CUFDRT02A" title="Conduct selection of the performers"/>
+      <unit id="CUFDRT03A" title="Conduct rehearsals of the performers"/>
+      <unit id="CUFDRT04A" title="Direct the performers"/>
+      <unit id="CUFDRT05A" title="Direct the crew"/>
+      <unit id="CUFDRT06A" title="Collaborate with the editor to finalise the production"/>
+      <unit id="CUFDRT07A" title="Devise camera coverage"/>
+      <unit id="CUFEDT01A" title="Make creative and technical editing decisions"/>
+      <unit id="CUFIMA06A" title="Develop and implement visual effects designs"/>
+      <unit id="CUFIMA07A" title="Create titles for screen production"/>
+      <unit id="CUFLGT01A" title="Develop and implement lighting designs"/>
+      <unit id="CUFMUP02A" title="Design, apply and remove make-up"/>
+      <unit id="CUFPOP03A" title="Compile a production schedule"/>
+      <unit id="CUFPOP08A" title="Location manage a film or television shoot"/>
+      <unit id="CUFPOP09A" title="Conduct a briefing"/>
+      <unit id="CUFPOP10A" title="Plan and coordinate the post-production pathway"/>
+      <unit id="CUFPOP18A" title="Design a program format"/>
+      <unit id="CUFPOP20A" title="Write a pre-production safety report"/>
+      <unit id="CUFPOP21A" title="Establish a safety plan for a screen production"/>
+      <unit id="CUFPOP22A" title="Supervise screen production safety"/>
+      <unit id="CUFPOP23A" title="Plan and coordinate stunts or action sequences safely"/>
+      <unit id="CUFPOP24A" title="Plan and coordinate the safe use of armoury"/>
+      <unit id="CUFPOP25A" title="Develop and monitor a program schedule"/>
+      <unit id="CUFPRP01A" title="Develop and implement props designs for the screen"/>
+      <unit id="CUFPRP02A" title="Coordinate props production"/>
+      <unit id="CUFPRP05A" title="Operate an off site props department"/>
+      <unit id="CUFSCE01A" title="Develop and implement scenic art designs for the screen"/>
+      <unit id="CUFSCE02A" title="Coordinate scenic art production"/>
+      <unit id="CUFSET01A" title="Develop and implement set designs for the screen"/>
+      <unit id="CUFSET02A" title="Coordinate set production"/>
+      <unit id="CUFSET05A" title="Coordinate the transportation and assembly of sets"/>
+      <unit id="CUFSFX01A" title="Develop and implement special effects designs for the screen"/>
+      <unit id="CUFSFX02A" title="Coordinate the creation of special effects"/>
+      <unit id="CUFWRT01A" title="Develop a narrative"/>
+      <unit id="CUFWRT02A" title="Write the script"/>
+      <unit id="CUFWRT03A" title="Edit the script"/>
+      <unit id="CUFWRT08A" title="Write narration"/>
+      <unit id="CUSSOU17A" title="Develop and implement sound production for a recording"/>
+      <unit id="CUSSOU18A" title="Manage production for sound design"/>
+      <unit id="CUSSOU19A" title="Manage production for sound recording"/>
+      <unit id="CUSSOU20A" title="Prepare and compile music for a soundtrack"/>
+      <unit id="CUSSOU21A" title="Direct a final audio master"/>
+      <unit id="CUSSOU22A" title="Implement sound design"/>
+      <unit id="ICAITAD058A" title="Apply skills in object oriented design"/>
+      <unit id="ICAITD128A" title="Create user and technical documentation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CUF60401" title="Advanced Diploma of Broadcast Engineering">
+    <units>
+      <unit id="BSXFMI404A" title="Participate in, lead and facilitate work teams"/>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="CUECOS7A" title="Construct hard and soft sculptured accessories, specialised costumes and costume jewellery"/>
+      <unit id="CUEFIN1A" title="Develop a budget"/>
+      <unit id="CUEFIN2A" title="Manage a budget"/>
+      <unit id="CUEFIN3A" title="Obtain sponsorship"/>
+      <unit id="CUEMAR2A" title="Undertake market research"/>
+    </units>
+  </qualification>
+  <qualification id="CUF60501" title="Advanced Diploma of Multimedia">
+    <units/>
+  </qualification>
+  <qualification id="CUF60301" title="Advanced Diploma of Broadcasting">
+    <units/>
+  </qualification>
+</qualifications>

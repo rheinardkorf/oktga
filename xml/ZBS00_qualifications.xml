@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<qualifications class="ZBS00">
+  <qualification id="ZBS40200" title="Certificate IV in Blood Services (Collection of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS40400" title="Certificate IV in Blood Services (Processing of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS40500" title="Certificate IV in Blood Services (Inventory and Distribution of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS40100" title="Certificate IV in Blood Services (Donor Selection for Blood and Blood Component Collection)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS40300" title="Certificate IV in Blood Services (Donor Screening and Product Testing of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS50200" title="Diploma of Blood Services (Collection of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS50100" title="Diploma of Blood Services (Donor Selection for Blood and Blood Component Collection)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS50500" title="Diploma of Blood Services (Inventory and Distribution of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS50400" title="Diploma of Blood Services (Processing of Blood and Blood Components)">
+    <units/>
+  </qualification>
+  <qualification id="ZBS50300" title="Diploma of Blood Services (Donor Screening and Product Testing of Blood and Blood Components)">
+    <units/>
+  </qualification>
+</qualifications>

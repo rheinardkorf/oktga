@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<skillsets class="PSP04">
+  <skillset id="PSPSS00001" title="Basic Procurement Skill Set">
+    <units>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="PSPPROC303A" title="Carry out basic procurement"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00002" title="Customer Service Skill Set">
+    <units>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPGOV202B" title="Use routine workplace communication techniques"/>
+      <unit id="PSPGOV203B" title="Deliver a service to clients"/>
+      <unit id="PSPGOV309A" title="Address client needs"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00003" title="Direct Workplace Emergency Initial Response Skill Set">
+    <units>
+      <unit id="PUAWER010B" title="Lead a workplace emergency initial response team"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00004" title="Foundation Executive Management Skill Set">
+    <units>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="PSPGOV602B" title="Establish and maintain strategic networks"/>
+      <unit id="PSPGOV605A" title="Persuade and influence opinion"/>
+      <unit id="PSPGOV606A" title="Prepare high-level_sensitive written materials"/>
+      <unit id="PSPPOL603A" title="Manage policy implementation"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00005" title="Foundation Procurement Skill Set">
+    <units>
+      <unit id="PSPLEGN401A" title="Encourage compliance with legislation in the public sector"/>
+      <unit id="PSPPROC411A" title="Plan procurement"/>
+      <unit id="PSPPROC413A" title="Select providers and develop contracts"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00006" title="Operate in Customer Contact Environment Skill Set">
+    <units>
+      <unit id="BSBCCO401A" title="Administer customer contact telecommunications technology"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBIND101A" title="Work effectively in a contact centre environment"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00007" title="Prepare for Workplace Inspections Skill Set">
+    <units>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV411A" title="Deal with conflict"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00008" title="Procurement Delegation Skill Set">
+    <units>
+      <unit id="PSPGOV421A" title="Exercise delegations"/>
+      <unit id="PSPPROC406B" title="Procure goods and services"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00009" title="Radiation Environment Safety Skill Set">
+    <units>
+      <unit id="PSPRAD701A" title="Work safely in a radiation environment"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00010" title="Radiation Sealed Sources Safety Skill Set">
+    <units>
+      <unit id="PSPRAD703A" title="Perform basic radiation measurements"/>
+      <unit id="PSPRAD705A" title="Handle and transport radioactive material"/>
+      <unit id="PSPRAD706A" title="Work safely with radiation-sealed source equipment"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00011" title="Radiation Technician Safety Skill Set">
+    <units>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00012" title="Trade Measurement Inspection Skill Set">
+    <units>
+      <unit id="MSATMINS301A" title="Inspect a range of simple measures"/>
+      <unit id="MSATMINS302A" title="Inspect a range of simple measuring instruments"/>
+      <unit id="MSATMREF301A" title="Use and maintain reference standards"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00013" title="Weighbridge Operations Skill Set">
+    <units>
+      <unit id="PSPTRAN405A" title="Operate weighbridges"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00014" title="Workplace Coaching Skill Set">
+    <units>
+      <unit id="PSPGOV506A" title="Support workplace coaching and mentoring"/>
+      <unit id="PSPGOV511A" title="Provide leadership"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00015" title="Workplace Relations Guidance Skill Set">
+    <units>
+      <unit id="PSPWPR501A" title="Provide advice on complex workplace relations issues"/>
+      <unit id="PSPWPR502A" title="Manage compliance with workplace relations legislation"/>
+      <unit id="PSPWPR503A" title="Apply workplace relations dispute-resolution procedures"/>
+      <unit id="PSPWPR504A" title="Support resolution of complaints relating to workplace relations processes"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00016" title="Workplace Relations Information Skill Set">
+    <units>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCMM301A" title="Process customer complaints"/>
+      <unit id="BSBRES402A" title="Research, locate and provide legal and other information in response to requests"/>
+      <unit id="PSPWPR401A" title="Process incoming workplace relations enquiries"/>
+      <unit id="PSPWPR402A" title="Respond to general workplace relations enquiries"/>
+      <unit id="PSPWPR403A" title="Support the provision of workplace relations information"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00017" title="Workplace Relations Inspection and Investigation Supervision Skill Set">
+    <units>
+      <unit id="PSPREG503A" title="Supervise and carry out complex inspections and monitoring"/>
+      <unit id="PSPWPI503C" title="Investigate possible breaches of workplace legislation"/>
+    </units>
+  </skillset>
+  <skillset id="PSPSS00018" title="Writing in a Politically Sensitive Context in Government Skill Set">
+    <units>
+      <unit id="PSPGOV406B" title="Gather and analyse information"/>
+      <unit id="PSPGOV413A" title="Compose complex workplace documents"/>
+      <unit id="PSPGOV422A" title="Apply government processes"/>
+      <unit id="PSPGOV515A" title="Develop and use political nous"/>
+    </units>
+  </skillset>
+</skillsets>

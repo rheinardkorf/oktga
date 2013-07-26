@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<qualifications class="NWP07">
+  <qualification id="NWP10110" title="Certificate I in Water Sustainability">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBLED101A" title="Plan skills development"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="NWP101B" title="Investigate sustainable water cycle management"/>
+      <unit id="NWP102B" title="Design a basic water system model"/>
+      <unit id="NWP103B" title="Demonstrate care and safe practices"/>
+      <unit id="NWP104B" title="Sample and test water sources and quality"/>
+      <unit id="NWP105B" title="Draw and use simple maps, plans and drawings"/>
+    </units>
+  </qualification>
+  <qualification id="NWP20107" title="Certificate II in Water Operations">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="NWP201B" title="Follow defined OHS procedures and regulatory requirements"/>
+      <unit id="NWP202B" title="Apply environmental and licensing procedures"/>
+      <unit id="NWP203B" title="Plan and organise personal work activities"/>
+      <unit id="NWP207A" title="Work effectively in the water industry"/>
+      <unit id="NWP208A" title="Perform basic wastewater tests"/>
+      <unit id="NWP209B" title="Use maps, plans, drawings and specifications"/>
+      <unit id="NWP210B" title="Perform basic water quality tests"/>
+      <unit id="NWP211B" title="Use computerised systems"/>
+      <unit id="NWP213B" title="Monitor and operate irrigation, stock and domestic delivery systems"/>
+      <unit id="NWP215B" title="Install and replace basic volumetric metering equipment"/>
+      <unit id="NWP216B" title="Install basic metering equipment and flow control devices for irrigation systems"/>
+      <unit id="NWP218B" title="Perform and record sampling"/>
+      <unit id="NWP219A" title="Work safely in confined spaces"/>
+      <unit id="NWP220B" title="Collect and control drainage run-off"/>
+      <unit id="NWP221A" title="Operate basic flow control and regulating devices in water or wastewater treatment network systems"/>
+      <unit id="NWP222A" title="Operate basic flow control and regulating devices in irrigation systems"/>
+      <unit id="NWP223A" title="Install basic metering equipment, flow control and regulating devices"/>
+      <unit id="NWP226B" title="Prepare and restore work site"/>
+      <unit id="NWP227B" title="Control vegetation on a site"/>
+      <unit id="NWP229B" title="Repair minor structures"/>
+      <unit id="NWP230B" title="Maintain and repair irrigation channels and drains"/>
+      <unit id="NWP231B" title="Maintain and repair drainage assets"/>
+      <unit id="NWP232B" title="Operate water reticulation and distribution system"/>
+      <unit id="NWP233B" title="Construct and install water distribution assets"/>
+      <unit id="NWP234B" title="Locate, identify and protect utility services"/>
+      <unit id="NWP239B" title="Identify and apply water entitlements and delivery processes"/>
+      <unit id="NWP240B" title="Inspect and report catchment and surrounding areas"/>
+      <unit id="NWP241B" title="Inspect and maintain basic dams and water storages"/>
+      <unit id="NWP242B" title="Monitor and report water extraction"/>
+      <unit id="NWP243B" title="Operate bore fields and groundwater source systems"/>
+      <unit id="NWP244B" title="Maintain and repair bulkwater assets"/>
+      <unit id="NWP245B" title="Maintain tanks and water storage assets"/>
+      <unit id="NWP246B" title="Inspect and maintain public facilities"/>
+      <unit id="NWP247A" title="Maintain catchment and surrounding areas"/>
+      <unit id="NWP250B" title="Construct and install wastewater pipelines"/>
+      <unit id="NWP251B" title="Construct open earthen channels or drains"/>
+      <unit id="NWP252B" title="Construct and install irrigation delivery and stormwater drainage assets"/>
+      <unit id="NWP253B" title="Install and repair water services"/>
+      <unit id="NWP254B" title="Repair or insert water distribution assets"/>
+      <unit id="NWP255B" title="Maintain and repair wastewater collection assets"/>
+      <unit id="NWP256B" title="Monitor and report water distribution systems"/>
+      <unit id="NWP257B" title="Maintain and repair wastewater collection systems"/>
+      <unit id="NWP258B" title="Monitor and operate bulkwater transfer systems"/>
+      <unit id="NWP259B" title="Operate, monitor and maintain pump stations"/>
+      <unit id="NWP260A" title="Monitor and report water treatment processes"/>
+      <unit id="NWP261A" title="Operate and maintain water treatment plant and equipment"/>
+      <unit id="NWP262A" title="Monitor and report wastewater treatment processes"/>
+      <unit id="NWP263A" title="Operate and maintain wastewater treatment plant and equipment"/>
+      <unit id="NWP264B" title="Monitor, operate and report wastewater pre-treatment processes"/>
+      <unit id="NWP268B" title="Monitor, operate and report chlorine disinfection systems"/>
+      <unit id="NWP270B" title="Monitor, operate and report basic anaerobic processes"/>
+      <unit id="NWP271B" title="Monitor, operate and report sedimentation processes"/>
+      <unit id="NWP272B" title="Monitor, operate and report wastewater lagoon processes"/>
+      <unit id="NWP273A" title="Monitor, operate and report ultraviolet irradiation disinfection systems"/>
+      <unit id="NWP274A" title="Monitor, operate and report ozone treatment systems"/>
+      <unit id="NWP275A" title="Monitor, operate and report chlorine dioxide systems"/>
+      <unit id="NWP276A" title="Monitor, operate and report fluoridation processes"/>
+      <unit id="NWP277A" title="Work safely with liquefied chlorine gas"/>
+      <unit id="NWP278A" title="Perform blue green algae sampling"/>
+      <unit id="NWP279" title="Demonstrate knowledge of the risk management principles of the Australian drinking water guidelines"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM210A" title="Install trench support"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="NWP30107" title="Certificate III in Water Operations">
+    <units>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="LGAWORK405A" title="Plan and supervise roadworks"/>
+      <unit id="LGAWORK406A" title="Supervise concrete works"/>
+      <unit id="NWP300B" title="Provide and promote customer service"/>
+      <unit id="NWP301B" title="Implement, monitor and coordinate environmental procedures"/>
+      <unit id="NWP302A" title="Install meters for non-potable, non-urban water supplies"/>
+      <unit id="NWP303A" title="Monitor and control maintenance of water and wastewater system assets"/>
+      <unit id="NWP304A" title="Maintain meters for non-potable, non-urban water supplies"/>
+      <unit id="NWP305B" title="Monitor and conduct minor maintenance on complex flow control and metering devices"/>
+      <unit id="NWP308B" title="Test and commission wastewater collection systems"/>
+      <unit id="NWP309B" title="Test and commission water distribution systems"/>
+      <unit id="NWP310B" title="Monitor and operate water distribution systems"/>
+      <unit id="NWP311B" title="Monitor and operate wastewater collection and transfer systems"/>
+      <unit id="NWP315B" title="Investigate and report on breaches of water industry legislation"/>
+      <unit id="NWP316B" title="Monitor and schedule water deliveries"/>
+      <unit id="NWP317B" title="Control water quality in distribution systems"/>
+      <unit id="NWP318A" title="Monitor and operate gated spillways"/>
+      <unit id="NWP319A" title="Monitor and control dam operations"/>
+      <unit id="NWP320B" title="Monitor and implement dam maintenance"/>
+      <unit id="NWP321B" title="Inspect and operate groundwater regulation"/>
+      <unit id="NWP322B" title="Inspect and operate surface water systems"/>
+      <unit id="NWP323B" title="Monitor and coordinate catchment operations"/>
+      <unit id="NWP324B" title="Inspect and report river regulation operations"/>
+      <unit id="NWP326A" title="Conduct and report dam safety instrumentation monitoring"/>
+      <unit id="NWP327A" title="Inspect and report on concrete dam safety"/>
+      <unit id="NWP328A" title="Inspect and report on embankment dam safety"/>
+      <unit id="NWP330B" title="Establish positions of underground utilities using locating devices"/>
+      <unit id="NWP331B" title="Inspect conduit and report on condition and features"/>
+      <unit id="NWP332B" title="Monitor and control drainage operations"/>
+      <unit id="NWP333B" title="Monitor and control rural water distribution operations"/>
+      <unit id="NWP338B" title="Perform infiltration and odour investigations"/>
+      <unit id="NWP339B" title="Perform leak detection"/>
+      <unit id="NWP340A" title="Measure and process hydrometric stream discharge data using wading gaugings"/>
+      <unit id="NWP342A" title="Commission, decommission and monitor hydrometric sites, stations and facilities"/>
+      <unit id="NWP345B" title="Monitor, operate and control water treatment processes"/>
+      <unit id="NWP346B" title="Monitor, operate and control wastewater treatment processes"/>
+      <unit id="NWP347B" title="Monitor, operate and control coagulation and flocculation processes"/>
+      <unit id="NWP348B" title="Monitor, operate and control sedimentation and clarification processes"/>
+      <unit id="NWP349B" title="Monitor, operate and control incineration processes"/>
+      <unit id="NWP350B" title="Monitor, operate and control trickling filter processes"/>
+      <unit id="NWP351B" title="Monitor, operate and control activated sludge processes"/>
+      <unit id="NWP352B" title="Monitor, operate and control dissolved air flotation processes"/>
+      <unit id="NWP353B" title="Monitor, operate and control anaerobic bioreactor processes"/>
+      <unit id="NWP354B" title="Monitor, operate and control granular media filtration processes"/>
+      <unit id="NWP355B" title="Monitor, operate and control membrane filtration processes"/>
+      <unit id="NWP356B" title="Monitor, operate and control ion exchange processes"/>
+      <unit id="NWP357B" title="Monitor, operate and control reverse osmosis and nano-filtration processes"/>
+      <unit id="NWP359B" title="Monitor, operate and control nutrient removal processes"/>
+      <unit id="NWP360B" title="Monitor, operate and control dewatering processes"/>
+      <unit id="NWP361B" title="Monitor, operate and control gas scrubber treatment processes"/>
+      <unit id="NWP362B" title="Monitor, operate and control reclaimed water irrigation"/>
+      <unit id="NWP363B" title="Monitor performance and control maintenance of treatment plant assets"/>
+      <unit id="NWP364B" title="Perform laboratory testing"/>
+      <unit id="NWP365A" title="Identify and confirm blue green algae outbreaks"/>
+      <unit id="NWP366A" title="Monitor, operate and control chloramination disinfection processes"/>
+      <unit id="NWP367A" title="Monitor, operate and control activated carbon adsorption processes"/>
+      <unit id="NWP368A" title="Respond to blue green algae incidents"/>
+      <unit id="NWP369" title="Monitor, operate and control lagoon processes"/>
+      <unit id="NWP370" title="Perform water industry calculations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="NWP40107" title="Certificate IV in Water Operations">
+    <units>
+      <unit id="AHCLPW306A" title="Undertake sampling and testing of water"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="LGACOM405B" title="Implement and monitor the organisation's OHS policies, procedures and programs within the work group or section"/>
+      <unit id="LGAWORK404A" title="Manage a civil works project"/>
+      <unit id="MEM30027A" title="Prepare basic programs for programmable logic controllers"/>
+      <unit id="MSACMT461A" title="Facilitate SCADA systems in a manufacturing team or work area"/>
+      <unit id="NWP219A" title="Work safely in confined spaces"/>
+      <unit id="NWP401B" title="Coordinate and monitor the application of environmental plans and procedures"/>
+      <unit id="NWP403A" title="Investigate and plan the optimisation of potable water distribution systems"/>
+      <unit id="NWP404A" title="Apply principles of chemistry to water systems and processes"/>
+      <unit id="NWP406A" title="Investigate and plan the optimisation of granular media filtration processes"/>
+      <unit id="NWP407A" title="Investigate and plan the optimisation of dissolved air flotation processes"/>
+      <unit id="NWP408A" title="Investigate and plan the optimisation of sedimentation and clarification processes"/>
+      <unit id="NWP409A" title="Investigate and plan to optimise the operation of chemical addition processes"/>
+      <unit id="NWP410C" title="Coordinate and monitor asset construction and maintenance"/>
+      <unit id="NWP411A" title="Select treatment requirements for waterborne microorganisms"/>
+      <unit id="NWP412A" title="Investigate and plan the optimisation of activated sludge processes"/>
+      <unit id="NWP413A" title="Investigate and plan the optimisation of anaerobic treatment processes"/>
+      <unit id="NWP414A" title="Select strategies to control microbial impact on wastewater treatment processes"/>
+      <unit id="NWP415B" title="Coordinate and monitor surface water systems"/>
+      <unit id="NWP416B" title="Coordinate and monitor water storage catchment activities"/>
+      <unit id="NWP417B" title="Coordinate and monitor groundwater system usage"/>
+      <unit id="NWP418B" title="Coordinate and monitor bulkwater system operations"/>
+      <unit id="NWP419B" title="Coordinate and monitor river system usage"/>
+      <unit id="NWP420A" title="Install, operate and maintain hydrometric instruments and equipment"/>
+      <unit id="NWP421A" title="Collect, measure and process hydrometric stream discharge gauging"/>
+      <unit id="NWP425B" title="Coordinate and monitor the operation of irrigation delivery systems"/>
+      <unit id="NWP427B" title="Coordinate and monitor the operation of drainage systems"/>
+      <unit id="NWP428B" title="Coordinate and monitor the operation of wastewater collection systems"/>
+      <unit id="NWP429B" title="Coordinate, implement and report on trade waste monitoring procedures"/>
+      <unit id="NWP430A" title="Evaluate, implement and monitor standard low risk trade waste discharge approvals"/>
+      <unit id="NWP431A" title="Investigate, rectify and report on trade waste incidents"/>
+      <unit id="NWP432A" title="Contribute to continuous improvement of quality systems"/>
+      <unit id="NWP440A" title="Supervise conduit inspection and reporting"/>
+      <unit id="PSPPROC414A" title="Manage contracts"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="NWP50107" title="Diploma of Water Operations">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="CPPSIS4002A" title="Store and retrieve spatial data"/>
+      <unit id="CPPSIS5002A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5010A" title="Collate and interpret spatial data"/>
+      <unit id="LGAWORK501A" title="Prepare preliminary design for operational works"/>
+      <unit id="LGAWORK502A" title="Prepare detailed works project documentation"/>
+      <unit id="LGAWORK503A" title="Undertake project investigation"/>
+      <unit id="NWP504A" title="Collect and manage hydrometric station survey data"/>
+      <unit id="NWP505B" title="Implement and manage environmental management policies, plans, procedures and programs"/>
+      <unit id="NWP508A" title="Apply principles of hydraulics to pipe and channel flow"/>
+      <unit id="NWP509A" title="Collect, verify and report hydrometric time series data"/>
+      <unit id="NWP510A" title="Develop and maintain ratings"/>
+      <unit id="NWP511B" title="Manage dam safety surveillance"/>
+      <unit id="NWP512B" title="Implement and manage catchment management plan"/>
+      <unit id="NWP513B" title="Develop and review catchment management plan"/>
+      <unit id="NWP514B" title="Implement and manage groundwater management plan"/>
+      <unit id="NWP515B" title="Develop and review groundwater management plan"/>
+      <unit id="NWP516B" title="Implement and manage surface water management plan"/>
+      <unit id="NWP517B" title="Develop and review surface water management plan"/>
+      <unit id="NWP518B" title="Prepare and report on data related to flood mitigation"/>
+      <unit id="NWP519B" title="Develop and report flood mitigation"/>
+      <unit id="NWP520A" title="Contribute to hydrometric planning and water resource management"/>
+      <unit id="NWP525B" title="Implement and manage asset construction and maintenance"/>
+      <unit id="NWP527B" title="Conduct commissioning and post commissioning activities"/>
+      <unit id="NWP528B" title="Implement and manage trade waste policies and plans"/>
+      <unit id="NWP529B" title="Develop and modify trade waste policies and plans"/>
+      <unit id="NWP530B" title="Implement and manage the operation and maintenance of irrigation delivery systems"/>
+      <unit id="NWP531B" title="Develop and review irrigation system management plan"/>
+      <unit id="NWP532B" title="Implement and manage potable water system management plan"/>
+      <unit id="NWP533B" title="Develop and review potable water system management plan"/>
+      <unit id="NWP534B" title="Implement and manage drainage system management plan"/>
+      <unit id="NWP535B" title="Develop and review drainage system management plan"/>
+      <unit id="NWP536B" title="Implement and manage wastewater collection management plan"/>
+      <unit id="NWP537B" title="Develop and review wastewater collection management plan"/>
+      <unit id="NWP545B" title="Implement and manage water treatment processes monitoring program"/>
+      <unit id="NWP546B" title="Develop and review water treatment process management plan"/>
+      <unit id="NWP547B" title="Implement and manage wastewater treatment processes monitoring program"/>
+      <unit id="NWP548B" title="Develop and review wastewater treatment management plan"/>
+      <unit id="NWP551A" title="Evaluate, implement and monitor high-risk trade waste discharge approvals"/>
+      <unit id="NWP552" title="Apply mathematical solutions to engineering problems"/>
+      <unit id="NWP553" title="Apply scientific principles to engineering problems"/>
+      <unit id="NWP554" title="Apply surveying computations to civil engineering projects"/>
+      <unit id="NWP555" title="Apply construction principles to civil engineering works"/>
+      <unit id="NWP556" title="Apply environmental solutions to engineering projects"/>
+      <unit id="NWP557" title="Apply surveying for civil engineering projects"/>
+      <unit id="NWP558" title="Use computer aided drafting systems"/>
+      <unit id="NWP559" title="Apply principles of mechanics to engineering problems"/>
+      <unit id="NWP560" title="Apply principles of strength of materials to engineering problems"/>
+      <unit id="PSPPROC506A" title="Plan to manage a contract"/>
+      <unit id="PSPSOHS501A" title="Participate in the coordination and maintenance of a systematic approach to managing OHS"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="NWP60112" title="Advanced Diploma of Water Engineering Design">
+    <units>
+      <unit id="BSBINN601B" title="Manage organisational change"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="NWP508A" title="Apply principles of hydraulics to pipe and channel flow"/>
+      <unit id="NWP525B" title="Implement and manage asset construction and maintenance"/>
+      <unit id="NWP601" title="Design a water reticulation scheme"/>
+      <unit id="NWP602" title="Design gravity sewerage systems"/>
+      <unit id="NWP603" title="Design pressure sewerage systems"/>
+      <unit id="NWP604" title="Manage the construction of pipeline systems"/>
+      <unit id="NWP605" title="Plan sewerage reticulation systems"/>
+      <unit id="NWP606" title="Plan water reticulation systems"/>
+      <unit id="NWP607" title="Manage drinking water quality information"/>
+      <unit id="NWP608" title="Design sewerage pumping station systems"/>
+      <unit id="NWP609" title="Manage assets in a water utility"/>
+      <unit id="NWP610" title="Apply statistical methods for quality control and reliability"/>
+      <unit id="NWP705A" title="Provide leadership in hydrometric network planning and water resource management"/>
+      <unit id="NWP706A" title="Review and evaluate water and wastewater sustainability objectives"/>
+      <unit id="PSPOHS602A" title="Manage workplace safety"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="NWP70107" title="Vocational Graduate Certificate in Water Industry Leadership">
+    <units>
+      <unit id="NWP701A" title="Contribute to the development of a complex water organisation"/>
+      <unit id="NWP702A" title="Apply water industry legislation, codes and standards"/>
+      <unit id="NWP703A" title="Lead water planning processes"/>
+      <unit id="NWP704A" title="Lead a project development"/>
+      <unit id="NWP705A" title="Provide leadership in hydrometric network planning and water resource management"/>
+      <unit id="NWP706A" title="Review and evaluate water and wastewater sustainability objectives"/>
+      <unit id="NWP707A" title="Analyse and review water treatment plant technology"/>
+    </units>
+  </qualification>
+</qualifications>

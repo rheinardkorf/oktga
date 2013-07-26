@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<qualifications class="DRT98">
+  <qualification id="DRT20798" title="Certificate II in Drilling (Seismic)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20698" title="Certificate II in Drilling (Oil and Gas, Onshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20298" title="Certificate II in Drilling (Foundation/Construction)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20198" title="Certificate II in Drilling (Environmental)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20598" title="Certificate II in Drilling (Oil and Gas, Offshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20998" title="Certificate II in Drilling (Blast Hole)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20898" title="Certificate II in Drilling (Waterwell)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20398" title="Certificate II in Drilling (Geotechnical)">
+    <units/>
+  </qualification>
+  <qualification id="DRT20498" title="Certificate II in Drilling (Mineral Exploration)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30398" title="Certificate III in Drilling (Geotechnical)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30198" title="Certificate III in Drilling (Environmental)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30898" title="Certificate III in Drilling (Waterwell)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30798" title="Certificate III in Drilling (Seismic)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30598" title="Certificate III in Drilling (Oil and Gas, Offshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30298" title="Certificate III in Drilling (Foundation/Construction)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30698" title="Certificate III in Drilling (Oil and Gas, Onshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30998" title="Certificate III in Drilling (Blast Hole)">
+    <units/>
+  </qualification>
+  <qualification id="DRT30498" title="Certificate III in Drilling (Mineral Exploration)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40598" title="Certificate IV in Drilling (Oil and Gas, Offshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40898" title="Certificate IV in Drilling (Waterwell)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40498" title="Certificate IV in Drilling (Mineral Exploration)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40398" title="Certificate IV in Drilling (Geotechnical)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40998" title="Certificate IV in Drilling (Blast Hole)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40198" title="Certificate IV in Drilling (Environmental)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40298" title="Certificate IV in Drilling (Foundation/Construction)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40698" title="Certificate IV in Drilling (Oil and Gas, Onshore)">
+    <units/>
+  </qualification>
+  <qualification id="DRT40798" title="Certificate IV in Drilling (Seismic)">
+    <units/>
+  </qualification>
+  <qualification id="DRT50198" title="Diploma of Drilling">
+    <units/>
+  </qualification>
+  <qualification id="DRT60198" title="Advanced Diploma of Drilling (Management)">
+    <units/>
+  </qualification>
+</qualifications>

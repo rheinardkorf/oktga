@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<qualifications class="SRO99">
+  <qualification id="SRO10199" title="Certificate I in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20299" title="Certificate II in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO20199" title="Certificate II in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30199" title="Certificate III in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO30299" title="Certificate III in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40299" title="Certificate IV in Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO40199" title="Certificate IV in Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50299" title="Diploma of Outdoor Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO50199" title="Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRO60199" title="Advanced Diploma of Sport and Recreation">
+    <units/>
+  </qualification>
+</qualifications>

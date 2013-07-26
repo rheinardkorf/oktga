@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<qualifications class="WRP02">
+  <qualification id="WRP10102" title="Certificate I in Community Pharmacy">
+    <units/>
+  </qualification>
+  <qualification id="WRP20102" title="Certificate II in Community Pharmacy">
+    <units/>
+  </qualification>
+  <qualification id="WRP30102" title="Certificate III in Community Pharmacy">
+    <units>
+      <unit id="BSXFML309A" title="Support continuous improvement systems and processes"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="WRPDIS303A" title="Assist in dispensary operations"/>
+      <unit id="WRPDIS304A" title="Assist in dispensary administration"/>
+      <unit id="WRPDIS305A" title="Assist in dispensary stock control"/>
+      <unit id="WRPDIS306A" title="Assist in dispensary housekeeping/maintenance"/>
+      <unit id="WRPDIS307A" title="Assist in preparing dose administration containers"/>
+      <unit id="WRPMAR301A" title="Market and promote pharmacy products and services area"/>
+      <unit id="WRPPK316A" title="Provide health care advice, products and services on asthma needs"/>
+      <unit id="WRPPK317A" title="Provide health care advice, products and services on high blood pressure needs"/>
+      <unit id="WRPPK318A" title="Provide health care advice, products and services on complementary medicine needs"/>
+      <unit id="WRPPK319A" title="Provide health care advice, products and services on diabetes needs"/>
+      <unit id="WRPPK320A" title="Provide health care advice, products and services on pregnancy and maternal health needs"/>
+      <unit id="WRPPK321A" title="Provide health care advice, products and services on smoking cessation needs"/>
+      <unit id="WRPPK322A" title="Provide health care advice, products and services on wound care needs"/>
+      <unit id="WRPPM301A" title="Co-ordinate pharmacy staff"/>
+      <unit id="WRRCA2B" title="Apply retail office procedures"/>
+      <unit id="WRRCA4B" title="Coordinate retail office"/>
+      <unit id="WRRCA5B" title="Operate retail information technology systems"/>
+      <unit id="WRRER3B" title="Maintain employee relations"/>
+      <unit id="WRRF2B" title="Perform retail finance duties"/>
+      <unit id="WRRF3B" title="Produce financial reports"/>
+      <unit id="WRRF4B" title="Prepare payroll"/>
+      <unit id="WRRLP5B" title="Apply store security systems and procedures"/>
+      <unit id="WRRM3B" title="Co-ordinate merchandise presentation"/>
+      <unit id="WRRM4A" title="Co-ordinate Housekeeping"/>
+      <unit id="WRRS3B" title="Coordinate sales performance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="WRP40102" title="Certificate IV in Community Pharmacy">
+    <units>
+      <unit id="PMLQUAL601A" title="Conduct an internal audit of the quality system"/>
+      <unit id="WRPPM402A" title="Manage pharmacy staffing"/>
+      <unit id="WRPQUA401A" title="Conduct an external audit of the quality system"/>
+      <unit id="WRRCA4B" title="Coordinate retail office"/>
+      <unit id="WRRCA5B" title="Operate retail information technology systems"/>
+      <unit id="WRRF2B" title="Perform retail finance duties"/>
+      <unit id="WRRF3B" title="Produce financial reports"/>
+      <unit id="WRRF4B" title="Prepare payroll"/>
+      <unit id="WRRI4B" title="Buy merchandise"/>
+      <unit id="WRRO3B" title="Provide a safe working environment"/>
+      <unit id="WRRO4B" title="Control store loss/security"/>
+      <unit id="WRRO5B" title="Control inventory"/>
+      <unit id="WRRO6B" title="Manage store facilities"/>
+      <unit id="WRRPL1B" title="Manage financial resources"/>
+      <unit id="WRRPM1B" title="Administer human resources policy"/>
+      <unit id="WRRPM2B" title="Recruit and select personnel"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<qualifications class="UTT98">
+  <qualification id="UTT20198" title="Certificate II in ESI - Distribution (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT20298" title="Certificate II in ESI - Transmission (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT30298" title="Certificate III in ESI - Transmission (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT30301" title="Certificate III in ESI - Cable Jointing (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT30101" title="Certificate III in ESI - Distribution (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT30198" title="Certificate III in ESI - Distribution (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT30402" title="Certificate III in ESI - Rail Traction (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT40101" title="Certificate IV in ESI - Transmission (Powerline)">
+    <units/>
+  </qualification>
+  <qualification id="UTT40301" title="Certificate IV in ESI - Transmission and Distribution (Substation)">
+    <units/>
+  </qualification>
+  <qualification id="UTT40401" title="Certificate IV in ESI - Frontline Management">
+    <units/>
+  </qualification>
+  <qualification id="UTT40201" title="Certificate IV in ESI - Distribution (Powerline)">
+    <units/>
+  </qualification>
+</qualifications>

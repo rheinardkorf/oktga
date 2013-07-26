@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<skillsets class="ACM10">
+  <skillset id="ACMSS00001" title="Microchip Implantation for Dogs and Cats Skill Set">
+    <units>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="ACMMIC401A" title="Implant microchip in cats and dogs"/>
+      <unit id="ACMOHS301A" title="Contribute to occupational health and safety processes"/>
+    </units>
+  </skillset>
+  <skillset id="ACMSS00002" title="Native Amphibian Rehabilitation Skill Set">
+    <units>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN307A" title="Rehabilitate native wildlife"/>
+      <unit id="ACMCAN308A" title="Release native animals to natural environment"/>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS305A" title="Rescue animals and apply basic first aid"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+      <unit id="ACMSPE301A" title="Provide basic care of amphibians"/>
+    </units>
+  </skillset>
+  <skillset id="ACMSS00003" title="Native Bird Rehabilitation Skill Set">
+    <units>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN307A" title="Rehabilitate native wildlife"/>
+      <unit id="ACMCAN308A" title="Release native animals to natural environment"/>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS305A" title="Rescue animals and apply basic first aid"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+      <unit id="ACMSPE302A" title="Provide basic care of birds"/>
+    </units>
+  </skillset>
+  <skillset id="ACMSS00004" title="Native Mammal Rehabilitation Skill Set">
+    <units>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN307A" title="Rehabilitate native wildlife"/>
+      <unit id="ACMCAN308A" title="Release native animals to natural environment"/>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS305A" title="Rescue animals and apply basic first aid"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+      <unit id="ACMSPE303A" title="Provide basic care of common native mammals"/>
+    </units>
+  </skillset>
+  <skillset id="ACMSS00005" title="Native Reptile Rehabilitation Skill Set">
+    <units>
+      <unit id="ACMCAN305A" title="Assist with capturing, restraining and moving animals"/>
+      <unit id="ACMCAN307A" title="Rehabilitate native wildlife"/>
+      <unit id="ACMCAN308A" title="Release native animals to natural environment"/>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS305A" title="Rescue animals and apply basic first aid"/>
+      <unit id="ACMOHS201A" title="Participate in occupational health and safety processes"/>
+      <unit id="ACMSPE311A" title="Provide basic care of non-venomous reptiles"/>
+    </units>
+  </skillset>
+  <skillset id="ACMSS00006" title="Preventative Biosecurity Skill Set">
+    <units>
+      <unit id="ACMINF301A" title="Comply with infection control policies and procedures in animal work"/>
+      <unit id="ACMSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="AHCBIO302A" title="Identify and report unusual disease or plant pest signs"/>
+    </units>
+  </skillset>
+</skillsets>

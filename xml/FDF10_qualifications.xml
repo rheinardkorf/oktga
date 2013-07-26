@@ -1,0 +1,1260 @@
+<?xml version="1.0"?>
+<qualifications class="FDF10">
+  <qualification id="FDF10111" title="Certificate I in Food Processing">
+    <units>
+      <unit id="FDFFS1001A" title="Follow work procedures to maintain food safety"/>
+      <unit id="FDFOHS1001A" title="Work safely"/>
+      <unit id="FDFOP1001A" title="Pack or unpack product manually"/>
+      <unit id="FDFOP1002A" title="Operate automated washing equipment"/>
+      <unit id="FDFOP1003A" title="Carry out manual handling tasks"/>
+      <unit id="FDFOP1004A" title="Prepare basic mixes"/>
+      <unit id="FDFOP1005A" title="Operate basic equipment"/>
+      <unit id="FDFOP1006A" title="Monitor process operation"/>
+      <unit id="FDFOP1007A" title="Participate effectively in a workplace environment"/>
+      <unit id="FDFOP1008A" title="Take and record basic measurements"/>
+      <unit id="FDFOP1009A" title="Follow work procedures to maintain quality"/>
+      <unit id="FDFOP1010A" title="Communicate workplace information"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFRB1001A" title="Finish products"/>
+      <unit id="FDFWIN1001A" title="Identify key operations in wine production"/>
+      <unit id="FDFWIN1002A" title="Identify viticulture processes"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF10210" title="Certificate I in Pharmaceutical Manufacturing">
+    <units>
+      <unit id="FDFOHS1001A" title="Work safely"/>
+      <unit id="FDFOP1001A" title="Pack or unpack product manually"/>
+      <unit id="FDFOP1002A" title="Operate automated washing equipment"/>
+      <unit id="FDFOP1003A" title="Carry out manual handling tasks"/>
+      <unit id="FDFOP1004A" title="Prepare basic mixes"/>
+      <unit id="FDFOP1005A" title="Operate basic equipment"/>
+      <unit id="FDFOP1006A" title="Monitor process operation"/>
+      <unit id="FDFOP1007A" title="Participate effectively in a workplace environment"/>
+      <unit id="FDFOP1008A" title="Take and record basic measurements"/>
+      <unit id="FDFOP1010A" title="Communicate workplace information"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFPH1001A" title="Follow work procedures to maintain Good Manufacturing Practice"/>
+      <unit id="FDFRB1001A" title="Finish products"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF11012" title="Certificate I in Sugar Milling Industry Operations">
+    <units>
+      <unit id="AHCBAC101A" title="Support agricultural crop work"/>
+      <unit id="AHCMOM101A" title="Assist with routine maintenance of machinery and equipment"/>
+      <unit id="FDFOHS1001A" title="Work safely"/>
+      <unit id="FDFOP1005A" title="Operate basic equipment"/>
+      <unit id="FDFOP1006A" title="Monitor process operation"/>
+      <unit id="FDFOP1007A" title="Participate effectively in a workplace environment"/>
+      <unit id="FDFOP1010A" title="Communicate workplace information"/>
+      <unit id="FDFSUG101A" title="Install pre-ballast"/>
+      <unit id="FDFSUG102A" title="Undertake shunting operations"/>
+      <unit id="FDFSUG103A" title="Move cane bins in a marshalling yard"/>
+      <unit id="FDFSUG105A" title="Manually clean and maintain housekeeping standards"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FDF20211" title="Certificate II in Pharmaceutical Manufacturing">
+    <units>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP1003A" title="Carry out manual handling tasks"/>
+      <unit id="FDFOP2001A" title="Work effectively in the food processing industry"/>
+      <unit id="FDFOP2002A" title="Inspect and sort materials and product"/>
+      <unit id="FDFOP2003A" title="Clean equipment in place"/>
+      <unit id="FDFOP2004A" title="Clean and sanitise equipment"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+    </units>
+  </qualification>
+  <qualification id="FDF20510" title="Certificate II in Retail Baking Assistance">
+    <units>
+      <unit id="FDFBK2001A" title="Operate a cooling and slicing process"/>
+      <unit id="FDFBK2002A" title="Operate a pastry forming and filling process"/>
+      <unit id="FDFBK2005A" title="Operate a doughnut making process"/>
+      <unit id="FDFBK2006A" title="Operate a griddle production process"/>
+      <unit id="FDFBK2007A" title="Operate a pastry production process"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP1003A" title="Carry out manual handling tasks"/>
+      <unit id="FDFOP2003A" title="Clean equipment in place"/>
+      <unit id="FDFOP2004A" title="Clean and sanitise equipment"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="FDFOP2011A" title="Conduct routine maintenance"/>
+      <unit id="FDFOP2022A" title="Operate a high speed wrapping process"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFPPL2001A" title="Participate in work teams and groups"/>
+      <unit id="FDFRB1001A" title="Finish products"/>
+      <unit id="FDFRB2001A" title="Form and fill pastry products"/>
+      <unit id="FDFRB2002A" title="Prepare fillings"/>
+      <unit id="FDFRB2003A" title="Produce meringue-based products"/>
+      <unit id="FDFRB2004A" title="Provide production assistance for bread products"/>
+      <unit id="FDFRB2005A" title="Provide assistance in cake, pastry and biscuit production"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRRMER004A" title="Prepare and display bakery products"/>
+      <unit id="SIRXFIN002A" title="Perform retail finance duties"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXMER201" title="Merchandise products"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF20111" title="Certificate II in Food Processing">
+    <units>
+      <unit id="AHCBAC204A" title="Prepare grain storages"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFBK2001A" title="Operate a cooling and slicing process"/>
+      <unit id="FDFBK2002A" title="Operate a pastry forming and filling process"/>
+      <unit id="FDFBK2003A" title="Manufacture rye crisp breads"/>
+      <unit id="FDFBK2004A" title="Manufacture wafer products"/>
+      <unit id="FDFBK2005A" title="Operate a doughnut making process"/>
+      <unit id="FDFBK2006A" title="Operate a griddle production process"/>
+    </units>
+  </qualification>
+  <qualification id="FDF20911" title="Certificate II in Food Processing (Sales)">
+    <units>
+      <unit id="AHCBAC204A" title="Prepare grain storages"/>
+      <unit id="AHCWRK308A" title="Handle bulk materials in storage area"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFBK2001A" title="Operate a cooling and slicing process"/>
+      <unit id="FDFBK2002A" title="Operate a pastry forming and filling process"/>
+      <unit id="FDFBK2003A" title="Manufacture rye crisp breads"/>
+      <unit id="FDFBK2004A" title="Manufacture wafer products"/>
+      <unit id="FDFBK2005A" title="Operate a doughnut making process"/>
+    </units>
+  </qualification>
+  <qualification id="FDF20411" title="Certificate II in Wine Industry Operations">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCCHM101A" title="Follow basic chemical safety rules"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCINF204A" title="Fabricate and repair metal or plastic structures"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCSOL201A" title="Determine basic properties of soil and/or growing media"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+    </units>
+  </qualification>
+  <qualification id="FDF21012" title="Certificate II in Sugar Milling Industry Operations">
+    <units>
+      <unit id="AHCMOM203A" title="Operate basic machinery and equipment"/>
+      <unit id="AHCMOM204A" title="Undertake operational maintenance of machinery"/>
+      <unit id="AHCMOM207A" title="Conduct front-end loader operations"/>
+      <unit id="CPCCDO3011A" title="Perform dogging"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3012A" title="Perform basic rigging"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP2034A" title="Operate an evaporation process"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFSUG201A" title="Lay sleepers for cane rail systems"/>
+      <unit id="FDFSUG202A" title="Lay rails for cane rail systems"/>
+      <unit id="FDFSUG203A" title="Lay skeleton track for cane rail system"/>
+      <unit id="FDFSUG204A" title="Operate tamping equipment"/>
+      <unit id="FDFSUG205A" title="Construct turnouts"/>
+      <unit id="FDFSUG206A" title="Drive a cane locomotive"/>
+      <unit id="FDFSUG207A" title="Conduct cane weighbridge operations"/>
+      <unit id="FDFSUG208A" title="Operate a tipping station"/>
+      <unit id="FDFSUG209A" title="Operate an extraction station"/>
+      <unit id="FDFSUG210A" title="Operate a juice clarification process"/>
+      <unit id="FDFSUG211A" title="Operate a mud filtration process"/>
+      <unit id="FDFSUG212A" title="Chemically clean equipment"/>
+      <unit id="FDFSUG213A" title="Operate a pans station"/>
+      <unit id="FDFSUG214A" title="Operate a low grade fugal station"/>
+      <unit id="FDFSUG215A" title="Operate a high grade fugal station"/>
+      <unit id="FDFSUG216A" title="Operate a crystalliser station process"/>
+      <unit id="FDFSUG217A" title="Operate a turbine"/>
+      <unit id="FDFSUG218A" title="Operate a boiler - basic"/>
+      <unit id="FDFSUG219A" title="Operate a bagasse fuel supply system"/>
+      <unit id="FDFSUG220A" title="Operate a coal fuel supply system"/>
+      <unit id="FDFSUG221A" title="Operate an ash separation system"/>
+      <unit id="FDFSUG222A" title="Operate a waste water treatment system"/>
+      <unit id="FDFSUG223A" title="Operate a cooling water system"/>
+      <unit id="FDFSUG224A" title="Perform standard tests on cane samples"/>
+      <unit id="FDFSUG225A" title="Collect and prepare samples"/>
+      <unit id="FDFSUG226A" title="Perform general drilling operations"/>
+      <unit id="FDFSUG227A" title="Perform general lathe operations"/>
+      <unit id="FDFSUG228A" title="Perform general milling operations"/>
+      <unit id="FDFSUG229A" title="Perform general planing and shaping operations"/>
+      <unit id="FDFSUG230A" title="Undertake forming, bending and shaping"/>
+      <unit id="FDFSUG231A" title="Undertake simple fabrication"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="RIICBM305A" title="Install pre-cast concrete bridge decks"/>
+      <unit id="RIIHAN305A" title="Operate a gantry or overhead crane"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="TLIC2041A" title="Operate self-propelled equipment on track"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2014A" title="Licence to drive light rigid vehicle"/>
+      <unit id="TLILIC2015A" title="Licence to drive medium rigid vehicle"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF31012" title="Certificate III in Sugar Milling Industry Operations">
+    <units>
+      <unit id="AHCMOM203A" title="Operate basic machinery and equipment"/>
+      <unit id="AHCMOM204A" title="Undertake operational maintenance of machinery"/>
+      <unit id="AHCMOM207A" title="Conduct front-end loader operations"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCMOM302A" title="Perform machinery maintenance"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCMOM305A" title="Operate specialised machinery and equipment"/>
+      <unit id="AHCWRK305A" title="Coordinate work site activities"/>
+      <unit id="CPCCDO3011A" title="Perform dogging"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCRI3012A" title="Perform basic rigging"/>
+      <unit id="CPCCSC2002A" title="Erect and dismantle basic scaffolding"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP2034A" title="Operate an evaporation process"/>
+      <unit id="FDFSUG201A" title="Lay sleepers for cane rail systems"/>
+      <unit id="FDFSUG202A" title="Lay rails for cane rail systems"/>
+      <unit id="FDFSUG203A" title="Lay skeleton track for cane rail system"/>
+      <unit id="FDFSUG204A" title="Operate tamping equipment"/>
+      <unit id="FDFSUG205A" title="Construct turnouts"/>
+      <unit id="FDFSUG206A" title="Drive a cane locomotive"/>
+      <unit id="FDFSUG207A" title="Conduct cane weighbridge operations"/>
+      <unit id="FDFSUG208A" title="Operate a tipping station"/>
+      <unit id="FDFSUG209A" title="Operate an extraction station"/>
+      <unit id="FDFSUG210A" title="Operate a juice clarification process"/>
+      <unit id="FDFSUG211A" title="Operate a mud filtration process"/>
+      <unit id="FDFSUG212A" title="Chemically clean equipment"/>
+      <unit id="FDFSUG213A" title="Operate a pans station"/>
+      <unit id="FDFSUG214A" title="Operate a low grade fugal station"/>
+      <unit id="FDFSUG215A" title="Operate a high grade fugal station"/>
+      <unit id="FDFSUG216A" title="Operate a crystalliser station process"/>
+      <unit id="FDFSUG217A" title="Operate a turbine"/>
+      <unit id="FDFSUG218A" title="Operate a boiler - basic"/>
+      <unit id="FDFSUG219A" title="Operate a bagasse fuel supply system"/>
+      <unit id="FDFSUG220A" title="Operate a coal fuel supply system"/>
+      <unit id="FDFSUG221A" title="Operate an ash separation system"/>
+      <unit id="FDFSUG222A" title="Operate a waste water treatment system"/>
+      <unit id="FDFSUG223A" title="Operate a cooling water system"/>
+      <unit id="FDFSUG224A" title="Perform standard tests on cane samples"/>
+      <unit id="FDFSUG225A" title="Collect and prepare samples"/>
+      <unit id="FDFSUG226A" title="Perform general drilling operations"/>
+      <unit id="FDFSUG227A" title="Perform general lathe operations"/>
+      <unit id="FDFSUG228A" title="Perform general milling operations"/>
+      <unit id="FDFSUG229A" title="Perform general planing and shaping operations"/>
+      <unit id="FDFSUG230A" title="Undertake forming, bending and shaping"/>
+      <unit id="FDFSUG231A" title="Undertake simple fabrication"/>
+      <unit id="FDFSUG301A" title="Drive a master-slave locomotive"/>
+      <unit id="FDFSUG302A" title="Control cane traffic movements"/>
+      <unit id="FDFSUG303A" title="Adjust cane delivery schedules to meet daily milling requirements"/>
+      <unit id="FDFSUG304A" title="Operate a boiler intermediate"/>
+      <unit id="FDFSUG305A" title="Operate a boiler advanced"/>
+      <unit id="FDFSUG306A" title="Monitor a sugar mill powerhouse"/>
+      <unit id="FDFSUG307A" title="Perform factory control tests"/>
+      <unit id="FDFSUG308A" title="Analyse and convey workplace information"/>
+      <unit id="FDFSUG309A" title="Operate a sugar system"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="RIICBM305A" title="Install pre-cast concrete bridge decks"/>
+      <unit id="RIIHAN305A" title="Operate a gantry or overhead crane"/>
+      <unit id="RIIMPO319A" title="Conduct backhoe/loader operations"/>
+      <unit id="TLIC2041A" title="Operate self-propelled equipment on track"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLID3036A" title="Lift and move load using a mobile crane"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2014A" title="Licence to drive light rigid vehicle"/>
+      <unit id="TLILIC2015A" title="Licence to drive medium rigid vehicle"/>
+      <unit id="TLILIC2016A" title="Licence to drive heavy rigid vehicle"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3017A" title="Licence to drive heavy combination vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30111" title="Certificate III in Food Processing">
+    <units>
+      <unit id="AHCPHT401A" title="Assess olive oil for style and quality"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+    </units>
+  </qualification>
+  <qualification id="FDF30411" title="Certificate III in Wine Industry Operations">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCCHM101A" title="Follow basic chemical safety rules"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCPCM301A" title="Implement a plant nutrition program"/>
+      <unit id="AHCPGD301A" title="Implement a plant establishment program"/>
+      <unit id="AHCSOL401A" title="Sample soils and interpret results"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+    </units>
+  </qualification>
+  <qualification id="FDF30710" title="Certificate III in Retail Baking (Combined)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3005A" title="Prepare food products using basic cooking methods"/>
+      <unit id="FDFOP3006A" title="Identify cultural, religious and dietary considerations for food production"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL3004A" title="Lead work teams and groups"/>
+      <unit id="FDFRB2001A" title="Form and fill pastry products"/>
+      <unit id="FDFRB2002A" title="Prepare fillings"/>
+      <unit id="FDFRB2003A" title="Produce meringue-based products"/>
+      <unit id="FDFRB3001A" title="Produce pastry"/>
+      <unit id="FDFRB3002A" title="Produce bread dough"/>
+      <unit id="FDFRB3003A" title="Produce sponge, cake and cookie batter"/>
+      <unit id="FDFRB3004A" title="Decorate cakes and cookies"/>
+      <unit id="FDFRB3005A" title="Bake bread"/>
+      <unit id="FDFRB3006A" title="Bake sponges, cakes and cookies"/>
+      <unit id="FDFRB3007A" title="Bake pastry products"/>
+      <unit id="FDFRB3008A" title="Store, handle and use frozen dough"/>
+      <unit id="FDFRB3009A" title="Retard dough"/>
+      <unit id="FDFRB3010A" title="Process dough"/>
+      <unit id="FDFRB3011A" title="Diagnose and respond to product and process faults (bread)"/>
+      <unit id="FDFRB3012A" title="Diagnose and respond to product and process faults (pastry, cake and cookies)"/>
+      <unit id="FDFRB3013A" title="Produce artisan breads"/>
+      <unit id="FDFRB3014A" title="Produce sweet yeast products"/>
+      <unit id="FDFRB3015A" title="Produce and decorate gateaux and tortes"/>
+      <unit id="FDFRB3016A" title="Plan and schedule production for retail bakery"/>
+      <unit id="FDFRB3017A" title="Participate in product development"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHPAT007A" title="Prepare and display petits fours"/>
+      <unit id="SITHPAT008A" title="Prepare and model marzipan"/>
+      <unit id="SITHPAT010A" title="Prepare and display sugar work"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30310" title="Certificate III in Plant Baking">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3001A" title="Control contaminants and allergens in the workplace"/>
+      <unit id="FDFOP3002A" title="Set up a production or packaging line for operation"/>
+      <unit id="FDFOP3003A" title="Operate interrelated processes in a production system"/>
+      <unit id="FDFOP3004A" title="Operate interrelated processes in a packaging system"/>
+      <unit id="FDFPB3001A" title="Operate a dough mixing process"/>
+      <unit id="FDFPB3002A" title="Operate a final prove and baking process"/>
+      <unit id="FDFPB3003A" title="Operate a dough make up process"/>
+      <unit id="FDFPPL3001A" title="Participate in improvement processes"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL3004A" title="Lead work teams and groups"/>
+      <unit id="FDFPPL3005A" title="Participate in an audit process"/>
+      <unit id="FDFPPL3006A" title="Establish compliance requirements for work area"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FDFTEC3002A" title="Implement the pest prevention program"/>
+      <unit id="FDFTEC3003A" title="Apply raw materials, ingredient and process knowledge to production problems"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSAPMSUP310A" title="Contribute to the development of plant documentation"/>
+      <unit id="MSAPMSUP330A" title="Develop and adjust a production schedule"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3026A" title="Monitor storage facilities"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30910" title="Certificate III in Food Processing (Sales)">
+    <units>
+      <unit id="AHCPHT401A" title="Assess olive oil for style and quality"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFFV3001A" title="Conduct chemical wash for fresh produce"/>
+      <unit id="FDFFV3002A" title="Program fresh produce grading equipment"/>
+      <unit id="FDFGR3001A" title="Work with micronutrients or additions in stockfeed manufacturing processes"/>
+      <unit id="FDFGR3002A" title="Demonstrate knowledge of animal nutrition principles"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3001A" title="Control contaminants and allergens in the workplace"/>
+      <unit id="FDFOP3002A" title="Set up a production or packaging line for operation"/>
+      <unit id="FDFOP3005A" title="Prepare food products using basic cooking methods"/>
+      <unit id="FDFOP3006A" title="Identify cultural, religious and dietary considerations for food production"/>
+      <unit id="FDFPO3001A" title="Operate a chickway system"/>
+      <unit id="FDFPO3002A" title="Debone and fillet product (manually)"/>
+      <unit id="FDFPPL3001A" title="Participate in improvement processes"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL3004A" title="Lead work teams and groups"/>
+      <unit id="FDFPPL3005A" title="Participate in an audit process"/>
+      <unit id="FDFPPL3006A" title="Establish compliance requirements for work area"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FDFTEC3002A" title="Implement the pest prevention program"/>
+      <unit id="FDFTEC3003A" title="Apply raw materials, ingredient and process knowledge to production problems"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSAPMSUP310A" title="Contribute to the development of plant documentation"/>
+      <unit id="MSAPMSUP330A" title="Develop and adjust a production schedule"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="MTMR308C" title="Prepare and produce value-added products"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3026A" title="Monitor storage facilities"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30610" title="Certificate III in Retail Baking (Bread)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3005A" title="Prepare food products using basic cooking methods"/>
+      <unit id="FDFOP3006A" title="Identify cultural, religious and dietary considerations for food production"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFRB3002A" title="Produce bread dough"/>
+      <unit id="FDFRB3005A" title="Bake bread"/>
+      <unit id="FDFRB3008A" title="Store, handle and use frozen dough"/>
+      <unit id="FDFRB3009A" title="Retard dough"/>
+      <unit id="FDFRB3010A" title="Process dough"/>
+      <unit id="FDFRB3011A" title="Diagnose and respond to product and process faults (bread)"/>
+      <unit id="FDFRB3013A" title="Produce artisan breads"/>
+      <unit id="FDFRB3016A" title="Plan and schedule production for retail bakery"/>
+      <unit id="FDFRB3017A" title="Participate in product development"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30210" title="Certificate III in Pharmaceutical Manufacturing">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FDFOHS2001A" title="Participate in OHS processes"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3002A" title="Set up a production or packaging line for operation"/>
+      <unit id="FDFOP3003A" title="Operate interrelated processes in a production system"/>
+      <unit id="FDFOP3004A" title="Operate interrelated processes in a packaging system"/>
+      <unit id="FDFPH3001A" title="Monitor and maintain Good Manufacturing Practice procedures"/>
+      <unit id="FDFPPL3001A" title="Participate in improvement processes"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL3004A" title="Lead work teams and groups"/>
+      <unit id="FDFPPL3005A" title="Participate in an audit process"/>
+      <unit id="FDFPPL3006A" title="Establish compliance requirements for work area"/>
+      <unit id="FDFTEC3002A" title="Implement the pest prevention program"/>
+      <unit id="FDFTEC3003A" title="Apply raw materials, ingredient and process knowledge to production problems"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="LMTGN3007B" title="Monitor and operate trade waste"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSAPMSUP310A" title="Contribute to the development of plant documentation"/>
+      <unit id="MSAPMSUP330A" title="Develop and adjust a production schedule"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3016A" title="Use inventory systems to organise stock control"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3026A" title="Monitor storage facilities"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF30510" title="Certificate III in Retail Baking (Cake and Pastry)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOHS3001A" title="Contribute to OHS processes"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2064A" title="Provide and apply workplace information"/>
+      <unit id="FDFOP3005A" title="Prepare food products using basic cooking methods"/>
+      <unit id="FDFOP3006A" title="Identify cultural, religious and dietary considerations for food production"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFRB2001A" title="Form and fill pastry products"/>
+      <unit id="FDFRB2002A" title="Prepare fillings"/>
+      <unit id="FDFRB2003A" title="Produce meringue-based products"/>
+      <unit id="FDFRB3001A" title="Produce pastry"/>
+      <unit id="FDFRB3003A" title="Produce sponge, cake and cookie batter"/>
+      <unit id="FDFRB3004A" title="Decorate cakes and cookies"/>
+      <unit id="FDFRB3006A" title="Bake sponges, cakes and cookies"/>
+      <unit id="FDFRB3007A" title="Bake pastry products"/>
+      <unit id="FDFRB3012A" title="Diagnose and respond to product and process faults (pastry, cake and cookies)"/>
+      <unit id="FDFRB3014A" title="Produce sweet yeast products"/>
+      <unit id="FDFRB3015A" title="Produce and decorate gateaux and tortes"/>
+      <unit id="FDFRB3016A" title="Plan and schedule production for retail bakery"/>
+      <unit id="FDFRB3017A" title="Participate in product development"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHPAT007A" title="Prepare and display petits fours"/>
+      <unit id="SITHPAT008A" title="Prepare and model marzipan"/>
+      <unit id="SITHPAT010A" title="Prepare and display sugar work"/>
+      <unit id="TLIA3038A" title="Control and order stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF40811" title="Certificate IV in Advanced Baking">
+    <units>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFFST4005A" title="Document processes and procedures for a food product "/>
+      <unit id="FDFFST4011A" title="Apply the principles of nutrition to food processing"/>
+      <unit id="FDFFST4054A" title="Identify and implement product safety for manufacturing of cereal products"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOP3005A" title="Prepare food products using basic cooking methods"/>
+      <unit id="FDFOP3006A" title="Identify cultural, religious and dietary considerations for food production"/>
+      <unit id="FDFPPL3001A" title="Participate in improvement processes"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL4001A" title="Manage people in the work area"/>
+      <unit id="FDFPPL4004A" title="Optimise a work process"/>
+      <unit id="FDFRB2002A" title="Prepare fillings"/>
+      <unit id="FDFRB2003A" title="Produce meringue-based products"/>
+      <unit id="FDFRB3001A" title="Produce pastry"/>
+      <unit id="FDFRB3002A" title="Produce bread dough"/>
+      <unit id="FDFRB3003A" title="Produce sponge, cake and cookie batter"/>
+      <unit id="FDFRB3004A" title="Decorate cakes and cookies"/>
+      <unit id="FDFRB3005A" title="Bake bread"/>
+      <unit id="FDFRB3006A" title="Bake sponges, cakes and cookies"/>
+      <unit id="FDFRB3007A" title="Bake pastry products"/>
+      <unit id="FDFRB3010A" title="Process dough"/>
+      <unit id="FDFRB3013A" title="Produce artisan breads"/>
+      <unit id="FDFRB3015A" title="Produce and decorate gateaux and tortes"/>
+      <unit id="FDFRB4001A" title="Apply marketing principles to retail bakery"/>
+      <unit id="FDFRB4002A" title="Control bakery operations to meet quality and production requirements"/>
+      <unit id="FDFRB4003A" title="Apply baking science to work practices"/>
+      <unit id="FDFRB4004A" title="Produce sourdough products"/>
+      <unit id="FDFRB4005A" title="Apply advanced finishing techniques for specialty cakes and desserts"/>
+      <unit id="FDFRB4006A" title="Explore and apply baking techniques to develop new products"/>
+      <unit id="FDFRB4007A" title="Evaluate and assess bakery product"/>
+      <unit id="FDFRB4008A" title="Set up sustainable baking operations"/>
+      <unit id="FDFRB4009A" title="Coordinate material supply for baking processes"/>
+      <unit id="FDFRB4010A" title="Prepare plated sweets and desserts"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FDFTEC4003A" title="Control food contamination and spoilage"/>
+      <unit id="FDFTEC4006A" title="Apply an understanding of legal requirements of food production"/>
+      <unit id="FDFTEC4008A" title="Apply principles of food packaging"/>
+      <unit id="FDFTEC4011A" title="Participate in product recalls"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="PMBTECH406A" title="Diagnose production equipment problems"/>
+      <unit id="SITHCCC022A" title="Prepare chocolate and chocolate confectionery"/>
+      <unit id="SITHFAB012B" title="Prepare and serve espresso coffee"/>
+      <unit id="SITHFAB016A" title="Plan and monitor espresso coffee service"/>
+      <unit id="SITHPAT004A" title="Prepare bakery products for patisseries"/>
+      <unit id="SITHPAT010A" title="Prepare and display sugar work"/>
+      <unit id="SITXOHS002A" title="Follow workplace hygiene procedures"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF40210" title="Certificate IV in Pharmaceutical Manufacturing">
+    <units>
+      <unit id="AHCBUS405A" title="Participate in an e-business supply chain"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+    </units>
+  </qualification>
+  <qualification id="FDF40110" title="Certificate IV in Food Processing">
+    <units>
+      <unit id="AHCBUS405A" title="Participate in an e-business supply chain"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+    </units>
+  </qualification>
+  <qualification id="FDF40311" title="Certificate IV in Food Science and Technology">
+    <units>
+      <unit id="FDFAU4001A" title="Assess compliance with food safety programs"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="FDFAU4004A" title="Identify, evaluate and control food safety hazards"/>
+      <unit id="FDFCH4001A" title="Carry out sampling and interpret tests for cheese production"/>
+      <unit id="FDFCH4002A" title="Produce acid-coagulated soft cheese"/>
+      <unit id="FDFCH4003A" title="Produce a range of rennet-coagulated cheeses"/>
+      <unit id="FDFCH4004A" title="Produce acid - heat coagulated cheese"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFFS4001A" title="Supervise and maintain a food safety plan"/>
+      <unit id="FDFFS4002A" title="Supervise and verify supporting programs for food safety"/>
+      <unit id="FDFFST4001A" title="Apply food processing technologies"/>
+      <unit id="FDFFST4002A" title="Monitor the development and implementation of a food QA system"/>
+      <unit id="FDFFST4003A" title="Apply digital technology in food processing"/>
+      <unit id="FDFFST4004A" title="Perform microbiological procedures in the food industry"/>
+      <unit id="FDFFST4005A" title="Document processes and procedures for a food product "/>
+      <unit id="FDFFST4006A" title="Apply food preservation technologies"/>
+      <unit id="FDFFST4007A" title="Establish operational requirements for a food processing enterprise"/>
+      <unit id="FDFFST4008A" title="Preserve food in cans or sealed containers"/>
+      <unit id="FDFFST4009A" title="Label foods according to legislative requirements"/>
+      <unit id="FDFFST4010A" title="Apply sensory analysis in food processing"/>
+      <unit id="FDFFST4011A" title="Apply the principles of nutrition to food processing"/>
+      <unit id="FDFFST4012A" title="Apply water management principles to the food industry"/>
+      <unit id="FDFFST4020A" title="Implement and review the processing of market milk and related products"/>
+      <unit id="FDFFST4021A" title="Carry out sampling and testing of milk at receival"/>
+      <unit id="FDFFST4022A" title="Implement and review the preparation of milk for processing"/>
+      <unit id="FDFFST4030A" title="Implement and review the processing of chocolate and sugar-panned products"/>
+      <unit id="FDFFST4031A" title="Implement and review the processing of aerated confectioneries"/>
+      <unit id="FDFFST4032A" title="Implement and review the production of gums and jellies"/>
+      <unit id="FDFFST4033A" title="Implement and review the production of chocolate products"/>
+      <unit id="FDFFST4034A" title="Implement and review the processing of chocolate"/>
+      <unit id="FDFFST4035A" title="Implement and review the processing of high and low boil confectionery"/>
+      <unit id="FDFFST4036A" title="Implement and review the processing of confectionery products"/>
+      <unit id="FDFFST4040A" title="Identify &amp; implement product safety and quality for chilled or frozen poultry product manufacturing"/>
+      <unit id="FDFFST4041A" title="Identify and implement product safety and quality for cooked poultry product manufacturing"/>
+      <unit id="FDFFST4042A" title="Identify and implement product safety and quality for egg based product manufacturing"/>
+      <unit id="FDFFST4050A" title="Identify &amp; implement product safety and quality for processing of fruit, vegetables &amp; other produce"/>
+      <unit id="FDFFST4051A" title="Identify and implement product safety and quality processes for fish and seafood products"/>
+      <unit id="FDFFST4052A" title="Implement and review the manufacturing and processing of edible fats and oils"/>
+      <unit id="FDFFST4053A" title="Implement and review manufacturing, packaging and testing of beverage products "/>
+      <unit id="FDFFST4054A" title="Identify and implement product safety for manufacturing of cereal products"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOP2015A" title="Apply principles of statistical process control"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFPPL4005A" title="Establish process capability"/>
+      <unit id="FDFTEC4002A" title="Manage controlled atmosphere storage"/>
+      <unit id="FDFTEC4003A" title="Control food contamination and spoilage"/>
+      <unit id="FDFTEC4004A" title="Apply basic process engineering principles to food processing"/>
+      <unit id="FDFTEC4007A" title="Describe and analyse data using mathematical principles"/>
+      <unit id="FDFTEC4008A" title="Apply principles of food packaging"/>
+      <unit id="FDFTEC4009A" title="Identify the physical and chemical properties of materials, food and related products"/>
+      <unit id="FDFTEC4011A" title="Participate in product recalls"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974004A" title="Perform food tests"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MTMCOR202A" title="Apply hygiene and sanitation practices"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMP402B" title="Implement a Meat Hygiene Assessment program"/>
+      <unit id="MTMP404B" title="Apply meat science"/>
+      <unit id="MTMPS411C" title="Monitor meat preservation process"/>
+      <unit id="MTMPS412C" title="Monitor and overview the production of processed meats and smallgoods"/>
+      <unit id="MTMPS414B" title="Monitor and overview the production of Uncooked Comminuted Fermented Meat (UCFM)"/>
+      <unit id="MTMPSR407A" title="Assess and evaluate meat industry requirements and processes"/>
+      <unit id="MTMPSR408A" title="Specify beef product using AUS-MEAT language"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF41012" title="Certificate IV in Flour Milling">
+    <units>
+      <unit id="AHCBAC204A" title="Prepare grain storages"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR403A" title="Manage stress in the workplace"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFFST4002A" title="Monitor the development and implementation of a food QA system"/>
+      <unit id="FDFFST4003A" title="Apply digital technology in food processing"/>
+      <unit id="FDFFST4005A" title="Document processes and procedures for a food product "/>
+      <unit id="FDFFST4007A" title="Establish operational requirements for a food processing enterprise"/>
+      <unit id="FDFFST4012A" title="Apply water management principles to the food industry"/>
+      <unit id="FDFGR2003A" title="Operate a grain conditioning process"/>
+      <unit id="FDFGR2004A" title="Operate a grain cleaning process"/>
+      <unit id="FDFGR2005A" title="Operate a purification process"/>
+      <unit id="FDFGR2006A" title="Operate a scalping and grading process"/>
+      <unit id="FDFGR2007A" title="Operate a scratch and sizing process"/>
+      <unit id="FDFGR2008A" title="Operate a break roll process"/>
+      <unit id="FDFGR2010A" title="Handle grain in a storage area"/>
+      <unit id="FDFGR3003A" title="Lead flour milling shift operations"/>
+      <unit id="FDFGR3004A" title="Control mill processes and performance"/>
+      <unit id="FDFGR4001A" title="Control power and automation for milling processes"/>
+      <unit id="FDFGR4002A" title="Supervise testing processes for wheat and flour"/>
+      <unit id="FDFGR4003A" title="Manage mill logistics and support services"/>
+      <unit id="FDFGR4004A" title="Establish and supervise dust control procedures in a grain processing enterprise"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP3003A" title="Operate interrelated processes in a production system"/>
+      <unit id="FDFOP3004A" title="Operate interrelated processes in a packaging system"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3005A" title="Participate in an audit process"/>
+      <unit id="FDFPPL4001A" title="Manage people in the work area"/>
+      <unit id="FDFPPL4002A" title="Plan and coordinate maintenance"/>
+      <unit id="FDFPPL4003A" title="Schedule and manage production"/>
+      <unit id="FDFPPL4004A" title="Optimise a work process"/>
+      <unit id="FDFPPL4005A" title="Establish process capability"/>
+      <unit id="FDFPPL4006A" title="Manage a work area within budget"/>
+      <unit id="FDFPPL4007A" title="Manage supplier agreements and contracts"/>
+      <unit id="FDFTEC3002A" title="Implement the pest prevention program"/>
+      <unit id="FDFTEC4001A" title="Determine handling processes for perishable food items"/>
+      <unit id="FDFTEC4002A" title="Manage controlled atmosphere storage"/>
+      <unit id="FDFTEC4003A" title="Control food contamination and spoilage"/>
+      <unit id="FDFTEC4004A" title="Apply basic process engineering principles to food processing"/>
+      <unit id="FDFTEC4005A" title="Apply an understanding of food additives"/>
+      <unit id="FDFTEC4006A" title="Apply an understanding of legal requirements of food production"/>
+      <unit id="FDFTEC4007A" title="Describe and analyse data using mathematical principles"/>
+      <unit id="FDFTEC4008A" title="Apply principles of food packaging"/>
+      <unit id="FDFTEC4009A" title="Identify the physical and chemical properties of materials, food and related products"/>
+      <unit id="FDFTEC4010A" title="Manage water treatment processes"/>
+      <unit id="FDFTEC4011A" title="Participate in product recalls"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM30011A" title="Set up basic pneumatic circuits"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS014003A" title="Optimise sustainability of a process or plant area"/>
+      <unit id="MSS014004A" title="Develop team strategies for more sustainable use of resources"/>
+      <unit id="MSS015005A" title="Develop required sustainability reports"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="PMBTECH406A" title="Diagnose production equipment problems"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="TLIJ2004A" title="Implement grain monitoring measures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF50311" title="Diploma of Food Science and Technology">
+    <units>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="FDFAU4002A" title="Communicate and negotiate to conduct food safety audits"/>
+      <unit id="FDFAU4003A" title="Conduct food safety audits"/>
+      <unit id="FDFAU4004A" title="Identify, evaluate and control food safety hazards"/>
+      <unit id="FDFAU4005A" title="Audit bivalve mollusc growing and harvesting processes"/>
+      <unit id="FDFAU4006A" title="Audit a cook chill process"/>
+      <unit id="FDFAU4007B" title="Audit a heat treatment process"/>
+      <unit id="FDFAU4008A" title="Audit manufacturing of ready-to-eat meat products"/>
+      <unit id="FDFFS4001A" title="Supervise and maintain a food safety plan"/>
+      <unit id="FDFFS5001A" title="Develop a HACCP-based food safety plan"/>
+      <unit id="FDFFST4004A" title="Perform microbiological procedures in the food industry"/>
+      <unit id="FDFFST4012A" title="Apply water management principles to the food industry"/>
+      <unit id="FDFFST4030A" title="Implement and review the processing of chocolate and sugar-panned products"/>
+      <unit id="FDFFST4031A" title="Implement and review the processing of aerated confectioneries"/>
+      <unit id="FDFFST4032A" title="Implement and review the production of gums and jellies"/>
+      <unit id="FDFFST4033A" title="Implement and review the production of chocolate products"/>
+      <unit id="FDFFST4034A" title="Implement and review the processing of chocolate"/>
+      <unit id="FDFFST4035A" title="Implement and review the processing of high and low boil confectionery"/>
+      <unit id="FDFFST4036A" title="Implement and review the processing of confectionery products"/>
+      <unit id="FDFFST4040A" title="Identify &amp; implement product safety and quality for chilled or frozen poultry product manufacturing"/>
+      <unit id="FDFFST4041A" title="Identify and implement product safety and quality for cooked poultry product manufacturing"/>
+      <unit id="FDFFST4042A" title="Identify and implement product safety and quality for egg based product manufacturing"/>
+      <unit id="FDFFST4050A" title="Identify &amp; implement product safety and quality for processing of fruit, vegetables &amp; other produce"/>
+      <unit id="FDFFST4051A" title="Identify and implement product safety and quality processes for fish and seafood products"/>
+      <unit id="FDFFST4052A" title="Implement and review the manufacturing and processing of edible fats and oils"/>
+      <unit id="FDFFST4053A" title="Implement and review manufacturing, packaging and testing of beverage products "/>
+      <unit id="FDFFST4054A" title="Identify and implement product safety for manufacturing of cereal products"/>
+      <unit id="FDFFST5001A" title="Monitor refrigeration and air conditioning systems in food processing"/>
+      <unit id="FDFFST5002A" title="Identify and implement required process control for a food processing operation"/>
+      <unit id="FDFFST5003A" title="Constrauct a process control chart for a food processing operation"/>
+      <unit id="FDFFST5004A" title="Specify and monitor the nutritional value of processed food"/>
+      <unit id="FDFFST5005A" title="Identify the biochemical properties of food"/>
+      <unit id="FDFFST5006A" title="Apply food microbiological techniques and analysis"/>
+      <unit id="FDFFST5007A" title="Evaluate sampling plans in relation to food industry standards"/>
+      <unit id="FDFFST5008A" title="Develop a new food product"/>
+      <unit id="FDFFST5023A" title="Implement and review the production of milk fat products"/>
+      <unit id="FDFFST5024A" title="Implement and review the production of fermented dairy products and dairy desserts"/>
+      <unit id="FDFFST5025A" title="Implement and review the production of concentrated and dried dairy products"/>
+      <unit id="FDFFST5026A" title="Implement and review the production of ice creams and frozen dairy products"/>
+      <unit id="FDFFST5027A" title="Implement and review the production of milk and related products by the membrane system"/>
+      <unit id="FDFFST5030A" title="Develop, manage and maintain quality systems for food processing"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOP2015A" title="Apply principles of statistical process control"/>
+      <unit id="FDFOP2030A" title="Operate a process control interface"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFTEC4004A" title="Apply basic process engineering principles to food processing"/>
+      <unit id="FDFTEC4005A" title="Apply an understanding of food additives"/>
+      <unit id="FDFTEC4007A" title="Describe and analyse data using mathematical principles"/>
+      <unit id="FDFTEC5001A" title="Manage and evaluate new product trials"/>
+      <unit id="FDFTEC5002A" title="Manage utilities and energy for a production process"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL974004A" title="Perform food tests"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL975005A" title="Conduct sensory analysis"/>
+      <unit id="MSL975022A" title="Perform food analyses"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MTMPS5603C" title="Develop, manage and maintain quality systems"/>
+      <unit id="MTMPSR5601C" title="Design and manage the food safety system"/>
+      <unit id="SFIPROC504C" title="Design and manage a product recall"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF50210" title="Diploma of Pharmaceutical Manufacturing">
+    <units>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS503B" title="Assist in the design and development of OHS participative arrangements"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOHS4001A" title="Identify, assess and control OHS risk in own work"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOHS5001A" title="Manage OHS processes"/>
+      <unit id="FDFOP2015A" title="Apply principles of statistical process control"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP3003A" title="Operate interrelated processes in a production system"/>
+      <unit id="FDFOP3004A" title="Operate interrelated processes in a packaging system"/>
+      <unit id="FDFPH4001A" title="Prepare and review workplace documentation to support Good Manufacturing Practice"/>
+      <unit id="FDFPH4002A" title="Facilitate and monitor Good Manufacturing Practice"/>
+      <unit id="FDFPH4003A" title="Facilitate contamination control"/>
+      <unit id="FDFPH4005A" title="Participate in validation processes"/>
+      <unit id="FDFPH4006A" title="Respond to non-conformance"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL3003A" title="Support and mentor individuals and groups"/>
+      <unit id="FDFPPL4001A" title="Manage people in the work area"/>
+      <unit id="FDFPPL4003A" title="Schedule and manage production"/>
+      <unit id="FDFPPL4007A" title="Manage supplier agreements and contracts"/>
+      <unit id="FDFPPL5001A" title="Design and maintain programs to support legal compliance"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FDFTEC4007A" title="Describe and analyse data using mathematical principles"/>
+      <unit id="FDFTEC5001A" title="Manage and evaluate new product trials"/>
+      <unit id="FDFTEC5002A" title="Manage utilities and energy for a production process"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FDF50110" title="Diploma of Food Processing">
+    <units>
+      <unit id="BSBCOM502B" title="Evaluate and review compliance"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS503B" title="Assist in the design and development of OHS participative arrangements"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOHS4001A" title="Identify, assess and control OHS risk in own work"/>
+      <unit id="FDFOHS4002A" title="Maintain OHS processes"/>
+      <unit id="FDFOHS5001A" title="Manage OHS processes"/>
+      <unit id="FDFOP3003A" title="Operate interrelated processes in a production system"/>
+      <unit id="FDFOP3004A" title="Operate interrelated processes in a packaging system"/>
+      <unit id="FDFPPL3002A" title="Report on workplace performance"/>
+      <unit id="FDFPPL4007A" title="Manage supplier agreements and contracts"/>
+      <unit id="FDFPPL5001A" title="Design and maintain programs to support legal compliance"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FDFTEC3003A" title="Apply raw materials, ingredient and process knowledge to production problems"/>
+      <unit id="FDFTEC4007A" title="Describe and analyse data using mathematical principles"/>
+      <unit id="FDFTEC5001A" title="Manage and evaluate new product trials"/>
+      <unit id="FDFTEC5002A" title="Manage utilities and energy for a production process"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405005A" title="Manage competitive systems and practices responding to individual and unique customer orders"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,749 @@
+<?xml version="1.0"?>
+<qualifications class="RGR08">
+  <qualification id="RGR10108" title="Certificate I in Racing (Stablehand)">
+    <units>
+      <unit id="BSBCMM101A" title="Apply basic communication skills"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRPSH101A" title="Catch and handle quiet horses under supervision"/>
+      <unit id="RGRPSH102A" title="Perform basic stable duties"/>
+      <unit id="RGRPSH203A" title="Perform basic driving tasks"/>
+      <unit id="RGRPSH205A" title="Perform basic riding tasks"/>
+    </units>
+  </qualification>
+  <qualification id="RGR20308" title="Certificate II in Racing Services (Racing Administration)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RGR20208" title="Certificate II in Racing (Kennelhand)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSG202A" title="Transport greyhounds"/>
+      <unit id="RGRPSG203A" title="Perform kennel duties"/>
+      <unit id="RGRPSG204A" title="Attend greyhounds during exercise routines"/>
+      <unit id="RGRPSG205A" title="Attend greyhounds at race meetings"/>
+      <unit id="RGRPSG206A" title="Perform duties of greyhound catcher"/>
+      <unit id="RGRPSG302A" title="Assess health and provide first aid for greyhounds"/>
+      <unit id="RGRPSG303A" title="Determine nutritional requirements for racing greyhounds"/>
+      <unit id="RGRPSG304A" title="Participate in greyhound inquiries and appeals"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RGR20108" title="Certificate II in Racing (Stablehand)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH202A" title="Assist with transportation of horses"/>
+      <unit id="RGRPSH203A" title="Perform basic driving tasks"/>
+      <unit id="RGRPSH204A" title="Prepare to drive jog work"/>
+      <unit id="RGRPSH205A" title="Perform basic riding tasks"/>
+      <unit id="RGRPSH206A" title="Develop riding skills for flatwork"/>
+      <unit id="RGRPSH207A" title="Perform stable duties"/>
+      <unit id="RGRPSH208A" title="Attend horses at trackwork"/>
+      <unit id="RGRPSH209A" title="Attend horses at race meetings and trials"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="RGR20408" title="Certificate II in Racing Services (Track Maintenance)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBIO301A" title="Work effectively in an emergency disease or plant pest response"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCINF203A" title="Maintain properties and structures"/>
+      <unit id="AHCIRG202A" title="Assist with the operation of pressurised irrigation"/>
+      <unit id="AHCMOM204A" title="Undertake operational maintenance of machinery"/>
+      <unit id="AHCMOM205A" title="Operate vehicles"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCPGD201A" title="Plant trees and shrubs"/>
+      <unit id="AHCPMG201A" title="Treat weeds"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="AHCSOL201A" title="Determine basic properties of soil and/or growing media"/>
+      <unit id="AHCWRK201A" title="Observe and report on weather"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTGM202B" title="Use hand and power tools"/>
+      <unit id="HLTGM305B" title="Maintain pool environments"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="THTGTM01B" title="Carry out general maintenance"/>
+      <unit id="THTGTM02B" title="Carry out grounds maintenance"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR30308" title="Certificate III in Racing Services (Racing Administration)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRADM301A" title="Assist with race meeting operations"/>
+      <unit id="RGRADM302A" title="Supervise use of track and race club facilities"/>
+      <unit id="RGRADM402A" title="Prepare for race meeting special events"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SRXEVT007B" title="Manage spectators at an event or program"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR30408" title="Certificate III in Racing Services (Cadet Steward)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRROP301A" title="Perform ear branding and marking up of greyhounds"/>
+      <unit id="RGRSTD301A" title="Perform duties of cadet steward"/>
+      <unit id="RGRSTD302A" title="Interpret wagering trends"/>
+      <unit id="RGRSTD303A" title="Assess racing gear suitability and safety"/>
+      <unit id="RGRSTD408A" title="Analyse race performance"/>
+      <unit id="RGRSWA301A" title="Collect non-blood samples from greyhounds or horses"/>
+      <unit id="RGRSWA302A" title="Collect non-blood samples from racing personnel"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRSOGP014A" title="Develop activity rules and regulations"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="THTFME09A" title="Develop and update knowledge of protocol"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR30208" title="Certificate III in Racing (Advanced Stablehand)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="CPPSEC3004A" title="Lead small teams in the security industry"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH202A" title="Assist with transportation of horses"/>
+      <unit id="RGRPSH203A" title="Perform basic driving tasks"/>
+      <unit id="RGRPSH204A" title="Prepare to drive jog work"/>
+      <unit id="RGRPSH205A" title="Perform basic riding tasks"/>
+      <unit id="RGRPSH206A" title="Develop riding skills for flatwork"/>
+      <unit id="RGRPSH207A" title="Perform stable duties"/>
+      <unit id="RGRPSH208A" title="Attend horses at trackwork"/>
+      <unit id="RGRPSH209A" title="Attend horses at race meetings and trials"/>
+      <unit id="RGRPSH301A" title="Implement stable operations"/>
+      <unit id="RGRPSH302A" title="Supervise handling of horses"/>
+      <unit id="RGRPSH303A" title="Supervise transportation of horses"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH305A" title="Develop driving skills for trackwork"/>
+      <unit id="RGRPSH306A" title="Develop basic trackwork riding skills"/>
+      <unit id="RGRPSH308A" title="Provide first aid and emergency care for horses"/>
+      <unit id="RGRPSH309A" title="Implement feeding programs for racehorses under direction"/>
+      <unit id="RGRPSH420A" title="Participate in implementing racehorse exercise programs"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR30508" title="Certificate III in Racing Services (Track Maintenance)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCIRG302A" title="Install irrigation systems"/>
+      <unit id="AHCIRG305A" title="Operate pressurised irrigation systems"/>
+      <unit id="AHCIRG306A" title="Troubleshoot irrigation systems"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCMOM305A" title="Operate specialised machinery and equipment"/>
+      <unit id="AHCPGD301A" title="Implement a plant establishment program"/>
+      <unit id="AHCPGD304A" title="Implement a landscape maintenance program"/>
+      <unit id="AHCPMG301A" title="Control weeds"/>
+      <unit id="AHCPMG302A" title="Control plant pests, diseases and disorders"/>
+      <unit id="AHCSOL201A" title="Determine basic properties of soil and/or growing media"/>
+      <unit id="AHCSOL401A" title="Sample soils and interpret results"/>
+      <unit id="AHCTRF304A" title="Monitor turf health"/>
+      <unit id="AHCTRF305A" title="Renovate sports turf"/>
+      <unit id="AHCWRK201A" title="Observe and report on weather"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+      <unit id="AHCWRK305A" title="Coordinate work site activities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTGM202B" title="Use hand and power tools"/>
+      <unit id="HLTGM305B" title="Maintain pool environments"/>
+      <unit id="RGRADM302A" title="Supervise use of track and race club facilities"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN002A" title="Investigate job opportunities in racing and related industries"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRTRK301A" title="Assist with race meeting track management"/>
+      <unit id="RGRTRK302A" title="Maintain specialised non-turf track surfaces for racing"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="THTGTM01B" title="Carry out general maintenance"/>
+      <unit id="THTGTM02B" title="Carry out grounds maintenance"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR30108" title="Certificate III in Racing (Trackrider)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH202A" title="Assist with transportation of horses"/>
+      <unit id="RGRPSH205A" title="Perform basic riding tasks"/>
+      <unit id="RGRPSH206A" title="Develop riding skills for flatwork"/>
+      <unit id="RGRPSH207A" title="Perform stable duties"/>
+      <unit id="RGRPSH208A" title="Attend horses at trackwork"/>
+      <unit id="RGRPSH209A" title="Attend horses at race meetings and trials"/>
+      <unit id="RGRPSH301A" title="Implement stable operations"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH306A" title="Develop basic trackwork riding skills"/>
+      <unit id="RGRPSH307A" title="Exercise horses in pacework"/>
+      <unit id="RGRPSH309A" title="Implement feeding programs for racehorses under direction"/>
+      <unit id="RGRPSH310A" title="Prepare for self-management in racing"/>
+      <unit id="RGRPSH404A" title="Ride horses at trackwork"/>
+      <unit id="RGRPSH405A" title="Ride horses in jump outs"/>
+      <unit id="RGRPSH406A" title="Develop riding skills for jumping racing"/>
+      <unit id="RGRPSH407A" title="Educate thoroughbred horses for racing"/>
+      <unit id="RGRPSH414A" title="Ride horses in trials"/>
+      <unit id="RGRPSH420A" title="Participate in implementing racehorse exercise programs"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40508" title="Certificate IV in Racing Services (Racing Administration)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBUS503A" title="Negotiate and monitor contracts"/>
+      <unit id="AHCWRK401A" title="Implement and monitor quality assurance procedures"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMKG414A" title="Undertake marketing activities"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CHCPOL402C" title="Contribute to policy development"/>
+      <unit id="CUVPUB501A" title="Develop and manage public relations strategies"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="RGRADM302A" title="Supervise use of track and race club facilities"/>
+      <unit id="RGRADM401A" title="Manage race meeting operations"/>
+      <unit id="RGRADM402A" title="Prepare for race meeting special events"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITXFIN006A" title="Obtain and manage sponsorship"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRXEVT003B" title="Coordinate events"/>
+      <unit id="SRXEVT007B" title="Manage spectators at an event or program"/>
+      <unit id="SRXGOV004B" title="Work effectively with the Board of an organisation"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="THTFME07A" title="Organise and monitor infrastructure for outdoor events"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40708" title="Certificate IV in Racing Services (Track Maintenance)">
+    <units>
+      <unit id="AHCAGB402A" title="Analyse and interpret production data"/>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBIO301A" title="Work effectively in an emergency disease or plant pest response"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCIRG407A" title="Supervise on-site irrigation installation and construction work"/>
+      <unit id="AHCLSC401A" title="Supervise landscape project works"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCPGD301A" title="Implement a plant establishment program"/>
+      <unit id="AHCSOL501A" title="Monitor and manage soils for production"/>
+      <unit id="AHCTRF304A" title="Monitor turf health"/>
+      <unit id="AHCTRF305A" title="Renovate sports turf"/>
+      <unit id="AHCTRF401A" title="Develop a sports turf maintenance program"/>
+      <unit id="AHCTRF501A" title="Plan the establishment of sports turf playing surfaces"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="RGRADM302A" title="Supervise use of track and race club facilities"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRSTD406A" title="Assess greyhound or horse handling skills"/>
+      <unit id="RGRTRK301A" title="Assist with race meeting track management"/>
+      <unit id="RGRTRK302A" title="Maintain specialised non-turf track surfaces for racing"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="RGRTRK401A" title="Prepare track and facilities for race meetings"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="RTF4007A" title="Prepare a garden design"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40108" title="Certificate IV in Racing (Racehorse Trainer)">
+    <units>
+      <unit id="AHCHBR307A" title="Assess suitability of horses for stock work"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBSMB303A" title="Organise finances for the micro business"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="HLTGM305B" title="Maintain pool environments"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRPSH301A" title="Implement stable operations"/>
+      <unit id="RGRPSH302A" title="Supervise handling of horses"/>
+      <unit id="RGRPSH401A" title="Relate anatomical and physiological features to the care and treatment of horses"/>
+      <unit id="RGRPSH408A" title="Manage horse health and welfare"/>
+      <unit id="RGRPSH409A" title="Determine nutritional requirements for racing horses"/>
+      <unit id="RGRPSH417A" title="Participate in protests, inquiries and appeals"/>
+      <unit id="RGRPSH420A" title="Participate in implementing racehorse exercise programs"/>
+      <unit id="RGRPSH421A" title="Operate horse racing training business"/>
+      <unit id="RGRPSH422A" title="Promote and maintain business arrangements with racehorse owners"/>
+      <unit id="RGRPSH423A" title="Train horses for jumping racing"/>
+      <unit id="RGRPSH501A" title="Plan and adapt training and conditioning programs for racehorses"/>
+      <unit id="RGRPSH502A" title="Plan and implement education of horses for racing"/>
+      <unit id="RGRPSH503A" title="Trial and race horses"/>
+      <unit id="RGRPSH504A" title="Develop systems and records for horse racing business training operations"/>
+      <unit id="RGRPSH505A" title="Select horses for racing"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40308" title="Certificate IV in Racing (Harness Race Driver)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH202A" title="Assist with transportation of horses"/>
+      <unit id="RGRPSH203A" title="Perform basic driving tasks"/>
+      <unit id="RGRPSH204A" title="Prepare to drive jog work"/>
+      <unit id="RGRPSH207A" title="Perform stable duties"/>
+      <unit id="RGRPSH208A" title="Attend horses at trackwork"/>
+      <unit id="RGRPSH209A" title="Attend horses at race meetings and trials"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH305A" title="Develop driving skills for trackwork"/>
+      <unit id="RGRPSH310A" title="Prepare for self-management in racing"/>
+      <unit id="RGRPSH402A" title="Drive horses in pacework and fast work"/>
+      <unit id="RGRPSH403A" title="Educate harness horses for racing"/>
+      <unit id="RGRPSH410A" title="Prepare for race driving"/>
+      <unit id="RGRPSH411A" title="Prepare to drive horses in trials"/>
+      <unit id="RGRPSH412A" title="Prepare to drive horses in races"/>
+      <unit id="RGRPSH417A" title="Participate in protests, inquiries and appeals"/>
+      <unit id="RGRPSH418A" title="Set goals to improve racing performance"/>
+      <unit id="RGRPSH420A" title="Participate in implementing racehorse exercise programs"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40608" title="Certificate IV in Racing Services (Steward)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPSEC3032A" title="Gather information by factual investigation"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRPSG201A" title="Handle greyhounds"/>
+      <unit id="RGRROP301A" title="Perform ear branding and marking up of greyhounds"/>
+      <unit id="RGRROP408A" title="Perform duties of betting supervisor or steward at greyhound or horse race meetings"/>
+      <unit id="RGRSTD302A" title="Interpret wagering trends"/>
+      <unit id="RGRSTD303A" title="Assess racing gear suitability and safety"/>
+      <unit id="RGRSTD401A" title="Perform duties of stipendiary steward at race meetings and trials"/>
+      <unit id="RGRSTD402A" title="Perform stewards'' non-race day duties"/>
+      <unit id="RGRSTD403A" title="Apply principles of administrative law to investigation and resolution of racing incidents"/>
+      <unit id="RGRSTD404A" title="Prepare for racing industry appeals"/>
+      <unit id="RGRSTD405A" title="Conduct steward supervision of sample collection procedures"/>
+      <unit id="RGRSTD406A" title="Assess greyhound or horse handling skills"/>
+      <unit id="RGRSTD407A" title="Assess driving or riding skills of license or registration applicants"/>
+      <unit id="RGRSTD408A" title="Analyse race performance"/>
+      <unit id="RGRSWA301A" title="Collect non-blood samples from greyhounds or horses"/>
+      <unit id="RGRSWA302A" title="Collect non-blood samples from racing personnel"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40408" title="Certificate IV in Racing (Greyhound Trainer)">
+    <units>
+      <unit id="ACMCAN311A" title="Care for young animals"/>
+      <unit id="ACMGAS301A" title="Maintain and monitor animal health and wellbeing"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBSMB303A" title="Organise finances for the micro business"/>
+      <unit id="BSBSMB305A" title="Comply with regulatory, taxation and insurance requirements for the micro business"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN401A" title="Maintain and monitor OHS procedures and environmental work practices"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRPSG301A" title="Supervise handling of greyhounds"/>
+      <unit id="RGRPSG302A" title="Assess health and provide first aid for greyhounds"/>
+      <unit id="RGRPSG304A" title="Participate in greyhound inquiries and appeals"/>
+      <unit id="RGRPSG401A" title="Relate anatomical and physiological features to the care and treatment of greyhounds"/>
+      <unit id="RGRPSG402A" title="Manage greyhound health and welfare"/>
+      <unit id="RGRPSG403A" title="Plan and implement education and training of greyhounds for racing"/>
+      <unit id="RGRPSG404A" title="Trial and race greyhounds"/>
+      <unit id="RGRPSG405A" title="Operate a greyhound racing training business"/>
+      <unit id="RGRPSG406A" title="Promote and maintain business arrangements with greyhound owners"/>
+      <unit id="RGRPSG407A" title="Select greyhounds for racing"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="RUV3507A" title="Carry out companion animal breeding procedures"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+      <unit id="TAADEL301A" title="Provide training through instruction and demonstration of work skills"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR40208" title="Certificate IV in Racing (Jockey)">
+    <units>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN003A" title="Manage personal health and fitness"/>
+      <unit id="RGRCMN201A" title="Follow OHS procedures and observe environmental work practices"/>
+      <unit id="RGRCMN202A" title="Achieve requirements for industry induction"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRPSH201A" title="Handle horses"/>
+      <unit id="RGRPSH202A" title="Assist with transportation of horses"/>
+      <unit id="RGRPSH205A" title="Perform basic riding tasks"/>
+      <unit id="RGRPSH206A" title="Develop riding skills for flatwork"/>
+      <unit id="RGRPSH207A" title="Perform stable duties"/>
+      <unit id="RGRPSH208A" title="Attend horses at trackwork"/>
+      <unit id="RGRPSH209A" title="Attend horses at race meetings and trials"/>
+      <unit id="RGRPSH304A" title="Identify factors that affect racehorse performance"/>
+      <unit id="RGRPSH306A" title="Develop basic trackwork riding skills"/>
+      <unit id="RGRPSH310A" title="Prepare for self-management in racing"/>
+      <unit id="RGRPSH404A" title="Ride horses at trackwork"/>
+      <unit id="RGRPSH405A" title="Ride horses in jump outs"/>
+      <unit id="RGRPSH406A" title="Develop riding skills for jumping racing"/>
+      <unit id="RGRPSH407A" title="Educate thoroughbred horses for racing"/>
+      <unit id="RGRPSH413A" title="Prepare for race riding"/>
+      <unit id="RGRPSH415A" title="Ride horses in races"/>
+      <unit id="RGRPSH416A" title="Perform trial and race jumping riding skills"/>
+      <unit id="RGRPSH417A" title="Participate in protests, inquiries and appeals"/>
+      <unit id="RGRPSH418A" title="Set goals to improve racing performance"/>
+      <unit id="RGRPSH419A" title="Manage principles of sports science for jockeys"/>
+      <unit id="SISXEMR201A" title="Respond to emergency situations"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR50308" title="Diploma of Racing Services (Steward)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM505A" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CPPSEC3032A" title="Gather information by factual investigation"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRSTD302A" title="Interpret wagering trends"/>
+      <unit id="RGRSTD404A" title="Prepare for racing industry appeals"/>
+      <unit id="RGRSTD405A" title="Conduct steward supervision of sample collection procedures"/>
+      <unit id="RGRSTD406A" title="Assess greyhound or horse handling skills"/>
+      <unit id="RGRSTD407A" title="Assess driving or riding skills of license or registration applicants"/>
+      <unit id="RGRSTD408A" title="Analyse race performance"/>
+      <unit id="RGRSTD501A" title="Manage steward services"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRSOGP014A" title="Develop activity rules and regulations"/>
+      <unit id="SRXGOV004B" title="Work effectively with the Board of an organisation"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TLIC107C" title="Drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR50208" title="Diploma of Racing Services (Racing Administration)">
+    <units>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBUS503A" title="Negotiate and monitor contracts"/>
+      <unit id="AHCWRK501A" title="Plan, implement and review a quality assurance program"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM505A" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CHCPOL402C" title="Contribute to policy development"/>
+      <unit id="CUVPUB501A" title="Develop and manage public relations strategies"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="RGRADM401A" title="Manage race meeting operations"/>
+      <unit id="RGRADM402A" title="Prepare for race meeting special events"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SISXIND405A" title="Conduct projects"/>
+      <unit id="SITHFAB009A" title="Provide responsible service of alcohol"/>
+      <unit id="SITXFIN006A" title="Obtain and manage sponsorship"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="SRXEVT003B" title="Coordinate events"/>
+      <unit id="SRXEVT007B" title="Manage spectators at an event or program"/>
+      <unit id="SRXGOV004B" title="Work effectively with the Board of an organisation"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="SRXHRM001B" title="Manage volunteers"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR50408" title="Diploma of Racing Services (Track Management)">
+    <units>
+      <unit id="AHCAGB402A" title="Analyse and interpret production data"/>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCBIO301A" title="Work effectively in an emergency disease or plant pest response"/>
+      <unit id="AHCBUS503A" title="Negotiate and monitor contracts"/>
+      <unit id="AHCBUS601A" title="Manage capital works"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCIRG407A" title="Supervise on-site irrigation installation and construction work"/>
+      <unit id="AHCMOM301A" title="Coordinate machinery and equipment maintenance and repair"/>
+      <unit id="AHCSOL501A" title="Monitor and manage soils for production"/>
+      <unit id="AHCTRF304A" title="Monitor turf health"/>
+      <unit id="AHCTRF401A" title="Develop a sports turf maintenance program"/>
+      <unit id="AHCTRF501A" title="Plan the establishment of sports turf playing surfaces"/>
+      <unit id="AHCWRK302A" title="Monitor weather conditions"/>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="AHCWRK501A" title="Plan, implement and review a quality assurance program"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG601B" title="Manage regulatory compliance"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="PUACOM012B" title="Liaise with media at a local level"/>
+      <unit id="RGRADM302A" title="Supervise use of track and race club facilities"/>
+      <unit id="RGRCMN001A" title="Comply with the rules of racing and related protocols"/>
+      <unit id="RGRCMN403A" title="Participate in racing industry appeals"/>
+      <unit id="RGRSTD406A" title="Assess greyhound or horse handling skills"/>
+      <unit id="RGRTRK301A" title="Assist with race meeting track management"/>
+      <unit id="RGRTRK303A" title="Provide emergency animal assistance"/>
+      <unit id="RGRTRK401A" title="Prepare track and facilities for race meetings"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="RTF4007A" title="Prepare a garden design"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SRSCOP001B" title="Prepare for public speaking"/>
+      <unit id="THTFME06A" title="Manage event contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="RGR50108" title="Diploma of Racing (Racehorse Trainer)">
+    <units>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="HLTFA403C" title="Manage first aid in the workplace"/>
+      <unit id="PUACOM001C" title="Communicate in the workplace"/>
+      <unit id="RGRCMN402A" title="Participate in media interviews for racing"/>
+      <unit id="RGRPSH401A" title="Relate anatomical and physiological features to the care and treatment of horses"/>
+      <unit id="RGRPSH409A" title="Determine nutritional requirements for racing horses"/>
+      <unit id="RGRPSH420A" title="Participate in implementing racehorse exercise programs"/>
+      <unit id="RGRPSH422A" title="Promote and maintain business arrangements with racehorse owners"/>
+      <unit id="RGRPSH423A" title="Train horses for jumping racing"/>
+      <unit id="RGRPSH501A" title="Plan and adapt training and conditioning programs for racehorses"/>
+      <unit id="RGRPSH502A" title="Plan and implement education of horses for racing"/>
+      <unit id="RGRPSH504A" title="Develop systems and records for horse racing business training operations"/>
+      <unit id="RGRPSH505A" title="Select horses for racing"/>
+      <unit id="RGRTRK402A" title="Relate animal welfare to track and environmental conditions"/>
+      <unit id="SISXEMR402A" title="Coordinate emergency responses"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TAAASS401A" title="Plan and organise assessment"/>
+      <unit id="TAAASS402A" title="Assess competence"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

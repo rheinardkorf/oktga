@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<skillsets class="FNS10">
+  <skillset id="FNSSS00001" title="BAS Agent Registration Skill Set">
+    <units>
+      <unit id="FNSBKG404A" title="Carry out business activity and instalment activity statement tasks"/>
+      <unit id="FNSBKG405A" title="Establish and maintain a payroll system"/>
+    </units>
+  </skillset>
+  <skillset id="FNSSS00002" title="Financial Literacy Education Skill Set">
+    <units>
+      <unit id="FNSFLT501A" title="Assist customers to budget and manage own finances"/>
+      <unit id="FNSFLT502A" title="Facilitate customer awareness of the Australian financial system and markets"/>
+      <unit id="FNSFLT503A" title="Promote basic financial literacy skills"/>
+      <unit id="FNSFLT504A" title="Facilitate customer understanding of personal financial statements"/>
+      <unit id="FNSFLT505A" title="Facilitate customer or employee understanding of superannuation as an investment tool"/>
+    </units>
+  </skillset>
+</skillsets>

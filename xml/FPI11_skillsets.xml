@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<skillsets class="FPI11">
+  <skillset id="FPISS00011" title="Skill set for a boom delimber operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3208C" title="Conduct boom delimber operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00012" title="Skill set for a crawler_dozer operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3216A" title="Conduct forestry operations using crawler tractor"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00013" title="Skill set for a feller buncher operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3207C" title="Conduct feller buncher operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00014" title="Skill set for a forwarder operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3206C" title="Conduct forwarder operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00015" title="Skill set for a heavy production mobile chipper operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3215C" title="Operate a heavy production mobile chipper"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00016" title="Skill set for a loader operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3218A" title="Conduct loader operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00017" title="Skill set for a mechanical processor operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3210C" title="Conduct mechanical processor operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00018" title="Skill set for a native forest operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOT3255" title="Apply silvicultural principles"/>
+      <unit id="FPICOT3256" title="Apply biodiversity protection principles"/>
+      <unit id="FPICOT3257" title="Follow cultural heritage requirements"/>
+      <unit id="FPICOT3258" title="Comply with soil and water protection"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00019" title="Skill set for a plantation forest operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOT3257" title="Follow cultural heritage requirements"/>
+      <unit id="FPICOT3258" title="Comply with soil and water protection"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00020" title="Skill set for a single grip harvester operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3214C" title="Operate a single grip harvester"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00021" title="Skill set for a skidder operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3217A" title="Conduct skidder operations"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00022" title="Skill set for an excavator operator">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPIHAR3219A" title="Conduct excavator operations with grabs"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00023" title="Skill set for fire salvage operations">
+    <units>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOR2205B" title="Follow OHS policies and procedures"/>
+      <unit id="FPICOT3252A" title="Use environmental care procedures to undertake fire salvage operations"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00024" title="Skill set for off road four wheel drive operations">
+    <units>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="FPICOT3259" title="Operate a four wheel drive on unsealed roads"/>
+      <unit id="FPICOT3260" title="Recover four wheel drive vehicles"/>
+      <unit id="FPIFGM3214" title="Operate a four wheel drive in a towing situation"/>
+      <unit id="FPIFGM3215" title="Perform complex 4x4 operations"/>
+    </units>
+  </skillset>
+  <skillset id="FPISS00025" title="Skill set for soil and water protection (roading)">
+    <units>
+      <unit id="AHCSAW302A" title="Implement erosion and sediment control measures"/>
+      <unit id="FPICOR2203B" title="Follow environmental care procedures"/>
+      <unit id="FPICOT3258" title="Comply with soil and water protection"/>
+    </units>
+  </skillset>
+</skillsets>

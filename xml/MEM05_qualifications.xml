@@ -1,0 +1,1204 @@
+<?xml version="1.0"?>
+<qualifications class="MEM05">
+  <qualification id="MEM10205" title="Certificate I in Boating Services">
+    <units>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM50001B" title="Classify recreational boating technologies and features"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50005B" title="Refuel vessels"/>
+      <unit id="MEM50006B" title="Check operational capability of marine craft"/>
+      <unit id="MEM50007B" title="Check operational capability of sails and sail operating equipment"/>
+      <unit id="MEM50008B" title="Carry out trip preparation and planning"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MEM50010B" title="Respond to boating emergencies and incidents"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM10105" title="Certificate I in Engineering">
+    <units>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM04004B" title="Prepare and mix sand for metal moulding"/>
+      <unit id="MEM04008B" title="Fettle and trim metal castings/forgings"/>
+      <unit id="MEM04018B" title="Perform general woodworking machine operations"/>
+      <unit id="MEM05001B" title="Perform manual soldering/desoldering - electrical/electronic components"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05013C" title="Perform manual production welding"/>
+      <unit id="MEM06001B" title="Perform hand forging"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM07003B" title="Perform machine setting (routine)"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM07028B" title="Operate computer controlled machines/processes"/>
+      <unit id="MEM07029B" title="Perform routine sharpening/maintenance of production tools and cutters"/>
+      <unit id="MEM07030C" title="Perform metal spinning lathe operations (basic)"/>
+      <unit id="MEM07032B" title="Use workshop machines for basic operations"/>
+      <unit id="MEM08001B" title="Perform wire, jig and barrel load/unload work"/>
+      <unit id="MEM08002C" title="Pre-treat work for subsequent surface coating"/>
+      <unit id="MEM08004B" title="Finish work using wet, dry and vapour deposition methods"/>
+      <unit id="MEM08009C" title="Make up solutions"/>
+      <unit id="MEM08010B" title="Manually finish/polish materials"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM08012B" title="Prepare surfaces by abrasive blasting (basic)"/>
+      <unit id="MEM08014B" title="Apply protective coatings (basic)"/>
+      <unit id="MEM08016B" title="Control blast coating by-products, materials and emissions"/>
+      <unit id="MEM11005B" title="Pick and process order"/>
+      <unit id="MEM11006B" title="Perform production packaging"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM11008B" title="Package materials (stores and warehouse)"/>
+      <unit id="MEM11009B" title="Handle/move bulk fluids/gases"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM11013B" title="Undertake warehouse receival process"/>
+      <unit id="MEM11016B" title="Order materials"/>
+      <unit id="MEM12001B" title="Use comparison and basic measuring devices"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15003B" title="Use improvement processes in team activities"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16004B" title="Perform internal/external customer service"/>
+      <unit id="MEM16005A" title="Operate as a team member to conduct manufacturing, engineering or related activities"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18013B" title="Perform gland packing"/>
+      <unit id="MEM18038B" title="Maintain wheels and tyres"/>
+      <unit id="MEM19001B" title="Perform jewellery metal casting"/>
+      <unit id="MEM19002B" title="Prepare jewellery illustrations"/>
+      <unit id="MEM19003B" title="Handle gem materials"/>
+      <unit id="MEM19006B" title="Replace watch batteries"/>
+      <unit id="MEM19009B" title="Perform investment procedures for lost wax casting process"/>
+      <unit id="MEM19010B" title="Produce rubber moulds for lost wax casting process"/>
+      <unit id="MEM19011B" title="Perform wax injection of moulds for lost wax casting process"/>
+      <unit id="MEM19014B" title="Perform hand engraving"/>
+      <unit id="MEM19015B" title="Perform jewellery enamelling"/>
+      <unit id="MEM19016B" title="Construct jewellery components"/>
+      <unit id="MEM19017B" title="Fabricate jewellery items"/>
+      <unit id="MEM20001A" title="Produce keys"/>
+      <unit id="MEM20002A" title="Assemble and test lock mechanisms"/>
+      <unit id="MEM20003A" title="Install and upgrade locks and hardware"/>
+      <unit id="MEM25001B" title="Apply fibre-reinforced materials"/>
+      <unit id="MEM25002B" title="Form and integrate fibre-reinforced structures"/>
+      <unit id="MEM25004B" title="Fair and shape surfaces"/>
+      <unit id="MEM25006B" title="Undertake marine sheathing operations"/>
+      <unit id="MEM25007B" title="Maintain marine vessel surfaces"/>
+      <unit id="MEM25014B" title="Perform marine slipping operations"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM20105" title="Certificate II in Engineering">
+    <units>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03005B" title="Rework and repair (electrical/electronic production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+      <unit id="MEM04002B" title="Perform gravity die casting"/>
+      <unit id="MEM04003B" title="Operate pressure die casting machine"/>
+      <unit id="MEM04004B" title="Prepare and mix sand for metal moulding"/>
+    </units>
+  </qualification>
+  <qualification id="MEM20205" title="Certificate II in Engineering - Production Technology">
+    <units>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03005B" title="Rework and repair (electrical/electronic production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+    </units>
+  </qualification>
+  <qualification id="MEM20305" title="Certificate II in Boating Services">
+    <units>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM25001B" title="Apply fibre-reinforced materials"/>
+      <unit id="MEM25004B" title="Fair and shape surfaces"/>
+      <unit id="MEM25007B" title="Maintain marine vessel surfaces"/>
+      <unit id="MEM50001B" title="Classify recreational boating technologies and features"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50005B" title="Refuel vessels"/>
+      <unit id="MEM50006B" title="Check operational capability of marine craft"/>
+      <unit id="MEM50007B" title="Check operational capability of sails and sail operating equipment"/>
+      <unit id="MEM50008B" title="Carry out trip preparation and planning"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MEM50010B" title="Respond to boating emergencies and incidents"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30605" title="Certificate III in Jewellery Manufacture">
+    <units>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM07032B" title="Use workshop machines for basic operations"/>
+      <unit id="MEM07040A" title="Set multistage integrated processes"/>
+      <unit id="MEM08001B" title="Perform wire, jig and barrel load/unload work"/>
+      <unit id="MEM08002C" title="Pre-treat work for subsequent surface coating"/>
+      <unit id="MEM08003C" title="Perform electroplating operations"/>
+      <unit id="MEM08010B" title="Manually finish/polish materials"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM19001B" title="Perform jewellery metal casting"/>
+      <unit id="MEM19002B" title="Prepare jewellery illustrations"/>
+      <unit id="MEM19003B" title="Handle gem materials"/>
+      <unit id="MEM19004B" title="Handle and examine gemstone materials"/>
+      <unit id="MEM19005B" title="Produce three-dimensional precision items"/>
+      <unit id="MEM19006B" title="Replace watch batteries"/>
+      <unit id="MEM19007B" title="Perform gemstone setting"/>
+      <unit id="MEM19008B" title="Prepare jewellery designs"/>
+      <unit id="MEM19009B" title="Perform investment procedures for lost wax casting process"/>
+      <unit id="MEM19010B" title="Produce rubber moulds for lost wax casting process"/>
+      <unit id="MEM19011B" title="Perform wax injection of moulds for lost wax casting process"/>
+      <unit id="MEM19012B" title="Produce jewellery wax model"/>
+      <unit id="MEM19013B" title="Produce jewellery metal masters"/>
+      <unit id="MEM19014B" title="Perform hand engraving"/>
+      <unit id="MEM19015B" title="Perform jewellery enamelling"/>
+      <unit id="MEM19016B" title="Construct jewellery components"/>
+      <unit id="MEM19017B" title="Fabricate jewellery items"/>
+      <unit id="MEM19018B" title="Repair jewellery items"/>
+      <unit id="MEM19020B" title="Fault-find and maintain micro-mechanisms"/>
+      <unit id="MEM19021B" title="Diagnose and service micro-mechanisms"/>
+      <unit id="MEM19022B" title="Perform precision micro-mechanism diagnosis and servicing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30405" title="Certificate III in Engineering - Electrical/Electronic Trade">
+    <units>
+      <unit id="MEM05001B" title="Perform manual soldering/desoldering - electrical/electronic components"/>
+      <unit id="MEM05002B" title="Perform high reliability soldering and desoldering"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM10003B" title="Install and test electrical wiring and circuits up to 1000 volts a.c. and 1500 volts d.c."/>
+      <unit id="MEM10004B" title="Enter and change programmable controller operational parameters"/>
+      <unit id="MEM10011B" title="Terminate and connect specialist cables"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12004B" title="Perform precision electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18045B" title="Fault find/repair electrical equipment/components up to 250 volts single phase supply"/>
+      <unit id="MEM18046B" title="Fault find/repair electrical equipment/components up to 1000 volts a.c./1500 volts d.c."/>
+      <unit id="MEM18047B" title="Diagnose and maintain electronic controlling systems on mobile plant"/>
+      <unit id="MEM18048B" title="Fault find and repair/rectify basic electrical circuits"/>
+      <unit id="MEM18049C" title="Disconnect/reconnect fixed wired equipment up to 1000 volts a.c./1500 volts d.c."/>
+      <unit id="MEM18050C" title="Disconnect/reconnect fixed wired equipment over 1000 volts a.c./1500 volts d.c."/>
+      <unit id="MEM18051B" title="Fault find and repair/rectify complex electrical circuits"/>
+      <unit id="MEM18052B" title="Maintain fluid power systems for mobile plant"/>
+      <unit id="MEM18054B" title="Fault find, test and calibrate instrumentation systems and equipment"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MEM18056B" title="Diagnose and repair analog equipment and components"/>
+      <unit id="MEM18057B" title="Maintain/service analog/digital electronic equipment"/>
+      <unit id="MEM18058C" title="Modify electronic equipment"/>
+      <unit id="MEM18060B" title="Maintain, repair control instrumentation - single and multiple loop control systems"/>
+      <unit id="MEM18062B" title="Install, maintain and calibrate instrumentation sensors, transmitters and final control elements"/>
+      <unit id="MEM18063B" title="Terminate signal and data cables"/>
+      <unit id="MEM18064B" title="Maintain instrumentation system components"/>
+      <unit id="MEM18065B" title="Diagnose and repair digital equipment and components"/>
+      <unit id="MEM18098A" title="Prepare to perform work associated with fuel system installation and servicing"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30905" title="Certificate III in Boating Services">
+    <units>
+      <unit id="MEM04018B" title="Perform general woodworking machine operations"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12006C" title="Mark off/out (general engineering)"/>
+      <unit id="MEM12007D" title="Mark off/out structural fabrications and shapes"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM25001B" title="Apply fibre-reinforced materials"/>
+      <unit id="MEM25004B" title="Fair and shape surfaces"/>
+      <unit id="MEM25007B" title="Maintain marine vessel surfaces"/>
+      <unit id="MEM50001B" title="Classify recreational boating technologies and features"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50005B" title="Refuel vessels"/>
+      <unit id="MEM50006B" title="Check operational capability of marine craft"/>
+      <unit id="MEM50007B" title="Check operational capability of sails and sail operating equipment"/>
+      <unit id="MEM50008B" title="Carry out trip preparation and planning"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MEM50010B" title="Respond to boating emergencies and incidents"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30705" title="Certificate III in Marine Craft Construction">
+    <units>
+      <unit id="MEM04018B" title="Perform general woodworking machine operations"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM08002C" title="Pre-treat work for subsequent surface coating"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM08014B" title="Apply protective coatings (basic)"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09021B" title="Interpret and produce curved 3-dimensional shapes"/>
+      <unit id="MEM12007D" title="Mark off/out structural fabrications and shapes"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM25001B" title="Apply fibre-reinforced materials"/>
+      <unit id="MEM25002B" title="Form and integrate fibre-reinforced structures"/>
+      <unit id="MEM25003B" title="Set up marine vessel structures"/>
+      <unit id="MEM25004B" title="Fair and shape surfaces"/>
+      <unit id="MEM25005B" title="Construct and assemble marine vessel timber components"/>
+      <unit id="MEM25006B" title="Undertake marine sheathing operations"/>
+      <unit id="MEM25007B" title="Maintain marine vessel surfaces"/>
+      <unit id="MEM25008B" title="Repair marine vessel surfaces and structures"/>
+      <unit id="MEM25009B" title="Form timber shapes using hot processes"/>
+      <unit id="MEM25010B" title="Perform fitout procedures"/>
+      <unit id="MEM25011B" title="Install marine systems"/>
+      <unit id="MEM25012B" title="Install and test operations of marine auxiliary systems"/>
+      <unit id="MEM25013B" title="Produce three-dimensional plugs/moulds"/>
+      <unit id="MEM25014B" title="Perform marine slipping operations"/>
+      <unit id="MEM25015A" title="Assemble and install equipment and accessories/ancillaries"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30305" title="Certificate III in Engineering - Fabrication Trade">
+    <units>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+      <unit id="MEM04002B" title="Perform gravity die casting"/>
+      <unit id="MEM04003B" title="Operate pressure die casting machine"/>
+      <unit id="MEM04004B" title="Prepare and mix sand for metal moulding"/>
+      <unit id="MEM04005C" title="Produce moulds and cores by hand (jobbing)"/>
+      <unit id="MEM04006B" title="Operate sand moulding and core making machines"/>
+      <unit id="MEM04007B" title="Pour molten metal"/>
+      <unit id="MEM04008B" title="Fettle and trim metal castings/forgings"/>
+      <unit id="MEM04010B" title="Develop and manufacture wood patterns"/>
+    </units>
+  </qualification>
+  <qualification id="MEM30505" title="Certificate III in Engineering - Technical">
+    <units>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09201A" title="Work effectively in an engineering drafting workplace"/>
+      <unit id="MEM09202A" title="Produce freehand sketches"/>
+      <unit id="MEM09203A" title="Measure and sketch site information"/>
+      <unit id="MEM09205A" title="Produce electrical schematic drawings"/>
+      <unit id="MEM09208A" title="Detail fasteners and locking devices in mechanical drawings"/>
+      <unit id="MEM09209A" title="Detail bearings, seals and other componentry in mechanical drawings"/>
+      <unit id="MEM09213A" title="Produce schematic drawings for hydraulic and pneumatic fluid power systems"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13013B" title="Work safely with ionizing radiation"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16003B" title="Provide advanced customer service"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM24001B" title="Perform basic penetrant testing"/>
+      <unit id="MEM24003B" title="Perform basic magnetic particle testing"/>
+      <unit id="MEM24005B" title="Perform basic eddy current testing"/>
+      <unit id="MEM24007B" title="Perform ultrasonic thickness testing"/>
+      <unit id="MEM24009B" title="Perform basic radiographic testing"/>
+      <unit id="MEM30005A" title="Calculate force systems within simple beam structures"/>
+      <unit id="MEM30006A" title="Calculate stresses in simple structures"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30008A" title="Apply basic economic and ergonomic concepts to evaluate engineering applications"/>
+      <unit id="MEM30009A" title="Contribute to the design of basic mechanical systems"/>
+      <unit id="MEM30010A" title="Set up basic hydraulic circuits"/>
+      <unit id="MEM30011A" title="Set up basic pneumatic circuits"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MEM30013A" title="Assist in the preparation of a basic workplace layout"/>
+      <unit id="MEM30014A" title="Apply basic just in time systems to the reduction of waste"/>
+      <unit id="MEM30015A" title="Develop recommendations for basic set up time improvements"/>
+      <unit id="MEM30016A" title="Assist in the analysis of a supply chain"/>
+      <unit id="MEM30017A" title="Use basic preventative maintenance techniques and tools"/>
+      <unit id="MEM30018A" title="Undertake basic process planning"/>
+      <unit id="MEM30019A" title="Use resource planning software systems in manufacturing"/>
+      <unit id="MEM30020A" title="Develop and manage a plan for a simple manufacturing related project"/>
+      <unit id="MEM30021A" title="Prepare a simple production schedule"/>
+      <unit id="MEM30022A" title="Undertake supervised procurement activities"/>
+      <unit id="MEM30023A" title="Prepare a simple cost estimate for a manufactured product"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MEM30025A" title="Analyse a simple electrical system circuit"/>
+      <unit id="MEM30026A" title="Select and test components for simple electronic switching and timing circuits"/>
+      <unit id="MEM30027A" title="Prepare basic programs for programmable logic controllers"/>
+      <unit id="MEM30028A" title="Assist in sales of technical products/systems"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30032A" title="Produce basic engineering drawings"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSATCS301A" title="Interpret architectural and engineering design specifications for structural steel detailing"/>
+      <unit id="MSATCS302A" title="Detail bolts and welds for structural steelwork connections"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM31112" title="Certificate III in Engineering - Composites Trade">
+    <units>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM26001A" title="Lay up composites using open moulding techniques"/>
+      <unit id="MEM26002A" title="Lay up composites using vacuum closed moulding techniques"/>
+      <unit id="MEM26003A" title="Lay up composites using pressure closed moulding techniques"/>
+      <unit id="MEM26004A" title="Make basic plugs for composites fabrication"/>
+      <unit id="MEM26005A" title="Make basic moulds for composites fabrication"/>
+      <unit id="MEM26006A" title="Mark and cut out sheets for composite use"/>
+      <unit id="MEM26007A" title="Select and use reinforcing appropriate for product"/>
+      <unit id="MEM26008A" title="Select and use resin systems appropriate for product"/>
+      <unit id="MEM26009A" title="Select and use cores and fillers appropriate for product"/>
+      <unit id="MEM26010A" title="Store and handle composite materials"/>
+      <unit id="MEM26011A" title="Determine materials and techniques for a composite component or product"/>
+      <unit id="MEM26012A" title="Record and trial work processes for one-off composite products"/>
+      <unit id="MEM26013A" title="Select and use composite processes or systems appropriate for product"/>
+      <unit id="MEM26014A" title="Adjust resin chemicals for current conditions"/>
+      <unit id="MEM26015A" title="Select and apply repair techniques"/>
+      <unit id="MEM26016A" title="Select and use joining techniques"/>
+      <unit id="MEM26017A" title="Prepare composite or other substrate surfaces"/>
+      <unit id="MEM26018A" title="Organise composite trials"/>
+      <unit id="MEM26019A" title="Finish a composite product"/>
+      <unit id="MEM26020A" title="Identify and interpret required standards for composites"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30105" title="Certificate III in Engineering - Production Systems">
+    <units>
+      <unit id="AURV225908A" title="Carry out panel repairs"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03005B" title="Rework and repair (electrical/electronic production)"/>
+    </units>
+  </qualification>
+  <qualification id="MEM30805" title="Certificate III in Locksmithing">
+    <units>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM20001A" title="Produce keys"/>
+      <unit id="MEM20002A" title="Assemble and test lock mechanisms"/>
+      <unit id="MEM20003A" title="Install and upgrade locks and hardware"/>
+      <unit id="MEM20004A" title="Gain entry"/>
+      <unit id="MEM20005A" title="Install and maintain door control devices/systems"/>
+      <unit id="MEM20006A" title="Maintain and service mechanical locking devices"/>
+      <unit id="MEM20007A" title="Plan and prepare a masterkey system"/>
+      <unit id="MEM20008A" title="Develop and implement a masterkey system"/>
+      <unit id="MEM20009A" title="Gain entry and reinstate fire and security containers"/>
+      <unit id="MEM20010A" title="Gain entry and reinstate automotive locking systems"/>
+      <unit id="MEM20011A" title="Service and repair fire and security containers"/>
+      <unit id="MEM20012A" title="Service and repair mechanical automotive locking systems"/>
+      <unit id="MEM20013A" title="Service automotive transponder systems"/>
+      <unit id="MEM20014A" title="Perform a site security survey"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM30205" title="Certificate III in Engineering - Mechanical Trade">
+    <units>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM07002B" title="Perform precision shaping/planing/slotting operations"/>
+      <unit id="MEM07003B" title="Perform machine setting (routine)"/>
+      <unit id="MEM07004B" title="Perform machine setting (complex)"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM07006C" title="Perform lathe operations"/>
+      <unit id="MEM07007C" title="Perform milling operations"/>
+      <unit id="MEM07008D" title="Perform grinding operations"/>
+      <unit id="MEM07009B" title="Perform precision jig boring operations"/>
+      <unit id="MEM07010B" title="Perform tool and cutter grinding operations"/>
+    </units>
+  </qualification>
+  <qualification id="MEM31010" title="Certificate III in Watch and Clock Service and Repair">
+    <units>
+      <unit id="MEM05001B" title="Perform manual soldering/desoldering - electrical/electronic components"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM21001A" title="Replace watch batteries, capacitors and bands"/>
+      <unit id="MEM21002A" title="Perform watch movement exchange"/>
+      <unit id="MEM21003A" title="Perform watch case servicing, repair and refurbishment"/>
+      <unit id="MEM21004A" title="Clean watch and clock components"/>
+      <unit id="MEM21005A" title="Diagnose faults in quartz watches"/>
+      <unit id="MEM21006A" title="Service quartz watches"/>
+      <unit id="MEM21007A" title="Service complex quartz watches"/>
+      <unit id="MEM21008A" title="Service mechanical watches"/>
+      <unit id="MEM21009A" title="Inspect, diagnose, adjust and repair mechanical watches"/>
+      <unit id="MEM21010A" title="Service watch power generating systems"/>
+      <unit id="MEM21011A" title="Service calendar and other dial indication mechanisms for watches"/>
+      <unit id="MEM21012A" title="Service and repair mechanical watch oscillating systems"/>
+      <unit id="MEM21013A" title="Service, test and adjust watch escapements"/>
+      <unit id="MEM21014A" title="Service mechanical chronograph watches"/>
+      <unit id="MEM21015A" title="Perform precision watch timing and adjustment"/>
+      <unit id="MEM21016A" title="Install and set up clocks"/>
+      <unit id="MEM21017A" title="Service and repair clock timepieces"/>
+      <unit id="MEM21018A" title="Service clock escapements and oscillating systems"/>
+      <unit id="MEM21019A" title="Service and repair clock striking mechanisms"/>
+      <unit id="MEM21020A" title="Service and repair clock chiming mechanisms"/>
+      <unit id="MEM21021A" title="Restore clockwork mechanisms"/>
+      <unit id="MEM21022A" title="Manufacture watch and clock components"/>
+      <unit id="MEM21023A" title="Plan, set up and operate horological workshop or service centre"/>
+      <unit id="MEM30025A" title="Analyse a simple electrical system circuit"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM40105" title="Certificate IV in Engineering">
+    <units>
+      <unit id="AURV225908A" title="Carry out panel repairs"/>
+      <unit id="ICTTC136B" title="Install, maintain and modify customer premises communications cabling: ACA Restricted Rule"/>
+      <unit id="ICTTC137B" title="Install, maintain and modify customer premises communications cabling: ACA Open Rule"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03005B" title="Rework and repair (electrical/electronic production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+    </units>
+  </qualification>
+  <qualification id="MEM40412" title="Certificate IV in Engineering Drafting">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPCPCM4002A" title="Estimate and cost work"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="LMTGN4002A" title="Participate in product engineering"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09201A" title="Work effectively in an engineering drafting workplace"/>
+      <unit id="MEM09202A" title="Produce freehand sketches"/>
+      <unit id="MEM09203A" title="Measure and sketch site information"/>
+      <unit id="MEM09204A" title="Produce basic engineering detail drawings"/>
+      <unit id="MEM09205A" title="Produce electrical schematic drawings"/>
+      <unit id="MEM09206A" title="Produce drawings for mechanical services"/>
+      <unit id="MEM09207A" title="Produce drawings for reticulated services"/>
+      <unit id="MEM09208A" title="Detail fasteners and locking devices in mechanical drawings"/>
+      <unit id="MEM09209A" title="Detail bearings, seals and other componentry in mechanical drawings"/>
+      <unit id="MEM09210A" title="Create 3-D solid models using computer-aided design (CAD) system"/>
+      <unit id="MEM09211A" title="Produce drawings or models for industrial piping"/>
+      <unit id="MEM09212A" title="Produce detailed drawings of steel to non-steel connections"/>
+      <unit id="MEM09213A" title="Produce schematic drawings for hydraulic and pneumatic fluid power systems"/>
+      <unit id="MEM09216A" title="Interpret and produce curved 3-D shapes and patterns"/>
+      <unit id="MEM09217A" title="Prepare plans for pipe and duct fabrication"/>
+      <unit id="MEM09218A" title="Participate in drafting projects for building services"/>
+      <unit id="MEM09219A" title="Prepare drawings for fabricated sheet metal products"/>
+      <unit id="MEM09220A" title="Apply surface modelling techniques to 3-D drawings"/>
+      <unit id="MEM09221A" title="Create 3-D model assemblies using computer-aided design (CAD) system"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16003B" title="Provide advanced customer service"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16014A" title="Report technical information"/>
+      <unit id="MEM30005A" title="Calculate force systems within simple beam structures"/>
+      <unit id="MEM30006A" title="Calculate stresses in simple structures"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30008A" title="Apply basic economic and ergonomic concepts to evaluate engineering applications"/>
+      <unit id="MEM30010A" title="Set up basic hydraulic circuits"/>
+      <unit id="MEM30011A" title="Set up basic pneumatic circuits"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MEM30013A" title="Assist in the preparation of a basic workplace layout"/>
+      <unit id="MEM30016A" title="Assist in the analysis of a supply chain"/>
+      <unit id="MEM30019A" title="Use resource planning software systems in manufacturing"/>
+      <unit id="MEM30023A" title="Prepare a simple cost estimate for a manufactured product"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MEM30025A" title="Analyse a simple electrical system circuit"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30032A" title="Produce basic engineering drawings"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSATCS301A" title="Interpret architectural and engineering design specifications for structural steel detailing"/>
+      <unit id="MSATCS302A" title="Detail bolts and welds for structural steelwork connections"/>
+      <unit id="MSATCS501A" title="Detail standardised structural connections"/>
+      <unit id="MSATCS502A" title="Detail structural steel members"/>
+      <unit id="MSATCS504A" title="Detail ancillary steelwork"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="UEPMNT419A" title="Perform Civil Drafting"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM40205" title="Certificate IV in Boating Services">
+    <units>
+      <unit id="BSALF401A" title="Maintain trust accounts"/>
+      <unit id="BSBADM402A" title="Produce complex business documents"/>
+      <unit id="BSBADM408A" title="Prepare financial reports"/>
+      <unit id="BSBCMN406A" title="Maintain business technology"/>
+      <unit id="BSBCMN408A" title="Report on financial activity"/>
+      <unit id="BSBRKG301A" title="Control records"/>
+      <unit id="MEM04018B" title="Perform general woodworking machine operations"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12006C" title="Mark off/out (general engineering)"/>
+      <unit id="MEM12007D" title="Mark off/out structural fabrications and shapes"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM25001B" title="Apply fibre-reinforced materials"/>
+      <unit id="MEM25004B" title="Fair and shape surfaces"/>
+      <unit id="MEM25007B" title="Maintain marine vessel surfaces"/>
+      <unit id="MEM50001B" title="Classify recreational boating technologies and features"/>
+      <unit id="MEM50002B" title="Work safely on marine craft"/>
+      <unit id="MEM50003B" title="Follow work procedures to maintain the marine environment"/>
+      <unit id="MEM50004B" title="Maintain quality of environment by following marina codes"/>
+      <unit id="MEM50005B" title="Refuel vessels"/>
+      <unit id="MEM50006B" title="Check operational capability of marine craft"/>
+      <unit id="MEM50007B" title="Check operational capability of sails and sail operating equipment"/>
+      <unit id="MEM50008B" title="Carry out trip preparation and planning"/>
+      <unit id="MEM50009B" title="Safely operate a mechanically powered recreational boat"/>
+      <unit id="MEM50010B" title="Respond to boating emergencies and incidents"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM40311" title="Certificate IV in Advanced Jewellery Manufacture">
+    <units>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM07032B" title="Use workshop machines for basic operations"/>
+      <unit id="MEM07040A" title="Set multistage integrated processes"/>
+      <unit id="MEM08001B" title="Perform wire, jig and barrel load/unload work"/>
+      <unit id="MEM08002C" title="Pre-treat work for subsequent surface coating"/>
+      <unit id="MEM08003C" title="Perform electroplating operations"/>
+      <unit id="MEM08010B" title="Manually finish/polish materials"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13010A" title="Supervise occupational health and safety in an industrial work environment."/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15003B" title="Use improvement processes in team activities"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15015B" title="Examine trading practices"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16002C" title="Conduct formal interviews and negotiations"/>
+      <unit id="MEM16004B" title="Perform internal/external customer service"/>
+      <unit id="MEM16005A" title="Operate as a team member to conduct manufacturing, engineering or related activities"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16011A" title="Communicate with individuals and small groups"/>
+      <unit id="MEM16013A" title="Operate in a self-directed team"/>
+      <unit id="MEM17001B" title="Assist in development and deliver training in the workplace"/>
+      <unit id="MEM17002B" title="Conduct workplace assessment"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM18055B" title="Dismantle, replace and assemble engineering components"/>
+      <unit id="MEM19001B" title="Perform jewellery metal casting"/>
+      <unit id="MEM19002B" title="Prepare jewellery illustrations"/>
+      <unit id="MEM19003B" title="Handle gem materials"/>
+      <unit id="MEM19004B" title="Handle and examine gemstone materials"/>
+      <unit id="MEM19005B" title="Produce three-dimensional precision items"/>
+      <unit id="MEM19006B" title="Replace watch batteries"/>
+      <unit id="MEM19007B" title="Perform gemstone setting"/>
+      <unit id="MEM19008B" title="Prepare jewellery designs"/>
+      <unit id="MEM19009B" title="Perform investment procedures for lost wax casting process"/>
+      <unit id="MEM19010B" title="Produce rubber moulds for lost wax casting process"/>
+      <unit id="MEM19011B" title="Perform wax injection of moulds for lost wax casting process"/>
+      <unit id="MEM19012B" title="Produce jewellery wax model"/>
+      <unit id="MEM19013B" title="Produce jewellery metal masters"/>
+      <unit id="MEM19014B" title="Perform hand engraving"/>
+      <unit id="MEM19015B" title="Perform jewellery enamelling"/>
+      <unit id="MEM19016B" title="Construct jewellery components"/>
+      <unit id="MEM19017B" title="Fabricate jewellery items"/>
+      <unit id="MEM19018B" title="Repair jewellery items"/>
+      <unit id="MEM19020B" title="Fault-find and maintain micro-mechanisms"/>
+      <unit id="MEM19021B" title="Diagnose and service micro-mechanisms"/>
+      <unit id="MEM19022B" title="Perform precision micro-mechanism diagnosis and servicing"/>
+      <unit id="MEM19023A" title="Apply drawing and rendering techniques to jewellery or object design"/>
+      <unit id="MEM19024A" title="Use CAD to create and display 3D jewellery and object models"/>
+      <unit id="MEM19025A" title="Create and present designs for jewellery and other 3D objects"/>
+      <unit id="MEM19026A" title="Investigate quality and application of jewellery materials"/>
+      <unit id="MEM19028A" title="Select materials and new technologies for jewellery and 3D object design applications"/>
+      <unit id="MEM19031A" title="Produce renderings and technical drawings for jewellery and object design construction"/>
+      <unit id="MEM19033A" title="Create silversmithing objects"/>
+      <unit id="MEM19034A" title="Apply chain manufacture process"/>
+      <unit id="MEM19035A" title="Plan and apply casting techniques for jewellery and object designs"/>
+      <unit id="MEM19037A" title="Plan and implement chenier fabrication process"/>
+      <unit id="MEM19038A" title="Apply traditional techniques to jewellery and 3D object production"/>
+      <unit id="MEM19044A" title="Repair and restore antique jewellery"/>
+      <unit id="MEM19045A" title="Set gems in channel style settings"/>
+      <unit id="MEM19046A" title="Apply grain setting techniques"/>
+      <unit id="MEM19047A" title="Set gems in claw and bezel style settings"/>
+      <unit id="MEM19048A" title="Develop and apply complex borders and decorations for hand engraving "/>
+      <unit id="MEM19049A" title="Develop and apply heraldic designs for hand engraving"/>
+      <unit id="MEM19050A" title="Hand carve engraving work"/>
+      <unit id="MEM19051A" title="Construct multiple stone settings "/>
+      <unit id="MEM19052A" title="Produce complex objects using silversmithing techniques "/>
+      <unit id="MEM19053A" title="Create complex findings and mechanisms for jewellery items"/>
+      <unit id="MEM19054A" title="Fabricate platinum jewellery items "/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM50105" title="Diploma of Engineering - Advanced Trade">
+    <units>
+      <unit id="AURV225908A" title="Carry out panel repairs"/>
+      <unit id="ICTTC136B" title="Install, maintain and modify customer premises communications cabling: ACA Restricted Rule"/>
+      <unit id="ICTTC137B" title="Install, maintain and modify customer premises communications cabling: ACA Open Rule"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03002B" title="Perform precision assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03005B" title="Rework and repair (electrical/electronic production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+    </units>
+  </qualification>
+  <qualification id="MEM50212" title="Diploma of Engineering - Technical">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPPBDN5013A" title="Develop and collaborate on building information models for small-scale building design projects"/>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA270A" title="Lay out avionic systems"/>
+      <unit id="MEA271A" title="Lay out avionic flight management systems"/>
+      <unit id="MEA272B" title="Apply basic scientific principles and techniques in avionic engineering situations"/>
+    </units>
+  </qualification>
+  <qualification id="MEM50311" title="Diploma of Jewellery and Object Design">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBIPR401A" title="Use and respect copyright"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUVACD304A" title="Make scale models"/>
+      <unit id="CUVACD504A" title="Research and apply light and colour"/>
+      <unit id="CUVACD506A" title="Refine 2-D design ideas and processes"/>
+      <unit id="CUVACD507A" title="Refine 3-D design ideas and processes"/>
+      <unit id="CUVACD512A" title="Work with photomedia in creative practice"/>
+      <unit id="CUVDES403A" title="Research and apply techniques for the design of wearable objects"/>
+      <unit id="CUVDIG401A" title="Experiment with techniques to enhance digital images"/>
+      <unit id="CUVDIG501A" title="Refine digital art techniques"/>
+      <unit id="CUVDRA501A" title="Refine drawing techniques"/>
+      <unit id="CUVDRA502A" title="Investigate drawing materials and processes"/>
+      <unit id="CUVGRD301A" title="Prepare files for publication"/>
+      <unit id="CUVJWL401A" title="Experiment with techniques to produce jewellery"/>
+      <unit id="CUVPHI302A" title="Capture photographic images"/>
+      <unit id="CUVPHI403A" title="Apply photo imaging lighting techniques"/>
+      <unit id="CUVPRP403A" title="Select and organise finished work for storage"/>
+      <unit id="CUVPRP405A" title="Develop and discuss ideas for own creative work"/>
+      <unit id="CUVPRP501A" title="Realise a body of creative work"/>
+      <unit id="CUVPRP502A" title="Prepare for sustainable professional practice"/>
+      <unit id="CUVPRP503A" title="Present a body of own creative work"/>
+      <unit id="CUVRES502A" title="Analyse cultural history and theory"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM08010B" title="Manually finish/polish materials"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM19001B" title="Perform jewellery metal casting"/>
+      <unit id="MEM19012B" title="Produce jewellery wax model"/>
+      <unit id="MEM19013B" title="Produce jewellery metal masters"/>
+      <unit id="MEM19023A" title="Apply drawing and rendering techniques to jewellery or object design"/>
+      <unit id="MEM19024A" title="Use CAD to create and display 3D jewellery and object models"/>
+      <unit id="MEM19025A" title="Create and present designs for jewellery and other 3D objects"/>
+      <unit id="MEM19026A" title="Investigate quality and application of jewellery materials"/>
+      <unit id="MEM19027A" title="Produce life drawings for presenting jewellery and object designs"/>
+      <unit id="MEM19028A" title="Select materials and new technologies for jewellery and 3D object design applications"/>
+      <unit id="MEM19029A" title="Produce a professional jewellery design and 3D object portfolio"/>
+      <unit id="MEM19030A" title="Research and design sustainable objects"/>
+      <unit id="MEM19031A" title="Produce renderings and technical drawings for jewellery and object design construction"/>
+      <unit id="MEM19032A" title="Design and implement mechanisms in jewellery items"/>
+      <unit id="MEM19033A" title="Create silversmithing objects"/>
+      <unit id="MEM19034A" title="Apply chain manufacture process"/>
+      <unit id="MEM19035A" title="Plan and apply casting techniques for jewellery and object designs"/>
+      <unit id="MEM19036A" title="Use specialised techniques to produce jewellery and objects"/>
+      <unit id="MEM19037A" title="Plan and implement chenier fabrication process"/>
+      <unit id="MEM19042A" title="Render images using computer graphics software"/>
+      <unit id="MEM22015A" title="Source and estimate engineering materials requirements"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM60112" title="Advanced Diploma of Engineering">
+    <units>
+      <unit id="MEA101B" title="Interpret occupational health and safety practices in aviation maintenance"/>
+      <unit id="MEA105C" title="Apply quality standards applicable to aviation maintenance processes"/>
+      <unit id="MEA107B" title="Interpret and use aviation maintenance industry manuals and specifications"/>
+      <unit id="MEA108B" title="Complete aviation maintenance industry documentation"/>
+      <unit id="MEA109B" title="Perform basic hand skills, standard trade practices and fundamentals in aviation maintenance"/>
+      <unit id="MEA270A" title="Lay out avionic systems"/>
+      <unit id="MEA271A" title="Lay out avionic flight management systems"/>
+      <unit id="MEA272B" title="Apply basic scientific principles and techniques in avionic engineering situations"/>
+      <unit id="MEA273A" title="Select and test avionic engineering materials"/>
+      <unit id="MEA340A" title="Lay out and set up aircraft systems"/>
+    </units>
+  </qualification>
+  <qualification id="MEM60211" title="Advanced Diploma of Jewellery and Object Design">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCRT402A" title="Collaborate in a creative process"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBDES601A" title="Manage design realisation"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="BSBIPR401A" title="Use and respect copyright"/>
+      <unit id="BSBIPR501A" title="Manage intellectual property to protect and grow business"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="CUFIND201A" title="Develop and apply creative arts industry knowledge"/>
+      <unit id="CUFRES401A" title="Conduct research"/>
+      <unit id="CUVACD304A" title="Make scale models"/>
+      <unit id="CUVACD504A" title="Research and apply light and colour"/>
+      <unit id="CUVACD506A" title="Refine 2-D design ideas and processes"/>
+      <unit id="CUVACD507A" title="Refine 3-D design ideas and processes"/>
+      <unit id="CUVACD512A" title="Work with photomedia in creative practice"/>
+      <unit id="CUVACD601A" title="Extend professional expertise with drawing and other visual representation tools"/>
+      <unit id="CUVDES403A" title="Research and apply techniques for the design of wearable objects"/>
+      <unit id="CUVDIG401A" title="Experiment with techniques to enhance digital images"/>
+      <unit id="CUVDIG501A" title="Refine digital art techniques"/>
+      <unit id="CUVDRA501A" title="Refine drawing techniques"/>
+      <unit id="CUVDRA502A" title="Investigate drawing materials and processes"/>
+      <unit id="CUVGRD301A" title="Prepare files for publication"/>
+      <unit id="CUVJWL401A" title="Experiment with techniques to produce jewellery"/>
+      <unit id="CUVPHI302A" title="Capture photographic images"/>
+      <unit id="CUVPHI403A" title="Apply photo imaging lighting techniques"/>
+      <unit id="CUVPRP403A" title="Select and organise finished work for storage"/>
+      <unit id="CUVPRP405A" title="Develop and discuss ideas for own creative work"/>
+      <unit id="CUVPRP501A" title="Realise a body of creative work"/>
+      <unit id="CUVPRP502A" title="Prepare for sustainable professional practice"/>
+      <unit id="CUVPRP503A" title="Present a body of own creative work"/>
+      <unit id="CUVPRP601A" title="Originate a body of independent creative work"/>
+      <unit id="CUVPRP602A" title="Collaborate in professional creative projects"/>
+      <unit id="CUVPRP603A" title="Engage in the business of creative practice"/>
+      <unit id="CUVPRP604A" title="Publicly present a body of own creative work"/>
+      <unit id="CUVRES502A" title="Analyse cultural history and theory"/>
+      <unit id="CUVRES601A" title="Extend cultural research expertise"/>
+      <unit id="LMFFDT4012A" title="Produce ideation drawings"/>
+      <unit id="MEM05006C" title="Perform brazing and or silver soldering"/>
+      <unit id="MEM06007B" title="Perform basic incidental heat/quenching, tempering and annealing"/>
+      <unit id="MEM08010B" title="Manually finish/polish materials"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM13014A" title="Apply principles of occupational health and safety in the work environment"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18003C" title="Use tools for precision work"/>
+      <unit id="MEM19001B" title="Perform jewellery metal casting"/>
+      <unit id="MEM19012B" title="Produce jewellery wax model"/>
+      <unit id="MEM19013B" title="Produce jewellery metal masters"/>
+      <unit id="MEM19023A" title="Apply drawing and rendering techniques to jewellery or object design"/>
+      <unit id="MEM19024A" title="Use CAD to create and display 3D jewellery and object models"/>
+      <unit id="MEM19025A" title="Create and present designs for jewellery and other 3D objects"/>
+      <unit id="MEM19026A" title="Investigate quality and application of jewellery materials"/>
+      <unit id="MEM19027A" title="Produce life drawings for presenting jewellery and object designs"/>
+      <unit id="MEM19028A" title="Select materials and new technologies for jewellery and 3D object design applications"/>
+      <unit id="MEM19029A" title="Produce a professional jewellery design and 3D object portfolio"/>
+      <unit id="MEM19030A" title="Research and design sustainable objects"/>
+      <unit id="MEM19031A" title="Produce renderings and technical drawings for jewellery and object design construction"/>
+      <unit id="MEM19032A" title="Design and implement mechanisms in jewellery items"/>
+      <unit id="MEM19033A" title="Create silversmithing objects"/>
+      <unit id="MEM19034A" title="Apply chain manufacture process"/>
+      <unit id="MEM19035A" title="Plan and apply casting techniques for jewellery and object designs"/>
+      <unit id="MEM19036A" title="Use specialised techniques to produce jewellery and objects"/>
+      <unit id="MEM19037A" title="Plan and implement chenier fabrication process"/>
+      <unit id="MEM19038A" title="Apply traditional techniques to jewellery and 3D object production"/>
+      <unit id="MEM19039A" title="Plan, conduct and supervise a jewellery and object exhibition"/>
+      <unit id="MEM19040A" title="Create and manufacture jewellery or object design prototypes for the mass market"/>
+      <unit id="MEM19041A" title="Experiment with jewellery or object designs"/>
+      <unit id="MEM19042A" title="Render images using computer graphics software"/>
+      <unit id="MEM19043A" title="Oversee jewellery or object design production"/>
+      <unit id="MEM22015A" title="Source and estimate engineering materials requirements"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MEM80112" title="Vocational Graduate Diploma of Engineering">
+    <units>
+      <unit id="BSBLED705A" title="Plan and implement a mentoring program"/>
+      <unit id="BSBLED706A" title="Plan and implement a coaching strategy"/>
+      <unit id="BSBLED710A" title="Develop human capital"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="MEM23063A" title="Select and test mechanical engineering materials"/>
+      <unit id="MEM23064A" title="Select and test mechatronic engineering materials"/>
+      <unit id="MEM23111A" title="Select electrical equipment and components for engineering applications"/>
+      <unit id="MEM23112A" title="Investigate electrical and electronic controllers in engineering applications"/>
+      <unit id="MEM23113A" title="Evaluate hydrodynamic systems and system components"/>
+      <unit id="MEM23114A" title="Evaluate thermodynamic systems and components"/>
+      <unit id="MEM23115A" title="Evaluate fluid power systems"/>
+      <unit id="MEM23116A" title="Evaluate programmable logic controller and related control system component applications"/>
+      <unit id="MEM23117A" title="Evaluate microcontroller applications"/>
+      <unit id="MEM23118A" title="Apply production and service control techniques"/>
+      <unit id="MEM23119A" title="Evaluate continuous improvement processes"/>
+      <unit id="MEM23120A" title="Select mechanical machine and equipment components"/>
+      <unit id="MEM23121A" title="Analyse loads on frames and mechanisms"/>
+      <unit id="MEM23122A" title="Evaluate computer integrated manufacturing systems"/>
+      <unit id="MEM23123A" title="Evaluate manufacturing processes"/>
+      <unit id="MEM23124A" title="Measure and analyse noise and vibration"/>
+      <unit id="MEM23125A" title="Evaluate maintenance systems"/>
+      <unit id="MEM234001A" title="Plan and manage engineering-related projects or operations"/>
+      <unit id="MEM234002A" title="Integrate engineering technologies"/>
+      <unit id="MEM234003A" title="Design machines and ancillary equipment "/>
+      <unit id="MEM234004A" title="Design for engineering-related noise and vibration mitigation"/>
+      <unit id="MEM234005A" title="Design hydrodynamic pumping systems"/>
+      <unit id="MEM234006A" title="Evaluate and select thermodynamic systems or subsystems"/>
+      <unit id="MEM234007A" title="Design fluid power systems"/>
+      <unit id="MEM234008A" title="Design plant using computer simulations"/>
+      <unit id="MEM234009A" title="Design computer-integrated manufacturing systems"/>
+      <unit id="MEM234010A" title="Design microcontroller applications"/>
+      <unit id="MEM234011A" title="Design programmable logic controller applications"/>
+      <unit id="MEM234012A" title="Design integrated maintenance management systems"/>
+      <unit id="MEM234013A" title="Plan and design engineering-related manufacturing processes"/>
+      <unit id="MEM234014A" title="Design a robotic system "/>
+      <unit id="MEM234015A" title="Design hydronic heat exchanger systems"/>
+      <unit id="MEM234016A" title="Design refrigeration systems"/>
+      <unit id="MEM234017A" title="Design exhaust, ventilation and dust collection systems"/>
+      <unit id="MEM234018A" title="Design heating, ventilation, air conditioning and refrigeration control systems"/>
+      <unit id="MEM234019A" title="Apply finite element analysis in engineering design"/>
+      <unit id="MEM234020A" title="Coordinate small lot manufacture using rapid manufacture processes"/>
+      <unit id="MEM234021A" title="Apply statistics to technology problems"/>
+      <unit id="MEM234022A" title="Apply advanced calculus to technology problems"/>
+      <unit id="MEM234023A" title="Apply differential equations to technology problems"/>
+      <unit id="MEM234024A" title="Apply advanced mathematics in technology problems"/>
+      <unit id="MEM234025A" title="Apply numerical methods to technology problems"/>
+      <unit id="MEM234026A" title="Develop and coordinate engineering-related contingency plans"/>
+      <unit id="MEM234027A" title="Plan and manage materials supply for an engineering project or manufacturing operation"/>
+      <unit id="MEM234028A" title="Produce and manage technical documentation"/>
+      <unit id="MEM234029A" title="Produce and manage technical publications"/>
+      <unit id="MEM234030A" title="Provide specialised technical and engineering guidance to other technical employees"/>
+      <unit id="MEM234031A" title="Manage installation, commissioning or modification of machines and equipment "/>
+      <unit id="MEM234032A" title="Manage fluid power related technologies in an enterprise"/>
+      <unit id="MEM234033A" title="Lead engineering-related quality operations in an enterprise"/>
+      <unit id="MEM234034A" title="Manage heating, ventilation, air conditioning and refrigeration systems or projects"/>
+      <unit id="MEM234035A" title="Maintain and apply technical and engineering skills "/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSL976003A" title="Evaluate and select appropriate test methods and_or procedures"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS407001A" title="Prepare for and implement change"/>
+      <unit id="MSS407002A" title="Review operations practice tools and techniques"/>
+      <unit id="MSS407003A" title="Analyse process changes"/>
+      <unit id="MSS407004A" title="Facilitate improvements in the internal value stream"/>
+      <unit id="MSS407005A" title="Undertake a qualitative review of a process change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MSS407007A" title="Respond to a major non-conformance"/>
+      <unit id="MSS407008A" title="Capture learning from daily activities in a organisation"/>
+      <unit id="MSS407009A" title="Facilitate improvements in the external value stream"/>
+      <unit id="MSS407010A" title="Improve visual management in the workplace"/>
+      <unit id="MSS407011A" title="Manage benchmarking studies"/>
+      <unit id="MSS407012A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="MSS407013A" title="Review continuous improvement processes"/>
+      <unit id="MSS408001A" title="Develop the competitive systems and practices approach"/>
+      <unit id="MSS408002A" title="Audit the use of competitive tools"/>
+      <unit id="MSS408003A" title="Develop models of future state operations practice"/>
+      <unit id="MSS408004A" title="Develop the value stream"/>
+      <unit id="MSS408005A" title="Develop the learning processes of the operations organisation"/>
+      <unit id="MSS408006A" title="Develop and refine systems for continuous improvement in operations"/>
+      <unit id="MSS408007A" title="Develop problem solving capability of an organisation"/>
+      <unit id="MSS408008A" title="Analyse data for relevance to organisational learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

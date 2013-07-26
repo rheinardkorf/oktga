@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<skillsets class="UEE11">
+  <skillset id="UEESS00048" title="Data Communications - ACMA &#x2018;Open' Cabling Provider">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00049" title="Data Communications - ACMA Restricted Telecommunications Cabling Registration">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF101A" title="Install and connect cabling for direct access to telecommunications service"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00050" title="Data Communications - Install Aerial Communication Cables">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF112A" title="Install aerial telecommunication cables"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00051" title="Data Communications - Install and Modify Performance Data Communication Optical Fibre Cabling">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF105A" title="Install and modify optical fibre performance data communication cabling"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00052" title="Data Communications - Install and Modify Performance Data Communication Structured Cabling">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF104A" title="Install and modify performance data communication copper cabling"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00053" title="Data Communications - Install Below Ground Communication Cables">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF102A" title="Install and maintain cabling for multiple access to telecommunication services"/>
+      <unit id="UEENEEF113A" title="Install underground communication cables"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00054" title="Data Communications - Restricted Telecommunications Cabler Registration - ACMA">
+    <units>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEF101A" title="Install and connect cabling for direct access to telecommunications service"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00056" title="Electrical - Install and Set Up Interval Metering">
+    <units>
+      <unit id="UEENEEG171A" title="Install, set up and commission interval metering"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00057" title="Electrical - Providing advice on lighting products">
+    <units>
+      <unit id="UEENEEG181A" title="Provide advice on effective and energy efficient lighting products"/>
+      <unit id="UEENEEG182A" title="Supply effective and efficient lighting products for domestic and small commercial applications"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00058" title="Electronic - Fire Detection and Alarm Systems - Installation, Maintenance, Commissioning and Servicing">
+    <units>
+      <unit id="UEENEEH161A" title="Install fire detection and warning system apparatus"/>
+      <unit id="UEENEEH162A" title="Verify compliance and functionality of fire protection system installations"/>
+      <unit id="UEENEEH163A" title="Enter and verify programs for fire protection systems"/>
+      <unit id="UEENEEH164A" title="Commission large fire protection systems"/>
+      <unit id="UEENEEH165A" title="Troubleshoot fire protection systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00059" title="Hazardous Areas - Attend to Breakdowns in Hazardous Areas - Coal Mining">
+    <units>
+      <unit id="UEENEEM019A" title="Attend to breakdowns in hazardous areas - coal mining"/>
+      <unit id="UEENEEM080A" title="Report on the integrity of explosion-protected equipment in a hazardous area"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00060" title="Hazardous Areas - Carry Out Overhaul and Repair of Explosion-Protected Equipment - Coal Mining">
+    <units>
+      <unit id="UEENEEM060A" title="Carry out overhaul and repair of explosion-protected equipment - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00061" title="Hazardous Areas - Conduct a Conformity Assessment of Explosion-Protected Equipment - Coal Mining">
+    <units>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEM035A" title="Conduct a conformity assessment of explosion-protected equipment - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00062" title="Hazardous Areas - Conduct Audit of Hazardous Areas Installations - Coal Mining">
+    <units>
+      <unit id="UEENEEM064A" title="Conduct audit of hazardous areas installations - coal mining"/>
+      <unit id="UEENEEM080A" title="Report on the integrity of explosion-protected equipment in a hazardous area"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00063" title="Hazardous Areas - Conduct Detailed Inspection of Hazardous Areas Installations - Coal Mining">
+    <units>
+      <unit id="UEENEEM043A" title="Conduct detailed inspection of  hazardous areas installations - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00064" title="Hazardous Areas - Conduct Testing of Hazardous Areas Installations - Coal Mining">
+    <units>
+      <unit id="UEENEEM038A" title="Conduct testing of hazardous areas installations - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00065" title="Hazardous Areas - Design Explosion-Protected Electrical Systems - Coal Mining">
+    <units>
+      <unit id="UEENEEM075A" title="Design explosion-protected electrical systems - Coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00066" title="Hazardous Areas - Develop and Manage Maintenance Programs for Hazardous Areas Electrical Equipment - Coal Mining">
+    <units>
+      <unit id="UEENEEM047A" title="Develop and manage maintenance programs for hazardous areas electrical equipment - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00068" title="Hazardous Areas - Install Explosion-Protected Equipment and Wiring Systems - Coal Mining">
+    <units>
+      <unit id="UEENEEM023A" title="Install explosion-protected equipment and wiring systems - coal mining"/>
+      <unit id="UEENEEM080A" title="Report on the integrity of explosion-protected equipment in a hazardous area"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00069" title="Hazardous Areas - Maintain Equipment in Hazardous Areas - Coal Mining">
+    <units>
+      <unit id="UEENEEM027A" title="Maintain equipment in hazardous areas - coal mining"/>
+      <unit id="UEENEEM080A" title="Report on the integrity of explosion-protected equipment in a hazardous area"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00070" title="Hazardous Areas - Overhaul and Repair of Explosion-Protected Equipment - Coal Mining">
+    <units>
+      <unit id="UEENEEM031A" title="Overhaul and repair of explosion-protected equipment - coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00071" title="Hazardous Areas - Plan Electrical Installations in Hazardous Areas - Coal Mining">
+    <units>
+      <unit id="UEENEEM074A" title="Plan electrical installations in hazardous areas - Coal mining"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00073" title="Instrumentation - Develop a integrated system interface for access through a touch screen">
+    <units>
+      <unit id="UEENEEI142A" title="Develop an electrical integrated system interface for access through a touch screen"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00074" title="Instrumentation - Develop access control of integrated systems using logic-based programming tools">
+    <units>
+      <unit id="UEENEEI143A" title="Develop access control of electrical integrated systems using logic-based programming tools"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00075" title="Instrumentation - Develop integrated systems">
+    <units>
+      <unit id="UEENEEI141A" title="Develop electrical integrated systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00076" title="Instrumentation - Develop interfaces for multiple access methods to monitor, schedule and control an integrated system">
+    <units>
+      <unit id="UEENEEI144A" title="Develop interfaces for multiple access methods to monitor, schedule and control an electrical integrated system"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00077" title="Instrumentation - Plan the installation of integrated systems">
+    <units>
+      <unit id="UEENEEI140A" title="Plan the electrical installation of integrated systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00078" title="Refrigeration-Air Conditioning - Design Ammonia Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ132A" title="Design commercial refrigeration systems and select components"/>
+      <unit id="UEENEEJ178A" title="Apply safety awareness and legal requirements for  ammonia refrigerant"/>
+      <unit id="UEENEEJ181A" title="Design ammonia refrigerated systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00079" title="Refrigeration-Air Conditioning - Design Complex Carbon Dioxide Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ132A" title="Design commercial refrigeration systems and select components"/>
+      <unit id="UEENEEJ184A" title="Apply safety awareness and legal requirements for carbon dioxide refrigerant"/>
+      <unit id="UEENEEJ187A" title="Design carbon dioxide refrigerated systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00080" title="Refrigeration-Air Conditioning - Design Hydrocarbon Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ132A" title="Design commercial refrigeration systems and select components"/>
+      <unit id="UEENEEJ174A" title="Apply safety awareness and legal requirements for hydrocarbon refrigerants"/>
+      <unit id="UEENEEJ177A" title="Design hydrocarbon refrigerated systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00081" title="Refrigeration-Air Conditioning - Design Secondary Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ132A" title="Design commercial refrigeration systems and select components"/>
+      <unit id="UEENEEJ183A" title="Design secondary refrigerant  systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00082" title="Refrigeration-Air Conditioning - Install and Commission Ammonia Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ178A" title="Apply safety awareness and legal requirements for  ammonia refrigerant"/>
+      <unit id="UEENEEJ179A" title="Repair and service ammonia refrigeration systems"/>
+      <unit id="UEENEEJ180A" title="Install and commission ammonia refrigeration systems, components and associated equipment"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00083" title="Refrigeration-Air Conditioning - Install and Commission Carbon Dioxide Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ184A" title="Apply safety awareness and legal requirements for carbon dioxide refrigerant"/>
+      <unit id="UEENEEJ185A" title="Repair and service carbon dioxide refrigeration systems"/>
+      <unit id="UEENEEJ186A" title="Install and commission carbon dioxide refrigeration systems, components and associated equipment"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00084" title="Refrigeration-Air Conditioning - Install and Commission Hydrocarbon Refrigeration Systems, Major Components and Associated Equipment">
+    <units>
+      <unit id="UEENEEJ174A" title="Apply safety awareness and legal requirements for hydrocarbon refrigerants"/>
+      <unit id="UEENEEJ175A" title="Service and repair self contained hydrocarbon air conditioning and refrigeration systems"/>
+      <unit id="UEENEEJ176A" title="Install and commission hydrocarbon refrigeration systems, components and associated equipment"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00085" title="Refrigeration-Air Conditioning - Operate Ammonia Refrigeration Plant">
+    <units>
+      <unit id="UEENEEJ178A" title="Apply safety awareness and legal requirements for  ammonia refrigerant"/>
+      <unit id="UEENEEJ196A" title="Operate Ammonia Refrigeration Plant"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00086" title="Refrigeration-Air Conditioning - Service and Repair Ammonia Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ178A" title="Apply safety awareness and legal requirements for  ammonia refrigerant"/>
+      <unit id="UEENEEJ179A" title="Repair and service ammonia refrigeration systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00087" title="Refrigeration-Air Conditioning - Service and Repair Carbon Dioxide Refrigeration and Heat Pump Systems">
+    <units>
+      <unit id="UEENEEJ184A" title="Apply safety awareness and legal requirements for carbon dioxide refrigerant"/>
+      <unit id="UEENEEJ188A" title="Repair and service self contained carbon dioxide refrigeration and heat pump systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00088" title="Refrigeration-Air Conditioning - Service and Repair Carbon Dioxide Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ184A" title="Apply safety awareness and legal requirements for carbon dioxide refrigerant"/>
+      <unit id="UEENEEJ185A" title="Repair and service carbon dioxide refrigeration systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00089" title="Refrigeration-Air Conditioning - Service and Repair Hydrocarbon Refrigeration and Air Conditioning Systems">
+    <units>
+      <unit id="UEENEEJ174A" title="Apply safety awareness and legal requirements for hydrocarbon refrigerants"/>
+      <unit id="UEENEEJ175A" title="Service and repair self contained hydrocarbon air conditioning and refrigeration systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00090" title="Refrigeration-Air Conditioning - Service and Repair Secondary Refrigeration Systems">
+    <units>
+      <unit id="UEENEEJ182A" title="Repair and service secondary refrigeration systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00091" title="Restricted - Attachment of cords and plugs to single phase low voltage electrical equipment">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP024A" title="Attach cords and plugs to electrical equipment for connection to a single phase 230 Volt supply"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00092" title="Restricted - Attachment of cords_cables and plugs to low voltage three phase electrical equipment">
+    <units>
+      <unit id="UEENEED101A" title="Use computer applications relevant to a workplace"/>
+      <unit id="UEENEEP024A" title="Attach cords and plugs to electrical equipment for connection to a single phase 230 Volt supply"/>
+      <unit id="UEENEEP025A" title="Attach cords, cables and plugs to electrical equipment for connection to 1000 Va.c. or 1500 Vd.c. supply"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00093" title="Restricted - Disconnection_reconnection of fixed wired low voltage appliances">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP010A" title="Disconnect - reconnect appliances connected to low voltage installation wiring"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00094" title="Restricted - Disconnection_reconnection of fixed wired low voltage control devices">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP013A" title="Disconnect - reconnect control devices connected to low voltage installation wiring"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00095" title="Restricted - Disconnection_reconnection of fixed wired low voltage motors">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP015A" title="Disconnect - reconnect motors connected to low voltage installation wiring"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00096" title="Restricted - Disconnection_reconnection of fixed wired low voltage water heaters">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP014A" title="Disconnect - reconnect water heaters connected to low voltage installation wiring"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00097" title="Restricted - Disconnection_reconnection of fixed wired low votlage composite appliances">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP012A" title="Disconnect / reconnect composite appliances connected to low voltage installation wiring"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00098" title="Restricted - Electrical safety testing of electrical cord connected equipment and cord assemblies">
+    <units>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEP026A" title="Conduct in-service safety testing of electrical cord connected equipment and cord assemblies"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00100" title="Sustainable - Designer of Grid Connected Photovoltaic Systems">
+    <units>
+      <unit id="UEENEEE103A" title="Solve problems in ELV single path circuits"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE108A" title="Lay wiring_cabling and terminate accessories for extra-low voltage (ELV) circuits"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEK125A" title="Solve basic problems in photovoltaic energy apparatus and systems"/>
+      <unit id="UEENEEK135A" title="Design grid connected photovoltaic power supply systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00101" title="Sustainable - Designer-Installer of Grid Connected Photovoltaic Systems">
+    <units>
+      <unit id="UEENEEG171A" title="Install, set up and commission interval metering"/>
+      <unit id="UEENEEK125A" title="Solve basic problems in photovoltaic energy apparatus and systems"/>
+      <unit id="UEENEEK135A" title="Design grid connected photovoltaic power supply systems"/>
+      <unit id="UEENEEK148A" title="Install, configure and commission LV grid connected photovoltaic power systems"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00102" title="Sustainable - Energy assessment of commercial facilities">
+    <units>
+      <unit id="UEENEEK152A" title="Develop strategies to address sustainability issues for electrical installations"/>
+      <unit id="UEENEEK153A" title="Assess energy loads and uses for energy efficiency in residential, office and retail premises"/>
+      <unit id="UEENEEK154A" title="Assess energy loads and uses for energy efficiency in commercial facilities"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00103" title="Sustainable - Energy Assessment of industrial properties and enterprises">
+    <units>
+      <unit id="UEENEEK152A" title="Develop strategies to address sustainability issues for electrical installations"/>
+      <unit id="UEENEEK153A" title="Assess energy loads and uses for energy efficiency in residential, office and retail premises"/>
+      <unit id="UEENEEK155A" title="Assess energy loads and uses for energy efficiency in industrial properties and enterprises"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00104" title="Sustainable - Energy assessment of residential, office and retail premises">
+    <units>
+      <unit id="UEENEEK152A" title="Develop strategies to address sustainability issues for electrical installations"/>
+      <unit id="UEENEEK153A" title="Assess energy loads and uses for energy efficiency in residential, office and retail premises"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00105" title="Sustainable - Energy Efficiency Auditor">
+    <units>
+      <unit id="UEENEEE117A" title="Implement and monitor energy sector OHS policies and procedures"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEK142A" title="Apply environmentally and sustainable procedures in the energy sector"/>
+      <unit id="UEENEEK145A" title="Implement and monitor energy sector environmental and sustainable policies and procedures"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00106" title="Sustainable - Energy Efficiency Systems Designer">
+    <units>
+      <unit id="UEENEEE078B" title="Contribute to risk management in electrotechnology systems"/>
+      <unit id="UEENEEE129A" title="Solve electrotechnical engineering problems"/>
+      <unit id="UEENEEG131A" title="Evaluate performance of low voltage electrical apparatus"/>
+      <unit id="UEENEEK146A" title="Design energy management controls for electrical installations in buildings"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00107" title="Sustainable - Energy Efficiency Systems Developer">
+    <units>
+      <unit id="UEENEEE078B" title="Contribute to risk management in electrotechnology systems"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE129A" title="Solve electrotechnical engineering problems"/>
+      <unit id="UEENEEG131A" title="Evaluate performance of low voltage electrical apparatus"/>
+      <unit id="UEENEEK132A" title="Develop strategies to address environmental and sustainability issues in the energy sector"/>
+      <unit id="UEENEEK146A" title="Design energy management controls for electrical installations in buildings"/>
+      <unit id="UEENEEK151A" title="Develop effective engineering strategies for energy reduction in buildings"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00108" title="Sustainable - Energy Efficiency Systems Integration">
+    <units>
+      <unit id="UEENEEE078B" title="Contribute to risk management in electrotechnology systems"/>
+      <unit id="UEENEEG170A" title="Plan large electrical projects"/>
+      <unit id="UEENEEI140A" title="Plan the electrical installation of integrated systems"/>
+      <unit id="UEENEEI141A" title="Develop electrical integrated systems"/>
+      <unit id="UEENEEI142A" title="Develop an electrical integrated system interface for access through a touch screen"/>
+      <unit id="UEENEEI143A" title="Develop access control of electrical integrated systems using logic-based programming tools"/>
+      <unit id="UEENEEI144A" title="Develop interfaces for multiple access methods to monitor, schedule and control an electrical integrated system"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00109" title="Sustainable - Identify Energy Efficiency Strategies">
+    <units>
+      <unit id="UEENEEE078B" title="Contribute to risk management in electrotechnology systems"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEK132A" title="Develop strategies to address environmental and sustainability issues in the energy sector"/>
+      <unit id="UEENEEK151A" title="Develop effective engineering strategies for energy reduction in buildings"/>
+    </units>
+  </skillset>
+  <skillset id="UEESS00110" title="Sustainable - Installer of Grid Connected Photovoltaic Systems">
+    <units>
+      <unit id="UEENEEG171A" title="Install, set up and commission interval metering"/>
+      <unit id="UEENEEK125A" title="Solve basic problems in photovoltaic energy apparatus and systems"/>
+      <unit id="UEENEEK148A" title="Install, configure and commission LV grid connected photovoltaic power systems"/>
+    </units>
+  </skillset>
+</skillsets>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<qualifications class="THH02">
+  <qualification id="THH11002" title="Certificate I in Hospitality (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH11102" title="Certificate I in Hospitality (Kitchen Operations)">
+    <units>
+      <unit id="THHBCAT01B" title="Prepare foods according to dietary and cultural needs"/>
+      <unit id="THHBCAT02B" title="Package prepared foodstuffs"/>
+      <unit id="THHBCAT03B" title="Transport and store food in a safe and hygienic manner"/>
+      <unit id="THHBCAT04B" title="Operate a fast food outlet"/>
+      <unit id="THHBCAT05B" title="Apply cook-chill production processes"/>
+      <unit id="THHBCAT06B" title="Apply catering control principles"/>
+      <unit id="THHBCC00B" title="Prepare sandwiches"/>
+      <unit id="THHBCC01B" title="Use basic methods of cookery"/>
+      <unit id="THHBCC02B" title="Prepare appetisers and salads"/>
+      <unit id="THHBCC03B" title="Prepare stocks, sauces and soups"/>
+      <unit id="THHBCC04B" title="Prepare vegetables, eggs and farinaceous dishes"/>
+      <unit id="THHBCC05B" title="Prepare and cook poultry and game"/>
+      <unit id="THHBCC06B" title="Prepare and cook seafood"/>
+      <unit id="THHBCC07B" title="Select, prepare and cook meat"/>
+      <unit id="THHBCC08B" title="Prepare hot and cold desserts"/>
+      <unit id="THHBCC09B" title="Prepare pastry, cakes and yeast goods"/>
+      <unit id="THHBCC10B" title="Plan and prepare food for buffets"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="THH21702" title="Certificate II in Hospitality (Asian Cookery)">
+    <units/>
+  </qualification>
+  <qualification id="THH22002" title="Certificate II in Hospitality (Kitchen Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH21802" title="Certificate II in Hospitality (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH31502" title="Certificate III in Hospitality (Commercial Cookery)">
+    <units/>
+  </qualification>
+  <qualification id="THH33002" title="Certificate III in Hospitality (Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH32902" title="Certificate III in Hospitality (Catering Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH33102" title="Certificate III in Hospitality (Asian Cookery)">
+    <units/>
+  </qualification>
+  <qualification id="THH31602" title="Certificate III in Hospitality (Patisserie)">
+    <units/>
+  </qualification>
+  <qualification id="THH42502" title="Certificate IV in Hospitality (Catering Operations)">
+    <units/>
+  </qualification>
+  <qualification id="THH42702" title="Certificate IV in Hospitality (Asian Cookery)">
+    <units/>
+  </qualification>
+  <qualification id="THH41402" title="Certificate IV in Hospitality (Patisserie)">
+    <units/>
+  </qualification>
+  <qualification id="THH41302" title="Certificate IV in Hospitality (Commercial Cookery)">
+    <units/>
+  </qualification>
+  <qualification id="THH42602" title="Certificate IV in Hospitality (Supervision)">
+    <units/>
+  </qualification>
+  <qualification id="THH51202" title="Diploma of Hospitality Management">
+    <units/>
+  </qualification>
+  <qualification id="THH60202" title="Advanced Diploma of Hospitality Management">
+    <units/>
+  </qualification>
+</qualifications>

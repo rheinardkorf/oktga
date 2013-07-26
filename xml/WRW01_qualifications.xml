@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<qualifications class="WRW01">
+  <qualification id="WRW20101" title="Certificate II in Wholesale Operations">
+    <units/>
+  </qualification>
+  <qualification id="WRW30101" title="Certificate III in Wholesale Operations">
+    <units/>
+  </qualification>
+  <qualification id="WRW40101" title="Certificate IV in Wholesale Management">
+    <units/>
+  </qualification>
+  <qualification id="WRW50101" title="Diploma of Wholesale Management">
+    <units/>
+  </qualification>
+</qualifications>

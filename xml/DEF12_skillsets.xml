@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<skillsets class="DEF12">
+  <skillset id="DEFSS00001" title="Combat fitness leader">
+    <units>
+      <unit id="DEFCM004B" title="Instruct a workplace physical training session in Defence"/>
+      <unit id="DEFPT001A" title="Conduct a group fitness appraisal within Defence"/>
+      <unit id="DEFPT002A" title="Develop a group fitness program within Defence"/>
+      <unit id="DEFPT003A" title="Conduct individual fitness assessments within Defence"/>
+      <unit id="SISSSPT303A" title="Conduct basic warm-up and cool-down programs"/>
+      <unit id="SRXGRO001A" title="Facilitate a group"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00002" title="Defence Chaplain">
+    <units>
+      <unit id="DEFCH001B" title="Provide pastoral care"/>
+      <unit id="DEFCH002C" title="Provide ethical and pastoral advice"/>
+      <unit id="DEFCH003B" title="Deliver chaplaincy services"/>
+      <unit id="DEFCH004B" title="Conduct and faciliate religious observances and activities"/>
+      <unit id="DEFCH005B" title="Perform as an effective member of the Chaplain's branch"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00003" title="Defence heavy vehicle recovery">
+    <units>
+      <unit id="DEFVH001A" title="Conduct recovery vehicle operations in a field environment"/>
+      <unit id="DEFVH002A" title="Extract disabled equipment using winching techniques in a field environment"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00004" title="Enter confined space">
+    <units>
+      <unit id="DEFOH012B" title="Identify confined space"/>
+      <unit id="DEFOH013B" title="Enter confined space"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00005" title="Field kitchen assistant">
+    <units>
+      <unit id="DEFCM305A" title="Assist with the establishment and operation of a field kitchen"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00006" title="Field kitchen manager">
+    <units>
+      <unit id="DEFCM304A" title="Establish and operate a field kitchen"/>
+    </units>
+  </skillset>
+  <skillset id="DEFSS00007" title="Military policing">
+    <units>
+      <unit id="DEFPO001B" title="Apply the values and principles of Defence police"/>
+      <unit id="DEFPO002B" title="Conduct battlefield circulation and control operations"/>
+      <unit id="DEFPO003B" title="Participate in population protection and control"/>
+    </units>
+  </skillset>
+</skillsets>

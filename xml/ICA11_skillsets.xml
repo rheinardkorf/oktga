@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<skillsets class="ICA11">
+  <skillset id="ICASS00001" title="Application Development Specialist Skill Set">
+    <units>
+      <unit id="ICAPRG501A" title="Apply advanced object-oriented language skills"/>
+      <unit id="ICAPRG505A" title="Build advanced user interface"/>
+      <unit id="ICAPRG506A" title="Design application architecture"/>
+      <unit id="ICAPRG507A" title="Implement security for applications"/>
+      <unit id="ICAPRG523A" title="Apply advanced programming skills in another language"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00002" title="Basic Application Development Programmer Skill Set">
+    <units>
+      <unit id="ICAPRG406A" title="Apply introductory object-oriented language skills"/>
+      <unit id="ICAPRG413A" title="Use a library or pre-existing components"/>
+      <unit id="ICAPRG414A" title="Apply introductory programming skills in another language"/>
+      <unit id="ICAPRG418A" title="Apply intermediate programming skills in another language"/>
+      <unit id="ICAPRG527A" title="Apply intermediate object-oriented language skills"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00003" title="Basic Computer Hardware and System Troubleshooting Skill Set">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICASAS201A" title="Maintain inventories for equipment, software and documentation"/>
+      <unit id="ICASAS205A" title="Maintain IT system integrity"/>
+      <unit id="ICASAS206A" title="Detect and protect from spam and destructive software"/>
+      <unit id="ICASAS207A" title="Protect and secure information assets"/>
+      <unit id="ICASAS208A" title="Maintain IT equipment and consumables"/>
+      <unit id="ICASAS209A" title="Connect and use a home-based local wireless network"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00004" title="Basic Web Development Specialist Skill Set">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="ICAWEB302A" title="Build simple websites using commercial programs"/>
+      <unit id="ICAWEB403A" title="Transfer content to a website using commercial packages"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00005" title="Certified IT Network Enterprise, Security or Server Administrator Skill Set">
+    <units>
+      <unit id="ICANWK403A" title="Manage network and data integrity"/>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00006" title="Certified Network Associate Technology Specialist Skill Set">
+    <units>
+      <unit id="ICANWK506A" title="Configure, verify and troubleshoot WAN links and IP services in a medium enterprise network"/>
+      <unit id="ICANWK507A" title="Install, operate and troubleshoot medium enterprise routers"/>
+      <unit id="ICANWK508A" title="Install, operate and troubleshoot medium enterprise switches"/>
+      <unit id="ICANWK529A" title="Install and manage complex ICT networks"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00007" title="Certified Network Professional Specialist - Voice Skill Set">
+    <units>
+      <unit id="ICANWK605A" title="Design and configure secure integrated wireless systems"/>
+      <unit id="ICANWK606A" title="Implement voice applications over secure wireless networks"/>
+      <unit id="ICANWK607A" title="Design and implement wireless network security"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00008" title="Certified Network Professional Specialist - Wireless Skill Set">
+    <units>
+      <unit id="ICANWK605A" title="Design and configure secure integrated wireless systems"/>
+      <unit id="ICANWK606A" title="Implement voice applications over secure wireless networks"/>
+      <unit id="ICANWK607A" title="Design and implement wireless network security"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00009" title="Certified Network Professional Specialist Skill Set">
+    <units>
+      <unit id="ICANWK603A" title="Plan, configure and test advanced internetwork routing solutions"/>
+      <unit id="ICANWK604A" title="Plan and configure advanced internetwork switching solutions"/>
+      <unit id="ICANWK612A" title="Plan and manage troubleshooting advanced integrated IP networks"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00010" title="Certified Networking Technician Skill Set">
+    <units>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK405A" title="Build a small wireless local area network"/>
+      <unit id="ICTTEN4199A" title="Install, configure and test a router"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00011" title="Certified Security and Architect Specialist Skill Set">
+    <units>
+      <unit id="ICANWK503A" title="Install and maintain valid authentication processes"/>
+      <unit id="ICANWK511A" title="Manage network security"/>
+      <unit id="ICANWK529A" title="Install and manage complex ICT networks"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00012" title="Certified Technician or Technology Specialist - Infrastructure Configuration Skill Set">
+    <units>
+      <unit id="ICANWK503A" title="Install and maintain valid authentication processes"/>
+      <unit id="ICANWK505A" title="Design, build and test a network server"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00013" title="Certified Technology Specialist - Graphical User Interfaces Skill Set">
+    <units>
+      <unit id="ICANWK403A" title="Manage network and data integrity"/>
+      <unit id="ICANWK408A" title="Configure a desktop environment"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00014" title="Certified Web Design Specialist Skill Set">
+    <units>
+      <unit id="ICAWEB409A" title="Develop cascading style sheets"/>
+      <unit id="ICAWEB410A" title="Apply web authoring tool to convert client data for websites"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB412A" title="Produce interactive web animation"/>
+      <unit id="ICAWEB414A" title="Design simple web page layouts"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00015" title="Computing and Application Fundamentals Skill Set">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00016" title="Computing Fundamentals Skill Set">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="ICAICT201A" title="Use computer operating systems and hardware"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAWEB201A" title="Use social media tools for collaboration and engagement"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00017" title="Digital Literacy - eCitizen Skill Set">
+    <units>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00018" title="Digital Literacy Skill Set">
+    <units>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT103A" title="Use, communicate and search securely on the internet"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT106A" title="Operate presentation packages"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00019" title="Hardware Technician Skill Set">
+    <units>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAICT303A" title="Connect internal hardware components"/>
+      <unit id="ICASAS301A" title="Run standard diagnostic tests"/>
+      <unit id="ICASAS305A" title="Provide IT advice to clients"/>
+      <unit id="ICASAS306A" title="Maintain equipment and software"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00020" title="Internetworking Systems Coordinator-Administrator Skill Set">
+    <units>
+      <unit id="ICANWK603A" title="Plan, configure and test advanced internetwork routing solutions"/>
+      <unit id="ICANWK605A" title="Design and configure secure integrated wireless systems"/>
+      <unit id="ICANWK610A" title="Design and build integrated VoIP networks"/>
+      <unit id="ICANWK611A" title="Configure call processing network elements for secure VoIP networks"/>
+      <unit id="ICANWK612A" title="Plan and manage troubleshooting advanced integrated IP networks"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00021" title="Rich Interactive Content Specialist Skill Set">
+    <units>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="ICAGAM301A" title="Apply simple modelling techniques"/>
+      <unit id="ICAGAM302A" title="Design and apply simple textures to digital art"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00022" title="System and Hardware Plus Technician Skill Set">
+    <units>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="ICAICT401A" title="Determine and confirm client business requirements"/>
+      <unit id="ICAICT421A" title="Connect, maintain and configure hardware components"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+      <unit id="ICASAS425A" title="Configure and troubleshoot operating system software"/>
+      <unit id="ICASAS426A" title="Locate and troubleshoot IT equipment, system and software faults"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00023" title="System and Network Plus Technician Skill set">
+    <units>
+      <unit id="ICANWK401A" title="Install and manage a server"/>
+      <unit id="ICANWK404A" title="Install, operate and troubleshoot a small enterprise branch network"/>
+      <unit id="ICANWK406A" title="Install, configure and test network security"/>
+      <unit id="ICASAS307A" title="Install, configure and secure a small office home office network"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00024" title="Virtualisation Specialist Skill Set">
+    <units>
+      <unit id="ICANWK525A" title="Configure an enterprise virtual computing environment"/>
+      <unit id="ICANWK526A" title="Install an enterprise virtual computing environment"/>
+      <unit id="ICANWK527A" title="Manage an enterprise virtual computing environment"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00025" title="Visual Communications Specialist Skill Set">
+    <units>
+      <unit id="CUFDIG301A" title="Prepare video assets"/>
+      <unit id="CUFDIG304A" title="Create visual design components"/>
+      <unit id="ICAWEB303A" title="Produce digital images for the web"/>
+    </units>
+  </skillset>
+  <skillset id="ICASS00026" title="Website Administration Specialist Skill Set">
+    <units>
+      <unit id="ICANWK409A" title="Create scripts for networking"/>
+      <unit id="ICAWEB404A" title="Maintain website performance"/>
+      <unit id="ICAWEB405A" title="Monitor traffic and compile website traffic reports"/>
+      <unit id="ICAWEB406A" title="Create website testing procedures"/>
+      <unit id="ICAWEB407A" title="Conduct operational acceptance tests of websites"/>
+      <unit id="ICAWEB408A" title="Ensure basic website security"/>
+    </units>
+  </skillset>
+</skillsets>

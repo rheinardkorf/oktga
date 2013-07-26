@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<qualifications class="LMT00">
+  <qualification id="LMT10700" title="Certificate I in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT11106" title="Certificate I in Textiles Clothing and Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT10806" title="Certificate I in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT10500" title="Certificate I in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT10706" title="Certificate I in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT10800" title="Certificate I in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT11000" title="Certificate I in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT10306" title="Certificate I in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT10300" title="Certificate I in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT10600" title="Certificate I in Footwear Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT11006" title="Certificate I in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT10100" title="Certificate I in Textile Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT10506" title="Certificate I in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT10200" title="Certificate I in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT10400" title="Certificate I in Clothing Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT10206" title="Certificate I in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT20506" title="Certificate II in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT20500" title="Certificate II in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT20706" title="Certificate II in Clothing Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20306" title="Certificate II in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT21500" title="Certificate II in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT21006" title="Certificate II in Footwear Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT21406" title="Certificate II in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT21400" title="Certificate II in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT20606" title="Certificate II in Clothing Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT21300" title="Certificate II in Hide, Skin and Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT21606" title="Certificate II in Technical Textiles and Nonwovens">
+    <units/>
+  </qualification>
+  <qualification id="LMT21206" title="Certificate II in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT21000" title="Certificate II in Footwear Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT21100" title="Certificate II in Footwear Repair">
+    <units/>
+  </qualification>
+  <qualification id="LMT20100" title="Certificate II in Textile Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT21106" title="Certificate II in Footwear Repair">
+    <units/>
+  </qualification>
+  <qualification id="LMT20206" title="Certificate II in Textile Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20806" title="Certificate II in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT20400" title="Certificate II in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT20106" title="Certificate II in Textile Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20906" title="Certificate II in Footwear Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20800" title="Certificate II in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT21506" title="Certificate II in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT20600" title="Certificate II in Clothing Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20900" title="Certificate II in Footwear Production (Intermediate)">
+    <units/>
+  </qualification>
+  <qualification id="LMT21200" title="Certificate II in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT20300" title="Certificate II in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT21306" title="Certificate II in Hide, Skin And Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT20700" title="Certificate II in Clothing Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20200" title="Certificate II in Textile Production (Complex or Multiple Processes)">
+    <units/>
+  </qualification>
+  <qualification id="LMT20406" title="Certificate II in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT21706" title="Certificate II in Applied Fashion Design and Technology">
+    <units/>
+  </qualification>
+  <qualification id="LMT31100" title="Certificate III in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT30506" title="Certificate III in Clothing Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT30600" title="Certificate III in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT30800" title="Certificate III in Footwear Repair">
+    <units/>
+  </qualification>
+  <qualification id="LMT30300" title="Certificate III in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT30906" title="Certificate III in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT30700" title="Certificate III in Footwear Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT30706" title="Certificate III in Footwear Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT31200" title="Certificate III in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT31806" title="Certificate III in Technical Textiles and Nonwovens">
+    <units/>
+  </qualification>
+  <qualification id="LMT30806" title="Certificate III in Footwear Repair">
+    <units/>
+  </qualification>
+  <qualification id="LMT30306" title="Certificate III in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT30500" title="Certificate III in Clothing Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT31406" title="Certificate III in Applied Fashion Design and Technology">
+    <units/>
+  </qualification>
+  <qualification id="LMT30206" title="Certificate III in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT30200" title="Certificate III in Early Stage Wool Processing">
+    <units/>
+  </qualification>
+  <qualification id="LMT31006" title="Certificate III in Hide, Skin And Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT30606" title="Certificate III in Headwear/Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT31000" title="Certificate III in Hide, Skin and Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT30400" title="Certificate III in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT31206" title="Certificate III in Dry Cleaning Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT30106" title="Certificate III in Textile Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT30100" title="Certificate III in Textile Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT30900" title="Certificate III in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT31106" title="Certificate III in Laundry Operations">
+    <units/>
+  </qualification>
+  <qualification id="LMT30406" title="Certificate III in Textile Fabrication">
+    <units/>
+  </qualification>
+  <qualification id="LMT40206" title="Certificate IV in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT40406" title="Certificate IV in Footwear Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40400" title="Certificate IV in Footwear Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40706" title="Certificate IV in Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT40106" title="Certificate IV in Textile Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40703" title="Certificate IV in Millinery">
+    <units/>
+  </qualification>
+  <qualification id="LMT40300" title="Certificate IV in Clothing Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40100" title="Certificate IV in Textile Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40606" title="Certificate IV in Hide, Skin And Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT40506" title="Certificate IV in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40903" title="Certificate IV in Supply and Fitting of Pre-Manufactured Medical Grade Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT40803" title="Certificate IV in Laundry Operations and Supervision">
+    <units/>
+  </qualification>
+  <qualification id="LMT40200" title="Certificate IV in Cotton Ginning">
+    <units/>
+  </qualification>
+  <qualification id="LMT41006" title="Certificate IV in Applied Fashion Design and Technology">
+    <units/>
+  </qualification>
+  <qualification id="LMT40306" title="Certificate IV in Clothing Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT40600" title="Certificate IV in Hide, Skin and Leather">
+    <units/>
+  </qualification>
+  <qualification id="LMT40500" title="Certificate IV in Leather Goods Production">
+    <units/>
+  </qualification>
+  <qualification id="LMT50106" title="Diploma of Textiles Clothing and Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT50203" title="Diploma of Medical Grade Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT50100" title="Diploma of Textiles Clothing and Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT50306" title="Diploma of Applied Fashion Design and Technology">
+    <units/>
+  </qualification>
+  <qualification id="LMT60106" title="Advanced Diploma of Textiles Clothing and Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT60100" title="Advanced Diploma of Textiles Clothing and Footwear">
+    <units/>
+  </qualification>
+  <qualification id="LMT60306" title="Advanced Diploma of Applied Fashion Design and Technology">
+    <units/>
+  </qualification>
+  <qualification id="LMT60203" title="Advanced Diploma of Medical Grade Footwear">
+    <units/>
+  </qualification>
+</qualifications>

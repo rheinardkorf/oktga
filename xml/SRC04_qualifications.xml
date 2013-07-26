@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<qualifications class="SRC04">
+  <qualification id="SRC10204" title="Certificate I in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC10206" title="Certificate I in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC20204" title="Certificate II in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC20206" title="Certificate II in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC30204" title="Certificate III in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC30206" title="Certificate III in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC40206" title="Certificate IV in Community Recreation">
+    <units/>
+  </qualification>
+  <qualification id="SRC40204" title="Certificate IV in Community Recreation">
+    <units/>
+  </qualification>
+</qualifications>

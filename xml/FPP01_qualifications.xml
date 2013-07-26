@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<qualifications class="FPP01">
+  <qualification id="FPP10101" title="Certificate I in Pulp and Paper Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="FPP20101" title="Certificate II in Pulp and Paper Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="FPP20201" title="Certificate II in Pulp and Paper Services">
+    <units/>
+  </qualification>
+  <qualification id="FPP20301" title="Certificate II in Pulp and Paper (General)">
+    <units/>
+  </qualification>
+  <qualification id="FPP30101" title="Certificate III in Pulp and Paper Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="FPP30201" title="Certificate III in Pulp and Paper Services">
+    <units/>
+  </qualification>
+  <qualification id="FPP40201" title="Certificate IV in Pulp and Paper Services">
+    <units/>
+  </qualification>
+  <qualification id="FPP40101" title="Certificate IV in Pulp and Paper Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="FPP50101" title="Diploma of Pulp and Paper Industry Operations">
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<qualifications class="UEG06">
+  <qualification id="UEG10106" title="Certificate I in Utilities Industry Operations">
+    <units>
+      <unit id="UEGNSG101A" title="Use equipment and tools to perform work in a utilities industry work environment"/>
+      <unit id="UEGNSG102A" title="Carry out work activities in a utilities industry work environment"/>
+    </units>
+  </qualification>
+  <qualification id="UEG20106" title="Certificate II in Utilities Industry Operations">
+    <units>
+      <unit id="UEGNSG102A" title="Carry out work activities in a utilities industry work environment"/>
+      <unit id="UEGNSG103A" title="Comply with workplace OHS procedures and practices"/>
+      <unit id="UEGNSG104A" title="Comply with environmental policies and procedures"/>
+      <unit id="UEGNSG105A" title="Establish the work site"/>
+    </units>
+  </qualification>
+  <qualification id="UEG30110" title="Certificate III in Gas Industry Operations">
+    <units>
+      <unit id="BSBCMN209A" title="Provide information to clients"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM312B" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="TLIC407D" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC507D" title="Drive heavy combination vehicle"/>
+      <unit id="TLID1007C" title="Operate a forklift"/>
+      <unit id="UEENEEE002B" title="Dismantle, assemble and fabricate electrotechnology components"/>
+      <unit id="UEENEEE005B" title="Fix and secure equipment"/>
+      <unit id="UEENEEE007B" title="Use drawings, diagrams, schedules and manuals"/>
+      <unit id="UEENEEE008B" title="Lay wiring/cabling and terminate accessories for extra-low voltage circuits"/>
+      <unit id="UEENEEM020A" title="Attend to breakdowns in hazardous areas - gas atmospheres"/>
+      <unit id="UEENEEM076A" title="Use and maintain the integrity of a portable gas detection device"/>
+      <unit id="UEENEEM080A" title="Report on the integrity of explosion-protected equipment in a hazardous area"/>
+      <unit id="UEGNSG102A" title="Carry out work activities in a utilities industry work environment"/>
+      <unit id="UEGNSG103A" title="Comply with workplace OHS procedures and practices"/>
+      <unit id="UEGNSG104A" title="Comply with environmental policies and procedures"/>
+      <unit id="UEGNSG105A" title="Establish the work site"/>
+      <unit id="UEGNSG106A" title="Coordinate repair of pipeline, facilities and equipment"/>
+      <unit id="UEGNSG107A" title="Control gas odourisation"/>
+      <unit id="UEGNSG201A" title="Excavate for underground utilities services operating plant and equipment"/>
+      <unit id="UEGNSG202A" title="Construct and lay distribution pipelines"/>
+      <unit id="UEGNSG203A" title="Commission and decommission gas distribution pipelines"/>
+      <unit id="UEGNSG204A" title="Coordinate gas distribution pipeline repair and modifications"/>
+      <unit id="UEGNSG205A" title="Launch and recover PIG in a gas distribution pipeline"/>
+      <unit id="UEGNSG206A" title="Perform routine maintenance on distribution pipeline facilities and equipment"/>
+      <unit id="UEGNSG207A" title="Coordinate construction, laying and testing of gas distribution pipelines"/>
+      <unit id="UEGNSG208A" title="Gas distribution pipeline surveillance"/>
+      <unit id="UEGNSG209A" title="First on site emergency response on a distribution pipeline"/>
+      <unit id="UEGNSG210A" title="Supervise and monitor contract staff for work on distribution pipelines"/>
+      <unit id="UEGNSG211A" title="Lay underground electrical supply cables"/>
+      <unit id="UEGNSG301A" title="Coat gas pipelines"/>
+      <unit id="UEGNSG302A" title="Maintain pipeline easements"/>
+      <unit id="UEGNSG303A" title="Gas transmission pipeline surveillance"/>
+      <unit id="UEGNSG304A" title="Commission/decommission gas transmission pipelines"/>
+      <unit id="UEGNSG305A" title="Coordinate gas transmission pipeline repair and modifications"/>
+      <unit id="UEGNSG307A" title="Perform routine maintenance on transmission pipeline facilities and equipment"/>
+      <unit id="UEGNSG318A" title="Monitor and operate flow control, pressure, measuring and regulating devices for gas transmission"/>
+      <unit id="UEGNSG401A" title="Maintain cathodic protection systems"/>
+      <unit id="UEGNSG402A" title="Install cathodic protection systems"/>
+      <unit id="UEGNSG601A" title="Assess the operational capability of gas safety equipment on tankers"/>
+      <unit id="UEGNSG602A" title="Load, discharging LPG by road tanker"/>
+      <unit id="UEGNSG603A" title="Load, unload and exchanging gas cylinders"/>
+      <unit id="UEGNSG604A" title="Fill gas cylinders"/>
+      <unit id="UEGNSG605A" title="Refurbish gas cylinders"/>
+      <unit id="UEGNSG606A" title="Monitor and control the transfer of LPG"/>
+      <unit id="UEGNSG607A" title="Process LPG"/>
+      <unit id="UEGNSG608A" title="Perform minor maintenance on gas processing/storage facilities and equipment"/>
+      <unit id="UEGNSG609A" title="Coordinate repair of faults in gas processing/storage facilities and equipment"/>
+      <unit id="UEGNSG610A" title="Control storage of LPG in terminal"/>
+      <unit id="UEGNSG701A" title="Process meter reading information using appropriate technology"/>
+      <unit id="UEGNSG702A" title="Read and record meter readings"/>
+      <unit id="UEGNSG703A" title="Investigate billing exceptions/conditions"/>
+      <unit id="UEGNSG801A" title="Monitor and operate complex flow control, measuring and regulating devices for gas pressure control"/>
+      <unit id="UEGNSG802A" title="Install complex flow control, measuring and regulating devices for gas pressure control"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UEG40206" title="Certificate IV in Gas Industry Transmission Pipeline">
+    <units>
+      <unit id="UEGNSG302A" title="Maintain pipeline easements"/>
+      <unit id="UEGNSG303A" title="Gas transmission pipeline surveillance"/>
+      <unit id="UEGNSG308A" title="Identify, evaluate and control threats to transmission pipelines"/>
+      <unit id="UEGNSG309A" title="First on site emergency response"/>
+      <unit id="UEGNSG310A" title="Supervise and monitor contract staff"/>
+      <unit id="UEGNSG311A" title="Site control of third party works in the vicinity of a transmission pipeline"/>
+    </units>
+  </qualification>
+  <qualification id="UEG40106" title="Certificate IV in Gas Industry Operations">
+    <units>
+      <unit id="BSBCMN411A" title="Monitor a safe workplace"/>
+      <unit id="BSBFLM405B" title="Implement operational plan"/>
+    </units>
+  </qualification>
+  <qualification id="UEG50106" title="Diploma of Gas Industry Operations">
+    <units>
+      <unit id="BSBFLM509B" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT505A" title="Ensure a safe workplace"/>
+      <unit id="BSBMGT507A" title="Manage environmental performance"/>
+      <unit id="UEGNSG113A" title="Manage a utilities industry OHS management system"/>
+      <unit id="UEGNSG115A" title="Manage gas systems projects"/>
+      <unit id="UEGNSG116A" title="Manage Gas Industry physical resources"/>
+    </units>
+  </qualification>
+  <qualification id="UEG60106" title="Advanced Diploma of Gas Industry Operations">
+    <units>
+      <unit id="UEGNSG115A" title="Manage gas systems projects"/>
+      <unit id="UEGNSG116A" title="Manage Gas Industry physical resources"/>
+      <unit id="UEGNSG117A" title="Plan and implement the data acquisition and metering requirements of a gas system"/>
+      <unit id="UEGNSG118A" title="Select and commission equipment to meet pressure and temperature control specifications"/>
+      <unit id="UEGNSG119A" title="Manage workplace risk in a Gas Industry facility"/>
+      <unit id="UEGNSG120A" title="Manage gas system environmental compliance"/>
+      <unit id="UEGNSG121A" title="Prepare safe design specifications of a gas system"/>
+      <unit id="UEGNSG122A" title="Manage a customer service gas business unit"/>
+      <unit id="UEGNSG123A" title="Manage financial resources in Gas Industry facility"/>
+    </units>
+  </qualification>
+</qualifications>

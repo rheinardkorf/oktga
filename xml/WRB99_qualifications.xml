@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<qualifications class="WRB99">
+  <qualification id="WRB20299" title="Certificate II in Make-up Artistry">
+    <units/>
+  </qualification>
+  <qualification id="WRB20199" title="Certificate II in Nail Technology">
+    <units/>
+  </qualification>
+  <qualification id="WRB20399" title="Certificate II in Retail Cosmetic Assistant">
+    <units/>
+  </qualification>
+  <qualification id="WRB30299" title="Certificate III in Nail Technology (Small Business)">
+    <units/>
+  </qualification>
+  <qualification id="WRB30199" title="Certificate III in Beauty">
+    <units/>
+  </qualification>
+  <qualification id="WRB40199" title="Certificate IV in Beauty Therapy">
+    <units/>
+  </qualification>
+  <qualification id="WRB50199" title="Diploma of Beauty Therapy">
+    <units/>
+  </qualification>
+</qualifications>

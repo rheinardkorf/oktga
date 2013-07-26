@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<skillsets class="SIT12">
+  <skillset id="SITSS00006" title="Airfare Construction">
+    <units>
+      <unit id="SITTTSL309" title="Source airfares for domestic flights"/>
+      <unit id="SITTTSL310" title="Construct normal international airfares"/>
+      <unit id="SITTTSL311" title="Construct promotional international airfares"/>
+      <unit id="SITTTSL312" title="Construct advanced international airfares"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00007" title="Beverage Advice">
+    <units>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB304" title="Provide advice on beers, spirits and liqueurs"/>
+      <unit id="SITHFAB305" title="Provide advice on Australian wines"/>
+      <unit id="SITHFAB310" title="Provide advice on food and beverage matching"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00008" title="Business Management">
+    <units>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="SITXCCS501" title="Manage quality customer service"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXFIN402" title="Manage finances within a budget"/>
+      <unit id="SITXFIN501" title="Prepare and monitor budgets"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="SITXMGT401" title="Monitor work operations"/>
+      <unit id="SITXMGT501" title="Establish and conduct business relationships"/>
+      <unit id="SITXWHS401" title="Implement and monitor work health and safety practices"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00009" title="Customer Service">
+    <units>
+      <unit id="SITXCCS303" title="Provide service to customers"/>
+      <unit id="SITXCOM201" title="Show social and cultural sensitivity"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00010" title="Customer Service Management">
+    <units>
+      <unit id="SITXCCS401" title="Enhance the customer service experience"/>
+      <unit id="SITXCCS501" title="Manage quality customer service"/>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00011" title="Espresso Machine Operation">
+    <units>
+      <unit id="SITHFAB204" title="Prepare and serve espresso coffee"/>
+      <unit id="SITXCCS303" title="Provide service to customers"/>
+      <unit id="SITXFIN201" title="Process financial transactions"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00012" title="Essential Business Skills for a Restaurant Manager">
+    <units>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITXCCS501" title="Manage quality customer service"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="SITXHRM501" title="Recruit, select and induct staff"/>
+      <unit id="SITXWHS401" title="Implement and monitor work health and safety practices"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00013" title="Event Coordination">
+    <units>
+      <unit id="SITXEVT302" title="Process and monitor event registrations"/>
+      <unit id="SITXEVT503" title="Manage event staging components"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00014" title="Event Development">
+    <units>
+      <unit id="CUSFIM501A" title="Secure funding for projects"/>
+      <unit id="SITXEVT602" title="Develop event concepts"/>
+      <unit id="SITXEVT603" title="Determine event feasibility"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00015" title="Food Advice">
+    <units>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB309" title="Provide advice on food"/>
+      <unit id="SITHFAB310" title="Provide advice on food and beverage matching"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00016" title="Food Handling">
+    <units>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00017" title="Food Safety Supervision">
+    <units>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="SITXFSA201" title="Participate in safe food handling practices"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00018" title="Hospitality Compliance">
+    <units>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHGAM201" title="Provide responsible gambling services"/>
+      <unit id="SITXFSA101" title="Use hygienic practices for food safety"/>
+      <unit id="SITXFSA201" title="Participate in safe food handling practices"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00020" title="Licenced Travel Agency">
+    <units>
+      <unit id="SITTTSL310" title="Construct normal international airfares"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00021" title="Mentoring and Supervision">
+    <units>
+      <unit id="SITXCOM401" title="Manage conflict"/>
+      <unit id="SITXHRM301" title="Coach others in job skills"/>
+      <unit id="SITXHRM402" title="Lead and manage people"/>
+      <unit id="SITXMGT401" title="Monitor work operations"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00022" title="Product Development for International Markets">
+    <units>
+      <unit id="BSBMKG605B" title="Evaluate international marketing opportunities"/>
+      <unit id="SITTPPD503" title="Research and analyse tourism data"/>
+      <unit id="SITTPPD601" title="Develop tourism products"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00023" title="Product Sales for International Markets">
+    <units>
+      <unit id="SITTPPD401" title="Package tourism products"/>
+      <unit id="SITTTSL303" title="Sell tourism products and services"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00024" title="Responsible Service of Alcohol">
+    <units>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00025" title="Service for International Visitors">
+    <units>
+      <unit id="SITXCCS303" title="Provide service to customers"/>
+      <unit id="SITXCOM201" title="Show social and cultural sensitivity"/>
+      <unit id="SITXLAN21__" title="Conduct basic oral communication in a language other than English"/>
+      <unit id="SITXLAN2101" title="Conduct basic oral communication in a language other than English (Arabic)"/>
+      <unit id="SITXLAN2102" title="Conduct basic oral communication in a language other than English (Indonesian)"/>
+      <unit id="SITXLAN2103" title="Conduct basic oral communication in a language other than English (Cantonese)"/>
+      <unit id="SITXLAN2104" title="Conduct basic oral communication in a language other than English (Dutch)"/>
+      <unit id="SITXLAN2105" title="Conduct basic oral communication in a language other than English (Finnish)"/>
+      <unit id="SITXLAN2106" title="Conduct basic oral communication in a language other than English (French)"/>
+      <unit id="SITXLAN2107" title="Conduct basic oral communication in a language other than English (German)"/>
+      <unit id="SITXLAN2108" title="Conduct basic oral communication in a language other than English (Greek)"/>
+      <unit id="SITXLAN2109" title="Conduct basic oral communication in a language other than English (Hindi)"/>
+      <unit id="SITXLAN2110" title="Conduct basic oral communication in a language other than English (Hungarian)"/>
+      <unit id="SITXLAN2111" title="Conduct basic oral communication in a language other than English (Italian)"/>
+      <unit id="SITXLAN2112" title="Conduct basic oral communication in a language other than English (Japanese)"/>
+      <unit id="SITXLAN2113" title="Conduct basic oral communication in a language other than English (Korean)"/>
+      <unit id="SITXLAN2114" title="Conduct basic oral communication in a language other than English (Malay)"/>
+      <unit id="SITXLAN2115" title="Conduct basic oral communication in a language other than English (Mandarin)"/>
+      <unit id="SITXLAN2116" title="Conduct basic oral communication in a language other than English (Polish)"/>
+      <unit id="SITXLAN2117" title="Conduct oral communication in a language other than English (Portuguese)"/>
+      <unit id="SITXLAN2118" title="Conduct basic oral communication in a language other than English (Russian)"/>
+      <unit id="SITXLAN2119" title="Conduct basic oral communication in a language other than English (Serbian)"/>
+      <unit id="SITXLAN2120" title="Conduct basic oral communication in a language other than English (Spanish)"/>
+      <unit id="SITXLAN2121" title="Conduct basic oral communication in a language other than English (Swedish)"/>
+      <unit id="SITXLAN2122" title="Conduct basic oral communication in a language other than English (Swiss German)"/>
+      <unit id="SITXLAN2123" title="Conduct basic oral communication in a language other than English (Taiwanese)"/>
+      <unit id="SITXLAN2124" title="Conduct basic oral communication in a language other than English (Thai)"/>
+      <unit id="SITXLAN2125" title="Conduct basic oral communication in a language other than English (Turkish)"/>
+      <unit id="SITXLAN2126" title="Conduct basic oral communication in a language other than English (Croatian)"/>
+      <unit id="SITXLAN2127" title="Conduct basic oral communication in a language other than English (Bosnian)"/>
+      <unit id="SITXLAN2128" title="Conduct basic oral communication in a language other than English (Australian Indigenous languages)"/>
+      <unit id="SITXLAN2129" title="Conduct basic oral communication in a language other than English (AUSLAN)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </skillset>
+  <skillset id="SITSS00026" title="Sommelier">
+    <units>
+      <unit id="SITHFAB201" title="Provide responsible service of alcohol"/>
+      <unit id="SITHFAB304" title="Provide advice on beers, spirits and liqueurs"/>
+      <unit id="SITHFAB305" title="Provide advice on Australian wines"/>
+      <unit id="SITHFAB306" title="Provide advice on imported wines"/>
+      <unit id="SITHFAB310" title="Provide advice on food and beverage matching"/>
+      <unit id="SITHFAB501" title="Manage the sale or service of wine"/>
+      <unit id="SITXFIN402" title="Manage finances within a budget"/>
+    </units>
+  </skillset>
+  <skillset id="SITSS00027" title="Visitor Information Services">
+    <units>
+      <unit id="SITTIND201" title="Source and use information on the tourism and travel industry"/>
+      <unit id="SITTTSL201" title="Operate an online information system"/>
+      <unit id="SITTTSL202" title="Access and interpret product information"/>
+      <unit id="SITTTSL302" title="Provide advice on Australian destinations"/>
+      <unit id="SITXCCS201" title="Provide visitor information"/>
+      <unit id="SITXCCS303" title="Provide service to customers"/>
+    </units>
+  </skillset>
+</skillsets>

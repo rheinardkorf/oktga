@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<qualifications class="THC04">
+  <qualification id="THC20404" title="Certificate II in Caravan Park Operations">
+    <units/>
+  </qualification>
+  <qualification id="THC20204" title="Certificate II in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC20304" title="Certificate II in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC20104" title="Certificate II in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC30104" title="Certificate III in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC30304" title="Certificate III in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC30404" title="Certificate III in Caravan Park Operations">
+    <units/>
+  </qualification>
+  <qualification id="THC30204" title="Certificate III in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC40104" title="Certificate IV in Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+  <qualification id="THC40304" title="Certificate IV in Recreational Vehicle and Accessories Retailing">
+    <units/>
+  </qualification>
+  <qualification id="THC40404" title="Certificate IV in Caravan Park Supervision">
+    <units/>
+  </qualification>
+  <qualification id="THC40204" title="Certificate IV in Recreational Vehicle Servicing">
+    <units/>
+  </qualification>
+  <qualification id="THC50404" title="Diploma of Caravan Park Management">
+    <units/>
+  </qualification>
+  <qualification id="THC50104" title="Diploma of Recreational Vehicle Manufacturing">
+    <units/>
+  </qualification>
+</qualifications>

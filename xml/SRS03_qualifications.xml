@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<qualifications class="SRS03">
+  <qualification id="SRS20203" title="Certificate II in Sport (Career-oriented participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20406" title="Certificate II in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20206" title="Certificate II in Sport (Career-oriented participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20403" title="Certificate II in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20306" title="Certificate II in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS20303" title="Certificate II in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30206" title="Certificate III in Sport (Career-oriented participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30406" title="Certificate III in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30203" title="Certificate III in Sport (Career-oriented participation)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30503" title="Certificate III in Sport (Athlete support services)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30303" title="Certificate III in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30506" title="Certificate III in Sport (Athlete support services)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30403" title="Certificate III in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS30306" title="Certificate III in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40403" title="Certificate IV in Sport (Athlete support services)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40406" title="Certificate IV in Sport (Athlete support services)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40203" title="Certificate IV in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40303" title="Certificate IV in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40206" title="Certificate IV in Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40306" title="Certificate IV in Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40503" title="Certificate IV in Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS40506" title="Certificate IV in Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50406" title="Diploma of Sport (Athlete support services)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50203" title="Diploma of Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50506" title="Diploma of Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50303" title="Diploma of Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50206" title="Diploma of Sport (Coaching)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50503" title="Diploma of Sport (Development)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50306" title="Diploma of Sport (Officiating)">
+    <units/>
+  </qualification>
+  <qualification id="SRS50403" title="Diploma of Sport (Athlete support services)">
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<qualifications class="MSS11">
+  <qualification id="MSS20312" title="Certificate II in Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402041A" title="Apply 5S in an office"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402052A" title="Implement continuous improvements based on standardised work practices"/>
+      <unit id="MSS402053A" title="Participate in breakthrough improvements in an office"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MSS30312" title="Certificate III in Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402041A" title="Apply 5S in an office"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402052A" title="Implement continuous improvements based on standardised work practices"/>
+      <unit id="MSS402053A" title="Participate in breakthrough improvements in an office"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403006A" title="Facilitate implementation of competitive systems and practices in an office"/>
+      <unit id="MSS403007A" title="Map an office value stream"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403024A" title="Work within a constrained process"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403033A" title="Map an operational process"/>
+      <unit id="MSS403034A" title="Organise products into groups"/>
+      <unit id="MSS403035A" title="Implement the visual workplace"/>
+      <unit id="MSS403039A" title="Facilitate and improve 5S in an office"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403042A" title="Facilitate mistake proofing in an office"/>
+      <unit id="MSS403043A" title="Facilitate breakthrough improvements in an office"/>
+      <unit id="MSS403044A" title="Facilitate continuous improvement through the use of standardised procedures and practices"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS403084A" title="Improve changeovers"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS40111" title="Certificate IV in Sustainable Operations">
+    <units>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="LMFFDT4003A" title="Assess and record the lifecycle of a product"/>
+      <unit id="LMFFT4007B" title="Sample, inspect and test products to specifications"/>
+      <unit id="LMTGN4002A" title="Participate in product engineering"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM30016A" title="Assist in the analysis of a supply chain"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMSUP301A" title="Apply HACCP to the workplace"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL934001A" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSS014001A" title="Improve sustainability through readily implementable change"/>
+      <unit id="MSS014002A" title="Evaluate sustainability impact of a work or process area"/>
+      <unit id="MSS014003A" title="Optimise sustainability of a process or plant area"/>
+      <unit id="MSS014004A" title="Develop team strategies for more sustainable use of resources"/>
+      <unit id="MSS014005A" title="Apply proactive maintenance strategies to sustainability"/>
+      <unit id="MSS014006A" title="Contribute to sustainability related audits"/>
+      <unit id="MSS015005A" title="Develop required sustainability reports"/>
+      <unit id="MSS024002A" title="Implement environmental management plans and procedures"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS027001A" title="Coordinate environmental management activities"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS40211" title="Certificate IV in Environmental Monitoring and Technology">
+    <units>
+      <unit id="BSBOHS406C" title="Use equipment to conduct workplace monitoring"/>
+      <unit id="CUVPHI05B" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL935004A" title="Maintain instruments and equipment"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+      <unit id="MSL974002A" title="Conduct geotechnical site investigations"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSL975011A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="MSL975017A" title="Perform laboratory-based ecological techniques"/>
+      <unit id="MSL975023A" title="Supervise geotechnical site investigations"/>
+      <unit id="MSS014006A" title="Contribute to sustainability related audits"/>
+      <unit id="MSS015001A" title="Measure and report carbon footprint"/>
+      <unit id="MSS015010A" title="Conduct a sustainable water use audit"/>
+      <unit id="MSS015011A" title="Conduct a sustainability energy audit"/>
+      <unit id="MSS015012A" title="Conduct an emissions audit"/>
+      <unit id="MSS015018A" title="Inform and educate organisation and community representatives on sustainability issues"/>
+      <unit id="MSS024001A" title="Work and communicate effectively as an environmental technician"/>
+      <unit id="MSS024002A" title="Implement environmental management plans and procedures"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS024004A" title="Process and present environmental data"/>
+      <unit id="MSS024005A" title="Collect spatial and discrete environmental data"/>
+      <unit id="MSS024006A" title="Perform sampling and testing of water"/>
+      <unit id="MSS024007A" title="Collect and evaluate meteorological data"/>
+      <unit id="MSS024008A" title="Recognise common geological landforms and samples"/>
+      <unit id="MSS024009A" title="Assist with assessing and monitoring stormwater systems"/>
+      <unit id="MSS024010A" title="Perform environmental biological techniques"/>
+      <unit id="MSS024011A" title="Navigate in urban, regional and remote areas"/>
+      <unit id="MSS024012A" title="Undertake simple environmental project activities"/>
+      <unit id="MSS025001A" title="Assist with assessing site environmental indicators"/>
+      <unit id="MSS025002A" title="Assess the environmental risk or impact of a project activity or process"/>
+      <unit id="MSS025003A" title="Report environmental data"/>
+      <unit id="MSS025004A" title="Provide environmental information to customers"/>
+      <unit id="MSS025005A" title="Produce site maps"/>
+      <unit id="MSS025006A" title="Collect and evaluate groundwater data"/>
+      <unit id="MSS025007A" title="Perform sampling and testing of soils"/>
+      <unit id="MSS025008A" title="Monitor and evaluate noise"/>
+      <unit id="MSS025009A" title="Perform sampling and testing of air"/>
+      <unit id="MSS025010A" title="Assist with odour source assessment"/>
+      <unit id="MSS025011A" title="Assist with odour field assessment"/>
+      <unit id="MSS025012A" title="Perform environmental microbiological tests"/>
+      <unit id="MSS025013A" title="Assist with assessing and monitoring wetlands"/>
+      <unit id="MSS025014A" title="Perform sampling and testing of contaminated sites"/>
+      <unit id="MSS025015A" title="Plan and conduct environmental project work"/>
+      <unit id="MSS025016A" title="Perform sampling and testing of stationary emissions "/>
+      <unit id="PRMWM01B" title="Plan waste audit"/>
+      <unit id="PRMWM02B" title="Carry out waste audit"/>
+      <unit id="PSPRAD703A" title="Perform basic radiation measurements"/>
+      <unit id="PSPRAD707A" title="Monitor radiation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS40312" title="Certificate IV in Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS014003A" title="Optimise sustainability of a process or plant area"/>
+      <unit id="MSS014004A" title="Develop team strategies for more sustainable use of resources"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403006A" title="Facilitate implementation of competitive systems and practices in an office"/>
+      <unit id="MSS403007A" title="Map an office value stream"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403024A" title="Work within a constrained process"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403033A" title="Map an operational process"/>
+      <unit id="MSS403034A" title="Organise products into groups"/>
+      <unit id="MSS403035A" title="Implement the visual workplace"/>
+      <unit id="MSS403039A" title="Facilitate and improve 5S in an office"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403042A" title="Facilitate mistake proofing in an office"/>
+      <unit id="MSS403043A" title="Facilitate breakthrough improvements in an office"/>
+      <unit id="MSS403044A" title="Facilitate continuous improvement through the use of standardised procedures and practices"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS403084A" title="Improve changeovers"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405005A" title="Manage competitive systems and practices responding to individual and unique customer orders"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405024A" title="Apply the theory of constraints"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405033A" title="Optimise office systems to deliver to customer demand"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405052A" title="Design an experiment"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS50112" title="Diploma of Sustainable Operations">
+    <units>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS014001A" title="Improve sustainability through readily implementable change"/>
+      <unit id="MSS015001A" title="Measure and report carbon footprint"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS015003A" title="Analyse product life cycle for sustainability"/>
+      <unit id="MSS015004A" title="Design sustainable product or process"/>
+      <unit id="MSS015005A" title="Develop required sustainability reports"/>
+      <unit id="MSS015006A" title="Report to Global Reporting Initiative guidelines"/>
+      <unit id="MSS015007A" title="Develop a business case for sustainability improvements"/>
+      <unit id="MSS015008A" title="Develop strategic sustainability plans"/>
+      <unit id="MSS015009A" title="Implement sustainability plans"/>
+      <unit id="MSS015010A" title="Conduct a sustainable water use audit"/>
+      <unit id="MSS015011A" title="Conduct a sustainability energy audit"/>
+      <unit id="MSS015012A" title="Conduct an emissions audit"/>
+      <unit id="MSS015013A" title="Conduct a sustainability related transport audit"/>
+      <unit id="MSS015014A" title="Develop response to sustainability related regulation"/>
+      <unit id="MSS015015A" title="Evaluate sustainability impact of a process"/>
+      <unit id="MSS015016A" title="Implement and monitor reengineering for sustainability"/>
+      <unit id="MSS015017A" title="Develop regulated sustainability reports"/>
+      <unit id="MSS015018A" title="Inform and educate organisation and community representatives on sustainability issues"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS025001A" title="Assist with assessing site environmental indicators"/>
+      <unit id="MSS025002A" title="Assess the environmental risk or impact of a project activity or process"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMASUP620B" title="Manage environmental management system"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS50211" title="Diploma of Environmental Monitoring and Technology">
+    <units>
+      <unit id="BSBOHS406C" title="Use equipment to conduct workplace monitoring"/>
+      <unit id="CUVPHI05B" title="Use a 35mm SLR camera or digital equivalent"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL904001A" title="Perform standard calibrations"/>
+      <unit id="MSL924002A" title="Use laboratory application software"/>
+      <unit id="MSL935004A" title="Maintain instruments and equipment"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+      <unit id="MSL974002A" title="Conduct geotechnical site investigations"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSL974006A" title="Perform biological procedures"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSL975011A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="MSL975017A" title="Perform laboratory-based ecological techniques"/>
+      <unit id="MSL975023A" title="Supervise geotechnical site investigations"/>
+      <unit id="MSS014006A" title="Contribute to sustainability related audits"/>
+      <unit id="MSS015001A" title="Measure and report carbon footprint"/>
+      <unit id="MSS015010A" title="Conduct a sustainable water use audit"/>
+      <unit id="MSS015011A" title="Conduct a sustainability energy audit"/>
+      <unit id="MSS015012A" title="Conduct an emissions audit"/>
+      <unit id="MSS015018A" title="Inform and educate organisation and community representatives on sustainability issues"/>
+      <unit id="MSS024001A" title="Work and communicate effectively as an environmental technician"/>
+      <unit id="MSS024002A" title="Implement environmental management plans and procedures"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS024004A" title="Process and present environmental data"/>
+      <unit id="MSS024005A" title="Collect spatial and discrete environmental data"/>
+      <unit id="MSS024006A" title="Perform sampling and testing of water"/>
+      <unit id="MSS024007A" title="Collect and evaluate meteorological data"/>
+      <unit id="MSS024008A" title="Recognise common geological landforms and samples"/>
+      <unit id="MSS024009A" title="Assist with assessing and monitoring stormwater systems"/>
+      <unit id="MSS024010A" title="Perform environmental biological techniques"/>
+      <unit id="MSS024011A" title="Navigate in urban, regional and remote areas"/>
+      <unit id="MSS024012A" title="Undertake simple environmental project activities"/>
+      <unit id="MSS025001A" title="Assist with assessing site environmental indicators"/>
+      <unit id="MSS025002A" title="Assess the environmental risk or impact of a project activity or process"/>
+      <unit id="MSS025003A" title="Report environmental data"/>
+      <unit id="MSS025004A" title="Provide environmental information to customers"/>
+      <unit id="MSS025005A" title="Produce site maps"/>
+      <unit id="MSS025006A" title="Collect and evaluate groundwater data"/>
+      <unit id="MSS025007A" title="Perform sampling and testing of soils"/>
+      <unit id="MSS025008A" title="Monitor and evaluate noise"/>
+      <unit id="MSS025009A" title="Perform sampling and testing of air"/>
+      <unit id="MSS025010A" title="Assist with odour source assessment"/>
+      <unit id="MSS025011A" title="Assist with odour field assessment"/>
+      <unit id="MSS025012A" title="Perform environmental microbiological tests"/>
+      <unit id="MSS025013A" title="Assist with assessing and monitoring wetlands"/>
+      <unit id="MSS025014A" title="Perform sampling and testing of contaminated sites"/>
+      <unit id="MSS025015A" title="Plan and conduct environmental project work"/>
+      <unit id="MSS025016A" title="Perform sampling and testing of stationary emissions "/>
+      <unit id="PRMWM01B" title="Plan waste audit"/>
+      <unit id="PRMWM02B" title="Carry out waste audit"/>
+      <unit id="PSPRAD703A" title="Perform basic radiation measurements"/>
+      <unit id="PSPRAD707A" title="Monitor radiation"/>
+      <unit id="PUAWER009B" title="Participate as a member of a workplace emergency initial response team"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS50312" title="Diploma of Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS014003A" title="Optimise sustainability of a process or plant area"/>
+      <unit id="MSS014004A" title="Develop team strategies for more sustainable use of resources"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS015004A" title="Design sustainable product or process"/>
+      <unit id="MSS015015A" title="Evaluate sustainability impact of a process"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403006A" title="Facilitate implementation of competitive systems and practices in an office"/>
+      <unit id="MSS403007A" title="Map an office value stream"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403033A" title="Map an operational process"/>
+      <unit id="MSS403034A" title="Organise products into groups"/>
+      <unit id="MSS403035A" title="Implement the visual workplace"/>
+      <unit id="MSS403039A" title="Facilitate and improve 5S in an office"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403042A" title="Facilitate mistake proofing in an office"/>
+      <unit id="MSS403043A" title="Facilitate breakthrough improvements in an office"/>
+      <unit id="MSS403044A" title="Facilitate continuous improvement through the use of standardised procedures and practices"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS403084A" title="Improve changeovers"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405005A" title="Manage competitive systems and practices responding to individual and unique customer orders"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405024A" title="Apply the theory of constraints"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405033A" title="Optimise office systems to deliver to customer demand"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405052A" title="Design an experiment"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS60312" title="Advanced Diploma of Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS015004A" title="Design sustainable product or process"/>
+      <unit id="MSS015015A" title="Evaluate sustainability impact of a process"/>
+      <unit id="MSS024003A" title="Apply an understanding of environmental principles to a site"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403006A" title="Facilitate implementation of competitive systems and practices in an office"/>
+      <unit id="MSS403007A" title="Map an office value stream"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403023A" title="Monitor a levelled pull system of operations"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403033A" title="Map an operational process"/>
+      <unit id="MSS403034A" title="Organise products into groups"/>
+      <unit id="MSS403035A" title="Implement the visual workplace"/>
+      <unit id="MSS403039A" title="Facilitate and improve 5S in an office"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403042A" title="Facilitate mistake proofing in an office"/>
+      <unit id="MSS403043A" title="Facilitate breakthrough improvements in an office"/>
+      <unit id="MSS403044A" title="Facilitate continuous improvement through the use of standardised procedures and practices"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS403084A" title="Improve changeovers"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404061A" title="Facilitate the use of SCADA systems in a team or work area"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS404083A" title="Support proactive maintenance"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405004A" title="Develop business plans in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS405005A" title="Manage competitive systems and practices responding to individual and unique customer orders"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405013A" title="Facilitate holistic culture improvement in an organisation"/>
+      <unit id="MSS405014A" title="Develop a communications strategy to support operations"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405021A" title="Develop a Just in Time system"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405024A" title="Apply the theory of constraints"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405033A" title="Optimise office systems to deliver to customer demand"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405052A" title="Design an experiment"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405062A" title="Develop a documentation control strategy for an organisation"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS70211" title="Vocational Graduate Certificate in Environmental Management">
+    <units>
+      <unit id="BSBOHS605B" title="Apply occupational hygiene principles to control OHS risk"/>
+      <unit id="LGAPLEM506A" title="Improve community knowledge and skills in environmental management practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSL944001A" title="Maintain laboratory_field workplace safety"/>
+      <unit id="MSL974007A" title="Undertake environmental field-based monitoring"/>
+      <unit id="MSL974009A" title="Undertake field-based, remote-sensing monitoring"/>
+      <unit id="MSL975011A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="MSS015005A" title="Develop required sustainability reports"/>
+      <unit id="MSS015018A" title="Inform and educate organisation and community representatives on sustainability issues"/>
+      <unit id="MSS024005A" title="Collect spatial and discrete environmental data"/>
+      <unit id="MSS024006A" title="Perform sampling and testing of water"/>
+      <unit id="MSS024007A" title="Collect and evaluate meteorological data"/>
+      <unit id="MSS024008A" title="Recognise common geological landforms and samples"/>
+      <unit id="MSS024009A" title="Assist with assessing and monitoring stormwater systems"/>
+      <unit id="MSS025005A" title="Produce site maps"/>
+      <unit id="MSS025006A" title="Collect and evaluate groundwater data"/>
+      <unit id="MSS025007A" title="Perform sampling and testing of soils"/>
+      <unit id="MSS025008A" title="Monitor and evaluate noise"/>
+      <unit id="MSS025009A" title="Perform sampling and testing of air"/>
+      <unit id="MSS025010A" title="Assist with odour source assessment"/>
+      <unit id="MSS025011A" title="Assist with odour field assessment"/>
+      <unit id="MSS025013A" title="Assist with assessing and monitoring wetlands"/>
+      <unit id="MSS025014A" title="Perform sampling and testing of contaminated sites"/>
+      <unit id="MSS025016A" title="Perform sampling and testing of stationary emissions "/>
+      <unit id="MSS027001A" title="Coordinate environmental management activities"/>
+      <unit id="MSS027002A" title="Apply environmental legislation, codes and standards"/>
+      <unit id="MSS027003A" title="Provide environmental advice to clients"/>
+      <unit id="MSS027004A" title="Contribute to environmental decision making"/>
+      <unit id="MSS027005A" title="Contribute to improving environmental performance"/>
+      <unit id="MSS027006A" title="Coordinate water quality management activities"/>
+      <unit id="MSS027007A" title="Coordinate air quality management activities"/>
+      <unit id="MSS027008A" title="Coordinate noise management activities"/>
+      <unit id="MSS027009A" title="Coordinate site remediation or rehabilitation activities"/>
+      <unit id="MSS027010A" title="Undertake complex environmental project work"/>
+      <unit id="MSS027011A" title="Select, commission and maintain environmental monitoring instruments"/>
+      <unit id="MSS027012A" title="Implement and maintain the site OHS management system"/>
+      <unit id="PSPRAD707A" title="Monitor radiation"/>
+      <unit id="PUAWER010B" title="Lead a workplace emergency initial response team"/>
+      <unit id="RIINHB408A" title="Supervise environmental drilling operations"/>
+      <unit id="RIIPRM501A" title="Implement, monitor, rectify and report on contracts"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS70312" title="Vocational Graduate Certificate in Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSS017001A" title="Analyse and determine organisational risk areas in sustainability "/>
+      <unit id="MSS017002A" title="Determine process loss through mass or energy balancing"/>
+      <unit id="MSS017003A" title="Identify and respond to external sustainability factors for an organisation"/>
+      <unit id="MSS017004A" title="Lead sustainable strategy deployment"/>
+      <unit id="MSS027002A" title="Apply environmental legislation, codes and standards"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405024A" title="Apply the theory of constraints"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405033A" title="Optimise office systems to deliver to customer demand"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405052A" title="Design an experiment"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+      <unit id="MSS407001A" title="Prepare for and implement change"/>
+      <unit id="MSS407002A" title="Review operations practice tools and techniques"/>
+      <unit id="MSS407003A" title="Analyse process changes"/>
+      <unit id="MSS407004A" title="Facilitate improvements in the internal value stream"/>
+      <unit id="MSS407005A" title="Undertake a qualitative review of a process change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MSS407007A" title="Respond to a major non-conformance"/>
+      <unit id="MSS407008A" title="Capture learning from daily activities in a organisation"/>
+      <unit id="MSS407009A" title="Facilitate improvements in the external value stream"/>
+      <unit id="MSS407010A" title="Improve visual management in the workplace"/>
+      <unit id="MSS407011A" title="Manage benchmarking studies"/>
+      <unit id="MSS407012A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="MSS407013A" title="Review continuous improvement processes"/>
+      <unit id="MSS408001A" title="Develop the competitive systems and practices approach"/>
+      <unit id="MSS408002A" title="Audit the use of competitive tools"/>
+      <unit id="MSS408003A" title="Develop models of future state operations practice"/>
+      <unit id="MSS408004A" title="Develop the value stream"/>
+      <unit id="MSS408005A" title="Develop the learning processes of the operations organisation"/>
+      <unit id="MSS408006A" title="Develop and refine systems for continuous improvement in operations"/>
+      <unit id="MSS408007A" title="Develop problem solving capability of an organisation"/>
+      <unit id="MSS408008A" title="Analyse data for relevance to organisational learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS70111" title="Vocational Graduate Certificate in Sustainable Operations">
+    <units>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSS017001A" title="Analyse and determine organisational risk areas in sustainability "/>
+      <unit id="MSS017002A" title="Determine process loss through mass or energy balancing"/>
+      <unit id="MSS017003A" title="Identify and respond to external sustainability factors for an organisation"/>
+      <unit id="MSS017004A" title="Lead sustainable strategy deployment"/>
+      <unit id="MSS017005A" title="Manage a major sustainability non-conformance"/>
+      <unit id="MSS017006A" title="Identify and improve sustainability interactions with the community"/>
+      <unit id="MSS017007A" title="Design for sustainability"/>
+      <unit id="MSS027002A" title="Apply environmental legislation, codes and standards"/>
+      <unit id="MSS407001A" title="Prepare for and implement change"/>
+      <unit id="MSS407002A" title="Review operations practice tools and techniques"/>
+      <unit id="MSS407003A" title="Analyse process changes"/>
+      <unit id="MSS407004A" title="Facilitate improvements in the internal value stream"/>
+      <unit id="MSS407005A" title="Undertake a qualitative review of a process change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MSS407008A" title="Capture learning from daily activities in a organisation"/>
+      <unit id="MSS407009A" title="Facilitate improvements in the external value stream"/>
+      <unit id="MSS407010A" title="Improve visual management in the workplace"/>
+      <unit id="MSS407011A" title="Manage benchmarking studies"/>
+      <unit id="MSS407012A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="MSS407013A" title="Review continuous improvement processes"/>
+      <unit id="MSS408001A" title="Develop the competitive systems and practices approach"/>
+      <unit id="MSS408002A" title="Audit the use of competitive tools"/>
+      <unit id="MSS408008A" title="Analyse data for relevance to organisational learning"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSS80312" title="Vocational Graduate Diploma of Competitive Systems and Practices">
+    <units>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSS017001A" title="Analyse and determine organisational risk areas in sustainability "/>
+      <unit id="MSS017002A" title="Determine process loss through mass or energy balancing"/>
+      <unit id="MSS017003A" title="Identify and respond to external sustainability factors for an organisation"/>
+      <unit id="MSS017004A" title="Lead sustainable strategy deployment"/>
+      <unit id="MSS027002A" title="Apply environmental legislation, codes and standards"/>
+      <unit id="MSS405002A" title="Analyse and map a value stream"/>
+      <unit id="MSS405003A" title="Manage a value stream"/>
+      <unit id="MSS405006A" title="Develop a Balanced Scorecard"/>
+      <unit id="MSS405007A" title="Introduce competitive systems and practices to a small or medium enterprise"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405023A" title="Develop a levelled pull system for operations and processes"/>
+      <unit id="MSS405024A" title="Apply the theory of constraints"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405033A" title="Optimise office systems to deliver to customer demand"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405052A" title="Design an experiment"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="MSS405083A" title="Adapt a proactive maintenance strategy for a seasonal or cyclical business"/>
+      <unit id="MSS407002A" title="Review operations practice tools and techniques"/>
+      <unit id="MSS407003A" title="Analyse process changes"/>
+      <unit id="MSS407004A" title="Facilitate improvements in the internal value stream"/>
+      <unit id="MSS407005A" title="Undertake a qualitative review of a process change"/>
+      <unit id="MSS407006A" title="Build relationships between teams in an operations environment"/>
+      <unit id="MSS407007A" title="Respond to a major non-conformance"/>
+      <unit id="MSS407008A" title="Capture learning from daily activities in a organisation"/>
+      <unit id="MSS407009A" title="Facilitate improvements in the external value stream"/>
+      <unit id="MSS407010A" title="Improve visual management in the workplace"/>
+      <unit id="MSS407011A" title="Manage benchmarking studies"/>
+      <unit id="MSS407012A" title="Lead a problem solving process to determine and solve root cause"/>
+      <unit id="MSS407013A" title="Review continuous improvement processes"/>
+      <unit id="MSS408001A" title="Develop the competitive systems and practices approach"/>
+      <unit id="MSS408002A" title="Audit the use of competitive tools"/>
+      <unit id="MSS408003A" title="Develop models of future state operations practice"/>
+      <unit id="MSS408004A" title="Develop the value stream"/>
+      <unit id="MSS408005A" title="Develop the learning processes of the operations organisation"/>
+      <unit id="MSS408006A" title="Develop and refine systems for continuous improvement in operations"/>
+      <unit id="MSS408007A" title="Develop problem solving capability of an organisation"/>
+      <unit id="MSS408008A" title="Analyse data for relevance to organisational learning"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<qualifications class="BCG98">
+  <qualification id="BCG10198" title="Certificate I in Construction">
+    <units/>
+  </qualification>
+  <qualification id="BCG20198" title="Certificate II in General Construction">
+    <units/>
+  </qualification>
+  <qualification id="BCG31398" title="Certificate III in General Construction">
+    <units/>
+  </qualification>
+  <qualification id="BCG30798" title="Certificate III in General Construction (Carpentry - Framework/Formwork/Finishing)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30198" title="Certificate III in General Construction (Wall and Floor Tiling)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30498" title="Certificate III in General Construction (Painting and Decorating)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30698" title="Certificate III in General Construction (Bricklaying/Blocklaying)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30398" title="Certificate III in General Construction (Solid Plastering)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30598" title="Certificate III in General Construction (Structural Cladding)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30998" title="Certificate III in General Construction (Materials Handling)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30298" title="Certificate III in General Construction (Wall and Ceiling Lining)">
+    <units/>
+  </qualification>
+  <qualification id="BCG31298" title="Certificate III in General Construction (Concreting/Steelfixing)">
+    <units/>
+  </qualification>
+  <qualification id="BCG31098" title="Certificate III in General Construction (Demolition)">
+    <units/>
+  </qualification>
+  <qualification id="BCG30898" title="Certificate III in General Construction (Roof Tiling)">
+    <units/>
+  </qualification>
+</qualifications>

@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<qualifications class="PML04">
+  <qualification id="PML20104" title="Certificate II in Sampling and Measurement">
+    <units>
+      <unit id="PMLCOM300B" title="Communicate with other people"/>
+      <unit id="PMLDATA200A" title="Record and present data"/>
+      <unit id="PMLMAIN300B" title="Maintain the laboratory fit for purpose"/>
+      <unit id="PMLOHS301B" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="PMLOHS302A" title="Participate in laboratory/field workplace safety"/>
+      <unit id="PMLORG200A" title="Work within a laboratory/field workplace (induction)"/>
+      <unit id="PMLORG301A" title="Plan and conduct laboratory/field work"/>
+      <unit id="PMLQUAL300B" title="Contribute to the achievement of quality objectives"/>
+      <unit id="PMLQUAL301B" title="Apply critical control point requirements"/>
+      <unit id="PMLSAMP302A" title="Receive and prepare samples for testing"/>
+      <unit id="PMLSCIG300B" title="Operate basic handblowing equipment"/>
+      <unit id="PMLSCIG301B" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="PMLTEST300B" title="Perform basic tests"/>
+      <unit id="PMLTEST303B" title="Prepare working solutions"/>
+      <unit id="PMLTEST304B" title="Prepare culture media"/>
+      <unit id="PMLTEST305B" title="Perform aseptic techniques"/>
+      <unit id="PMLTEST306B" title="Assist with fieldwork"/>
+      <unit id="PMLTEST307B" title="Prepare trial batches for evaluation"/>
+      <unit id="PMLTEST308A" title="Perform microscopic examination"/>
+      <unit id="PMLTEST310A" title="Perform histological procedures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="PML30104" title="Certificate III in Laboratory Skills">
+    <units>
+      <unit id="PMLCAL400A" title="Perform standard calibrations"/>
+      <unit id="PMLCOM300B" title="Communicate with other people"/>
+      <unit id="PMLDATA200A" title="Record and present data"/>
+      <unit id="PMLDATA400A" title="Process and interpret data"/>
+      <unit id="PMLMAIN300B" title="Maintain the laboratory fit for purpose"/>
+      <unit id="PMLMAIN400A" title="Maintain and control stocks"/>
+      <unit id="PMLOHS301B" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="PMLOHS302A" title="Participate in laboratory/field workplace safety"/>
+      <unit id="PMLOHS400A" title="Maintain laboratory/field workplace safety"/>
+      <unit id="PMLORG200A" title="Work within a laboratory/field workplace (induction)"/>
+      <unit id="PMLORG301A" title="Plan and conduct laboratory/field work"/>
+      <unit id="PMLORG400A" title="Prepare practical science classes and demonstrations"/>
+      <unit id="PMLQUAL300B" title="Contribute to the achievement of quality objectives"/>
+      <unit id="PMLQUAL301B" title="Apply critical control point requirements"/>
+      <unit id="PMLQUAL400B" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="PMLQUAL401B" title="Apply quality system and continuous improvement processes"/>
+      <unit id="PMLSAMP200A" title="Collect routine site samples"/>
+      <unit id="PMLSAMP201A" title="Handle and transport samples or equipment"/>
+      <unit id="PMLSAMP302A" title="Receive and prepare samples for testing"/>
+      <unit id="PMLSAMP400B" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PMLSAMP401A" title="Prepare mineral samples for analysis"/>
+      <unit id="PMLSCIG300B" title="Operate basic handblowing equipment"/>
+      <unit id="PMLSCIG301B" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="PMLTEST200A" title="Conduct routine site measurements"/>
+      <unit id="PMLTEST300B" title="Perform basic tests"/>
+      <unit id="PMLTEST303B" title="Prepare working solutions"/>
+      <unit id="PMLTEST304B" title="Prepare culture media"/>
+      <unit id="PMLTEST305B" title="Perform aseptic techniques"/>
+      <unit id="PMLTEST306B" title="Assist with fieldwork"/>
+      <unit id="PMLTEST307B" title="Prepare trial batches for evaluation"/>
+      <unit id="PMLTEST308A" title="Perform microscopic examination"/>
+      <unit id="PMLTEST310A" title="Perform histological procedures"/>
+      <unit id="PMLTEST402B" title="Prepare, standardise and use solutions"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="PMLTEST404A" title="Perform chemical tests and procedures"/>
+      <unit id="PMLTEST405A" title="Perform food tests"/>
+      <unit id="PMLTEST406A" title="Perform physical tests"/>
+      <unit id="PMLTEST407A" title="Perform biological procedures"/>
+      <unit id="PMLTEST408A" title="Undertake environmental field-based monitoring"/>
+      <unit id="PMLTEST409A" title="Capture and manage scientific images"/>
+      <unit id="PMLTEST410A" title="Undertake environmental field-based, remote-sensing monitoring"/>
+      <unit id="PMLTEST411A" title="Perform mechanical tests"/>
+      <unit id="PMLTEST412A" title="Prepare tissue and cell cultures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PML40104" title="Certificate IV in Laboratory Techniques">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="PMLCAL400A" title="Perform standard calibrations"/>
+      <unit id="PMLCAL500A" title="Perform non-standard calibrations"/>
+      <unit id="PMLCAL501A" title="Create or modify calibration procedures"/>
+      <unit id="PMLCAL502A" title="Create or modify automated calibration procedures"/>
+      <unit id="PMLCOM300B" title="Communicate with other people"/>
+      <unit id="PMLCOM500B" title="Provide information to customers"/>
+      <unit id="PMLDATA400A" title="Process and interpret data"/>
+      <unit id="PMLDATA500B" title="Analyse data and report results"/>
+      <unit id="PMLDATA501B" title="Use laboratory application software"/>
+      <unit id="PMLMAIN300B" title="Maintain the laboratory fit for purpose"/>
+      <unit id="PMLMAIN400A" title="Maintain and control stocks"/>
+      <unit id="PMLMAIN501B" title="Assist in the maintenance of reference materials"/>
+      <unit id="PMLMAIN502A" title="Maintain instruments and equipment"/>
+      <unit id="PMLOHS301B" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="PMLOHS400A" title="Maintain laboratory/field workplace safety"/>
+      <unit id="PMLORG301A" title="Plan and conduct laboratory/field work"/>
+      <unit id="PMLORG400A" title="Prepare practical science classes and demonstrations"/>
+      <unit id="PMLORG500B" title="Schedule laboratory work for a small team"/>
+      <unit id="PMLQUAL300B" title="Contribute to the achievement of quality objectives"/>
+      <unit id="PMLQUAL301B" title="Apply critical control point requirements"/>
+      <unit id="PMLQUAL400B" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="PMLQUAL401B" title="Apply quality system and continuous improvement processes"/>
+      <unit id="PMLQUAL500A" title="Monitor the quality of test results and data"/>
+      <unit id="PMLSAMP302A" title="Receive and prepare samples for testing"/>
+      <unit id="PMLSAMP400B" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PMLSAMP401A" title="Prepare mineral samples for analysis"/>
+      <unit id="PMLSCIG300B" title="Operate basic handblowing equipment"/>
+      <unit id="PMLSCIG301B" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="PMLSCIG501B" title="Design and manufacture glass apparatus and glass systems"/>
+      <unit id="PMLSCIG502B" title="Perform glass coating, grinding and finishing operations"/>
+      <unit id="PMLSCIG503B" title="Construct, modify and maintain high vacuum systems"/>
+      <unit id="PMLTEST300B" title="Perform basic tests"/>
+      <unit id="PMLTEST303B" title="Prepare working solutions"/>
+      <unit id="PMLTEST304B" title="Prepare culture media"/>
+      <unit id="PMLTEST305B" title="Perform aseptic techniques"/>
+      <unit id="PMLTEST306B" title="Assist with fieldwork"/>
+      <unit id="PMLTEST307B" title="Prepare trial batches for evaluation"/>
+      <unit id="PMLTEST308A" title="Perform microscopic examination"/>
+      <unit id="PMLTEST310A" title="Perform histological procedures"/>
+      <unit id="PMLTEST402B" title="Prepare, standardise and use solutions"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="PMLTEST404A" title="Perform chemical tests and procedures"/>
+      <unit id="PMLTEST405A" title="Perform food tests"/>
+      <unit id="PMLTEST406A" title="Perform physical tests"/>
+      <unit id="PMLTEST407A" title="Perform biological procedures"/>
+      <unit id="PMLTEST408A" title="Undertake environmental field-based monitoring"/>
+      <unit id="PMLTEST409A" title="Capture and manage scientific images"/>
+      <unit id="PMLTEST410A" title="Undertake environmental field-based, remote-sensing monitoring"/>
+      <unit id="PMLTEST411A" title="Perform mechanical tests"/>
+      <unit id="PMLTEST412A" title="Prepare tissue and cell cultures"/>
+      <unit id="PMLTEST501B" title="Perform microbiological tests"/>
+      <unit id="PMLTEST502B" title="Perform haematological tests"/>
+      <unit id="PMLTEST503B" title="Perform histological tests"/>
+      <unit id="PMLTEST504B" title="Perform chemical pathology tests"/>
+      <unit id="PMLTEST505B" title="Conduct sensory analysis"/>
+      <unit id="PMLTEST509B" title="Perform immunohaematological tests"/>
+      <unit id="PMLTEST511B" title="Supervise earthworks inspection, sampling and testing operations"/>
+      <unit id="PMLTEST512A" title="Apply electrophoretic techniques"/>
+      <unit id="PMLTEST513A" title="Apply routine chromatographic techniques"/>
+      <unit id="PMLTEST514A" title="Perform fire assay techniques"/>
+      <unit id="PMLTEST515A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="PMLTEST516A" title="Provide input to production trials"/>
+      <unit id="PMLTEST517A" title="Perform tissue and cell culture techniques"/>
+      <unit id="PMLTEST518A" title="Perform molecular biology tests/procedures"/>
+      <unit id="PMLTEST519A" title="Prepare animal and plant material for display"/>
+      <unit id="PMLTEST520A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="PMLTEST521A" title="Perform laboratory based ecological techniques"/>
+      <unit id="PMLTEST522A" title="Perform complex tests to measure chemical properties of materials"/>
+      <unit id="PMLTEST523A" title="Apply complex instrumental techniques"/>
+      <unit id="PMLTEST524A" title="Apply routine spectrometric techniques"/>
+      <unit id="PMLTEST525A" title="Apply routine electrometric techniques"/>
+      <unit id="PMLTEST526A" title="Perform food analyses"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PML50104" title="Diploma of Laboratory Technology">
+    <units>
+      <unit id="PMLCAL400A" title="Perform standard calibrations"/>
+      <unit id="PMLCAL500A" title="Perform non-standard calibrations"/>
+      <unit id="PMLCAL501A" title="Create or modify calibration procedures"/>
+      <unit id="PMLCAL502A" title="Create or modify automated calibration procedures"/>
+      <unit id="PMLCOM300B" title="Communicate with other people"/>
+      <unit id="PMLCOM500B" title="Provide information to customers"/>
+      <unit id="PMLCOM600B" title="Develop and maintain laboratory documentation"/>
+      <unit id="PMLDATA400A" title="Process and interpret data"/>
+      <unit id="PMLDATA500B" title="Analyse data and report results"/>
+      <unit id="PMLDATA501B" title="Use laboratory application software"/>
+      <unit id="PMLMAIN300B" title="Maintain the laboratory fit for purpose"/>
+      <unit id="PMLMAIN400A" title="Maintain and control stocks"/>
+      <unit id="PMLOHS301B" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="PMLOHS400A" title="Maintain laboratory/field workplace safety"/>
+      <unit id="PMLOHS601A" title="Implement and monitor OHS and environmental management systems"/>
+      <unit id="PMLORG301A" title="Plan and conduct laboratory/field work"/>
+      <unit id="PMLORG400A" title="Prepare practical science classes and demonstrations"/>
+      <unit id="PMLORG600B" title="Supervise laboratory operations in work/functional area"/>
+      <unit id="PMLORG601B" title="Maintain registration and statutory or legal compliance in work/functional area"/>
+      <unit id="PMLORG602B" title="Manage complex projects"/>
+      <unit id="PMLQUAL300B" title="Contribute to the achievement of quality objectives"/>
+      <unit id="PMLQUAL301B" title="Apply critical control point requirements"/>
+      <unit id="PMLQUAL400B" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="PMLQUAL401B" title="Apply quality system and continuous improvement processes"/>
+      <unit id="PMLQUAL600B" title="Maintain quality system and continuous improvement processes within work/functional area"/>
+      <unit id="PMLQUAL601B" title="Conduct an internal audit of the quality system"/>
+      <unit id="PMLSAMP302A" title="Receive and prepare samples for testing"/>
+      <unit id="PMLSAMP400B" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="PMLSAMP401A" title="Prepare mineral samples for analysis"/>
+      <unit id="PMLSCIG300B" title="Operate basic handblowing equipment"/>
+      <unit id="PMLSCIG301B" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="PMLSCIG501B" title="Design and manufacture glass apparatus and glass systems"/>
+      <unit id="PMLSCIG502B" title="Perform glass coating, grinding and finishing operations"/>
+      <unit id="PMLSCIG503B" title="Construct, modify and maintain high vacuum systems"/>
+      <unit id="PMLTEAM600B" title="Manage and develop teams"/>
+      <unit id="PMLTEST300B" title="Perform basic tests"/>
+      <unit id="PMLTEST303B" title="Prepare working solutions"/>
+      <unit id="PMLTEST304B" title="Prepare culture media"/>
+      <unit id="PMLTEST305B" title="Perform aseptic techniques"/>
+      <unit id="PMLTEST306B" title="Assist with fieldwork"/>
+      <unit id="PMLTEST307B" title="Prepare trial batches for evaluation"/>
+      <unit id="PMLTEST308A" title="Perform microscopic examination"/>
+      <unit id="PMLTEST310A" title="Perform histological procedures"/>
+      <unit id="PMLTEST402B" title="Prepare, standardise and use solutions"/>
+      <unit id="PMLTEST403B" title="Assist with geotechnical site investigations"/>
+      <unit id="PMLTEST404A" title="Perform chemical tests and procedures"/>
+      <unit id="PMLTEST405A" title="Perform food tests"/>
+      <unit id="PMLTEST406A" title="Perform physical tests"/>
+      <unit id="PMLTEST407A" title="Perform biological procedures"/>
+      <unit id="PMLTEST408A" title="Undertake environmental field-based monitoring"/>
+      <unit id="PMLTEST409A" title="Capture and manage scientific images"/>
+      <unit id="PMLTEST410A" title="Undertake environmental field-based, remote-sensing monitoring"/>
+      <unit id="PMLTEST411A" title="Perform mechanical tests"/>
+      <unit id="PMLTEST412A" title="Prepare tissue and cell cultures"/>
+      <unit id="PMLTEST501B" title="Perform microbiological tests"/>
+      <unit id="PMLTEST502B" title="Perform haematological tests"/>
+      <unit id="PMLTEST503B" title="Perform histological tests"/>
+      <unit id="PMLTEST504B" title="Perform chemical pathology tests"/>
+      <unit id="PMLTEST505B" title="Conduct sensory analysis"/>
+      <unit id="PMLTEST509B" title="Perform immunohaematological tests"/>
+      <unit id="PMLTEST511B" title="Supervise earthworks inspection, sampling and testing operations"/>
+      <unit id="PMLTEST512A" title="Apply electrophoretic techniques"/>
+      <unit id="PMLTEST513A" title="Apply routine chromatographic techniques"/>
+      <unit id="PMLTEST514A" title="Perform fire assay techniques"/>
+      <unit id="PMLTEST515A" title="Design and supervise complex environmental field surveys"/>
+      <unit id="PMLTEST516A" title="Provide input to production trials"/>
+      <unit id="PMLTEST517A" title="Perform tissue and cell culture techniques"/>
+      <unit id="PMLTEST518A" title="Perform molecular biology tests/procedures"/>
+      <unit id="PMLTEST519A" title="Prepare animal and plant material for display"/>
+      <unit id="PMLTEST520A" title="Perform complex tests to measure engineering properties of materials"/>
+      <unit id="PMLTEST521A" title="Perform laboratory based ecological techniques"/>
+      <unit id="PMLTEST522A" title="Perform complex tests to measure chemical properties of materials"/>
+      <unit id="PMLTEST523A" title="Apply complex instrumental techniques"/>
+      <unit id="PMLTEST524A" title="Apply routine spectrometric techniques"/>
+      <unit id="PMLTEST525A" title="Apply routine electrometric techniques"/>
+      <unit id="PMLTEST526A" title="Perform food analyses"/>
+      <unit id="PMLTEST601B" title="Classify building sites"/>
+      <unit id="PMLTEST602A" title="Prepare plans and quality assurance procedures for environmental field activities"/>
+      <unit id="PMLTEST603A" title="Evaluate and select appropriate test methods and/or procedures"/>
+      <unit id="PMLTEST700B" title="Contribute to the development of products and applications"/>
+      <unit id="PMLTEST701B" title="Troubleshoot equipment and production processes"/>
+      <unit id="PMLTEST702B" title="Contribute to validation of test methods"/>
+      <unit id="PMLTEST703B" title="Develop or adapt analyses and procedures"/>
+      <unit id="PMLTEST704B" title="Integrate data acquisition and interfacing systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PML60104" title="Advanced Diploma of Laboratory Operations">
+    <units>
+      <unit id="BSZ401A" title="Plan assessment"/>
+      <unit id="BSZ402A" title="Conduct assessment"/>
+      <unit id="BSZ403A" title="Review assessment"/>
+      <unit id="BSZ404A" title="Train small groups"/>
+      <unit id="PMLCOM600B" title="Develop and maintain laboratory documentation"/>
+      <unit id="PMLOHS601A" title="Implement and monitor OHS and environmental management systems"/>
+      <unit id="PMLORG600B" title="Supervise laboratory operations in work/functional area"/>
+      <unit id="PMLORG601B" title="Maintain registration and statutory or legal compliance in work/functional area"/>
+      <unit id="PMLORG602B" title="Manage complex projects"/>
+      <unit id="PMLQUAL600B" title="Maintain quality system and continuous improvement processes within work/functional area"/>
+      <unit id="PMLQUAL601B" title="Conduct an internal audit of the quality system"/>
+      <unit id="PMLTEAM600B" title="Manage and develop teams"/>
+      <unit id="PMLTEST601B" title="Classify building sites"/>
+      <unit id="PMLTEST602A" title="Prepare plans and quality assurance procedures for environmental field activities"/>
+      <unit id="PMLTEST603A" title="Evaluate and select appropriate test methods and/or procedures"/>
+      <unit id="PMLTEST700B" title="Contribute to the development of products and applications"/>
+      <unit id="PMLTEST701B" title="Troubleshoot equipment and production processes"/>
+      <unit id="PMLTEST702B" title="Contribute to validation of test methods"/>
+      <unit id="PMLTEST703B" title="Develop or adapt analyses and procedures"/>
+      <unit id="PMLTEST704B" title="Integrate data acquisition and interfacing systems"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

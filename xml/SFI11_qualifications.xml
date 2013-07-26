@@ -1,0 +1,1558 @@
+<?xml version="1.0"?>
+<qualifications class="SFI11">
+  <qualification id="SFI10211" title="Certificate I in Fishing Operations">
+    <units>
+      <unit id="MTMP2002C" title="Prepare animals for slaughter"/>
+      <unit id="SFIAQUA220A" title="Use waders"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH210C" title="Assemble and repair damaged netting"/>
+      <unit id="SFIFISH214B" title="Contribute to at-sea processing of seafood"/>
+      <unit id="SFIFISH215B" title="Apply deckhand skills aboard a fishing vessel"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFISHIP211C" title="Prepare for maintenance"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SFI10511" title="Certificate I in Seafood Processing">
+    <units>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOP1007A" title="Participate effectively in a workplace environment"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC201C" title="Head and peel crustaceans"/>
+      <unit id="SFIPROC202C" title="Process squid, cuttlefish and octopus"/>
+      <unit id="SFIPROC203C" title="Shuck molluscs"/>
+      <unit id="SITHACS101" title="Clean premises and equipment"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SFI10111" title="Certificate I in Aquaculture">
+    <units>
+      <unit id="FDFOP1009A" title="Follow work procedures to maintain quality"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MTMP2002C" title="Prepare animals for slaughter"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="SFIAQUA102B" title="Carry out basic aquaculture activities"/>
+      <unit id="SFIAQUA220A" title="Use waders"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SFI20511" title="Certificate II in Seafood Processing">
+    <units>
+      <unit id="AHCLSK319A" title="Slaughter livestock"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOP1005A" title="Operate basic equipment"/>
+      <unit id="FDFOP1006A" title="Monitor process operation"/>
+      <unit id="FDFOP1009A" title="Follow work procedures to maintain quality"/>
+      <unit id="FDFOP2011A" title="Conduct routine maintenance"/>
+      <unit id="FDFOP2013A" title="Apply sampling procedures"/>
+      <unit id="FDFOP2019A" title="Fill and close product in cans"/>
+      <unit id="FDFOP2023A" title="Operate a packaging process"/>
+      <unit id="FDFOP2028A" title="Operate a mixing or blending process"/>
+      <unit id="FDFOP2036A" title="Operate an extrusion process"/>
+      <unit id="FDFOP2040A" title="Operate a heat treatment process"/>
+      <unit id="FDFOP2044A" title="Operate a retort process"/>
+      <unit id="FDFOP2045A" title="Operate pumping equipment"/>
+      <unit id="FDFOP2046A" title="Operate a production process"/>
+      <unit id="FDFOP2056A" title="Operate a freezing process"/>
+      <unit id="FDFOP2061A" title="Use numerical applications in the workplace"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFSUG218A" title="Operate a boiler - basic"/>
+      <unit id="FDFSUG222A" title="Operate a waste water treatment system"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="MSACMS201A" title="Sustain process improvements"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="SFIAQUA216B" title="Harvest cultured or held stock"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIFISH311A" title="Operate vessel deck machinery and lifting appliance"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC201C" title="Head and peel crustaceans"/>
+      <unit id="SFIPROC202C" title="Process squid, cuttlefish and octopus"/>
+      <unit id="SFIPROC203C" title="Shuck molluscs"/>
+      <unit id="SFISTOR204A" title="Prepare, pack and dispatch stock for live transport"/>
+      <unit id="SFISTOR205A" title="Prepare, pack and dispatch non-live product"/>
+      <unit id="SITHACS101" title="Clean premises and equipment"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI20611" title="Certificate II in Seafood Industry (Sales and Distribution)">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SFIAQUA205C" title="Feed stock"/>
+      <unit id="SFIAQUA206C" title="Handle stock"/>
+      <unit id="SFIAQUA209C" title="Manipulate stock culture environment"/>
+      <unit id="SFIAQUA213C" title="Monitor stock and environmental conditions"/>
+      <unit id="SFIAQUA221A" title="Control predators and pests"/>
+      <unit id="SFIAQUA222A" title="Control diseases"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST201C" title="Prepare, cook and retail seafood products"/>
+      <unit id="SFIDIST202C" title="Retail fresh, frozen and live seafood"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC201C" title="Head and peel crustaceans"/>
+      <unit id="SFIPROC202C" title="Process squid, cuttlefish and octopus"/>
+      <unit id="SFIPROC203C" title="Shuck molluscs"/>
+      <unit id="SFISTOR202C" title="Receive and distribute product"/>
+      <unit id="SFISTOR203C" title="Assemble and load refrigerated product"/>
+      <unit id="SFISTOR204A" title="Prepare, pack and dispatch stock for live transport"/>
+      <unit id="SFISTOR205A" title="Prepare, pack and dispatch non-live product"/>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRRMER001A" title="Merchandise food products"/>
+      <unit id="SIRRMER003A" title="Prepare and display fast food items"/>
+      <unit id="SIRRRPK001A" title="Advise on food products and services"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCLM001A" title="Organise and maintain work areas"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SIRXSLS201" title="Sell products and services"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI20111" title="Certificate II in Aquaculture">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCINF204A" title="Fabricate and repair metal or plastic structures"/>
+      <unit id="AHCMOM202A" title="Operate tractors"/>
+      <unit id="AHCMOM204A" title="Undertake operational maintenance of machinery"/>
+      <unit id="AHCMOM205A" title="Operate vehicles"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCPMG201A" title="Treat weeds"/>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFOP2056A" title="Operate a freezing process"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MTMP2002C" title="Prepare animals for slaughter"/>
+      <unit id="RIICCM205A" title="Carry out manual excavation"/>
+      <unit id="RIICCM208A" title="Carry out basic levelling"/>
+      <unit id="RIICCM211A" title="Erect and dismantle temporary fencing and gates"/>
+      <unit id="RIICRC208A" title="Lay pipes"/>
+      <unit id="RIISAM201A" title="Handle resources and infrastructure materials and safely dispose of non toxic materials"/>
+      <unit id="RIISAM203B" title="Use hand and power tools"/>
+      <unit id="RIISAM204B" title="Operate small plant and equipment"/>
+      <unit id="SFIAQUA201C" title="Collect broodstock and seedstock"/>
+      <unit id="SFIAQUA205C" title="Feed stock"/>
+      <unit id="SFIAQUA206C" title="Handle stock"/>
+      <unit id="SFIAQUA209C" title="Manipulate stock culture environment"/>
+      <unit id="SFIAQUA211C" title="Undertake routine maintenance of water supply and disposal systems and structures"/>
+      <unit id="SFIAQUA212C" title="Work with crocodiles"/>
+      <unit id="SFIAQUA213C" title="Monitor stock and environmental conditions"/>
+      <unit id="SFIAQUA214B" title="Produce algal or live-feed cultures"/>
+      <unit id="SFIAQUA215B" title="Carry out on-farm post-harvest operations"/>
+      <unit id="SFIAQUA216B" title="Harvest cultured or held stock"/>
+      <unit id="SFIAQUA217B" title="Maintain stock culture, holding and other farm structures"/>
+      <unit id="SFIAQUA219B" title="Operate and maintain high technology water treatment components"/>
+      <unit id="SFIAQUA220A" title="Use waders"/>
+      <unit id="SFIAQUA221A" title="Control predators and pests"/>
+      <unit id="SFIAQUA222A" title="Control diseases"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST202C" title="Retail fresh, frozen and live seafood"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH201C" title="Provide support for diving operations"/>
+      <unit id="SFIFISH208C" title="Maintain, prepare, deploy and retrieve purse seines to land catch"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIFISH210C" title="Assemble and repair damaged netting"/>
+      <unit id="SFIFISH215B" title="Apply deckhand skills aboard a fishing vessel"/>
+      <unit id="SFIFISH307C" title="Perform breath-hold diving operations"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC201C" title="Head and peel crustaceans"/>
+      <unit id="SFIPROC203C" title="Shuck molluscs"/>
+      <unit id="SFISHIP201C" title="Comply with organisational and legislative requirements"/>
+      <unit id="SFISHIP205C" title="Maintain marine plant"/>
+      <unit id="SFISHIP206C" title="Operate a small vessel"/>
+      <unit id="SFISHIP207C" title="Operate and maintain outboard motors"/>
+      <unit id="SFISHIP208C" title="Operate low powered diesel engines"/>
+      <unit id="SFISTOR202C" title="Receive and distribute product"/>
+      <unit id="SFISTOR203C" title="Assemble and load refrigerated product"/>
+      <unit id="SFISTOR204A" title="Prepare, pack and dispatch stock for live transport"/>
+      <unit id="SFISTOR205A" title="Prepare, pack and dispatch non-live product"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SITHACS101" title="Clean premises and equipment"/>
+      <unit id="SROODR002A" title="Plan outdoor recreation activities"/>
+      <unit id="SROSCB001A" title="SCUBA dive in open water to a maximum depth of 18 metres"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI20411" title="Certificate II in Fisheries Compliance Support">
+    <units>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCFAU201A" title="Recognise fauna"/>
+      <unit id="AHCILM201A" title="Maintain cultural places"/>
+      <unit id="AHCILM202A" title="Observe and report plants and/or animals"/>
+      <unit id="AHCILM203A" title="Record information about country"/>
+      <unit id="AHCINF202A" title="Install, maintain and repair fencing"/>
+      <unit id="AHCINF203A" title="Maintain properties and structures"/>
+      <unit id="AHCNAR202A" title="Maintain wildlife habitat refuges"/>
+      <unit id="AHCPGD206A" title="Conduct visual inspection of park facilities"/>
+      <unit id="AHCPMG201A" title="Treat weeds"/>
+      <unit id="AHCPMG202A" title="Treat plant pests, diseases and disorders"/>
+      <unit id="AHCSAW201A" title="Conduct erosion and sediment control activities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="PUATEA001B" title="Work in a team"/>
+      <unit id="SFICOMP201B" title="Undertake a local operation"/>
+      <unit id="SFICOMP202B" title="Conduct field observations"/>
+      <unit id="SFICOMP203B" title="Promote sustainable use of local marine and freshwater environments"/>
+      <unit id="SFICOMP204B" title="Present evidence in a court setting"/>
+      <unit id="SFICOMP205B" title="Communicate effectively in cross-cultural environments"/>
+      <unit id="SFICOMP310C" title="Operate off-road vehicles"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFISHIP201C" title="Comply with organisational and legislative requirements"/>
+      <unit id="SFISHIP202C" title="Contribute to safe navigation"/>
+      <unit id="SFISHIP206C" title="Operate a small vessel"/>
+      <unit id="SFISHIP207C" title="Operate and maintain outboard motors"/>
+      <unit id="SFISHIP208C" title="Operate low powered diesel engines"/>
+      <unit id="SFISHIP211C" title="Prepare for maintenance"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI20211" title="Certificate II in Fishing Operations">
+    <units>
+      <unit id="BSBCUS201B" title="Deliver a service to customers"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MTMP2002C" title="Prepare animals for slaughter"/>
+      <unit id="SFIAQUA220A" title="Use waders"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS201B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SFIFISH201C" title="Provide support for diving operations"/>
+      <unit id="SFIFISH202C" title="Cook on board a vessel"/>
+      <unit id="SFIFISH203C" title="Maintain, prepare, deploy and retrieve trawls to land catch"/>
+      <unit id="SFIFISH204C" title="Maintain, prepare, deploy and retrieve pots and traps to land catch"/>
+      <unit id="SFIFISH205C" title="Maintain, prepare, deploy and retrieve drop lines and long lines to land catch"/>
+      <unit id="SFIFISH206C" title="Maintain, prepare, deploy and retrieve hand operated lines to land catch"/>
+      <unit id="SFIFISH207C" title="Maintain, prepare, deploy and retrieve beach seines, mesh nets or gill nets to land catch"/>
+      <unit id="SFIFISH208C" title="Maintain, prepare, deploy and retrieve purse seines to land catch"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIFISH210C" title="Assemble and repair damaged netting"/>
+      <unit id="SFIFISH214B" title="Contribute to at-sea processing of seafood"/>
+      <unit id="SFIFISH215B" title="Apply deckhand skills aboard a fishing vessel"/>
+      <unit id="SFIFISH307C" title="Perform breath-hold diving operations"/>
+      <unit id="SFIFISH311A" title="Operate vessel deck machinery and lifting appliance"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC304B" title="Boil and pack crustaceans"/>
+      <unit id="SFISHIP201C" title="Comply with organisational and legislative requirements"/>
+      <unit id="SFISHIP202C" title="Contribute to safe navigation"/>
+      <unit id="SFISHIP206C" title="Operate a small vessel"/>
+      <unit id="SFISHIP207C" title="Operate and maintain outboard motors"/>
+      <unit id="SFISHIP208C" title="Operate low powered diesel engines"/>
+      <unit id="SFISHIP211C" title="Prepare for maintenance"/>
+      <unit id="SFISTOR202C" title="Receive and distribute product"/>
+      <unit id="SFISTOR203C" title="Assemble and load refrigerated product"/>
+      <unit id="SFISTOR204A" title="Prepare, pack and dispatch stock for live transport"/>
+      <unit id="SFISTOR205A" title="Prepare, pack and dispatch non-live product"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SROODR002A" title="Plan outdoor recreation activities"/>
+      <unit id="SROSCB001A" title="SCUBA dive in open water to a maximum depth of 18 metres"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI30311" title="Certificate III in Seafood Industry (Environmental Management Support)">
+    <units>
+      <unit id="AHCCCF412A" title="Coordinate board/committee elections"/>
+      <unit id="AHCCCF413A" title="Service committees"/>
+      <unit id="AHCCCF414A" title="Coordinate fund-raising activities"/>
+      <unit id="AHCCCF415A" title="Coordinate social events to support group purposes"/>
+      <unit id="AHCCCF416A" title="Present proposed courses of action to meeting"/>
+      <unit id="AHCILM303A" title="Work in an Indigenous community or organisation"/>
+      <unit id="AHCLPW304A" title="Carry out inspection of designated area"/>
+      <unit id="AHCNAR301A" title="Maintain natural areas"/>
+      <unit id="AHCNAR302A" title="Collect and preserve biological samples"/>
+      <unit id="AHCNAR303A" title="Implement revegetation works"/>
+      <unit id="AHCPMG303A" title="Maintain biological cultures"/>
+      <unit id="AHCPMG407A" title="Monitor and evaluate the local pest management action plan"/>
+      <unit id="AHCSAW302A" title="Implement erosion and sediment control measures"/>
+      <unit id="AHCVPT303A" title="Survey pest animals"/>
+      <unit id="AHCWRK404A" title="Ensure compliance with pest legislation"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="FPICOT2233B" title="Navigate in forest areas"/>
+      <unit id="FPIFGM2201B" title="Collect seed"/>
+      <unit id="FPIFGM3202B" title="Extract seed"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SFIAQUA220A" title="Use waders"/>
+      <unit id="SFIAQUA308C" title="Maintain water quality and environmental monitoring"/>
+      <unit id="SFIAQUA315A" title="Oversee emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+      <unit id="SFIOBSV303B" title="Collect routine fishery management data"/>
+      <unit id="SFIOBSV304B" title="Analyse and report onboard observations"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SRXGRO002A" title="Deal with conflict"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI30411" title="Certificate III in Fisheries Compliance">
+    <units>
+      <unit id="PSPETHC301B" title="Uphold the values and principles of public service"/>
+      <unit id="PSPLEGN301B" title="Comply with legislation in the public sector"/>
+      <unit id="SFICOMP302C" title="Exercise compliance powers"/>
+      <unit id="SFICOMP308C" title="Monitor fish catches for legal compliance"/>
+      <unit id="SFICOMP310C" title="Operate off-road vehicles"/>
+      <unit id="SFICOMP315A" title="Support the judicial process"/>
+      <unit id="SFICOMP316A" title="Gather, collate and record information"/>
+      <unit id="SFICOMP317A" title="Facilitate effective communication in the workplace"/>
+      <unit id="SFICOMP318A" title="Perform administrative duties"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+      <unit id="SFIOBSV303B" title="Collect routine fishery management data"/>
+      <unit id="SFIOBSV304B" title="Analyse and report onboard observations"/>
+      <unit id="SFISHIP202C" title="Contribute to safe navigation"/>
+      <unit id="SFISHIP206C" title="Operate a small vessel"/>
+      <unit id="SFISHIP207C" title="Operate and maintain outboard motors"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI30111" title="Certificate III in Aquaculture">
+    <units>
+      <unit id="ACMCAS305A" title="Maintain aquascapes and aquatic animals"/>
+      <unit id="AHCAGB301A" title="Keep records for a primary production business"/>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCBIO202A" title="Follow site quarantine procedures"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCCHM303A" title="Prepare and apply chemicals"/>
+      <unit id="AHCCHM304A" title="Transport, handle and store chemicals"/>
+      <unit id="AHCINF303A" title="Plan and construct conventional fencing"/>
+      <unit id="AHCLSC302A" title="Construct landscape features using concrete"/>
+      <unit id="AHCLSC303A" title="Construct brick and/or block structures and features"/>
+    </units>
+  </qualification>
+  <qualification id="SFI30211" title="Certificate III in Fishing Operations">
+    <units>
+      <unit id="AHCLSK319A" title="Slaughter livestock"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SFIAQUA206C" title="Handle stock"/>
+      <unit id="SFIAQUA213C" title="Monitor stock and environmental conditions"/>
+      <unit id="SFIAQUA217B" title="Maintain stock culture, holding and other farm structures"/>
+      <unit id="SFIAQUA303C" title="Coordinate stock handling activities"/>
+      <unit id="SFIAQUA309C" title="Oversee harvest and post-harvest activities"/>
+      <unit id="SFIAQUA316A" title="Oversee the control of predators and pests"/>
+      <unit id="SFIAQUA317A" title="Oversee the control of diseases"/>
+      <unit id="SFIAQUA318A" title="Coordinate feed activities"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIVE301B" title="Work effectively as a diver in the seafood industry"/>
+      <unit id="SFIDIVE302B" title="Perform diving operations using surface-supplied breathing apparatus"/>
+      <unit id="SFIDIVE303B" title="Perform diving operations using self-contained underwater breathing apparatus"/>
+      <unit id="SFIDIVE304B" title="Undertake emergency procedures in diving operations using surface-supplied breathing apparatus"/>
+      <unit id="SFIDIVE305B" title="Undertake emergency procedures in diving operations using self-contained underwater breathing apparatus"/>
+      <unit id="SFIDIVE306B" title="Perform compression chamber diving operations"/>
+      <unit id="SFIDIVE307B" title="Perform underwater work in the aquaculture sector"/>
+      <unit id="SFIDIVE308B" title="Perform underwater work in the wild catch sector"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIFCHA301C" title="Develop information and advice on fishing charter trips"/>
+      <unit id="SFIFCHA302C" title="Operate an inshore day charter"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIFISH210C" title="Assemble and repair damaged netting"/>
+      <unit id="SFIFISH309B" title="Construct nets and customise design"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH311A" title="Operate vessel deck machinery and lifting appliance"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+      <unit id="SFIFISH402C" title="Manage and control fishing operations"/>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+      <unit id="SFIOBSV303B" title="Collect routine fishery management data"/>
+      <unit id="SFIOBSV304B" title="Analyse and report onboard observations"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SFIPROC302C" title="Handle and pack sashimi-grade fish"/>
+      <unit id="SFISHIP201C" title="Comply with organisational and legislative requirements"/>
+      <unit id="SFISHIP202C" title="Contribute to safe navigation"/>
+      <unit id="SFISHIP206C" title="Operate a small vessel"/>
+      <unit id="SFISHIP207C" title="Operate and maintain outboard motors"/>
+      <unit id="SFISHIP211C" title="Prepare for maintenance"/>
+      <unit id="SISOOPS304A" title="Plan for minimal environmental impact"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SROODR002A" title="Plan outdoor recreation activities"/>
+      <unit id="SROSCB001A" title="SCUBA dive in open water to a maximum depth of 18 metres"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TDMMB4507A" title="MONITOR CONDITION AND SEAWORTHINESS OF A SMALL VESSEL UP TO 24 METRES"/>
+      <unit id="TDMMC707C" title="APPLY SEAMANSHIP SKILLS AND TECHNIQUES WHEN OPERATING A SMALL VESSEL WITHIN THE LIMITS OF RESPONSIBILITY OF A COXSWAIN"/>
+      <unit id="TDMMC907C" title="MANOEUVRE A DOMESTIC VESSEL WITHIN THE LIMITS OF RESPONSIBILITY OF A COXSWAIN"/>
+      <unit id="TDMME1107A" title="CONTRIBUTE TO EFFECTIVE COMMUNICATIONS AND TEAMWORK ON A COASTAL VESSEL"/>
+      <unit id="TDMME507B" title="TRANSMIT AND RECEIVE INFORMATION BY MARINE RADIO OR TELEPHONE"/>
+      <unit id="TDMMF1007B" title="PROVIDE ELEMENTARY FIRST AID"/>
+      <unit id="TDMMF1107B" title="SURVIVE AT SEA IN THE EVENT OF VESSEL ABANDONMENT"/>
+      <unit id="TDMMF3207C" title="APPLY DOMESTIC REGULATIONS AND INDUSTRY PRACTICES WHEN OPERATING A SMALL COASTAL VESSEL"/>
+      <unit id="TDMMF5407A" title="OBSERVE SAFETY AND EMERGENCY PROCEDURES ON A COASTAL VESSEL"/>
+      <unit id="TDMMF5507A" title="FIGHT AND EXTINGUISH FIRES ON BOARD A COASTAL VESSEL"/>
+      <unit id="TDMMH1207B" title="PLAN AND NAVIGATE A SHORT VOYAGE WITHIN INSHORE LIMITS"/>
+      <unit id="TDMMR3007B" title="OPERATE AND CARRY OUT BASIC SERVICE CHECKS ON SMALL VESSEL MARINE PROPULSION SYSTEMS"/>
+      <unit id="TDMMR3107B" title="OPERATE AND CARRY OUT BASIC SERVICING ON AUXILIARY SYSTEMS"/>
+      <unit id="TDMMR3207B" title="OPERATE AND CARRY OUT BASIC ROUTINE SERVICING OF MARINE EXTRA LOW AND LOW VOLTAGE ELECTRICAL SYSTEMS"/>
+      <unit id="TDMMR5407B" title="CARRY OUT REFUELLING AND FUEL TRANSFER OPERATIONS"/>
+      <unit id="TDMMU507B" title="ENSURE COMPLIANCE WITH ENVIRONMENTAL CONSIDERATIONS IN A SMALL DOMESTIC VESSEL"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI30511" title="Certificate III in Seafood Processing">
+    <units>
+      <unit id="AHCLSK319A" title="Slaughter livestock"/>
+      <unit id="AHCWRK305A" title="Coordinate work site activities"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+    </units>
+  </qualification>
+  <qualification id="SFI30611" title="Certificate III in Seafood Industry (Sales and Distribution)">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU307A" title="Develop keyboarding speed and accuracy"/>
+      <unit id="BSBITU309A" title="Produce desktop published documents"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBRKG402B" title="Provide information from and about records"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FDFTEC3001A" title="Participate in a HACCP team"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SFIAQUA205C" title="Feed stock"/>
+      <unit id="SFIAQUA206C" title="Handle stock"/>
+      <unit id="SFIAQUA209C" title="Manipulate stock culture environment"/>
+      <unit id="SFIAQUA213C" title="Monitor stock and environmental conditions"/>
+      <unit id="SFIAQUA221A" title="Control predators and pests"/>
+      <unit id="SFIAQUA222A" title="Control diseases"/>
+      <unit id="SFIAQUA315A" title="Oversee emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST201C" title="Prepare, cook and retail seafood products"/>
+      <unit id="SFIDIST202C" title="Retail fresh, frozen and live seafood"/>
+      <unit id="SFIDIST301C" title="Wholesale product"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIFISH209C" title="Maintain the temperature of seafood"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC102C" title="Clean work area"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC201C" title="Head and peel crustaceans"/>
+      <unit id="SFIPROC202C" title="Process squid, cuttlefish and octopus"/>
+      <unit id="SFIPROC203C" title="Shuck molluscs"/>
+      <unit id="SFISTOR202C" title="Receive and distribute product"/>
+      <unit id="SFISTOR203C" title="Assemble and load refrigerated product"/>
+      <unit id="SFISTOR204A" title="Prepare, pack and dispatch stock for live transport"/>
+      <unit id="SFISTOR205A" title="Prepare, pack and dispatch non-live product"/>
+      <unit id="SFISTOR301C" title="Operate refrigerated storerooms"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCCS202" title="Interact with customers"/>
+      <unit id="SIRXCCS304" title="Coordinate interaction with customers"/>
+      <unit id="SIRXFIN201" title="Balance and secure point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXWHS302" title="Maintain store safety"/>
+      <unit id="SITHCCC003B" title="Receive and store kitchen supplies"/>
+      <unit id="SITXINV001A" title="Receive and store stock"/>
+      <unit id="SITXINV002A" title="Control and order stock"/>
+      <unit id="SITXMPR002A" title="Create a promotional display or stand"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40111" title="Certificate IV in Aquaculture">
+    <units>
+      <unit id="ACMCAS403A" title="Design, construct and maintain aquascapes"/>
+      <unit id="AHCBUS402A" title="Cost a project"/>
+      <unit id="AHCBUS404A" title="Operate within a budget framework"/>
+      <unit id="AHCCHM401A" title="Minimise risks in the use of chemicals"/>
+      <unit id="AHCCHM402A" title="Plan and implement a chemical use program"/>
+      <unit id="AHCINF301A" title="Implement property improvement, construction and repair"/>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMPSR406B" title="Manage and maintain a food safety plan"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR414A" title="Establish sampling program"/>
+      <unit id="SFIAQUA308C" title="Maintain water quality and environmental monitoring"/>
+      <unit id="SFIAQUA309C" title="Oversee harvest and post-harvest activities"/>
+      <unit id="SFIAQUA314A" title="Support hatchery operations"/>
+      <unit id="SFIAQUA316A" title="Oversee the control of predators and pests"/>
+      <unit id="SFIAQUA317A" title="Oversee the control of diseases"/>
+      <unit id="SFIAQUA318A" title="Coordinate feed activities"/>
+      <unit id="SFIAQUA401C" title="Develop and implement a stock health program"/>
+      <unit id="SFIAQUA402C" title="Coordinate construction or installation of stock culture, holding and farm structures"/>
+      <unit id="SFIAQUA404C" title="Operate hatchery"/>
+      <unit id="SFIAQUA406C" title="Seed and harvest round pearls"/>
+      <unit id="SFIAQUA407C" title="Coordinate sustainable aquacultural practices"/>
+      <unit id="SFIAQUA408C" title="Supervise harvest and post-harvest activities"/>
+      <unit id="SFIAQUA409B" title="Implement, monitor and review stock production"/>
+      <unit id="SFIAQUA410B" title="Implement a program to operate, maintain or upgrade a system comprising high technology water treatment components"/>
+      <unit id="SFIAQUA411A" title="Manage water quality and environmental monitoring in enclosed systems"/>
+      <unit id="SFIAQUA412A" title="Develop emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40411" title="Certificate IV in Fisheries Compliance">
+    <units>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="PSPETHC401A" title="Uphold and support the values and principles of public service"/>
+      <unit id="PSPFRAU401B" title="Monitor data for indicators of fraud"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+      <unit id="PSPREG404C" title="Investigate non-compliance"/>
+      <unit id="PSPREG407B" title="Produce formal record of interview"/>
+      <unit id="PSPREG409B" title="Prepare a brief of evidence"/>
+      <unit id="PSPREG410B" title="Give evidence"/>
+      <unit id="PSPREG411A" title="Gather information through interviews"/>
+      <unit id="PSPREG412A" title="Gather and manage evidence"/>
+      <unit id="PSPREG415A" title="Receive and validate data"/>
+      <unit id="PSPREG418A" title="Advise on progress of investigations"/>
+      <unit id="SFICOMP308C" title="Monitor fish catches for legal compliance"/>
+      <unit id="SFICOMP310C" title="Operate off-road vehicles"/>
+      <unit id="SFICOMP317A" title="Facilitate effective communication in the workplace"/>
+      <unit id="SFICOMP401C" title="Administer the district office"/>
+      <unit id="SFICOMP402C" title="Plan the surveillance operation"/>
+      <unit id="SFICOMP403C" title="Operate and maintain surveillance equipment"/>
+      <unit id="SFICOMP404C" title="Operate an observation post"/>
+      <unit id="SFICOMP405C" title="Perform post-surveillance duties"/>
+      <unit id="SFICOMP406C" title="Perform mobile surveillance"/>
+      <unit id="SFICOMP407C" title="Undertake prosecution procedures for magistrate's court"/>
+      <unit id="SFICOMP409A" title="Plan and undertake patrol operations"/>
+      <unit id="SFICOMP410A" title="Promote fisheries management awareness programs"/>
+      <unit id="SFICOMP411A" title="Implement aquaculture compliance"/>
+      <unit id="SFICOMP412A" title="Operate in remote areas"/>
+      <unit id="SFICOMP413A" title="Maintain operational safety"/>
+      <unit id="SFICOMP414A" title="Manage own professional performance"/>
+      <unit id="SFICOMP415A" title="Board vessel at sea"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFIOBSV301B" title="Monitor and record fishing operations"/>
+      <unit id="SFIOBSV302B" title="Collect reliable scientific data and samples"/>
+      <unit id="SFIOBSV304B" title="Analyse and report onboard observations"/>
+      <unit id="TAEASS301B" title="Contribute to assessment"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40211" title="Certificate IV in Fishing Operations">
+    <units>
+      <unit id="AHCMOM402A" title="Supervise maintenance of property machinery and equipment"/>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPSR406B" title="Manage and maintain a food safety plan"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH311A" title="Operate vessel deck machinery and lifting appliance"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+      <unit id="SFIFISH402C" title="Manage and control fishing operations"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SFIOHS501C" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR404" title="Coordinate marketing activities"/>
+      <unit id="TLIA4025A" title="Regulate temperature controlled stock"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC3006A" title="Licence to operate a non-slewing mobile crane (greater than 3 tonnes capacity)"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40311" title="Certificate IV in Seafood Industry (Environmental Management)">
+    <units>
+      <unit id="AHCCCF403A" title="Obtain and manage sponsorship"/>
+      <unit id="AHCCCF404A" title="Contribute to association governance"/>
+      <unit id="AHCCCF405A" title="Develop community networks"/>
+      <unit id="AHCCCF407A" title="Obtain resources from community and groups"/>
+      <unit id="AHCCCF408A" title="Promote community programs"/>
+      <unit id="AHCCCF409A" title="Participate in assessments of project submissions"/>
+      <unit id="AHCCCF410A" title="Support individuals in resource management change processes"/>
+      <unit id="AHCCCF411A" title="Develop approaches to include cultural and human diversity"/>
+      <unit id="AHCCHM403A" title="Prepare safe operating procedures for calibration of equipment"/>
+      <unit id="AHCILM401A" title="Protect places of cultural significance"/>
+      <unit id="AHCILM403A" title="Contribute to the proposal for a negotiated outcome for a given area of country"/>
+      <unit id="AHCILM404A" title="Record and document community history"/>
+      <unit id="AHCILM405A" title="Develop work practices to accommodate cultural identity"/>
+      <unit id="AHCLPW403A" title="Inspect and monitor cultural places"/>
+      <unit id="AHCLPW404A" title="Produce maps for land management purposes"/>
+      <unit id="AHCLPW405A" title="Monitor biodiversity"/>
+      <unit id="AHCNAR401A" title="Supervise natural area restoration works"/>
+      <unit id="AHCNAR402A" title="Plan the implementation of revegetation works"/>
+      <unit id="AHCPCM502A" title="Collect and classify plants"/>
+      <unit id="AHCPMG401A" title="Define the pest problem in a local area"/>
+      <unit id="AHCPMG402A" title="Develop a pest management action plan within a local area"/>
+      <unit id="AHCPMG403A" title="Develop monitoring procedures for the local pest management strategy"/>
+      <unit id="AHCPMG404A" title="Coordinate the local pest management strategy"/>
+      <unit id="AHCPMG405A" title="Implement pest management action plans"/>
+      <unit id="AHCPMG406A" title="Investigate a reported pest treatment failure"/>
+      <unit id="AHCSAW401A" title="Set out conservation earthworks"/>
+      <unit id="AHCSAW402A" title="Supervise on-site implementation of conservation earthworks"/>
+      <unit id="AHCWRK402A" title="Provide information on issues and policies"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBAUD402B" title="Participate in a quality audit"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="MTMCOR402C" title="Facilitate Quality Assurance process"/>
+      <unit id="MTMPSR406B" title="Manage and maintain a food safety plan"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR414A" title="Establish sampling program"/>
+      <unit id="SFIAQUA412A" title="Develop emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS302B" title="Act to prevent interaction with protected species"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIEMS501B" title="Develop workplace policy for sustainability"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+      <unit id="SFIOHS501C" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40511" title="Certificate IV in Seafood Processing">
+    <units>
+      <unit id="AHCLSK319A" title="Slaughter livestock"/>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBPUR401B" title="Plan purchasing"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFSUG218A" title="Operate a boiler - basic"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSACMC411A" title="Lead a competitive manufacturing team"/>
+      <unit id="MSACMS401A" title="Ensure process improvements are sustained"/>
+      <unit id="MSACMT260A" title="Use planning software systems in manufacturing"/>
+      <unit id="MSACMT423A" title="Monitor a manufacturing levelled pull system"/>
+      <unit id="MSACMT440A" title="Lead 5S in a manufacturing environment"/>
+      <unit id="MSACMT441A" title="Facilitate continuous improvement in manufacturing"/>
+      <unit id="MSACMT460A" title="Facilitate the use of planning software systems in manufacturing"/>
+      <unit id="MSACMT461A" title="Facilitate SCADA systems in a manufacturing team or work area"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403001A" title="Implement competitive systems and practices"/>
+      <unit id="MSS403005A" title="Facilitate use of a Balanced Scorecard for performance improvement"/>
+      <unit id="MSS403010A" title="Facilitate change in an organisation implementing competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404053A" title="Use six sigma techniques"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="MTMPSR412A" title="Participate in product recall"/>
+      <unit id="MTMPSR414A" title="Establish sampling program"/>
+      <unit id="MTMS313A" title="Prepare product formulations"/>
+      <unit id="SFIAQUA216B" title="Harvest cultured or held stock"/>
+      <unit id="SFIAQUA412A" title="Develop emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST401C" title="Buy seafood product"/>
+      <unit id="SFIDIST501C" title="Export product"/>
+      <unit id="SFIDIST502C" title="Import product"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFIFISH311A" title="Operate vessel deck machinery and lifting appliance"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SFIPROC401C" title="Evaluate a batch of seafood"/>
+      <unit id="SFIPROC402C" title="Maintain hygiene standards while servicing a food handling area"/>
+      <unit id="SFIPROC403C" title="Follow basic food safety practices"/>
+      <unit id="SFIPROC404C" title="Apply and monitor food safety requirements"/>
+      <unit id="SFIPROC405C" title="Oversee the implementation of a food safety program in the workplace"/>
+      <unit id="SFIPROC406C" title="Develop food safety programs"/>
+      <unit id="SFIPROC407C" title="Conduct internal food safety audits"/>
+      <unit id="SFIPROC607C" title="Prepare work instructions for new seafood processing tasks"/>
+      <unit id="SFIPROC608C" title="Provide practical and/or commercial advice to seafood users"/>
+      <unit id="SFISTOR301C" title="Operate refrigerated storerooms"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TLIA4025A" title="Regulate temperature controlled stock"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI40611" title="Certificate IV in Seafood Industry Sales and Distribution">
+    <units>
+      <unit id="AHCWRK403A" title="Supervise work routines and staff performance"/>
+      <unit id="BSBADM407B" title="Administer projects"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM501A" title="Manage human resources services"/>
+      <unit id="BSBINM201A" title="Process and maintain workplace information"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU404A" title="Produce complex desktop published documents"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FDFFS2001A" title="Implement the food safety program and procedures"/>
+      <unit id="FDFFS3001A" title="Monitor the implementation of quality and food safety programs"/>
+      <unit id="FDFOP2010A" title="Work with temperature controlled stock"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MTMCOR404A" title="Facilitate hygiene and sanitation performance"/>
+      <unit id="SFIAQUA412A" title="Develop emergency procedures for on-land operations"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST201C" title="Prepare, cook and retail seafood products"/>
+      <unit id="SFIDIST202C" title="Retail fresh, frozen and live seafood"/>
+      <unit id="SFIDIST301C" title="Wholesale product"/>
+      <unit id="SFIDIST401C" title="Buy seafood product"/>
+      <unit id="SFIDIST501C" title="Export product"/>
+      <unit id="SFIDIST502C" title="Import product"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS401B" title="Conduct an internal audit of an environmental management system"/>
+      <unit id="SFILEAD401B" title="Develop and promote knowledge of the industry sector"/>
+      <unit id="SFILEAD402B" title="Negotiate effectively for the sector"/>
+      <unit id="SFILEAD403B" title="Demonstrate commitment and professionalism"/>
+      <unit id="SFILEAD407A" title="Provide expert information to a resource management group"/>
+      <unit id="SFILEAD408A" title="Analyse information to develop strategic seafood management options"/>
+      <unit id="SFILEAD409A" title="Negotiate collective outcomes within the resource management group process"/>
+      <unit id="SFIOHS301C" title="Implement OHS policies and guidelines"/>
+      <unit id="SFIPROC101C" title="Clean fish"/>
+      <unit id="SFIPROC105B" title="Fillet fish and prepare portions"/>
+      <unit id="SFIPROC106B" title="Work with knives"/>
+      <unit id="SFIPROC404C" title="Apply and monitor food safety requirements"/>
+      <unit id="SFIPROC405C" title="Oversee the implementation of a food safety program in the workplace"/>
+      <unit id="SFISTOR301C" title="Operate refrigerated storerooms"/>
+      <unit id="SIRXCLM402" title="Manage store facilities"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXRSK404" title="Control store security"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TLID1002A" title="Shift a load using manually-operated equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI50211" title="Diploma of Fishing Operations">
+    <units>
+      <unit id="AHCAGB602A" title="Manage estate planning"/>
+      <unit id="AHCCCF502A" title="Facilitate development of group goals and projects"/>
+      <unit id="AHCCCF503A" title="Promote group formation and development"/>
+      <unit id="AHCCCF504A" title="Support group and community changes in resource management"/>
+      <unit id="AHCCCF505A" title="Contribute to regional planning process"/>
+      <unit id="AHCCCF506A" title="Manage the incorporation of a group"/>
+      <unit id="AHCCCF601A" title="Map regional issues and stakeholders"/>
+      <unit id="AHCILM506A" title="Operate within community cultures and goals"/>
+      <unit id="AHCILM508A" title="Propose a negotiated outcome for a given area of country"/>
+      <unit id="AHCLPW601A" title="Coordinate the preparation of a regional resource management plan"/>
+      <unit id="AHCMOM502A" title="Implement a machinery management system"/>
+      <unit id="AHCWRK502A" title="Collect and manage data"/>
+      <unit id="AHCWRK503A" title="Prepare reports"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR501C" title="Develop, implement and review purchasing strategies"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="CHCCD404E" title="Develop and implement community programs"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="MTMPS5603B" title="Develop, manage and maintain quality systems"/>
+      <unit id="MTMPSR5601B" title="Design and manage the food safety system"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIEMS501B" title="Develop workplace policy for sustainability"/>
+      <unit id="SFIFCHA302C" title="Operate an inshore day charter"/>
+      <unit id="SFIFCHA501C" title="Plan and manage extended fishing charter trips"/>
+      <unit id="SFIFISH310A" title="Adjust and position fishing gear"/>
+      <unit id="SFIFISH401C" title="Locate fishing grounds and stocks of fish"/>
+      <unit id="SFIFISH402C" title="Manage and control fishing operations"/>
+      <unit id="SFILEAD501C" title="Develop and promote industry knowledge"/>
+      <unit id="SFILEAD502C" title="Shape strategic thinking"/>
+      <unit id="SFILEAD503C" title="Cultivate productive working relationships"/>
+      <unit id="SFILEAD504C" title="Plan and achieve change and results"/>
+      <unit id="SFILEAD505C" title="Communicate with influence"/>
+      <unit id="SFILEAD506C" title="Demonstrate personal drive and integrity"/>
+      <unit id="SFILEAD507C" title="Provide corporate leadership"/>
+      <unit id="SFIOHS501C" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="SFIPROC611C" title="Participate in a media interview or presentation"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI50511" title="Diploma of Seafood Processing">
+    <units>
+      <unit id="AHCAGB602A" title="Manage estate planning"/>
+      <unit id="AHCBUS502A" title="Market products and services"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR501C" title="Develop, implement and review purchasing strategies"/>
+      <unit id="BSBPUR502B" title="Manage supplier relationships"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MSACMC611A" title="Manage people relationships"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405001A" title="Develop competitive systems and practices for an organisation"/>
+      <unit id="MSS405020A" title="Develop quick changeover procedures"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MTMPS5603B" title="Develop, manage and maintain quality systems"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST501C" title="Export product"/>
+      <unit id="SFIDIST502C" title="Import product"/>
+      <unit id="SFIEMS501B" title="Develop workplace policy for sustainability"/>
+      <unit id="SFILEAD501C" title="Develop and promote industry knowledge"/>
+      <unit id="SFILEAD502C" title="Shape strategic thinking"/>
+      <unit id="SFILEAD503C" title="Cultivate productive working relationships"/>
+      <unit id="SFILEAD504C" title="Plan and achieve change and results"/>
+      <unit id="SFILEAD505C" title="Communicate with influence"/>
+      <unit id="SFILEAD506C" title="Demonstrate personal drive and integrity"/>
+      <unit id="SFILEAD507C" title="Provide corporate leadership"/>
+      <unit id="SFIOHS501C" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="SFIPROC401C" title="Evaluate a batch of seafood"/>
+      <unit id="SFIPROC406C" title="Develop food safety programs"/>
+      <unit id="SFIPROC407C" title="Conduct internal food safety audits"/>
+      <unit id="SFIPROC501C" title="Manage seafood processing production units"/>
+      <unit id="SFIPROC502C" title="Produce technical reports on seafood processing systems"/>
+      <unit id="SFIPROC503C" title="Analyse seafood packaging requirements"/>
+      <unit id="SFIPROC504C" title="Design and manage a product recall"/>
+      <unit id="SFIPROC601C" title="Establish costs and/or conditions for sale of seafood product"/>
+      <unit id="SFIPROC602C" title="Plan and manage seafood and related product concept development"/>
+      <unit id="SFIPROC603C" title="Develop and manage seafood and related product production trials"/>
+      <unit id="SFIPROC604C" title="Plan and develop formulations and/or specifications for new seafood product"/>
+      <unit id="SFIPROC606C" title="Develop and implement energy control systems in seafood processing environments"/>
+      <unit id="SFIPROC609C" title="Monitor the seafood business environment to determine threats and opportunities"/>
+      <unit id="SFIPROC610C" title="Establish and manage effective external relationships"/>
+      <unit id="SFIPROC611C" title="Participate in a media interview or presentation"/>
+      <unit id="SITXMPR404" title="Coordinate marketing activities"/>
+      <unit id="SITXMPR502" title="Develop and implement marketing strategies"/>
+      <unit id="TAADEL502B" title="Facilitate action learning projects"/>
+      <unit id="TLIA4025A" title="Regulate temperature controlled stock"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI50411" title="Diploma of Fisheries Compliance">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT404A" title="Lead and facilitate off site staff"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWHS401A" title="Implement and monitor WHS policies, procedures and programs to meet legislative requirements"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="PSPPOL601A" title="Develop public policy"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+      <unit id="PUAPOL028B" title="Manage investigation information processes"/>
+      <unit id="SFICOMP401C" title="Administer the district office"/>
+      <unit id="SFICOMP407C" title="Undertake prosecution procedures for magistrate's court"/>
+      <unit id="SFICOMP501C" title="Conduct an investigative audit"/>
+      <unit id="SFICOMP502C" title="Contribute to fisheries management"/>
+      <unit id="SFICOMP503C" title="Undertake the prosecution in a trial"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFIEMS301B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SFIEMS501B" title="Develop workplace policy for sustainability"/>
+      <unit id="SFILEAD501C" title="Develop and promote industry knowledge"/>
+      <unit id="SFILEAD502C" title="Shape strategic thinking"/>
+      <unit id="SFILEAD503C" title="Cultivate productive working relationships"/>
+      <unit id="SFILEAD504C" title="Plan and achieve change and results"/>
+      <unit id="SFILEAD505C" title="Communicate with influence"/>
+      <unit id="SFILEAD506C" title="Demonstrate personal drive and integrity"/>
+      <unit id="SFILEAD507C" title="Provide corporate leadership"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFI50111" title="Diploma of Aquaculture">
+    <units>
+      <unit id="AHCAGB502A" title="Plan and manage infrastructure requirements"/>
+      <unit id="AHCAGB503A" title="Plan and monitor production processes"/>
+      <unit id="AHCAGB505A" title="Develop a whole farm plan"/>
+      <unit id="AHCAGB601A" title="Develop export markets for produce"/>
+      <unit id="AHCAGB602A" title="Manage estate planning"/>
+      <unit id="AHCAGB603A" title="Manage the production system"/>
+      <unit id="AHCAGB604A" title="Analyse business performance"/>
+      <unit id="AHCAGB605A" title="Manage business capital"/>
+      <unit id="AHCBUS501A" title="Manage staff"/>
+      <unit id="AHCBUS505A" title="Develop a marketing plan"/>
+      <unit id="AHCBUS506A" title="Develop and review a business plan"/>
+      <unit id="AHCBUS507A" title="Monitor and review business performance"/>
+      <unit id="AHCBUS601A" title="Manage capital works"/>
+      <unit id="AHCBUS603A" title="Develop and review a strategic plan"/>
+      <unit id="AHCCCF502A" title="Facilitate development of group goals and projects"/>
+      <unit id="AHCCCF503A" title="Promote group formation and development"/>
+      <unit id="AHCCCF504A" title="Support group and community changes in resource management"/>
+      <unit id="AHCCCF505A" title="Contribute to regional planning process"/>
+      <unit id="AHCCCF506A" title="Manage the incorporation of a group"/>
+      <unit id="AHCCCF601A" title="Map regional issues and stakeholders"/>
+      <unit id="AHCCHM501A" title="Develop and manage a chemical use strategy"/>
+      <unit id="AHCILM506A" title="Operate within community cultures and goals"/>
+      <unit id="AHCILM508A" title="Propose a negotiated outcome for a given area of country"/>
+      <unit id="AHCLPW601A" title="Coordinate the preparation of a regional resource management plan"/>
+      <unit id="AHCMOM501A" title="Manage machinery and equipment"/>
+      <unit id="AHCMOM502A" title="Implement a machinery management system"/>
+      <unit id="AHCMOM601A" title="Analyse machinery options"/>
+      <unit id="AHCWRK501A" title="Plan, implement and review a quality assurance program"/>
+      <unit id="AHCWRK502A" title="Collect and manage data"/>
+      <unit id="AHCWRK503A" title="Prepare reports"/>
+      <unit id="AHCWRK603A" title="Design and conduct a field-based research trial"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBATSIC411C" title="Communicate with the community"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBPUR501C" title="Develop, implement and review purchasing strategies"/>
+      <unit id="BSBPUR502B" title="Manage supplier relationships"/>
+      <unit id="BSBPUR504B" title="Manage a supply chain"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="CHCCD404E" title="Develop and implement community programs"/>
+      <unit id="FDFOP2063A" title="Apply quality systems and procedures"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="LGACOM502B" title="Devise and conduct community consultations"/>
+      <unit id="MTMPS5603B" title="Develop, manage and maintain quality systems"/>
+      <unit id="MTMPSR5601B" title="Design and manage the food safety system"/>
+      <unit id="PSPPOL501A" title="Develop organisation policy"/>
+      <unit id="SFIAQUA407C" title="Coordinate sustainable aquacultural practices"/>
+      <unit id="SFIAQUA408C" title="Supervise harvest and post-harvest activities"/>
+      <unit id="SFIAQUA412A" title="Develop emergency procedures for on-land operations"/>
+      <unit id="SFIAQUA501C" title="Develop a stock nutrition program"/>
+      <unit id="SFIAQUA502C" title="Develop and implement an aquaculture breeding strategy"/>
+      <unit id="SFIAQUA503C" title="Establish an aquacultural enterprise"/>
+      <unit id="SFIAQUA504C" title="Plan environmentally sustainable aquacultural practices"/>
+      <unit id="SFIAQUA505C" title="Plan stock health management"/>
+      <unit id="SFIAQUA507C" title="Plan and design water supply and disposal systems"/>
+      <unit id="SFIAQUA508C" title="Plan and design stock culture or holding systems and structures"/>
+      <unit id="SFIAQUA509B" title="Develop stock production plan"/>
+      <unit id="SFIAQUA510B" title="Select, plan or design a system or facility utilising high technology water treatment components"/>
+      <unit id="SFICORE101C" title="Apply basic food handling and safety practices"/>
+      <unit id="SFICORE103C" title="Communicate in the seafood industry"/>
+      <unit id="SFICORE105B" title="Work effectively in the seafood industry"/>
+      <unit id="SFICORE106B" title="Meet workplace OHS requirements"/>
+      <unit id="SFIDIST501C" title="Export product"/>
+      <unit id="SFIDIST502C" title="Import product"/>
+      <unit id="SFIEMS501B" title="Develop workplace policy for sustainability"/>
+      <unit id="SFILEAD501C" title="Develop and promote industry knowledge"/>
+      <unit id="SFILEAD502C" title="Shape strategic thinking"/>
+      <unit id="SFILEAD503C" title="Cultivate productive working relationships"/>
+      <unit id="SFILEAD504C" title="Plan and achieve change and results"/>
+      <unit id="SFILEAD505C" title="Communicate with influence"/>
+      <unit id="SFILEAD506C" title="Demonstrate personal drive and integrity"/>
+      <unit id="SFILEAD507C" title="Provide corporate leadership"/>
+      <unit id="SFIOHS501C" title="Establish and maintain the enterprise OHS program"/>
+      <unit id="SFIPROC611C" title="Participate in a media interview or presentation"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="TAADEL502B" title="Facilitate action learning projects"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

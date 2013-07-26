@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<qualifications class="PRS03">
+  <qualification id="PRS10103" title="Certificate I in Security Operations">
+    <units/>
+  </qualification>
+  <qualification id="PRS20103" title="Certificate II in Security Operations">
+    <units/>
+  </qualification>
+  <qualification id="PRS20203" title="Certificate II in Technical Security">
+    <units>
+      <unit id="PRSTS203A" title="Install mechanical lock/locking system"/>
+      <unit id="PRSTS204A" title="Install CCTV equipment/system"/>
+      <unit id="PRSTS205A" title="Implement electronic monitoring procedures"/>
+      <unit id="PRSTS206A" title="Sell products and services"/>
+    </units>
+  </qualification>
+  <qualification id="PRS30303" title="Certificate III in Investigative Services">
+    <units/>
+  </qualification>
+  <qualification id="PRS30203" title="Certificate III in Technical Security">
+    <units/>
+  </qualification>
+  <qualification id="PRS30103" title="Certificate III in Security Operations">
+    <units/>
+  </qualification>
+  <qualification id="PRS40103" title="Certificate IV in Security and Risk Management">
+    <units/>
+  </qualification>
+  <qualification id="PRS50103" title="Diploma of Security and Risk Management">
+    <units/>
+  </qualification>
+</qualifications>

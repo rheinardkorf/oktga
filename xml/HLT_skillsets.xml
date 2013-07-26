@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<skillsets class="HLT">
+  <skillset id="HLTSS00039" title="Aboriginal and/or Torres Strait Islander Aged Care Skill Set">
+    <units>
+      <unit id="CHCAC319A" title="Provide support to people living with dementia"/>
+      <unit id="HLTAHW014" title="Work with Elders in Aboriginal and/or Torres Strait Islander communities"/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAHW051" title="Respond to loss, grief and trauma"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00038" title="Aboriginal and/or Torres Strait Islander Disability Care Skill Set">
+    <units>
+      <unit id="CHCDIS409B" title="Provide services to people with disabilities with complex needs"/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAHW051" title="Respond to loss, grief and trauma"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00036" title="Aboriginal and/or Torres Strait Islander Eye Health Coordinator Skill Set">
+    <units>
+      <unit id="HLTAHW030" title="Provide information and strategies in eye health"/>
+      <unit id="HLTAHW043" title="Facilitate access to tertiary health services"/>
+      <unit id="HLTAHW062" title="Supervise health care team"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00033" title="Aboriginal and/or Torres Strait Islander Family Health Skill Set">
+    <units>
+      <unit id="CHCDFV408C" title="Provide support to children affected by domestic and family violence"/>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="HLTAHW031" title="Provide information/strategies to enhance capacities of Aboriginal/Torres Strait Islander families"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAHW051" title="Respond to loss, grief and trauma"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00032" title="Aboriginal and/or Torres Strait Islander Healthy Children Skill Set">
+    <units>
+      <unit id="CHCPRT001" title="Identify and respond to children and young people at risk"/>
+      <unit id="HLTAHW031" title="Provide information/strategies to enhance capacities of Aboriginal/Torres Strait Islander families"/>
+      <unit id="HLTAHW038" title="Assess and promote physical and emotional wellbeing of children"/>
+      <unit id="HLTAHW039" title="Monitor early childhood growth and development"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00030" title="Aboriginal and/or Torres Strait Islander Maternal and Infant Care Skill Set">
+    <units>
+      <unit id="HLTAHW027" title="Provide information and strategies in sexual health for women"/>
+      <unit id="HLTAHW029" title="Provide information and strategies in maternal and infant health"/>
+      <unit id="HLTAHW031" title="Provide information/strategies to enhance capacities of Aboriginal/Torres Strait Islander families"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00031" title="Aboriginal and/or Torres Strait Islander Maternal and Infant Care Skill Set - Clinical">
+    <units>
+      <unit id="HLTAHW027" title="Provide information and strategies in sexual health for women"/>
+      <unit id="HLTAHW029" title="Provide information and strategies in maternal and infant health"/>
+      <unit id="HLTAHW057" title="Provide antenatal health care"/>
+      <unit id="HLTAHW058" title="Prepare for and support childbirth"/>
+      <unit id="HLTAHW059" title="Provide postnatal and infant health care"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00042" title="Aboriginal and/or Torres Strait Islander Men&#x2019;s Health Skill Set">
+    <units>
+      <unit id="HLTAHW017" title="Assess and support client&#x2019;s social and emotional wellbeing"/>
+      <unit id="HLTAHW023" title="Plan, develop and evaluate health promotion and community development programs"/>
+      <unit id="HLTAHW026" title="Provide information and strategies in sexual health for men"/>
+      <unit id="HLTAHW031" title="Provide information/strategies to enhance capacities of Aboriginal/Torres Strait Islander families"/>
+      <unit id="HLTPOP402C" title="Assess readiness for and effect behaviour change"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00041" title="Aboriginal and/or Torres Strait Islander Sexual Health Skill Set">
+    <units>
+      <unit id="CHCCD413E" title="Work within specific communities"/>
+      <unit id="CHCCS403C" title="Provide brief intervention"/>
+      <unit id="CHCNET404B" title="Facilitate links with other services"/>
+      <unit id="CHCPOL403C" title="Undertake research activities"/>
+      <unit id="HLTAHW026" title="Provide information and strategies in sexual health for men"/>
+      <unit id="HLTAHW027" title="Provide information and strategies in sexual health for women"/>
+      <unit id="HLTPAT304D" title="Collect pathology specimens other than blood"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00034" title="Aboriginal and/or Torres Strait Islander Youth Health Skill Set">
+    <units>
+      <unit id="CHCPRT002" title="Support the rights and safety of children and young people"/>
+      <unit id="CHCYTH004" title="Respond to critical situations"/>
+      <unit id="HLTAHW012" title="Assist with prevention and minimisation of substance misuse"/>
+      <unit id="HLTAHW026" title="Provide information and strategies in sexual health for men"/>
+      <unit id="HLTAHW027" title="Provide information and strategies in sexual health for women"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00037" title="Advanced Practice for Aboriginal and/or Torres Strait Islander Health Workers Skill Set">
+    <units>
+      <unit id="HLTAHW020" title="Administer medications"/>
+      <unit id="HLTAHW046" title="Apply advanced skills in primary health care"/>
+      <unit id="HLTAHW066" title="Manage the delivery of Aboriginal and/or Torres Strait Islander primary health care"/>
+      <unit id="HLTAHW071" title="Manage medicines in Aboriginal and/or Torres Strait Islander primary health care"/>
+      <unit id="HLTIN504D" title="Manage the control of infection"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00035" title="Chronic Condition Self-management for Aboriginal and/or Torres Strait Islander Clients Skill Set">
+    <units>
+      <unit id="CHCICS406B" title="Support client self-management"/>
+      <unit id="CHCICS408B" title="Provide support to people with chronic disease"/>
+      <unit id="HLTAHW028" title="Provide information and strategies in chronic condition care"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00029" title="Ear and Hearing Health Skills Set for Aboriginal and/or Torres Strait Islander Primary Health Care">
+    <units>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAU402D" title="Conduct screening hearing tests for industrial hearing loss"/>
+      <unit id="HLTAU501D" title="Conduct screening hearing tests for children"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00044" title="Nutrition Support Skill Set for Aboriginal an_or Torres Strait Islander Communities">
+    <units>
+      <unit id="HLTAHW021" title="Provide nutrition guidance for specific health care"/>
+      <unit id="HLTAHW023" title="Plan, develop and evaluate health promotion and community development programs"/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+      <unit id="HLTAHW034" title="Provide healthy lifestyle programs and advice"/>
+      <unit id="HLTAHW053" title="Address impact of food security on community health"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00027" title="Occupational First Aid Skill Set">
+    <units>
+      <unit id="HLTAID006" title="Provide advanced first aid"/>
+      <unit id="HLTAID007" title="Provide advanced resuscitation"/>
+      <unit id="HLTAID008" title="Manage first aid services and resources"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00026" title="Oral Health Care Skill Set for Aboriginal and/or Torres Strait Islander Health Workers">
+    <units>
+      <unit id="CHCOHC303A" title="Use basic oral health screening tools"/>
+      <unit id="CHCOHC402A" title="Support clients and groups to learn practical aspects of oral health care"/>
+      <unit id="CHCOHC404A" title="Recognise and respond to signs and symptoms that may indicate oral health issues"/>
+      <unit id="HLTAHW025" title="Provide information and strategies in health care"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00028" title="Renal Care Skill Set for Aboriginal and/or Torres Strait Islander Primary Health Care Practice">
+    <units>
+      <unit id="HLTAHW020" title="Administer medications"/>
+      <unit id="HLTAHW071" title="Manage medicines in Aboriginal and/or Torres Strait Islander primary health care"/>
+      <unit id="HLTRNL601C" title="Support the client with chronic kidney disease"/>
+      <unit id="HLTRNL602C" title="Provide support and management of the client undergoing peritoneal dialysis therapy"/>
+      <unit id="HLTRNL603C" title="Provide care and support to client in renal replacement therapy in community setting"/>
+      <unit id="HLTRNL604C" title="Provide support and management of the client undergoing haemodialysis therapy"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00040" title="Smoking Cessation Skill Set">
+    <units>
+      <unit id="CHCCS403C" title="Provide brief intervention"/>
+      <unit id="HLTPOP402C" title="Assess readiness for and effect behaviour change"/>
+      <unit id="HLTPOP403C" title="Provide information on smoking and smoking cessation"/>
+      <unit id="HLTPOP404C" title="Provide interventions to clients who are nicotine dependent"/>
+    </units>
+  </skillset>
+  <skillset id="HLTSS00043" title="Telehealth Administration skill set">
+    <units>
+      <unit id="HLTADM001" title="Administer and coordinate Telehealth services"/>
+      <unit id="HLTADM002" title="Manage Telehealth technology"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="HLTHIR404D" title="Work effectively with Aboriginal and/or Torres Strait Islander people"/>
+    </units>
+  </skillset>
+</skillsets>

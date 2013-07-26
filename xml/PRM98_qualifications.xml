@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<qualifications class="PRM98">
+  <qualification id="PRM20398" title="Certificate II in Asset Maintenance (Pest Management - Business Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM20500" title="Certificate II in Asset Maintenance (Waste Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRM20298" title="Certificate II in Asset Maintenance (Pest Management - Technical)">
+    <units/>
+  </qualification>
+  <qualification id="PRM20400" title="Certificate II in Asset Maintenance (Portable Fire Equipment Service Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM20198" title="Certificate II in Asset Maintenance (Cleaning Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM30398" title="Certificate III in Asset Maintenance (Pest Management - Business Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM30198" title="Certificate III in Asset Maintenance (Cleaning Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM30400" title="Certificate III in Asset Maintenance (Portable Fire Equipment Service Operations)">
+    <units/>
+  </qualification>
+  <qualification id="PRM30298" title="Certificate III in Asset Maintenance (Pest Management - Technical)">
+    <units/>
+  </qualification>
+  <qualification id="PRM30500" title="Certificate III in Asset Maintenance (Waste Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRM40298" title="Certificate IV in Asset Maintenance (Pest Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRM40500" title="Certificate IV in Asset Maintenance (Waste Management)">
+    <units/>
+  </qualification>
+  <qualification id="PRM40198" title="Certificate IV in Asset Maintenance (Cleaning Operations Management)">
+    <units/>
+  </qualification>
+</qualifications>

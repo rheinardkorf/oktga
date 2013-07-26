@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<qualifications class="SFL10">
+  <qualification id="SFL20110" title="Certificate II in Floristry (Assistant)">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RTF2008A" title="Maintain indoor plants"/>
+      <unit id="RTF2024A" title="Tend nursery plants"/>
+      <unit id="SFLDEC201A" title="Assemble floristry products"/>
+      <unit id="SFLSOP201A" title="Source information on floristry products and services"/>
+      <unit id="SFLSOP202A" title="Recognise flower and plant materials"/>
+      <unit id="SFLSOP203A" title="Receive and store floristry stock"/>
+      <unit id="SFLSOP204A" title="Prepare and care for floristry stock"/>
+      <unit id="SFLSOP205A" title="Display and merchandise floristry stock"/>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXCOM001A" title="Communicate in the workplace"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXSLS001A" title="Sell products and services"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="SFL30110" title="Certificate III in Floristry">
+    <units>
+      <unit id="BSBDES202A" title="Evaluate the nature of design in a specific industry context"/>
+      <unit id="BSBDES301A" title="Explore the use of colour"/>
+      <unit id="BSBDES402A" title="Interpret and respond to a design brief"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBPUR301B" title="Purchase goods and services"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="CUVCOR07B" title="Use drawing techniques to represent the object or idea"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="RTF2008A" title="Maintain indoor plants"/>
+      <unit id="RTF2024A" title="Tend nursery plants"/>
+      <unit id="RTF3020A" title="Install and maintain interior plant displays"/>
+      <unit id="SFLDEC302A" title="Design floristry products"/>
+      <unit id="SFLDEC303A" title="Maintain floristry tools and equipment"/>
+      <unit id="SFLDEC304A" title="Construct hand tied floristry products"/>
+      <unit id="SFLDEC305A" title="Construct wired floristry products"/>
+      <unit id="SFLDEC306A" title="Construct floristry products with a base medium"/>
+      <unit id="SFLSOP201A" title="Source information on floristry products and services"/>
+      <unit id="SFLSOP202A" title="Recognise flower and plant materials"/>
+      <unit id="SFLSOP203A" title="Receive and store floristry stock"/>
+      <unit id="SFLSOP204A" title="Prepare and care for floristry stock"/>
+      <unit id="SFLSOP205A" title="Display and merchandise floristry stock"/>
+      <unit id="SFLSOP306A" title="Provide quality service to floristry customers"/>
+      <unit id="SFLSOP307A" title="Sell floristry products"/>
+      <unit id="SFLSOP308A" title="Prepare quotations for floristry products"/>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXFIN001A" title="Balance point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXIND001A" title="Work effectively in a retail environment"/>
+      <unit id="SIRXMER005A" title="Create a display"/>
+      <unit id="SIRXOHS001A" title="Apply safe working practices"/>
+      <unit id="SIRXQUA001A" title="Develop innovative ideas at work"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFL40110" title="Certificate IV in Floristry">
+    <units>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBEBU502A" title="Implement e business solutions"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVVSP12B" title="Produce digital images"/>
+      <unit id="SFLDEC407A" title="Design complex floristry products"/>
+      <unit id="SFLDEC408A" title="Construct complex floristry products"/>
+      <unit id="SFLDEC409A" title="Coordinate floristry products for a special occasion"/>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXEBS004A" title="Select an e-business model"/>
+      <unit id="SIRXHRM001A" title="Administer human resources policy"/>
+      <unit id="SIRXHRM002A" title="Recruit and select personnel"/>
+      <unit id="SIRXICT004A" title="Adopt mobile commerce applications to improve sales and service"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXOHS002A" title="Maintain store safety"/>
+      <unit id="SIRXOHS003A" title="Provide a safe working environment"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="SIRXQUA003A" title="Create an innovative work environment"/>
+      <unit id="SIRXQUA004A" title="Set up systems that support innovation"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SITXMGT006A" title="Establish and conduct business relationships"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEASS403A" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="SFL50110" title="Diploma of Floristry Design">
+    <units>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCRT601A" title="Research and apply concepts and theories of creativity"/>
+      <unit id="BSBDES501A" title="Implement design solutions"/>
+      <unit id="BSBDES502A" title="Establish, negotiate and refine a design brief"/>
+      <unit id="BSBDES602A" title="Research global design trends"/>
+      <unit id="BSBDES701A" title="Research and apply design theory"/>
+      <unit id="BSBEBU401A" title="Review and maintain a website"/>
+      <unit id="BSBEBU501A" title="Investigate and design e business solutions"/>
+      <unit id="BSBEBU502A" title="Implement e business solutions"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CUVCOR09B" title="Select and apply drawing techniques and media to represent and communicate the concept"/>
+      <unit id="CUVCRS03B" title="Produce computer-aided drawings"/>
+      <unit id="CUVCRS11B" title="Select and prepare work for exhibition"/>
+      <unit id="CUVDES04B" title="Integrate colour theory and design processes in response to a brief"/>
+      <unit id="CUVVSP12B" title="Produce digital images"/>
+      <unit id="RTF3020A" title="Install and maintain interior plant displays"/>
+      <unit id="RTF4001A" title="Design plant displays"/>
+      <unit id="SFLDEC510A" title="Design and produce innovative floristry products"/>
+      <unit id="SFLDEC511A" title="Style and manage an event"/>
+      <unit id="SFLSOP509A" title="Research, assess and develop a floristry product range"/>
+      <unit id="SIRXEBS001A" title="Acquire and retain online customers"/>
+      <unit id="SIRXEBS004A" title="Select an e-business model"/>
+      <unit id="SIRXICT004A" title="Adopt mobile commerce applications to improve sales and service"/>
+      <unit id="SIRXMGT001A" title="Coordinate work teams"/>
+      <unit id="SIRXMGT003A" title="Lead and manage people"/>
+      <unit id="SIRXMPR001A" title="Profile a retail market"/>
+      <unit id="SIRXOHS002A" title="Maintain store safety"/>
+      <unit id="SIRXQUA002A" title="Lead a team to foster innovation"/>
+      <unit id="SIRXQUA003A" title="Create an innovative work environment"/>
+      <unit id="SIRXQUA004A" title="Set up systems that support innovation"/>
+      <unit id="SITXCOM005A" title="Make presentations"/>
+      <unit id="SITXMGT006A" title="Establish and conduct business relationships"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

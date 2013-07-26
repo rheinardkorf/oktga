@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<qualifications class="PMA08">
+  <qualification id="PMA20113" title="Certificate II in Process Plant Operations">
+    <units>
+      <unit id="FDFPH1001A" title="Follow work procedures to maintain Good Manufacturing Practice"/>
+      <unit id="FDFPH2001A" title="Apply Good Manufacturing Practice procedures"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM16005A" title="Operate as a team member to conduct manufacturing, engineering or related activities"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+    </units>
+  </qualification>
+  <qualification id="PMA30113" title="Certificate III in Process Plant Operations">
+    <units>
+      <unit id="FDFPH1001A" title="Follow work procedures to maintain Good Manufacturing Practice"/>
+      <unit id="FDFPH2001A" title="Apply Good Manufacturing Practice procedures"/>
+      <unit id="FDFPHGMP3A" title="Monitor the implementation of Good Manufacturing Practice procedures"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+    </units>
+  </qualification>
+  <qualification id="PMA40113" title="Certificate IV in Process Plant Technology">
+    <units>
+      <unit id="FDFPH1001A" title="Follow work procedures to maintain Good Manufacturing Practice"/>
+      <unit id="FDFPH2001A" title="Apply Good Manufacturing Practice procedures"/>
+      <unit id="FDFPHGMP3A" title="Monitor the implementation of Good Manufacturing Practice procedures"/>
+      <unit id="MEM04001B" title="Operate melting furnaces"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM07033B" title="Operate and monitor basic boiler"/>
+      <unit id="MEM07034A" title="Operate and monitor intermediate class boiler"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09003B" title="Prepare basic engineering drawing"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+    </units>
+  </qualification>
+  <qualification id="PMA50108" title="Diploma of Process Plant Technology">
+    <units>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS400A" title="Contribute to OHS management system"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMOHS601A" title="Establish workplace OHS management system"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMPER400A" title="Coordinate permit process"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="PMAOHS420B" title="Develop First Aid procedures and manage resources"/>
+      <unit id="PMAOHS502B" title="Contribute to safety case"/>
+      <unit id="PMAOHS511A" title="Manage emergency incidents"/>
+      <unit id="PMAOMIR320B" title="Manage incident response information"/>
+      <unit id="PMAOMIR407B" title="Audit incident preparedness and established response systems"/>
+      <unit id="PMAOMIR418B" title="Coordinate incident response"/>
+      <unit id="PMAOMIR424B" title="Develop and maintain community relationships"/>
+      <unit id="PMAOMIR430B" title="Conduct and assess incident exercises"/>
+      <unit id="PMAOMIR444B" title="Develop incident containment tactics"/>
+      <unit id="PMAOMIR449B" title="Monitor legal compliance obligations during incidents"/>
+      <unit id="PMAOMIR512B" title="Establish incident response preparedness and response systems"/>
+      <unit id="PMAOMIR523B" title="Manage corporate media requirements in a crisis"/>
+      <unit id="PMAOMIR575B" title="Coordinate welfare support activities in response to an incident"/>
+      <unit id="PMAOPS350B" title="Match and adjust colour"/>
+      <unit id="PMAOPS402A" title="Respond to abnormal process situations"/>
+      <unit id="PMAOPS405A" title="Operate complex control systems"/>
+      <unit id="PMAOPS410B" title="Monitor remote production facilities"/>
+      <unit id="PMAOPS411B" title="Manage plant shutdown and restart"/>
+      <unit id="PMAOPS450B" title="Solve colour problems"/>
+      <unit id="PMAOPS500A" title="Optimise production systems"/>
+      <unit id="PMAOPS501A" title="Provide operational expertise to a project team"/>
+      <unit id="PMAOPS505A" title="Control the process during abnormal situations"/>
+      <unit id="PMAOPS511B" title="Determine energy transfer loads"/>
+      <unit id="PMAOPS512B" title="Determine mass transfer loads"/>
+      <unit id="PMAOPS520C" title="Manage utilities"/>
+      <unit id="PMAOPS521C" title="Plan plant shutdown"/>
+      <unit id="PMAOPS522A" title="Coordinate plant shut down"/>
+      <unit id="PMAOPS550B" title="Develop a colour formulation"/>
+      <unit id="PMAOPS560A" title="Plan and design tailings management facilities"/>
+      <unit id="PMASUP410B" title="Develop plant documentation"/>
+      <unit id="PMASUP420B" title="Minimise environmental impact of process"/>
+      <unit id="PMASUP432B" title="Coordinate pipeline projects"/>
+      <unit id="PMASUP440B" title="Commission_recommission plant"/>
+      <unit id="PMASUP441C" title="Decommission plant"/>
+      <unit id="PMASUP445A" title="Participate in HAZOP studies"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMASUP540B" title="Analyse equipment performance"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMA60108" title="Advanced Diploma of Process Plant Technology">
+    <units>
+      <unit id="MSACMT671A" title="Develop and manage sustainable environmental practices"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS400A" title="Contribute to OHS management system"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMOHS601A" title="Establish workplace OHS management system"/>
+      <unit id="MSAPMOPS400A" title="Optimise process_plant area"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMOPS404A" title="Co-ordinate maintenance"/>
+      <unit id="MSAPMOPS405A" title="Identify problems in fluid power system"/>
+      <unit id="MSAPMOPS406A" title="Identify problems in electronic control systems"/>
+      <unit id="MSAPMPER400A" title="Coordinate permit process"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSL936001A" title="Maintain quality system and continuous improvement processes within work/functional area"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403013A" title="Lead team culture improvement"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404050A" title="Undertake process capability improvements"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS404060A" title="Facilitate the use of planning software systems in a work area or team"/>
+      <unit id="MSS404081A" title="Undertake proactive maintenance analyses"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="MSS405010A" title="Manage relationships with non-customer external organisations"/>
+      <unit id="MSS405011A" title="Manage people relationships"/>
+      <unit id="MSS405012A" title="Manage workplace learning"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405040A" title="Manage 5S system in an organisation"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="PMAOHS420B" title="Develop First Aid procedures and manage resources"/>
+      <unit id="PMAOHS502B" title="Contribute to safety case"/>
+      <unit id="PMAOHS511A" title="Manage emergency incidents"/>
+      <unit id="PMAOMIR320B" title="Manage incident response information"/>
+      <unit id="PMAOMIR407B" title="Audit incident preparedness and established response systems"/>
+      <unit id="PMAOMIR418B" title="Coordinate incident response"/>
+      <unit id="PMAOMIR424B" title="Develop and maintain community relationships"/>
+      <unit id="PMAOMIR430B" title="Conduct and assess incident exercises"/>
+      <unit id="PMAOMIR444B" title="Develop incident containment tactics"/>
+      <unit id="PMAOMIR449B" title="Monitor legal compliance obligations during incidents"/>
+      <unit id="PMAOMIR512B" title="Establish incident response preparedness and response systems"/>
+      <unit id="PMAOMIR523B" title="Manage corporate media requirements in a crisis"/>
+      <unit id="PMAOMIR575B" title="Coordinate welfare support activities in response to an incident"/>
+      <unit id="PMAOMIR622B" title="Build partnerships to improve incident response capacity"/>
+      <unit id="PMAOMIR650B" title="Manage a crisis"/>
+      <unit id="PMAOPS350B" title="Match and adjust colour"/>
+      <unit id="PMAOPS402A" title="Respond to abnormal process situations"/>
+      <unit id="PMAOPS405A" title="Operate complex control systems"/>
+      <unit id="PMAOPS410B" title="Monitor remote production facilities"/>
+      <unit id="PMAOPS411B" title="Manage plant shutdown and restart"/>
+      <unit id="PMAOPS450B" title="Solve colour problems"/>
+      <unit id="PMAOPS500A" title="Optimise production systems"/>
+      <unit id="PMAOPS501A" title="Provide operational expertise to a project team"/>
+      <unit id="PMAOPS505A" title="Control the process during abnormal situations"/>
+      <unit id="PMAOPS511B" title="Determine energy transfer loads"/>
+      <unit id="PMAOPS512B" title="Determine mass transfer loads"/>
+      <unit id="PMAOPS520C" title="Manage utilities"/>
+      <unit id="PMAOPS521C" title="Plan plant shutdown"/>
+      <unit id="PMAOPS522A" title="Coordinate plant shut down"/>
+      <unit id="PMAOPS550B" title="Develop a colour formulation"/>
+      <unit id="PMAOPS600C" title="Modify plant"/>
+      <unit id="PMAOPS601A" title="Debottleneck plant"/>
+      <unit id="PMASUP410B" title="Develop plant documentation"/>
+      <unit id="PMASUP420B" title="Minimise environmental impact of process"/>
+      <unit id="PMASUP432B" title="Coordinate pipeline projects"/>
+      <unit id="PMASUP440B" title="Commission_recommission plant"/>
+      <unit id="PMASUP441C" title="Decommission plant"/>
+      <unit id="PMASUP445A" title="Participate in HAZOP studies"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PMASUP540B" title="Analyse equipment performance"/>
+      <unit id="PMASUP620B" title="Manage environmental management system"/>
+      <unit id="PSPMNGT604B" title="Manage change"/>
+      <unit id="PSPMNGT605B" title="Manage diversity"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="PMA70108" title="Vocational Graduate Certificate in Surface Coating Technology">
+    <units>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSL936001A" title="Maintain quality system and continuous improvement processes within work/functional area"/>
+      <unit id="MSL976003A" title="Evaluate and select appropriate test methods and_or procedures"/>
+      <unit id="MSL977001A" title="Contribute to the development of products and applications"/>
+      <unit id="MSL977002A" title="Troubleshoot equipment and_or production processes"/>
+      <unit id="MSL977004A" title="Develop or adapt analyses and procedures"/>
+      <unit id="PMAOPS350B" title="Match and adjust colour"/>
+      <unit id="PMAOPS450B" title="Solve colour problems"/>
+      <unit id="PMAOPS550B" title="Develop a colour formulation"/>
+      <unit id="PMAOPS751A" title="Apply physiochemical knowledge to select raw materials for surface coatings"/>
+      <unit id="PMAOPS752A" title="Develop a decorative coating"/>
+      <unit id="PMAOPS753A" title="Develop a non-decorative coating or ink"/>
+      <unit id="PMAOPS755A" title="Provide surface coatings application advice"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

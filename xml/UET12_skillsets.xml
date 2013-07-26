@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<skillsets class="UET12">
+  <skillset id="UETSS00018" title="Refresher - Apply Access Procedures to Work On or Near Electrical Network Infrastructure">
+    <units>
+      <unit id="UETTDRRF09B" title="Apply access procedures to work on or near electrical network infrastructure"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00019" title="Refresher - Apply ESI Safety Rules, Codes of Practice and Procedures for Work On or Near Electrical Apparatus">
+    <units>
+      <unit id="UETTDRRF01B" title="Apply ESI safety rules, codes of practice and procedures for work on or near electrical apparatus"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00020" title="Refresher - Perform Cable Pit-Trench-Excavation Rescue">
+    <units>
+      <unit id="UETTDRRF07B" title="Perform cable pit_trench_excavation rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00021" title="Refresher - Perform Cable Pit-Trench-Excavation Rescue and CPR">
+    <units>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="UETTDRRF07B" title="Perform cable pit_trench_excavation rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00022" title="Refresher - Perform CPR">
+    <units>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00023" title="Refresher - Perform EWP Controlled Descent Escape">
+    <units>
+      <unit id="UETTDRRF08B" title="Perform EWP controlled descent escape"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00024" title="Refresher - Perform EWP Rescue">
+    <units>
+      <unit id="UETTDRRF03B" title="Perform EWP rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00025" title="Refresher - Perform EWP Rescue and CPR">
+    <units>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="UETTDRRF03B" title="Perform EWP rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00026" title="Refresher - Perform Pole Top Rescue">
+    <units>
+      <unit id="UETTDRRF02B" title="Perform pole top rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00027" title="Refresher - Perform Pole Top Rescue and CPR">
+    <units>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="UETTDRRF02B" title="Perform pole top rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00028" title="Refresher - Perform Rescue from a Live LV Panel">
+    <units>
+      <unit id="UETTDRRF06B" title="Perform rescue from a live LV panel"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00029" title="Refresher - Perform Rescue from a Live LV Panel and CPR">
+    <units>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="UETTDRRF06B" title="Perform rescue from a live LV panel"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00030" title="Refresher - Perform Rescue from Switchyard Structures at Heights">
+    <units>
+      <unit id="UETTDRRF05B" title="Perform rescue from switchyard structures at heights"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00031" title="Refresher - Perform Switchyard Rescue at Heights and Provide First Aid">
+    <units>
+      <unit id="UETTDRRF05B" title="Perform rescue from switchyard structures at heights"/>
+      <unit id="UETTDRRF10B" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00032" title="Refresher - Perform Tower Rescue">
+    <units>
+      <unit id="UETTDRRF04B" title="Perform tower rescue"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00033" title="Refresher - Perform Tower Rescue and Provide First Aid">
+    <units>
+      <unit id="UETTDRRF04B" title="Perform tower rescue"/>
+      <unit id="UETTDRRF10B" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00034" title="Refresher - Provide First Aid in an ESI Environment">
+    <units>
+      <unit id="UETTDRRF10B" title="Provide first aid in an ESI environment"/>
+    </units>
+  </skillset>
+  <skillset id="UETSS00035" title="Refresher - Testing of connections to low voltage electricity networks">
+    <units>
+      <unit id="UETTDRRF11A" title="Testing of connections to low voltage electricity networks"/>
+    </units>
+  </skillset>
+</skillsets>

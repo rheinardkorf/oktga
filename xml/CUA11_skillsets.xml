@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<skillsets class="CUA11">
+  <skillset id="CUASS00001" title="Advanced Classical Ballet Teaching Skill Set">
+    <units>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM601A" title="Teach high level classical ballet dance technique"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00002" title="Advanced Contemporary Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM603A" title="Teach high level contemporary dance technique"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00003" title="Advanced Cultural Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM605A" title="Teach high level cultural dance technique"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00004" title="Advanced Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00005" title="Advanced Jazz Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM602A" title="Teach high level jazz dance technique"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00006" title="Advanced Tap Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUADTM508A" title="Refine dance teaching methodologies"/>
+      <unit id="CUADTM509A" title="Refine professional practice as a dance teacher"/>
+      <unit id="CUADTM604A" title="Teach high level tap dance technique"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00007" title="Dance Teaching Skill Set">
+    <units>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+      <unit id="SISCDAN301A" title="Teach recreational dance"/>
+    </units>
+  </skillset>
+  <skillset id="CUASS00008" title="Movement Skills Training for People with Disabilities Skill Set">
+    <units>
+      <unit id="CHCDIS301B" title="Work effectively with people with a disability"/>
+      <unit id="CUADTM401A" title="Plan and organise dance classes"/>
+      <unit id="CUADTM403A" title="Apply safe dance teaching methods"/>
+      <unit id="CUAOHS403A" title="Incorporate anatomy and nutrition principles into skill development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="SISCCRO302A" title="Apply legal and ethical instructional skills"/>
+    </units>
+  </skillset>
+</skillsets>

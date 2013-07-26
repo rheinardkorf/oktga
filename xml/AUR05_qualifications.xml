@@ -1,0 +1,1588 @@
+<?xml version="1.0"?>
+<qualifications class="AUR05">
+  <qualification id="AUR10105" title="Certificate I in Automotive">
+    <units>
+      <unit id="AUM8013A" title="Participate in workplace productivity"/>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURA254280A" title="Operate in an automotive administration environment"/>
+      <unit id="AURA354616A" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC362721A" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURS241608A" title="Carry out cash and/or credit/funds transfer transactions"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR21105" title="Certificate II in Automotive Sales">
+    <units>
+      <unit id="AURB211304B" title="Assemble bicycles"/>
+      <unit id="AURB211305A" title="Assemble box bicycle for retail sale"/>
+      <unit id="AURB212171A" title="Service and repair bicycle mechanical braking systems"/>
+      <unit id="AURB212370B" title="Service bicycle hydraulic braking systems"/>
+      <unit id="AURB214670B" title="Service bicycle drivetrain systems"/>
+      <unit id="AURB215672A" title="Service bicycle steering systems"/>
+      <unit id="AURB216672A" title="Service bicycle suspension systems"/>
+      <unit id="AURB218168B" title="Remove, repair and fit bicycle tyres"/>
+      <unit id="AURB218267A" title="Service bicycle wheels and hubs"/>
+      <unit id="AURB232265B" title="Fit and adjust bicycle accessories"/>
+      <unit id="AURB254380B" title="Operate in a retail bicycle environment"/>
+      <unit id="AURB254401A" title="Select and adjust bicycle to fit rider"/>
+      <unit id="AURB311401A" title="Restore a bicycle"/>
+      <unit id="AURB312366B" title="Repair bicycle hydraulic braking systems"/>
+      <unit id="AURB314666B" title="Repair bicycle drivetrain systems"/>
+      <unit id="AURB315646A" title="Repair/overhaul bicycle steering systems"/>
+      <unit id="AURB316646A" title="Repair/overhaul bicycle suspension systems"/>
+      <unit id="AURB318207B" title="Design and build bicycle wheels"/>
+      <unit id="AURB318267A" title="Repair/overhaul bicycle wheels and hubs"/>
+      <unit id="AURB318301A" title="Service electric power assist bicycles"/>
+      <unit id="AURB328267A" title="Service and repair bicycle frames"/>
+      <unit id="AURB332301A" title="Specify and select components for a custom bicycle"/>
+      <unit id="AURB354501A" title="Provide mechanical support to cycling events"/>
+      <unit id="AURB354601A" title="Conduct cycling proficiency training"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURS238127A" title="Identify and select automotive parts and products"/>
+      <unit id="AURS238150A" title="Present stock and sales area"/>
+      <unit id="AURS238154A" title="Provide information to customers on automotive refinishing products"/>
+      <unit id="AURS239508A" title="Carry out warehousing procedures"/>
+      <unit id="AURS241303A" title="Apply sales procedures"/>
+      <unit id="AURS241608A" title="Carry out cash and/or credit/funds transfer transactions"/>
+      <unit id="AURS241769A" title="Sell product(s)"/>
+      <unit id="AURS241803A" title="Apply legal requirements relating to product sales"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="AURS338103A" title="Apply automotive parts interpretation process"/>
+      <unit id="AURS338216A" title="Determine used motor vehicle stock requirements"/>
+      <unit id="AURS342369A" title="Wholesale used motor vehicle stock"/>
+      <unit id="AURS344330A" title="Inspect, appraise and purchase used motor vehicles to supplement stock for sale"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT365130A" title="Inspect vehicle systems and determine preferred repair action"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP204A" title="Pack products or materials"/>
+      <unit id="SIRRFSA001A" title="Apply retail food safety practices"/>
+      <unit id="SIRRFSA002A" title="Monitor food safety program"/>
+      <unit id="SIRRRPK003A" title="Advise on fast food products"/>
+      <unit id="SIRXCCS001A" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXFIN001A" title="Balance point-of-sale terminal"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXICT003A" title="Operate retail information technology systems"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXMER002A" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXOHS002A" title="Maintain store safety"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXSLS003A" title="Coordinate sales performance"/>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR20408" title="Certificate II in Automotive Electrical Technology">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE218670A" title="Service, maintain or replace batteries"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+      <unit id="AURE218708A" title="Carry out repairs to single electrical circuits"/>
+      <unit id="AURE218764A" title="Remove, refit and test electrical componentry for normal operation following body repair activities"/>
+      <unit id="AURE219331A" title="Install, test and repair low voltage wiring/lighting systems"/>
+      <unit id="AURE219431A" title="Install, test and repair electrical security systems/components"/>
+      <unit id="AURE219531A" title="Install ancillary electrical components"/>
+      <unit id="AURE220140A" title="Manufacture and repair wiring harness/looms"/>
+      <unit id="AURE224008A" title="Carry out soldering of electrical wiring/circuits"/>
+      <unit id="AURE311666A" title="Repair electric braking systems"/>
+      <unit id="AURE318866A" title="Repair electrical systems"/>
+      <unit id="AURE318966A" title="Repair instruments and warning systems"/>
+      <unit id="AURE319145A" title="Overhaul charging system alternators"/>
+      <unit id="AURE319166B" title="Repair charging systems"/>
+      <unit id="AURE319245A" title="Overhaul starting motors"/>
+      <unit id="AURE319266B" title="Repair starting systems"/>
+      <unit id="AURE319271A" title="Inspect, service and repair AC electric motor drive systems"/>
+      <unit id="AURE320031B" title="Install marine electrical systems and components"/>
+      <unit id="AURE320066B" title="Diagnose and repair marine electrical systems and components"/>
+      <unit id="AURE320666B" title="Repair ignition systems"/>
+      <unit id="AURE320871A" title="Service and repair electronically controlled steering systems"/>
+      <unit id="AURE320971A" title="Service and repair electronically controlled suspension systems"/>
+      <unit id="AURE321066A" title="Repair electronic systems"/>
+      <unit id="AURE321171A" title="Service and repair electronic spark ignition engine management systems"/>
+      <unit id="AURE321271A" title="Service and repair electronic drive management systems"/>
+      <unit id="AURE321371A" title="Service and repair electronic body management systems"/>
+      <unit id="AURE321471A" title="Service and repair electronically controlled anti-lock braking systems"/>
+      <unit id="AURE321571A" title="Service and repair electronically operated traction control systems"/>
+      <unit id="AURE321671A" title="Service and repair electronically operated stability control systems"/>
+      <unit id="AURE321771A" title="Service and repair electronic compression ignition engine management systems"/>
+      <unit id="AURE321831B" title="Install marine electronic systems and components"/>
+      <unit id="AURE321971A" title="Inspect, service and repair electronic management, monitoring and tracking systems"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT222631A" title="Install air conditioning systems"/>
+      <unit id="AURT222670A" title="Service air conditioning systems"/>
+      <unit id="AURT223104A" title="Assemble and install refrigeration systems/components"/>
+      <unit id="AURT225156A" title="Read and interpret engineering drawings"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT226008A" title="Carry out pre-repair operations (mechanical)"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT271781A" title="Implement and monitor environmental regulations in the automotive mechanical industry"/>
+      <unit id="AURT322645A" title="Overhaul air conditioning system components"/>
+      <unit id="AURT322666A" title="Repair/retrofit air conditioning systems"/>
+      <unit id="AURT325149A" title="Prepare engineering drawings"/>
+      <unit id="AURT365130A" title="Inspect vehicle systems and determine preferred repair action"/>
+      <unit id="AURT365508A" title="Carry out vehicle safety/roadworthy inspection"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="AURT366308A" title="Carry out advanced diagnostic procedures"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281208A" title="Carry out brazing procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR21011" title="Certificate II in Motorsport">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE218670A" title="Service, maintain or replace batteries"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+      <unit id="AURE218708A" title="Carry out repairs to single electrical circuits"/>
+      <unit id="AURE218764A" title="Remove, refit and test electrical componentry for normal operation following body repair activities"/>
+      <unit id="AURE219331A" title="Install, test and repair low voltage wiring/lighting systems"/>
+      <unit id="AURE219531A" title="Install ancillary electrical components"/>
+      <unit id="AURE220140A" title="Manufacture and repair wiring harness/looms"/>
+      <unit id="AURE224008A" title="Carry out soldering of electrical wiring/circuits"/>
+      <unit id="AURM240080B" title="Operate in a motorsport environment"/>
+      <unit id="AURM240172B" title="Set up and dismantle temporary work location and equipment"/>
+      <unit id="AURM240173A" title="Transport a light competition vehicle and support equipment"/>
+      <unit id="AURM240174A" title="Prepare and service a light competition vehicle"/>
+      <unit id="AURMO2001A" title="Develop and update motorsport industry knowledge"/>
+      <unit id="AURMO2002A" title="Follow motorsport safety and risk management procedures"/>
+      <unit id="AURMO2003A" title="Comply with motorsport rules and regulations when officiating"/>
+      <unit id="AURMO2004A" title="Assist with motorsport officiating duties"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT201164A" title="Remove and install engine assemblies"/>
+      <unit id="AURT201170A" title="Inspect and service engines"/>
+      <unit id="AURT202166B" title="Repair cooling systems"/>
+      <unit id="AURT202170B" title="Inspect and service cooling systems"/>
+      <unit id="AURT202608A" title="Carry out radiator repairs"/>
+      <unit id="AURT203170B" title="Service petrol fuel systems"/>
+      <unit id="AURT204670A" title="Inspect and service emission control systems"/>
+      <unit id="AURT205123A" title="Fabricate exhaust system/components"/>
+      <unit id="AURT205166A" title="Repair exhaust system components"/>
+      <unit id="AURT206670A" title="Inspect and service transmissions (manual)"/>
+      <unit id="AURT207170A" title="Inspect and service transmissions (automatic)"/>
+      <unit id="AURT210170A" title="Inspect and service braking systems"/>
+      <unit id="AURT210605A" title="Attach friction materials and radius grind"/>
+      <unit id="AURT210736A" title="Machine brake drums and brake disc rotors"/>
+      <unit id="AURT212670A" title="Service final drive assemblies"/>
+      <unit id="AURT213170A" title="Service final drive (driveline)"/>
+      <unit id="AURT215130A" title="Inspect steering systems"/>
+      <unit id="AURT215170A" title="Inspect and service steering systems"/>
+      <unit id="AURT216130A" title="Inspect suspension systems"/>
+      <unit id="AURT216170A" title="Inspect and service suspension systems"/>
+      <unit id="AURT217606A" title="Balance wheels and tyres"/>
+      <unit id="AURT217665A" title="Remove, fit and inspect wheel assemblies"/>
+      <unit id="AURT217668A" title="Select tyres and rims for specific applications (light)"/>
+      <unit id="AURT217766A" title="Remove, inspect, repair and fit tyres and tubes (light)"/>
+      <unit id="AURT225156A" title="Read and interpret engineering drawings"/>
+      <unit id="AURT225191A" title="Produce drawings from design concepts"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT271781A" title="Implement and monitor environmental regulations in the automotive mechanical industry"/>
+      <unit id="AURTTE3001" title="Apply knowledge of engine science"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV224508A" title="Carry out fabrication of components"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281208A" title="Carry out brazing procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+      <unit id="AURV281508A" title="Carry out spot welding procedures"/>
+      <unit id="AURV323908A" title="Carry out thermoplastic welding procedures"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR20811" title="Certificate II in Outdoor Power Equipment">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+    </units>
+  </qualification>
+  <qualification id="AUR20611" title="Certificate II in Marine">
+    <units>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+    </units>
+  </qualification>
+  <qualification id="AUR20311" title="Certificate II in Bicycles">
+    <units>
+      <unit id="AURB211304B" title="Assemble bicycles"/>
+      <unit id="AURB211305A" title="Assemble box bicycle for retail sale"/>
+      <unit id="AURB212171A" title="Service and repair bicycle mechanical braking systems"/>
+      <unit id="AURB212370B" title="Service bicycle hydraulic braking systems"/>
+      <unit id="AURB214670B" title="Service bicycle drivetrain systems"/>
+      <unit id="AURB215672A" title="Service bicycle steering systems"/>
+      <unit id="AURB216672A" title="Service bicycle suspension systems"/>
+      <unit id="AURB218168B" title="Remove, repair and fit bicycle tyres"/>
+      <unit id="AURB218267A" title="Service bicycle wheels and hubs"/>
+      <unit id="AURB232265B" title="Fit and adjust bicycle accessories"/>
+      <unit id="AURB254380B" title="Operate in a retail bicycle environment"/>
+      <unit id="AURB254401A" title="Select and adjust bicycle to fit rider"/>
+      <unit id="AURB311401A" title="Restore a bicycle"/>
+      <unit id="AURB312366B" title="Repair bicycle hydraulic braking systems"/>
+      <unit id="AURB314666B" title="Repair bicycle drivetrain systems"/>
+      <unit id="AURB315646A" title="Repair/overhaul bicycle steering systems"/>
+      <unit id="AURB316646A" title="Repair/overhaul bicycle suspension systems"/>
+      <unit id="AURB318207B" title="Design and build bicycle wheels"/>
+      <unit id="AURB318267A" title="Repair/overhaul bicycle wheels and hubs"/>
+      <unit id="AURB318301A" title="Service electric power assist bicycles"/>
+      <unit id="AURB328267A" title="Service and repair bicycle frames"/>
+      <unit id="AURB332301A" title="Specify and select components for a custom bicycle"/>
+      <unit id="AURB354501A" title="Provide mechanical support to cycling events"/>
+      <unit id="AURB354601A" title="Conduct cycling proficiency training"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURS238150A" title="Present stock and sales area"/>
+      <unit id="AURS241303A" title="Apply sales procedures"/>
+      <unit id="AURS241769A" title="Sell product(s)"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT365130A" title="Inspect vehicle systems and determine preferred repair action"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281208A" title="Carry out brazing procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR20105" title="Certificate II in Automotive Administration">
+    <units>
+      <unit id="AUM8013A" title="Participate in workplace productivity"/>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURA254280A" title="Operate in an automotive administration environment"/>
+      <unit id="AURA354616A" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC362721A" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURS241608A" title="Carry out cash and/or credit/funds transfer transactions"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR20905" title="Certificate II in Automotive Vehicle Body">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+    </units>
+  </qualification>
+  <qualification id="AUR20505" title="Certificate II in Automotive Vehicle Servicing">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+    </units>
+  </qualification>
+  <qualification id="AUR21205" title="Certificate II in Automotive Warehousing/Distribution Operations">
+    <units>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURS238127A" title="Identify and select automotive parts and products"/>
+      <unit id="AURS338103A" title="Apply automotive parts interpretation process"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXRSK003A" title="Apply store security systems and procedures"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLIA4033A" title="Organise international transport of freight"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIB2008A" title="Carry out inspection of trailers"/>
+      <unit id="TLIB2009A" title="Check conveyor operational status"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2029A" title="Prepare articles for delivery"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIJ3005A" title="Sample, inspect and test products to specifications"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR20705" title="Certificate II in Automotive Mechanical">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+    </units>
+  </qualification>
+  <qualification id="AUR20205" title="Certificate II in Automotive Aftermarket Manufacturing">
+    <units>
+      <unit id="AUM2003B" title="Prepare and process materials and components"/>
+      <unit id="AUM2006B" title="Monitor and maintain equipment, tools and machinery"/>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURA254280A" title="Operate in an automotive administration environment"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE224008A" title="Carry out soldering of electrical wiring/circuits"/>
+      <unit id="AURS238127A" title="Identify and select automotive parts and products"/>
+      <unit id="AURS238150A" title="Present stock and sales area"/>
+      <unit id="AURS241303A" title="Apply sales procedures"/>
+      <unit id="AURS241769A" title="Sell product(s)"/>
+      <unit id="AURS241803A" title="Apply legal requirements relating to product sales"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="AURT210605A" title="Attach friction materials and radius grind"/>
+      <unit id="AURT225156A" title="Read and interpret engineering drawings"/>
+      <unit id="AURT225191A" title="Produce drawings from design concepts"/>
+      <unit id="AURT225291A" title="Produce patterns and templates"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT310104A" title="Assemble and fit braking systems/components"/>
+      <unit id="AURT335108A" title="Carry out machining operations"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV224508A" title="Carry out fabrication of components"/>
+      <unit id="AURV227064A" title="Remove and replace mechanical units/assemblies"/>
+      <unit id="AURV231208A" title="Carry out trimming of vehicle components"/>
+      <unit id="AURV231268A" title="Select and apply trim/fabric materials and determine attachment methods"/>
+      <unit id="AURV231368A" title="Select and apply trim/fabric adhesives"/>
+      <unit id="AURV232165A" title="Remove, replace, fit and test components/accessories"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281208A" title="Carry out brazing procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+      <unit id="AURV324708A" title="Carry out wood working operations for fabrication"/>
+      <unit id="AURV324766A" title="Repair plugs, moulds, frames and flooring using wood materials"/>
+      <unit id="AURV324823A" title="Fabricate composite material components"/>
+      <unit id="AURV331423AA" title="Fabricate and install loose and fitted covers"/>
+      <unit id="AURV331423BA" title="Fabricate and install marine covers"/>
+      <unit id="AURV331423CA" title="Fabricate and install canvas products"/>
+      <unit id="AURV331423DA" title="Fabricate and install frame structures"/>
+      <unit id="AURV331423EA" title="Fabricate and install floor coverings"/>
+      <unit id="AURV331423FA" title="Fabricate and install hoods (soft tops)"/>
+      <unit id="AURV331423GA" title="Fabricate and install canopies and curtains"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBITU101A" title="Operate a personal computer"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU303A" title="Design and produce text documents"/>
+      <unit id="BSBRKG301B" title="Control records"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM07005C" title="Perform general machining"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="SIRXCCS003A" title="Coordinate interaction with customers"/>
+      <unit id="SIRXFIN001A" title="Balance point-of-sale terminal"/>
+      <unit id="SIRXICT001A" title="Operate retail technology"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXMER001A" title="Merchandise products"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR30911" title="Certificate III in Motorsport">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE218670A" title="Service, maintain or replace batteries"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+      <unit id="AURE218708A" title="Carry out repairs to single electrical circuits"/>
+      <unit id="AURE218764A" title="Remove, refit and test electrical componentry for normal operation following body repair activities"/>
+      <unit id="AURE219531A" title="Install ancillary electrical components"/>
+      <unit id="AURE220140A" title="Manufacture and repair wiring harness/looms"/>
+      <unit id="AURE224008A" title="Carry out soldering of electrical wiring/circuits"/>
+    </units>
+  </qualification>
+  <qualification id="AUR30711" title="Certificate III in Outdoor Power Equipment">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+    </units>
+  </qualification>
+  <qualification id="AUR31205" title="Certificate III in Automotive Retail, Service and Repair">
+    <units>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURT271781A" title="Implement and monitor environmental regulations in the automotive mechanical industry"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV271403A" title="Apply environmental regulations and best practice in the body repair industry"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV371481A" title="Implement and monitor environmental regulations and best practice in the body repair industry"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AUR30611" title="Certificate III in Automotive Specialist">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+    </units>
+  </qualification>
+  <qualification id="AUR30105" title="Certificate III in Automotive Administration">
+    <units>
+      <unit id="AUM4014A" title="Program and monitor computerised equipment"/>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURA254280A" title="Operate in an automotive administration environment"/>
+      <unit id="AURA354616A" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURA454516A" title="Determine retail rates for work"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC362721A" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURS241608A" title="Carry out cash and/or credit/funds transfer transactions"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="BSBADM307B" title="Organise schedules"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCRT401A" title="Articulate, present and debate ideas"/>
+      <unit id="BSBCUS201A" title="Deliver a service to customers"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM202A" title="Handle mail"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU301A" title="Create and use databases"/>
+      <unit id="BSBITU302A" title="Create electronic presentations"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXFIN003A" title="Produce financial reports"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR31005" title="Certificate III in Automotive Sales">
+    <units>
+      <unit id="AURB211304B" title="Assemble bicycles"/>
+      <unit id="AURB211305A" title="Assemble box bicycle for retail sale"/>
+      <unit id="AURB212171A" title="Service and repair bicycle mechanical braking systems"/>
+      <unit id="AURB212370B" title="Service bicycle hydraulic braking systems"/>
+      <unit id="AURB214670B" title="Service bicycle drivetrain systems"/>
+      <unit id="AURB215672A" title="Service bicycle steering systems"/>
+      <unit id="AURB216672A" title="Service bicycle suspension systems"/>
+      <unit id="AURB218168B" title="Remove, repair and fit bicycle tyres"/>
+      <unit id="AURB218267A" title="Service bicycle wheels and hubs"/>
+      <unit id="AURB232265B" title="Fit and adjust bicycle accessories"/>
+    </units>
+  </qualification>
+  <qualification id="AUR31311" title="Certificate III in Automotive Engine Reconditioning">
+    <units>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURM340550B" title="Conduct non-destructive testing"/>
+      <unit id="AURT200368A" title="Select and use bearings, seals, gaskets, sealants and adhesives"/>
+      <unit id="AURT201164A" title="Remove and install engine assemblies"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT226008A" title="Carry out pre-repair operations (mechanical)"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT271781A" title="Implement and monitor environmental regulations in the automotive mechanical industry"/>
+      <unit id="AURT305671A" title="Inspect and repair engine forced induction systems"/>
+      <unit id="AURT334972A" title="Set, operate and monitor specialist machines"/>
+      <unit id="AURT335108A" title="Carry out machining operations"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="AURTH301166A" title="Repair engines and associated engine components (heavy vehicle)"/>
+      <unit id="AURTL301166A" title="Repair engines and associated engine components (light vehicle)"/>
+      <unit id="AURTTE3001" title="Apply knowledge of engine science"/>
+      <unit id="AURTTM3001" title="Operate and monitor computer numerical control machines"/>
+      <unit id="AURTTM3002" title="Repair bearing tunnels and connecting rods in engines"/>
+      <unit id="AURTTM3003" title="Apply metal to rebuild engine components"/>
+      <unit id="AURTTM3004" title="Assemble engine blocks and sub-assemblies"/>
+      <unit id="AURTTM3005" title="Balance rotating and reciprocating engine components"/>
+      <unit id="AURTTM3006" title="Perform advanced machining and blueprinting of engine components"/>
+      <unit id="AURTTM3007" title="Carry out grinding operations"/>
+      <unit id="AURTTM3008" title="Dismantle and evaluate engine blocks and sub-assemblies"/>
+      <unit id="AURTTM3009" title="Fit sleeves and bore and hone engine cylinders"/>
+      <unit id="AURTTM3010" title="Heat treat, straighten and reclaim engine components"/>
+      <unit id="AURTTM3011" title="Recondition engine cylinder heads"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR30211" title="Certificate III in Bicycles">
+    <units>
+      <unit id="AURB211304B" title="Assemble bicycles"/>
+      <unit id="AURB211305A" title="Assemble box bicycle for retail sale"/>
+      <unit id="AURB212171A" title="Service and repair bicycle mechanical braking systems"/>
+      <unit id="AURB212370B" title="Service bicycle hydraulic braking systems"/>
+      <unit id="AURB214670B" title="Service bicycle drivetrain systems"/>
+      <unit id="AURB215672A" title="Service bicycle steering systems"/>
+      <unit id="AURB216672A" title="Service bicycle suspension systems"/>
+      <unit id="AURB218168B" title="Remove, repair and fit bicycle tyres"/>
+      <unit id="AURB218267A" title="Service bicycle wheels and hubs"/>
+      <unit id="AURB232265B" title="Fit and adjust bicycle accessories"/>
+      <unit id="AURB254380B" title="Operate in a retail bicycle environment"/>
+      <unit id="AURB254401A" title="Select and adjust bicycle to fit rider"/>
+      <unit id="AURB311401A" title="Restore a bicycle"/>
+      <unit id="AURB312366B" title="Repair bicycle hydraulic braking systems"/>
+      <unit id="AURB314666B" title="Repair bicycle drivetrain systems"/>
+      <unit id="AURB315646A" title="Repair/overhaul bicycle steering systems"/>
+      <unit id="AURB316646A" title="Repair/overhaul bicycle suspension systems"/>
+      <unit id="AURB318207B" title="Design and build bicycle wheels"/>
+      <unit id="AURB318267A" title="Repair/overhaul bicycle wheels and hubs"/>
+      <unit id="AURB318301A" title="Service electric power assist bicycles"/>
+      <unit id="AURB328267A" title="Service and repair bicycle frames"/>
+      <unit id="AURB332301A" title="Specify and select components for a custom bicycle"/>
+      <unit id="AURB354501A" title="Provide mechanical support to cycling events"/>
+      <unit id="AURB354601A" title="Conduct cycling proficiency training"/>
+      <unit id="AURB428201A" title="Design and build a bicycle frame"/>
+      <unit id="AURB428202A" title="Assess carbon fibre frames for repair"/>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURS238150A" title="Present stock and sales area"/>
+      <unit id="AURS241303A" title="Apply sales procedures"/>
+      <unit id="AURS241769A" title="Sell product(s)"/>
+      <unit id="AURS242621A" title="Promote products and services"/>
+      <unit id="AURS252290A" title="Process customer complaints"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT270278A" title="Use and maintain workplace tools and equipment"/>
+      <unit id="AURT365130A" title="Inspect vehicle systems and determine preferred repair action"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="AURV223608A" title="Carry out oxy acetylene welding, thermal cutting and thermal heating procedures"/>
+      <unit id="AURV223808A" title="Carry out soft soldering techniques"/>
+      <unit id="AURV281108A" title="Carry out manual metal arc welding procedures"/>
+      <unit id="AURV281208A" title="Carry out brazing procedures"/>
+      <unit id="AURV281308A" title="Carry out gas metal arc (MIG) welding procedures"/>
+      <unit id="AURV281408A" title="Carry out gas tungsten arc (TIG) welding procedures"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBPRO401A" title="Develop product knowledge"/>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM05003B" title="Perform soft soldering"/>
+      <unit id="MEM05004C" title="Perform routine oxy acetylene welding"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05017D" title="Weld using gas metal arc welding process"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXCCS002A" title="Interact with customers"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEASS403A" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR30511" title="Certificate III in Marine">
+    <units>
+      <unit id="AURC251179A" title="Write routine texts in the workplace and complete automotive documentation"/>
+      <unit id="AURC251356A" title="Read in the workplace"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC261314A" title="Contribute to quality work outcomes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+    </units>
+  </qualification>
+  <qualification id="AUR30405" title="Certificate III in Automotive Mechanical Technology">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+    </units>
+  </qualification>
+  <qualification id="AUR31105" title="Certificate III in Automotive Warehousing/Distribution Operations">
+    <units>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURC251677A" title="Use numbers in the workplace"/>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270421A" title="Establish relations with customers"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURS238127A" title="Identify and select automotive parts and products"/>
+      <unit id="AURS338103A" title="Apply automotive parts interpretation process"/>
+      <unit id="AURT200108A" title="Carry out servicing operations"/>
+      <unit id="AURT225156A" title="Read and interpret engineering drawings"/>
+      <unit id="AURT225191A" title="Produce drawings from design concepts"/>
+      <unit id="AURT225667A" title="Use and maintain measuring equipment"/>
+      <unit id="AURT366108A" title="Carry out diagnostic procedures"/>
+      <unit id="AURT466208A" title="Carry out diagnosis of complex system faults"/>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="HLTFA301B" title="Apply first aid"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXINV001A" title="Perform stock control procedures"/>
+      <unit id="SIRXINV002A" title="Maintain and order stock"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXRSK003A" title="Apply store security systems and procedures"/>
+      <unit id="TLIA1001A" title="Secure cargo"/>
+      <unit id="TLIA2009A" title="Complete and check import/export documentation"/>
+      <unit id="TLIA2011A" title="Package goods"/>
+      <unit id="TLIA2012A" title="Pick and process orders"/>
+      <unit id="TLIA2013A" title="Receive goods"/>
+      <unit id="TLIA2014A" title="Use product knowledge to complete work operations"/>
+      <unit id="TLIA2020A" title="Replenish stock"/>
+      <unit id="TLIA2021A" title="Despatch stock"/>
+      <unit id="TLIA3015A" title="Complete receival/despatch documentation"/>
+      <unit id="TLIA3017A" title="Identify products and store to specifications"/>
+      <unit id="TLIA3018A" title="Organise despatch operations"/>
+      <unit id="TLIA3019A" title="Organise receival operations"/>
+      <unit id="TLIA3039A" title="Receive and store stock"/>
+      <unit id="TLIA4033A" title="Organise international transport of freight"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIB2008A" title="Carry out inspection of trailers"/>
+      <unit id="TLIB2009A" title="Check conveyor operational status"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLID1001A" title="Shift materials safely using manual handling methods"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="TLID2013A" title="Move materials mechanically using automated equipment"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLID2029A" title="Prepare articles for delivery"/>
+      <unit id="TLID3011A" title="Conduct specialised forklift operations"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIE3002A" title="Estimate/calculate mass, area and quantify dimensions"/>
+      <unit id="TLIE3012A" title="Consolidate manifest documentation"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF2012A" title="Apply safe procedures when handling/transporting dangerous goods or explosives"/>
+      <unit id="TLIJ3005A" title="Sample, inspect and test products to specifications"/>
+      <unit id="TLIK2007A" title="Perform electronic data interchange (EDI) to transmit shipping documentation"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR30308" title="Certificate III in Automotive Electrical Technology">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+    </units>
+  </qualification>
+  <qualification id="AUR30805" title="Certificate III in Automotive Vehicle Body">
+    <units>
+      <unit id="AURC252103A" title="Apply basic automotive troubleshooting processes"/>
+      <unit id="AURC252327A" title="Identify, clarify and resolve problems"/>
+      <unit id="AURC270103A" title="Apply safe working practices"/>
+      <unit id="AURC270688A" title="Work effectively with others"/>
+      <unit id="AURC270789A" title="Communicate effectively in the workplace"/>
+      <unit id="AURC270889A" title="Communicate business information"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURE218664A" title="Remove and replace electrical/electronic units/assemblies"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+    </units>
+  </qualification>
+  <qualification id="AUR40105" title="Certificate IV in Automotive Management">
+    <units>
+      <unit id="AURA354616A" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURA454516A" title="Determine retail rates for work"/>
+      <unit id="AURC341903A" title="Apply relevant finance, leasing and insurance contracts/policies"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC362721A" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURC456633A" title="Investigate and assess automotive insurance claims"/>
+      <unit id="AURC456661A" title="Recover claim losses"/>
+      <unit id="AURC463238B" title="Manage complex customer issues"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURC561614A" title="Contribute to business improvement"/>
+      <unit id="AURS338216A" title="Determine used motor vehicle stock requirements"/>
+      <unit id="AURS342369A" title="Wholesale used motor vehicle stock"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM505A" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSILA502A" title="Evaluate collected information"/>
+      <unit id="FNSILA504A" title="Negotiate and effect settlement"/>
+      <unit id="FNSORG301A" title="Administer fixed asset register"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXMER002A" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+      <unit id="SIRXRSK004A" title="Control store security"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEASS403A" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIL5019A" title="Implement and monitor transport logistics"/>
+      <unit id="TLIP4028A" title="Administer international trading accounts"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR40511" title="Certificate IV in Vehicle Loss Assessing">
+    <units>
+      <unit id="AURA254180A" title="Operate information technology systems"/>
+      <unit id="AURC272003A" title="Apply environmental regulations and best practice in a workplace or business"/>
+      <unit id="AURC463238B" title="Manage complex customer issues"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURT365130A" title="Inspect vehicle systems and determine preferred repair action"/>
+      <unit id="AURVLA4001" title="Identify and report vehicle claim fraud indicators"/>
+      <unit id="AURVNA4001" title="Provide vehicle loss assessment and identify repair requirements"/>
+      <unit id="AURVNA4002" title="Provide vehicle total loss assessment"/>
+      <unit id="AURVNA4003" title="Review a vehicle repair quotation"/>
+      <unit id="AURVNA4004" title="Apply insurance industry knowledge to vehicle loss assessment"/>
+      <unit id="AURVNA4005" title="Inspect quality of vehicle repair work"/>
+      <unit id="AURVNA4006" title="Identify and value vehicle salvage"/>
+      <unit id="AURVNA4007" title="Apply automotive mechanical and electrical knowledge to vehicle loss assessment"/>
+      <unit id="AURVNA4008" title="Apply automotive body and paint knowledge to vehicle loss assessment"/>
+      <unit id="AURVNN4001" title="Evaluate vehicle bodywork for damage and identify repair requirements"/>
+      <unit id="AURVNP4001" title="Evaluate vehicle paintwork for damage and identify refinish requirements"/>
+      <unit id="BSBCCO402A" title="Gather, collate and record information"/>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWRK408A" title="Undertake negotiations"/>
+      <unit id="FNSPIM410A" title="Collect, assess and use information"/>
+      <unit id="PSPTRAN501A" title="Provide specialist vehicle technical advice"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR40305" title="Certificate IV in Motorsport">
+    <units>
+      <unit id="AURC561614A" title="Contribute to business improvement"/>
+      <unit id="AURM441293B" title="Analyse and repair complex performance driveline systems"/>
+      <unit id="AURM441394A" title="Analyse and repair complex performance carburetted fuel systems"/>
+      <unit id="AURM441395A" title="Analyse and repair performance fuel injection systems"/>
+      <unit id="AURM441438B" title="Manage motorsport data acquisition"/>
+      <unit id="AURM441538B" title="Manage personal presentation and development"/>
+      <unit id="AURM441638B" title="Manage the preparation of a competition vehicle"/>
+      <unit id="AURM441749B" title="Prepare competition vehicle suspension"/>
+      <unit id="AURM441868B" title="Select and prepare tyres and wheels for motorsport applications"/>
+      <unit id="AURM441976B" title="Test engines using a dynamometer"/>
+      <unit id="AURM442076B" title="Test suspension dampers using a dynamometer"/>
+      <unit id="AURM542103A" title="Apply aerodynamic and vehicle dynamic principles and effects to competition vehicles"/>
+      <unit id="AURM542216A" title="Determine material suitability for competition vehicle component construction"/>
+      <unit id="AURM542338A" title="Manage motorsport operations"/>
+      <unit id="AURM542438A" title="Manage motorsport team development"/>
+      <unit id="AURM542538A" title="Manage motorsport team media liaison"/>
+      <unit id="AURM542638A" title="Manage motorsport team promotional partnerships and marketing"/>
+      <unit id="AURM542738A" title="Manage team pit lane/service area operations"/>
+      <unit id="AURM542849A" title="Prepare and implement race strategies"/>
+      <unit id="AURT401145A" title="Overhaul engines and associated engine components"/>
+      <unit id="AURT403145B" title="Overhaul petrol fuel system components"/>
+      <unit id="AURT406145A" title="Overhaul clutch assemblies"/>
+      <unit id="AURT406645A" title="Overhaul transmissions (manual)"/>
+      <unit id="AURT407145A" title="Overhaul transmissions (automatic)"/>
+      <unit id="AURT412645A" title="Overhaul final drive assemblies"/>
+      <unit id="AURT415145A" title="Overhaul steering system components"/>
+      <unit id="AURT466208A" title="Carry out diagnosis of complex system faults"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR40405" title="Certificate IV in Automotive Performance Enhancement">
+    <units>
+      <unit id="AURC561614A" title="Contribute to business improvement"/>
+      <unit id="AURM441293B" title="Analyse and repair complex performance driveline systems"/>
+      <unit id="AURM441394A" title="Analyse and repair complex performance carburetted fuel systems"/>
+      <unit id="AURM441395A" title="Analyse and repair performance fuel injection systems"/>
+      <unit id="AURM441438B" title="Manage motorsport data acquisition"/>
+      <unit id="AURM441538B" title="Manage personal presentation and development"/>
+      <unit id="AURM441638B" title="Manage the preparation of a competition vehicle"/>
+      <unit id="AURM441749B" title="Prepare competition vehicle suspension"/>
+      <unit id="AURM441868B" title="Select and prepare tyres and wheels for motorsport applications"/>
+      <unit id="AURM441976B" title="Test engines using a dynamometer"/>
+      <unit id="AURM442076B" title="Test suspension dampers using a dynamometer"/>
+      <unit id="AURM542103A" title="Apply aerodynamic and vehicle dynamic principles and effects to competition vehicles"/>
+      <unit id="AURM542216A" title="Determine material suitability for competition vehicle component construction"/>
+      <unit id="AURM542338A" title="Manage motorsport operations"/>
+      <unit id="AURM542438A" title="Manage motorsport team development"/>
+      <unit id="AURM542538A" title="Manage motorsport team media liaison"/>
+      <unit id="AURM542638A" title="Manage motorsport team promotional partnerships and marketing"/>
+      <unit id="AURM542738A" title="Manage team pit lane/service area operations"/>
+      <unit id="AURM542849A" title="Prepare and implement race strategies"/>
+      <unit id="AURT401145A" title="Overhaul engines and associated engine components"/>
+      <unit id="AURT403145B" title="Overhaul petrol fuel system components"/>
+      <unit id="AURT406145A" title="Overhaul clutch assemblies"/>
+      <unit id="AURT406645A" title="Overhaul transmissions (manual)"/>
+      <unit id="AURT407145A" title="Overhaul transmissions (automatic)"/>
+      <unit id="AURT410145AA" title="Overhaul braking system components (light)"/>
+      <unit id="AURT412645A" title="Overhaul final drive assemblies"/>
+      <unit id="AURT415145A" title="Overhaul steering system components"/>
+      <unit id="AURT466208A" title="Carry out diagnosis of complex system faults"/>
+      <unit id="AURT471782A" title="Plan and manage compliance with environmental regulations in the mechanical repair industry"/>
+      <unit id="AURT477093A" title="Analyse and evaluate gas fuel system faults"/>
+      <unit id="AURT570093A" title="Analyse and evaluate light vehicle steering and suspension system faults"/>
+      <unit id="AURT570193A" title="Analyse and evaluate light vehicle driveline system faults"/>
+      <unit id="AURT570293A" title="Analyse and evaluate light vehicle engine and fuel system faults"/>
+      <unit id="AURT570393A" title="Analyse and evaluate light vehicle braking system faults"/>
+      <unit id="AURT574020A" title="Develop and apply mechanical systems modification"/>
+      <unit id="AURT574120A" title="Develop and apply hydraulic systems modification"/>
+      <unit id="AURT575093A" title="Analyse and evaluate electrical and electronic faults in stability/steering/suspension systems"/>
+      <unit id="AURT575193A" title="Analyse and evaluate electrical and electronic faults in electric over hydraulic systems"/>
+      <unit id="AURT575293A" title="Analyse and evaluate electrical and electronic faults in engine management systems"/>
+      <unit id="AURT575393A" title="Analyse and evaluate electrical and electronic faults in transmission/driveline systems"/>
+      <unit id="AURT575493A" title="Analyse and evaluate electrical and electronic faults in braking systems"/>
+      <unit id="AURT575593A" title="Analyse and evaluate electrical and electronic faults in safety systems"/>
+      <unit id="AURT575693A" title="Analyse and evaluate electrical and electronic faults in monitoring/protection systems"/>
+      <unit id="AURT576520A" title="Develop and apply electrical systems modification"/>
+      <unit id="AURT576620A" title="Develop and apply electronic systems modification"/>
+      <unit id="AURT577120A" title="Develop and apply gas fuel systems modification"/>
+      <unit id="AURT577520A" title="Prepare technical reports"/>
+      <unit id="AURT577620A" title="Develop and document specifications and procedures"/>
+      <unit id="AURT577727B" title="Estimate and calculate costs to repair, maintain or modify a vehicle"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR40208" title="Certificate IV in Automotive Technology">
+    <units>
+      <unit id="AURC359554A" title="Provide technical guidance"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURC465349B" title="Prepare a vehicle repair quotation"/>
+      <unit id="AURE218676A" title="Test, service and charge batteries"/>
+      <unit id="AURE311666A" title="Repair electric braking systems"/>
+      <unit id="AURE318866A" title="Repair electrical systems"/>
+      <unit id="AURE318966A" title="Repair instruments and warning systems"/>
+    </units>
+  </qualification>
+  <qualification id="AUR50105" title="Diploma of Automotive Management">
+    <units>
+      <unit id="AURA354616A" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURA454516A" title="Determine retail rates for work"/>
+      <unit id="AURC341903A" title="Apply relevant finance, leasing and insurance contracts/policies"/>
+      <unit id="AURC359350A" title="Conduct information sessions"/>
+      <unit id="AURC361101A" title="Adapt work processes to new technologies"/>
+      <unit id="AURC361230A" title="Inspect technical quality of work"/>
+      <unit id="AURC361337A" title="Maintain quality systems"/>
+      <unit id="AURC362721A" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURC362807A" title="Build customer relations"/>
+      <unit id="AURC363337A" title="Maintain business image"/>
+      <unit id="AURC365722A" title="Estimate complex jobs"/>
+      <unit id="AURC456633A" title="Investigate and assess automotive insurance claims"/>
+      <unit id="AURC456661A" title="Recover claim losses"/>
+      <unit id="AURC463238B" title="Manage complex customer issues"/>
+      <unit id="AURC472082A" title="Plan and manage compliance with environmental regulations in a workplace or business"/>
+      <unit id="AURC561614A" title="Contribute to business improvement"/>
+      <unit id="AURS338216A" title="Determine used motor vehicle stock requirements"/>
+      <unit id="AURS342369A" title="Wholesale used motor vehicle stock"/>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCRT501A" title="Originate and develop concepts"/>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM505A" title="Manage remuneration and employee benefits"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITA401A" title="Design databases"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBPUR402B" title="Negotiate contracts"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSILA502A" title="Evaluate collected information"/>
+      <unit id="FNSILA504A" title="Negotiate and effect settlement"/>
+      <unit id="FNSORG301A" title="Administer fixed asset register"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXINV005A" title="Control inventory"/>
+      <unit id="SIRXMER002A" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXPRO002A" title="Implement product recalls"/>
+      <unit id="SIRXRSK004A" title="Control store security"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402A" title="Assess competence"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TLIA4005A" title="Check and evaluate records and documentation"/>
+      <unit id="TLIA4031A" title="Consolidate freight"/>
+      <unit id="TLIA4032A" title="Organise transport of freight or goods"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIL5019A" title="Implement and monitor transport logistics"/>
+      <unit id="TLIP4028A" title="Administer international trading accounts"/>
+      <unit id="TLIR4001A" title="Monitor supplier performance"/>
+      <unit id="TLIR4002A" title="Source goods/services and evaluate contractors"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="AUR50305" title="Diploma of Motorsport">
+    <units>
+      <unit id="AURC561614A" title="Contribute to business improvement"/>
+      <unit id="AURM542103A" title="Apply aerodynamic and vehicle dynamic principles and effects to competition vehicles"/>
+      <unit id="AURM542216A" title="Determine material suitability for competition vehicle component construction"/>
+      <unit id="AURM542338A" title="Manage motorsport operations"/>
+      <unit id="AURM542438A" title="Manage motorsport team development"/>
+      <unit id="AURM542538A" title="Manage motorsport team media liaison"/>
+      <unit id="AURM542638A" title="Manage motorsport team promotional partnerships and marketing"/>
+      <unit id="AURM542738A" title="Manage team pit lane/service area operations"/>
+      <unit id="AURM542849A" title="Prepare and implement race strategies"/>
+      <unit id="BSBOHS407A" title="Monitor a safe workplace"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="AUR50205" title="Diploma of Automotive Technology">
+    <units>
+      <unit id="AURT477093A" title="Analyse and evaluate gas fuel system faults"/>
+      <unit id="AURT570093A" title="Analyse and evaluate light vehicle steering and suspension system faults"/>
+      <unit id="AURT570193A" title="Analyse and evaluate light vehicle driveline system faults"/>
+      <unit id="AURT570293A" title="Analyse and evaluate light vehicle engine and fuel system faults"/>
+      <unit id="AURT570393A" title="Analyse and evaluate light vehicle braking system faults"/>
+      <unit id="AURT571093A" title="Analyse and evaluate heavy vehicle steering and suspension system faults"/>
+      <unit id="AURT571193A" title="Analyse and evaluate heavy vehicle transmission system faults"/>
+      <unit id="AURT571293A" title="Analyse and evaluate heavy vehicle engine and fuel system faults"/>
+      <unit id="AURT571393A" title="Analyse and evaluate heavy vehicle braking system faults"/>
+      <unit id="AURT572093A" title="Analyse and evaluate wheeled mobile plant steering and suspension system faults"/>
+      <unit id="AURT572193A" title="Analyse and evaluate wheeled mobile plant transmission system faults"/>
+      <unit id="AURT572293A" title="Analyse and evaluate mobile plant engine and fuel system faults"/>
+      <unit id="AURT572393A" title="Analyse and evaluate tracked mobile plant transmission, steering and braking systems faults"/>
+      <unit id="AURT572493A" title="Analyse and evaluate tracked mobile plant undercarriage and suspension system faults"/>
+      <unit id="AURT572593A" title="Analyse and evaluate wheeled mobile plant braking system faults"/>
+      <unit id="AURT572693A" title="Analyse and evaluate mobile plant hydraulic system faults"/>
+      <unit id="AURT573093A" title="Analyse and evaluate motorcycle steering, suspension and frame system faults"/>
+      <unit id="AURT573193A" title="Analyse and evaluate motorcycle engine and transmission system faults"/>
+      <unit id="AURT573293A" title="Analyse and evaluate motorcycle electrical/electronic system faults"/>
+      <unit id="AURT573393A" title="Analyse and evaluate motorcycle braking system faults"/>
+      <unit id="AURT573593A" title="Analyse and evaluate light marine hydraulic system faults"/>
+      <unit id="AURT573693A" title="Analyse and evaluate light marine transmission system faults"/>
+      <unit id="AURT573793A" title="Analyse and evaluate light marine engine and powerhead system faults"/>
+      <unit id="AURT573893A" title="Analyse and evaluate light marine hull performance and stability system faults"/>
+      <unit id="AURT574020A" title="Develop and apply mechanical systems modification"/>
+      <unit id="AURT574120A" title="Develop and apply hydraulic systems modification"/>
+      <unit id="AURT574220A" title="Develop and apply pneumatic systems modification"/>
+      <unit id="AURT575093A" title="Analyse and evaluate electrical and electronic faults in stability/steering/suspension systems"/>
+      <unit id="AURT575193A" title="Analyse and evaluate electrical and electronic faults in electric over hydraulic systems"/>
+      <unit id="AURT575293A" title="Analyse and evaluate electrical and electronic faults in engine management systems"/>
+      <unit id="AURT575393A" title="Analyse and evaluate electrical and electronic faults in transmission/driveline systems"/>
+      <unit id="AURT575493A" title="Analyse and evaluate electrical and electronic faults in braking systems"/>
+      <unit id="AURT575593A" title="Analyse and evaluate electrical and electronic faults in safety systems"/>
+      <unit id="AURT575693A" title="Analyse and evaluate electrical and electronic faults in monitoring/protection systems"/>
+      <unit id="AURT575893A" title="Analyse and evaluate electrical and electronic faults in convenience and entertainment systems"/>
+      <unit id="AURT575993A" title="Analyse and evaluate electrical and electronic faults in theft deterrent systems"/>
+      <unit id="AURT576093A" title="Analyse and evaluate electrical and electronic faults in electric and hybrid vehicle systems"/>
+      <unit id="AURT576193A" title="Analyse and evaluate electrical and electronic faults in climate control systems"/>
+      <unit id="AURT576520A" title="Develop and apply electrical systems modification"/>
+      <unit id="AURT576620A" title="Develop and apply electronic systems modification"/>
+      <unit id="AURT577120A" title="Develop and apply gas fuel systems modification"/>
+      <unit id="AURT577394A" title="Evaluate and select bodywork materials, equipment and processes"/>
+      <unit id="AURT577520A" title="Prepare technical reports"/>
+      <unit id="AURT577620A" title="Develop and document specifications and procedures"/>
+      <unit id="AURT577727B" title="Estimate and calculate costs to repair, maintain or modify a vehicle"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

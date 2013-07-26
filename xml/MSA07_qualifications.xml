@@ -1,0 +1,1115 @@
+<?xml version="1.0"?>
+<qualifications class="MSA07">
+  <qualification id="MSA10207" title="Certificate I in Process Manufacturing">
+    <units>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOPS100A" title="Use equipment"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS102A" title="Perform tasks to support production"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="PMBHAN103C" title="Shift materials safely by hand"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MSA10107" title="Certificate I in Manufacturing (Pathways)">
+    <units>
+      <unit id="LMFFM1002B" title="Operate basic woodworking machines"/>
+      <unit id="LMFFM2001B" title="Use furniture making sector hand and power tools"/>
+      <unit id="LMFFM2002B" title="Assemble furnishing components"/>
+      <unit id="LMFFM2003B" title="Select and apply hardware"/>
+      <unit id="LMFFM2005B" title="Join solid timber"/>
+      <unit id="LMFSF1001B" title="Produce basic soft furnishing accessories"/>
+      <unit id="LMFSF2001B" title="Cut single layer fabrics"/>
+      <unit id="LMTCL2001B" title="Use a sewing machine"/>
+      <unit id="LMTCL2003B" title="Identify fibres and fabrics"/>
+      <unit id="LMTCL2006B" title="Press work"/>
+      <unit id="LMTCL2007B" title="Lay up, mark and cut uncomplicated fabrics and lays"/>
+      <unit id="LMTCL2008B" title="Finish garment production"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM05007C" title="Perform manual heating and thermal cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAPCI101A" title="Adapt to work in industry"/>
+      <unit id="MSAPCI102A" title="Apply effective work practices"/>
+      <unit id="MSAPCI103A" title="Demonstrate care and apply safe practices at work"/>
+      <unit id="MSAPCII296A" title="Make a small furniture item from timber"/>
+      <unit id="MSAPCII297A" title="Make an object from cloth using an existing pattern"/>
+      <unit id="MSAPCII298A" title="Make an object from metal"/>
+      <unit id="MSAPCII299A" title="Make an object from plastic"/>
+      <unit id="MSAPMOPS100A" title="Use equipment"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS102A" title="Perform tasks to support production"/>
+      <unit id="MSAPMOPS244A" title="Layout and cut materials"/>
+      <unit id="PMBFIN201C" title="Finish products and components"/>
+      <unit id="PMBFIN205C" title="Hand decorate products"/>
+      <unit id="PMBPREP205C" title="Assemble materials and equipment for production"/>
+      <unit id="PMBPREP206C" title="Prepare materials to formulae"/>
+      <unit id="PMBPROD236C" title="Operate hand held air_power equipment for production processes"/>
+      <unit id="PMBPROD240C" title="Cut materials"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA20107" title="Certificate II in Process Manufacturing">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS205A" title="Control minor incidents"/>
+      <unit id="MSAPMOHS210B" title="Undertake first response to non-fire incidents"/>
+      <unit id="MSAPMOHS212A" title="Undertake first response to fire incidents"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="MSAPMOHS217A" title="Gas test atmospheres"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS100A" title="Use equipment"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS102A" title="Perform tasks to support production"/>
+      <unit id="MSAPMOPS200A" title="Operate equipment"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER201A" title="Monitor and control work permits"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP201A" title="Receive or despatch goods"/>
+      <unit id="MSAPMSUP204A" title="Pack products or materials"/>
+      <unit id="MSAPMSUP205A" title="Transfer loads"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP230A" title="Monitor process operations"/>
+      <unit id="MSAPMSUP240A" title="Undertake minor maintenance"/>
+      <unit id="MSAPMSUP273A" title="Handle goods"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSAPMSUP292A" title="Sample and test materials and product"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="PMBHAN103C" title="Shift materials safely by hand"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA20510" title="Certificate II in Recreational Vehicle Service and Repair">
+    <units>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AURETB3001" title="Repair electric braking systems"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURETR2012" title="Test and repair basic electrical circuits"/>
+      <unit id="AURETR2015" title="Inspect and service batteries"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURTTB2001" title="Inspect and service braking systems"/>
+      <unit id="AURTTD2004" title="Inspect and service suspension systems"/>
+      <unit id="AURTTJ2002" title="Remove and refit wheel hubs and associated brake components"/>
+      <unit id="AURTTY3001" title="Repair chassis, frame and associated components"/>
+      <unit id="AURVTG3011" title="Install side windows"/>
+      <unit id="AURVTN2005" title="Remove and fit protector mouldings, transfers and decals"/>
+      <unit id="AURVTP2007" title="Apply paint touch-up techniques"/>
+      <unit id="AURVTS3004" title="Repair fibreglass and composite material components"/>
+      <unit id="AURVTT3015" title="Fabricate canvas products"/>
+      <unit id="AURVTT3016" title="Fabricate frame structures"/>
+      <unit id="AURVTT3019" title="Fabricate and install canopies and curtains"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18038B" title="Maintain wheels and tyres"/>
+      <unit id="MEM18045B" title="Fault find/repair electrical equipment/components up to 250 volts single phase supply"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS202A" title="Repair_service LP gas systems in a recreational vehicle"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVT201A" title="Apply technical knowledge of recreational vehicle manufacturing to work activities"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="UEGNSG604B" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA20208" title="Certificate II in Manufacturing Technology">
+    <units>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPCII295A" title="Operate manufacturing equipment"/>
+      <unit id="MSAPCII296A" title="Make a small furniture item from timber"/>
+      <unit id="MSAPCII297A" title="Make an object from cloth using an existing pattern"/>
+      <unit id="MSAPCII298A" title="Make an object from metal"/>
+      <unit id="MSAPCII299A" title="Make an object from plastic"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402010A" title="Manage the impact of change on own work"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="MSA20610" title="Certificate II in Recreational Vehicle Manufacture">
+    <units>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURVTG3011" title="Install side windows"/>
+      <unit id="AURVTN2005" title="Remove and fit protector mouldings, transfers and decals"/>
+      <unit id="AURVTP2007" title="Apply paint touch-up techniques"/>
+      <unit id="AURVTT3015" title="Fabricate canvas products"/>
+      <unit id="AURVTT3016" title="Fabricate frame structures"/>
+      <unit id="AURVTT3019" title="Fabricate and install canopies and curtains"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM07015B" title="Set computer controlled machines/processes"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM07028B" title="Operate computer controlled machines/processes"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12006C" title="Mark off/out (general engineering)"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS201A" title="Install LP gas systems in a recreational vehicle"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVT201A" title="Apply technical knowledge of recreational vehicle manufacturing to work activities"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="PMBPROD221B" title="Operate rotational moulding equipment"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30208" title="Certificate III in Manufacturing Technology">
+    <units>
+      <unit id="AUM4003A" title="Interpret customer requirements"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="LMTGN4002A" title="Participate in product engineering"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM13004B" title="Work safely with molten metals/glass"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM30005A" title="Calculate force systems within simple beam structures"/>
+      <unit id="MEM30006A" title="Calculate stresses in simple structures"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30008A" title="Apply basic economic and ergonomic concepts to evaluate engineering applications"/>
+      <unit id="MEM30009A" title="Contribute to the design of basic mechanical systems"/>
+      <unit id="MEM30010A" title="Set up basic hydraulic circuits"/>
+      <unit id="MEM30011A" title="Set up basic pneumatic circuits"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MEM30013A" title="Assist in the preparation of a basic workplace layout"/>
+      <unit id="MEM30014A" title="Apply basic just in time systems to the reduction of waste"/>
+      <unit id="MEM30015A" title="Develop recommendations for basic set up time improvements"/>
+      <unit id="MEM30016A" title="Assist in the analysis of a supply chain"/>
+      <unit id="MEM30017A" title="Use basic preventative maintenance techniques and tools"/>
+      <unit id="MEM30018A" title="Undertake basic process planning"/>
+      <unit id="MEM30019A" title="Use resource planning software systems in manufacturing"/>
+      <unit id="MEM30020A" title="Develop and manage a plan for a simple manufacturing related project"/>
+      <unit id="MEM30021A" title="Prepare a simple production schedule"/>
+      <unit id="MEM30022A" title="Undertake supervised procurement activities"/>
+      <unit id="MEM30023A" title="Prepare a simple cost estimate for a manufactured product"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MEM30025A" title="Analyse a simple electrical system circuit"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30032A" title="Produce basic engineering drawings"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSATCM301A" title="Test the mechanical properties of materials"/>
+      <unit id="MSATCM302A" title="Monitor ferrous melting and casting processes"/>
+      <unit id="MSATCM303A" title="Monitor non-ferrous melting and casting processes"/>
+      <unit id="MSATCM304A" title="Interpret basic binary phase diagrams"/>
+      <unit id="MSATCM305A" title="Demonstrate basic knowledge of casting operations"/>
+      <unit id="MSATCS301A" title="Interpret architectural and engineering design specifications for structural steel detailing"/>
+      <unit id="MSATCS302A" title="Detail bolts and welds for structural steelwork connections"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933002A" title="Contribute to the achievement of quality objectives"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL943001A" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL963001A" title="Operate basic handblowing equipment"/>
+      <unit id="MSL963002A" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973005A" title="Assist with fieldwork"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="PMAOPS350B" title="Match and adjust colour"/>
+      <unit id="PMBPREP206C" title="Prepare materials to formulae"/>
+      <unit id="PMBPREP301C" title="Set up and prepare for production"/>
+      <unit id="PMBPREP303C" title="Set up equipment for continuous operation"/>
+      <unit id="PMBPREP304C" title="Set a die"/>
+      <unit id="PMBPROD235C" title="Use materials and process knowledge to complete work operations"/>
+      <unit id="PMBTECH301B" title="Use material and process knowledge to solve problems"/>
+      <unit id="PMBTECH302A" title="Modify existing compounds"/>
+      <unit id="PMBTECH303A" title="Make minor modifications to products"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30610" title="Certificate III in Recreational Vehicle Manufacture">
+    <units>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURVTG3011" title="Install side windows"/>
+      <unit id="AURVTN2005" title="Remove and fit protector mouldings, transfers and decals"/>
+      <unit id="AURVTP2007" title="Apply paint touch-up techniques"/>
+      <unit id="AURVTT3015" title="Fabricate canvas products"/>
+      <unit id="AURVTT3016" title="Fabricate frame structures"/>
+      <unit id="AURVTT3019" title="Fabricate and install canopies and curtains"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM05052A" title="Apply safe welding practices"/>
+      <unit id="MEM07015B" title="Set computer controlled machines/processes"/>
+      <unit id="MEM07024B" title="Operate and monitor machine/process"/>
+      <unit id="MEM07028B" title="Operate computer controlled machines/processes"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12006C" title="Mark off/out (general engineering)"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS201A" title="Install LP gas systems in a recreational vehicle"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVT201A" title="Apply technical knowledge of recreational vehicle manufacturing to work activities"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="PMBPROD221B" title="Operate rotational moulding equipment"/>
+      <unit id="PMBPROD321B" title="Produce rotational moulded products"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30710" title="Certificate III in Recreational Vehicle and Accessories Retailing">
+    <units>
+      <unit id="AUMANA3001" title="Prepare and document quotation"/>
+      <unit id="AURACA2001" title="Establish relations with customers"/>
+      <unit id="AURACA3002" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURACA3003" title="Build customer relations"/>
+      <unit id="AURAMA3004" title="Maintain business image"/>
+      <unit id="AURAMA4005" title="Manage complex customer issues"/>
+      <unit id="AURC341903A" title="Apply relevant finance, leasing and insurance contracts/policies"/>
+      <unit id="AURSAA2001" title="Process customer complaints"/>
+      <unit id="AURSBA3002" title="Apply automotive parts interpretation process"/>
+      <unit id="AURSCA2001" title="Select automotive parts and products"/>
+      <unit id="AURSCA2002" title="Present stock and sales area"/>
+      <unit id="AURSCA2003" title="Apply sales procedures"/>
+      <unit id="AURSCA2004" title="Carry out cash, credit and funds transfers"/>
+      <unit id="AURSCA2005" title="Sell products"/>
+      <unit id="AURSCA2006" title="Promote products and services"/>
+      <unit id="AURSLA2001" title="Apply legal requirements relating to product sale"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR402" title="Create a promotional display or stand"/>
+      <unit id="UEGNSG604B" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30309" title="Certificate III in Surface Preparation and Coating Application">
+    <units>
+      <unit id="MEM07001B" title="Perform operational maintenance of machines/equipment"/>
+      <unit id="MEM08002C" title="Pre-treat work for subsequent surface coating"/>
+      <unit id="MEM08007B" title="Control surface finish production and finished product quality"/>
+      <unit id="MEM08011B" title="Prepare surfaces using solvents and/or mechanical means"/>
+      <unit id="MEM08012B" title="Prepare surfaces by abrasive blasting (basic)"/>
+      <unit id="MEM08013B" title="Prepare surfaces by abrasive blasting (advanced)"/>
+      <unit id="MEM08014B" title="Apply protective coatings (basic)"/>
+      <unit id="MEM08015B" title="Apply protective coatings (advanced)"/>
+      <unit id="MEM08016B" title="Control blast coating by-products, materials and emissions"/>
+      <unit id="MEM11001C" title="Erect/dismantle scaffolding and equipment"/>
+      <unit id="MEM11002C" title="Erect/dismantle complex scaffolding and equipment"/>
+      <unit id="MEM11003B" title="Coordinate erection/dismantling of complex scaffolding/equipment"/>
+      <unit id="MEM11004B" title="Undertake dogging"/>
+      <unit id="MEM11010B" title="Operate mobile load shifting equipment"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM11012B" title="Purchase materials"/>
+      <unit id="MEM11016B" title="Order materials"/>
+      <unit id="MEM11021B" title="Perform advanced operation of load shifting equipment"/>
+      <unit id="MEM11022B" title="Operate fixed/moveable load shifting equipment"/>
+      <unit id="MEM12001B" title="Use comparison and basic measuring devices"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM13001B" title="Perform emergency first aid"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM14005A" title="Plan a complete activity"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15003B" title="Use improvement processes in team activities"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15005B" title="Select and control inspection processes and procedures"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16002C" title="Conduct formal interviews and negotiations"/>
+      <unit id="MEM16005A" title="Operate as a team member to conduct manufacturing, engineering or related activities"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16011A" title="Communicate with individuals and small groups"/>
+      <unit id="MEM16013A" title="Operate in a self-directed team"/>
+      <unit id="MEM17001B" title="Assist in development and deliver training in the workplace"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="MSAPMOHS217A" title="Gas test atmospheres"/>
+      <unit id="MSAPMOPS201A" title="Cut polymer materials"/>
+      <unit id="MSAPMOPS202A" title="Fabricate polymer materials"/>
+      <unit id="MSAPMOPS301A" title="Treat corrosion"/>
+      <unit id="MSAPMOPS363A" title="Organise on site work"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSAPMWJ201A" title="Use high pressure water jetting equipment"/>
+      <unit id="MSAPMWJ301A" title="Operate a high pressure water jetting system"/>
+      <unit id="PMBPROD241C" title="Lay up rubber lining or lag pulleys"/>
+      <unit id="PMBPROD242A" title="Bond polymers to surfaces"/>
+      <unit id="PMBPROD248C" title="Prepare surfaces for coating"/>
+      <unit id="PMBPROD265C" title="Operate portable vulcanising equipment"/>
+      <unit id="PMBPROD323C" title="Produce powder coated products"/>
+      <unit id="PMBPROD375B" title="Vulcanise products using an autoclave"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30107" title="Certificate III in Process Manufacturing">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09204A" title="Produce basic engineering detail drawings"/>
+      <unit id="MEM11005B" title="Pick and process order"/>
+      <unit id="MEM11006B" title="Perform production packaging"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13003B" title="Work safely with industrial chemicals and materials"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM15003B" title="Use improvement processes in team activities"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16007A" title="Work with others in a manufacturing, engineering or related environment"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS100A" title="Follow OHS procedures"/>
+      <unit id="MSAPMOHS110A" title="Follow emergency response procedures"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS205A" title="Control minor incidents"/>
+      <unit id="MSAPMOHS212A" title="Undertake first response to fire incidents"/>
+      <unit id="MSAPMOHS216A" title="Operate breathing apparatus"/>
+      <unit id="MSAPMOHS217A" title="Gas test atmospheres"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOHS300A" title="Facilitate the implementation of OHS for a work group"/>
+      <unit id="MSAPMOPS100A" title="Use equipment"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS102A" title="Perform tasks to support production"/>
+      <unit id="MSAPMOPS200A" title="Operate equipment"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMOPS363A" title="Organise on site work"/>
+      <unit id="MSAPMPER200C" title="Work in accordance with an issued permit"/>
+      <unit id="MSAPMPER201A" title="Monitor and control work permits"/>
+      <unit id="MSAPMPER202A" title="Observe permit work"/>
+      <unit id="MSAPMPER205C" title="Enter confined space"/>
+      <unit id="MSAPMPER300C" title="Issue work permits"/>
+      <unit id="MSAPMPER400A" title="Coordinate permit process"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP172A" title="Identify and minimise environmental hazards"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP201A" title="Receive or despatch goods"/>
+      <unit id="MSAPMSUP204A" title="Pack products or materials"/>
+      <unit id="MSAPMSUP205A" title="Transfer loads"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP230A" title="Monitor process operations"/>
+      <unit id="MSAPMSUP240A" title="Undertake minor maintenance"/>
+      <unit id="MSAPMSUP273A" title="Handle goods"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSAPMSUP292A" title="Sample and test materials and product"/>
+      <unit id="MSAPMSUP300A" title="Identify and implement opportunities to maximise production efficiencies"/>
+      <unit id="MSAPMSUP301A" title="Apply HACCP to the workplace"/>
+      <unit id="MSAPMSUP303A" title="Identify equipment faults"/>
+      <unit id="MSAPMSUP309A" title="Maintain and organise workplace records"/>
+      <unit id="MSAPMSUP310A" title="Contribute to the development of plant documentation"/>
+      <unit id="MSAPMSUP330A" title="Develop and adjust a production schedule"/>
+      <unit id="MSAPMSUP382A" title="Provide coaching_mentoring in the workplace"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="PMBHAN103C" title="Shift materials safely by hand"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA30510" title="Certificate III in Recreational Vehicle Service and Repair">
+    <units>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AURETB3001" title="Repair electric braking systems"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURETR2012" title="Test and repair basic electrical circuits"/>
+      <unit id="AURETR2015" title="Inspect and service batteries"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURTTB2001" title="Inspect and service braking systems"/>
+      <unit id="AURTTD2004" title="Inspect and service suspension systems"/>
+      <unit id="AURTTJ2002" title="Remove and refit wheel hubs and associated brake components"/>
+      <unit id="AURTTY3001" title="Repair chassis, frame and associated components"/>
+      <unit id="AURVTG3011" title="Install side windows"/>
+      <unit id="AURVTN2005" title="Remove and fit protector mouldings, transfers and decals"/>
+      <unit id="AURVTP2007" title="Apply paint touch-up techniques"/>
+      <unit id="AURVTS3004" title="Repair fibreglass and composite material components"/>
+      <unit id="AURVTT3015" title="Fabricate canvas products"/>
+      <unit id="AURVTT3016" title="Fabricate frame structures"/>
+      <unit id="AURVTT3019" title="Fabricate and install canopies and curtains"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18038B" title="Maintain wheels and tyres"/>
+      <unit id="MEM18045B" title="Fault find/repair electrical equipment/components up to 250 volts single phase supply"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS202A" title="Repair_service LP gas systems in a recreational vehicle"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVT201A" title="Apply technical knowledge of recreational vehicle manufacturing to work activities"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="UEGNSG604B" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA40710" title="Certificate IV in Recreational Vehicle and Accessories Retailing">
+    <units>
+      <unit id="AUMANA3001" title="Prepare and document quotation"/>
+      <unit id="AURAAA4002" title="Determine retail rates for work"/>
+      <unit id="AURACA2001" title="Establish relations with customers"/>
+      <unit id="AURACA3002" title="Establish customer requirements of a complex nature"/>
+      <unit id="AURACA3003" title="Build customer relations"/>
+      <unit id="AURAFA2004" title="Solve routine problems in an automotive workplace"/>
+      <unit id="AURAKA3002" title="Adapt work processes to new technologies"/>
+      <unit id="AURAMA3004" title="Maintain business image"/>
+      <unit id="AURAMA4005" title="Manage complex customer issues"/>
+      <unit id="AURAMA5006" title="Contribute to business improvement"/>
+      <unit id="AURANN4001" title="Prepare a vehicle repair quotation"/>
+      <unit id="AURATA3005" title="Estimate complex jobs"/>
+      <unit id="AURC341903A" title="Apply relevant finance, leasing and insurance contracts/policies"/>
+      <unit id="AURSAA2001" title="Process customer complaints"/>
+      <unit id="AURSBA3002" title="Apply automotive parts interpretation process"/>
+      <unit id="AURSCA2001" title="Select automotive parts and products"/>
+      <unit id="AURSCA2002" title="Present stock and sales area"/>
+      <unit id="AURSCA2003" title="Apply sales procedures"/>
+      <unit id="AURSCA2004" title="Carry out cash, credit and funds transfers"/>
+      <unit id="AURSCA2005" title="Sell products"/>
+      <unit id="AURSCA2006" title="Promote products and services"/>
+      <unit id="AURSLA2001" title="Apply legal requirements relating to product sale"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURV365356A" title="Read and interpret vehicle body repair estimation/quotation"/>
+      <unit id="AURVTN4032" title="Determine vehicle damage and recommended repair procedures"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM13010A" title="Supervise occupational health and safety in an industrial work environment."/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM16002C" title="Conduct formal interviews and negotiations"/>
+      <unit id="MEM16003B" title="Provide advanced customer service"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16012A" title="Interpret technical specifications and manuals"/>
+      <unit id="MEM22015A" title="Source and estimate engineering materials requirements"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVS401A" title="Assess and quote to service a recreational vehicle"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="SIRXCCS201" title="Apply point-of-sale handling procedures"/>
+      <unit id="SIRXINV004A" title="Buy merchandise"/>
+      <unit id="SIRXMER004A" title="Manage merchandise and store presentation"/>
+      <unit id="SIRXMER303" title="Coordinate merchandise presentation"/>
+      <unit id="SIRXRSK001A" title="Minimise theft"/>
+      <unit id="SIRXRSK002A" title="Maintain store security"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="SITXMGT501" title="Establish and conduct business relationships"/>
+      <unit id="SITXMPR401" title="Coordinate production of brochures and marketing materials"/>
+      <unit id="SITXMPR402" title="Create a promotional display or stand"/>
+      <unit id="SITXMPR404" title="Coordinate marketing activities"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="UEGNSG604B" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA40510" title="Certificate IV in Recreational Vehicles">
+    <units>
+      <unit id="AUMGTT2001" title="Apply trim to components"/>
+      <unit id="AURAFA2004" title="Solve routine problems in an automotive workplace"/>
+      <unit id="AURAKA3002" title="Adapt work processes to new technologies"/>
+      <unit id="AURAMA5006" title="Contribute to business improvement"/>
+      <unit id="AURANN4001" title="Prepare a vehicle repair quotation"/>
+      <unit id="AURATA3005" title="Estimate complex jobs"/>
+      <unit id="AURETB3001" title="Repair electric braking systems"/>
+      <unit id="AURETR2010" title="Fabricate, test and repair wiring harnesses and looms"/>
+      <unit id="AURETR2012" title="Test and repair basic electrical circuits"/>
+      <unit id="AURETR2015" title="Inspect and service batteries"/>
+      <unit id="AURTTA3017" title="Carry out vehicle safety and roadworthy inspections"/>
+      <unit id="AURTTB2001" title="Inspect and service braking systems"/>
+      <unit id="AURTTD2004" title="Inspect and service suspension systems"/>
+      <unit id="AURTTJ2002" title="Remove and refit wheel hubs and associated brake components"/>
+      <unit id="AURTTY3001" title="Repair chassis, frame and associated components"/>
+      <unit id="AURV365356A" title="Read and interpret vehicle body repair estimation/quotation"/>
+      <unit id="AURVTG3011" title="Install side windows"/>
+      <unit id="AURVTN2005" title="Remove and fit protector mouldings, transfers and decals"/>
+      <unit id="AURVTN4032" title="Determine vehicle damage and recommended repair procedures"/>
+      <unit id="AURVTP2007" title="Apply paint touch-up techniques"/>
+      <unit id="AURVTS3004" title="Repair fibreglass and composite material components"/>
+      <unit id="AURVTT3015" title="Fabricate canvas products"/>
+      <unit id="AURVTT3016" title="Fabricate frame structures"/>
+      <unit id="AURVTT3019" title="Fabricate and install canopies and curtains"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM05005B" title="Carry out mechanical cutting"/>
+      <unit id="MEM05012C" title="Perform routine manual metal arc welding"/>
+      <unit id="MEM05050B" title="Perform routine gas metal arc welding"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM10002B" title="Terminate and connect electrical wiring"/>
+      <unit id="MEM11011B" title="Undertake manual handling"/>
+      <unit id="MEM12002B" title="Perform electrical/electronic measurement"/>
+      <unit id="MEM12023A" title="Perform engineering measurements"/>
+      <unit id="MEM13002B" title="Undertake occupational health and safety activities in the workplace"/>
+      <unit id="MEM13010A" title="Supervise occupational health and safety in an industrial work environment."/>
+      <unit id="MEM14001B" title="Schedule material deliveries"/>
+      <unit id="MEM14002B" title="Undertake basic process planning"/>
+      <unit id="MEM14003B" title="Undertake basic production scheduling"/>
+      <unit id="MEM14004A" title="Plan to undertake a routine task"/>
+      <unit id="MEM15002A" title="Apply quality systems"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15005B" title="Select and control inspection processes and procedures"/>
+      <unit id="MEM15024A" title="Apply quality procedures"/>
+      <unit id="MEM16002C" title="Conduct formal interviews and negotiations"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16012A" title="Interpret technical specifications and manuals"/>
+      <unit id="MEM18001C" title="Use hand tools"/>
+      <unit id="MEM18002B" title="Use power tools/hand held operations"/>
+      <unit id="MEM18038B" title="Maintain wheels and tyres"/>
+      <unit id="MEM18045B" title="Fault find/repair electrical equipment/components up to 250 volts single phase supply"/>
+      <unit id="MEM22015A" title="Source and estimate engineering materials requirements"/>
+      <unit id="MEM30013A" title="Assist in the preparation of a basic workplace layout"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMOHS220A" title="Provide initial First Aid response"/>
+      <unit id="MSAPMOPS101A" title="Make measurements"/>
+      <unit id="MSAPMOPS212A" title="Use organisation computers or data systems"/>
+      <unit id="MSAPMSUP100A" title="Apply workplace procedures"/>
+      <unit id="MSAPMSUP101A" title="Clean workplace or equipment"/>
+      <unit id="MSAPMSUP102A" title="Communicate in the workplace"/>
+      <unit id="MSAPMSUP106A" title="Work in a team"/>
+      <unit id="MSAPMSUP200A" title="Achieve work outcomes"/>
+      <unit id="MSAPMSUP280A" title="Manage conflict at work"/>
+      <unit id="MSAPMSUP291A" title="Participate in continuous improvement"/>
+      <unit id="MSAPMSUP383A" title="Facilitate a team"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSARVG201A" title="Tow a recreational vehicle safely"/>
+      <unit id="MSARVS202A" title="Repair_service LP gas systems in a recreational vehicle"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSARVS401A" title="Assess and quote to service a recreational vehicle"/>
+      <unit id="MSARVT201A" title="Apply technical knowledge of recreational vehicle manufacturing to work activities"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402021A" title="Apply Just in Time procedures"/>
+      <unit id="MSS402040A" title="Apply 5S procedures"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS402081A" title="Contribute to the application of a proactive maintenance strategy"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403011A" title="Facilitate implementation of competitive systems and practices"/>
+      <unit id="MSS403021A" title="Facilitate a Just in Time system"/>
+      <unit id="MSS403040A" title="Facilitate and improve implementation of 5S"/>
+      <unit id="MSS403041A" title="Facilitate breakthrough improvements"/>
+      <unit id="MSS403051A" title="Mistake proof an operational process"/>
+      <unit id="MSS404082A" title="Assist in implementing a proactive maintenance strategy"/>
+      <unit id="PMBPROD221B" title="Operate rotational moulding equipment"/>
+      <unit id="PMBPROD321B" title="Produce rotational moulded products"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+      <unit id="SIRXSLS002A" title="Advise on products and services"/>
+      <unit id="TAEASS401B" title="Plan assessment activities and processes"/>
+      <unit id="TAEASS402B" title="Assess competence"/>
+      <unit id="TAEASS403B" title="Participate in assessment validation"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TLID2010A" title="Operate a forklift"/>
+      <unit id="UEGNSG604B" title="Fill gas cylinders"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA40108" title="Certificate IV in Manufacturing Technology">
+    <units>
+      <unit id="AUM4003A" title="Interpret customer requirements"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="LMTGN4002A" title="Participate in product engineering"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="MEM12024A" title="Perform computations"/>
+      <unit id="MEM15001B" title="Perform basic statistical quality control"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM30005A" title="Calculate force systems within simple beam structures"/>
+      <unit id="MEM30006A" title="Calculate stresses in simple structures"/>
+      <unit id="MEM30007A" title="Select common engineering materials"/>
+      <unit id="MEM30008A" title="Apply basic economic and ergonomic concepts to evaluate engineering applications"/>
+      <unit id="MEM30009A" title="Contribute to the design of basic mechanical systems"/>
+      <unit id="MEM30010A" title="Set up basic hydraulic circuits"/>
+      <unit id="MEM30011A" title="Set up basic pneumatic circuits"/>
+      <unit id="MEM30012A" title="Apply mathematical techniques in a manufacturing engineering or related environment"/>
+      <unit id="MEM30013A" title="Assist in the preparation of a basic workplace layout"/>
+      <unit id="MEM30014A" title="Apply basic just in time systems to the reduction of waste"/>
+      <unit id="MEM30015A" title="Develop recommendations for basic set up time improvements"/>
+      <unit id="MEM30016A" title="Assist in the analysis of a supply chain"/>
+      <unit id="MEM30017A" title="Use basic preventative maintenance techniques and tools"/>
+      <unit id="MEM30018A" title="Undertake basic process planning"/>
+      <unit id="MEM30019A" title="Use resource planning software systems in manufacturing"/>
+      <unit id="MEM30020A" title="Develop and manage a plan for a simple manufacturing related project"/>
+      <unit id="MEM30021A" title="Prepare a simple production schedule"/>
+      <unit id="MEM30022A" title="Undertake supervised procurement activities"/>
+      <unit id="MEM30023A" title="Prepare a simple cost estimate for a manufactured product"/>
+      <unit id="MEM30024A" title="Participate in quality assurance techniques"/>
+      <unit id="MEM30025A" title="Analyse a simple electrical system circuit"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MEM30032A" title="Produce basic engineering drawings"/>
+      <unit id="MEM30033A" title="Use computer-aided design (CAD) to create and display 3-D models"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSL913001A" title="Communicate with other people"/>
+      <unit id="MSL913002A" title="Plan and conduct laboratory_field work"/>
+      <unit id="MSL922001A" title="Record and present data"/>
+      <unit id="MSL933001A" title="Maintain the laboratory_field workplace fit for purpose"/>
+      <unit id="MSL933002A" title="Contribute to the achievement of quality objectives"/>
+      <unit id="MSL933003A" title="Apply critical control point requirements"/>
+      <unit id="MSL934001A" title="Contribute to the ongoing development of HACCP plans"/>
+      <unit id="MSL934002A" title="Apply quality system and continuous improvement processes"/>
+      <unit id="MSL943001A" title="Work safely with instruments that emit ionising radiation"/>
+      <unit id="MSL943002A" title="Participate in laboratory_field workplace safety"/>
+      <unit id="MSL952001A" title="Collect routine site samples"/>
+      <unit id="MSL952002A" title="Handle and transport samples or equipment"/>
+      <unit id="MSL953001A" title="Receive and prepare samples for testing"/>
+      <unit id="MSL954001A" title="Obtain representative samples in accordance with sampling plan"/>
+      <unit id="MSL963001A" title="Operate basic handblowing equipment"/>
+      <unit id="MSL963002A" title="Repair glass apparatus using simple glassblowing equipment"/>
+      <unit id="MSL973001A" title="Perform basic tests"/>
+      <unit id="MSL973002A" title="Prepare working solutions"/>
+      <unit id="MSL973003A" title="Prepare culture media"/>
+      <unit id="MSL973004A" title="Perform aseptic techniques"/>
+      <unit id="MSL973005A" title="Assist with fieldwork"/>
+      <unit id="MSL973006A" title="Prepare trial batches for evaluation"/>
+      <unit id="MSL973007A" title="Perform microscopic examination"/>
+      <unit id="MSL973012A" title="Assist with geotechnical site investigations"/>
+      <unit id="MSL974001A" title="Prepare, standardise and use solutions"/>
+      <unit id="MSL974002A" title="Conduct geotechnical site investigations"/>
+      <unit id="MSL974003A" title="Perform chemical tests and procedures"/>
+      <unit id="MSS402001A" title="Apply competitive systems and practices"/>
+      <unit id="MSS402002A" title="Sustain process improvements"/>
+      <unit id="MSS402020A" title="Apply quick changeover procedures"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS402031A" title="Interpret product costs in terms of customer requirements"/>
+      <unit id="MSS402050A" title="Monitor process capability"/>
+      <unit id="MSS402051A" title="Apply quality standards"/>
+      <unit id="MSS402060A" title="Use planning software systems in operations"/>
+      <unit id="MSS402061A" title="Use SCADA systems in operations"/>
+      <unit id="MSS402080A" title="Undertake root cause analysis"/>
+      <unit id="MSS403002A" title="Ensure process improvements are sustained"/>
+      <unit id="MSS403030A" title="Improve cost factors in work practices"/>
+      <unit id="MSS403032A" title="Analyse manual handling processes"/>
+      <unit id="PMBPREP301C" title="Set up and prepare for production"/>
+      <unit id="PMBPREP303C" title="Set up equipment for continuous operation"/>
+      <unit id="UEPMNT420A" title="Perform Electrical/Electronic Drafting"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA40311" title="Certificate IV in Process Manufacturing">
+    <units>
+      <unit id="FPICOT2206B" title="Cross cut materials with a hand-held chainsaw"/>
+      <unit id="LMTGN2008B" title="Coordinate work of team or section"/>
+      <unit id="MEM03001B" title="Perform manual production assembly"/>
+      <unit id="MEM03003B" title="Perform sheet and plate assembly"/>
+      <unit id="MEM03004B" title="Perform electronic/electrical assembly (production)"/>
+      <unit id="MEM03006B" title="Set assembly stations"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09204A" title="Produce basic engineering detail drawings"/>
+      <unit id="MEM11005B" title="Pick and process order"/>
+      <unit id="MEM11006B" title="Perform production packaging"/>
+    </units>
+  </qualification>
+  <qualification id="MSA50108" title="Diploma of Manufacturing Technology">
+    <units>
+      <unit id="AUM4003A" title="Interpret customer requirements"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="MEM05051A" title="Select welding processes"/>
+      <unit id="MEM06003C" title="Carry out heat treatment"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09005B" title="Perform basic engineering detail drafting"/>
+      <unit id="MEM09006B" title="Perform advanced engineering detail drafting"/>
+      <unit id="MEM09009C" title="Create 2D drawings using computer aided design system"/>
+      <unit id="MEM09011B" title="Apply basic engineering design concepts"/>
+    </units>
+  </qualification>
+  <qualification id="MSA50510" title="Diploma of Recreational Vehicles">
+    <units>
+      <unit id="AUMFTA3001" title="Document designs"/>
+      <unit id="AURAFA5007" title="Develop and document specifications and procedures"/>
+      <unit id="AURALA3001" title="Determine legal aspects of an automotive service and repair contract"/>
+      <unit id="AURAMA5006" title="Contribute to business improvement"/>
+      <unit id="AURTNA5001" title="Estimate and calculate costs to repair, maintain or modify a vehicle"/>
+      <unit id="AURV365356A" title="Read and interpret vehicle body repair estimation/quotation"/>
+      <unit id="AURVTN4032" title="Determine vehicle damage and recommended repair procedures"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09009C" title="Create 2D drawings using computer aided design system"/>
+      <unit id="MEM09204A" title="Produce basic engineering detail drawings"/>
+      <unit id="MEM09210A" title="Create 3-D solid models using computer-aided design (CAD) system"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM11012B" title="Purchase materials"/>
+      <unit id="MEM11017B" title="Organise and lead stocktakes"/>
+      <unit id="MEM14001B" title="Schedule material deliveries"/>
+      <unit id="MEM15004B" title="Perform inspection"/>
+      <unit id="MEM15005B" title="Select and control inspection processes and procedures"/>
+      <unit id="MEM16006A" title="Organise and communicate information"/>
+      <unit id="MEM16008A" title="Interact with computing technology"/>
+      <unit id="MEM16009A" title="Research and analyse engineering information"/>
+      <unit id="MEM16012A" title="Interpret technical specifications and manuals"/>
+      <unit id="MEM30031A" title="Operate computer-aided design (CAD) system to produce basic drawing elements"/>
+      <unit id="MSAENV272B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAPMOHS200A" title="Work safely"/>
+      <unit id="MSAPMSUP210A" title="Process and record information"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSARVS301A" title="Develop and update caravan industry knowledge"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="PSPGOV408A" title="Value diversity"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA50311" title="Diploma of Production Management">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBWRK510A" title="Manage employee relations"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+      <unit id="MEM11007B" title="Administer inventory procedures"/>
+      <unit id="MEM14001B" title="Schedule material deliveries"/>
+      <unit id="MSAENV472B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="MSAENV672B" title="Develop workplace policy and procedures for environmental sustainability"/>
+      <unit id="MSAPMOHS401A" title="Assess risk"/>
+      <unit id="MSAPMOHS503A" title="Maintain the workplace OHS management system"/>
+      <unit id="MSAPMOHS510A" title="Manage risk"/>
+      <unit id="MSAPMOPS401A" title="Trial new process or product"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="MSAPMSUP400A" title="Develop and monitor quality systems"/>
+      <unit id="MSS015002A" title="Develop strategies for more sustainable use of resources"/>
+      <unit id="MSS015015A" title="Evaluate sustainability impact of a process"/>
+      <unit id="MSS402030A" title="Apply cost factors to work practices"/>
+      <unit id="MSS404052A" title="Apply statistics to operational processes"/>
+      <unit id="MSS405022A" title="Design a process layout"/>
+      <unit id="MSS405030A" title="Optimise cost of a product or service"/>
+      <unit id="MSS405031A" title="Undertake value analysis of product or process costs in terms of customer requirements"/>
+      <unit id="MSS405032A" title="Analyse cost implications of maintenance strategy"/>
+      <unit id="MSS405041A" title="Implement improvement systems in an organisation"/>
+      <unit id="MSS405050A" title="Determine and improve process capability"/>
+      <unit id="MSS405053A" title="Manage application of six sigma for process control and improvement"/>
+      <unit id="MSS405060A" title="Develop the application of enterprise control systems in an organisation"/>
+      <unit id="MSS405061A" title="Determine and establish information collection requirements and processes"/>
+      <unit id="MSS405070A" title="Develop and manage sustainable energy practices"/>
+      <unit id="MSS405075A" title="Facilitate the development of a new product"/>
+      <unit id="MSS405081A" title="Develop a proactive maintenance strategy"/>
+      <unit id="MSS405082A" title="Adapt a proactive maintenance strategy to the process operations sector"/>
+      <unit id="PMASUP520B" title="Review procedures to minimise environmental impact of process"/>
+      <unit id="PSPPM501B" title="Design complex projects"/>
+      <unit id="PSPPM502B" title="Manage complex projects"/>
+      <unit id="PSPPM503B" title="Close complex projects"/>
+      <unit id="TLIA5058A" title="Manage facility and inventory requirements"/>
+      <unit id="TLIL4059A" title="Implement asset management systems"/>
+      <unit id="TLIL5055A" title="Manage a supply chain"/>
+      <unit id="TLIP4013A" title="Implement and monitor logistics planning and process"/>
+      <unit id="TLIR4003A" title="Negotiate a contract"/>
+      <unit id="TLIR4008A" title="Implement and supervise stocktaking procedures"/>
+      <unit id="TLIR4009A" title="Implement purchasing systems"/>
+      <unit id="TLIR4010A" title="Plan purchasing"/>
+      <unit id="TLIR5005A" title="Manage a contract"/>
+      <unit id="TLIR5006A" title="Develop, implement and review purchasing strategies"/>
+      <unit id="TLIX5015A" title="Establish supply chains"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="MSA60108" title="Advanced Diploma of Manufacturing Technology">
+    <units>
+      <unit id="AUM4003A" title="Interpret customer requirements"/>
+      <unit id="FDFOP2005A" title="Work in a socially diverse environment"/>
+      <unit id="LMTGN4016A" title="Contribute to the development of products or processes"/>
+      <unit id="LMTGN5004A" title="Manage installation and commissioning of equipment and systems"/>
+      <unit id="MEM06003C" title="Carry out heat treatment"/>
+      <unit id="MEM09002B" title="Interpret technical drawing"/>
+      <unit id="MEM09005B" title="Perform basic engineering detail drafting"/>
+      <unit id="MEM09155A" title="Prepare mechanical models for computer-aided engineering (CAE)"/>
+      <unit id="MEM09156A" title="Prepare mechatronic models for computer-aided engineering (CAE)"/>
+      <unit id="MEM09157A" title="Perform mechanical engineering design drafting"/>
+    </units>
+  </qualification>
+</qualifications>

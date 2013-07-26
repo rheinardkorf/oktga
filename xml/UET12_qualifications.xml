@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<qualifications class="UET12">
+  <qualification id="UET20511" title="Certificate II in National Broadband Network Cabling (Electricity Supply Industry Assets)">
+    <units>
+      <unit id="CPCCCM2007B" title="Use explosive power tools"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="ICTCBL2065A" title="Splice and terminate optical fibre cable for carriers and service providers"/>
+      <unit id="ICTCBL2068A" title="Install a telecommunications service to a building"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="RIIOHS204A" title="Work safely at heights"/>
+      <unit id="RIIOHS205A" title="Control traffic with stop-slow bat"/>
+      <unit id="TLID3035A" title="Operate a boom type elevating work platform"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC008B" title="Receive and store materials and equipment for electrotechnology work"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE103A" title="Solve problems in ELV single path circuits"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEE151A" title="Transport apparatus, equipment and materials"/>
+      <unit id="UEENEEF106A" title="Solve problems in voice and data communications circuits"/>
+      <unit id="UEENEEF107A" title="Set up and configure the wireless capabilities of communications and data storage devices"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL14A" title="Working safely near live electrical apparatus as a non-electrical worker"/>
+      <unit id="UETTDRIS81A" title="Install telecommunications infrastructure on electricity supply industry assets"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET20412" title="Certificate II in Transmission Structure and Line Assembly">
+    <units>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="HLTCPR211A" title="Perform CPR"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UETTDREL13A" title="Comply with sustainability, environmental and incidental response policies and procedures"/>
+      <unit id="UETTDRTP22A" title="Establish and reinstate a power systems transmission structure work site"/>
+      <unit id="UETTDRTP23A" title="Erect power systems transmission structures"/>
+      <unit id="UETTDRTP24A" title="Erect power systems transmission structure hardware"/>
+      <unit id="UETTDRTP25A" title="Pre-tension stringing overhead transmission conductors and cables"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET20612" title="Certificate II in ESI - Asset Inspection">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="MEM16012A" title="Interpret technical specifications and manuals"/>
+      <unit id="MEM17003A" title="Assist in the provision of on the job training"/>
+      <unit id="UEENEEC001B" title="Maintain documentation"/>
+      <unit id="UEENEEC010B" title="Deliver a service to customers"/>
+      <unit id="UEENEED101A" title="Use computer applications relevant to a workplace"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UETTDREL13A" title="Comply with sustainability, environmental and incidental response policies and procedures"/>
+      <unit id="UETTDREL14A" title="Working safely near live electrical apparatus as a non-electrical worker"/>
+      <unit id="UETTDREL17A" title="Operate asset inspection machinery and equipment near live electrical apparatus"/>
+      <unit id="UETTDREL18A" title="Inspect and treat poles and inspect electrical apparatus"/>
+      <unit id="UETTDREL19A" title="Identify and interpret characteristics of electrical apparatus associated with power industry assets"/>
+      <unit id="UETTDREL20A" title="Undertake minor vegetation control and routine minor maintenance of poles and electrical apparatus"/>
+      <unit id="UETTDREL21A" title="Operate specialised data information equipment near live electrical apparatus"/>
+      <unit id="UETTDRVC23A" title="Plan the removal of vegetation up to vegetation exclusion zone near live electrical apparatus"/>
+      <unit id="UETTDRVC27A" title="Monitor safety compliance of vegetation control work in an ESI environment"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET20312" title="Certificate II in ESI - Powerline Vegetation Control">
+    <units>
+      <unit id="AHCARB202A" title="Fell small trees"/>
+      <unit id="AHCARB204A" title="Undertake standard climbing techniques"/>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="AHCCHM201A" title="Apply chemicals under supervision"/>
+      <unit id="AHCMOM304A" title="Operate machinery and equipment"/>
+      <unit id="AHCPCM201A" title="Recognise plants"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UETTDREL13A" title="Comply with sustainability, environmental and incidental response policies and procedures"/>
+      <unit id="UETTDREL14A" title="Working safely near live electrical apparatus as a non-electrical worker"/>
+      <unit id="UETTDRVC21A" title="Use climbing techniques to cut vegetation above ground near live electrical apparatus"/>
+      <unit id="UETTDRVC23A" title="Plan the removal of vegetation up to vegetation exclusion zone near live electrical apparatus"/>
+      <unit id="UETTDRVC24A" title="Assess vegetation and recommend control measures in an ESI environment"/>
+      <unit id="UETTDRVC25A" title="Use elevated platform to cut vegetation above ground level near live electrical apparatus"/>
+      <unit id="UETTDRVC26A" title="Cut vegetation at ground level near live electrical apparatus"/>
+      <unit id="UETTDRVC27A" title="Monitor safety compliance of vegetation control work in an ESI environment"/>
+      <unit id="UETTDRVC31A" title="Operate specialist equipment at ground level near live electrical apparatus"/>
+      <unit id="UETTDRVC32A" title="Use specialised plant to cut vegetation above ground level near live electrical apparatus"/>
+      <unit id="UETTDRVC33A" title="Apply pruning techniques to vegetation control near live electrical apparatus"/>
+      <unit id="UETTDRVC34A" title="Undertake release and rescue from a tree near live electrical apparatus"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="UET30812" title="Certificate III in ESI - Power Systems - Distribution Cable Jointing">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3003A" title="Licence to operate a bridge and gantry crane"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UETTDRCJ21A" title="Lay ESI electrical cables"/>
+      <unit id="UETTDRCJ22A" title="Install and maintain de-energised low voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ23A" title="Install and maintain de-energised high voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ24A" title="Joint and maintain energised low voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ25A" title="Perform straight through high voltage paper insulated to polymeric transition joint"/>
+      <unit id="UETTDRCJ26A" title="Install and maintain de-energised low voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ27A" title="Install and maintain de-energised high voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ28A" title="Joint and maintain energised low voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ99A" title="Test and verify distribution cable jointing installations"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS41A" title="Install network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS42A" title="Maintain network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS43A" title="Perform low voltage field switching operation to a given schedule"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS53A" title="Install and maintain power system public lighting"/>
+      <unit id="UETTDRIS55A" title="Install and maintain low voltage underground services"/>
+      <unit id="UETTDRIS56A" title="Install and maintain low voltage overhead services"/>
+      <unit id="UETTDRIS57A" title="Conduct visual checking and treatment of power system poles and structures"/>
+      <unit id="UETTDRIS58A" title="Locate faults in power system underground power cables"/>
+      <unit id="UETTDRIS59A" title="Conduct high potential testing of power system underground power cables"/>
+      <unit id="UETTDRIS60A" title="Install and replace power system energy meters and associated equipment"/>
+      <unit id="UETTDRIS61A" title="Install mobile generation set for synchronised LV Genset"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET30512" title="Certificate III in ESI - Power Systems - Transmission Overhead">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3003A" title="Licence to operate a bridge and gantry crane"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE108A" title="Lay wiring_cabling and terminate accessories for extra-low voltage (ELV) circuits"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDRDP12A" title="Maintain overhead energised low voltage conductors and cables"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS41A" title="Install network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS42A" title="Maintain network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS43A" title="Perform low voltage field switching operation to a given schedule"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS52A" title="Install and maintain poles, structures and associated hardware"/>
+      <unit id="UETTDRIS53A" title="Install and maintain power system public lighting"/>
+      <unit id="UETTDRIS54A" title="Install and maintain poles, structures and overhead conductors and cables"/>
+      <unit id="UETTDRIS56A" title="Install and maintain low voltage overhead services"/>
+      <unit id="UETTDRIS57A" title="Conduct visual checking and treatment of power system poles and structures"/>
+      <unit id="UETTDRIS61A" title="Install mobile generation set for synchronised LV Genset"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRTP26A" title="Install transmission structures and associated hardware"/>
+      <unit id="UETTDRTP27A" title="Maintain transmission structures and associated hardware"/>
+      <unit id="UETTDRTP29A" title="Install and maintain transmission overhead conductors and cables"/>
+      <unit id="UETTDRTP30A" title="Inspect transmission overhead structures and electrical apparatus"/>
+      <unit id="UETTDRTP99A" title="Test and verify transmission overhead installations"/>
+      <unit id="UETTDRVC29A" title="Control vegetation whilst performing linework"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET30912" title="Certificate III in ESI - Remote Community Utilities Worker">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="NWP218B" title="Perform and record sampling"/>
+      <unit id="NWP261A" title="Operate and maintain water treatment plant and equipment"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE103A" title="Solve problems in ELV single path circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE131A" title="Solve problems in ELV circuits for non electrical workers"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEK101A" title="Maintain safety and tidiness of remote area power supply systems"/>
+      <unit id="UEENEEK102A" title="Work safely with remote area power supply systems"/>
+      <unit id="UEENEEK103A" title="Conduct periodic maintenance of remote area power supply battery banks"/>
+      <unit id="UEENEEK104A" title="Conduct periodic maintenance of remote area power supply generator sets"/>
+      <unit id="UEENEEK105A" title="Conduct periodic maintenance of remote area power supply photo voltaic arrays"/>
+      <unit id="UEENEEK106A" title="Conduct periodic maintenance of remote area power supply wind generators"/>
+      <unit id="UEENEEK116A" title="Maintain and repair remote area power generation facilities"/>
+      <unit id="UEENEEK120A" title="Maintain operation of remote area power generation plant"/>
+      <unit id="UEENEEP024A" title="Attach cords and plugs to electrical equipment for connection to a single phase 230 Volt supply"/>
+      <unit id="UEENEEP026A" title="Conduct in-service safety testing of electrical cord connected equipment and cord assemblies"/>
+      <unit id="UETTDRCJ21A" title="Lay ESI electrical cables"/>
+      <unit id="UETTDRCJ26A" title="Install and maintain de-energised low voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ27A" title="Install and maintain de-energised high voltage underground polymeric cables"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS32A" title="Solve electrical problems in remote community network apparatus"/>
+      <unit id="UETTDRIS33A" title="Solve electrical problems in remote community network systems"/>
+      <unit id="UETTDRIS34A" title="Install and replace energy meters and associated equipment in remote communities"/>
+      <unit id="UETTDRIS35A" title="Perform remote community network field switching to a given schedule"/>
+      <unit id="UETTDRIS36A" title="Install and maintain low voltage services in remote communities (overhead)"/>
+      <unit id="UETTDRIS37A" title="Install and maintain low voltage services in remote communities (underground)"/>
+      <unit id="UETTDRIS38A" title="Install and maintain public lighting systems in remote communities"/>
+      <unit id="UETTDRIS52A" title="Install and maintain poles, structures and associated hardware"/>
+      <unit id="UETTDRIS54A" title="Install and maintain poles, structures and overhead conductors and cables"/>
+      <unit id="UETTDRIS99A" title="Test and Verify Distribution Remote Area Installations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET30612" title="Certificate III in ESI - Power Systems - Distribution Overhead">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3003A" title="Licence to operate a bridge and gantry crane"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE108A" title="Lay wiring_cabling and terminate accessories for extra-low voltage (ELV) circuits"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDRDP12A" title="Maintain overhead energised low voltage conductors and cables"/>
+      <unit id="UETTDRDP99A" title="Test and verify distribution overhead installations"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS41A" title="Install network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS42A" title="Maintain network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS43A" title="Perform low voltage field switching operation to a given schedule"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS52A" title="Install and maintain poles, structures and associated hardware"/>
+      <unit id="UETTDRIS53A" title="Install and maintain power system public lighting"/>
+      <unit id="UETTDRIS54A" title="Install and maintain poles, structures and overhead conductors and cables"/>
+      <unit id="UETTDRIS56A" title="Install and maintain low voltage overhead services"/>
+      <unit id="UETTDRIS57A" title="Conduct visual checking and treatment of power system poles and structures"/>
+      <unit id="UETTDRIS60A" title="Install and replace power system energy meters and associated equipment"/>
+      <unit id="UETTDRIS61A" title="Install mobile generation set for synchronised LV Genset"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRVC29A" title="Control vegetation whilst performing linework"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET30712" title="Certificate III in ESI - Power Systems - Rail Traction">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLHS3001A" title="Licence to operate a personnel and materials hoist"/>
+      <unit id="CPCCLHS3002A" title="Licence to operate a materials hoist"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="CPCCLRG3002A" title="Licence to perform rigging intermediate level"/>
+      <unit id="CPCCLSF2001A" title="Licence to erect, alter and dismantle scaffolding basic level"/>
+      <unit id="CPCCLSF3001A" title="Licence to erect, alter  and dismantle scaffolding intermediate level"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLILIC0012A" title="Licence to operate a vehicle loading crane (capacity 10 metre tonnes and above)"/>
+      <unit id="TLILIC2001A" title="Licence to operate a forklift truck"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="TLILIC3003A" title="Licence to operate a bridge and gantry crane"/>
+      <unit id="TLILIC3008A" title="Licence to operate a slewing mobile crane (up to 20 tonnes)"/>
+      <unit id="TLILIC4009A" title="Licence to operate a slewing mobile crane (up to 60 tonnes)"/>
+      <unit id="TLILIC4011A" title="Licence to operate a slewing mobile crane (over 100 tonnes)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE108A" title="Lay wiring_cabling and terminate accessories for extra-low voltage (ELV) circuits"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDRDP12A" title="Maintain overhead energised low voltage conductors and cables"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS41A" title="Install network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS42A" title="Maintain network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS43A" title="Perform low voltage field switching operation to a given schedule"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS52A" title="Install and maintain poles, structures and associated hardware"/>
+      <unit id="UETTDRIS54A" title="Install and maintain poles, structures and overhead conductors and cables"/>
+      <unit id="UETTDRIS57A" title="Conduct visual checking and treatment of power system poles and structures"/>
+      <unit id="UETTDRIS61A" title="Install mobile generation set for synchronised LV Genset"/>
+      <unit id="UETTDRRT21A" title="Install traction overhead wiring systems"/>
+      <unit id="UETTDRRT22A" title="Maintain traction overhead wiring systems"/>
+      <unit id="UETTDRRT23A" title="Install rail traction bonds"/>
+      <unit id="UETTDRRT24A" title="Maintain rail traction bonds"/>
+      <unit id="UETTDRRT25A" title="Install overhead rail traction configurations"/>
+      <unit id="UETTDRRT26A" title="Maintain overhead rail traction configurations"/>
+      <unit id="UETTDRRT27A" title="Install overhead traction components and equipment"/>
+      <unit id="UETTDRRT28A" title="Maintain overhead traction components and equipment"/>
+      <unit id="UETTDRRT29A" title="Operate rail road traction height access equipment"/>
+      <unit id="UETTDRRT30A" title="Perform to a given schedule rail traction switching operations"/>
+      <unit id="UETTDRRT99A" title="Test and verify rail traction installations"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRTP26A" title="Install transmission structures and associated hardware"/>
+      <unit id="UETTDRTP27A" title="Maintain transmission structures and associated hardware"/>
+      <unit id="UETTDRTP29A" title="Install and maintain transmission overhead conductors and cables"/>
+      <unit id="UETTDRTP30A" title="Inspect transmission overhead structures and electrical apparatus"/>
+      <unit id="UETTDRVC29A" title="Control vegetation whilst performing linework"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET40412" title="Certificate IV in ESI - Network Systems">
+    <units>
+      <unit id="AHCARB205A" title="Operate and maintain chainsaws"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPCCLDG3001A" title="Licence to perform dogging"/>
+      <unit id="CPCCLRG3001A" title="Licence to perform rigging basic level"/>
+      <unit id="TLILIC2005A" title="Licence to operate a boom-type elevating work platform (boom length 11 meters or more)"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UETTDRCJ21A" title="Lay ESI electrical cables"/>
+      <unit id="UETTDRCJ22A" title="Install and maintain de-energised low voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ23A" title="Install and maintain de-energised high voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ24A" title="Joint and maintain energised low voltage underground paper insulated cables"/>
+      <unit id="UETTDRCJ25A" title="Perform straight through high voltage paper insulated to polymeric transition joint"/>
+      <unit id="UETTDRCJ26A" title="Install and maintain de-energised low voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ27A" title="Install and maintain de-energised high voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ28A" title="Joint and maintain energised low voltage underground polymeric cables"/>
+      <unit id="UETTDRCJ29A" title="Install gas and oil filled specialised underground cables"/>
+      <unit id="UETTDRCJ30A" title="Maintain gas and oil filled specialised underground cables"/>
+      <unit id="UETTDRCJ31A" title="Install and maintain polymeric specialised underground cables"/>
+      <unit id="UETTDRCJ32A" title="Install and maintain gas and oil pressure systems for specialised underground cables"/>
+      <unit id="UETTDRCJ99A" title="Test and verify distribution cable jointing installations"/>
+      <unit id="UETTDRDP11A" title="Inspect overhead poles-structures and electrical apparatus"/>
+      <unit id="UETTDRDP12A" title="Maintain overhead energised low voltage conductors and cables"/>
+      <unit id="UETTDRDP13A" title="Maintain energised HV distribution overhead electrical apparatus (stick)"/>
+      <unit id="UETTDRDP14A" title="Maintain energised HV distribution overhead electrical apparatus (glove)"/>
+      <unit id="UETTDRDP99A" title="Test and verify distribution overhead installations"/>
+      <unit id="UETTDRDS31A" title="Draft and layout a power system overhead distribution extension"/>
+      <unit id="UETTDRDS32A" title="Draft and layout a power system underground distribution extension"/>
+      <unit id="UETTDRDS33A" title="Draft and layout a power system street lighting system"/>
+      <unit id="UETTDRDS34A" title="Draft and layout a power system distribution substation minor upgrade"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL12A" title="Operate plant and equipment near live electrical conductors and apparatus"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS41A" title="Install network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS42A" title="Maintain network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS48A" title="Develop high voltage switching schedule"/>
+      <unit id="UETTDRIS49A" title="Develop low voltage switching schedule"/>
+      <unit id="UETTDRIS50A" title="Coordinate power system permit procedures"/>
+      <unit id="UETTDRIS51A" title="Coordinate and direct power system switching schedules"/>
+      <unit id="UETTDRIS52A" title="Install and maintain poles, structures and associated hardware"/>
+      <unit id="UETTDRIS54A" title="Install and maintain poles, structures and overhead conductors and cables"/>
+      <unit id="UETTDRIS55A" title="Install and maintain low voltage underground services"/>
+      <unit id="UETTDRIS56A" title="Install and maintain low voltage overhead services"/>
+      <unit id="UETTDRIS57A" title="Conduct visual checking and treatment of power system poles and structures"/>
+      <unit id="UETTDRIS58A" title="Locate faults in power system underground power cables"/>
+      <unit id="UETTDRIS59A" title="Conduct high potential testing of power system underground power cables"/>
+      <unit id="UETTDRIS60A" title="Install and replace power system energy meters and associated equipment"/>
+      <unit id="UETTDRIS61A" title="Install mobile generation set for synchronised LV Genset"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS64A" title="Install mobile generation set for synchronised HV Genset"/>
+      <unit id="UETTDRIS65A" title="Contribute to coordinated HV live working"/>
+      <unit id="UETTDRRT21A" title="Install traction overhead wiring systems"/>
+      <unit id="UETTDRRT22A" title="Maintain traction overhead wiring systems"/>
+      <unit id="UETTDRRT23A" title="Install rail traction bonds"/>
+      <unit id="UETTDRRT24A" title="Maintain rail traction bonds"/>
+      <unit id="UETTDRRT25A" title="Install overhead rail traction configurations"/>
+      <unit id="UETTDRRT26A" title="Maintain overhead rail traction configurations"/>
+      <unit id="UETTDRRT27A" title="Install overhead traction components and equipment"/>
+      <unit id="UETTDRRT28A" title="Maintain overhead traction components and equipment"/>
+      <unit id="UETTDRRT29A" title="Operate rail road traction height access equipment"/>
+      <unit id="UETTDRRT30A" title="Perform to a given schedule rail traction switching operations"/>
+      <unit id="UETTDRRT31A" title="Maintain energised d.c. traction overhead wiring system"/>
+      <unit id="UETTDRRT32A" title="Maintain energised traction overhead electrical apparatus using stick techniques"/>
+      <unit id="UETTDRRT33A" title="Maintain energised traction overhead electrical apparatus using glove techniques"/>
+      <unit id="UETTDRRT99A" title="Test and verify rail traction installations"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRTP26A" title="Install transmission structures and associated hardware"/>
+      <unit id="UETTDRTP27A" title="Maintain transmission structures and associated hardware"/>
+      <unit id="UETTDRTP29A" title="Install and maintain transmission overhead conductors and cables"/>
+      <unit id="UETTDRTP30A" title="Inspect transmission overhead structures and electrical apparatus"/>
+      <unit id="UETTDRTP31A" title="Maintain energised transmission lines using high voltage live work stick method"/>
+      <unit id="UETTDRTP32A" title="Maintain energised transmission lines using high voltage live work Barehand method"/>
+      <unit id="UETTDRTP33A" title="Maintain energised transmission lines using Barehand technique on a helicopter platform"/>
+      <unit id="UETTDRTP99A" title="Test and verify transmission overhead installations"/>
+      <unit id="UETTDRVC29A" title="Control vegetation whilst performing linework"/>
+      <unit id="UETTDRVC30A" title="Coordinate vegetation control operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET40512" title="Certificate IV in ESI - Power Systems Substations">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG033A" title="Solve problems in single and three phase low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG063A" title="Arrange circuits, control and protection for general electrical installations"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG103A" title="Install low voltage wiring and accessories"/>
+      <unit id="UEENEEG104A" title="Install appliances, switchgear and associated accessories for low voltage electrical installations"/>
+      <unit id="UEENEEG105A" title="Verify compliance and functionality of low voltage general electrical installations"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UEENEEG107A" title="Select wiring systems and cables for low voltage general electrical installations"/>
+      <unit id="UEENEEG108A" title="Trouble-shoot and repair faults in low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG109A" title="Develop and connect electrical control circuits"/>
+      <unit id="UEENEEK142A" title="Apply environmentally and sustainable procedures in the energy sector"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS47A" title="Sample, test, filter and reinstate insulating oil"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS67A" title="Solve problems in energy supply network equipment"/>
+      <unit id="UETTDRIS68A" title="Solve problems in energy supply network protection equipment and systems"/>
+      <unit id="UETTDRSB21A" title="Diagnose and rectify faults in substation environment"/>
+      <unit id="UETTDRSB22A" title="Carry out power systems substation inspection"/>
+      <unit id="UETTDRSB23A" title="Install and maintain substation direct current systems"/>
+      <unit id="UETTDRSB24A" title="Maintain high voltage power system circuit breakers"/>
+      <unit id="UETTDRSB25A" title="Maintain high voltage power and instrument transformers"/>
+      <unit id="UETTDRSB26A" title="Install high current DC equipment and switchgear"/>
+      <unit id="UETTDRSB27A" title="Maintain high current DC equipment and switchgear"/>
+      <unit id="UETTDRSB29A" title="Maintain capacitor bank equipment for voltage regulation"/>
+      <unit id="UETTDRSB30A" title="Maintain high voltage power system static VAR compensators (SVC)"/>
+      <unit id="UETTDRSB31A" title="Maintain high voltage power system synchronous condensers"/>
+      <unit id="UETTDRSB32A" title="Maintain power transformer on load tap changers (OLTC)"/>
+      <unit id="UETTDRSB33A" title="Install high voltage plant and equipment"/>
+      <unit id="UETTDRSB34A" title="Carry out surveys using thermovision techniques"/>
+      <unit id="UETTDRSB35A" title="Maintain discrete control and protection systems"/>
+      <unit id="UETTDRSB36A" title="Commission discrete control and protection systems"/>
+      <unit id="UETTDRSB37A" title="Maintain power system distribution field devices"/>
+      <unit id="UETTDRSB38A" title="Commission power system distribution field devices"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET40612" title="Certificate IV in ESI - Power Systems Network Infrastructure">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE105A" title="Fix and secure electrotechnology equipment"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE137A" title="Document and apply measures to control OHS risks associated with electrotechnology work"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG033A" title="Solve problems in single and three phase low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG063A" title="Arrange circuits, control and protection for general electrical installations"/>
+      <unit id="UEENEEG076A" title="Install and replace low voltage current transformer metering"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG103A" title="Install low voltage wiring and accessories"/>
+      <unit id="UEENEEG104A" title="Install appliances, switchgear and associated accessories for low voltage electrical installations"/>
+      <unit id="UEENEEG105A" title="Verify compliance and functionality of low voltage general electrical installations"/>
+      <unit id="UEENEEG106A" title="Terminate cables, cords and accessories for low voltage circuits"/>
+      <unit id="UEENEEG107A" title="Select wiring systems and cables for low voltage general electrical installations"/>
+      <unit id="UEENEEG108A" title="Trouble-shoot and repair faults in low voltage electrical apparatus and circuits"/>
+      <unit id="UEENEEG109A" title="Develop and connect electrical control circuits"/>
+      <unit id="UEENEEG171A" title="Install, set up and commission interval metering"/>
+      <unit id="UEENEEK142A" title="Apply environmentally and sustainable procedures in the energy sector"/>
+      <unit id="UETTDRCJ33A" title="Install and maintain network infrastructure LV underground cables"/>
+      <unit id="UETTDRCJ34A" title="Install and maintain network infrastructure HV underground cables"/>
+      <unit id="UETTDRDP15A" title="Inspect, maintain and restore energised low voltage overhead distribution network infrastructure"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS43A" title="Perform low voltage field switching operation to a given schedule"/>
+      <unit id="UETTDRIS44A" title="Perform HV field switching operation to a given schedule"/>
+      <unit id="UETTDRIS45A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRIS46A" title="Install and maintain ESI network infrastructure electrical equipment"/>
+      <unit id="UETTDRIS47A" title="Sample, test, filter and reinstate insulating oil"/>
+      <unit id="UETTDRIS48A" title="Develop high voltage switching schedule"/>
+      <unit id="UETTDRIS49A" title="Develop low voltage switching schedule"/>
+      <unit id="UETTDRIS50A" title="Coordinate power system permit procedures"/>
+      <unit id="UETTDRIS51A" title="Coordinate and direct power system switching schedules"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS67A" title="Solve problems in energy supply network equipment"/>
+      <unit id="UETTDRIS68A" title="Solve problems in energy supply network protection equipment and systems"/>
+      <unit id="UETTDRRT34A" title="Install and maintain traction network wiring systems"/>
+      <unit id="UETTDRRT35A" title="Install and maintain traction network equipment and components"/>
+      <unit id="UETTDRRT36A" title="Maintain traction network wiring systems"/>
+      <unit id="UETTDRRT37A" title="Maintain traction network equipment and components"/>
+      <unit id="UETTDRSB39A" title="Perform power system substation switching operation to a given schedule"/>
+      <unit id="UETTDRTP34A" title="Install_maintain overhead transmission network infrastructure"/>
+      <unit id="UETTDRTP35A" title="Install_maintain transmission network infrastructure electrical equipment"/>
+      <unit id="UETTDRTS37A" title="Perform current injection testing using phantom load"/>
+      <unit id="UETTDRTS38A" title="Install and replace high voltage metering and associated equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET50212" title="Diploma of ESI - Power Systems">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="UEENEED104A" title="Use engineering applications software on personal computers"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE125A" title="Provide engineering solutions for problems in complex multiple path circuits"/>
+      <unit id="UEENEEE126A" title="Provide solutions to basic engineering computational problems"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG149A" title="Provide engineering solutions to problems in complex polyphase power circuits"/>
+      <unit id="UEENEEH102A" title="Repairs basic electronic apparatus faults by replacement of components"/>
+      <unit id="UEENEEH112A" title="Troubleshoot digital sub-systems"/>
+      <unit id="UEENEEH139A" title="Troubleshoot basic amplifier circuits"/>
+      <unit id="UEENEEI155A" title="Develop structured programs to control external devices"/>
+      <unit id="UETTDRDS31A" title="Draft and layout a power system overhead distribution extension"/>
+      <unit id="UETTDRDS32A" title="Draft and layout a power system underground distribution extension"/>
+      <unit id="UETTDRDS33A" title="Draft and layout a power system street lighting system"/>
+      <unit id="UETTDRDS34A" title="Draft and layout a power system distribution substation minor upgrade"/>
+      <unit id="UETTDRDS35A" title="Design overhead distribution power systems"/>
+      <unit id="UETTDRDS36A" title="Design underground distribution power systems"/>
+      <unit id="UETTDRDS37A" title="Design power system distribution substations"/>
+      <unit id="UETTDRDS38A" title="Design power system public lighting systems"/>
+      <unit id="UETTDRDS39A" title="Prepare and manage detailed construction plans for electrical power system infrastructure"/>
+      <unit id="UETTDRDS42A" title="Investigate quality of power systems supply issues"/>
+      <unit id="UETTDRDS43A" title="Develop high voltage and low voltage distribution protection systems"/>
+      <unit id="UETTDRDS44A" title="Design power system substations modifications"/>
+      <unit id="UETTDRDS45A" title="Organise and implement ESI line and easement surveys"/>
+      <unit id="UETTDRDS46A" title="Develop planned power systems outage strategies"/>
+      <unit id="UETTDRDS49A" title="Establish and manage power system geographical information systems data"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL15A" title="Respond to power systems technical enquiries and requests"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS66A" title="Manage an electricity power system OHS management system"/>
+      <unit id="UETTDRIS67A" title="Solve problems in energy supply network equipment"/>
+      <unit id="UETTDRIS68A" title="Solve problems in energy supply network protection equipment and systems"/>
+      <unit id="UETTDRIS69A" title="Diagnose and rectify faults in energy supply apparatus"/>
+      <unit id="UETTDRIS70A" title="Diagnose and rectify faults in electrical energy distribution systems"/>
+      <unit id="UETTDRIS71A" title="Diagnose and rectify faults in electrical energy supply transmission systems"/>
+      <unit id="UETTDRIS72A" title="Diagnose and rectify faults in distributed generation systems"/>
+      <unit id="UETTDRSO36A" title="Develop low voltage distribution switching programs"/>
+      <unit id="UETTDRSO37A" title="Develop high voltage distribution and subtransmission switching programs"/>
+      <unit id="UETTDRSO38A" title="Develop and evaluate power systems transmission switching programs"/>
+      <unit id="UETTDRSO39A" title="Coordinate low voltage distribution networks"/>
+      <unit id="UETTDRSO40A" title="Coordinate high voltage distribution and subtransmission networks"/>
+      <unit id="UETTDRSO43A" title="Coordinate low voltage distribution network demand"/>
+      <unit id="UETTDRSO45A" title="Operate and monitor system SCADA equipment"/>
+      <unit id="UETTDRSO46A" title="Monitor and control the field staff activities"/>
+      <unit id="UETTDRSO47A" title="Coordinate high voltage transmission network"/>
+      <unit id="UETTDRSO48A" title="Respond to discrete and interdependent protection operations"/>
+      <unit id="UETTDRSO49A" title="Coordinate power system operations in a regulated energy market"/>
+      <unit id="UETTDRTS21A" title="Maintain interdependent network protection and control systems"/>
+      <unit id="UETTDRTS22A" title="Commission interdependent network protection and control systems"/>
+      <unit id="UETTDRTS25A" title="Maintain and test and metering schemes"/>
+      <unit id="UETTDRTS26A" title="Commission power systems metering schemes"/>
+      <unit id="UETTDRTS27A" title="Perform accuracy checks on power systems instrument transformers"/>
+      <unit id="UETTDRTS28A" title="Repair, test and calibrate protection relays and meters"/>
+      <unit id="UETTDRTS29A" title="Develop power systems secondary isolation instructional documents"/>
+      <unit id="UETTDRTS31A" title="Maintain, test and commission power systems voltage regulating equipment"/>
+      <unit id="UETTDRTS34A" title="Install and maintain power system communication equipment"/>
+      <unit id="UETTDRTS35A" title="Maintain complex network protection and control systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET50312" title="Diploma of ESI - Power Systems Operations">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="UEENEED104A" title="Use engineering applications software on personal computers"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE125A" title="Provide engineering solutions for problems in complex multiple path circuits"/>
+      <unit id="UEENEEE126A" title="Provide solutions to basic engineering computational problems"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG149A" title="Provide engineering solutions to problems in complex polyphase power circuits"/>
+      <unit id="UEENEEH102A" title="Repairs basic electronic apparatus faults by replacement of components"/>
+      <unit id="UEENEEH112A" title="Troubleshoot digital sub-systems"/>
+      <unit id="UEENEEH139A" title="Troubleshoot basic amplifier circuits"/>
+      <unit id="UEENEEI155A" title="Develop structured programs to control external devices"/>
+      <unit id="UETTDRDS31A" title="Draft and layout a power system overhead distribution extension"/>
+      <unit id="UETTDRDS32A" title="Draft and layout a power system underground distribution extension"/>
+      <unit id="UETTDRDS33A" title="Draft and layout a power system street lighting system"/>
+      <unit id="UETTDRDS34A" title="Draft and layout a power system distribution substation minor upgrade"/>
+      <unit id="UETTDRDS35A" title="Design overhead distribution power systems"/>
+      <unit id="UETTDRDS36A" title="Design underground distribution power systems"/>
+      <unit id="UETTDRDS37A" title="Design power system distribution substations"/>
+      <unit id="UETTDRDS38A" title="Design power system public lighting systems"/>
+      <unit id="UETTDRDS39A" title="Prepare and manage detailed construction plans for electrical power system infrastructure"/>
+      <unit id="UETTDRDS42A" title="Investigate quality of power systems supply issues"/>
+      <unit id="UETTDRDS43A" title="Develop high voltage and low voltage distribution protection systems"/>
+      <unit id="UETTDRDS44A" title="Design power system substations modifications"/>
+      <unit id="UETTDRDS45A" title="Organise and implement ESI line and easement surveys"/>
+      <unit id="UETTDRDS46A" title="Develop planned power systems outage strategies"/>
+      <unit id="UETTDRDS49A" title="Establish and manage power system geographical information systems data"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL15A" title="Respond to power systems technical enquiries and requests"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS66A" title="Manage an electricity power system OHS management system"/>
+      <unit id="UETTDRIS67A" title="Solve problems in energy supply network equipment"/>
+      <unit id="UETTDRIS68A" title="Solve problems in energy supply network protection equipment and systems"/>
+      <unit id="UETTDRIS69A" title="Diagnose and rectify faults in energy supply apparatus"/>
+      <unit id="UETTDRIS70A" title="Diagnose and rectify faults in electrical energy distribution systems"/>
+      <unit id="UETTDRIS71A" title="Diagnose and rectify faults in electrical energy supply transmission systems"/>
+      <unit id="UETTDRIS72A" title="Diagnose and rectify faults in distributed generation systems"/>
+      <unit id="UETTDRSO36A" title="Develop low voltage distribution switching programs"/>
+      <unit id="UETTDRSO37A" title="Develop high voltage distribution and subtransmission switching programs"/>
+      <unit id="UETTDRSO38A" title="Develop and evaluate power systems transmission switching programs"/>
+      <unit id="UETTDRSO39A" title="Coordinate low voltage distribution networks"/>
+      <unit id="UETTDRSO40A" title="Coordinate high voltage distribution and subtransmission networks"/>
+      <unit id="UETTDRSO43A" title="Coordinate low voltage distribution network demand"/>
+      <unit id="UETTDRSO45A" title="Operate and monitor system SCADA equipment"/>
+      <unit id="UETTDRSO46A" title="Monitor and control the field staff activities"/>
+      <unit id="UETTDRSO47A" title="Coordinate high voltage transmission network"/>
+      <unit id="UETTDRSO48A" title="Respond to discrete and interdependent protection operations"/>
+      <unit id="UETTDRSO49A" title="Coordinate power system operations in a regulated energy market"/>
+      <unit id="UETTDRTS21A" title="Maintain interdependent network protection and control systems"/>
+      <unit id="UETTDRTS22A" title="Commission interdependent network protection and control systems"/>
+      <unit id="UETTDRTS25A" title="Maintain and test and metering schemes"/>
+      <unit id="UETTDRTS26A" title="Commission power systems metering schemes"/>
+      <unit id="UETTDRTS27A" title="Perform accuracy checks on power systems instrument transformers"/>
+      <unit id="UETTDRTS28A" title="Repair, test and calibrate protection relays and meters"/>
+      <unit id="UETTDRTS29A" title="Develop power systems secondary isolation instructional documents"/>
+      <unit id="UETTDRTS31A" title="Maintain, test and commission power systems voltage regulating equipment"/>
+      <unit id="UETTDRTS34A" title="Install and maintain power system communication equipment"/>
+      <unit id="UETTDRTS35A" title="Maintain complex network protection and control systems"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="UET60212" title="Advanced Diploma of ESI - Power Systems">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+    </units>
+  </qualification>
+  <qualification id="UET60312" title="Advanced Diploma of ESI - Power Systems Operations">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="UEENEED104A" title="Use engineering applications software on personal computers"/>
+      <unit id="UEENEED117A" title="Install and configure network systems for internetworking"/>
+      <unit id="UEENEEE083A" title="Establish and follow a competency development plan in an electrotechnology engineering discipline"/>
+      <unit id="UEENEEE101A" title="Apply Occupational Health and Safety regulations, codes and practices in the workplace"/>
+      <unit id="UEENEEE102A" title="Fabricate, assemble and dismantle utilities industry components"/>
+      <unit id="UEENEEE104A" title="Solve problems in d.c. circuits"/>
+      <unit id="UEENEEE107A" title="Use drawings, diagrams, schedules, standards, codes and specifications"/>
+      <unit id="UEENEEE124A" title="Compile and produce an energy sector detailed report"/>
+      <unit id="UEENEEE125A" title="Provide engineering solutions for problems in complex multiple path circuits"/>
+      <unit id="UEENEEE126A" title="Provide solutions to basic engineering computational problems"/>
+      <unit id="UEENEEG006A" title="Solve problems in single and three phase low voltage machines"/>
+      <unit id="UEENEEG101A" title="Solve problems in electromagnetic devices and related circuits"/>
+      <unit id="UEENEEG102A" title="Solve problems in low voltage a.c. circuits"/>
+      <unit id="UEENEEG149A" title="Provide engineering solutions to problems in complex polyphase power circuits"/>
+      <unit id="UEENEEH102A" title="Repairs basic electronic apparatus faults by replacement of components"/>
+      <unit id="UEENEEH112A" title="Troubleshoot digital sub-systems"/>
+      <unit id="UEENEEH139A" title="Troubleshoot basic amplifier circuits"/>
+      <unit id="UEENEEI155A" title="Develop structured programs to control external devices"/>
+      <unit id="UEENEEI156A" title="Develop and test code for microcontroller devices"/>
+      <unit id="UETTDRDS31A" title="Draft and layout a power system overhead distribution extension"/>
+      <unit id="UETTDRDS32A" title="Draft and layout a power system underground distribution extension"/>
+      <unit id="UETTDRDS33A" title="Draft and layout a power system street lighting system"/>
+      <unit id="UETTDRDS34A" title="Draft and layout a power system distribution substation minor upgrade"/>
+      <unit id="UETTDRDS35A" title="Design overhead distribution power systems"/>
+      <unit id="UETTDRDS36A" title="Design underground distribution power systems"/>
+      <unit id="UETTDRDS37A" title="Design power system distribution substations"/>
+      <unit id="UETTDRDS38A" title="Design power system public lighting systems"/>
+      <unit id="UETTDRDS39A" title="Prepare and manage detailed construction plans for electrical power system infrastructure"/>
+      <unit id="UETTDRDS40A" title="Prepare and appraise power systems financial impact statements"/>
+      <unit id="UETTDRDS41A" title="Manage electrical power systems infrastructure projects"/>
+      <unit id="UETTDRDS42A" title="Investigate quality of power systems supply issues"/>
+      <unit id="UETTDRDS43A" title="Develop high voltage and low voltage distribution protection systems"/>
+      <unit id="UETTDRDS44A" title="Design power system substations modifications"/>
+      <unit id="UETTDRDS45A" title="Organise and implement ESI line and easement surveys"/>
+      <unit id="UETTDRDS46A" title="Develop planned power systems outage strategies"/>
+      <unit id="UETTDRDS47A" title="Review power system asset management strategies"/>
+      <unit id="UETTDRDS48A" title="Analyse and appraise power system fault and outage data"/>
+      <unit id="UETTDRDS49A" title="Establish and manage power system geographical information systems data"/>
+      <unit id="UETTDRDS50A" title="Design customer power system substations"/>
+      <unit id="UETTDRDS51A" title="Manage power system transmission and sub-transmission design process"/>
+      <unit id="UETTDRDS52A" title="Design power system transmission, sub-transmission and zone substation buildings"/>
+      <unit id="UETTDRDS53A" title="Design power system transmission and sub-transmission substation primary plant"/>
+      <unit id="UETTDRDS54A" title="Design power system transmission and sub-transmission protection and control"/>
+      <unit id="UETTDRDS55A" title="Design power system transmission and sub-transmission substation earthing"/>
+      <unit id="UETTDRDS56A" title="Design power system transmission, sub-transmission and zone substation civil and structural components"/>
+      <unit id="UETTDRDS57A" title="Design power system overhead transmission systems"/>
+      <unit id="UETTDRDS58A" title="Design underground transmission systems"/>
+      <unit id="UETTDREL11A" title="Apply sustainable energy and environmental procedures"/>
+      <unit id="UETTDREL15A" title="Respond to power systems technical enquiries and requests"/>
+      <unit id="UETTDREL16A" title="Working safely near live electrical apparatus"/>
+      <unit id="UETTDRIS62A" title="Implement and monitor the power system organisational OHS policies, procedures and programs"/>
+      <unit id="UETTDRIS63A" title="Implement and monitor the power system environmental and sustainable energy management policies and procedures"/>
+      <unit id="UETTDRIS66A" title="Manage an electricity power system OHS management system"/>
+      <unit id="UETTDRIS67A" title="Solve problems in energy supply network equipment"/>
+      <unit id="UETTDRIS68A" title="Solve problems in energy supply network protection equipment and systems"/>
+      <unit id="UETTDRIS69A" title="Diagnose and rectify faults in energy supply apparatus"/>
+      <unit id="UETTDRIS70A" title="Diagnose and rectify faults in electrical energy distribution systems"/>
+      <unit id="UETTDRIS71A" title="Diagnose and rectify faults in electrical energy supply transmission systems"/>
+      <unit id="UETTDRIS72A" title="Diagnose and rectify faults in distributed generation systems"/>
+      <unit id="UETTDRIS73A" title="Develop engineering solutions for energy supply power transformer problems"/>
+      <unit id="UETTDRSO32A" title="Manage power systems network faults"/>
+      <unit id="UETTDRSO33A" title="Manage power systems critical events"/>
+      <unit id="UETTDRSO34A" title="Control power systems generating plant"/>
+      <unit id="UETTDRSO35A" title="Manage high voltage distribution and subtransmission network demand"/>
+      <unit id="UETTDRSO36A" title="Develop low voltage distribution switching programs"/>
+      <unit id="UETTDRSO37A" title="Develop high voltage distribution and subtransmission switching programs"/>
+      <unit id="UETTDRSO38A" title="Develop and evaluate power systems transmission switching programs"/>
+      <unit id="UETTDRSO39A" title="Coordinate low voltage distribution networks"/>
+      <unit id="UETTDRSO40A" title="Coordinate high voltage distribution and subtransmission networks"/>
+      <unit id="UETTDRSO41A" title="Manage power systems transmission networks"/>
+      <unit id="UETTDRSO42A" title="Manage power systems transmission network demand"/>
+      <unit id="UETTDRSO43A" title="Coordinate low voltage distribution network demand"/>
+      <unit id="UETTDRSO44A" title="Develop crisis power systems management plans"/>
+      <unit id="UETTDRSO45A" title="Operate and monitor system SCADA equipment"/>
+      <unit id="UETTDRSO46A" title="Monitor and control the field staff activities"/>
+      <unit id="UETTDRSO47A" title="Coordinate high voltage transmission network"/>
+      <unit id="UETTDRSO48A" title="Respond to discrete and interdependent protection operations"/>
+      <unit id="UETTDRSO49A" title="Coordinate power system operations in a regulated energy market"/>
+      <unit id="UETTDRSO50A" title="Respond to complex power system protection operations"/>
+      <unit id="UETTDRSO51A" title="Manage network systems power flows"/>
+      <unit id="UETTDRTS21A" title="Maintain interdependent network protection and control systems"/>
+      <unit id="UETTDRTS22A" title="Commission interdependent network protection and control systems"/>
+      <unit id="UETTDRTS25A" title="Maintain and test and metering schemes"/>
+      <unit id="UETTDRTS26A" title="Commission power systems metering schemes"/>
+      <unit id="UETTDRTS27A" title="Perform accuracy checks on power systems instrument transformers"/>
+      <unit id="UETTDRTS28A" title="Repair, test and calibrate protection relays and meters"/>
+      <unit id="UETTDRTS29A" title="Develop power systems secondary isolation instructional documents"/>
+      <unit id="UETTDRTS31A" title="Maintain, test and commission power systems voltage regulating equipment"/>
+      <unit id="UETTDRTS34A" title="Install and maintain power system communication equipment"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

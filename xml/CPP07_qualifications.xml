@@ -1,0 +1,1623 @@
+<?xml version="1.0"?>
+<qualifications class="CPP07">
+  <qualification id="CPP10211" title="Certificate I in Cleaning Operations">
+    <units>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPPCLO1040A" title="Prepare for work in the cleaning industry"/>
+      <unit id="CPPCLO1041A" title="Apply basic communication skills"/>
+    </units>
+  </qualification>
+  <qualification id="CPP10107" title="Certificate I in Security Operations">
+    <units>
+      <unit id="CPPSEC1001A" title="Identify and report security risk situations"/>
+      <unit id="CPPSEC1002A" title="Apply retail security procedures"/>
+      <unit id="CPPSEC1003A" title="Apply security procedures for the responsible service of alcohol"/>
+      <unit id="CPPSEC1004A" title="Apply health care security procedures"/>
+      <unit id="CPPSEC1005A" title="Apply critical infrastructure protection procedures"/>
+      <unit id="CPPSEC1006A" title="Apply x-ray image interpretation procedures"/>
+      <unit id="CPPSEC1007A" title="Apply walk through metal detection procedures"/>
+      <unit id="CPPSEC1008A" title="Apply hand-held metal detection procedures"/>
+      <unit id="CPPSEC1009A" title="Apply Explosive Trace Detection (ETD) procedures"/>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2003B" title="Work effectively in the security industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP20611" title="Certificate II in Cleaning Operations">
+    <units>
+      <unit id="CPPCCL2007A" title="Perform basic stain removal"/>
+      <unit id="CPPCLO2001A" title="Maintain hard floor surfaces"/>
+      <unit id="CPPCLO2004A" title="Maintain carpeted floors"/>
+      <unit id="CPPCLO2009A" title="Clean glass surfaces"/>
+      <unit id="CPPCLO2010A" title="Clean ceiling surfaces and fittings"/>
+      <unit id="CPPCLO2015A" title="Maintain furniture, fittings and room dressing"/>
+      <unit id="CPPCLO2017A" title="Clean wet areas"/>
+      <unit id="CPPCLO2019A" title="Sort and remove waste and recyclable materials"/>
+      <unit id="CPPCLO2033A" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="CPPCLO2037A" title="Clean external surfaces"/>
+      <unit id="CPPCLO2043A" title="Clean using microfibre techniques"/>
+      <unit id="CPPCLO2044A" title="Prepare rooms for guests and residents"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN2003A" title="Provide effective client service"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="MTMP2192A" title="Clean carcase hanging equipment"/>
+      <unit id="MTMP2196B" title="Overview cleaning program"/>
+      <unit id="MTMP2197B" title="Clean after operations - boning room"/>
+      <unit id="MTMP2198B" title="Clean after operations - slaughter floor"/>
+      <unit id="MTMPS201B" title="Clean work area during operations"/>
+      <unit id="MTMPS205B" title="Clean chillers"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP20307" title="Certificate II in Technical Security">
+    <units>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2003B" title="Work effectively in the security industry"/>
+      <unit id="CPPSEC2020A" title="Provide technical security services to clients"/>
+      <unit id="CPPSEC2021A" title="Install security equipment and systems"/>
+      <unit id="CPPSEC2022A" title="Install mechanical lock and locking system"/>
+      <unit id="CPPSEC2023A" title="Install CCTV equipment and system"/>
+      <unit id="CPPSEC2024A" title="Implement electronic monitoring procedures"/>
+      <unit id="CPPSEC2025A" title="Sell security products and services"/>
+      <unit id="CPPSEC2026A" title="Perform routine maintenance on security equipment and system"/>
+      <unit id="ICTCBL2136A" title="Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP20711" title="Certificate II in Carpet Cleaning Operations">
+    <units>
+      <unit id="CPPCCL2001A" title="Use hot water extraction"/>
+      <unit id="CPPCCL2002A" title="Use bonnet cleaning"/>
+      <unit id="CPPCCL2003A" title="Use dry foam shampoo"/>
+      <unit id="CPPCCL2004A" title="Use dry absorbent compound"/>
+      <unit id="CPPCCL2005A" title="Use wet foam shampoo"/>
+      <unit id="CPPCCL2006A" title="Identify carpet fibre and construction"/>
+      <unit id="CPPCCL2007A" title="Perform basic stain removal"/>
+      <unit id="CPPCLO2033A" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN2003A" title="Provide effective client service"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP20411" title="Certificate II in Waste Management">
+    <units>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU201A" title="Produce simple word processed documents"/>
+      <unit id="BSBITU202A" title="Create and use spreadsheets"/>
+      <unit id="BSBITU203A" title="Communicate electronically"/>
+      <unit id="BSBWOR203A" title="Work effectively with others"/>
+      <unit id="CPPCMN2001B" title="Control and direct traffic"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN2003A" title="Provide effective client service"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPWMT2001A" title="Prepare for work in the waste management industry"/>
+      <unit id="CPPWMT2034A" title="Maintain equipment and consumables storage area"/>
+      <unit id="CPPWMT2047A" title="Assist with resource recovery"/>
+      <unit id="CPPWMT2048A" title="Prepare work areas for waste sorting"/>
+      <unit id="CPPWMT2049A" title="Identify waste emergency"/>
+      <unit id="CPPWMT3044A" title="Identify wastes and hazards"/>
+      <unit id="TLIB2003A" title="Carry out vehicle servicing and maintenance"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIC2002A" title="Drive light rigid vehicle"/>
+      <unit id="TLIC3003A" title="Drive medium rigid vehicle"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID2004A" title="Load and unload goods/cargo"/>
+      <unit id="TLID2021A" title="Use specialised bulk transfer equipment (dry)"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLILIC2014A" title="Licence to drive light rigid vehicle"/>
+      <unit id="TLILIC2015A" title="Licence to drive medium rigid vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP20212" title="Certificate II in Security Operations">
+    <units>
+      <unit id="CPPCMN2001B" title="Control and direct traffic"/>
+      <unit id="CPPSEC2001A" title="Communicate effectively in the security industry"/>
+      <unit id="CPPSEC2002A" title="Follow workplace safety procedures in the security industry"/>
+      <unit id="CPPSEC2003B" title="Work effectively in the security industry"/>
+      <unit id="CPPSEC2004B" title="Respond to security risk situation"/>
+      <unit id="CPPSEC2005A" title="Work as part of a security team"/>
+      <unit id="CPPSEC2006B" title="Provide security services to clients"/>
+      <unit id="CPPSEC2007A" title="Screen people"/>
+      <unit id="CPPSEC2008A" title="Screen items"/>
+      <unit id="CPPSEC2009A" title="Give evidence in court"/>
+      <unit id="CPPSEC2010A" title="Protect safety of persons"/>
+      <unit id="CPPSEC2011B" title="Control access to and exit from premises"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CPPSEC2013A" title="Protect valuables in transit"/>
+      <unit id="CPPSEC2014A" title="Operate basic security equipment"/>
+      <unit id="CPPSEC2015A" title="Patrol premises"/>
+      <unit id="CPPSEC2016A" title="Contribute to investigative activities"/>
+      <unit id="CPPSEC2017A" title="Protect self and others using basic defensive techniques"/>
+      <unit id="CPPSEC2018A" title="Monitor electronic reporting facility"/>
+      <unit id="CPPSEC2019A" title="Monitor biometric equipment and systems"/>
+      <unit id="CPPSEC2027A" title="Load and unload cash in transit in a secured environment"/>
+      <unit id="CPPSEC3002A" title="Manage conflict through negotiation"/>
+      <unit id="CPPSEC3010A" title="Manage dogs for security functions"/>
+      <unit id="CPPSEC3011A" title="Handle dogs for security patrol"/>
+      <unit id="CPPSEC3013A" title="Control persons using empty hand techniques"/>
+      <unit id="CPPSEC3020A" title="Monitor security from control room"/>
+      <unit id="CPPSEC3021A" title="Maintain and use security database"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="TLIB2004A" title="Carry out vehicle inspection"/>
+      <unit id="TLIE2007A" title="Use communication systems"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP20112" title="Certificate II in Surveying and Spatial Information Services">
+    <units>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN2003A" title="Provide effective client service"/>
+      <unit id="CPPSIS2011A" title="Prepare for work in the spatial information services industry"/>
+      <unit id="CPPSIS2012A" title="Assist in the collection of spatial data"/>
+      <unit id="CPPSIS2013A" title="Assist in the storage and retrieval of spatial data"/>
+      <unit id="CPPSIS2014A" title="Assist in the selection, operation and maintenance of equipment and supplies"/>
+      <unit id="CPPSIS2015A" title="Assist in field activity"/>
+      <unit id="CPPSIS2016A" title="Assist with load transfer"/>
+      <unit id="CPPSIS2017A" title="Use information technology for spatial information services activity"/>
+      <unit id="ICAICT101A" title="Operate a personal computer"/>
+      <unit id="ICAICT102A" title="Operate word-processing applications"/>
+      <unit id="ICAICT105A" title="Operate spreadsheet applications"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="ICAICT210A" title="Operate database applications"/>
+      <unit id="PSPGOV202B" title="Use routine workplace communication techniques"/>
+      <unit id="RIIRIS201B" title="Conduct local risk control"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP20511" title="Certificate II in Fire Protection Inspection and Testing">
+    <units>
+      <unit id="BSBWOR202A" title="Organise and complete daily work activities"/>
+      <unit id="CPCPFS3020A" title="Conduct basic functional testing of water-based fire-suppression systems"/>
+      <unit id="CPCPFS3021A" title="Inspect and test fire pumpsets"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN2003A" title="Provide effective client service"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2004A" title="Identify types of installed fire safety equipment and systems"/>
+      <unit id="CPPFES2005A" title="Demonstrate first attack firefighting equipment"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2007A" title="Maintain quality of work and promote continuous improvement"/>
+      <unit id="CPPFES2010A" title="Inspect and test fire hose reels"/>
+      <unit id="CPPFES2011A" title="Install portable fire extinguishers and fire blankets"/>
+      <unit id="CPPFES2016A" title="Inspect, test and maintain delivery lay flat fire hoses"/>
+      <unit id="CPPFES2020A" title="Conduct routine inspection and testing of fire extinguishers and fire blankets"/>
+      <unit id="CPPFES2021A" title="Inspect, test and maintain fire extinguishers"/>
+      <unit id="CPPFES2025A" title="Inspect, test and maintain gaseous fire-suppression systems"/>
+      <unit id="CPPFES2026A" title="Inspect and test emergency and exit lighting systems"/>
+      <unit id="CPPFES2027A" title="Inspect, test and maintain non-gaseous pre-engineered fire-suppression systems"/>
+      <unit id="CPPFES2029A" title="Conduct functional tests on fire detection, warning and intercommunication devices"/>
+      <unit id="CPPFES2035A" title="Identify, inspect and test fire and smoke doors"/>
+      <unit id="CPPFES2037A" title="Inspect and test fire hydrant systems"/>
+      <unit id="CPPFES2039A" title="Identify, inspect and test passive fire and smoke containment products and systems"/>
+      <unit id="CPPFES2043A" title="Prevent ozone depleting substance and synthetic greenhouse gas emissions"/>
+      <unit id="CPPFES2047A" title="Inspect and test control and indicating equipment"/>
+      <unit id="CPPFES2048A" title="Receive and dispatch scheduled gaseous fire-extinguishing agents"/>
+      <unit id="CPPFES2049A" title="Conduct recovery, reclaim and fill operations for scheduled gaseous fire-extinguishing agents"/>
+      <unit id="CPPFES2050A" title="Monitor storage operations for scheduled gaseous fire-extinguishing agents"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30507" title="Certificate III in Technical Security">
+    <units>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="CPPSEC3001A" title="Maintain workplace safety in the security industry"/>
+      <unit id="CPPSEC3004A" title="Lead small teams in the security industry"/>
+      <unit id="CPPSEC3005A" title="Prepare and present security documentation and reports"/>
+      <unit id="CPPSEC3006A" title="Coordinate a quality security service to clients"/>
+      <unit id="CPPSEC3024A" title="Install biometric equipment and systems"/>
+      <unit id="CPPSEC3025A" title="Identify and diagnose biometric system fault"/>
+      <unit id="CPPSEC3035A" title="Identify technical security requirements"/>
+      <unit id="CPPSEC3036A" title="Program security equipment and system"/>
+      <unit id="CPPSEC3037A" title="Test installed security equipment and system"/>
+      <unit id="CPPSEC3038A" title="Commission and decommission security equipment and system"/>
+      <unit id="CPPSEC3039A" title="Identify and diagnose electronic security equipment and system fault"/>
+      <unit id="CPPSEC3040A" title="Plan and coordinate installation of security equipment and system"/>
+      <unit id="CPPSEC3041A" title="Maintain and service security equipment and system"/>
+      <unit id="CPPSEC3042A" title="Identify and diagnose CCTV equipment and system fault"/>
+      <unit id="CPPSEC3043A" title="Establish and set up electronic monitoring parameters"/>
+      <unit id="CPPSEC3044A" title="Maintain and repair mechanical lock and locking system"/>
+      <unit id="CPPSEC3045A" title="Determine security equipment and system modifications"/>
+      <unit id="CPPSEC3046A" title="Configure a security system"/>
+      <unit id="CPPSEC3047A" title="Provide estimate and quote on security system"/>
+      <unit id="CPPSEC3048A" title="Maintain effective relationships with security clients"/>
+      <unit id="CPPSEC3049A" title="Modify and repair security equipment and system"/>
+      <unit id="ICTCBL2137A" title="Install, maintain and modify customer premises communications cabling: ACMA Open Rule"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30711" title="Certificate III in Waste Management">
+    <units>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA303A" title="Process accounts payable and receivable"/>
+      <unit id="BSBFIA304A" title="Maintain a general ledger"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBINN201A" title="Contribute to workplace innovation"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBPRO301A" title="Recommend products and services"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBWOR201A" title="Manage personal stress in the workplace"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="CPPCMN2001B" title="Control and direct traffic"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3003A" title="Contribute to workplace safety arrangements"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="CPPWMT3005A" title="Identify and segregate waste"/>
+      <unit id="CPPWMT3011A" title="Respond to waste emergencies"/>
+      <unit id="CPPWMT3013A" title="Receive waste"/>
+      <unit id="CPPWMT3014A" title="Manually sort waste"/>
+      <unit id="CPPWMT3015A" title="Move waste using loadshifting equipment"/>
+      <unit id="CPPWMT3016A" title="Operate waste processing plant"/>
+      <unit id="CPPWMT3017A" title="Store waste"/>
+      <unit id="CPPWMT3018A" title="Dispatch processed waste"/>
+      <unit id="CPPWMT3019A" title="Prepare waste for re-use"/>
+      <unit id="CPPWMT3020A" title="Place and compact waste"/>
+      <unit id="CPPWMT3021A" title="Cover waste"/>
+      <unit id="CPPWMT3023A" title="Maintain waste disposal sites"/>
+      <unit id="CPPWMT3025A" title="Monitor contained waste"/>
+      <unit id="CPPWMT3038A" title="Process waste"/>
+      <unit id="CPPWMT3041A" title="Identify operational requirements of waste management industry"/>
+      <unit id="CPPWMT3042A" title="Follow environmental policies and procedures when transporting waste"/>
+      <unit id="CPPWMT3044A" title="Identify wastes and hazards"/>
+      <unit id="CPPWMT3046A" title="Conduct resource recovery"/>
+      <unit id="CPPWMT3051A" title="Dispose of waste water to sewer"/>
+      <unit id="CPPWMT3054A" title="Maintain credit control"/>
+      <unit id="CPPWMT3059A" title="Plan and conduct waste assessments"/>
+      <unit id="CPPWMT3063A" title="Apply safe operational practices when vehicles contact overhead wires"/>
+      <unit id="CPPWMT4055A" title="Develop waste management proposals"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="HLTFA302A" title="Provide first aid in remote situation"/>
+      <unit id="RTE3323A" title="Dispatch materials and composted product"/>
+      <unit id="RTE3512A" title="Prepare raw materials and compost the feedstocks"/>
+      <unit id="RTE3513A" title="Prepare value-added compost-based products"/>
+      <unit id="RTE4519A" title="Develop a composting recipe"/>
+      <unit id="SIRXSLS003A" title="Coordinate sales performance"/>
+      <unit id="TLIB3006A" title="Carry out inspection of vehicles designed to carry special loads"/>
+      <unit id="TLIC3004A" title="Drive heavy rigid vehicle"/>
+      <unit id="TLIC3005A" title="Drive heavy combination vehicle"/>
+      <unit id="TLIC4006A" title="Drive multi-combination vehicle"/>
+      <unit id="TLID2003A" title="Handle dangerous goods/hazardous substances"/>
+      <unit id="TLID3024A" title="Use specialised liquid bulk transfer equipment (gravity/pressurised)"/>
+      <unit id="TLIF2010A" title="Apply fatigue management strategies"/>
+      <unit id="TLIF3013A" title="Coordinate breakdowns and emergencies"/>
+      <unit id="TLIH3002A" title="Plan and navigate routes"/>
+      <unit id="TLILIC2016A" title="Licence to drive heavy rigid vehicle"/>
+      <unit id="TLILIC3017A" title="Licence to drive heavy combination vehicle"/>
+      <unit id="TLILIC3018A" title="Licence to drive multi-combination vehicle"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP31111" title="Certificate III in Carpet Cleaning Operations">
+    <units>
+      <unit id="CPPCCL2006A" title="Identify carpet fibre and construction"/>
+      <unit id="CPPCCL3008A" title="Mitigate water damage"/>
+      <unit id="CPPCCL3009A" title="Restore smoke damaged carpet"/>
+      <unit id="CPPCCL3010A" title="Apply odour control"/>
+      <unit id="CPPCCL3011A" title="Perform carpet repair and reinstallation"/>
+      <unit id="CPPCCL3012A" title="Perform carpet colour repair and restoration"/>
+      <unit id="CPPCCL3013A" title="Clean leather upholstery"/>
+      <unit id="CPPCCL3014A" title="Clean fabric upholstery"/>
+      <unit id="CPPCCL3015A" title="Perform advanced stain removal"/>
+      <unit id="CPPCCL3016A" title="Apply topical treatments"/>
+      <unit id="CPPCCL3017A" title="Identify upholstery fibre and construction"/>
+      <unit id="CPPCCL3018A" title="Inspect sites with water damage"/>
+      <unit id="CPPCCL3019A" title="Inspect sites prior to cleaning or treatment"/>
+      <unit id="CPPCCL3020A" title="Develop a plan to mitigate water damage and restore carpet"/>
+      <unit id="CPPCLO2033A" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3003A" title="Contribute to workplace safety arrangements"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP30211" title="Certificate III in Property Services (Agency)">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBCMM301A" title="Process customer complaints"/>
+      <unit id="BSBDIV301A" title="Work effectively with diversity"/>
+      <unit id="BSBINM301A" title="Organise workplace information"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="CPPDSM3001A" title="Assist in listing properties for lease"/>
+      <unit id="CPPDSM3002A" title="Assist in listing properties for sale"/>
+      <unit id="CPPDSM3003A" title="Assist in marketing properties for lease"/>
+      <unit id="CPPDSM3004A" title="Assist in marketing properties for sale"/>
+      <unit id="CPPDSM3005A" title="Assist with the sale of properties"/>
+      <unit id="CPPDSM3006B" title="Collect and process property information"/>
+      <unit id="CPPDSM3008A" title="Maintain and protect condition of managed properties"/>
+      <unit id="CPPDSM3009A" title="Maintain workplace safety in the property industry"/>
+      <unit id="CPPDSM3010B" title="Meet customer needs and expectations in the property industry"/>
+      <unit id="CPPDSM3013A" title="Perform and record property management activities and transactions"/>
+      <unit id="CPPDSM3015B" title="Use and maintain property and client information databases"/>
+      <unit id="CPPDSM3018B" title="Identify risks to agency operations"/>
+      <unit id="CPPDSM4007A" title="Identify legal and ethical requirements of property management to complete agency work"/>
+      <unit id="CPPDSM4008A" title="Identify legal and ethical requirements of property sales to complete agency work"/>
+      <unit id="CPPDSM4080A" title="Work in the real estate industry"/>
+      <unit id="CPPDSM4081A" title="Work in the stock and station agency sector"/>
+      <unit id="FNSICGEN302B" title="Use technology in the workplace"/>
+      <unit id="FNSICGEN305B" title="Maintain daily financial/business records"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30911" title="Certificate III in Pest Management">
+    <units>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="CPPPMT3002A" title="Assess pest management options"/>
+      <unit id="CPPPMT3005A" title="Modify environment to manage pests"/>
+      <unit id="CPPPMT3006A" title="Apply pesticides to manage pests"/>
+      <unit id="CPPPMT3007A" title="Implement pest management plans"/>
+      <unit id="CPPPMT3008A" title="Inspect and report on timber pests"/>
+      <unit id="CPPPMT3009A" title="Advise clients on pest management options"/>
+      <unit id="CPPPMT3010A" title="Control timber pests"/>
+      <unit id="CPPPMT3011A" title="Conduct fumigation"/>
+      <unit id="CPPPMT3017A" title="Repair and maintain service equipment"/>
+      <unit id="CPPPMT3018A" title="Maintain equipment and chemical storage areas"/>
+      <unit id="CPPPMT3019A" title="Organise and monitor pest management operations"/>
+      <unit id="CPPPMT3026A" title="Select and obtain pest management vehicles, equipment and materials"/>
+      <unit id="CPPPMT3029A" title="Plan and schedule pest management operations"/>
+      <unit id="CPPPMT3042A" title="Install physical termite barriers"/>
+      <unit id="CPPPMT3043A" title="Prepare and present pest management proposals"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30811" title="Certificate III in Fire Protection Inspection and Testing">
+    <units>
+      <unit id="BSBCMN311B" title="Maintain workplace safety"/>
+      <unit id="BSBCUS301A" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBFLM306C" title="Provide workplace information and resourcing plans"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBFLM311C" title="Support a workplace learning environment"/>
+      <unit id="BSBFLM312C" title="Contribute to team effectiveness"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="CPCPFS3022A" title="Conduct annual functional testing of complex water-based fire-suppression systems"/>
+      <unit id="CPCPFS3023A" title="Conduct functional water flow testing"/>
+      <unit id="CPPCMN2002A" title="Participate in workplace safety arrangements"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPFES2003A" title="Safely move loads and dangerous goods"/>
+      <unit id="CPPFES2004A" title="Identify types of installed fire safety equipment and systems"/>
+      <unit id="CPPFES2005A" title="Demonstrate first attack firefighting equipment"/>
+      <unit id="CPPFES2006A" title="Prepare for installation and servicing operations"/>
+      <unit id="CPPFES2007A" title="Maintain quality of work and promote continuous improvement"/>
+      <unit id="CPPFES2047A" title="Inspect and test control and indicating equipment"/>
+      <unit id="CPPFES3024A" title="Inspect and maintain portable foam-generating equipment"/>
+      <unit id="CPPFES3032A" title="Conduct enclosure integrity testing"/>
+      <unit id="CPPFES3038A" title="Inspect, test and maintain portable fire monitors"/>
+      <unit id="CPPFES3040A" title="Install passive fire and smoke containment systems"/>
+      <unit id="CPPFES3042A" title="Install and commission pre-engineered fire-suppression systems"/>
+      <unit id="CPPFES3044A" title="Interpret installation requirements for gaseous fire-suppression systems"/>
+      <unit id="CPPFES3045A" title="Install gaseous agent containers and actuators"/>
+      <unit id="CPPFES3046A" title="Decommission gaseous agent containers and actuators"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30112" title="Certificate III in Surveying and Spatial Information Services">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM305C" title="Support operational plan"/>
+      <unit id="BSBFLM309C" title="Support continuous improvement systems and processes"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3003A" title="Contribute to workplace safety arrangements"/>
+      <unit id="CPPSIS2011A" title="Prepare for work in the spatial information services industry"/>
+      <unit id="CPPSIS3011A" title="Apply map presentation principles"/>
+      <unit id="CPPSIS3013A" title="Support spatial process improvement"/>
+      <unit id="CPPSIS3014A" title="Respond to client spatial enquiry"/>
+      <unit id="CPPSIS3015A" title="Collect spatial data"/>
+      <unit id="CPPSIS3016A" title="Provide field support services"/>
+      <unit id="CPPSIS3017A" title="Select, operate and maintain equipment and supplies"/>
+      <unit id="CPPSIS3018A" title="Transfer personnel and loads"/>
+      <unit id="CPPSIS3019A" title="Perform basic drafting"/>
+      <unit id="CPPSIS3020A" title="Perform basic surveying computations"/>
+      <unit id="CPPSIS4022A" title="Store and retrieve spatial data"/>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="CPPSIS4030A" title="Operate surveying equipment"/>
+      <unit id="HLTFA301C" title="Apply first aid"/>
+      <unit id="ICAICT203A" title="Operate application software packages"/>
+      <unit id="RIIRIS301B" title="Apply risk management processes"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+      <unit id="TLIC2025A" title="Operate four wheel drive vehicle"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30311" title="Certificate III in Property Services (Operations)">
+    <units>
+      <unit id="BSBADM311A" title="Maintain business resources"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBSUS201A" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPDSM3006B" title="Collect and process property information"/>
+      <unit id="CPPDSM3007B" title="Identify risks and opportunities in the property industry"/>
+      <unit id="CPPDSM3009A" title="Maintain workplace safety in the property industry"/>
+      <unit id="CPPDSM3010B" title="Meet customer needs and expectations in the property industry"/>
+      <unit id="CPPDSM3011B" title="Monitor building facilities"/>
+      <unit id="CPPDSM3014A" title="Undertake property inspection"/>
+      <unit id="CPPDSM3016A" title="Work in the property industry"/>
+      <unit id="CPPDSM3017A" title="Work in the strata/community management sector"/>
+      <unit id="CPPDSM3019B" title="Communicate with clients as part of agency operations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP31212" title="Certificate III in Swimming Pool and Spa Service">
+    <units>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="CPCCCM2010A" title="Work safely at heights"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPPCMN3005A" title="Complete client documentation"/>
+      <unit id="CPPDSM3009A" title="Maintain workplace safety in the property industry"/>
+      <unit id="CPPDSM3010B" title="Meet customer needs and expectations in the property industry"/>
+      <unit id="CPPSPS3001A" title="Handle, transport and store swimming pool and spa chemicals safely"/>
+      <unit id="CPPSPS3002A" title="Perform basic swimming pool and spa measurements and calculations"/>
+      <unit id="CPPSPS3003A" title="Routinely maintain swimming pools and spas"/>
+      <unit id="CPPSPS3004A" title="Routinely maintain swimming pool and spa water circulation and filtration systems"/>
+      <unit id="CPPSPS3005A" title="Routinely maintain swimming pool and spa dosing systems"/>
+      <unit id="CPPSPS3006A" title="Routinely maintain swimming pool and spa cleaning and vacuuming systems"/>
+      <unit id="CPPSPS3007A" title="Routinely maintain swimming pool and spa heating systems"/>
+      <unit id="CPPSPS3008A" title="Work in the swimming pool and spa servicing industry"/>
+      <unit id="CPPSPS3009A" title="Maintain swimming pool and spa stock"/>
+      <unit id="CPPSPS3010A" title="Sell swimming pool and spa products and services"/>
+      <unit id="CPPSPS3011A" title="Use and maintain business technology related to swimming pool and spa servicing"/>
+      <unit id="CPPSPS3012A" title="Read and apply information from swimming pool and spa technical manuals"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU304A" title="Maintain pool water quality"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP30607" title="Certificate III in Investigative Services">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBSMB301A" title="Investigate micro business opportunities"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="CPPSEC3001A" title="Maintain workplace safety in the security industry"/>
+      <unit id="CPPSEC3009A" title="Prepare and present evidence in court"/>
+      <unit id="CPPSEC3012A" title="Store and protect information"/>
+      <unit id="CPPSEC3026A" title="Work effectively in investigative services"/>
+      <unit id="CPPSEC3027A" title="Develop investigative plan"/>
+      <unit id="CPPSEC3028A" title="Compile investigative report"/>
+      <unit id="CPPSEC3029A" title="Provide quality investigative services to clients"/>
+      <unit id="CPPSEC3030A" title="Conduct surveillance"/>
+      <unit id="CPPSEC3031A" title="Organise and operate a surveillance vehicle"/>
+      <unit id="CPPSEC3032A" title="Gather information by factual investigation"/>
+      <unit id="CPPSEC3033A" title="Conduct interviews and take statements"/>
+      <unit id="CPPSEC3034A" title="Operate information gathering equipment"/>
+      <unit id="FNSMERC304B" title="Locate subjects"/>
+      <unit id="PSPPOL404A" title="Support policy implementation"/>
+      <unit id="PSPREG401C" title="Exercise regulatory powers"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP30411" title="Certificate III in Security Operations">
+    <units>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBWOR301A" title="Organise personal work priorities and development"/>
+      <unit id="CPPCMN3002A" title="Develop a traffic management plan"/>
+      <unit id="CPPSEC2011B" title="Control access to and exit from premises"/>
+      <unit id="CPPSEC2012A" title="Monitor and control individual and crowd behaviour"/>
+      <unit id="CPPSEC3001A" title="Maintain workplace safety in the security industry"/>
+      <unit id="CPPSEC3002A" title="Manage conflict through negotiation"/>
+      <unit id="CPPSEC3003A" title="Determine response to security risk situation"/>
+      <unit id="CPPSEC3004A" title="Lead small teams in the security industry"/>
+      <unit id="CPPSEC3005A" title="Prepare and present security documentation and reports"/>
+      <unit id="CPPSEC3006A" title="Coordinate a quality security service to clients"/>
+      <unit id="CPPSEC3007A" title="Maintain security of environment"/>
+      <unit id="CPPSEC3008A" title="Control security risk situations using firearms"/>
+      <unit id="CPPSEC3009A" title="Prepare and present evidence in court"/>
+      <unit id="CPPSEC3010A" title="Manage dogs for security functions"/>
+      <unit id="CPPSEC3011A" title="Handle dogs for security patrol"/>
+      <unit id="CPPSEC3012A" title="Store and protect information"/>
+      <unit id="CPPSEC3013A" title="Control persons using empty hand techniques"/>
+      <unit id="CPPSEC3014A" title="Control persons using baton"/>
+      <unit id="CPPSEC3015A" title="Restrain persons using handcuffs"/>
+      <unit id="CPPSEC3016A" title="Defend persons using spray"/>
+      <unit id="CPPSEC3017A" title="Plan and conduct evacuation of premises"/>
+      <unit id="CPPSEC3018A" title="Provide for the safety of persons at risk"/>
+      <unit id="CPPSEC3019A" title="Operate specialised security equipment"/>
+      <unit id="CPPSEC3020A" title="Monitor security from control room"/>
+      <unit id="CPPSEC3021A" title="Maintain and use security database"/>
+      <unit id="CPPSEC3022A" title="Maintain biometrics database"/>
+      <unit id="CPPSEC3023A" title="Coordinate biometric equipment and systems"/>
+      <unit id="CPPSEC3050A" title="Load and unload cash in transit in an unsecured environment"/>
+      <unit id="CPPSEC3051A" title="Implement cash-in-transit security procedures"/>
+      <unit id="CPPSEC3052A" title="Inspect and test cash-in-transit security equipment"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP31011" title="Certificate III in Cleaning Operations">
+    <units>
+      <unit id="CPPCCL2002A" title="Use bonnet cleaning"/>
+      <unit id="CPPCCL2003A" title="Use dry foam shampoo"/>
+      <unit id="CPPCCL2004A" title="Use dry absorbent compound"/>
+      <unit id="CPPCCL2005A" title="Use wet foam shampoo"/>
+      <unit id="CPPCLO2033A" title="Plan for safe and efficient cleaning activities"/>
+      <unit id="CPPCLO2035A" title="Maintain cleaning storage areas"/>
+      <unit id="CPPCLO3002A" title="Restore hard floor surfaces"/>
+      <unit id="CPPCLO3003A" title="Replace a hard floor finish"/>
+      <unit id="CPPCLO3013A" title="Clean window coverings"/>
+      <unit id="CPPCLO3014A" title="Maintain 'clean room' environments"/>
+      <unit id="CPPCLO3016A" title="Wash furniture and fittings"/>
+      <unit id="CPPCLO3020A" title="Clean using pressure washing"/>
+      <unit id="CPPCLO3021A" title="Clean industrial machinery"/>
+      <unit id="CPPCLO3036A" title="Clean at high levels"/>
+      <unit id="CPPCLO3038A" title="Clean food-handling areas"/>
+      <unit id="CPPCLO3039A" title="Support leadership in the workplace"/>
+      <unit id="CPPCLO3044A" title="Clean using steam sanitising techniques"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3003A" title="Contribute to workplace safety arrangements"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="HLTIN301C" title="Comply with infection control policies and procedures"/>
+      <unit id="HLTIN403B" title="Implement and monitor infection control policy and procedures"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP41212" title="Certificate IV in NatHERS Assessment">
+    <units>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPCCOHS1001A" title="Work safely in the construction industry"/>
+      <unit id="CPPACC4015A" title="Follow site occupational health and safety requirements"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="CPPCMN4004B" title="Facilitate effective client relationships"/>
+      <unit id="CPPCMN4008A" title="Read and extract information from plans, drawings and specifications for residential buildings"/>
+      <unit id="CPPCMN4013A" title="Operate a sustainable business"/>
+      <unit id="CPPHSA4001A" title="Assess household energy use"/>
+      <unit id="CPPHSA4002A" title="Assess household waste generation and management"/>
+      <unit id="CPPHSA4003A" title="Assess household water use"/>
+      <unit id="CPPHSA4004A" title="Assess thermal performance of existing residences using non-rating tools and techniques"/>
+      <unit id="CPPHSA4008A" title="Apply sustainability principles, legislation and information on government programs"/>
+      <unit id="CPPHSA4011A" title="Collect information to support NatHERS assessment"/>
+      <unit id="CPPHSA4012A" title="Conduct NatHERS assessment of planned residential buildings"/>
+      <unit id="CPPHSA4013A" title="Conduct NatHERS assessment of existing residential buildings"/>
+      <unit id="CPPHSA4014A" title="Meet regulatory requirements when completing NatHERS assessments"/>
+      <unit id="CPPHSA4015A" title="Assess impact of building elements on thermal performance of residential buildings"/>
+      <unit id="CPPHSA4016A" title="Advise on options for enhancing thermal performance of residential buildings"/>
+      <unit id="CPPHSA4017A" title="Cost measures to improve thermal performance of residential buildings"/>
+      <unit id="CPPHSA4018A" title="Manage own work, professional development and ethical behaviour"/>
+      <unit id="CPPHSA4019A" title="Inform clients about thermal performance of residential buildings"/>
+      <unit id="CPPHSA4020A" title="Operate computer systems to support NatHERS assessment"/>
+      <unit id="CPPHSA5001A" title="Assess thermal performance of complex residential buildings"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP41312" title="Certificate IV in Swimming Pool and Spa Service">
+    <units>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="CPCCCM2010A" title="Work safely at heights"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPPACC4015A" title="Follow site occupational health and safety requirements"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPCMN4004B" title="Facilitate effective client relationships"/>
+      <unit id="CPPSPS3010A" title="Sell swimming pool and spa products and services"/>
+      <unit id="CPPSPS3011A" title="Use and maintain business technology related to swimming pool and spa servicing"/>
+      <unit id="CPPSPS3012A" title="Read and apply information from swimming pool and spa technical manuals"/>
+      <unit id="CPPSPS4001A" title="Assess and treat water problems in swimming pools and spas"/>
+      <unit id="CPPSPS4002A" title="Install, service and repair swimming pool and spa circulation and filtration systems"/>
+      <unit id="CPPSPS4003A" title="Install, service and repair swimming pool and spa dosing systems"/>
+      <unit id="CPPSPS4004A" title="Install, service and repair swimming pool and spa cleaning and vacuuming systems"/>
+      <unit id="CPPSPS4005A" title="Install, service and repair swimming pool and spa heating systems"/>
+      <unit id="CPPSPS4006A" title="Install, service and repair low voltage swimming pool and spa lighting systems"/>
+      <unit id="CPPSPS4007A" title="Inspect, service and repair aquatic facility plant and equipment"/>
+      <unit id="CPPSPS4008A" title="Install, service and repair spas"/>
+      <unit id="CPPSPS4009A" title="Estimate cost of swimming pool and spa products and services"/>
+      <unit id="CPPSPS4010A" title="Manage own role as a swimming pool and spa technician"/>
+      <unit id="CPPSPS4011A" title="Comply with regulatory requirements for swimming pool and spa servicing"/>
+      <unit id="CPPSPS4012A" title="Design, install and service automated systems for swimming pools and spas"/>
+      <unit id="CPPSPS4013A" title="Establish maintenance plans for swimming pools and spas"/>
+      <unit id="CPPSPS4014A" title="Drain and acid wash swimming pools and spas"/>
+      <unit id="CPPSPS4015A" title="Maintain spa water quality"/>
+      <unit id="CPPSPS4016A" title="Advise on swimming pool and spa products and services"/>
+      <unit id="CPPSPS4017A" title="Detect leaks in swimming pools and spas"/>
+      <unit id="HLTFA311A" title="Apply first aid"/>
+      <unit id="NWP277A" title="Work safely with liquefied chlorine gas"/>
+      <unit id="RIIOHS202A" title="Enter and work in confined spaces"/>
+      <unit id="SISCAQU201A" title="Monitor pool water quality"/>
+      <unit id="SISCAQU303A" title="Operate aquatic facility plant and equipment"/>
+      <unit id="SISCAQU304A" title="Maintain pool water quality"/>
+      <unit id="SISCAQU305A" title="Implement aquatic facility plant and equipment maintenance program"/>
+      <unit id="SISCAQU415A" title="Develop aquatic facility maintenance procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40407" title="Certificate IV in Property Services (Stock and Station Agency)">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPDSM4001A" title="Act as a buyer's agent"/>
+      <unit id="CPPDSM4005A" title="Establish and build client-agency relationships"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4007A" title="Identify legal and ethical requirements of property management to complete agency work"/>
+      <unit id="CPPDSM4008A" title="Identify legal and ethical requirements of property sales to complete agency work"/>
+      <unit id="CPPDSM4009B" title="Interpret legislation to complete agency work"/>
+      <unit id="CPPDSM4015B" title="Minimise agency and consumer risk"/>
+      <unit id="CPPDSM4021A" title="Sell and finalise sale of rural property by private treaty"/>
+      <unit id="CPPDSM4024A" title="Advise clients on livestock sale and purchase options"/>
+      <unit id="CPPDSM4030A" title="Appraise rural property"/>
+      <unit id="CPPDSM4037A" title="Conduct auction of rural property"/>
+      <unit id="CPPDSM4038A" title="Conduct goods, chattels or equipment clearing sale or auction"/>
+      <unit id="CPPDSM4039A" title="Conduct livestock sale by auction"/>
+      <unit id="CPPDSM4045A" title="Facilitate meetings in the property industry"/>
+      <unit id="CPPDSM4051A" title="Lease rural property"/>
+      <unit id="CPPDSM4052A" title="List and market rural property for sale or lease"/>
+      <unit id="CPPDSM4056A" title="Manage conflict and disputes in the property industry"/>
+      <unit id="CPPDSM4057A" title="Monitor a safe workplace in the property industry"/>
+      <unit id="CPPDSM4067A" title="Plan for and complete sale of rural property by auction"/>
+      <unit id="CPPDSM4068A" title="Prepare livestock for sale at saleyards"/>
+      <unit id="CPPDSM4072A" title="Provide leadership in the property industry"/>
+      <unit id="CPPDSM4073A" title="Provide rural property management services"/>
+      <unit id="CPPDSM4075A" title="Select livestock for sale"/>
+      <unit id="CPPDSM4077A" title="Sell livestock by private sale"/>
+      <unit id="CPPDSM4078A" title="Sell rural property by tender"/>
+      <unit id="CPPDSM4081A" title="Work in the stock and station agency sector"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40112" title="Certificate IV in Surveying">
+    <units>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPCMN4005A" title="Facilitate effective teamwork"/>
+      <unit id="CPPCMN4006A" title="Facilitate effective workplace relationships"/>
+      <unit id="CPPDSM3009A" title="Maintain workplace safety in the property industry"/>
+      <unit id="CPPSIS4022A" title="Store and retrieve spatial data"/>
+      <unit id="CPPSIS4025A" title="Collect basic GNSS data"/>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="CPPSIS4027A" title="Organise field services"/>
+      <unit id="CPPSIS4028A" title="Organise equipment and supplies"/>
+      <unit id="CPPSIS4029A" title="Collect and set out basic surveying data"/>
+      <unit id="CPPSIS4030A" title="Operate surveying equipment"/>
+      <unit id="CPPSIS4031A" title="Perform surveying computations"/>
+      <unit id="CPPSIS4032A" title="Plan and conduct survey expeditions"/>
+      <unit id="CPPSIS4033A" title="Participate in spatial process improvement"/>
+      <unit id="CPPSIS4036A" title="Operate spatial software applications"/>
+      <unit id="CPPSIS4037A" title="Produce computer-aided drawings"/>
+      <unit id="CPPSIS4038A" title="Prepare and present GIS data"/>
+      <unit id="ICADBS502A" title="Design a database"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40307" title="Certificate IV in Property Services (Real Estate)">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPDSM3008A" title="Maintain and protect condition of managed properties"/>
+      <unit id="CPPDSM3017A" title="Work in the strata/community management sector"/>
+      <unit id="CPPDSM4001A" title="Act as a buyer's agent"/>
+      <unit id="CPPDSM4002A" title="Apply knowledge of state or territory legislative and regulatory framework to complete agency work"/>
+      <unit id="CPPDSM4003A" title="Appraise property"/>
+      <unit id="CPPDSM4004A" title="Conduct auction"/>
+      <unit id="CPPDSM4005A" title="Establish and build client-agency relationships"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4007A" title="Identify legal and ethical requirements of property management to complete agency work"/>
+      <unit id="CPPDSM4008A" title="Identify legal and ethical requirements of property sales to complete agency work"/>
+      <unit id="CPPDSM4009B" title="Interpret legislation to complete agency work"/>
+      <unit id="CPPDSM4010A" title="Lease property"/>
+      <unit id="CPPDSM4011A" title="List property for lease"/>
+      <unit id="CPPDSM4012A" title="List property for sale"/>
+      <unit id="CPPDSM4013A" title="Market property for lease"/>
+      <unit id="CPPDSM4014A" title="Market property for sale"/>
+      <unit id="CPPDSM4015B" title="Minimise agency and consumer risk"/>
+      <unit id="CPPDSM4016A" title="Monitor and manage lease or tenancy agreement"/>
+      <unit id="CPPDSM4017A" title="Negotiate effectively in property transactions"/>
+      <unit id="CPPDSM4018A" title="Prepare and present property reports"/>
+      <unit id="CPPDSM4019A" title="Prepare for auction and complete sale"/>
+      <unit id="CPPDSM4020A" title="Present at tribunals"/>
+      <unit id="CPPDSM4021A" title="Sell and finalise sale of rural property by private treaty"/>
+      <unit id="CPPDSM4022A" title="Sell and finalise the sale of property by private treaty"/>
+      <unit id="CPPDSM4023A" title="Act as a tenant's agent"/>
+      <unit id="CPPDSM4029A" title="Appraise business"/>
+      <unit id="CPPDSM4030A" title="Appraise rural property"/>
+      <unit id="CPPDSM4033A" title="Assess and value goods, chattels, plant and equipment"/>
+      <unit id="CPPDSM4034A" title="Assess and implement strata/community management agreement"/>
+      <unit id="CPPDSM4036A" title="Broker sale of industrial, commercial and retail property"/>
+      <unit id="CPPDSM4038A" title="Conduct goods, chattels or equipment clearing sale or auction"/>
+      <unit id="CPPDSM4040A" title="Contribute to life cycle maintenance strategy"/>
+      <unit id="CPPDSM4041A" title="Contribute to development of a tenancy mix strategy"/>
+      <unit id="CPPDSM4043A" title="Coordinate fit-out of property and facilities"/>
+      <unit id="CPPDSM4045A" title="Facilitate meetings in the property industry"/>
+      <unit id="CPPDSM4046A" title="Manage tenancy disputes"/>
+      <unit id="CPPDSM4049A" title="Implement maintenance plan for managed properties"/>
+      <unit id="CPPDSM4050A" title="Lease industrial, commercial and retail property"/>
+      <unit id="CPPDSM4051A" title="Lease rural property"/>
+      <unit id="CPPDSM4053A" title="List business for sale"/>
+      <unit id="CPPDSM4056A" title="Manage conflict and disputes in the property industry"/>
+      <unit id="CPPDSM4057A" title="Monitor a safe workplace in the property industry"/>
+      <unit id="CPPDSM4058A" title="Monitor service requirements in the property industry"/>
+      <unit id="CPPDSM4059A" title="Monitor space use in the property industry"/>
+      <unit id="CPPDSM4060A" title="Negotiate sale and manage sale to completion or settlement"/>
+      <unit id="CPPDSM4061A" title="Obtain prospects for listing"/>
+      <unit id="CPPDSM4062A" title="Occupy space"/>
+      <unit id="CPPDSM4069A" title="Promote and market listed business"/>
+      <unit id="CPPDSM4074A" title="Select and appoint contractors in the property industry"/>
+      <unit id="CPPDSM4078A" title="Sell rural property by tender"/>
+      <unit id="CPPDSM4079A" title="Work in the business broking sector"/>
+      <unit id="CPPDSM4080A" title="Work in the real estate industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40611" title="Certificate IV in Property Services (Operations)">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT402A" title="Implement operational plan"/>
+      <unit id="BSBMKG413A" title="Promote products and services"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPCMN4009A" title="Develop team understanding of and commitment to sustainability"/>
+      <unit id="CPPCMN4010A" title="Cost and quote sustainable product and service provision"/>
+      <unit id="CPPCMN4011A" title="Communicate and market sustainable solutions"/>
+      <unit id="CPPCMN4012A" title="Contribute to sustainable solutions throughout a building's life cycle"/>
+      <unit id="CPPCMN4013A" title="Operate a sustainable business"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4025A" title="Advise on performance of asset"/>
+      <unit id="CPPDSM4026A" title="Analyse property and facility information"/>
+      <unit id="CPPDSM4027A" title="Analyse resource use in building operations"/>
+      <unit id="CPPDSM4028A" title="Identify and analyse risks and opportunities in the property industry"/>
+      <unit id="CPPDSM4031A" title="Arrange lease of space"/>
+      <unit id="CPPDSM4032A" title="Arrange valuation of facilities and assets"/>
+      <unit id="CPPDSM4034A" title="Assess and implement strata/community management agreement"/>
+      <unit id="CPPDSM4040A" title="Contribute to life cycle maintenance strategy"/>
+      <unit id="CPPDSM4041A" title="Contribute to development of a tenancy mix strategy"/>
+      <unit id="CPPDSM4042A" title="Coordinate construction contract"/>
+      <unit id="CPPDSM4043A" title="Coordinate fit-out of property and facilities"/>
+      <unit id="CPPDSM4044A" title="Coordinate maintenance and repair of properties and facilities"/>
+      <unit id="CPPDSM4045A" title="Facilitate meetings in the property industry"/>
+      <unit id="CPPDSM4047A" title="Implement and monitor procurement process"/>
+      <unit id="CPPDSM4048B" title="Implement customer service strategies in the property industry"/>
+      <unit id="CPPDSM4055A" title="Maintain asset management system"/>
+      <unit id="CPPDSM4056A" title="Manage conflict and disputes in the property industry"/>
+      <unit id="CPPDSM4057A" title="Monitor a safe workplace in the property industry"/>
+      <unit id="CPPDSM4058A" title="Monitor service requirements in the property industry"/>
+      <unit id="CPPDSM4059A" title="Monitor space use in the property industry"/>
+      <unit id="CPPDSM4062A" title="Occupy space"/>
+      <unit id="CPPDSM4063A" title="Participate in developing and establishing property or facilities contracts"/>
+      <unit id="CPPDSM4064A" title="Participate in research of property investment"/>
+      <unit id="CPPDSM4066A" title="Plan and coordinate property and facility inspection"/>
+      <unit id="CPPDSM4071A" title="Promote process improvement in the property industry"/>
+      <unit id="CPPDSM4072A" title="Provide leadership in the property industry"/>
+      <unit id="CPPDSM4074A" title="Select and appoint contractors in the property industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP41011" title="Certificate IV in Cleaning Management">
+    <units>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="CPPCLO4022A" title="Organise and monitor cleaning operations"/>
+      <unit id="CPPCLO4024A" title="Control the supply of resources to the work site"/>
+      <unit id="CPPCLO4025A" title="Provide quotation for cleaning services"/>
+      <unit id="CPPCMN4001B" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPCMN4004B" title="Facilitate effective client relationships"/>
+      <unit id="CPPCMN4005A" title="Facilitate effective teamwork"/>
+      <unit id="CPPCMN4006A" title="Facilitate effective workplace relationships"/>
+      <unit id="CPPCMN4007A" title="Manage workplace safety arrangements"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP41110" title="Certificate IV in Home Sustainability Assessment">
+    <units>
+      <unit id="CPCCBC4014A" title="Prepare simple building sketches and drawings"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN3004A" title="Respond to enquiries and complaints"/>
+      <unit id="CPPCMN4004B" title="Facilitate effective client relationships"/>
+      <unit id="CPPCMN4008A" title="Read and extract information from plans, drawings and specifications for residential buildings"/>
+      <unit id="CPPHSA4001A" title="Assess household energy use"/>
+      <unit id="CPPHSA4002A" title="Assess household waste generation and management"/>
+      <unit id="CPPHSA4003A" title="Assess household water use"/>
+      <unit id="CPPHSA4004A" title="Assess thermal performance of existing residences using non-rating tools and techniques"/>
+      <unit id="CPPHSA4005A" title="Minimise health, safety and security risks when assessing home sustainability"/>
+      <unit id="CPPHSA4006A" title="Manage own work, professional development and ethical behaviour as a home sustainability assessor"/>
+      <unit id="CPPHSA4007A" title="Promote the adoption of home sustainability practices by residents"/>
+      <unit id="CPPHSA4008A" title="Apply sustainability principles, legislation and information on government programs"/>
+      <unit id="CPPHSA4010A" title="Estimate the cost of home sustainability measures"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP40507" title="Certificate IV in Property Services (Business Broking)">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMKG401B" title="Profile the market"/>
+      <unit id="BSBMKG402B" title="Analyse consumer behaviour for specific markets"/>
+      <unit id="BSBMKG507A" title="Interpret Market Trends And Developments"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBREL401A" title="Establish networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4015B" title="Minimise agency and consumer risk"/>
+      <unit id="CPPDSM4029A" title="Appraise business"/>
+      <unit id="CPPDSM4053A" title="List business for sale"/>
+      <unit id="CPPDSM4060A" title="Negotiate sale and manage sale to completion or settlement"/>
+      <unit id="CPPDSM4061A" title="Obtain prospects for listing"/>
+      <unit id="CPPDSM4069A" title="Promote and market listed business"/>
+      <unit id="CPPDSM4079A" title="Work in the business broking sector"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40911" title="Certificate IV in Waste Management">
+    <units>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBATSIW416C" title="Obtain and manage consultancy services"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBHRM401A" title="Review human resources functions"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBLED401A" title="Develop teams and individuals"/>
+      <unit id="BSBMGT406A" title="Plan and monitor continuous improvement"/>
+      <unit id="BSBMKG514A" title="Implement and monitor marketing activities"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSLS407A" title="Identify and plan sales prospects"/>
+      <unit id="BSBSLS408A" title="Present, secure and support sales solutions"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPCMN4004B" title="Facilitate effective client relationships"/>
+      <unit id="CPPCMN4005A" title="Facilitate effective teamwork"/>
+      <unit id="CPPCMN4006A" title="Facilitate effective workplace relationships"/>
+      <unit id="CPPCMN4007A" title="Manage workplace safety arrangements"/>
+      <unit id="CPPPMT3005A" title="Modify environment to manage pests"/>
+      <unit id="CPPWMT4001A" title="Plan waste audits"/>
+      <unit id="CPPWMT4002A" title="Carry out waste audits"/>
+      <unit id="CPPWMT4003A" title="Review, evaluate and document waste assessment findings"/>
+      <unit id="CPPWMT4006A" title="Organise waste recovery"/>
+      <unit id="CPPWMT4007A" title="Implement waste management plans"/>
+      <unit id="CPPWMT4022A" title="Monitor waste disposal sites"/>
+      <unit id="CPPWMT4027A" title="Select and obtain waste management plant, equipment and materials"/>
+      <unit id="CPPWMT4030A" title="Determine waste management services"/>
+      <unit id="CPPWMT4032A" title="Inform and educate clients on waste management issues"/>
+      <unit id="CPPWMT4035A" title="Undertake waste process audits"/>
+      <unit id="CPPWMT4037A" title="Conduct minor maintenance and repairs on waste processing plant and equipment"/>
+      <unit id="CPPWMT4050A" title="Deliver training in hazard identification and waste emergency responses"/>
+      <unit id="CPPWMT4052A" title="Organise waste management operations"/>
+      <unit id="CPPWMT4053A" title="Conduct and monitor waste management operations"/>
+      <unit id="CPPWMT4055A" title="Develop waste management proposals"/>
+      <unit id="CPPWMT4056A" title="Implement landfill rehabilitation plans"/>
+      <unit id="CPPWMT4060A" title="Apply lean management techniques"/>
+      <unit id="CPPWMT4062A" title="Apply waste avoidance techniques"/>
+      <unit id="TAEASS401A" title="Plan assessment activities and processes"/>
+      <unit id="TAEDEL301A" title="Provide work skill instruction"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TLID2016A" title="Load and unload explosives and dangerous goods"/>
+      <unit id="TLIF3063A" title="Administer the implementation of fatigue management strategies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40707" title="Certificate IV in Security and Risk Management">
+    <units>
+      <unit id="BSBADM409A" title="Coordinate business resources"/>
+      <unit id="BSBCUS401A" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBFIA402A" title="Report on financial activity"/>
+      <unit id="BSBINN301A" title="Promote innovation in a team environment"/>
+      <unit id="BSBITS401A" title="Maintain business technology"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404A" title="Develop work priorities"/>
+      <unit id="CPPSEC4001A" title="Manage a safe workplace in the security industry"/>
+      <unit id="CPPSEC4002A" title="Implement effective communication techniques"/>
+      <unit id="CPPSEC4003A" title="Advise on security needs"/>
+      <unit id="CPPSEC4004A" title="Monitor and review security operations"/>
+      <unit id="CPPSEC4005A" title="Facilitate workplace briefing and debriefing processes"/>
+      <unit id="CPPSEC4006A" title="Assess risks"/>
+      <unit id="CPPSEC4007A" title="Assess threat"/>
+      <unit id="CPPSEC4008A" title="Prepare a detailed tender"/>
+      <unit id="CPPSEC4009A" title="Interpret information from advanced security equipment"/>
+      <unit id="CPPSEC4010A" title="Manage monitoring centres"/>
+      <unit id="CPPSEC4011A" title="Coordinate field staff activity from control room"/>
+      <unit id="CPPSEC4012A" title="Identify and assess security of assets"/>
+      <unit id="CPPSEC4013A" title="Undertake case management of investigations"/>
+      <unit id="CPPSEC4014A" title="Commission and decommission networked security system"/>
+      <unit id="CPPSEC4015A" title="Maintain networked security system"/>
+      <unit id="CPPSEC4016A" title="Install networked security system"/>
+      <unit id="CPPSEC4017A" title="Determine security system configurations"/>
+      <unit id="CPPSEC4018A" title="Configure security devices on IT networks"/>
+      <unit id="CPPSEC4019A" title="Identify and diagnose security system or network fault"/>
+      <unit id="CPPSEC4020A" title="Advise on the application of biometrics"/>
+      <unit id="CPPSEC4021A" title="Prepare standard operating procedures for the use of biometric technology"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40212" title="Certificate IV in Spatial Information Services">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="CPPCMN3001B" title="Participate in environmentally sustainable work practices"/>
+      <unit id="CPPCMN4005A" title="Facilitate effective teamwork"/>
+      <unit id="CPPCMN4006A" title="Facilitate effective workplace relationships"/>
+      <unit id="CPPDSM3009A" title="Maintain workplace safety in the property industry"/>
+      <unit id="CPPSIS4021A" title="Maintain spatial systems"/>
+      <unit id="CPPSIS4022A" title="Store and retrieve spatial data"/>
+      <unit id="CPPSIS4023A" title="Facilitate effective spatial client relationships"/>
+      <unit id="CPPSIS4024A" title="Collect and set out spatial data"/>
+      <unit id="CPPSIS4025A" title="Collect basic GNSS data"/>
+      <unit id="CPPSIS4026A" title="Read and interpret image data"/>
+      <unit id="CPPSIS4027A" title="Organise field services"/>
+      <unit id="CPPSIS4028A" title="Organise equipment and supplies"/>
+      <unit id="CPPSIS4030A" title="Operate surveying equipment"/>
+      <unit id="CPPSIS4033A" title="Participate in spatial process improvement"/>
+      <unit id="CPPSIS4034A" title="Maintain spatial data"/>
+      <unit id="CPPSIS4035A" title="Apply GIS software to problem-solving techniques"/>
+      <unit id="CPPSIS4036A" title="Operate spatial software applications"/>
+      <unit id="CPPSIS4037A" title="Produce computer-aided drawings"/>
+      <unit id="CPPSIS4038A" title="Prepare and present GIS data"/>
+      <unit id="CPPSIS5035A" title="Obtain and validate spatial data"/>
+      <unit id="CUVACD301A" title="Produce drawings to communicate ideas"/>
+      <unit id="ICADBS502A" title="Design a database"/>
+      <unit id="ICAICT302A" title="Install and optimise operating system software"/>
+      <unit id="ICAWEB401A" title="Design a website to meet technical requirements"/>
+      <unit id="ICAWEB411A" title="Produce basic client-side script for dynamic web pages"/>
+      <unit id="ICAWEB429A" title="Create a markup language document to specification"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+      <unit id="RIISTD201A" title="Read and interpret maps"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP40811" title="Certificate IV in Access Consulting">
+    <units>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSMB402A" title="Plan small business finances"/>
+      <unit id="BSBSMB403A" title="Market the small business"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBSMB405A" title="Monitor and manage small business operations"/>
+      <unit id="BSBSMB406A" title="Manage small business finances"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRK410A" title="Implement industrial relations procedures"/>
+      <unit id="CHCPOL402B" title="Contribute to policy development"/>
+      <unit id="CHCPOL403B" title="Undertake research activities"/>
+      <unit id="CPCCCM2001A" title="Read and interpret plans and specifications"/>
+      <unit id="CPPACC4001A" title="Apply disability awareness to assessing access situations"/>
+      <unit id="CPPACC4002A" title="Apply building control legislation to assess small-scale buildings for access"/>
+      <unit id="CPPACC4003A" title="Assess construction plans"/>
+      <unit id="CPPACC4004A" title="Communicate effectively as an access consultant"/>
+      <unit id="CPPACC4005A" title="Conduct a building access audit"/>
+      <unit id="CPPACC4006A" title="Conduct a playground access audit"/>
+      <unit id="CPPACC4007A" title="Conduct a streetscape access audit"/>
+      <unit id="CPPACC4008A" title="Conduct a transport conveyance and boarding device access audit"/>
+      <unit id="CPPACC4009A" title="Conduct a transport premises access audit"/>
+      <unit id="CPPACC4010A" title="Conduct an aged care facility access audit"/>
+      <unit id="CPPACC4011A" title="Conduct an educational facility access audit"/>
+      <unit id="CPPACC4012A" title="Conduct an outdoor recreation area access audit"/>
+      <unit id="CPPACC4013A" title="Contribute effectively to building development teams"/>
+      <unit id="CPPACC4014A" title="Facilitate the development of Disability Discrimination Act Action Plans"/>
+      <unit id="CPPACC4015A" title="Follow site occupational health and safety requirements"/>
+      <unit id="CPPACC4016A" title="Manage risk"/>
+      <unit id="CPPACC4017A" title="Prepare access reports"/>
+      <unit id="CPPACC4018A" title="Prepare, deliver and evaluate public education sessions on access"/>
+      <unit id="CPPACC4019A" title="Provide access advice on building fitout"/>
+      <unit id="CPPACC4020A" title="Provide access advice on building renovations"/>
+      <unit id="CPPACC4021A" title="Provide access advice on the provision of services"/>
+      <unit id="CPPACC4022A" title="Work effectively as an access consultant"/>
+      <unit id="CPPDSM4045A" title="Facilitate meetings in the property industry"/>
+      <unit id="CPPDSM4056A" title="Manage conflict and disputes in the property industry"/>
+      <unit id="CPPSEC3009A" title="Prepare and present evidence in court"/>
+      <unit id="HLTHIR403B" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+      <unit id="TAEDEL401A" title="Plan, organise and deliver group-based learning"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL403A" title="Coordinate and facilitate distance-based learning"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+      <unit id="TAEDES402A" title="Use training packages and accredited courses to meet client needs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50711" title="Diploma of Access Consulting">
+    <units>
+      <unit id="BSBMED301B" title="Interpret and apply medical terminology appropriately"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWRK509A" title="Manage industrial relations"/>
+      <unit id="CHCPOL606B" title="Coordinate policy development"/>
+      <unit id="CPCCSV5003A" title="Produce working drawings for residential buildings"/>
+      <unit id="CPCCSV5004A" title="Apply legislation to urban development and building controls"/>
+      <unit id="CPCCSV5010A" title="Interact with clients in a regulated environment"/>
+      <unit id="CPCCSV6009A" title="Implement performance-based codes and risk management principles for buildings up to three storeys"/>
+      <unit id="CPCCSV6011A" title="Apply legal procedures to building surveying"/>
+      <unit id="CPCCSV6013A" title="Coordinate building refurbishment"/>
+      <unit id="CPPACC4001A" title="Apply disability awareness to assessing access situations"/>
+      <unit id="CPPACC4002A" title="Apply building control legislation to assess small-scale buildings for access"/>
+      <unit id="CPPACC4004A" title="Communicate effectively as an access consultant"/>
+      <unit id="CPPACC4005A" title="Conduct a building access audit"/>
+      <unit id="CPPACC4006A" title="Conduct a playground access audit"/>
+      <unit id="CPPACC4007A" title="Conduct a streetscape access audit"/>
+      <unit id="CPPACC4008A" title="Conduct a transport conveyance and boarding device access audit"/>
+      <unit id="CPPACC4009A" title="Conduct a transport premises access audit"/>
+      <unit id="CPPACC4010A" title="Conduct an aged care facility access audit"/>
+      <unit id="CPPACC4011A" title="Conduct an educational facility access audit"/>
+      <unit id="CPPACC4012A" title="Conduct an outdoor recreation area access audit"/>
+      <unit id="CPPACC4015A" title="Follow site occupational health and safety requirements"/>
+      <unit id="CPPACC4017A" title="Prepare access reports"/>
+      <unit id="CPPACC4022A" title="Work effectively as an access consultant"/>
+      <unit id="CPPACC5001A" title="Assess documentation of building work for access compliance"/>
+      <unit id="CPPACC5002A" title="Inspect access compliance during the building process"/>
+      <unit id="CPPACC5003A" title="Apply anthropometric principles to accessible building design and fitout"/>
+      <unit id="CPPACC5004A" title="Apply building codes and standards to accessible large-scale buildings"/>
+      <unit id="CPPACC5005A" title="Interpret and apply building control legislation when assessing large-scale buildings for access"/>
+      <unit id="CPPACC5006A" title="Apply ergonomic principles to accessible building design and fitout"/>
+      <unit id="CPPACC5007A" title="Apply mechanics of human body functions to accessible building design and fitout"/>
+      <unit id="CPPACC5008A" title="Assess the construction of existing buildings and new building work required to be accessible"/>
+      <unit id="CPPACC5009A" title="Evaluate materials for the construction of buildings for access"/>
+      <unit id="CPPACC5010A" title="Provide access advice on the design of the built environment"/>
+      <unit id="CPPACC5011A" title="Prepare a concept design for accessible building work"/>
+      <unit id="CPPACC5012A" title="Prepare a design brief for accessible building work"/>
+      <unit id="CPPACC5013A" title="Prepare and administer tender documentation for accessible building work"/>
+      <unit id="CPPACC5014A" title="Prepare contract documentation for accessible building work"/>
+      <unit id="CPPACC5015A" title="Prepare specification documentation for accessible building work"/>
+      <unit id="CPPACC5016A" title="Provide expert access advice on renovations to private dwellings"/>
+      <unit id="CPPACC5017A" title="Provide expert access advice on building renovations"/>
+      <unit id="CPPACC5018A" title="Provide expert access advice to a complainant or respondent"/>
+      <unit id="CPPACC5019A" title="Coordinate the development and implementation of Disability Discrimination Act Action Plans"/>
+      <unit id="CPPACC5020A" title="Undertake research on access issues"/>
+      <unit id="CPPACC6001A" title="Participate as an access expert on an Access Panel"/>
+      <unit id="CPPACC6002A" title="Apply performance-based codes and risk management principles to assessing buildings for access"/>
+      <unit id="CPPACC6003A" title="Apply unjustifiable hardship principles to Alternative Building Solutions for access"/>
+      <unit id="CPPDSM5001A" title="Advise on use and design of facilities"/>
+      <unit id="CPPDSM5007A" title="Coordinate construction or renovation of facilities"/>
+      <unit id="CPPDSM5023A" title="Implement facilities management plan"/>
+      <unit id="CPPDSM5024A" title="Implement facilities procurement systems"/>
+      <unit id="CPPDSM5027A" title="Provide facilities and amenities for property users"/>
+      <unit id="CPPDSM5034A" title="Monitor performance of property or facility portfolio"/>
+      <unit id="HLTHIR403B" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="LGACOM501B" title="Develop and organise public education programs"/>
+      <unit id="LMFFT4010B" title="Identify and calculate production costs"/>
+      <unit id="PSPREG402C" title="Promote client compliance"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50112" title="Diploma of Surveying">
+    <units>
+      <unit id="AHCLPW404A" title="Produce maps for land management purposes"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="CPCCSV5007A" title="Undertake site surveys and set-out procedures for building projects"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPSIS4038A" title="Prepare and present GIS data"/>
+      <unit id="CPPSIS5031A" title="Plan spatial data collection and validation"/>
+      <unit id="CPPSIS5033A" title="Implement a spatial information services project plan"/>
+      <unit id="CPPSIS5037A" title="Maintain complex spatial data systems"/>
+      <unit id="CPPSIS5040A" title="Collate and interpret spatial data"/>
+      <unit id="CPPSIS5043A" title="Design a spatial data storage system"/>
+      <unit id="CPPSIS5044A" title="Develop a subdivision survey design for local government approval"/>
+      <unit id="CPPSIS5045A" title="Undertake spatial process improvement to reduce costs and improve service"/>
+      <unit id="CPPSIS5046A" title="Design a stormwater system"/>
+      <unit id="CPPSIS5047A" title="Conduct an advanced GNSS data collection and set out survey"/>
+      <unit id="CPPSIS5048A" title="Conduct an engineering survey"/>
+      <unit id="CPPSIS5049A" title="Conduct an engineering surveying project"/>
+      <unit id="CPPSIS5050A" title="Create engineering drawings"/>
+      <unit id="CPPSIS5051A" title="Apply land and planning law to surveying"/>
+      <unit id="CPPSIS5052A" title="Integrate surveying datasets"/>
+      <unit id="CPPSIS5053A" title="Perform advanced surveying computations"/>
+      <unit id="CPPSIS5054A" title="Perform geodetic surveying computations"/>
+      <unit id="CPPSIS5055A" title="Plan and conduct major survey expeditions"/>
+      <unit id="CPPSIS5056A" title="Design road and railway"/>
+      <unit id="CPPSIS5057A" title="Carry out a precision survey"/>
+      <unit id="CPPSIS5058A" title="Conduct geodetic surveying"/>
+      <unit id="CPPSIS5059A" title="Determine suitable information sources to create new spatial datasets"/>
+      <unit id="CPPSIS5060A" title="Use complex spreadsheets for spatial information"/>
+      <unit id="CPPSIS5061A" title="Locate underground services in surveying practice"/>
+      <unit id="CPPSIS5064A" title="Manipulate and analyse GIS data"/>
+      <unit id="CPPSIS6021A" title="Conduct open mine pit surveying"/>
+      <unit id="CPPSIS6022A" title="Create mine drawings"/>
+      <unit id="CPPSIS6033A" title="Conduct underground mine surveying"/>
+      <unit id="PSPLAND308A" title="Compile and check survey plans"/>
+      <unit id="RIIMEX405A" title="Apply and monitor systems and methods of surface coal mining"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50212" title="Diploma of Spatial Information Services">
+    <units>
+      <unit id="AHCLPW404A" title="Produce maps for land management purposes"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPSIS5031A" title="Plan spatial data collection and validation"/>
+      <unit id="CPPSIS5032A" title="Capture new spatial data"/>
+      <unit id="CPPSIS5033A" title="Implement a spatial information services project plan"/>
+      <unit id="CPPSIS5034A" title="Determine spatial data requirements"/>
+      <unit id="CPPSIS5035A" title="Obtain and validate spatial data"/>
+      <unit id="CPPSIS5036A" title="Integrate spatial datasets"/>
+      <unit id="CPPSIS5037A" title="Maintain complex spatial data systems"/>
+      <unit id="CPPSIS5038A" title="Develop a complex spatial and aspatial database"/>
+      <unit id="CPPSIS5039A" title="Produce spatial project deliverables"/>
+      <unit id="CPPSIS5040A" title="Collate and interpret spatial data"/>
+      <unit id="CPPSIS5041A" title="Monitor and control the spatial components of projects"/>
+      <unit id="CPPSIS5042A" title="Maintain effective internal and external spatial communication networks"/>
+      <unit id="CPPSIS5043A" title="Design a spatial data storage system"/>
+      <unit id="CPPSIS5045A" title="Undertake spatial process improvement to reduce costs and improve service"/>
+      <unit id="CPPSIS5059A" title="Determine suitable information sources to create new spatial datasets"/>
+      <unit id="CPPSIS5060A" title="Use complex spreadsheets for spatial information"/>
+      <unit id="CPPSIS5062A" title="Conduct photogrammetric mapping"/>
+      <unit id="CPPSIS5063A" title="Produce GIS data"/>
+      <unit id="CPPSIS5064A" title="Manipulate and analyse GIS data"/>
+      <unit id="CPPSIS6040A" title="Develop 2-D and 3-D terrain visualisations"/>
+      <unit id="ICAICT307A" title="Customise packaged software applications for clients"/>
+      <unit id="ICAICT308A" title="Use advanced features of computer applications"/>
+      <unit id="ICAICT409A" title="Develop macros and templates for clients using standard products"/>
+      <unit id="ICPKN315C" title="Apply knowledge and requirements of the multimedia sector"/>
+      <unit id="PSPLAND302A" title="Investigate tenure and land use history"/>
+      <unit id="PSPLAND501A" title="Review planning documents and environmental assessments"/>
+      <unit id="RIIRIS401A" title="Apply site risk management system"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50611" title="Diploma of Security and Risk Management">
+    <units>
+      <unit id="BSBCUS501A" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBWOR501A" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CPPSEC5001A" title="Establish and maintain an Occupational Health and Safety system"/>
+      <unit id="CPPSEC5002A" title="Coordinate security operations"/>
+      <unit id="CPPSEC5003A" title="Assess security risk management options"/>
+      <unit id="CPPSEC5004A" title="Prepare security risk management plan"/>
+      <unit id="CPPSEC5005A" title="Implement security risk management plan"/>
+      <unit id="CPPSEC5006A" title="Determine strategy for the implementation of biometric technology"/>
+      <unit id="CPPSEC5007A" title="Assess biometric system"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP51012" title="Diploma of Residential Building Energy Assessment">
+    <units>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBMKG609A" title="Develop a marketing plan"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="CPPCMN4011A" title="Communicate and market sustainable solutions"/>
+      <unit id="CPPCMN4012A" title="Contribute to sustainable solutions throughout a building's life cycle"/>
+      <unit id="CPPCMN5001A" title="Plan for a sustainable business"/>
+      <unit id="CPPDSM5036A" title="Prepare tender documentation in the property industry"/>
+      <unit id="CPPHSA5001A" title="Assess thermal performance of complex residential buildings"/>
+      <unit id="CPPHSA5002A" title="Assess thermal performance and energy efficiency of residential buildings"/>
+      <unit id="CPPHSA5003A" title="Manage quality assurance of NatHERS assessments"/>
+      <unit id="CPPHSA5004A" title="Educate clients about thermal efficiency of residential buildings"/>
+      <unit id="CPPHSA5005A" title="Peer review NatHERS assessments"/>
+      <unit id="CPPHSA5006A" title="Promote low and zero carbon energy technologies in residential buildings"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP50511" title="Diploma of Property Services (Asset and Facility Management)">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CPPCMN5001A" title="Plan for a sustainable business"/>
+      <unit id="CPPDSM5001A" title="Advise on use and design of facilities"/>
+      <unit id="CPPDSM5002A" title="Advise on property investment strategy"/>
+      <unit id="CPPDSM5004A" title="Assess viability of regeneration options in the property industry"/>
+      <unit id="CPPDSM5005A" title="Contribute to a detailed property feasibility study"/>
+      <unit id="CPPDSM5006A" title="Coordinate customer service activities in the property industry"/>
+      <unit id="CPPDSM5007A" title="Coordinate construction or renovation of facilities"/>
+      <unit id="CPPDSM5008A" title="Coordinate fit-out of premises for user occupation"/>
+      <unit id="CPPDSM5009A" title="Coordinate risk management system in the property industry"/>
+      <unit id="CPPDSM5010A" title="Determine needs of customer populations in the property industry"/>
+      <unit id="CPPDSM5011A" title="Determine space utilisation"/>
+      <unit id="CPPDSM5013A" title="Develop a tenancy mix strategy"/>
+      <unit id="CPPDSM5014A" title="Develop property marketing and sales strategy"/>
+      <unit id="CPPDSM5016A" title="Develop strata/community management agreement"/>
+      <unit id="CPPDSM5017A" title="Dispose of property"/>
+      <unit id="CPPDSM5018A" title="Ensure a safe workplace in the property industry"/>
+      <unit id="CPPDSM5019A" title="Identify and secure a property opportunity"/>
+      <unit id="CPPDSM5021A" title="Implement asset maintenance strategy"/>
+      <unit id="CPPDSM5022A" title="Implement asset management plan"/>
+      <unit id="CPPDSM5023A" title="Implement facilities management plan"/>
+      <unit id="CPPDSM5024A" title="Implement facilities procurement systems"/>
+      <unit id="CPPDSM5025A" title="Maintain public relations in the property industry"/>
+      <unit id="CPPDSM5026A" title="Manage a consultant property project team"/>
+      <unit id="CPPDSM5027A" title="Provide facilities and amenities for property users"/>
+      <unit id="CPPDSM5029A" title="Manage client relationships and networks in the property industry"/>
+      <unit id="CPPDSM5030A" title="Manage projects in the property industry"/>
+      <unit id="CPPDSM5034A" title="Monitor performance of property or facility portfolio"/>
+      <unit id="CPPDSM5036A" title="Prepare tender documentation in the property industry"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50307" title="Diploma of Property Services (Agency Management)">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="CPPDSM4005A" title="Establish and build client-agency relationships"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4007A" title="Identify legal and ethical requirements of property management to complete agency work"/>
+      <unit id="CPPDSM4008A" title="Identify legal and ethical requirements of property sales to complete agency work"/>
+      <unit id="CPPDSM4009B" title="Interpret legislation to complete agency work"/>
+      <unit id="CPPDSM4015B" title="Minimise agency and consumer risk"/>
+      <unit id="CPPDSM4080A" title="Work in the real estate industry"/>
+      <unit id="CPPDSM4081A" title="Work in the stock and station agency sector"/>
+      <unit id="CPPDSM5009A" title="Coordinate risk management system in the property industry"/>
+      <unit id="CPPDSM5012A" title="Develop a strategic business plan in the real estate industry"/>
+      <unit id="CPPDSM5018A" title="Ensure a safe workplace in the property industry"/>
+      <unit id="CPPDSM5020A" title="Manage and monitor effective client service in the real estate industry"/>
+      <unit id="CPPDSM5030A" title="Manage projects in the property industry"/>
+      <unit id="CPPDSM5032A" title="Market the agency"/>
+      <unit id="CPPDSM5036A" title="Prepare tender documentation in the property industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP50911" title="Diploma of Building Design">
+    <units>
+      <unit id="BSBCUS501B" title="Manage quality customer service"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBWRT401A" title="Write complex documents"/>
+      <unit id="CPCCBC4015A" title="Prepare specifications for all construction works"/>
+      <unit id="CPCCBC4025A" title="Manage personal work priorities and professional development"/>
+      <unit id="CPCCBC5005A" title="Select and manage building and construction contractors"/>
+      <unit id="CPCCOHS2001A" title="Apply OHS requirements, policies and procedures in the construction industry"/>
+      <unit id="CPCCSV5013A" title="Apply principles of energy efficient design to buildings"/>
+      <unit id="CPCPCM4003A" title="Produce 2-D architectural drawings using CAD software"/>
+      <unit id="CPPACC5006A" title="Apply ergonomic principles to accessible building design and fitout"/>
+      <unit id="CPPACC5011A" title="Prepare a concept design for accessible building work"/>
+      <unit id="CPPACC5012A" title="Prepare a design brief for accessible building work"/>
+      <unit id="CPPBDN5001A" title="Research construction materials and methods for small-scale residential building design projects"/>
+      <unit id="CPPBDN5002A" title="Research construction materials and methods for small-scale non-residential building design projects"/>
+      <unit id="CPPBDN5003A" title="Research compliance requirements for small-scale residential building design projects"/>
+      <unit id="CPPBDN5004A" title="Research compliance requirements for small-scale non-residential building design projects"/>
+      <unit id="CPPBDN5005A" title="Recommend sustainability solutions for small-scale building design projects"/>
+      <unit id="CPPBDN5006A" title="Consult with clients to produce approved small-scale building project design briefs"/>
+      <unit id="CPPBDN5007A" title="Inspect and analyse sites and produce measured drawings for small-scale building design projects"/>
+      <unit id="CPPBDN5008A" title="Develop concepts for small-scale building design projects and finalise solutions with clients"/>
+      <unit id="CPPBDN5009A" title="Produce compliant client-approved designs for small-scale building design projects"/>
+      <unit id="CPPBDN5010A" title="Negotiate and finalise planning approval for small-scale building design projects"/>
+      <unit id="CPPBDN5011A" title="Produce compliant client-approved working drawings for small-scale residential buildings"/>
+      <unit id="CPPBDN5012A" title="Produce and present 3-D models of small-scale building designs"/>
+      <unit id="CPPBDN5013A" title="Develop and collaborate on building information models for small-scale building design projects"/>
+      <unit id="CPPBDN5014A" title="Contribute to construction and building design project finalisation processes"/>
+      <unit id="CPPBDN5015A" title="Produce compliant client-approved working drawings for non-residential buildings"/>
+      <unit id="CPPBDN5016A" title="Produce and present rendered animations of 3-D models of small-scale building designs"/>
+      <unit id="CPPCMN4002B" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="LMFID5014A" title="Use CAD applications to complete models and documentation for interior design projects"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50409" title="Diploma of Property Services (Business Broking)">
+    <units>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBFIM502A" title="Manage payroll"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516A" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBSMB404A" title="Undertake small business planning"/>
+      <unit id="BSBWOR502A" title="Ensure team effectiveness"/>
+      <unit id="CPPDSM4006A" title="Establish and manage agency trust accounts"/>
+      <unit id="CPPDSM4015B" title="Minimise agency and consumer risk"/>
+      <unit id="CPPDSM4029A" title="Appraise business"/>
+      <unit id="CPPDSM4053A" title="List business for sale"/>
+      <unit id="CPPDSM4060A" title="Negotiate sale and manage sale to completion or settlement"/>
+      <unit id="CPPDSM4061A" title="Obtain prospects for listing"/>
+      <unit id="CPPDSM4069A" title="Promote and market listed business"/>
+      <unit id="CPPDSM4072A" title="Provide leadership in the property industry"/>
+      <unit id="CPPDSM4079A" title="Work in the business broking sector"/>
+      <unit id="CPPDSM5006A" title="Coordinate customer service activities in the property industry"/>
+      <unit id="CPPDSM5014A" title="Develop property marketing and sales strategy"/>
+      <unit id="CPPDSM5033A" title="Merge or acquire a business"/>
+      <unit id="CPPDSM5038A" title="Value a business"/>
+      <unit id="FNSACCT501B" title="Provide financial and business performance information"/>
+      <unit id="FNSACCT507B" title="Provide management accounting information"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP50811" title="Diploma of Waste Management">
+    <units>
+      <unit id="BSBADM504B" title="Plan or review administrative systems"/>
+      <unit id="BSBATSIM505C" title="Control organisational finances"/>
+      <unit id="BSBATSIW416C" title="Obtain and manage consultancy services"/>
+      <unit id="BSBCCO604A" title="Develop and maintain a service level strategy"/>
+      <unit id="BSBCUS501B" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM402A" title="Recruit, select and induct staff"/>
+      <unit id="BSBHRM503B" title="Manage performance management systems"/>
+      <unit id="BSBHRM504A" title="Manage workforce planning"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBLED502A" title="Manage programs that promote personal effectiveness"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBOHS509A" title="Ensure a safe workplace"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="CPPCMN4001B" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPWMT5004A" title="Develop waste management strategies"/>
+      <unit id="CPPWMT5031A" title="Prepare detailed tenders"/>
+      <unit id="CPPWMT5033A" title="Educate public on waste management issues"/>
+      <unit id="CPPWMT5036A" title="Develop waste management plans"/>
+      <unit id="CPPWMT5043A" title="Develop and implement an environmental management strategy"/>
+      <unit id="CPPWMT5045A" title="Develop site safety plans"/>
+      <unit id="CPPWMT5057A" title="Develop landfill rehabilitation plans"/>
+      <unit id="CPPWMT5058A" title="Develop emergency response plans"/>
+      <unit id="CPPWMT5061A" title="Plan resource recovery"/>
+      <unit id="LGACOM602B" title="Coordinate and facilitate a change process"/>
+      <unit id="LGACORE603B" title="Represent council's role and value in the community"/>
+      <unit id="LGAEHRR509A" title="Undertake environmental and nuisance controls"/>
+      <unit id="LGAEHRW507A" title="Plan and coordinate a waste collection or recycling service"/>
+      <unit id="LGAEHRW603B" title="Coordinate the implementation of council's waste management strategy"/>
+      <unit id="TAEDES401A" title="Design and develop learning programs"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP60112" title="Advanced Diploma of Spatial Information Services">
+    <units>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMKG502B" title="Establish and adjust the marketing mix"/>
+      <unit id="BSBMKG608A" title="Develop organisational marketing objectives"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="CPCCSV6012A" title="Facilitate community development consultation"/>
+      <unit id="CPPCMN4001B" title="Develop workplace policies and procedures for sustainability"/>
+      <unit id="CPPDSM5036A" title="Prepare tender documentation in the property industry"/>
+      <unit id="CPPSIS5043A" title="Design a spatial data storage system"/>
+      <unit id="CPPSIS6022A" title="Create mine drawings"/>
+      <unit id="CPPSIS6023A" title="Determine client spatial requirements"/>
+      <unit id="CPPSIS6024A" title="Design a spatial project plan"/>
+      <unit id="CPPSIS6025A" title="Apply quality control measures to spatial information services industry"/>
+      <unit id="CPPSIS6026A" title="Develop and maintain spatial information services contractual relationships"/>
+      <unit id="CPPSIS6027A" title="Design spatial information services project deliverables"/>
+      <unit id="CPPSIS6029A" title="Educate the public on spatial information services"/>
+      <unit id="CPPSIS6030A" title="Undertake spatial information services research and development"/>
+      <unit id="CPPSIS6031A" title="Carry out basic mine design"/>
+      <unit id="CPPSIS6032A" title="Conduct an advanced GNSS control survey"/>
+      <unit id="CPPSIS6034A" title="Conduct mining geology operations"/>
+      <unit id="CPPSIS6037A" title="Conduct advanced remote sensing analysis"/>
+      <unit id="CPPSIS6038A" title="Design spatial networks and geocoding"/>
+      <unit id="CPPSIS6039A" title="Develop distributed mapping applications"/>
+      <unit id="CPPSIS6040A" title="Develop 2-D and 3-D terrain visualisations"/>
+      <unit id="CPPSIS6042A" title="Coordinate information gathering and GIS development"/>
+      <unit id="CPPSIS6043A" title="Develop, monitor and maintain geographic information systems"/>
+      <unit id="CPPSIS6044A" title="Manage GIS data"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="CPP60211" title="Advanced Diploma of Property Services (Asset and Facility Management)">
+    <units>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608B" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBRSK501A" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="CPPDSM6001A" title="Determine viability of regeneration options in the property industry"/>
+      <unit id="CPPDSM6002A" title="Conduct a property investment feasibility study"/>
+      <unit id="CPPDSM6003A" title="Contract to invest in property"/>
+      <unit id="CPPDSM6004A" title="Determine performance of assets and facilities"/>
+      <unit id="CPPDSM6005A" title="Develop a property investment strategy"/>
+      <unit id="CPPDSM6006A" title="Develop facilities procurement system"/>
+      <unit id="CPPDSM6007A" title="Develop life cycle asset management plan"/>
+      <unit id="CPPDSM6008A" title="Develop strategic facilities management plan"/>
+      <unit id="CPPDSM6009A" title="Manage facilities portfolio"/>
+      <unit id="CPPDSM6010A" title="Manage performance of property investment"/>
+      <unit id="CPPDSM6011A" title="Negotiate partnership arrangements in the property industry"/>
+      <unit id="CPPDSM6012A" title="Plan property portfolio management"/>
+      <unit id="CPPDSM6013A" title="Prepare project design brief and documentation in the property industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP60312" title="Advanced Diploma of Surveying">
+    <units>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="CPCCSV5007A" title="Undertake site surveys and set-out procedures for building projects"/>
+      <unit id="CPPSIS5044A" title="Develop a subdivision survey design for local government approval"/>
+      <unit id="CPPSIS5046A" title="Design a stormwater system"/>
+      <unit id="CPPSIS5051A" title="Apply land and planning law to surveying"/>
+      <unit id="CPPSIS5057A" title="Carry out a precision survey"/>
+      <unit id="CPPSIS6023A" title="Determine client spatial requirements"/>
+      <unit id="CPPSIS6024A" title="Design a spatial project plan"/>
+      <unit id="CPPSIS6025A" title="Apply quality control measures to spatial information services industry"/>
+      <unit id="CPPSIS6028A" title="Conduct design and set out survey"/>
+      <unit id="CPPSIS6031A" title="Carry out basic mine design"/>
+      <unit id="CPPSIS6032A" title="Conduct an advanced GNSS control survey"/>
+      <unit id="CPPSIS6033A" title="Conduct underground mine surveying"/>
+      <unit id="CPPSIS6034A" title="Conduct mining geology operations"/>
+      <unit id="CPPSIS6035A" title="Conduct complex engineering set out surveys"/>
+      <unit id="CPPSIS6036A" title="Monitor complex engineering surveying structures"/>
+      <unit id="CPPSIS6037A" title="Conduct advanced remote sensing analysis"/>
+      <unit id="CPPSIS6041A" title="Compile mine survey plan"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP80111" title="Vocational Graduate Certificate in Building Design">
+    <units>
+      <unit id="CPCMCM7001A" title="Plan and manage complex projects"/>
+      <unit id="CPPBDN8001A" title="Research and evaluate construction materials and methods for complex building design projects"/>
+      <unit id="CPPBDN8002A" title="Research compliance requirements for complex building design projects"/>
+      <unit id="CPPBDN8003A" title="Scope and initiate large and complex building design projects"/>
+      <unit id="CPPBDN8007A" title="Manage the design of Type A constructions"/>
+    </units>
+  </qualification>
+  <qualification id="CPP80211" title="Vocational Graduate Diploma of Building Design">
+    <units>
+      <unit id="CPCMCM7001A" title="Plan and manage complex projects"/>
+      <unit id="CPCMCM7002A" title="Manage the quality of projects and processes"/>
+      <unit id="CPPBDN8001A" title="Research and evaluate construction materials and methods for complex building design projects"/>
+      <unit id="CPPBDN8002A" title="Research compliance requirements for complex building design projects"/>
+      <unit id="CPPBDN8003A" title="Scope and initiate large and complex building design projects"/>
+      <unit id="CPPBDN8004A" title="Lead the building design team"/>
+      <unit id="CPPBDN8005A" title="Manage the tendering and construction process for a client"/>
+      <unit id="CPPBDN8006A" title="Identify and manage new building design technologies"/>
+      <unit id="CPPBDN8007A" title="Manage the design of Type A constructions"/>
+      <unit id="CPPCMN8001A" title="Lead the strategic planning process for an enterprise"/>
+      <unit id="CPPCMN8002A" title="Identify and develop business opportunities"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="CPP80312" title="Vocational Graduate Diploma of Access Consulting">
+    <units>
+      <unit id="CPCMCM7001A" title="Plan and manage complex projects"/>
+      <unit id="CPPACC8001A" title="Research and analyse access and use requirements for people with diverse disabilities"/>
+      <unit id="CPPACC8002A" title="Research and analyse access solutions for the built environment"/>
+      <unit id="CPPACC8003A" title="Provide advice on solutions to access and use issues"/>
+      <unit id="CPPACC8004A" title="Develop policies and briefs relating to access to and use of the built environment"/>
+      <unit id="CPPACC8005A" title="Develop and advise on policies and procedures to enable access for people with disabilities"/>
+      <unit id="CPPACC8006A" title="Give evidence relating to access and use"/>
+      <unit id="CPPACC8007A" title="Audit built environment and infrastructure for accessibility compliance and propose solutions"/>
+      <unit id="CPPACC8008A" title="Contribute to design of accessible built environment and infrastructure"/>
+      <unit id="CPPBDN8001A" title="Research and evaluate construction materials and methods for complex building design projects"/>
+      <unit id="CPPBDN8002A" title="Research compliance requirements for complex building design projects"/>
+    </units>
+    <units/>
+  </qualification>
+</qualifications>

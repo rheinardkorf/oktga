@@ -1,0 +1,1626 @@
+<?xml version="1.0"?>
+<qualifications class="FNS10">
+  <qualification id="FNS10110" title="Certificate I in Financial Services">
+    <units>
+      <unit id="FNSFLT201A" title="Develop and use a personal budget"/>
+      <unit id="FNSFLT202A" title="Develop and use a savings plan"/>
+      <unit id="FNSFLT203A" title="Develop understanding of debt and consumer credit"/>
+      <unit id="FNSFLT204A" title="Develop understanding of superannuation"/>
+      <unit id="FNSFLT205A" title="Develop understanding of the Australian financial system and markets"/>
+      <unit id="FNSFLT206A" title="Develop understanding of taxation"/>
+    </units>
+  </qualification>
+  <qualification id="FNS20111" title="Certificate II in Financial Services">
+    <units>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSFLT201A" title="Develop and use a personal budget"/>
+      <unit id="FNSFLT202A" title="Develop and use a savings plan"/>
+      <unit id="FNSFLT203A" title="Develop understanding of debt and consumer credit"/>
+      <unit id="FNSFLT204A" title="Develop understanding of superannuation"/>
+      <unit id="FNSFLT205A" title="Develop understanding of the Australian financial system and markets"/>
+      <unit id="FNSFLT206A" title="Develop understanding of taxation"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSRTS301A" title="Provide customer service in a retail agency"/>
+      <unit id="FNSRTS303A" title="Balance retail transactions"/>
+      <unit id="FNSRTS305A" title="Process customer accounts"/>
+      <unit id="FNSRTS306A" title="Process customer transactions"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS30410" title="Certificate III in Mercantile Agents">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCOM402B" title="Implement processes for the management of a breach in compliance requirements"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSMCA301A" title="Collect debts"/>
+      <unit id="FNSMCA302A" title="Repossess property"/>
+      <unit id="FNSMCA303A" title="Serve legal process"/>
+      <unit id="FNSMCA304A" title="Locate subjects"/>
+      <unit id="FNSMCA401A" title="Develop and document case recommendations"/>
+      <unit id="FNSMCA402A" title="Initiate legal recovery of debts"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS30210" title="Certificate III in Personal Injury Management (ClaimsManagement)">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="CHCTC302B" title="Provide client-centred telephone counselling"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSPIM301A" title="Process benefit payments"/>
+      <unit id="FNSPIM302A" title="Determine claim liability"/>
+      <unit id="FNSPIM303A" title="Work within the personal injury management sector"/>
+      <unit id="FNSPIM304A" title="Manage claims"/>
+      <unit id="FNSPIM410A" title="Collect, assess and use information"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS30511" title="Certificate III in General Insurance">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASIC304A" title="Provide Tier 2 general advice in general insurance"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSIAD301A" title="Provide general advice on financial products and services"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSISV301A" title="Evaluate risk for renewal business"/>
+      <unit id="FNSISV302A" title="Process alteration to insurance policy"/>
+      <unit id="FNSISV303A" title="Issue contract of insurance"/>
+      <unit id="FNSISV304A" title="Issue renewal advice"/>
+      <unit id="FNSISV305A" title="Issue cancellation advice"/>
+      <unit id="FNSISV306A" title="Receive and record or register a claim"/>
+      <unit id="FNSISV307A" title="Follow organisation procedures to process claim"/>
+      <unit id="FNSISV308A" title="Process facultative and treaty reinsurance claims"/>
+      <unit id="FNSISV309A" title="Settle claims"/>
+      <unit id="FNSISV310A" title="Process claims payments"/>
+      <unit id="FNSSAM301A" title="Identify opportunities for cross-selling products and services"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS30311" title="Certificate III in Accounts Administration">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA302A" title="Process payroll"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="FNSACC302A" title="Administer subsidiary accounts and ledgers"/>
+      <unit id="FNSACC303A" title="Perform financial calculations"/>
+      <unit id="FNSACM301A" title="Administer financial accounts"/>
+      <unit id="FNSACM302A" title="Prepare, match and process receipts"/>
+      <unit id="FNSACM303A" title="Process payment documentation"/>
+      <unit id="FNSBKG402A" title="Establish and maintain a cash accounting system"/>
+      <unit id="FNSBKG403A" title="Establish and maintain an accrual accounting system"/>
+      <unit id="FNSBKG405A" title="Establish and maintain a payroll system"/>
+      <unit id="FNSCRD301A" title="Process applications for credit"/>
+      <unit id="FNSCRD302A" title="Monitor and control accounts receivable"/>
+      <unit id="FNSCRD405A" title="Manage overdue customer accounts"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSORG301A" title="Administer fixed asset register"/>
+      <unit id="FNSRTS301A" title="Provide customer service in a retail agency"/>
+      <unit id="FNSRTS302A" title="Handle foreign currency transactions"/>
+      <unit id="FNSRTS304A" title="Administer debit card services"/>
+      <unit id="FNSRTS307A" title="Maintain Automatic Teller Machine (ATM) services"/>
+      <unit id="FNSRTS308A" title="Balance cash holdings"/>
+      <unit id="FNSRTS309A" title="Maintain main bank account"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS30610" title="Certificate III in Insurance Broking">
+    <units>
+      <unit id="BSBCMM201A" title="Communicate in the workplace"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="FNSASIC304A" title="Provide Tier 2 general advice in general insurance"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSIBK301A" title="Provide insurance broking services in response to a customer enquiry"/>
+      <unit id="FNSIBK302B" title="Provide general advice in general insurance broking products and services"/>
+      <unit id="FNSIBK401A" title="Research and analyse client and industry information for a broking risk assessment"/>
+      <unit id="FNSIBK402B" title="Provide personal advice in general insurance broking products and services"/>
+      <unit id="FNSIBK403A" title="Implement an agreed insurance program for a broking client"/>
+      <unit id="FNSIBK404A" title="Provide a claims service to an insurance broking client"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS30111" title="Certificate III in Financial Services">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCCO304C" title="Provide sales solutions to customers"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBITU304A" title="Produce spreadsheets"/>
+      <unit id="BSBITU305A" title="Conduct online transactions"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBRKG303B" title="Retrieve information from records"/>
+      <unit id="BSBRKG304B" title="Maintain business records"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR301B" title="Organise personal work priorities and development"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="FNSACC303A" title="Perform financial calculations"/>
+      <unit id="FNSACM302A" title="Prepare, match and process receipts"/>
+      <unit id="FNSACM303A" title="Process payment documentation"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASIC303A" title="Provide advice on First Home Saver Account Deposit Products and Non-cash Payments"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSCRD301A" title="Process applications for credit"/>
+      <unit id="FNSCRD302A" title="Monitor and control accounts receivable"/>
+      <unit id="FNSCRD405A" title="Manage overdue customer accounts"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSFLT301A" title="Be MoneySmart"/>
+      <unit id="FNSIAD301A" title="Provide general advice on financial products and services"/>
+      <unit id="FNSILF302A" title="Process a life insurance application"/>
+      <unit id="FNSILF303A" title="Issue a life insurance policy"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSPRT301A" title="Establish entitlements to an intestate estate"/>
+      <unit id="FNSPRT302A" title="Administer a non-complex estate"/>
+      <unit id="FNSPRT303A" title="Administer a non-complex trust"/>
+      <unit id="FNSRTS301A" title="Provide customer service in a retail agency"/>
+      <unit id="FNSRTS302A" title="Handle foreign currency transactions"/>
+      <unit id="FNSRTS303A" title="Balance retail transactions"/>
+      <unit id="FNSRTS304A" title="Administer debit card services"/>
+      <unit id="FNSRTS305A" title="Process customer accounts"/>
+      <unit id="FNSRTS306A" title="Process customer transactions"/>
+      <unit id="FNSRTS307A" title="Maintain Automatic Teller Machine (ATM) services"/>
+      <unit id="FNSRTS308A" title="Balance cash holdings"/>
+      <unit id="FNSRTS309A" title="Maintain main bank account"/>
+      <unit id="FNSRTS401A" title="Manage credit card services"/>
+      <unit id="FNSRTS402A" title="Prepare government returns and reports"/>
+      <unit id="FNSSUP301A" title="Process superannuation fund payments"/>
+      <unit id="FNSSUP302A" title="Establish, maintain and process superannuation records"/>
+      <unit id="FNSSUP303A" title="Process superannuation contributions"/>
+      <unit id="FNSSUP304A" title="Process superannuation rollover benefits"/>
+      <unit id="FNSSUP305A" title="Implement member investment instructions"/>
+      <unit id="FNSSUP306A" title="Terminate superannuation plans"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS41710" title="Certificate IV in Insurance Broking">
+    <units>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASIC304A" title="Provide Tier 2 general advice in general insurance"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSIBK401A" title="Research and analyse client and industry information for a broking risk assessment"/>
+      <unit id="FNSIBK402B" title="Provide personal advice in general insurance broking products and services"/>
+      <unit id="FNSIBK403A" title="Implement an agreed insurance program for a broking client"/>
+      <unit id="FNSIBK404A" title="Provide a claims service to an insurance broking client"/>
+      <unit id="FNSIBK405A" title="Meet industry and legislative guidelines and organisational procedures relating to insurance broking"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40510" title="Certificate IV in Personal Injury Management (Underwriting)">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBFLM303C" title="Contribute to effective workplace relationships"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="FNSCRD403A" title="Manage and recover bad and doubtful debts"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSISV401A" title="Evaluate risk for new business"/>
+      <unit id="FNSISV402A" title="Underwrite new business"/>
+      <unit id="FNSISV404A" title="Underwrite renewal business"/>
+      <unit id="FNSPIM303A" title="Work within the personal injury management sector"/>
+      <unit id="FNSPIM403A" title="Educate clients on personal injury management issues"/>
+      <unit id="FNSPIM406A" title="Develop and maintain knowledge of personal injury management insurance"/>
+      <unit id="FNSPIM407A" title="Register policy"/>
+      <unit id="FNSPIM408A" title="Renew and maintain policy"/>
+      <unit id="FNSPIM410A" title="Collect, assess and use information"/>
+      <unit id="FNSPIM501A" title="Develop a return to work and health strategy"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40310" title="Certificate IV in Personal Injury Management (Claims Management)">
+    <units>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="CHCCOM403A" title="Use targeted communication skills to build relationships"/>
+      <unit id="CULEVP401A" title="Present information on activities, events and public programs"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSISV405A" title="Analyse insurance claims"/>
+      <unit id="FNSPIM303A" title="Work within the personal injury management sector"/>
+      <unit id="FNSPIM304A" title="Manage claims"/>
+      <unit id="FNSPIM401A" title="Plan and implement rehabilitation and return to work and health strategies"/>
+      <unit id="FNSPIM402A" title="Represent personal injury management agent or insurer at conciliation and review hearings"/>
+      <unit id="FNSPIM403A" title="Educate clients on personal injury management issues"/>
+      <unit id="FNSPIM404A" title="Assist injured persons with job placement"/>
+      <unit id="FNSPIM405A" title="Facilitate a return to work"/>
+      <unit id="FNSPIM409A" title="Maintain customer relationship"/>
+      <unit id="FNSPIM411A" title="Manage personal injury case loads"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS41611" title="Certificate IV in Loss Adjusting">
+    <units>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSIGN401A" title="Provide technical guidance"/>
+      <unit id="FNSIGN402A" title="Inspect quality of work"/>
+      <unit id="FNSIGN403A" title="Estimate jobs"/>
+      <unit id="FNSIGN404A" title="Inspect damage and develop scope of work"/>
+      <unit id="FNSIGN405A" title="Inspect vehicle systems and components and determine preferred repair action"/>
+      <unit id="FNSIGN406A" title="Inspect vehicle or property for saleable items and determine their value"/>
+      <unit id="FNSILA501A" title="Plan and implement loss investigation"/>
+      <unit id="FNSILA502A" title="Evaluate collected information"/>
+      <unit id="FNSILA503A" title="Report findings and provide guidance to involved parties"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSISV306A" title="Receive and record or register a claim"/>
+      <unit id="FNSISV405A" title="Analyse insurance claims"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS40410" title="Certificate IV in Personal Injury Management (ReturntoWork)">
+    <units>
+      <unit id="BSBHRM604A" title="Manage employee relations"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="CHCDIS509D" title="Maximise participation in work by people with disabilities"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSPIM303A" title="Work within the personal injury management sector"/>
+      <unit id="FNSPIM401A" title="Plan and implement rehabilitation and return to work and health strategies"/>
+      <unit id="FNSPIM403A" title="Educate clients on personal injury management issues"/>
+      <unit id="FNSPIM502A" title="Facilitate workplace assessment with stakeholders for personal injury cases"/>
+      <unit id="HLTHIR403C" title="Work effectively with culturally diverse clients and co-workers"/>
+      <unit id="PSPGOV509A" title="Conduct evaluations"/>
+      <unit id="PSPIM402A" title="Undertake initial rehabilitation assessments"/>
+      <unit id="PSPIM404A" title="Conduct situational workplace assessments"/>
+      <unit id="PSPIM405A" title="Develop return to work plans"/>
+      <unit id="PSPIM406A" title="Implement and monitor return to work plans"/>
+      <unit id="PSPIM504A" title="Contribute to a quality injury management system"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS41512" title="Certificate IV in Life Insurance">
+    <units>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="FNSCMP501A" title="Comply with financial services legislation"/>
+      <unit id="FNSCUS301A" title="Respond to customer enquiries"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSCUS403A" title="Deliver a professional service to customers"/>
+      <unit id="FNSILF302A" title="Process a life insurance application"/>
+      <unit id="FNSILF303A" title="Issue a life insurance policy"/>
+      <unit id="FNSILF401A" title="Contribute to the life risk underwriting process"/>
+      <unit id="FNSILF403A" title="Develop and maintain in-depth knowledge of products and services used by the Life Insurance sector"/>
+      <unit id="FNSILF404A" title="Process requests for policy alterations and assignments"/>
+      <unit id="FNSILF405A" title="Evaluate life insurance claims"/>
+      <unit id="FNSILF406A" title="Collect and manage information to facilitate claims assessment"/>
+      <unit id="FNSILF407A" title="Settle life insurance claims"/>
+      <unit id="FNSILF408A" title="Process life insurance contract maturity and surrender payment requests"/>
+      <unit id="FNSINC301A" title="Work effectively in the financial services industry"/>
+      <unit id="FNSISV406A" title="Use specialist terminology in insurance claims"/>
+      <unit id="FNSISV407A" title="Use medical terminology in an insurance context"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40911" title="Certificate IV in Superannuation">
+    <units>
+      <unit id="BSBATSIW416C" title="Obtain and manage consultancy services"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSUS301A" title="Implement and monitor environmentally sustainable work practices"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSSMS401A" title="Process self-managed superannuation contribution"/>
+      <unit id="FNSSUP301A" title="Process superannuation fund payments"/>
+      <unit id="FNSSUP401A" title="Process complex superannuation benefit or insurance claim"/>
+      <unit id="FNSSUP402A" title="Assist in meeting superannuation compliance requirements"/>
+      <unit id="FNSSUP403A" title="Administer retirement income streams"/>
+      <unit id="FNSSUP404A" title="Establish and customise complex employer accounts"/>
+      <unit id="FNSSUP405A" title="Implement fund review practices"/>
+      <unit id="FNSSUP406A" title="Establish and maintain fund or plan"/>
+      <unit id="FNSSUP407A" title="Assess complex superannuation benefit or insurance claims"/>
+      <unit id="FNSSUP508A" title="Provide effective information to members"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40111" title="Certificate IV in Credit Management">
+    <units>
+      <unit id="BSBCCO203A" title="Conduct customer contact"/>
+      <unit id="BSBCMM301B" title="Process customer complaints"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBMGT405A" title="Provide personal leadership"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSACC401A" title="Process business tax requirements"/>
+      <unit id="FNSCNV506A" title="Establish and manage a trust account"/>
+      <unit id="FNSCRD401A" title="Assess credit applications"/>
+      <unit id="FNSCRD402A" title="Establish and maintain appropriate securitisation"/>
+      <unit id="FNSCRD403A" title="Manage and recover bad and doubtful debts"/>
+      <unit id="FNSCRD404A" title="Utilise the legal process to recover outstanding debt"/>
+      <unit id="FNSCRD405A" title="Manage overdue customer accounts"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG401A" title="Conduct individual work within a compliance framework"/>
+      <unit id="FNSRSK401A" title="Implement risk management strategies"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS41411" title="Certificate IV in General Insurance">
+    <units>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASIC304A" title="Provide Tier 2 general advice in general insurance"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSISV401A" title="Evaluate risk for new business"/>
+      <unit id="FNSISV402A" title="Underwrite new business"/>
+      <unit id="FNSISV403A" title="Survey potential risk exposure"/>
+      <unit id="FNSISV404A" title="Underwrite renewal business"/>
+      <unit id="FNSISV405A" title="Analyse insurance claims"/>
+      <unit id="FNSISV406A" title="Use specialist terminology in insurance claims"/>
+      <unit id="FNSSAM401A" title="Sell financial products and services"/>
+      <unit id="FNSSAM402A" title="Implement a sales plan"/>
+      <unit id="FNSSAM403A" title="Prospect for new clients"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS41011" title="Certificate IV in Banking Services">
+    <units>
+      <unit id="BSBCCO301B" title="Use multiple information systems"/>
+      <unit id="BSBCCO407A" title="Administer customer contact technology"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBMGT405A" title="Provide personal leadership"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSBNK401A" title="Coordinate a small business customer portfolio"/>
+      <unit id="FNSBNK403A" title="Provide services in a Business Transaction Centre"/>
+      <unit id="FNSBNK404A" title="Promote mobile banking services"/>
+      <unit id="FNSBNK405A" title="Provide mobile banking sales and service"/>
+      <unit id="FNSBNK406A" title="Manage customer visits"/>
+      <unit id="FNSCRD401A" title="Assess credit applications"/>
+      <unit id="FNSCRD402A" title="Establish and maintain appropriate securitisation"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSFLT501A" title="Assist customers to budget and manage own finances"/>
+      <unit id="FNSFMB402A" title="Provide finance and mortgage broking services"/>
+      <unit id="FNSFMB403A" title="Present broking options to client"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSMCA402A" title="Initiate legal recovery of debts"/>
+      <unit id="FNSSAM401A" title="Sell financial products and services"/>
+      <unit id="FNSSAM402A" title="Implement a sales plan"/>
+      <unit id="FNSSAM403A" title="Prospect for new clients"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS41211" title="Certificate IV in Mobile Banking">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSBNK404A" title="Promote mobile banking services"/>
+      <unit id="FNSBNK405A" title="Provide mobile banking sales and service"/>
+      <unit id="FNSBNK406A" title="Manage customer visits"/>
+      <unit id="FNSCRD401A" title="Assess credit applications"/>
+      <unit id="FNSCRD402A" title="Establish and maintain appropriate securitisation"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSFLT501A" title="Assist customers to budget and manage own finances"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSSAM401A" title="Sell financial products and services"/>
+      <unit id="FNSSAM402A" title="Implement a sales plan"/>
+      <unit id="FNSSAM403A" title="Prospect for new clients"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40811" title="Certificate IV in Finance and Mortgage Broking">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSCRD301A" title="Process applications for credit"/>
+      <unit id="FNSFMB401A" title="Prepare loan application on behalf of finance or mortgage broking clients"/>
+      <unit id="FNSFMB402A" title="Provide finance and mortgage broking services"/>
+      <unit id="FNSFMB403A" title="Present broking options to client"/>
+      <unit id="FNSFMB501A" title="Settle applications and loan arrangements in the finance and mortgage broking industry"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSSAM403A" title="Prospect for new clients"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS40211" title="Certificate IV in Bookkeeping">
+    <units>
+      <unit id="BSBCUS301B" title="Deliver and monitor a service to customers"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBFRA301B" title="Work within a franchise"/>
+      <unit id="BSBFRA403B" title="Manage relationship with franchisor"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FNSACC302A" title="Administer subsidiary accounts and ledgers"/>
+      <unit id="FNSACC303A" title="Perform financial calculations"/>
+      <unit id="FNSACC404A" title="Prepare financial statements for non-reporting entities"/>
+      <unit id="FNSACC405A" title="Maintain inventory records"/>
+      <unit id="FNSACC406A" title="Set up and operate a computerised accounting system"/>
+      <unit id="FNSBKG401A" title="Develop and implement policies and procedures relevant to bookkeeping activities"/>
+      <unit id="FNSBKG402A" title="Establish and maintain a cash accounting system"/>
+      <unit id="FNSBKG403A" title="Establish and maintain an accrual accounting system"/>
+      <unit id="FNSBKG404A" title="Carry out business activity and instalment activity statement tasks"/>
+      <unit id="FNSBKG405A" title="Establish and maintain a payroll system"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS41311" title="Certificate IV in Personal Trust Administration">
+    <units>
+      <unit id="BSBCOM405A" title="Promote compliance with legislation"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSFPL401A" title="Extract and analyse information on specified financial strategies and products"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSPIM409A" title="Maintain customer relationship"/>
+      <unit id="FNSPRT301A" title="Establish entitlements to an intestate estate"/>
+      <unit id="FNSPRT302A" title="Administer a non-complex estate"/>
+      <unit id="FNSPRT303A" title="Administer a non-complex trust"/>
+      <unit id="FNSPRT401A" title="Administer an intestate estate"/>
+      <unit id="FNSPRT402A" title="Prepare a will"/>
+      <unit id="FNSPRT403A" title="Administer a complex estate"/>
+      <unit id="FNSPRT404A" title="Administer a complex trust"/>
+      <unit id="FNSPRT405A" title="Establish powers of attorney"/>
+      <unit id="FNSPRT406A" title="Administer powers of attorney or financial administration orders"/>
+      <unit id="FNSPRT501A" title="Advise clients on trust structures"/>
+      <unit id="FNSPRT502A" title="Advise clients in estate planning"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS40710" title="Certificate IV in Financial Practice Support">
+    <units>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASICQ503A" title="Provide advice in First Home Saver Market Linked Accounts"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFPL401A" title="Extract and analyse information on specified financial strategies and products"/>
+      <unit id="FNSFPL402A" title="Prepare financial plans to set strategies and guidelines"/>
+      <unit id="FNSFPL403A" title="Implement financial plans to predetermined guidelines"/>
+      <unit id="FNSFPL501A" title="Comply with financial planning practice ethical and operational guidelines and regulations"/>
+      <unit id="FNSFPL502A" title="Conduct financial planning analysis and research"/>
+      <unit id="FNSFPL503A" title="Develop and prepare financial plan"/>
+      <unit id="FNSFPL504A" title="Implement financial plan"/>
+      <unit id="FNSFPL505A" title="Review financial plans and provide ongoing service"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS41110" title="Certificate IV in Financial Markets Operations">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBADM502B" title="Manage meetings"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBFIA301A" title="Maintain financial records"/>
+      <unit id="BSBINM302A" title="Utilise a knowledge management system"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBLEG301A" title="Apply knowledge of the legal system to complete tasks"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSACM401A" title="Evaluate and authorise payment requests"/>
+      <unit id="FNSFMK401A" title="Reconcile financial transactions"/>
+      <unit id="FNSFMK402A" title="Develop and maintain knowledge of financial markets products"/>
+      <unit id="FNSFMK403A" title="Interpret financial markets information"/>
+      <unit id="FNSFMK501A" title="Analyse financial markets and information"/>
+      <unit id="FNSFMK504A" title="Complete settlement and confirmation processes"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS41811" title="Certificate IV in Financial Services">
+    <units>
+      <unit id="BSBADM405B" title="Organise meetings"/>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBCOM401B" title="Organise and monitor the operation of compliance management system"/>
+      <unit id="BSBCOM402B" title="Implement processes for the management of a breach in compliance requirements"/>
+      <unit id="BSBCOM405A" title="Promote compliance with legislation"/>
+      <unit id="BSBCUS401B" title="Coordinate implementation of customer service strategies"/>
+      <unit id="BSBCUS402B" title="Address customer needs"/>
+      <unit id="BSBCUS403B" title="Implement customer service standards"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBLEG413A" title="Identify and apply the legal framework"/>
+      <unit id="BSBLEG415A" title="Apply the principles of contract law"/>
+      <unit id="BSBMGT401A" title="Show leadership in the workplace"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT405A" title="Provide personal leadership"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBOHS403B" title="Identify hazards and assess OHS risks"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBPMG403A" title="Apply cost management techniques"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBREL402A" title="Build client relationships and business networks"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBWOR203B" title="Work effectively with others"/>
+      <unit id="BSBWOR204A" title="Use business technology"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR402A" title="Promote team effectiveness"/>
+      <unit id="BSBWOR404B" title="Develop work priorities"/>
+      <unit id="FNSACC402A" title="Prepare operational budgets"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSACC405A" title="Maintain inventory records"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSBKG405A" title="Establish and maintain a payroll system"/>
+      <unit id="FNSBNK401A" title="Coordinate a small business customer portfolio"/>
+      <unit id="FNSBNK402A" title="Align banking products with the needs of small business customers"/>
+      <unit id="FNSBNK403A" title="Provide services in a Business Transaction Centre"/>
+      <unit id="FNSBNK404A" title="Promote mobile banking services"/>
+      <unit id="FNSBNK405A" title="Provide mobile banking sales and service"/>
+      <unit id="FNSBNK406A" title="Manage customer visits"/>
+      <unit id="FNSCRD401A" title="Assess credit applications"/>
+      <unit id="FNSCRD402A" title="Establish and maintain appropriate securitisation"/>
+      <unit id="FNSCRD403A" title="Manage and recover bad and doubtful debts"/>
+      <unit id="FNSCRD404A" title="Utilise the legal process to recover outstanding debt"/>
+      <unit id="FNSCRD405A" title="Manage overdue customer accounts"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSFLT401A" title="Be MoneySmart through a career in small business"/>
+      <unit id="FNSFMK401A" title="Reconcile financial transactions"/>
+      <unit id="FNSFMK402A" title="Develop and maintain knowledge of financial markets products"/>
+      <unit id="FNSFMK403A" title="Interpret financial markets information"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSORG401A" title="Conduct individual work within a compliance framework"/>
+      <unit id="FNSPIM410A" title="Collect, assess and use information"/>
+      <unit id="FNSRSK401A" title="Implement risk management strategies"/>
+      <unit id="FNSSAM401A" title="Sell financial products and services"/>
+      <unit id="FNSSAM402A" title="Implement a sales plan"/>
+      <unit id="FNSSAM403A" title="Prospect for new clients"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+      <unit id="TAEDEL404A" title="Mentor in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS40611" title="Certificate IV in Accounting">
+    <units>
+      <unit id="BSBFIA401A" title="Prepare financial reports"/>
+      <unit id="BSBITU306A" title="Design and produce business documents"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBOHS201A" title="Participate in OHS processes"/>
+      <unit id="BSBWRT301A" title="Write simple documents"/>
+      <unit id="FNSACC301A" title="Process financial transactions and extract interim reports"/>
+      <unit id="FNSACC302A" title="Administer subsidiary accounts and ledgers"/>
+      <unit id="FNSACC303A" title="Perform financial calculations"/>
+      <unit id="FNSACC401A" title="Process business tax requirements"/>
+      <unit id="FNSACC402A" title="Prepare operational budgets"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSACC404A" title="Prepare financial statements for non-reporting entities"/>
+      <unit id="FNSACC405A" title="Maintain inventory records"/>
+      <unit id="FNSACC406A" title="Set up and operate a computerised accounting system"/>
+      <unit id="FNSACC407A" title="Produce job costing information"/>
+      <unit id="FNSACM401A" title="Evaluate and authorise payment requests"/>
+      <unit id="FNSBKG404A" title="Carry out business activity and instalment activity statement tasks"/>
+      <unit id="FNSBKG405A" title="Establish and maintain a payroll system"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="FNSORG506A" title="Prepare financial forecasts and projections"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51511" title="Diploma of Credit Management">
+    <units>
+      <unit id="BSBCOM402B" title="Implement processes for the management of a breach in compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINN601A" title="Manage organisational change"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSMB407A" title="Manage a small team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSCNV506A" title="Establish and manage a trust account"/>
+      <unit id="FNSCRD404A" title="Utilise the legal process to recover outstanding debt"/>
+      <unit id="FNSCRD405A" title="Manage overdue customer accounts"/>
+      <unit id="FNSCRD501A" title="Respond to personal insolvency situations"/>
+      <unit id="FNSCRD502A" title="Manage factoring and invoice discounting arrangements"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCRD504A" title="Manage the credit relationship"/>
+      <unit id="FNSCRD505A" title="Respond to corporate insolvency situations"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG401A" title="Conduct individual work within a compliance framework"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSORG507A" title="Manage client service and business information"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50910" title="Diploma of Banking Services Management">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSBNK402A" title="Align banking products with the needs of small business customers"/>
+      <unit id="FNSBNK501A" title="Manage banking and service strategy for small business customers"/>
+      <unit id="FNSBNK502A" title="Manage services in a Business Transaction Centre"/>
+      <unit id="FNSBNK503A" title="Provide business advisory services within a financial services context"/>
+      <unit id="FNSCRD402A" title="Establish and maintain appropriate securitisation"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSCUS502A" title="Monitor client requirements"/>
+      <unit id="FNSCUS503A" title="Review business performance"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG503A" title="Develop a resource plan"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+      <unit id="FNSSAM501A" title="Apply advanced selling techniques to selling of financial products and services"/>
+      <unit id="FNSSAM502A" title="Assess market needs"/>
+      <unit id="FNSSAM503A" title="Monitor market opportunities"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51811" title="Diploma of Financial Services">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBLEG513A" title="Apply legal principles in corporation law matters"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBOHS502B" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBPMG501A" title="Manage application of project integrative processes"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBSLS502A" title="Lead and manage a sales team"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSBNK501A" title="Manage banking and service strategy for small business customers"/>
+      <unit id="FNSBNK502A" title="Manage services in a Business Transaction Centre"/>
+      <unit id="FNSBNK503A" title="Provide business advisory services within a financial services context"/>
+      <unit id="FNSCNV501A" title="Take instructions in relation to a transaction"/>
+      <unit id="FNSCNV502A" title="Read and interpret a legal document and provide advice"/>
+      <unit id="FNSCNV503A" title="Analyse and interpret legal requirements for a transaction"/>
+      <unit id="FNSCRD503A" title="Promote understanding of the role and effective use of consumer credit"/>
+      <unit id="FNSCRD504A" title="Manage the credit relationship"/>
+      <unit id="FNSCRD505A" title="Respond to corporate insolvency situations"/>
+      <unit id="FNSCUS502A" title="Monitor client requirements"/>
+      <unit id="FNSCUS503A" title="Review business performance"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFLT501A" title="Assist customers to budget and manage own finances"/>
+      <unit id="FNSFLT502A" title="Facilitate customer awareness of the Australian financial system and markets"/>
+      <unit id="FNSFLT503A" title="Promote basic financial literacy skills"/>
+      <unit id="FNSFLT504A" title="Facilitate customer understanding of personal financial statements"/>
+      <unit id="FNSFLT505A" title="Facilitate customer or employee understanding of superannuation as an investment tool"/>
+      <unit id="FNSFMK501A" title="Analyse financial markets and information"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSFMK509A" title="Apply knowledge of transaction documentation and processing"/>
+      <unit id="FNSFMK510A" title="Prepare trading strategies for clients"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIAD502A" title="Provide appropriate and timely information and advice to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSORG503A" title="Develop a resource plan"/>
+      <unit id="FNSORG504A" title="Monitor and supervise work practices to meet financial services regulatory requirements"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="FNSORG506A" title="Prepare financial forecasts and projections"/>
+      <unit id="FNSORG507A" title="Manage client service and business information"/>
+      <unit id="FNSORG508A" title="Analyse and comment on management reports"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSSAM501A" title="Apply advanced selling techniques to selling of financial products and services"/>
+      <unit id="FNSSAM502A" title="Assess market needs"/>
+      <unit id="FNSSAM503A" title="Monitor market opportunities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51312" title="Diploma of Life Insurance">
+    <units>
+      <unit id="FNSASICM503A" title="Provide Tier 1 personal advice in life insurance"/>
+      <unit id="FNSASICX503A" title="Provide advice in Life Insurance"/>
+      <unit id="FNSCMP501A" title="Comply with financial services legislation"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSILD501A" title="Prepare a distribution plan"/>
+      <unit id="FNSILD502A" title="Resource a distribution plan"/>
+      <unit id="FNSILD503A" title="Establish services to provide advice"/>
+      <unit id="FNSILD504A" title="Implement and manage the distribution plan"/>
+      <unit id="FNSILF403A" title="Develop and maintain in-depth knowledge of products and services used by the Life Insurance sector"/>
+      <unit id="FNSILF502A" title="Underwrite complex medical risks"/>
+      <unit id="FNSILF503A" title="Underwrite complex non-medical risks"/>
+      <unit id="FNSILF504A" title="Manage complex life insurance claims"/>
+      <unit id="FNSILF505A" title="Manage ongoing disability claims"/>
+      <unit id="FNSILF506A" title="Manage group life insurance claims"/>
+      <unit id="FNSILF507A" title="Manage group life insurance policy administration"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSISV406A" title="Use specialist terminology in insurance claims"/>
+      <unit id="FNSISV407A" title="Use medical terminology in an insurance context"/>
+      <unit id="FNSISV502A" title="Review operational performance of the portfolio"/>
+      <unit id="FNSISV503A" title="Undertake post-loss risk management"/>
+      <unit id="FNSISV504A" title="Negotiate treaty reinsurance"/>
+      <unit id="FNSISV505A" title="Determine risk rating for investment and insurance products"/>
+      <unit id="FNSISV506A" title="Investigate claims"/>
+      <unit id="FNSISV509A" title="Analyse financial, medical and psychological claims assessments"/>
+      <unit id="FNSISV512A" title="Work with legal teams to resolve complex claims"/>
+      <unit id="FNSISV513A" title="Provide decisions on legal liability and indemnity of a claim"/>
+      <unit id="FNSISV514A" title="Review and update claim reserves in portfolio"/>
+      <unit id="FNSISV515A" title="Evaluate and report on status of claims portfolio"/>
+      <unit id="FNSISV517A" title="Review claims settlement policies and procedures"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50210" title="Diploma of Accounting">
+    <units>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="FNSACC501A" title="Provide financial and business performance information"/>
+      <unit id="FNSACC502B" title="Prepare legally compliant tax returns for individuals"/>
+      <unit id="FNSACC503A" title="Manage budgets and forecasts"/>
+      <unit id="FNSACC504A" title="Prepare financial reports for corporate entities"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="FNSACC507A" title="Provide management accounting information"/>
+      <unit id="FNSACC601B" title="Prepare and administer compliant tax returns for legal entities"/>
+      <unit id="FNSACC607A" title="Evaluate business performance"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC601A" title="Apply economic principles to work in the financial services industry"/>
+      <unit id="FNSINC602A" title="Interpret and use financial statistics and tools"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="FNSORG506A" title="Prepare financial forecasts and projections"/>
+      <unit id="FNSTPB501A" title="Apply legal principles in corporations and trusts law"/>
+      <unit id="FNSTPB502A" title="Apply legal principles in commercial and property law"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS50411" title="Diploma of Conveyancing">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBHRM506A" title="Manage recruitment selection and induction processes"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLEG415A" title="Apply the principles of contract law"/>
+      <unit id="BSBLEG416A" title="Apply the principles of the law of torts"/>
+      <unit id="BSBLEG417A" title="Apply the principles of evidence law"/>
+      <unit id="BSBLEG512A" title="Apply legal principles in property law matters"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT516C" title="Facilitate continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="BSBWOR502B" title="Ensure team effectiveness"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSCNV501A" title="Take instructions in relation to a transaction"/>
+      <unit id="FNSCNV502A" title="Read and interpret a legal document and provide advice"/>
+      <unit id="FNSCNV503A" title="Analyse and interpret legal requirements for a transaction"/>
+      <unit id="FNSCNV504A" title="Prepare legal documents"/>
+      <unit id="FNSCNV505A" title="Finalise the conveyancing transaction"/>
+      <unit id="FNSCNV506A" title="Establish and manage a trust account"/>
+      <unit id="FNSCNV601A" title="Identify and conduct searches"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51710" title="Diploma of Applied Anti-Money Laundering and Counter Terrorism Financing Management">
+    <units>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBRKG404A" title="Monitor and maintain records in an online environment"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC601A" title="Apply economic principles to work in the financial services industry"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+      <unit id="PSPFRAU502B" title="Anticipate and detect possible fraud activity"/>
+      <unit id="PSPFRAU504B" title="Conduct fraud risk assessments"/>
+      <unit id="PSPFRAU505B" title="Develop fraud control plans"/>
+      <unit id="PSPREG417A" title="Undertake compliance audits"/>
+      <unit id="PSPREG502A" title="Coordinate investigation processes"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS50311" title="Diploma of Finance and Mortgage Broking Management">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSFMB401A" title="Prepare loan application on behalf of finance or mortgage broking clients"/>
+      <unit id="FNSFMB402A" title="Provide finance and mortgage broking services"/>
+      <unit id="FNSFMB403A" title="Present broking options to client"/>
+      <unit id="FNSFMB501A" title="Settle applications and loan arrangements in the finance and mortgage broking industry"/>
+      <unit id="FNSFMB502A" title="Identify and develop complex broking options for client"/>
+      <unit id="FNSFMB503A" title="Present broking options to client with complex needs"/>
+      <unit id="FNSFMB504A" title="Implement complex loan structures"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSPRM602A" title="Improve the practice"/>
+      <unit id="FNSPRM603A" title="Grow the practice"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50711" title="Diploma of Superannuation">
+    <units>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBMGT403A" title="Implement continuous improvement"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG510A" title="Manage projects"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSASICU503A" title="Provide advice in Superannuation"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSORG503A" title="Develop a resource plan"/>
+      <unit id="FNSORG504A" title="Monitor and supervise work practices to meet financial services regulatory requirements"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="FNSSMS501A" title="Invest self-managed superannuation funds assets"/>
+      <unit id="FNSSMS502A" title="Manage changes to fund structure"/>
+      <unit id="FNSSMS503A" title="Manage administration activities of a superannuation fund"/>
+      <unit id="FNSSMS504A" title="Meet self-managed superannuation fund compliance requirements"/>
+      <unit id="FNSSMS505A" title="Support trustee in the selection and performance monitoring of outsourced services"/>
+      <unit id="FNSSUP407A" title="Assess complex superannuation benefit or insurance claims"/>
+      <unit id="FNSSUP501A" title="Supervise complaints procedures"/>
+      <unit id="FNSSUP502A" title="Supervise insurer liaison"/>
+      <unit id="FNSSUP503A" title="Develop client relationships with employers and establish superannuation systems"/>
+      <unit id="FNSSUP504A" title="Provide advanced customer service to superannuation clients"/>
+      <unit id="FNSSUP505A" title="Produce reports for superannuation"/>
+      <unit id="FNSSUP506A" title="Supervise and monitor operational guidelines in a superannuation organisation"/>
+      <unit id="FNSSUP507A" title="Review compliance with regulatory and contractual requirements"/>
+      <unit id="FNSSUP508A" title="Provide effective information to members"/>
+      <unit id="FNSSUP509A" title="Work within a defined benefit fund"/>
+      <unit id="TAADEL504B" title="Lead and coordinate training services"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51410" title="Diploma of Loss Adjusting">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSILA501A" title="Plan and implement loss investigation"/>
+      <unit id="FNSILA502A" title="Evaluate collected information"/>
+      <unit id="FNSILA503A" title="Report findings and provide guidance to involved parties"/>
+      <unit id="FNSILA504A" title="Negotiate and effect settlement"/>
+      <unit id="FNSILA505A" title="Provide ancillary services"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS51011" title="Diploma of Financial Markets">
+    <units>
+      <unit id="BSBCOM406A" title="Conduct work within a compliance framework"/>
+      <unit id="FNSASICL503A" title="Provide advice in the regulated emissions market"/>
+      <unit id="FNSASICS503A" title="Provide advice in Foreign Exchange"/>
+      <unit id="FNSASICT503A" title="Provide advice in Managed Investments"/>
+      <unit id="FNSASICV503A" title="Provide advice in Derivatives"/>
+      <unit id="FNSASICW503A" title="Provide advice in Securities"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFMK401A" title="Reconcile financial transactions"/>
+      <unit id="FNSFMK501A" title="Analyse financial markets and information"/>
+      <unit id="FNSFMK502A" title="Analyse financial market products for client"/>
+      <unit id="FNSFMK503A" title="Advise clients on financial risk"/>
+      <unit id="FNSFMK504A" title="Complete settlement and confirmation processes"/>
+      <unit id="FNSFMK506A" title="Detect errors and fraud when processing financial transactions"/>
+      <unit id="FNSFMK507A" title="Analyse risk mitigation in the operations process"/>
+      <unit id="FNSFMK508A" title="Monitor and process collateral"/>
+      <unit id="FNSFMK509A" title="Apply knowledge of transaction documentation and processing"/>
+      <unit id="FNSFMK510A" title="Prepare trading strategies for clients"/>
+      <unit id="FNSFMK511A" title="Apply limits when trading"/>
+      <unit id="FNSFMK512A" title="Apply knowledge of emissions markets"/>
+      <unit id="FNSFMK601A" title="Price financial transactions"/>
+      <unit id="FNSFMK602A" title="Hedge financial products"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIAD502A" title="Provide appropriate and timely information and advice to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50611" title="Diploma of Financial Planning">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBITU402A" title="Develop and use complex spreadsheets"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSASIC301C" title="Establish client relationship and analyse needs"/>
+      <unit id="FNSASIC302C" title="Develop, present and negotiate client solutions"/>
+      <unit id="FNSASICQ503A" title="Provide advice in First Home Saver Market Linked Accounts"/>
+      <unit id="FNSASICU503A" title="Provide advice in Superannuation"/>
+      <unit id="FNSASICX503A" title="Provide advice in Life Insurance"/>
+      <unit id="FNSASICY503A" title="Provide advice in Insurance Broking"/>
+      <unit id="FNSASICZ503A" title="Provide advice in Financial Planning"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSCUS502A" title="Monitor client requirements"/>
+      <unit id="FNSCUS503A" title="Review business performance"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFPL501A" title="Comply with financial planning practice ethical and operational guidelines and regulations"/>
+      <unit id="FNSFPL502A" title="Conduct financial planning analysis and research"/>
+      <unit id="FNSFPL503A" title="Develop and prepare financial plan"/>
+      <unit id="FNSFPL504A" title="Implement financial plan"/>
+      <unit id="FNSFPL505A" title="Review financial plans and provide ongoing service"/>
+      <unit id="FNSFPL506A" title="Determine client requirements and expectations"/>
+      <unit id="FNSFPL507A" title="Provide financial planning advice"/>
+      <unit id="FNSFPL508A" title="Conduct complex financial planning research"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIBK403A" title="Implement an agreed insurance program for a broking client"/>
+      <unit id="FNSIBK506A" title="Monitor broking clients"/>
+      <unit id="FNSIBK507A" title="Review broking client service performance"/>
+      <unit id="FNSIBK508A" title="Implement changes to broking client's insurance program"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50511" title="Diploma of Personal Trustees">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBLED501A" title="Develop a workplace learning environment"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMKG501B" title="Identify and evaluate marketing opportunities"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSCUS502A" title="Monitor client requirements"/>
+      <unit id="FNSFPL506A" title="Determine client requirements and expectations"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSPRT501A" title="Advise clients on trust structures"/>
+      <unit id="FNSPRT502A" title="Advise clients in estate planning"/>
+      <unit id="FNSPRT503A" title="Allocate, assess and supervise work within the personal trustee sector"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS51210" title="Diploma of Insurance Broking">
+    <units>
+      <unit id="BSBCCO405A" title="Survey stakeholders to gather and record information"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSASIC305A" title="Provide Tier 2 personal advice in general insurance"/>
+      <unit id="FNSASICM503A" title="Provide Tier 1 personal advice in life insurance"/>
+      <unit id="FNSASICX503A" title="Provide advice in Life Insurance"/>
+      <unit id="FNSASICY503A" title="Provide advice in Insurance Broking"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIBK403A" title="Implement an agreed insurance program for a broking client"/>
+      <unit id="FNSIBK405A" title="Meet industry and legislative guidelines and organisational procedures relating to insurance broking"/>
+      <unit id="FNSIBK501B" title="Provide general advice in general insurance broking products and services"/>
+      <unit id="FNSIBK502B" title="Provide general advice in life insurance broking products and services"/>
+      <unit id="FNSIBK503B" title="Provide personal advice in general insurance broking products and services"/>
+      <unit id="FNSIBK504B" title="Provide personal advice in life insurance broking products and services"/>
+      <unit id="FNSIBK505A" title="Undertake risk analysis for an insurance broking client"/>
+      <unit id="FNSIBK506A" title="Monitor broking clients"/>
+      <unit id="FNSIBK507A" title="Review broking client service performance"/>
+      <unit id="FNSIBK508A" title="Implement changes to broking client's insurance program"/>
+      <unit id="FNSIBK509A" title="Identify and advise on significant risk changes to broking client insurances"/>
+      <unit id="FNSIBK510A" title="Assess and negotiate complex risk portfolio for broking client at renewal"/>
+      <unit id="FNSIBK511A" title="Review incidence of loss for broking clients"/>
+      <unit id="FNSIBK512A" title="Negotiate complex claims settlement for insurance broking client"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS51611" title="Diploma of Securitisation">
+    <units>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSFLT502A" title="Facilitate customer awareness of the Australian financial system and markets"/>
+      <unit id="FNSFMK501A" title="Analyse financial markets and information"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSFMK601A" title="Price financial transactions"/>
+      <unit id="FNSFMK602A" title="Hedge financial products"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSINC601A" title="Apply economic principles to work in the financial services industry"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSSAM502A" title="Assess market needs"/>
+      <unit id="FNSSAM603A" title="Tailor financial products to meet customer needs"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS51110" title="Diploma of General Insurance">
+    <units>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBRES401A" title="Analyse and present research information"/>
+      <unit id="BSBSLS501A" title="Develop a sales plan"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSASICN503A" title="Provide Tier 1 personal advice in general insurance"/>
+      <unit id="FNSASICO503A" title="Provide Tier 1 general advice in general insurance"/>
+      <unit id="FNSCUS402A" title="Resolve disputes"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSCUS502A" title="Monitor client requirements"/>
+      <unit id="FNSCUS503A" title="Review business performance"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC402A" title="Develop and maintain in-depth knowledge of products and services used by an organisation or sector"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSISV501A" title="Issue contracts of insurance covering non-routine and complex situations"/>
+      <unit id="FNSISV502A" title="Review operational performance of the portfolio"/>
+      <unit id="FNSISV503A" title="Undertake post-loss risk management"/>
+      <unit id="FNSISV504A" title="Negotiate treaty reinsurance"/>
+      <unit id="FNSISV505A" title="Determine risk rating for investment and insurance products"/>
+      <unit id="FNSISV506A" title="Investigate claims"/>
+      <unit id="FNSISV507A" title="Implement claim recovery procedures"/>
+      <unit id="FNSISV508A" title="Review and advise on claims costs, policies and procedures"/>
+      <unit id="FNSISV510A" title="Manage non-routine and complex claims"/>
+      <unit id="FNSISV511A" title="Settle non-routine and complex claims"/>
+      <unit id="FNSISV512A" title="Work with legal teams to resolve complex claims"/>
+      <unit id="FNSISV513A" title="Provide decisions on legal liability and indemnity of a claim"/>
+      <unit id="FNSISV514A" title="Review and update claim reserves in portfolio"/>
+      <unit id="FNSISV515A" title="Evaluate and report on status of claims portfolio"/>
+      <unit id="FNSISV516A" title="Allocate authorities and guidelines for distribution"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="FNSSAM501A" title="Apply advanced selling techniques to selling of financial products and services"/>
+      <unit id="FNSSAM502A" title="Assess market needs"/>
+      <unit id="FNSSAM503A" title="Monitor market opportunities"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS50110" title="Diploma of Personal Injury Management">
+    <units>
+      <unit id="BSBCMM401A" title="Make a presentation"/>
+      <unit id="BSBGOV403A" title="Analyse financial reports and budgets"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSCUS401A" title="Participate in negotiations"/>
+      <unit id="FNSCUS503A" title="Review business performance"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSISV501A" title="Issue contracts of insurance covering non-routine and complex situations"/>
+      <unit id="FNSISV506A" title="Investigate claims"/>
+      <unit id="FNSISV508A" title="Review and advise on claims costs, policies and procedures"/>
+      <unit id="FNSISV509A" title="Analyse financial, medical and psychological claims assessments"/>
+      <unit id="FNSORG504A" title="Monitor and supervise work practices to meet financial services regulatory requirements"/>
+      <unit id="FNSPIM406A" title="Develop and maintain knowledge of personal injury management insurance"/>
+      <unit id="FNSPIM411A" title="Manage personal injury case loads"/>
+      <unit id="FNSPIM501A" title="Develop a return to work and health strategy"/>
+      <unit id="FNSPIM502A" title="Facilitate workplace assessment with stakeholders for personal injury cases"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="MSAPMSUP390A" title="Use structured problem solving tools"/>
+      <unit id="PSPGOV516A" title="Develop and use emotional intelligence"/>
+      <unit id="TAEDEL402A" title="Plan, organise and facilitate learning in the workplace"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS50811" title="Diploma of Integrated Risk Management">
+    <units>
+      <unit id="BSBCOM401B" title="Organise and monitor the operation of compliance management system"/>
+      <unit id="BSBCOM402B" title="Implement processes for the management of a breach in compliance requirements"/>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBINM401A" title="IMPLEMENT WORKPLACE INFORMATION SYSTEM"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBOHS404B" title="Contribute to the implementation of strategies to control OHS risk"/>
+      <unit id="BSBOHS502B" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBOHS506B" title="Monitor and facilitate the management of hazards associated with plant"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS601B" title="Develop a systematic approach to managing OHS"/>
+      <unit id="BSBOHS602B" title="Develop OHS information and data analysis and reporting and recording processes"/>
+      <unit id="BSBOHS603B" title="Analyse and evaluate OHS risk"/>
+      <unit id="BSBOHS604B" title="Apply ergonomic principles to control OHS risk"/>
+      <unit id="BSBOHS605B" title="Apply occupational hygiene principles to control OHS risk"/>
+      <unit id="BSBOHS606B" title="Develop and implement crisis management processes"/>
+      <unit id="BSBOHS607B" title="Advise on application of safe design principles to control OHS risk"/>
+      <unit id="BSBOHS608B" title="Conduct an OHS audit"/>
+      <unit id="BSBOHS609B" title="Evaluate an organisation's OHS performance"/>
+      <unit id="BSBPMG404A" title="Apply quality management techniques"/>
+      <unit id="BSBPMG407A" title="Apply risk management techniques"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBRSK401A" title="Identify risk and apply risk management processes"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="FNSACC604A" title="Monitor corporate governance activities"/>
+      <unit id="FNSACC606A" title="Conduct internal audit"/>
+      <unit id="FNSACC609A" title="Evaluate financial risk"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG502A" title="Develop and monitor policy and procedures"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="FNSORG508A" title="Analyse and comment on management reports"/>
+      <unit id="FNSORG601A" title="Negotiate to achieve goals and manage disputes"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSORG603A" title="Establish and prepare operational guidelines in a financial services organisation"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60711" title="Advanced Diploma of Financial Licensing Management">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="FNSASICS503A" title="Provide advice in Foreign Exchange"/>
+      <unit id="FNSASICV503A" title="Provide advice in Derivatives"/>
+      <unit id="FNSASICW503A" title="Provide advice in Securities"/>
+      <unit id="FNSCUS504A" title="Manage premium customer relationships"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFMK502A" title="Analyse financial market products for client"/>
+      <unit id="FNSFMK503A" title="Advise clients on financial risk"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSFMK510A" title="Prepare trading strategies for clients"/>
+      <unit id="FNSFMK601A" title="Price financial transactions"/>
+      <unit id="FNSFMK602A" title="Hedge financial products"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIAD502A" title="Provide appropriate and timely information and advice to clients"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSPRM606A" title="Establish or review human resources, administration and information support"/>
+      <unit id="FNSRSK501A" title="Undertake risk identification"/>
+      <unit id="FNSRSK502A" title="Assess risks"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60311" title="Advanced Diploma of Conveyancing">
+    <units>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBFIM501A" title="Manage budgets and financial plans"/>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN601A" title="Manage organisational change"/>
+      <unit id="BSBITS401B" title="Maintain business technology"/>
+      <unit id="BSBLEG413A" title="Identify and apply the legal framework"/>
+      <unit id="BSBLEG415A" title="Apply the principles of contract law"/>
+      <unit id="BSBLEG416A" title="Apply the principles of the law of torts"/>
+      <unit id="BSBLEG417A" title="Apply the principles of evidence law"/>
+      <unit id="BSBLEG512A" title="Apply legal principles in property law matters"/>
+      <unit id="BSBLEG513A" title="Apply legal principles in corporation law matters"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBOHS303B" title="Contribute to OHS hazard identification and risk assessment"/>
+      <unit id="BSBRSK501B" title="Manage risk"/>
+      <unit id="BSBSMB401A" title="Establish legal and risk management requirements of small business"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWOR401A" title="Establish effective workplace relationships"/>
+      <unit id="BSBWOR501B" title="Manage personal work priorities and professional development"/>
+      <unit id="FNSACC403B" title="Make decisions in a legal context"/>
+      <unit id="FNSCNV501A" title="Take instructions in relation to a transaction"/>
+      <unit id="FNSCNV502A" title="Read and interpret a legal document and provide advice"/>
+      <unit id="FNSCNV503A" title="Analyse and interpret legal requirements for a transaction"/>
+      <unit id="FNSCNV504A" title="Prepare legal documents"/>
+      <unit id="FNSCNV505A" title="Finalise the conveyancing transaction"/>
+      <unit id="FNSCNV506A" title="Establish and manage a trust account"/>
+      <unit id="FNSCNV601A" title="Identify and conduct searches"/>
+      <unit id="FNSCUS501A" title="Develop and nurture relationships with clients, other professionals and third party referrers"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG601A" title="Negotiate to achieve goals and manage disputes"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSPRM602A" title="Improve the practice"/>
+      <unit id="FNSPRM603A" title="Grow the practice"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60210" title="Advanced Diploma of Accounting">
+    <units>
+      <unit id="FNSACC601B" title="Prepare and administer compliant tax returns for legal entities"/>
+      <unit id="FNSACC602A" title="Audit and report on financial systems and records"/>
+      <unit id="FNSACC603A" title="Implement tax plans and evaluate tax compliance"/>
+      <unit id="FNSACC604A" title="Monitor corporate governance activities"/>
+      <unit id="FNSACC605A" title="Implement organisational improvement programs"/>
+      <unit id="FNSACC606A" title="Conduct internal audit"/>
+      <unit id="FNSACC608A" title="Evaluate organisation's financial performance"/>
+      <unit id="FNSACC609A" title="Evaluate financial risk"/>
+      <unit id="FNSACC610A" title="Develop and implement financial strategies"/>
+      <unit id="FNSACC611A" title="Implement an insolvency program"/>
+      <unit id="FNSACC612A" title="Implement reconstruction plan"/>
+      <unit id="FNSACC613A" title="Prepare and analyse management accounting information"/>
+      <unit id="FNSACC614A" title="Prepare complex corporate financial reports"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSINC601A" title="Apply economic principles to work in the financial services industry"/>
+      <unit id="FNSINC602A" title="Interpret and use financial statistics and tools"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+      <unit id="FNSTPB501A" title="Apply legal principles in corporations and trusts law"/>
+      <unit id="FNSTPB502A" title="Apply legal principles in commercial and property law"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS60410" title="Advanced Diploma of Financial Planning">
+    <units>
+      <unit id="BSBINM601A" title="Manage knowledge and information"/>
+      <unit id="BSBINN502A" title="Build and sustain an innovative work environment"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBSMB405B" title="Monitor and manage small business operations"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSASICQ503A" title="Provide advice in First Home Saver Market Linked Accounts"/>
+      <unit id="FNSASICR503A" title="Provide advice in Margin Lending"/>
+      <unit id="FNSASICS503A" title="Provide advice in Foreign Exchange"/>
+      <unit id="FNSASICT503A" title="Provide advice in Managed Investments"/>
+      <unit id="FNSASICU503A" title="Provide advice in Superannuation"/>
+      <unit id="FNSASICV503A" title="Provide advice in Derivatives"/>
+      <unit id="FNSASICW503A" title="Provide advice in Securities"/>
+      <unit id="FNSASICX503A" title="Provide advice in Life Insurance"/>
+      <unit id="FNSASICY503A" title="Provide advice in Insurance Broking"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSFMK502A" title="Analyse financial market products for client"/>
+      <unit id="FNSFMK503A" title="Advise clients on financial risk"/>
+      <unit id="FNSFPL508A" title="Conduct complex financial planning research"/>
+      <unit id="FNSFPL601A" title="Provide technical and professional guidance"/>
+      <unit id="FNSFPL602A" title="Determine client requirements and expectations for clients with complex needs"/>
+      <unit id="FNSFPL603A" title="Provide comprehensive monitoring and ongoing service"/>
+      <unit id="FNSFPL604A" title="Develop complex and innovative financial planning strategies"/>
+      <unit id="FNSFPL605A" title="Present and negotiate complex and innovative financial plans"/>
+      <unit id="FNSFPL606A" title="Implement complex and innovative financial plans"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSIBK403A" title="Implement an agreed insurance program for a broking client"/>
+      <unit id="FNSIBK506A" title="Monitor broking clients"/>
+      <unit id="FNSIBK507A" title="Review broking client service performance"/>
+      <unit id="FNSIBK508A" title="Implement changes to broking client's insurance program"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSPRM602A" title="Improve the practice"/>
+      <unit id="FNSPRM603A" title="Grow the practice"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60513" title="Advanced Diploma of Superannuation">
+    <units>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBINN501A" title="Establish systems that support innovation"/>
+      <unit id="BSBITB501A" title="Establish and maintain a workgroup computer network"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSACC505A" title="Establish and maintain accounting information systems"/>
+      <unit id="FNSASICU503A" title="Provide advice in Superannuation"/>
+      <unit id="FNSCUS505A" title="Determine client requirements and expectations"/>
+      <unit id="FNSCUS506A" title="Record and implement client instructions"/>
+      <unit id="FNSCUS601A" title="Establish, manage and monitor key relationships"/>
+      <unit id="FNSIAD501A" title="Provide appropriate services, advice and products to clients"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSINC501A" title="Conduct product research to support recommendations"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+      <unit id="FNSORG504A" title="Monitor and supervise work practices to meet financial services regulatory requirements"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSORG603A" title="Establish and prepare operational guidelines in a financial services organisation"/>
+      <unit id="FNSORG604A" title="Establish outsourced services and monitor performance"/>
+      <unit id="FNSPRM605A" title="Establish or review marketing, client services and supplier relationships"/>
+      <unit id="FNSPRM606A" title="Establish or review human resources, administration and information support"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSSAM602A" title="Identify and evaluate marketing opportunities in the financial services industry"/>
+      <unit id="FNSSAM603A" title="Tailor financial products to meet customer needs"/>
+      <unit id="FNSSAM604A" title="Establish agreements with intermediaries for product distribution"/>
+      <unit id="FNSSMS501A" title="Invest self-managed superannuation funds assets"/>
+      <unit id="FNSSMS505A" title="Support trustee in the selection and performance monitoring of outsourced services"/>
+      <unit id="FNSSMS601A" title="Provide advice in self-managed superannuation funds"/>
+      <unit id="FNSSMS602A" title="Apply taxation requirements when advising in self-managed superannuation funds"/>
+      <unit id="FNSSMS603A" title="Apply legislative and operational requirements to advising in self-managed superannuation funds"/>
+      <unit id="FNSSUP501A" title="Supervise complaints procedures"/>
+      <unit id="FNSSUP504A" title="Provide advanced customer service to superannuation clients"/>
+      <unit id="FNSSUP601A" title="Liaise with and support trustees"/>
+      <unit id="FNSSUP602A" title="Manage official complaints procedures and proceedings"/>
+      <unit id="FNSSUP603A" title="Integrate investment strategy with fund operations"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60110" title="Advanced Diploma of Insurance Broking">
+    <units>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSIBK601A" title="Develop guidelines for broking services"/>
+      <unit id="FNSIBK602A" title="Implement broking service support systems"/>
+      <unit id="FNSIBK603A" title="Manage contractual obligations for insurance and insurance broking products"/>
+      <unit id="FNSIBK604A" title="Develop and manage marketing plans for an insurance broking business"/>
+      <unit id="FNSIBK605A" title="Manage insurance brokerage service performance"/>
+      <unit id="FNSIBK606A" title="Manage compliance requirements for an insurance broking business"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSPRM602A" title="Improve the practice"/>
+      <unit id="FNSSAM602A" title="Identify and evaluate marketing opportunities in the financial services industry"/>
+    </units>
+    <units/>
+  </qualification>
+  <qualification id="FNS60610" title="Advanced Diploma of Banking Services Management">
+    <units>
+      <unit id="BSBCCO504A" title="Integrate customer contact operations in the organisation"/>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBCUS501C" title="Manage quality customer service"/>
+      <unit id="BSBINN601A" title="Manage organisational change"/>
+      <unit id="BSBMGT502B" title="Manage people performance"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT608C" title="Manage innovation and continuous improvement"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBREL701A" title="Develop and cultivate collaborative partnerships and relationships"/>
+      <unit id="BSBSMB409A" title="Build and maintain relationships with small business stakeholders"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="BSBWHS303A" title="Participate in WHS hazard identification, risk assessment and risk control"/>
+      <unit id="FNSINC401A" title="Apply principles of professional practice to work in the financial services industry"/>
+      <unit id="FNSORG501A" title="Develop and manage a budget"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSPRM605A" title="Establish or review marketing, client services and supplier relationships"/>
+      <unit id="FNSPRM606A" title="Establish or review human resources, administration and information support"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSSAM601A" title="Monitor performance in sales of financial products or services"/>
+      <unit id="FNSSAM602A" title="Identify and evaluate marketing opportunities in the financial services industry"/>
+      <unit id="FNSSAM603A" title="Tailor financial products to meet customer needs"/>
+      <unit id="FNSSAM604A" title="Establish agreements with intermediaries for product distribution"/>
+    </units>
+    <units/>
+    <units/>
+  </qualification>
+  <qualification id="FNS60811" title="Advanced Diploma of Integrated Risk Management">
+    <units>
+      <unit id="BSBCOM501B" title="Identify and interpret compliance requirements"/>
+      <unit id="BSBCOM503B" title="Develop processes for the management of breaches in compliance requirements"/>
+      <unit id="BSBCOM602B" title="Develop and create compliance requirements"/>
+      <unit id="BSBCOM603C" title="Plan and establish compliance management systems"/>
+      <unit id="BSBINM501A" title="Manage an information or knowledge management system"/>
+      <unit id="BSBMGT515A" title="Manage operational plan"/>
+      <unit id="BSBMGT605B" title="Provide leadership across the organisation"/>
+      <unit id="BSBMGT615A" title="Contribute to organisation development"/>
+      <unit id="BSBMGT616A" title="Develop and implement strategic plans"/>
+      <unit id="BSBMGT617A" title="Develop and implement a business plan"/>
+      <unit id="BSBOHS502B" title="Participate in the management of the OHS information and data systems"/>
+      <unit id="BSBOHS504B" title="Apply principles of OHS risk management"/>
+      <unit id="BSBOHS506B" title="Monitor and facilitate the management of hazards associated with plant"/>
+      <unit id="BSBOHS507B" title="Facilitate the application of principles of occupational health to control OHS risk"/>
+      <unit id="BSBOHS601B" title="Develop a systematic approach to managing OHS"/>
+      <unit id="BSBOHS602B" title="Develop OHS information and data analysis and reporting and recording processes"/>
+      <unit id="BSBOHS603B" title="Analyse and evaluate OHS risk"/>
+      <unit id="BSBOHS604B" title="Apply ergonomic principles to control OHS risk"/>
+      <unit id="BSBOHS605B" title="Apply occupational hygiene principles to control OHS risk"/>
+      <unit id="BSBOHS606B" title="Develop and implement crisis management processes"/>
+      <unit id="BSBOHS607B" title="Advise on application of safe design principles to control OHS risk"/>
+      <unit id="BSBOHS608B" title="Conduct an OHS audit"/>
+      <unit id="BSBOHS609B" title="Evaluate an organisation's OHS performance"/>
+      <unit id="BSBPMG508A" title="Manage project risk"/>
+      <unit id="BSBSUS501A" title="Develop workplace policy and procedures for sustainability"/>
+      <unit id="FNSACC506A" title="Implement and maintain internal control procedures"/>
+      <unit id="FNSACC604A" title="Monitor corporate governance activities"/>
+      <unit id="FNSACC606A" title="Conduct internal audit"/>
+      <unit id="FNSACC609A" title="Evaluate financial risk"/>
+      <unit id="FNSFMK505A" title="Comply with financial services legislation and industry codes of practice"/>
+      <unit id="FNSORG505A" title="Prepare financial reports to meet statutory requirements"/>
+      <unit id="FNSORG508A" title="Analyse and comment on management reports"/>
+      <unit id="FNSORG601A" title="Negotiate to achieve goals and manage disputes"/>
+      <unit id="FNSORG602A" title="Develop and manage financial systems"/>
+      <unit id="FNSORG603A" title="Establish and prepare operational guidelines in a financial services organisation"/>
+      <unit id="FNSPRM601A" title="Establish, supervise and monitor practice systems to conform with legislation and regulations"/>
+      <unit id="FNSRSK601A" title="Develop and implement risk mitigation plan"/>
+      <unit id="FNSRSK602A" title="Determine and manage risk exposure strategies"/>
+    </units>
+    <units/>
+    <units/>
+    <units/>
+  </qualification>
+</qualifications>

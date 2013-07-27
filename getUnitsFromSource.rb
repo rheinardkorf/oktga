@@ -17,7 +17,7 @@
 #             http://training.gov.au/Home/Enquiry
 #
 # Author::    Rheinard Korf  (mailto:rheinard@thekorfs.com)
-# Copyright:: Copyright (c) 2012 Rheinard Korf
+# Copyright:: Copyright (c) 2013 Rheinard Korf
 # License::   Distributed under the MIT License. See 'LICENSE'
 #
 

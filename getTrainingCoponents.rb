@@ -13,7 +13,7 @@
 # the structure.
 #
 # Author::    Rheinard Korf  (mailto:rheinard@thekorfs.com)
-# Copyright:: Copyright (c) 2013 Rheinard Korf
+# Copyright:: Copyright © 2013 Rheinard Korf
 # License::   Distributed under the MIT License. See 'LICENSE'
 #
 

@@ -1,0 +1,54 @@
+# This AppleScript should only be used for automation workflows
+# on the Mac. Adobe Acrobat Professional comes with actions/
+# batch processing available from the **Tools** menu/panel.
+#
+# Example Use Case:
+# Using Hazel on the Mac to watch for a folder where PDFs for
+# Units of Competency will be saved.
+# When a new PDF arrives immediately run the AppleScript to convert
+# it to XML.
+#
+# The **oktga** parsing scripts only work with XML files generated
+# using Adobe Reader or Adobe Acrobat Pro.
+#
+# Usage::     osascript convert2xml.scpt [theunit.pdf]
+#
+# Note::      The script MUST be in the same folder as the PDF.
+#
+# Author::    Rheinard Korf  (mailto:rheinard@thekorfs.com)
+# Copyright:: Copyright (c) 2013 Rheinard Korf
+# License::   Distributed under the MIT License. See 'LICENSE'
+#
+
+on run argv
+	if (count argv) is 0 then
+		log "Please supply the file to convert."
+	else
+		set myPath to (path to me)
+		tell application "Finder" to set myFolder to folder of myPath
+		
+		set filename to item 1 of argv
+		set theFile to (myFolder as text) & filename
+		set toFile to (myFolder as text) & filename
+		set toFile to replace_chars(toFile, ".pdf", ".xml")
+		
+		tell application "Adobe Acrobat Pro"
+			activate
+			open theFile
+			save front document to file toFile using conversion "com.adobe.acrobat.xml-1-00"
+			close front document
+		end tell
+		
+	end if
+end run
+
+# Define a string replace method
+# Found here: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html
+on replace_chars(this_text, search_string, replacement_string)
+	set AppleScript's text item delimiters to the search_string
+	set the item_list to every text item of this_text
+	set AppleScript's text item delimiters to the replacement_string
+	set this_text to the item_list as string
+	set AppleScript's text item delimiters to ""
+	return this_text
+end replace_chars
